@@ -1,8 +1,9 @@
 ---
 import { getCollection } from "astro:content";
+import { ACTIVE_COLLECTION } from "../active-collection";
 import { PUBLIC_NICHE_LABEL } from "../site-config";
 
-const posts = await getCollection("blog");
+const posts = await getCollection(ACTIVE_COLLECTION);
 const nicheLower = PUBLIC_NICHE_LABEL.toLowerCase();
 function entryPath(entry: { id?: string; slug?: string }) {
   const raw = entry.slug ?? entry.id ?? "";
