@@ -19,5 +19,10 @@ const plumbing = defineCollection({
   schema: collectionSchema,
 });
 
+const pestcontrol = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/pestcontrol" }),
+  schema: collectionSchema,
+});
+
 /** 新垂直：在此增加 `defineCollection` + 目录 `src/content/<niche>/`，并改 `active-collection.ts` 的 ALLOWED */
-export const collections = { roofing, plumbing };
+export const collections = { roofing, plumbing, pestcontrol };
