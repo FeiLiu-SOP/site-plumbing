@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import { PUBLIC_NICHE_LABEL } from "../site-config";
 
@@ -81,9 +82,7 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
           </li>
         ))}
       </ul>
-      <p style="font-size: 10px; color: #ccc; margin-top: 2rem">
-        Verification for Lead Smart: Fei Liu - April 4, 2026
-      </p>
     </main>
+    <Footer />
   </body>
 </html>

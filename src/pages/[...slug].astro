@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
+import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   PUBLIC_NICHE_LABEL,
@@ -101,5 +102,6 @@ const { Content } = await render(post);
         <Content />
       </article>
     </main>
+    <Footer />
   </body>
 </html>
