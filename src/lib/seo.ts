@@ -1,5 +1,6 @@
 import type { ActiveCollectionKey } from "../active-collection";
-import { siteConfig } from "../site-config";
+import type { ParsedLocation } from "./location";
+import { normalizePhoneE164, siteConfig } from "../site-config";
 
 export type FaqItem = {
   question: string;
@@ -99,9 +100,28 @@ export function buildLocalBusinessSchema(params: {
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;
+  location?: ParsedLocation | null;
 }) {
-  const { collection, pageTitle, pageDescription, pageUrl } = params;
+  const { collection, pageTitle, pageDescription, pageUrl, location } = params;
   const serviceType = siteConfig.nicheLabel;
+  const telephone = normalizePhoneE164(siteConfig.phoneE164);
+
+  const areaServed = location
+    ? {
+        "@type": "Place",
+        name: `${location.city}, ${location.state}`,
+        address: {
+          "@type": "PostalAddress",
+          addressLocality: location.city,
+          addressRegion: location.state,
+          postalCode: location.zip,
+          addressCountry: "US",
+        },
+      }
+    : {
+        "@type": "Country",
+        name: "US",
+      };
 
   return {
     "@context": "https://schema.org",
@@ -109,11 +129,8 @@ export function buildLocalBusinessSchema(params: {
     name: `${serviceType} Service`,
     description: pageDescription,
     url: pageUrl,
-    telephone: siteConfig.phoneE164,
-    areaServed: {
-      "@type": "Country",
-      name: "US",
-    },
+    telephone,
+    areaServed,
     serviceType,
     slogan: pageTitle,
     knowsAbout: [collection, serviceType, "Emergency service"],

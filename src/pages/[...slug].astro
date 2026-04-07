@@ -8,6 +8,7 @@ import {
   buildLocalBusinessSchema,
   getFaqByCollection,
 } from "../lib/seo";
+import { resolvePageLocation } from "../lib/location";
 
 export async function getStaticPaths() {
   const posts = await getCollection(ACTIVE_COLLECTION);
@@ -19,16 +20,27 @@ export async function getStaticPaths() {
 
 const post = Astro.props;
 const { Content } = await render(post);
+const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
 const pagePath = Astro.url.pathname.replace(/\/+$/, "");
 const canonicalPath = pagePath === "" ? "/" : `${pagePath}/`;
 const pageUrl = new URL(canonicalPath, siteConfig.siteUrl).toString();
+const pageLocation = resolvePageLocation({
+  collection: ACTIVE_COLLECTION,
+  title: post.data.title,
+  slug: entrySlug,
+  fmCity: post.data.city,
+  fmState: post.data.state,
+  fmZip: post.data.zipCode,
+});
 const faqItems = getFaqByCollection(ACTIVE_COLLECTION);
 const localBusinessSchema = buildLocalBusinessSchema({
   collection: ACTIVE_COLLECTION,
   pageTitle: post.data.title,
   pageDescription: post.data.description,
   pageUrl,
+  location: pageLocation,
 });
+const telHref = `tel:${siteConfig.phoneE164.replace(/^\+/, "")}`;
 const faqSchema = buildFaqSchema(faqItems);
 ---
 
@@ -39,6 +51,9 @@ const faqSchema = buildFaqSchema(faqItems);
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{post.data.title}</title>
     <meta name="description" content={post.data.description} />
+    {post.data.templateVersion ? (
+      <meta name="template-version" content={post.data.templateVersion} />
+    ) : null}
     <link rel="canonical" href={pageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
@@ -133,7 +148,7 @@ const faqSchema = buildFaqSchema(faqItems);
             response.
           </p>
           <p class="service-meta">Fast dispatch, transparent pricing, and free inspection availability.</p>
-          <a class="phone-btn" href={`tel:${siteConfig.phoneE164}`}>
+          <a class="phone-btn" href={telHref}>
             Call Now: {siteConfig.phoneDisplay}
           </a>
         </div>

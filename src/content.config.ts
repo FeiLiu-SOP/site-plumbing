@@ -7,6 +7,11 @@ const collectionSchema = z.object({
   pubDate: z.coerce.date().optional(),
   updatedDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),
+  /** 可选：若填写则优先用于 LocalBusiness areaServed；不填则从标题或文件名解析 */
+  city: z.string().optional(),
+  state: z.string().optional(),
+  zipCode: z.string().optional(),
+  templateVersion: z.string().optional(),
 });
 
 const roofing = defineCollection({
