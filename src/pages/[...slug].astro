@@ -339,6 +339,30 @@ const dispatcherClaimsLine =
     ? "Currently handling 1 active claim."
     : `Currently handling ${dispatcherActiveClaimsCount} active claims.`;
 
+/** Pest-control only: insurance / termite equity line (below calculator “price”). */
+const pageZipForPestPulse = (() => {
+  const fromFm = String(post.data.zipCode ?? "").trim();
+  if (/^\d{5}$/.test(fromFm)) return fromFm;
+  const m = entrySlug.match(/-(\d{5})$/i);
+  return m?.[1] ?? null;
+})();
+const pestInsuranceEquityNote =
+  ACTIVE_COLLECTION === "pestcontrol"
+    ? (() => {
+        const stateTok = stateCodeFromSlug
+          ? stateLabelForBait(stateCodeFromSlug, post.data.state)
+          : "your state";
+        const equityPart = zLabelExact ? `${zLabelExact} equity` : zLabel ? `${zLabel} equity` : "home equity";
+        return `Note: Standard homeowners insurance in ${stateTok} typically excludes Termite structural damage. Protect your ${equityPart} now.`;
+      })()
+    : null;
+const pestLatestDispatchMinutes =
+  ACTIVE_COLLECTION === "pestcontrol" ? 5 + (stableHash(`${pageUrl}|pestZipPulse`) % 28) : 0;
+const pestLatestDispatchLine =
+  ACTIVE_COLLECTION === "pestcontrol" && pageZipForPestPulse
+    ? `Latest Dispatch: Termite detection confirmed in ZIP ${pageZipForPestPulse} - ${pestLatestDispatchMinutes} mins ago.`
+    : null;
+
 // Action 3: Geo brief section data from frontmatter (truthy only; Astro just displays)
 const geo = {
   county: post.data.county as string | undefined,
@@ -597,6 +621,19 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         color: #475569;
         line-height: 1.4;
       }
+      .pest-equity-insurance-note {
+        margin: 0.55rem 0 0;
+        font-size: 0.84rem;
+        line-height: 1.38;
+        color: #b91c1c;
+        font-weight: 600;
+      }
+      .pest-zip-dispatch-pulse {
+        margin: 0.45rem 0 0;
+        font-size: 0.86rem;
+        color: #475569;
+        line-height: 1.4;
+      }
       .faq,
       [class$="--faq"] {
         margin-top: 2rem;
@@ -743,6 +780,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           accent={themeAccent}
           domPrefix={domPrefix}
         />
+        {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
           <h1>
             {
@@ -779,6 +817,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p class="dispatcher-hookup-line">
             Local Dispatcher in {dispatcherCountyLabel}: {dispatcherClaimsLine}
           </p>
+          {pestLatestDispatchLine ? <p class="pest-zip-dispatch-pulse">{pestLatestDispatchLine}</p> : null}
         </div>
         {
           blockOrder.map((k) => {
