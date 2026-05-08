@@ -142,39 +142,26 @@ function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): 
   return stateCode;
 }
 
-const PLUMBING_TITLE_BRAND_SUFFIX = " | Rockwell Property Defense Network";
-function withPlumbingTitleBrand(raw: string): string {
+const NATIONAL_HOME_TITLE_BRAND_SUFFIX = " | National Home Protection Network";
+function withNationalHomeTitleBrand(raw: string): string {
   const t = raw.trim();
-  if (t.endsWith("Rockwell Property Defense Network")) return t;
-  return `${t}${PLUMBING_TITLE_BRAND_SUFFIX}`;
+  if (t.endsWith("National Home Protection Network")) return t;
+  return `${t}${NATIONAL_HOME_TITLE_BRAND_SUFFIX}`;
 }
 
-/** site-plumbing: Ads/conversion templates + Pinterest brand suffix on `<title>` only (stableHash pick unchanged). */
-function buildBaitPool2Titles(opts: {
-  city: string;
-  stateCode: string;
-  stateFm: string | undefined;
-  zLabel: string | null;
-  pick: number;
-}): { pageTitle: string; pageH1: string } {
-  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
-  const { city, zLabel, pick } = opts;
-  if (pick === 0 && zLabel) {
-    const core = `No-Scam ${city} Plumbing: $0 Dispatch Fee | Protect Your ${zLabel} Asset`;
-    const pageTitle = withPlumbingTitleBrand(core);
-    const pageH1 = `${core} (Verified)`;
-    return { pageTitle, pageH1 };
+/** site-plumbing: conversion templates + brand on `<title>` (stableHash `% 3` unchanged). */
+function buildBaitPool2Titles(opts: { city: string; pick: number }): { pageTitle: string; pageH1: string } {
+  const { city, pick } = opts;
+  if (pick === 0) {
+    const core = `No-Scam ${city} Plumbing: $0 Dispatch Fee & Upfront Pricing`;
+    return { pageTitle: withNationalHomeTitleBrand(core), pageH1: core };
   }
   if (pick === 1) {
-    const core = `Emergency ${city} Plumber: Upfront Pricing & ${stateToken}-Compliant Quotes`;
-    const pageTitle = withPlumbingTitleBrand(core);
-    const pageH1 = `${core} — Verified`;
-    return { pageTitle, pageH1 };
+    const core = `Verified ${city} Plumber: 24/7 Response | No Hidden Charges`;
+    return { pageTitle: withNationalHomeTitleBrand(core), pageH1: core };
   }
-  const core = `2026 ${city} Infrastructure Audit: Avoid Scams & Protect Home Value`;
-  const pageTitle = withPlumbingTitleBrand(core);
-  const pageH1 = `${core} — Verified`;
-  return { pageTitle, pageH1 };
+  const core = `24 Hour ${city} Plumbing: $50 Off Emergency Repairs Today`;
+  return { pageTitle: withNationalHomeTitleBrand(core), pageH1: core };
 }
 const zRaw = post.data.zillowHomeValueUsd;
 const zUsd =
@@ -188,18 +175,12 @@ const zLabelExact =
         maximumFractionDigits: 0,
       }).format(zUsd)
     : null;
-let baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
-if (baitPick === 0 && !zLabel) {
-  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
-}
+const baitPickRaw = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
 const baitHead =
   pageCity && stateCodeFromSlug
     ? buildBaitPool2Titles({
         city: pageCity,
-        stateCode: stateCodeFromSlug,
-        stateFm: post.data.state,
-        zLabel,
-        pick: baitPick,
+        pick: baitPickRaw,
       })
     : null;
 const isFinancialPressureMode =
@@ -208,37 +189,43 @@ const isFinancialPressureMode =
   zLabelExact != null &&
   pageCity != null;
 
-/** H1: always surface Verified + $0 Dispatch Fee (spec). */
-const h1TrustLead = "Verified · $0 Dispatch Fee — ";
+/** H1 must surface `$0 Dispatch Fee` + `Upfront Pricing` (conversion spec). */
+const h1ComplianceLead = "$0 Dispatch Fee · Upfront Pricing — ";
 
-/** `<title>` / JSON-LD: high tier → URGENT line + brand; else stableHash pool + brand; slug parse fail → frontmatter + brand. */
+const plumbingVisualLine = pageCity
+  ? `Our ${pageCity} dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`
+  : `Our dispatch node ensures state-compliant pricing. Cross-referenced with USGS infrastructure risk scores to prevent plumbing scams.`;
+
+const PINTEREST_META_CTA_PLUMBING = `Search "National Home Protection Network" on Google.`;
+
+/** `<title>` / JSON-LD name */
 const pageTitle = isFinancialPressureMode
-  ? withPlumbingTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Asset Protection | Plumbing Risk Map`)
-  : baitHead?.pageTitle ?? withPlumbingTitleBrand(post.data.title);
+  ? withNationalHomeTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Asset Risk | 2026 Emergency Plumbing Audit`)
+  : baitHead?.pageTitle ?? withNationalHomeTitleBrand(post.data.title);
 
-/** Visible `<h1>` fallback when JSX below uses plain text branch only. */
+/** Visible `<h1>` fallback */
 const pageH1Plain =
   zLabelExact && pageCity
-    ? `${h1TrustLead}${pageCity} infrastructure stewardship — ${zLabelExact} median context`
+    ? `${h1ComplianceLead}${pageCity} Emergency Dispatch - Protecting your ${zLabelExact} Asset`
     : zLabelExact
-      ? `${h1TrustLead}Infrastructure stewardship — ${zLabelExact} median context`
+      ? `${h1ComplianceLead}Emergency Dispatch - Protecting your ${zLabelExact} Asset`
       : pageCity
-        ? `${h1TrustLead}${pageCity} infrastructure stewardship — protecting your property systems`
-        : `${h1TrustLead}${post.data.title}`;
+        ? `${h1ComplianceLead}${pageCity} Emergency Dispatch - Protecting your property`
+        : `${h1ComplianceLead}${post.data.title}`;
 
 function plumbingMetaLead(): string {
   if (pageCity) {
-    return `Stop overpaying. Our USGS-driven audit for ${pageCity} residents prevents plumbing scams and hidden fees. 24/7 Emergency Dispatch.`;
+    return `Stop overpaying. Get upfront pricing and verified plumbing for ${pageCity} residents. No hidden dispatch fees. Emergency dispatch available 24/7.`;
   }
   if (stateCodeFromSlug) {
-    return `Stop overpaying. Our USGS-driven audit for ${stateCodeFromSlug} residents prevents plumbing scams and hidden fees. 24/7 Emergency Dispatch.`;
+    return `Stop overpaying. Get upfront pricing and verified plumbing for ${stateCodeFromSlug} residents. No hidden dispatch fees. Emergency dispatch available 24/7.`;
   }
-  return `Stop overpaying. Our USGS-driven audit prevents plumbing scams and hidden fees. 24/7 Emergency Dispatch.`;
+  return `Stop overpaying. Get upfront pricing and verified plumbing. No hidden dispatch fees. Emergency dispatch available 24/7.`;
 }
 
 const pageMetaDescriptionDefault = clipMetaDescription(
   (() => {
-    const lead = `${plumbingMetaLead()} `;
+    const lead = `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} `;
     const base = post.data.description;
     const tail = (() => {
       if (zLabelExact && !base.includes(zLabelExact)) {
@@ -254,7 +241,7 @@ const pageMetaDescriptionDefault = clipMetaDescription(
 );
 const pageMetaDescription = isFinancialPressureMode
   ? clipMetaDescription(
-      `${plumbingMetaLead()} Local benchmark: ${zLabelExact}. Plumbing risk coordination and documented intake.`,
+      `${plumbingMetaLead()} ${PINTEREST_META_CTA_PLUMBING} Benchmark: ${zLabelExact}. Emergency plumbing audit coordination and documented intake.`,
     )
   : pageMetaDescriptionDefault;
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
@@ -841,59 +828,41 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   <body>
     <main>
       <article>
-        {isFinancialPressureMode ? null : (
-          <ValueProtectionCalculator
-            homeUsd={zUsd}
-            zLabel={zLabel}
-            city={pageCity}
-            accent={themeAccent}
-            domPrefix={domPrefix}
-          />
-        )}
+        <ValueProtectionCalculator
+          homeUsd={zUsd}
+          zLabel={zLabel}
+          city={pageCity}
+          accent={themeAccent}
+          domPrefix={domPrefix}
+          visualizedAssessmentLine={plumbingVisualLine}
+        />
         {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
           <h1>
-            {
-              isFinancialPressureMode ? (
+            {zLabelExact ? (
+              pageCity ? (
                 <>
-                  {h1TrustLead}
-                  {`${pageCity} ${pageNicheLabel} - Property Protection: `}
+                  {h1ComplianceLead}
+                  {`${pageCity} Emergency Dispatch - Protecting your `}
                   <span class="h1-zmoney">{zLabelExact}</span>
+                  {" Asset"}
                 </>
-              ) : zLabelExact ? (
-                pageCity ? (
-                  <>
-                    {h1TrustLead}
-                    {`${pageCity} infrastructure stewardship — `}
-                    <span class="h1-zmoney">{zLabelExact}</span>
-                    {" median context"}
-                  </>
-                ) : (
-                  <>
-                    {h1TrustLead}
-                    {"Infrastructure stewardship — "}
-                    <span class="h1-zmoney">{zLabelExact}</span>
-                    {" median context"}
-                  </>
-                )
               ) : (
-                pageH1Plain
+                <>
+                  {h1ComplianceLead}
+                  {"Emergency Dispatch - Protecting your "}
+                  <span class="h1-zmoney">{zLabelExact}</span>
+                  {" Asset"}
+                </>
               )
-            }
+            ) : (
+              pageH1Plain
+            )}
           </h1>
           <p style="margin: 0.25rem 0 0; color: #475569; font-size: 0.98rem;">
             {headerVariant}
           </p>
         </section>
-        {isFinancialPressureMode ? (
-          <ValueProtectionCalculator
-            homeUsd={zUsd}
-            zLabel={zLabel}
-            city={pageCity}
-            accent={themeAccent}
-            domPrefix={domPrefix}
-          />
-        ) : null}
         {zUsd != null ? (
           <MarketDataView
             seed={entrySlug}
