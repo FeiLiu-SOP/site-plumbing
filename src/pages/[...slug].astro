@@ -839,7 +839,14 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
         <section class="hero-flood-alert-band" aria-label="Service area headline">
           <h1>
-            {zLabelExact ? (
+            {isFinancialPressureMode && zLabelExact && pageCity ? (
+              <>
+                {h1ComplianceLead}
+                {"URGENT: "}
+                <span class="h1-zmoney">{zLabelExact}</span>
+                {` ${pageCity} Asset Risk | 2026 Emergency Plumbing Audit`}
+              </>
+            ) : zLabelExact ? (
               pageCity ? (
                 <>
                   {h1ComplianceLead}
