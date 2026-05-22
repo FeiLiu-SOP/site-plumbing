@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "absent-apogee",
     "type":  "module",
     "version":  "0.0.1",
@@ -13,9 +13,9 @@
                     "dev:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
                     "dev:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
                     "dev:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
-                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs plumbing \u0026\u0026 rm -rf dist/plumbing/images/thumbnails dist/images/thumbnails",
+                    "build":  "astro build && node ./scripts/nest-hub-segment.mjs plumbing",
                     "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build",
-                    "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs plumbing",
+                    "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build && node ./scripts/nest-hub-segment.mjs plumbing",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
                     "build:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro build",
                     "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
@@ -34,6 +34,7 @@
                          "@astrojs/sitemap":  "^3.7.2",
                          "astro":  "^6.1.2"
                      },
-    "deploy_nonce":  "0759293182d10737",
-    "build_id":  "caa10d8c8cc1"
+    "deploy_nonce": "fbdb6caa97ecb3c7",
+    "build_id": "04c2a3582305"
 }
+
