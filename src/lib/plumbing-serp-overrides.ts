@@ -32,6 +32,12 @@ const RAW: Record<string, Omit<PlumbingSerpOverride, "metaDescription"> & { meta
     metaDescription:
       "Licensed plumbing contractor serving Columbus OH 43109. Emergency leaks, drains & repairs. Call for same-day service.",
   },
+  "plumbing-reynoldsburg-oh-43068": {
+    pageTitle: "Reynoldsburg Plumber 43068 & 43069 | FixitGrid",
+    pageH1: "Reynoldsburg Plumber — ZIP 43068 & 43069",
+    metaDescription:
+      "Licensed plumber for Reynoldsburg OH 43068 & 43069. Emergency leaks, drains & repairs. Same-day local plumbing service.",
+  },
 };
 
 export function getPlumbingSerpOverride(slug: string): PlumbingSerpOverride | null {
