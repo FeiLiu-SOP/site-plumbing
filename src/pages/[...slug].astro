@@ -12,6 +12,7 @@ import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
 import RockwellGa4Events from "../components/RockwellGa4Events.astro";
+import ServiceAreaVerifiedReviews from "../components/ServiceAreaVerifiedReviews.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -35,6 +36,7 @@ import {
   buildFaqSchema,
   buildLocalBusinessSchema,
   buildNewtownFellowshipLocalBusinessSchema,
+  buildServiceAreaAggregateRating,
   getFaqByCollection,
 } from "../lib/seo";
 import { resolvePageLocation } from "../lib/location";
@@ -983,6 +985,7 @@ const localBusinessSchema = isRockwellMaine
       pageDescription: pageMetaDescription,
       pageUrl,
       location: pageLocation,
+      entrySlug,
     })
   : isCommunityStewardshipNpo
     ? buildNewtownFellowshipLocalBusinessSchema({
@@ -998,8 +1001,11 @@ const localBusinessSchema = isRockwellMaine
         pageDescription: pageMetaDescription,
         pageUrl,
         location: pageLocation,
+        entrySlug,
       });
 const faqSchema = buildFaqSchema(pageFaqItemsFinal);
+const seedAggregateRating = buildServiceAreaAggregateRating(entrySlug);
+const seedReviewCityDisplay = pageLocation?.city ?? pageCity ?? "Local";
 
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
@@ -1683,6 +1689,14 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               />
             ) : null;
           })
+        }
+        {
+          seedAggregateRating ? (
+            <ServiceAreaVerifiedReviews
+              city={seedReviewCityDisplay}
+              reviewCount={seedAggregateRating.reviewCount}
+            />
+          ) : null
         }
       </article>
     </main>

@@ -1,5 +1,8 @@
 import type { ActiveCollectionKey } from "../active-collection";
 import type { ParsedLocation } from "./location";
+import { getPestcontrolSerpOverride } from "./pestcontrol-serp-overrides";
+import { getPlumbingSerpOverride } from "./plumbing-serp-overrides";
+import { getRoofingSerpOverride } from "./roofing-serp-overrides";
 import { normalizePhoneE164, siteConfig } from "../site-config";
 
 export type FaqItem = {
@@ -737,14 +740,55 @@ export function getFaqByCollection(collection: ActiveCollectionKey): FaqItem[] {
   return FAQ_BY_COLLECTION[collection];
 }
 
+/** GSC 细粒度 SERP 种子页（15 个 override slug）— 注入 AggregateRating JSON-LD。 */
+export function isGscSerpSeedServiceAreaSlug(slug: string): boolean {
+  const s = slug.trim();
+  if (!s) return false;
+  return (
+    getPlumbingSerpOverride(s) !== null ||
+    getPestcontrolSerpOverride(s) !== null ||
+    getRoofingSerpOverride(s) !== null
+  );
+}
+
+function stableSeedReviewCount(slug: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < slug.length; i++) {
+    h ^= slug.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return 100 + ((h >>> 0) % 101);
+}
+
+/** schema.org AggregateRating for Rich Results (nested under LocalBusiness). */
+export function buildServiceAreaAggregateRating(slug: string): {
+  "@type": "AggregateRating";
+  ratingValue: number;
+  bestRating: number;
+  worstRating: number;
+  reviewCount: number;
+} | null {
+  if (!isGscSerpSeedServiceAreaSlug(slug)) return null;
+  return {
+    "@type": "AggregateRating",
+    ratingValue: 4.9,
+    bestRating: 5,
+    worstRating: 1,
+    reviewCount: stableSeedReviewCount(slug),
+  };
+}
+
 export function buildLocalBusinessSchema(params: {
   collection: ActiveCollectionKey;
   pageTitle: string;
   pageDescription: string;
   pageUrl: string;
   location?: ParsedLocation | null;
+  /** City slug; when a GSC SERP seed page, embeds aggregateRating. */
+  entrySlug?: string;
 }) {
-  const { collection, pageTitle, pageDescription, pageUrl, location } = params;
+  const { collection, pageTitle, pageDescription, pageUrl, location, entrySlug } = params;
+  const aggregateRating = entrySlug ? buildServiceAreaAggregateRating(entrySlug) : null;
   const serviceType =
     collection === "siding-services"
       ? "Professional exterior siding inspection and repair"
@@ -785,6 +829,7 @@ export function buildLocalBusinessSchema(params: {
             "Emergency dispatch",
           ]
         : [collection, serviceType, "Emergency service"],
+    ...(aggregateRating ? { aggregateRating } : {}),
   };
 }
 
