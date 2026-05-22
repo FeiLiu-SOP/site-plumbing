@@ -42,12 +42,14 @@ import {
   buildRoofingPageTitle,
   ROOFING_META_MAX,
 } from "../lib/roofing-serp-title";
+import { getRoofingSerpOverride } from "../lib/roofing-serp-overrides";
 import {
   buildBaitPool2TitlesPlumbing,
   buildPlumbingH1,
   buildPlumbingPageTitle,
   PLUMBING_META_MAX,
 } from "../lib/plumbing-serp-title";
+import { getPlumbingSerpOverride } from "../lib/plumbing-serp-overrides";
 import {
   buildBaitPool2TitlesPestcontrol,
   buildPestH1,
@@ -359,6 +361,8 @@ const roofingConvHead =
         slug: entrySlug,
       })
     : null;
+const roofingSerpOverride = isRoofingHub ? getRoofingSerpOverride(entrySlug) : null;
+const plumbingSerpOverride = isPlumbingHub ? getPlumbingSerpOverride(entrySlug) : null;
 const plumbingConvHead =
   isPlumbingHub && pageCity && stateCodeFromSlug
     ? buildBaitPool2TitlesPlumbing({
@@ -473,7 +477,8 @@ const pageTitle = isWaterDamageHub
         })
       : post.data.title)
   : isPlumbingHub
-    ? plumbingConvHead?.pageTitle ??
+    ? plumbingSerpOverride?.pageTitle ??
+      plumbingConvHead?.pageTitle ??
       (pageCity
         ? buildPlumbingPageTitle({
             city: pageCity,
@@ -506,7 +511,8 @@ const pageTitle = isWaterDamageHub
             })
           : post.data.title)
       : isRoofingHub
-      ? roofingConvHead?.pageTitle ??
+      ? roofingSerpOverride?.pageTitle ??
+        roofingConvHead?.pageTitle ??
         (pageCity
           ? buildRoofingPageTitle({
               city: pageCity,
@@ -545,7 +551,8 @@ const pageH1Plain = isWaterDamageHub
       ? buildWaterH1({ city: pageCity, zLabel, zLabelExact })
       : post.data.title)
   : isPlumbingHub
-    ? plumbingConvHead?.pageH1 ??
+    ? plumbingSerpOverride?.pageH1 ??
+      plumbingConvHead?.pageH1 ??
       (pageCity
         ? buildPlumbingH1({
             city: pageCity,
@@ -565,7 +572,8 @@ const pageH1Plain = isWaterDamageHub
           ? buildSidingH1({ city: pageCity, zLabel, zLabelExact })
           : post.data.title)
       : isRoofingHub
-      ? roofingConvHead?.pageH1 ??
+      ? roofingSerpOverride?.pageH1 ??
+        roofingConvHead?.pageH1 ??
         (pageCity ? `${pageCity} Roofing & Asset Defense` : post.data.title)
     : isPestControlHub
       ? pestConvHead?.pageH1 ??
@@ -584,7 +592,8 @@ const pageMetaDescriptionDefault = isWaterDamageHub
   ? (waterConvHead?.metaDescription ??
     clipMetaDescription(post.data.description, WATER_META_MAX))
   : isPlumbingHub
-    ? (plumbingConvHead?.metaDescription ??
+    ? (plumbingSerpOverride?.metaDescription ??
+      plumbingConvHead?.metaDescription ??
       clipMetaDescription(post.data.description, PLUMBING_META_MAX))
     : isPlumbingV2Hub
       ? (plumbingV2ConvHead?.metaDescription ??
@@ -593,7 +602,8 @@ const pageMetaDescriptionDefault = isWaterDamageHub
       ? (sidingConvHead?.metaDescription ??
         clipMetaDescription(post.data.description, SIDING_META_MAX))
       : isRoofingHub
-      ? (roofingConvHead?.metaDescription ??
+      ? (roofingSerpOverride?.metaDescription ??
+        roofingConvHead?.metaDescription ??
         clipMetaDescription(post.data.description, ROOFING_META_MAX))
       : isPestControlHub
         ? (pestConvHead?.metaDescription ??
@@ -732,6 +742,13 @@ const headerVariantsCommercial = [
   `${pageNicheLabel} scheduling & response hub`,
   `Regional ${pageNicheLabel} service access point`,
 ];
+const headerVariantsSidingCommercial = [
+  "National siding repair intake & regional coordination",
+  "Regional siding installation & repair routing",
+  "Local siding crew dispatch & scheduling desk",
+  "Siding repair service access point",
+  "Regional exterior siding response hub",
+];
 const headerVariantsStewardship = [
   `Community ${pageNicheLabel} stewardship reference desk`,
   `${pageNicheLabel} neighbor education routing`,
@@ -739,7 +756,14 @@ const headerVariantsStewardship = [
   `${pageNicheLabel} ZIP-sector education framing`,
   `Area ${pageNicheLabel} reference materials (non-commercial)`,
 ];
-const headerVariants = isCommunityStewardshipNpo ? headerVariantsStewardship : headerVariantsCommercial;
+const headerVariants = isCommunityStewardshipNpo
+  ? headerVariantsStewardship
+  : isSidingHub
+    ? headerVariantsSidingCommercial
+    : headerVariantsCommercial;
+const sidingServiceLeadHtml = isSidingHub
+  ? "<p><strong>On-site siding repair and installation dispatch.</strong> This page coordinates licensed local crews for moisture intrusion, decay at the envelope, and panel replacement — not retail material sales. Share photos and ZIP context for a scope review before scheduling.</p>"
+  : null;
 const headerVariant = headerVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|header`) % headerVariants.length]!;
 const faqTitleVariants = [
   "Frequently Asked Questions",
@@ -1485,7 +1509,11 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               <section class="hero-flood-alert-band" aria-label="Service area headline">
                 <h1>
                   {
-                    isFinancialPressureMode ? (
+                    plumbingSerpOverride ? (
+                      plumbingSerpOverride.pageH1
+                    ) : roofingSerpOverride ? (
+                      roofingSerpOverride.pageH1
+                    ) : isFinancialPressureMode ? (
                       <>
                         {`${pageCity} ${pageNicheLabel} - Property Protection: `}
                         <span class="h1-zmoney">{zLabelForPublicSurface}</span>
@@ -1574,6 +1602,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             if (k === "content") {
               return (
                 <div id={articleBodyId} class={articleBodyClass}>
+                  {sidingServiceLeadHtml ? <div set:html={sidingServiceLeadHtml} /> : null}
                   <Content />
                 </div>
               );

@@ -745,7 +745,10 @@ export function buildLocalBusinessSchema(params: {
   location?: ParsedLocation | null;
 }) {
   const { collection, pageTitle, pageDescription, pageUrl, location } = params;
-  const serviceType = siteConfig.nicheLabel;
+  const serviceType =
+    collection === "siding-services"
+      ? "Professional exterior siding inspection and repair"
+      : siteConfig.nicheLabel;
   const telephone = normalizePhoneE164(siteConfig.phoneE164);
 
   const areaServed = location
@@ -774,7 +777,14 @@ export function buildLocalBusinessSchema(params: {
     telephone,
     areaServed,
     serviceType,
-    knowsAbout: [collection, serviceType, "Emergency service"],
+    knowsAbout:
+      collection === "siding-services"
+        ? [
+            "Siding installation and repair",
+            "Home exterior asset protection",
+            "Emergency dispatch",
+          ]
+        : [collection, serviceType, "Emergency service"],
   };
 }
 
