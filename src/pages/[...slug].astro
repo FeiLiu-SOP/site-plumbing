@@ -13,6 +13,8 @@ import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
 import RockwellGa4Events from "../components/RockwellGa4Events.astro";
 import ServiceAreaVerifiedReviews from "../components/ServiceAreaVerifiedReviews.astro";
+import ServiceAreaLocalLandmarks from "../components/ServiceAreaLocalLandmarks.astro";
+import { getGscSeedLandmarks } from "../lib/gsc-seed-landmarks";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -1006,6 +1008,11 @@ const localBusinessSchema = isRockwellMaine
 const faqSchema = buildFaqSchema(pageFaqItemsFinal);
 const seedAggregateRating = buildServiceAreaAggregateRating(entrySlug);
 const seedReviewCityDisplay = pageLocation?.city ?? pageCity ?? "Local";
+const seedLandmarks = getGscSeedLandmarks(entrySlug);
+const seedLandmarksZip =
+  (pageLocation?.zip ?? String(post.data.zipCode ?? "").trim()) || "";
+const seedLandmarksState =
+  pageLocation?.state ?? stateCodeFromSlug ?? String(post.data.state ?? "").trim();
 
 const breadcrumbListSchema = buildBreadcrumbListSchema(
   buildSlugPageBreadcrumbItems({
@@ -1689,6 +1696,16 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
               />
             ) : null;
           })
+        }
+        {
+          seedLandmarks ? (
+            <ServiceAreaLocalLandmarks
+              city={seedReviewCityDisplay}
+              state={seedLandmarksState}
+              zip={seedLandmarksZip}
+              landmarks={seedLandmarks.landmarks}
+            />
+          ) : null
         }
         {
           seedAggregateRating ? (
