@@ -11,6 +11,7 @@ import TrustBar from "../components/TrustBar.astro";
 import NationalDispatchDisclaimer from "../components/NationalDispatchDisclaimer.astro";
 import NichePartnerLogos from "../components/NichePartnerLogos.astro";
 import DispatchCommandBar from "../components/DispatchCommandBar.astro";
+import RockwellGa4Events from "../components/RockwellGa4Events.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
 import {
   BRAND_CONFIG,
@@ -1573,7 +1574,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
           <p>{serviceLine}</p>
           <p class="service-meta">{ctaVariant.meta}</p>
           <TrustBar collectionKey={ACTIVE_COLLECTION} />
-          <a class={phoneBtnClass} href={telHref} aria-label={phoneBtnAriaLabel}>
+          <a class={`${phoneBtnClass} phone-dispatch-btn`} href={telHref} aria-label={phoneBtnAriaLabel}>
             <span class="phone-btn__main">
               <svg
                 class="phone-btn__signal"
@@ -1700,5 +1701,6 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
       nicheLabel={pageNicheLabel}
       slugSeed={entrySlug}
     />
+    <RockwellGa4Events collection={ACTIVE_COLLECTION} pageSlug={entrySlug} />
   </body>
 </html>
