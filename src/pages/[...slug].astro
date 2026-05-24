@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
+import SiteFavicon from "../components/SiteFavicon.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import LiveDispatchFeed from "../components/LiveDispatchFeed.astro";
 import MarketDataView from "../components/MarketDataView.astro";
@@ -1060,6 +1061,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <SiteFavicon />
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{pageTitle}</title>
     <meta name="description" content={pageMetaDescription} />

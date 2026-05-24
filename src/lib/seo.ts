@@ -740,7 +740,7 @@ export function getFaqByCollection(collection: ActiveCollectionKey): FaqItem[] {
   return FAQ_BY_COLLECTION[collection];
 }
 
-/** GSC 细粒度 SERP 种子页（15 个 override slug）— 注入 AggregateRating JSON-LD。 */
+/** GSC SERP seed slugs (15 override slugs) — inject AggregateRating JSON-LD. */
 export function isGscSerpSeedServiceAreaSlug(slug: string): boolean {
   const s = slug.trim();
   if (!s) return false;
