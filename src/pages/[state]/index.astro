@@ -5,6 +5,10 @@ import SiteFavicon from "../../components/SiteFavicon.astro";
 import { ACTIVE_COLLECTION } from "../../active-collection";
 import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../../site-config";
 import {
+  entryPublicPathSegments,
+  stateAbbrFromNearMeSlug,
+} from "../../lib/fixitgrid-near-me-url";
+import {
   REALTORS_AT_THE_BEACH_WATER_DAMAGE,
   matchesRealtorsAtTheBeachWaterDamage,
 } from "../../domain-templates/realtorsatthebeach.com-water-damage";
@@ -58,6 +62,12 @@ const statePosts = posts
 function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
   const raw = entry.slug ?? entry.id ?? "";
   return raw.replace(/\.(md|mdx)$/i, "");
+}
+
+function entryHref(entry: Pick<EntryLike, "id" | "slug">): string {
+  const slug = entryPath(entry);
+  const st = stateAbbrFromNearMeSlug(slug) ?? stateCode;
+  return internalPath(...entryPublicPathSegments(slug, st));
 }
 
 const serviceLabel = getNicheLabelForSeed(`state:${stateCode}`);
@@ -162,7 +172,7 @@ const pageSchema = {
       <ul class="links">
         {statePosts.map((post) => (
           <li>
-            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
+            <a href={entryHref(post)}>{post.data.title}</a>
           </li>
         ))}
       </ul>

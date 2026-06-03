@@ -88,6 +88,16 @@ import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
+import {
+  entryPublicPathSegments,
+  isFixitgridNearMeBuild,
+  resolveContentEntrySlug,
+  stateAbbrFromNearMeSlug,
+} from "../lib/fixitgrid-near-me-url";
+import {
+  appendCommercialContactFaqIfSeed,
+  shouldForceFaqSectionVisible,
+} from "../lib/commercial-contact-faq";
 
 /** Physical-value tier: deterministic title/H1 (no stableHash) when home value clears bar. */
 const HIGH_VALUE_USD_TRIGGER = 300_000;
@@ -109,14 +119,20 @@ const isCommunityStewardshipNpo = ACTIVE_COLLECTION.startsWith("community-stewar
 
 export async function getStaticPaths() {
   const posts = await getCollection(ACTIVE_COLLECTION);
-  return posts.map((post) => ({
-    params: { slug: (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "") },
-  }));
+  return posts.map((post) => {
+    const entrySlug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+    if (isFixitgridNearMeBuild()) {
+      const st = (post.data.state ?? stateAbbrFromNearMeSlug(entrySlug) ?? "FL").trim();
+      const segments = entryPublicPathSegments(entrySlug, st);
+      return { params: { slug: segments.join("/") } };
+    }
+    return { params: { slug: entrySlug } };
+  });
 }
 
 const { slug } = Astro.params;
 const posts = await getCollection(ACTIVE_COLLECTION);
-const entrySlugParam = (slug ?? "").replace(/\.(md|mdx)$/i, "");
+const entrySlugParam = resolveContentEntrySlug(slug ?? "");
 const entry =
   posts.find((p) => (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "") === entrySlugParam) ?? null;
 if (!entry) {
@@ -125,7 +141,14 @@ if (!entry) {
 const { Content } = await render(entry);
 const post = entry;
 const entrySlug = entrySlugParam || (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
-const pageUrl = canonicalPageUrl(entrySlug);
+const pageUrl = isFixitgridNearMeBuild()
+  ? canonicalPageUrl(
+      ...entryPublicPathSegments(
+        entrySlug,
+        post.data.state ?? stateAbbrFromNearMeSlug(entrySlug) ?? "FL",
+      ),
+    )
+  : canonicalPageUrl(entrySlug);
 const ogImageUrl = ogThumbnailUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
@@ -848,7 +871,10 @@ const relatedTitleVariants = [
 ] as const;
 const relatedTitle =
   relatedTitleVariants[stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|relatedTitle`) % relatedTitleVariants.length]!;
-const showFaq = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
+const forceFaqForContactSeed = shouldForceFaqSectionVisible(ACTIVE_COLLECTION, entrySlug);
+const showFaq =
+  forceFaqForContactSeed ||
+  stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showFaq`) % 10 >= 3;
 const showRelated = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|showRelated`) % 10 >= 3;
 const stateNotice = stateCodeFromSlug
   ? `Notice: This ${stateCodeFromSlug} page summarizes regional infrastructure maintenance coordination and local topographic context; it is not a government bulletin.`
@@ -937,12 +963,20 @@ function addendumForFaq(seedText: string) {
   return stableHash(seedText) % 2 === 0 ? pool[stableHash(seedText + "|p") % pool.length]! : null;
 }
 
-const pageFaqItemsFinal = pageFaqItems.map((item, idx) => {
+const pageFaqItemsBase = pageFaqItems.map((item, idx) => {
   const add = addendumForFaq(`${ACTIVE_COLLECTION}|${entrySlug}|faqAdd|${idx}`);
   return {
     question: item.question,
     answer: add ? `${item.answer} ${add}` : item.answer,
   };
+});
+const { items: pageFaqItemsFinal } = appendCommercialContactFaqIfSeed({
+  collection: ACTIVE_COLLECTION,
+  entrySlug,
+  city: String(post.data.city ?? pageCity ?? "").trim() || null,
+  stateCode: String(post.data.state ?? stateCodeFromSlug ?? "").trim() || null,
+  phoneDisplay: siteConfig.phoneDisplay,
+  items: pageFaqItemsBase,
 });
 
 const enableRealtorsAtTheBeachWaterDamageIsolation = matchesRealtorsAtTheBeachWaterDamage({
@@ -1007,7 +1041,7 @@ const localBusinessSchema = isRockwellMaine
         location: pageLocation,
         entrySlug,
       });
-const faqSchema = buildFaqSchema(pageFaqItemsFinal);
+const faqSchema = showFaq ? buildFaqSchema(pageFaqItemsFinal) : null;
 const seedAggregateRating = buildServiceAreaAggregateRating(entrySlug);
 const seedReviewCityDisplay = pageLocation?.city ?? pageCity ?? "Local";
 const seedLandmarks = getGscSeedLandmarks(entrySlug);
@@ -1082,7 +1116,9 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
     <meta name="twitter:image" content={ogImageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbListSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
-    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    {faqSchema ? (
+      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    ) : null}
     <style>
       :root {
         color-scheme: light;
