@@ -121,7 +121,8 @@ export function appendCommercialContactFaqIfSeed(args: {
   );
   if (already) return { items: args.items, hasContactFaq: true };
 
-  return { items: [...args.items, contact], hasContactFaq: true };
+  /** Contact intake first so it is visible without scrolling past niche FAQs. */
+  return { items: [contact, ...args.items], hasContactFaq: true };
 }
 
 export function shouldForceFaqSectionVisible(
