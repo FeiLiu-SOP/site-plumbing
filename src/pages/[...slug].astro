@@ -89,6 +89,16 @@ import {
   matchesRockwellMaine,
 } from "../domain-templates/rockwell-maine-entity";
 import {
+  buildFixitGridEntityGraph,
+  matchesFixitGridEntity,
+} from "../domain-templates/fixitgrid.com-entity";
+import {
+  buildRealtorsEntityGraph,
+  matchesRealtorsEntity,
+} from "../domain-templates/realtorsatthebeach.com-entity";
+import ComplianceMatrix from "../components/ComplianceMatrix.astro";
+import { getDispatchCompliance } from "../lib/compliance-matrix";
+import {
   entryPublicPathSegments,
   isFixitgridNearMeBuild,
   resolveContentEntrySlug,
@@ -152,6 +162,9 @@ const pageUrl = isFixitgridNearMeBuild()
 const ogImageUrl = ogThumbnailUrl(entrySlug);
 const pageNicheLabel = getNicheLabelForSeed(entrySlug);
 const isRockwellMaine = matchesRockwellMaine({ domainOrUrl: siteConfig.canonicalOrigin });
+const isFixitGridSite = matchesFixitGridEntity({ domainOrUrl: siteConfig.canonicalOrigin });
+const isRealtorsSite =
+  !isFixitGridSite && matchesRealtorsEntity({ domainOrUrl: siteConfig.canonicalOrigin });
 const pageLocation = resolvePageLocation({
   collection: ACTIVE_COLLECTION,
   title: post.data.title,
@@ -185,6 +198,14 @@ const desktopDispatchZip =
     .replace(/\D/g, "")
     .slice(0, 5) || "00000";
 const stateCodeFromSlug = (() => {
+  if (isFixitgridNearMeBuild()) {
+    const nearMeSt =
+      stateAbbrFromNearMeSlug(entrySlug) ??
+      String(post.data.state ?? "")
+        .trim()
+        .toUpperCase();
+    if (/^[A-Z]{2}$/.test(nearMeSt)) return nearMeSt;
+  }
   const m = entrySlug.match(/-([a-z]{2})-\d{5}$/i);
   return m ? m[1]!.toUpperCase() : null;
 })();
@@ -1017,7 +1038,49 @@ const faqClass = domPrefix ? `${domPrefix}--faq` : "faq";
 const geoBriefTitleId = domPrefix ? `${domPrefix}-geo-brief-title` : "geo-brief-title";
 const faqTitleId = domPrefix ? `${domPrefix}-faq-title` : "faq-title";
 
-const localBusinessSchema = isRockwellMaine
+const fixitGridDispatchCompliance =
+  isFixitGridSite && stateCodeFromSlug
+    ? getDispatchCompliance({
+        stateCode: stateCodeFromSlug,
+        niche: ACTIVE_COLLECTION,
+        citySlug: entrySlug,
+        domainKey: "fixitgrid",
+      })
+    : null;
+
+const realtorsDispatchCompliance =
+  isRealtorsSite && stateCodeFromSlug
+    ? getDispatchCompliance({
+        stateCode: stateCodeFromSlug,
+        niche: ACTIVE_COLLECTION,
+        citySlug: entrySlug,
+        domainKey: "realtors",
+      })
+    : null;
+
+const dispatchComplianceForPage = fixitGridDispatchCompliance ?? realtorsDispatchCompliance;
+
+const localBusinessSchema = isFixitGridSite
+  ? buildFixitGridEntityGraph({
+      collection: ACTIVE_COLLECTION,
+      pageDescription: pageMetaDescription,
+      pageUrl,
+      location: pageLocation,
+      entrySlug,
+      dispatchCompliance: fixitGridDispatchCompliance,
+      cityDisplay: pageLocation?.city ?? pageCity ?? null,
+    })
+  : isRealtorsSite
+    ? buildRealtorsEntityGraph({
+        collection: ACTIVE_COLLECTION,
+        pageDescription: pageMetaDescription,
+        pageUrl,
+        location: pageLocation,
+        entrySlug,
+        dispatchCompliance: realtorsDispatchCompliance,
+        cityDisplay: pageLocation?.city ?? pageCity ?? null,
+      })
+  : isRockwellMaine
   ? buildRockwellMaineEntityGraph({
       collection: ACTIVE_COLLECTION,
       pageDescription: pageMetaDescription,
@@ -1756,6 +1819,22 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
         }
       </article>
     </main>
+    {
+      dispatchComplianceForPage && stateCodeFromSlug ? (
+        <ComplianceMatrix
+          compliance={dispatchComplianceForPage}
+          cityDisplay={pageLocation?.city ?? pageCity ?? "Local"}
+          stateCode={stateCodeFromSlug}
+          nicheLabel={pageNicheLabel}
+          brandName={isRealtorsSite ? "Realtors at the Beach" : "FixitGrid"}
+          sectionTitle={
+            isRealtorsSite
+              ? "Buyer & Service Network Compliance Audit"
+              : "Dispatch Gateway Compliance Audit"
+          }
+        />
+      ) : null
+    }
     <Footer
       extraLink={footerExtraLink}
       notice={stateNotice}
