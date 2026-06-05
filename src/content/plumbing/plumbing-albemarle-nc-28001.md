@@ -12,27 +12,41 @@ lng: -80.1900
 zipSample: ["28002", "28001"]
 zipCodes: ["28001", "28002"]
 localPaths: ["Stanly County / ZIP 28001 sector", "Stanly County / coords 35.3600, -80.1900", "Stanly County / elevation 564 ft band", "Stanly County / ZIP 28002 sector", "Stanly County / primary ZIP 28001"]
-zillowHomeValueUsd: 262693
 ---
 
-**Engineering Notice for Albemarle:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Stanly County.
+**Engineering Notice for Albemarle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanly County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Stack vent offsets in Albemarle, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28001.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-We coordinate local dispatch coverage around Albemarle, NC and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Albemarle, NC.
 
-Field note: Wind exposure category reviewed for ZIP sector 28002/28001.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 28002/28001 coverage.
+Sump discharge freeze risk in Albemarle, NC should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 28002, 28001 (county grid: Stanly County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Albemarle, NC systems need rebalancing.
+
+Expansion tank pre-charge loss in Albemarle, NC often tracks heater replacement deferrals.
+
+Cleanout access limits in Albemarle, NC frequently extend drain cleaning duration.
+
+We coordinate Albemarle, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Dual-water-meter setups in Albemarle, NC irrigation zones need backflow logs before line replacement.
+
+Supply audit 245325: curb-stop orientation and hose-bib freeze flag reviewed for Albemarle, NC at coords 35.3600/-80.1900.
+
+Scope trace: hose bib freeze flag plus PRV outlet curve referenced in Stanly County county grid review.
+
+On-site sector marker: Stanly County / elevation 564 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28001-a1fce0d8

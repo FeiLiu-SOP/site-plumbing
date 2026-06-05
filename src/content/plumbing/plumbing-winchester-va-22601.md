@@ -12,27 +12,43 @@ lng: -78.1700
 zipSample: ["22601", "22604"]
 zipCodes: ["22601", "22604"]
 localPaths: ["Winchester County / primary ZIP 22601", "Winchester County / coords 39.1700, -78.1700", "Winchester County / elevation 745 ft band", "Winchester County / ZIP 22601 sector", "Winchester County / ZIP 22604 sector"]
-zillowHomeValueUsd: 353247
 ---
 
-**Engineering Notice for Winchester:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Winchester County.
+**Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winchester County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22601.
+CPVC solvent weld times shift with ambient humidity during Winchester, VA shoulder seasons.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Winchester, VA, but intake notes help reduce delays.
+Permit note: Main water line replacement in Winchester, VA may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate local dispatch coverage around Winchester, VA and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-In Winchester, VA, urgent plumbing issues can escalate quickly.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 22601/22604 zone).
+Hydrostatic holds in Winchester, VA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 22601/22604 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 22601, 22604 (county grid: Winchester County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Frost-free sillcock failures in Winchester, VA often trace to interior shutoff seats, not exterior stems.
+
+Stack vent offsets in Winchester, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Fixture shutoff stiffness in Winchester, VA may indicate mineral bridging behind stems.
+
+Risk flag: Seasonal Winchester, VA irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Lineage note 205172: recirculation pump amp draw captured before Winchester, VA branch isolation.
+
+Supply audit 205172: curb-stop orientation and hose-bib freeze flag reviewed for Winchester, VA at coords 39.1700/-78.1700.
+
+On-site sector marker: Winchester County / elevation 745 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22601-a418e8bd

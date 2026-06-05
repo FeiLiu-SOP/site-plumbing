@@ -12,27 +12,41 @@ lng: -96.0700
 zipSample: ["68046", "68128", "68138", "68133"]
 zipCodes: ["68133", "68046", "68128", "68138"]
 localPaths: ["Sarpy County / elevation 1047 ft band", "Sarpy County / ZIP 68133 sector", "Sarpy County / ZIP 68138 sector", "Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68046"]
-zillowHomeValueUsd: 409097
 ---
 
-**Engineering Notice for Papillion:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Sarpy County.
+**Engineering Notice for Papillion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarpy County.
 
 
-We coordinate local dispatch coverage around Papillion, NE and nearby ZIP sectors.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 68046.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 68046.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Papillion, NE, but intake notes help reduce delays.
+Hose bib split patterns in Papillion, NE often follow missed winterization.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 68128/68133/68046 intake.
+Dual-water-meter setups in Papillion, NE irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 68128/68133/68046 coverage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 68128, 68133, 68046, 68138 (county grid: Sarpy County).
+Material note: Water heater anode type may change with Papillion, NE hardness profiles.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 68046.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Flow dossier 309168: branch wet-vent geometry and jetting nozzle envelope logged for Papillion, NE county grid Sarpy County (ZIP 68046).
+
+plumbing brief: toilet flange spacer kit and water softener bypass lever were cross-checked for the Papillion intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Sarpy County and primary ZIP 68046. Terrain reference: 1047 ft. Center point: 41.1500, -96.0700. ZIP sample: 68128, 68046, 68138, 68133. Service perimeter note: Coverage extends through Sarpy County with dispatch centered near ZIP 68046.
 
 Service reference: NE-68046-b1ff7806

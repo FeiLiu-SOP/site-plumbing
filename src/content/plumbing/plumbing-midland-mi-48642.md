@@ -12,26 +12,43 @@ lng: -84.2300
 zipSample: ["48667", "48642", "48640", "48670", "48686"]
 zipCodes: ["48642", "48667", "48686", "48670", "48640"]
 localPaths: ["Midland County / ZIP 48667 sector", "Midland County / ZIP 48670 sector", "Midland County / primary ZIP 48642", "Midland County / ZIP 48640 sector", "Midland County / elevation 630 ft band"]
-zillowHomeValueUsd: 247783
 ---
 
-**Engineering Notice for Midland:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Midland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Water heater T&P discharge paths in Midland, MI must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydro-jetting in Midland, MI requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Midland, MI systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Midland, MI, but intake notes help reduce delays.
+Across Midland, MI, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 48670/48667/48686 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 48670/48667/48686 zone).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 48670, 48667, 48686, 48642, 48640 (county grid: Midland County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Sewer gas odors in Midland, MI should trigger trap seal and vent path review.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Recirculation pump failures in Midland, MI can mimic fixture-specific clogs.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Midland, MI.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 48642.
+
+Flow dossier 193107: branch wet-vent geometry and jetting nozzle envelope logged for Midland, MI county grid Midland County (ZIP 48642).
+
+Supply audit 193107: curb-stop orientation and hose-bib freeze flag reviewed for Midland, MI at coords 43.6200/-84.2300.
+
+plumbing brief: water heater T&P path and sump float travel were cross-checked for the Midland intake packet.
+
+On-site sector marker: Midland County / ZIP 48642 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48642-fb1bbdf4

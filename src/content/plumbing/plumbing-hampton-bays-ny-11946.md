@@ -12,26 +12,41 @@ lng: -72.5200
 zipSample: ["11946"]
 zipCodes: ["11946"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8700, -72.5200", "Suffolk County / primary ZIP 11946"]
-zillowHomeValueUsd: 933940
 ---
 
-**Engineering Notice for Hampton Bays:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Hampton Bays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 11946.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Hampton Bays, NY often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is hydro-jetting always appropriate? In Hampton Bays, NY, pipe material and blockage type dictate method.
 
-Tip: compare at least two estimates for scope and timeline.
+Water heater T&P discharge paths in Hampton Bays, NY must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 11946.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 11946 coverage.
+FAQ: When should sump battery backups be load-tested? In Hampton Bays, NY, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 11946 (county grid: Suffolk County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Stack vent offsets in Hampton Bays, NY older duplexes can mask tub gurgle as a main-line failure.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Fixture roster 318780: toilet flange spacer kit and shower cartridge seat score queued for Hampton Bays, NY walk-through.
+
+Flow dossier 318780: branch wet-vent geometry and jetting nozzle envelope logged for Hampton Bays, NY county grid Suffolk County (ZIP 11946).
+
+On-site sector marker: Suffolk County / ZIP 11946 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11946-dee48e2b

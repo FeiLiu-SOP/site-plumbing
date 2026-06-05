@@ -12,25 +12,41 @@ lng: -122.8700
 zipSample: ["97003", "97078", "97007"]
 zipCodes: ["97007", "97003", "97078"]
 localPaths: ["Washington County / elevation 200 ft band", "Washington County / ZIP 97078 sector", "Washington County / primary ZIP 97078", "Washington County / ZIP 97007 sector", "Washington County / ZIP 97003 sector"]
-zillowHomeValueUsd: 496284
 ---
 
-**Engineering Notice for Aloha:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Aloha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is hydro-jetting always appropriate? In Aloha, OR, pipe material and blockage type dictate method.
 
-Our service coordination centers on Aloha, OR coverage windows and verified intake details.
+Permit note: Main water line replacement in Aloha, OR may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Water heater T&P discharge paths in Aloha, OR must terminate safely before replacement quotes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 97078.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97078/97007/97003.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 97078, 97007, 97003 (county grid: Washington County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+We coordinate Aloha, OR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 97078.
+
+Sewer gas odors in Aloha, OR should trigger trap seal and vent path review.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Supply audit 482344: curb-stop orientation and hose-bib freeze flag reviewed for Aloha, OR at coords 45.4900/-122.8700.
+
+Drain map 482344: camera-pass priority and expansion-tank pre-charge noted for Aloha, OR postal sector 97078.
+
+Coordinate-anchored dispatch note: center reference 45.4900, -122.8700 at elevation ~200 ft aligns with Washington County intake staging.
 
 Service reference: OR-97078-d850d404

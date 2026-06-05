@@ -12,27 +12,41 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15102", "15234"]
 localPaths: ["Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector", "Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400"]
-zillowHomeValueUsd: 301020
 ---
 
-**Engineering Notice for Bethel Park:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Bethel Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: request a written scope before work starts.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: avoid large upfront payments without milestones.
+Expansion tank pre-charge loss in Bethel Park, PA often tracks heater replacement deferrals.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 15102.
+In Bethel Park, PA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bethel Park, PA, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 15102/15234.
+Hard water in Bethel Park, PA accelerates scale on PRV seats and heater elements.
 
-Field note: Connection points spot-checked where accessible (ZIP 15102/15234 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 15102, 15234 (county grid: Allegheny County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 15102.
+
+Material note: Water heater anode type may change with Bethel Park, PA hardness profiles.
+
+Hydro-jetting in Bethel Park, PA requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in Bethel Park, PA require pit dimensions verified against utility locate marks.
+
+Risk flag: In Bethel Park, PA, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Seasonal Bethel Park, PA irrigation cross-connections can mask domestic pressure loss.
+
+Lineage note 221581: recirculation pump amp draw captured before Bethel Park, PA branch isolation.
+
+Flow dossier 221581: branch wet-vent geometry and jetting nozzle envelope logged for Bethel Park, PA county grid Allegheny County (ZIP 15102).
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Allegheny County. Reference elevation: 1207 ft. Primary coordinates: 40.3200, -80.0400. ZIP sample: 15234, 15102. Service perimeter note: Coverage extends through Allegheny County with dispatch centered near ZIP 15102.
 
 Service reference: PA-15102-e566a3d6

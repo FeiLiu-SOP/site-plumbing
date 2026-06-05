@@ -12,26 +12,39 @@ lng: -96.7100
 zipSample: ["75080", "75083", "75085", "75081", "75082"]
 zipCodes: ["75081", "75045", "75085", "75082", "75080", "75083"]
 localPaths: ["Dallas County / ZIP 75080 sector", "Dallas County / primary ZIP 75081", "Dallas County / ZIP 75083 sector", "Dallas County / ZIP 75081 sector", "Dallas County / coords 32.9700, -96.7100"]
-zillowHomeValueUsd: 388943
 ---
 
-**Engineering Notice for Richardson:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Richardson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 75081.
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on Richardson, TX coverage windows and verified intake details.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 75081.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Expansion tank pre-charge loss in Richardson, TX often tracks heater replacement deferrals.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Richardson, TX, but intake notes help reduce delays.
+Cast-iron hub corrosion in Richardson, TX often concentrates at the third joint upstream of the cleanout.
 
-Field note: Wind exposure category reviewed for ZIP sector 75082/75045/75083.
+FAQ: When is cabling enough? In Richardson, TX, pipe material and blockage type dictate method.
 
-Field note: Moisture pathway inspection logged near ZIP 75082/75045/75083 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 75082, 75045, 75083, 75081, 75085 (county grid: Dallas County).
+Dual-water-meter setups in Richardson, TX irrigation zones need backflow logs before line replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+CPVC solvent weld times shift with ambient humidity during Richardson, TX shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Richardson, TX systems need rebalancing.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Supply audit 902775: curb-stop orientation and hose-bib freeze flag reviewed for Richardson, TX at coords 32.9700/-96.7100.
+
+plumbing brief: sump float travel and fixture shutoff torque log were cross-checked for the Richardson intake packet.
+
+On-site sector marker: Dallas County / ZIP 75045 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75081-8a1394da

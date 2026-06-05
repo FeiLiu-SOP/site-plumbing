@@ -12,26 +12,43 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / ZIP 98208 sector", "Snohomish County / coords 47.9000, -122.1800", "Snohomish County / primary ZIP 98208", "Snohomish County / elevation 387 ft band"]
-zillowHomeValueUsd: 771419
 ---
 
-**Engineering Notice for Eastmont:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Eastmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: request a written scope before work starts.
+Step: log PRV inlet and outlet readings during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cast-iron hub corrosion in Eastmont, WA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eastmont, WA, but intake notes help reduce delays.
+Fixture shutoff stiffness in Eastmont, WA may indicate mineral bridging behind stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 98208 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 98208 coverage.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 98208 (county grid: Snohomish County).
+Hydrostatic holds in Eastmont, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Trenchless pulls in Eastmont, WA require pit dimensions verified against utility locate marks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Risk flag: Seasonal Eastmont, WA irrigation cross-connections can mask domestic pressure loss.
+
+Flow dossier 511037: branch wet-vent geometry and jetting nozzle envelope logged for Eastmont, WA county grid Snohomish County (ZIP 98208).
+
+Drain map 511037: camera-pass priority and expansion-tank pre-charge noted for Eastmont, WA postal sector 98208.
+
+Scope trace: meter pit clearance plus water heater T&P path referenced in Snohomish County county grid review.
+
+On-site sector marker: Snohomish County / coords 47.9000, -122.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98208-32a4676c

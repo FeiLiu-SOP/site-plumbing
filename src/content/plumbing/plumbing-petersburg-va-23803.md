@@ -12,26 +12,37 @@ lng: -77.3900
 zipSample: ["23806", "23805", "23804", "23803"]
 zipCodes: ["23805", "23803", "23804", "23806"]
 localPaths: ["Petersburg County / primary ZIP 23803", "Petersburg County / ZIP 23804 sector", "Petersburg County / ZIP 23805 sector", "Petersburg County / ZIP 23803 sector", "Petersburg County / coords 37.2000, -77.3900"]
-zillowHomeValueUsd: 234884
 ---
 
-**Engineering Notice for Petersburg:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Petersburg County.
+**Engineering Notice for Petersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Petersburg County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: avoid large upfront payments without milestones.
+Irrigation cross-connections in Petersburg, VA can back-siphon domestic lines during main breaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Petersburg, VA, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-We coordinate local dispatch coverage around Petersburg, VA and nearby ZIP sectors.
+Risk flag: In Petersburg, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 23803/23806/23805 coverage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 23803/23806/23805 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 23803, 23806, 23805, 23804 (county grid: Petersburg County).
+Sump discharge freeze risk in Petersburg, VA should be reviewed before spring thaw cycles.
+
+Material note: Water heater anode type may change with Petersburg, VA hardness profiles.
+
+Hydro-jetting in Petersburg, VA requires camera confirmation before nozzle pressure is raised.
+
+In Petersburg, VA, slab leaks often present as warm spots before wall stains appear.
+
+Permit note: Main water line replacement in Petersburg, VA may require ROW restoration planning.
+
+Fixture roster 880963: toilet flange spacer kit and shower cartridge seat score queued for Petersburg, VA walk-through.
+
+On-site sector marker: Petersburg County / ZIP 23805 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23803-8e58f3cb

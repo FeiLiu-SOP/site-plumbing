@@ -12,24 +12,43 @@ lng: -117.2900
 zipSample: ["92408", "92405", "92427", "92411", "92404"]
 zipCodes: ["92408", "92415", "92418", "92407", "92403", "92410", "92404", "92427", "92413", "92423", "92405", "92401"]
 localPaths: ["San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / ZIP 92408 sector", "San Bernardino County / ZIP 92405 sector", "San Bernardino County / ZIP 92411 sector", "San Bernardino County / elevation 1201 ft band"]
-zillowHomeValueUsd: 480008
 ---
 
-**Engineering Notice for San Bernardino:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for San Bernardino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Bernardino, CA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around San Bernardino, CA and nearby ZIP sectors.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in San Bernardino, CA systems need rebalancing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless pulls in San Bernardino, CA require pit dimensions verified against utility locate marks.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Wind exposure category reviewed for ZIP sector 92403/92423/92401.
+Fixture shutoff stiffness in San Bernardino, CA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 92403, 92423, 92401, 92415, 92369 (county grid: San Bernardino County).
+Hose bib split patterns in San Bernardino, CA often follow missed winterization.
+
+Irrigation cross-connections in San Bernardino, CA can back-siphon domestic lines during main breaks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in San Bernardino, CA.
+
+Cast-iron hub corrosion in San Bernardino, CA often concentrates at the third joint upstream of the cleanout.
+
+Drain map 266034: camera-pass priority and expansion-tank pre-charge noted for San Bernardino, CA postal sector 92404.
+
+Lineage note 266034: recirculation pump amp draw captured before San Bernardino, CA branch isolation.
+
+Scope trace: water heater T&P path plus recirculation pump amp draw referenced in San Bernardino County county grid review.
+
+Primary postal anchor 92404 with multi-ZIP overlap in San Bernardino; field packets tag San Bernardino County for county-grid reconciliation.
 
 Service reference: CA-92404-d81d3e1e

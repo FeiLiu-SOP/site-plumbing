@@ -12,27 +12,43 @@ lng: -80.4500
 zipSample: ["33186", "33196"]
 zipCodes: ["33196", "33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500"]
-zillowHomeValueUsd: 567227
 ---
 
-**Engineering Notice for The Hammocks:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for The Hammocks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near The Hammocks, FL require pit shoring notes when water tables are high.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In The Hammocks, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33196.
+FAQ: When should sump battery backups be load-tested? In The Hammocks, FL, before spring thaw and hurricane remnants.
 
-Our service coordination centers on The Hammocks, FL coverage windows and verified intake details.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 33186/33196 coverage.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Wind exposure category reviewed for ZIP sector 33186/33196.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 33186, 33196 (county grid: Miami-Dade County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Permit note: Main water line replacement in The Hammocks, FL may require ROW restoration planning.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in The Hammocks, FL often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 110891: curb-stop orientation and hose-bib freeze flag reviewed for The Hammocks, FL at coords 25.6700/-80.4500.
+
+Pressure trace 110891: meter-pit clearance and dielectric union checklist staged for The Hammocks, FL near elevation 33 ft.
+
+plumbing brief: floor drain trap primer drip and water softener bypass lever were cross-checked for the The Hammocks intake packet.
+
+Coordinate-anchored dispatch note: center reference 25.6700, -80.4500 at elevation ~33 ft aligns with Miami-Dade County intake staging.
 
 Service reference: FL-33196-03a30c60

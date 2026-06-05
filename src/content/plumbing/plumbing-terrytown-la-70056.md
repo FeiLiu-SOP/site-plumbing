@@ -12,25 +12,43 @@ lng: -90.0300
 zipSample: ["70056"]
 zipCodes: ["70056"]
 localPaths: ["Jefferson Parish / primary ZIP 70056", "Jefferson Parish / elevation 7 ft band", "Jefferson Parish / ZIP 70056 sector", "Jefferson Parish / coords 29.9000, -90.0300"]
-zillowHomeValueUsd: 250935
 ---
 
-**Engineering Notice for Terrytown:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Terrytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is cabling enough? In Terrytown, LA, pipe material and blockage type dictate method.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Terrytown, LA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 70056.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70056.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 70056 (county grid: Jefferson Parish).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Terrytown, LA.
+
+Frost-free sillcock failures in Terrytown, LA often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Terrytown, LA systems need rebalancing.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 70056.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 375484: toilet flange spacer kit and shower cartridge seat score queued for Terrytown, LA walk-through.
+
+Supply audit 375484: curb-stop orientation and hose-bib freeze flag reviewed for Terrytown, LA at coords 29.9000/-90.0300.
+
+On-site sector marker: Jefferson Parish / ZIP 70056 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70056-09b1b549

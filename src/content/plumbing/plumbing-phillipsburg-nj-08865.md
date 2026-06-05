@@ -12,25 +12,41 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / elevation 308 ft band", "Warren County / primary ZIP 08865", "Warren County / coords 40.6900, -75.1800"]
-zillowHomeValueUsd: 336515
 ---
 
-**Engineering Notice for Phillipsburg:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Phillipsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-In Phillipsburg, NJ, seasonal demand can change scheduling windows.
+Expansion tank pre-charge loss in Phillipsburg, NJ often tracks heater replacement deferrals.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 08865.
+In Phillipsburg, NJ, slab leaks often present as warm spots before wall stains appear.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Irrigation cross-connections in Phillipsburg, NJ can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 08865.
+Frost-free sillcock failures in Phillipsburg, NJ often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 08865 (county grid: Warren County).
+Risk flag: In Phillipsburg, NJ, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hard water in Phillipsburg, NJ accelerates scale on PRV seats and heater elements.
+
+FAQ: When should sump battery backups be load-tested? In Phillipsburg, NJ, before spring thaw and hurricane remnants.
+
+Water heater T&P discharge paths in Phillipsburg, NJ must terminate safely before replacement quotes.
+
+Supply audit 984000: curb-stop orientation and hose-bib freeze flag reviewed for Phillipsburg, NJ at coords 40.6900/-75.1800.
+
+Scope trace: shower cartridge seat score plus slab penetration sleeve seal referenced in Warren County county grid review.
+
+On-site sector marker: Warren County / coords 40.6900, -75.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08865-35b45aca

@@ -12,27 +12,43 @@ lng: -88.1300
 zipSample: ["60199", "60197", "60116", "60128", "60188"]
 zipCodes: ["60188", "60128", "60116", "60199", "60197"]
 localPaths: ["DuPage County / ZIP 60116 sector", "DuPage County / ZIP 60128 sector", "DuPage County / ZIP 60199 sector", "DuPage County / coords 41.9200, -88.1300", "DuPage County / elevation 755 ft band"]
-zillowHomeValueUsd: 379916
 ---
 
-**Engineering Notice for Carol Stream:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Carol Stream:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Carol Stream, IL, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Carol Stream, IL systems need rebalancing.
 
-We coordinate local dispatch coverage around Carol Stream, IL and nearby ZIP sectors.
+Risk flag: Seasonal Carol Stream, IL irrigation cross-connections can mask domestic pressure loss.
 
-Tip: confirm licensing and insurance before approving work.
+Hose bib split patterns in Carol Stream, IL often follow missed winterization.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Carol Stream, IL require pit dimensions verified against utility locate marks.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60188.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 60128/60116/60197 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60128/60116/60197.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 60128, 60116, 60197, 60188, 60199 (county grid: DuPage County).
+Cast-iron hub corrosion in Carol Stream, IL often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Hard water in Carol Stream, IL accelerates scale on PRV seats and heater elements.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 60188.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: In Carol Stream, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture roster 766047: toilet flange spacer kit and shower cartridge seat score queued for Carol Stream, IL walk-through.
+
+plumbing brief: backflow test cock orientation and scale coupon sampling were cross-checked for the Carol Stream intake packet.
+
+On-site sector marker: DuPage County / ZIP 60188 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60188-8ba6fc1a

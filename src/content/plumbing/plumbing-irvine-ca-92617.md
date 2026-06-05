@@ -12,26 +12,45 @@ lng: -117.7700
 zipSample: ["92604", "92603", "92602", "92619", "92618"]
 zipCodes: ["92618", "92650", "92616", "92612", "92614", "92602", "92606", "92604", "92620", "92698", "92603", "92617"]
 localPaths: ["Orange County / ZIP 92603 sector", "Orange County / ZIP 92619 sector", "Orange County / elevation 148 ft band", "Orange County / ZIP 92618 sector", "Orange County / coords 33.6800, -117.7700"]
-zillowHomeValueUsd: 836949
 ---
 
-**Engineering Notice for Irvine:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Irvine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Dispatch packets reference county grid Orange County near ZIP 92617.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-In Irvine, CA, seasonal demand can change scheduling windows.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Irvine, CA can mask gurgling as a main-line issue.
 
-In Irvine, CA, urgent plumbing issues can escalate quickly.
+Galvanized segments in Irvine, CA may restrict flow long before visible corrosion.
 
-Field note: Connection points spot-checked where accessible (ZIP 92619/92603/92697 zone).
+Polybutylene manifold tags in Irvine, CA basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 92619/92603/92697 intake.
+Risk flag: In Irvine, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 92619, 92603, 92697, 92612, 92606 (county grid: Orange County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Irvine, CA.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 92617.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Expansion tank pre-charge loss in Irvine, CA often tracks heater replacement deferrals.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Lineage note 926040: recirculation pump amp draw captured before Irvine, CA branch isolation.
+
+Supply audit 926040: curb-stop orientation and hose-bib freeze flag reviewed for Irvine, CA at coords 33.6800/-117.7700.
+
+Field routing: water heater T&P path paired with cleanout riser height near ZIP 92617.
+
+Primary postal anchor 92617 with multi-ZIP overlap in Irvine; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: CA-92617-3f23a3f5

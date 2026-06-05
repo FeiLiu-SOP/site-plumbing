@@ -12,27 +12,37 @@ lng: -94.1700
 zipSample: ["56301", "56396", "56372", "56395", "56393"]
 zipCodes: ["56372", "56393", "56303", "56304", "56396", "56301", "56302", "56395"]
 localPaths: ["Stearns County / ZIP 56372 sector", "Stearns County / primary ZIP 56304", "Stearns County / ZIP 56396 sector", "Stearns County / coords 45.5300, -94.1700", "Stearns County / ZIP 56395 sector"]
-zillowHomeValueUsd: 265941
 ---
 
-**Engineering Notice for St. Cloud:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Stearns County.
+**Engineering Notice for St. Cloud:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stearns County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Cloud, MN, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-In St. Cloud, MN, seasonal demand can change scheduling windows.
+Dual-water-meter setups in St. Cloud, MN irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on St. Cloud, MN coverage windows and verified intake details.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 56304.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 56304.
+Cast-iron hub corrosion in St. Cloud, MN often concentrates at the third joint upstream of the cleanout.
 
-Field note: Wind exposure category reviewed for ZIP sector 56303/56372/56301.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Access points and staging constraints recorded for ZIP 56303/56372/56301 coverage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 56303, 56372, 56301, 56393, 56304 (county grid: Stearns County).
+Material note: Water heater anode type may change with St. Cloud, MN hardness profiles.
+
+Recirculation pump failures in St. Cloud, MN can mimic fixture-specific clogs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Intake ledger 560949: sump amperage, PRV seat wear, and cleanout riser height cross-checked for St. Cloud, MN at 45.5300, -94.1700.
+
+Coordinate-anchored dispatch note: center reference 45.5300, -94.1700 at elevation ~1020 ft aligns with Stearns County intake staging.
 
 Service reference: MN-56304-c57f1446

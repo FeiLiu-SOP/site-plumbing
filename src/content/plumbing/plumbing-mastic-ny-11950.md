@@ -12,27 +12,41 @@ lng: -72.8500
 zipSample: ["11950", "11949"]
 zipCodes: ["11949", "11950"]
 localPaths: ["Suffolk County / coords 40.8100, -72.8500", "Suffolk County / ZIP 11949 sector", "Suffolk County / ZIP 11950 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / primary ZIP 11950"]
-zillowHomeValueUsd: 500622
 ---
 
-**Engineering Notice for Mastic:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Mastic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-We coordinate local dispatch coverage around Mastic, NY and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mastic, NY, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: request a written scope before work starts.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mastic, NY systems need rebalancing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11950.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mastic, NY.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Recirculation pump failures in Mastic, NY can mimic fixture-specific clogs.
 
-Field note: Wind exposure category reviewed for ZIP sector 11949/11950.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 11949/11950 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 11949, 11950 (county grid: Suffolk County).
+Cleanout access limits in Mastic, NY frequently extend drain cleaning duration.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 11950.
+
+Permit note: Main water line replacement in Mastic, NY may require ROW restoration planning.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Water heater T&P discharge paths in Mastic, NY must terminate safely before replacement quotes.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Flow dossier 104831: branch wet-vent geometry and jetting nozzle envelope logged for Mastic, NY county grid Suffolk County (ZIP 11950).
+
+ZIP-corridor snapshot for Mastic, NY: sampled sectors include 11950, 11949; county routing grid remains Suffolk County.
 
 Service reference: NY-11950-67611377

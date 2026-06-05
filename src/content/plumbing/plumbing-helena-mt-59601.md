@@ -12,24 +12,43 @@ lng: -112.0200
 zipSample: ["59623", "59602", "59626", "59624", "59625"]
 zipCodes: ["59625", "59624", "59601", "59626", "59623", "59602"]
 localPaths: ["Lewis and Clark County / elevation 3990 ft band", "Lewis and Clark County / ZIP 59623 sector", "Lewis and Clark County / ZIP 59626 sector", "Lewis and Clark County / ZIP 59624 sector", "Lewis and Clark County / ZIP 59625 sector"]
-zillowHomeValueUsd: 434720
 ---
 
-**Engineering Notice for Helena:** Structural loading calculated based on 3990 ft terrain assessment. Regional dispatch grid: Lewis and Clark County.
+**Engineering Notice for Helena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lewis and Clark County.
 
 
-Homeowners in Helena, MT often face sudden plumbing problems that require fast action.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Helena, MT.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Water heater T&P discharge paths in Helena, MT must terminate safely before replacement quotes.
 
-Our service coordination centers on Helena, MT coverage windows and verified intake details.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: request a written scope before work starts.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 59601.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 59601/59626/59625 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 59601, 59626, 59625, 59623, 59624 (county grid: Lewis and Clark County).
+Step: log PRV inlet and outlet readings during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Trenchless pulls in Helena, MT require pit dimensions verified against utility locate marks.
+
+Trenchless sleeve pulls near Helena, MT require pit shoring notes when water tables are high.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Water heater anode type may change with Helena, MT hardness profiles.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Pressure trace 797993: meter-pit clearance and dielectric union checklist staged for Helena, MT near elevation 3990 ft.
+
+Scope trace: floor drain trap primer drip plus dielectric union checklist referenced in Lewis and Clark County county grid review.
+
+On-site sector marker: Lewis and Clark County / primary ZIP 59601 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59601-4c22fdee

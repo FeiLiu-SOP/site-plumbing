@@ -12,27 +12,45 @@ lng: -73.6800
 zipSample: ["12180", "12182", "12181"]
 zipCodes: ["12181", "12182", "12180"]
 localPaths: ["Rensselaer County / coords 42.7400, -73.6800", "Rensselaer County / ZIP 12181 sector", "Rensselaer County / ZIP 12180 sector", "Rensselaer County / ZIP 12182 sector", "Rensselaer County / elevation 249 ft band"]
-zillowHomeValueUsd: 256193
 ---
 
-**Engineering Notice for Troy:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Rensselaer County.
+**Engineering Notice for Troy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rensselaer County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dispatch packets reference county grid Rensselaer County near ZIP 12182.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: avoid large upfront payments without milestones.
+Basement floor drains in Troy, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 12182.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Troy, NY systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 12180/12182/12181.
+Risk flag: In Troy, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 12180/12182/12181.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 12182.
 
-Dispatch sectors sampled: ZIP 12180, 12182, 12181 (county grid: Rensselaer County).
+Hard water in Troy, NY accelerates scale on PRV seats and heater elements.
+
+Step: map sump float travel and check-valve orientation for Troy, NY basements.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 12182.
+
+Permit note: Main water line replacement in Troy, NY may require ROW restoration planning.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Lineage note 447425: recirculation pump amp draw captured before Troy, NY branch isolation.
+
+Drain map 447425: camera-pass priority and expansion-tank pre-charge noted for Troy, NY postal sector 12182.
+
+Scope trace: water heater T&P path plus copper pinhole cluster referenced in Rensselaer County county grid review.
+
+ZIP-corridor snapshot for Troy, NY: sampled sectors include 12182, 12181, 12180; county routing grid remains Rensselaer County.
 
 Service reference: NY-12182-1083cc61

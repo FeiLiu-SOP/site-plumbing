@@ -12,24 +12,43 @@ lng: -106.4100
 zipSample: ["88081"]
 zipCodes: ["88081"]
 localPaths: ["Doña Ana County / elevation 4062 ft band", "Doña Ana County / coords 32.0400, -106.4100", "Doña Ana County / primary ZIP 88081", "Doña Ana County / ZIP 88081 sector"]
-zillowHomeValueUsd: 216182
 ---
 
-**Engineering Notice for Chaparral:** Structural loading calculated based on 4062 ft terrain assessment. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Chaparral:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Doña Ana County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Chaparral, NM coverage windows and verified intake details.
+Risk flag: Seasonal Chaparral, NM irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chaparral, NM, but intake notes help reduce delays.
+Step: map sump float travel and check-valve orientation for Chaparral, NM basements.
 
-Transparent pricing helps you compare like-for-like scope items.
+Permit note: Main water line replacement in Chaparral, NM may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 88081 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 88081 (county grid: Doña Ana County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is cabling enough? In Chaparral, NM, pipe material and blockage type dictate method.
+
+Water heater T&P discharge paths in Chaparral, NM must terminate safely before replacement quotes.
+
+Material note: Water heater anode type may change with Chaparral, NM hardness profiles.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Drain map 763841: camera-pass priority and expansion-tank pre-charge noted for Chaparral, NM postal sector 88081.
+
+Intake ledger 763841: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Chaparral, NM at 32.0400, -106.4100.
+
+On-site sector marker: Doña Ana County / primary ZIP 88081 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88081-7a58ee82

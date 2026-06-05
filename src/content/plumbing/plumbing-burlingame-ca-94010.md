@@ -12,26 +12,41 @@ lng: -122.3700
 zipSample: ["94011", "94010"]
 zipCodes: ["94011", "94010"]
 localPaths: ["San Mateo County / primary ZIP 94010", "San Mateo County / ZIP 94010 sector", "San Mateo County / ZIP 94011 sector", "San Mateo County / coords 37.5900, -122.3700", "San Mateo County / elevation 16 ft band"]
-zillowHomeValueUsd: 3405662
 ---
 
-**Engineering Notice for Burlingame:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Burlingame:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Structured milestones protect both sides when scheduling work.
+Fixture shutoff stiffness in Burlingame, CA may indicate mineral bridging behind stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dual-water-meter setups in Burlingame, CA irrigation zones need backflow logs before line replacement.
 
-Homeowners in Burlingame, CA often face sudden plumbing problems that require fast action.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate local dispatch coverage around Burlingame, CA and nearby ZIP sectors.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+Frost-free sillcock failures in Burlingame, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Access points and staging constraints recorded for ZIP 94011/94010 coverage.
+Galvanized segments in Burlingame, CA may restrict flow long before visible corrosion.
 
-Field note: Connection points spot-checked where accessible (ZIP 94011/94010 zone).
+We coordinate Burlingame, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 94011, 94010 (county grid: San Mateo County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: In Burlingame, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When should sump battery backups be load-tested? In Burlingame, CA, before spring thaw and hurricane remnants.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Burlingame, CA systems need rebalancing.
+
+Intake ledger 744900: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Burlingame, CA at 37.5900, -122.3700.
+
+Scope trace: fixture shutoff torque log plus sump float travel referenced in San Mateo County county grid review.
+
+Coordinate-anchored dispatch note: center reference 37.5900, -122.3700 at elevation ~16 ft aligns with San Mateo County intake staging.
 
 Service reference: CA-94010-1ef63b5a

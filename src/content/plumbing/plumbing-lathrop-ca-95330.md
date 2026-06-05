@@ -12,24 +12,43 @@ lng: -121.3100
 zipSample: ["95330", "95231"]
 zipCodes: ["95231", "95330"]
 localPaths: ["San Joaquin County / coords 37.8100, -121.3100", "San Joaquin County / ZIP 95330 sector", "San Joaquin County / primary ZIP 95330", "San Joaquin County / ZIP 95231 sector", "San Joaquin County / elevation 3 ft band"]
-zillowHomeValueUsd: 645820
 ---
 
-**Engineering Notice for Lathrop:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Lathrop:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
 
 
-We coordinate local dispatch coverage around Lathrop, CA and nearby ZIP sectors.
+Hydrostatic holds in Lathrop, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: map sump float travel and check-valve orientation for Lathrop, CA basements.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Moisture pathway inspection logged near ZIP 95231/95330 intake.
+FAQ: When should sump battery backups be load-tested? In Lathrop, CA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 95231, 95330 (county grid: San Joaquin County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Lathrop, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Cleanout access limits in Lathrop, CA frequently extend drain cleaning duration.
+
+Fixture shutoff stiffness in Lathrop, CA may indicate mineral bridging behind stems.
+
+We coordinate Lathrop, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Trenchless sleeve pulls near Lathrop, CA require pit shoring notes when water tables are high.
+
+Pressure trace 395354: meter-pit clearance and dielectric union checklist staged for Lathrop, CA near elevation 3 ft.
+
+Fixture roster 395354: toilet flange spacer kit and shower cartridge seat score queued for Lathrop, CA walk-through.
+
+Field routing: toilet flange spacer kit paired with slab leak listening window near ZIP 95330.
+
+**Regional Infrastructure Brief:** Coverage anchor set to San Joaquin County. Reference elevation: 3 ft. Primary coordinates: 37.8100, -121.3100. ZIP sample: 95330, 95231. Logistics priority: Serving residential sectors across San Joaquin County and north-east ZIP 95330 grid.
 
 Service reference: CA-95330-8b62dfe1

@@ -12,26 +12,43 @@ lng: -122.1400
 zipSample: ["94303"]
 zipCodes: ["94303"]
 localPaths: ["San Mateo County / primary ZIP 94303", "San Mateo County / ZIP 94303 sector", "San Mateo County / elevation 10 ft band", "San Mateo County / coords 37.4700, -122.1400"]
-zillowHomeValueUsd: 2133406
 ---
 
-**Engineering Notice for East Palo Alto:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for East Palo Alto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with East Palo Alto, CA hardness profiles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-In East Palo Alto, CA, seasonal demand can change scheduling windows.
+Cast-iron hub corrosion in East Palo Alto, CA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Palo Alto, CA, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 94303 coverage.
+Frost-free sillcock failures in East Palo Alto, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 94303 zone).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 94303 (county grid: San Mateo County).
+Galvanized segments in East Palo Alto, CA may restrict flow long before visible corrosion.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 94303.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Polybutylene manifold tags in East Palo Alto, CA basements should be photographed before any wall chase opens.
+
+Hydrostatic holds in East Palo Alto, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 103145: meter-pit clearance and dielectric union checklist staged for East Palo Alto, CA near elevation 10 ft.
+
+Supply audit 103145: curb-stop orientation and hose-bib freeze flag reviewed for East Palo Alto, CA at coords 37.4700/-122.1400.
+
+On-site sector marker: San Mateo County / primary ZIP 94303 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94303-adc885c8

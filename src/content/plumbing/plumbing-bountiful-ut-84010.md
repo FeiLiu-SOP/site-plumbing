@@ -12,26 +12,43 @@ lng: -111.8600
 zipSample: ["84011", "84010"]
 zipCodes: ["84011", "84010"]
 localPaths: ["Davis County / ZIP 84010 sector", "Davis County / coords 40.8700, -111.8600", "Davis County / primary ZIP 84010", "Davis County / elevation 4783 ft band", "Davis County / ZIP 84011 sector"]
-zillowHomeValueUsd: 579869
 ---
 
-**Engineering Notice for Bountiful:** Structural loading calculated based on 4783 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Bountiful:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is cabling enough? In Bountiful, UT, pipe material and blockage type dictate method.
 
-We coordinate local dispatch coverage around Bountiful, UT and nearby ZIP sectors.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Moisture pathway inspection logged near ZIP 84010/84011 intake.
+Hydrostatic holds in Bountiful, UT slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84010/84011.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 84010, 84011 (county grid: Davis County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Across Bountiful, UT, main-line bellies can trap debris even when fixtures drain normally.
+
+Material note: Water heater anode type may change with Bountiful, UT hardness profiles.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Polybutylene manifold tags in Bountiful, UT basements should be photographed before any wall chase opens.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Fixture roster 573780: toilet flange spacer kit and shower cartridge seat score queued for Bountiful, UT walk-through.
+
+Supply audit 573780: curb-stop orientation and hose-bib freeze flag reviewed for Bountiful, UT at coords 40.8700/-111.8600.
+
+Field routing: copper pinhole cluster paired with shower cartridge seat score near ZIP 84010.
+
+On-site sector marker: Davis County / coords 40.8700, -111.8600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84010-54da2f62

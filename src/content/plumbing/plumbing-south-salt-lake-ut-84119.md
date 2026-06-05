@@ -12,26 +12,43 @@ lng: -111.9000
 zipSample: ["84190", "84119", "84115", "84165"]
 zipCodes: ["84119", "84190", "84115", "84165"]
 localPaths: ["Salt Lake County / ZIP 84190 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / elevation 4262 ft band", "Salt Lake County / ZIP 84115 sector", "Salt Lake County / primary ZIP 84119"]
-zillowHomeValueUsd: 437596
 ---
 
-**Engineering Notice for South Salt Lake:** Structural loading calculated based on 4262 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Salt Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our service coordination centers on South Salt Lake, UT coverage windows and verified intake details.
+Branch wet vents in South Salt Lake, UT can mask gurgling as a main-line issue.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Salt Lake, UT, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in South Salt Lake, UT systems need rebalancing.
 
-Tip: confirm licensing and insurance before approving work.
+Dispatch packets reference county grid Salt Lake County near ZIP 84119.
 
-Field note: Access points and staging constraints recorded for ZIP 84190/84115/84119 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Connection points spot-checked where accessible (ZIP 84190/84115/84119 zone).
+Trenchless sleeve pulls near South Salt Lake, UT require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 84190, 84115, 84119, 84165 (county grid: Salt Lake County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Basement floor drains in South Salt Lake, UT should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Polybutylene manifold tags in South Salt Lake, UT basements should be photographed before any wall chase opens.
+
+Lineage note 917864: recirculation pump amp draw captured before South Salt Lake, UT branch isolation.
+
+Supply audit 917864: curb-stop orientation and hose-bib freeze flag reviewed for South Salt Lake, UT at coords 40.7100/-111.9000.
+
+plumbing brief: fixture shutoff torque log and slab leak listening window were cross-checked for the South Salt Lake intake packet.
+
+On-site sector marker: Salt Lake County / ZIP 84119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84119-804e122c

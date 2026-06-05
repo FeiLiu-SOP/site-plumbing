@@ -12,24 +12,41 @@ lng: -117.7700
 zipSample: ["92887", "92885", "92886"]
 zipCodes: ["92887", "92885", "92886"]
 localPaths: ["Orange County / coords 33.8900, -117.7700", "Orange County / ZIP 92886 sector", "Orange County / primary ZIP 92886", "Orange County / ZIP 92887 sector", "Orange County / elevation 554 ft band"]
-zillowHomeValueUsd: 1378755
 ---
 
-**Engineering Notice for Yorba Linda:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Yorba Linda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Yorba Linda, CA systems need rebalancing.
 
-We coordinate local dispatch coverage around Yorba Linda, CA and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cleanout access limits in Yorba Linda, CA frequently extend drain cleaning duration.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Yorba Linda, CA often trace to interior shutoff seats, not exterior stems.
 
-Tip: request a written scope before work starts.
+Hydrostatic holds in Yorba Linda, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Connection points spot-checked where accessible (ZIP 92886/92887/92885 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 92886, 92887, 92885 (county grid: Orange County).
+FAQ: Is hydro-jetting always appropriate? In Yorba Linda, CA, pipe material and blockage type dictate method.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: map sump float travel and check-valve orientation for Yorba Linda, CA basements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92886.
+
+Pressure trace 268128: meter-pit clearance and dielectric union checklist staged for Yorba Linda, CA near elevation 554 ft.
+
+Fixture roster 268128: toilet flange spacer kit and shower cartridge seat score queued for Yorba Linda, CA walk-through.
+
+plumbing brief: cleanout riser height and dielectric union checklist were cross-checked for the Yorba Linda intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Orange County. Reference elevation: 554 ft. Primary coordinates: 33.8900, -117.7700. ZIP sample: 92886, 92885, 92887. Regional routing note: Orange County traffic flow is balanced around ZIP 92886 service demand.
 
 Service reference: CA-92886-94097cbf

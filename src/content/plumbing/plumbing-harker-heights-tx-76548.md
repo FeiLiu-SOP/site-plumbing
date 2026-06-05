@@ -12,26 +12,41 @@ lng: -97.6400
 zipSample: ["76513", "76548"]
 zipCodes: ["76513", "76548"]
 localPaths: ["Bell County / coords 31.0600, -97.6400", "Bell County / ZIP 76548 sector", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76548", "Bell County / elevation 830 ft band"]
-zillowHomeValueUsd: 298939
 ---
 
-**Engineering Notice for Harker Heights:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Bell County.
+**Engineering Notice for Harker Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bell County.
 
 
-Local conditions in Harker Heights, TX can affect timelines and material choices.
+Galvanized segments in Harker Heights, TX may restrict flow long before visible corrosion.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-We coordinate local dispatch coverage around Harker Heights, TX and nearby ZIP sectors.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harker Heights, TX, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Access points and staging constraints recorded for ZIP 76548/76513 coverage.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 76548/76513 intake.
+Frost-free sillcock failures in Harker Heights, TX often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 76548, 76513 (county grid: Bell County).
+Hose bib split patterns in Harker Heights, TX often follow missed winterization.
+
+Trenchless pulls in Harker Heights, TX require pit dimensions verified against utility locate marks.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Across Harker Heights, TX, main-line bellies can trap debris even when fixtures drain normally.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 199583: toilet flange spacer kit and shower cartridge seat score queued for Harker Heights, TX walk-through.
+
+Pressure trace 199583: meter-pit clearance and dielectric union checklist staged for Harker Heights, TX near elevation 830 ft.
+
+Field routing: toilet flange spacer kit paired with floor drain trap primer drip near ZIP 76548.
+
+ZIP-corridor snapshot for Harker Heights, TX: sampled sectors include 76513, 76548; county routing grid remains Bell County.
 
 Service reference: TX-76548-785ffa48

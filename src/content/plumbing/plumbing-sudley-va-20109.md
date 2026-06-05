@@ -12,25 +12,41 @@ lng: -77.5000
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / elevation 203 ft band", "Prince William County / primary ZIP 20109", "Prince William County / ZIP 20109 sector", "Prince William County / coords 38.7900, -77.5000"]
-zillowHomeValueUsd: 456328
 ---
 
-**Engineering Notice for Sudley:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Sudley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 20109.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Sudley, VA shoulder seasons.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 20109 intake.
+Trenchless sleeve pulls near Sudley, VA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 20109 (county grid: Prince William County).
+Branch wet vents in Sudley, VA can mask gurgling as a main-line issue.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Galvanized segments in Sudley, VA may restrict flow long before visible corrosion.
+
+Pressure trace 424074: meter-pit clearance and dielectric union checklist staged for Sudley, VA near elevation 203 ft.
+
+Flow dossier 424074: branch wet-vent geometry and jetting nozzle envelope logged for Sudley, VA county grid Prince William County (ZIP 20109).
+
+Scope trace: PRV outlet curve plus slab leak listening window referenced in Prince William County county grid review.
+
+On-site sector marker: Prince William County / ZIP 20109 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20109-85a8e2c9

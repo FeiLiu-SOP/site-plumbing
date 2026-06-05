@@ -12,26 +12,37 @@ lng: -98.3300
 zipSample: ["78572", "78574"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / elevation 125 ft band", "Hidalgo County / coords 26.2000, -98.3300", "Hidalgo County / ZIP 78572 sector"]
-zillowHomeValueUsd: 196724
 ---
 
-**Engineering Notice for Mission:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Mission:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-We coordinate local dispatch coverage around Mission, TX and nearby ZIP sectors.
+Material note: Water heater anode type may change with Mission, TX hardness profiles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Mission, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Mission, TX older duplexes can mask tub gurgle as a main-line failure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Seasonal Mission, TX irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hydro-jetting in Mission, TX requires camera confirmation before nozzle pressure is raised.
 
-Field note: Wind exposure category reviewed for ZIP sector 78572/78574.
+Frost-free sillcock failures in Mission, TX often trace to interior shutoff seats, not exterior stems.
 
-Field note: Moisture pathway inspection logged near ZIP 78572/78574 intake.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 78572, 78574 (county grid: Hidalgo County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mission, TX systems need rebalancing.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hydrostatic holds in Mission, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Lineage note 668602: recirculation pump amp draw captured before Mission, TX branch isolation.
+
+On-site sector marker: Hidalgo County / coords 26.2000, -98.3300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78574-b2214823

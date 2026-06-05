@@ -12,26 +12,41 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48335", "48334", "48336", "48331"]
 localPaths: ["Oakland County / ZIP 48331 sector", "Oakland County / ZIP 48336 sector", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48334 sector", "Oakland County / ZIP 48335 sector"]
-zillowHomeValueUsd: 300811
 ---
 
-**Engineering Notice for Farmington Hills:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Farmington Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Water heater anode type may change with Farmington Hills, MI hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Farmington Hills, MI often trace to interior shutoff seats, not exterior stems.
 
-Our service coordination centers on Farmington Hills, MI coverage windows and verified intake details.
+Trenchless pulls in Farmington Hills, MI require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: confirm licensing and insurance before approving work.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Connection points spot-checked where accessible (ZIP 48331/48334/48335 zone).
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 48331/48334/48335.
+Recirculation pump failures in Farmington Hills, MI can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 48331, 48334, 48335, 48336 (county grid: Oakland County).
+Hose bib split patterns in Farmington Hills, MI often follow missed winterization.
+
+Cleanout access limits in Farmington Hills, MI frequently extend drain cleaning duration.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Sump discharge freeze risk in Farmington Hills, MI should be reviewed before spring thaw cycles.
+
+FAQ: When is cabling enough? In Farmington Hills, MI, pipe material and blockage type dictate method.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Intake ledger 757333: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Farmington Hills, MI at 42.4900, -83.3800.
+
+ZIP-corridor snapshot for Farmington Hills, MI: sampled sectors include 48335, 48334, 48331, 48336; county routing grid remains Oakland County.
 
 Service reference: MI-48336-078b5cfb

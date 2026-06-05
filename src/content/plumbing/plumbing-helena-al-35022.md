@@ -12,27 +12,43 @@ lng: -86.8800
 zipSample: ["35080", "35022"]
 zipCodes: ["35022", "35080"]
 localPaths: ["Shelby County / elevation 430 ft band", "Shelby County / primary ZIP 35022", "Shelby County / coords 33.2800, -86.8800", "Shelby County / ZIP 35080 sector", "Shelby County / ZIP 35022 sector"]
-zillowHomeValueUsd: 279916
 ---
 
-**Engineering Notice for Helena:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Helena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hose bib split patterns in Helena, AL often follow missed winterization.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 35022.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is hydro-jetting always appropriate? In Helena, AL, pipe material and blockage type dictate method.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35022.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+In Helena, AL, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Access points and staging constraints recorded for ZIP 35022/35080 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 35022/35080 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 35022, 35080 (county grid: Shelby County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: When should sump battery backups be load-tested? In Helena, AL, before spring thaw and hurricane remnants.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Frost-free sillcock failures in Helena, AL often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 288447: curb-stop orientation and hose-bib freeze flag reviewed for Helena, AL at coords 33.2800/-86.8800.
+
+Intake ledger 288447: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Helena, AL at 33.2800, -86.8800.
+
+Field routing: dielectric union checklist paired with PRV outlet curve near ZIP 35022.
+
+On-site sector marker: Shelby County / ZIP 35080 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35022-34d9314d

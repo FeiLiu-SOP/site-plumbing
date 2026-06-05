@@ -12,25 +12,43 @@ lng: -92.0800
 zipSample: ["71202", "71213", "71212", "71210", "71201"]
 zipCodes: ["71210", "71213", "71202", "71217", "71212", "71207", "71209", "71201", "71203"]
 localPaths: ["Ouachita Parish / ZIP 71213 sector", "Ouachita Parish / primary ZIP 71212", "Ouachita Parish / ZIP 71212 sector", "Ouachita Parish / coords 32.5200, -92.0800", "Ouachita Parish / ZIP 71210 sector"]
-zillowHomeValueUsd: 182871
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Ouachita Parish.
+**Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ouachita Parish.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 71212.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Monroe, LA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-We coordinate local dispatch coverage around Monroe, LA and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 71210/71213/71201.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 71210, 71213, 71201, 71212, 71217 (county grid: Ouachita Parish).
+Material note: Water heater anode type may change with Monroe, LA hardness profiles.
+
+Stack vent offsets in Monroe, LA older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Monroe, LA systems need rebalancing.
+
+Water heater T&P discharge paths in Monroe, LA must terminate safely before replacement quotes.
+
+Step: map sump float travel and check-valve orientation for Monroe, LA basements.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Polybutylene manifold tags in Monroe, LA basements should be photographed before any wall chase opens.
+
+Risk flag: Seasonal Monroe, LA irrigation cross-connections can mask domestic pressure loss.
+
+Lineage note 927564: recirculation pump amp draw captured before Monroe, LA branch isolation.
+
+plumbing brief: slab penetration sleeve seal and hose bib freeze flag were cross-checked for the Monroe intake packet.
+
+On-site sector marker: Ouachita Parish / ZIP 71210 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71212-4d80f795

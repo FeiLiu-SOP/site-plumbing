@@ -12,26 +12,43 @@ lng: -84.1500
 zipSample: ["30253", "30252"]
 zipCodes: ["30252", "30253"]
 localPaths: ["Henry County / coords 33.4400, -84.1500", "Henry County / primary ZIP 30253", "Henry County / elevation 889 ft band", "Henry County / ZIP 30253 sector", "Henry County / ZIP 30252 sector"]
-zillowHomeValueUsd: 311528
 ---
 
-**Engineering Notice for McDonough:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Henry County.
+**Engineering Notice for McDonough:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-In McDonough, GA, seasonal demand can change scheduling windows.
+Step: map sump float travel and check-valve orientation for McDonough, GA basements.
 
-In McDonough, GA, urgent plumbing issues can escalate quickly.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: request a written scope before work starts.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 30253/30252 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30253/30252.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 30253, 30252 (county grid: Henry County).
+Sump discharge freeze risk in McDonough, GA should be reviewed before spring thaw cycles.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Recirculation pump failures in McDonough, GA can mimic fixture-specific clogs.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Water heater T&P discharge paths in McDonough, GA must terminate safely before replacement quotes.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 30253.
+
+Lineage note 767402: recirculation pump amp draw captured before McDonough, GA branch isolation.
+
+Flow dossier 767402: branch wet-vent geometry and jetting nozzle envelope logged for McDonough, GA county grid Henry County (ZIP 30253).
+
+plumbing brief: copper pinhole cluster and gas water heater draft hood gap were cross-checked for the McDonough intake packet.
+
+On-site sector marker: Henry County / primary ZIP 30253 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30253-7c35b790

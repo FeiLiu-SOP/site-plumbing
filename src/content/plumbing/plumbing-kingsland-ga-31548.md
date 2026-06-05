@@ -12,26 +12,41 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / elevation 62 ft band", "Camden County / coords 30.8200, -81.7200", "Camden County / primary ZIP 31548", "Camden County / ZIP 31548 sector"]
-zillowHomeValueUsd: 297348
 ---
 
-**Engineering Notice for Kingsland:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for Kingsland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Kingsland, GA shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Kingsland, GA often trace to interior shutoff seats, not exterior stems.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless sleeve pulls near Kingsland, GA require pit shoring notes when water tables are high.
 
-We coordinate local dispatch coverage around Kingsland, GA and nearby ZIP sectors.
+Hydro-jetting in Kingsland, GA requires camera confirmation before nozzle pressure is raised.
 
-Field note: Wind exposure category reviewed for ZIP sector 31548.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31548.
+Hydrostatic holds in Kingsland, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 31548 (county grid: Camden County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kingsland, GA systems need rebalancing.
+
+Material note: Water heater anode type may change with Kingsland, GA hardness profiles.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Expansion tank pre-charge loss in Kingsland, GA often tracks heater replacement deferrals.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 694246: meter-pit clearance and dielectric union checklist staged for Kingsland, GA near elevation 62 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Camden County and primary ZIP 31548. Terrain reference: 62 ft. Center point: 30.8200, -81.7200. ZIP sample: 31548. Logistics priority: Serving residential sectors across Camden County and north-east ZIP 31548 grid.
 
 Service reference: GA-31548-de327fe7

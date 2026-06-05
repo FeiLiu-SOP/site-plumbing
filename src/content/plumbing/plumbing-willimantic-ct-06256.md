@@ -12,25 +12,43 @@ lng: -72.2100
 zipSample: ["06256", "06226"]
 zipCodes: ["06256", "06226"]
 localPaths: ["Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / ZIP 06226 sector", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / primary ZIP 06256", "Southeastern Connecticut County / elevation 384 ft band"]
-zillowHomeValueUsd: 303885
 ---
 
-**Engineering Notice for Willimantic:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for Willimantic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.
 
 
-Tip: avoid large upfront payments without milestones.
+Sump discharge freeze risk in Willimantic, CT should be reviewed before spring thaw cycles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log PRV inlet and outlet readings during intake.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 06256.
+Sewer gas odors in Willimantic, CT should trigger trap seal and vent path review.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Willimantic, CT, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 06226/06256 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 06226, 06256 (county grid: Southeastern Connecticut County).
+FAQ: When should sump battery backups be load-tested? In Willimantic, CT, before spring thaw and hurricane remnants.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+CPVC solvent weld times shift with ambient humidity during Willimantic, CT shoulder seasons.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Basement floor drains in Willimantic, CT should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Willimantic, CT systems need rebalancing.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 06256.
+
+Supply audit 780239: curb-stop orientation and hose-bib freeze flag reviewed for Willimantic, CT at coords 41.7200/-72.2100.
+
+Pressure trace 780239: meter-pit clearance and dielectric union checklist staged for Willimantic, CT near elevation 384 ft.
+
+Field routing: hose bib freeze flag paired with water heater T&P path near ZIP 06256.
+
+ZIP-corridor snapshot for Willimantic, CT: sampled sectors include 06256, 06226; county routing grid remains Southeastern Connecticut County.
 
 Service reference: CT-06256-f4928881

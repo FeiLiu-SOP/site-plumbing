@@ -12,24 +12,39 @@ lng: -77.1800
 zipSample: ["22159", "22150", "22156", "22313", "22161"]
 zipCodes: ["22150", "22161", "22159", "22156", "22313", "22151"]
 localPaths: ["Fairfax County / elevation 256 ft band", "Fairfax County / coords 38.7800, -77.1800", "Fairfax County / ZIP 22313 sector", "Fairfax County / ZIP 22156 sector", "Fairfax County / ZIP 22150 sector"]
-zillowHomeValueUsd: 718949
 ---
 
-**Engineering Notice for Springfield:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-Our service coordination centers on Springfield, VA coverage windows and verified intake details.
+FAQ: When is cabling enough? In Springfield, VA, pipe material and blockage type dictate method.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Springfield, VA, before spring thaw and hurricane remnants.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+Polybutylene manifold tags in Springfield, VA basements should be photographed before any wall chase opens.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless sleeve pulls near Springfield, VA require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 22151/22159/22313.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 22151, 22159, 22313, 22156, 22161 (county grid: Fairfax County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+CPVC solvent weld times shift with ambient humidity during Springfield, VA shoulder seasons.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 22151.
+
+Dispatch packets reference county grid Fairfax County near ZIP 22151.
+
+Flow dossier 819856: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, VA county grid Fairfax County (ZIP 22151).
+
+plumbing brief: slab leak listening window and hose bib freeze flag were cross-checked for the Springfield intake packet.
+
+On-site sector marker: Fairfax County / ZIP 22151 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22151-e09bb039

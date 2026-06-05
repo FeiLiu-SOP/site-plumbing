@@ -12,26 +12,43 @@ lng: -81.4900
 zipSample: ["32095", "32092"]
 zipCodes: ["32095", "32092"]
 localPaths: ["St. Johns County / elevation 36 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / coords 29.9700, -81.4900", "St. Johns County / primary ZIP 32092", "St. Johns County / ZIP 32092 sector"]
-zillowHomeValueUsd: 467085
 ---
 
-**Engineering Notice for World Golf Village:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: St. Johns County.
+**Engineering Notice for World Golf Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Johns County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Our service coordination centers on World Golf Village, FL coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stack vent offsets in World Golf Village, FL older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in World Golf Village, FL, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Structured milestones protect both sides when scheduling work.
+Trenchless pulls in World Golf Village, FL require pit dimensions verified against utility locate marks.
 
-Field note: Connection points spot-checked where accessible (ZIP 32095/32092 zone).
+Water heater T&P discharge paths in World Golf Village, FL must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 32095/32092.
+Frost-free sillcock failures in World Golf Village, FL often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 32095, 32092 (county grid: St. Johns County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is cabling enough? In World Golf Village, FL, pipe material and blockage type dictate method.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Irrigation cross-connections in World Golf Village, FL can back-siphon domestic lines during main breaks.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Lineage note 132523: recirculation pump amp draw captured before World Golf Village, FL branch isolation.
+
+Drain map 132523: camera-pass priority and expansion-tank pre-charge noted for World Golf Village, FL postal sector 32092.
+
+On-site sector marker: St. Johns County / primary ZIP 32092 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32092-db460758

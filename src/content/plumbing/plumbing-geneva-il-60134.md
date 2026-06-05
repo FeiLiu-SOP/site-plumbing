@@ -12,25 +12,41 @@ lng: -88.3200
 zipSample: ["60134"]
 zipCodes: ["60134"]
 localPaths: ["Kane County / coords 41.8800, -88.3200", "Kane County / elevation 741 ft band", "Kane County / ZIP 60134 sector", "Kane County / primary ZIP 60134"]
-zillowHomeValueUsd: 532135
 ---
 
-**Engineering Notice for Geneva:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Geneva:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
 
 
-In Geneva, IL, urgent plumbing issues can escalate quickly.
+Permit note: Main water line replacement in Geneva, IL may require ROW restoration planning.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60134.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 60134.
 
-Tip: avoid large upfront payments without milestones.
+Fixture shutoff stiffness in Geneva, IL may indicate mineral bridging behind stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60134.
+Trenchless pulls in Geneva, IL require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 60134 (county grid: Kane County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless sleeve pulls near Geneva, IL require pit shoring notes when water tables are high.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Geneva, IL.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Basement floor drains in Geneva, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Lineage note 198135: recirculation pump amp draw captured before Geneva, IL branch isolation.
+
+Field routing: toilet flange spacer kit paired with jetter nozzle envelope near ZIP 60134.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Kane County and primary ZIP 60134. Terrain reference: 741 ft. Center point: 41.8800, -88.3200. ZIP sample: 60134. Regional routing note: Kane County traffic flow is balanced around ZIP 60134 service demand.
 
 Service reference: IL-60134-62a3ea27

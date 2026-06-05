@@ -12,28 +12,39 @@ lng: -95.1100
 zipSample: ["77573", "77592", "77539", "77574", "77511"]
 zipCodes: ["77574", "77598", "77573", "77511", "77592", "77565", "77539"]
 localPaths: ["Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77592 sector", "Galveston County / primary ZIP 77573", "Galveston County / coords 29.4900, -95.1100", "Galveston County / ZIP 77511 sector"]
-zillowHomeValueUsd: 382846
 ---
 
-**Engineering Notice for League City:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Galveston County.
+**Engineering Notice for League City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in League City, TX can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around League City, TX and nearby ZIP sectors.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In League City, TX, before spring thaw and hurricane remnants.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77573.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 77573.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Moisture pathway inspection logged near ZIP 77598/77573/77574 intake.
+Basement floor drains in League City, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 77598/77573/77574.
+Across League City, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 77598, 77573, 77574, 77539, 77511 (county grid: Galveston County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture shutoff stiffness in League City, TX may indicate mineral bridging behind stems.
+
+Recirculation pump failures in League City, TX can mimic fixture-specific clogs.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in League City, TX.
+
+Drain map 344833: camera-pass priority and expansion-tank pre-charge noted for League City, TX postal sector 77573.
+
+Scope trace: dielectric union checklist plus jetter nozzle envelope referenced in Galveston County county grid review.
+
+On-site sector marker: Galveston County / ZIP 77574 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77573-3b42793a

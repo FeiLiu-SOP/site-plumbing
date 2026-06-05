@@ -12,24 +12,41 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / elevation 623 ft band", "Will County / primary ZIP 60404", "Will County / ZIP 60404 sector", "Will County / coords 41.5200, -88.2100"]
-zillowHomeValueUsd: 404146
 ---
 
-**Engineering Notice for Shorewood:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Shorewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Shorewood, IL and nearby ZIP sectors.
+Dual-water-meter setups in Shorewood, IL irrigation zones need backflow logs before line replacement.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shorewood, IL, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 60404 intake.
+Cast-iron hub corrosion in Shorewood, IL often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 60404 (county grid: Will County).
+Risk flag: In Shorewood, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Hydrostatic holds in Shorewood, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: Water heater anode type may change with Shorewood, IL hardness profiles.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Drain map 834856: camera-pass priority and expansion-tank pre-charge noted for Shorewood, IL postal sector 60404.
+
+Fixture roster 834856: toilet flange spacer kit and shower cartridge seat score queued for Shorewood, IL walk-through.
+
+On-site sector marker: Will County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60404-c9efa45f

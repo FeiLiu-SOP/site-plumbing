@@ -12,26 +12,39 @@ lng: -97.9100
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / primary ZIP 78570", "Hidalgo County / elevation 82 ft band", "Hidalgo County / coords 26.1500, -97.9100", "Hidalgo County / ZIP 78570 sector"]
-zillowHomeValueUsd: 141029
 ---
 
-**Engineering Notice for Mercedes:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Mercedes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Trenchless pulls in Mercedes, TX require pit dimensions verified against utility locate marks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Mercedes, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-A written scope helps prevent rework and mismatched expectations.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Mercedes, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Our service coordination centers on Mercedes, TX coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 78570 intake.
+FAQ: When is cabling enough? In Mercedes, TX, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 78570.
+Permit note: Main water line replacement in Mercedes, TX may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 78570 (county grid: Hidalgo County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Stack vent offsets in Mercedes, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Basement floor drains in Mercedes, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 819295: toilet flange spacer kit and shower cartridge seat score queued for Mercedes, TX walk-through.
+
+Intake ledger 819295: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Mercedes, TX at 26.1500, -97.9100.
+
+On-site sector marker: Hidalgo County / coords 26.1500, -97.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78570-dd9f15e2

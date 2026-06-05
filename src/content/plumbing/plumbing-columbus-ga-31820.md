@@ -12,26 +12,41 @@ lng: -84.8800
 zipSample: ["31829", "31902", "31999", "31995", "31901"]
 zipCodes: ["31902", "31993", "31903", "31906", "31908", "31995", "31829", "31997", "31917", "31909", "31808", "31907"]
 localPaths: ["Muscogee County / ZIP 31901 sector", "Muscogee County / primary ZIP 31820", "Muscogee County / elevation 322 ft band", "Muscogee County / ZIP 31995 sector", "Muscogee County / ZIP 31999 sector"]
-zillowHomeValueUsd: 382981
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Muscogee County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muscogee County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Columbus, GA, but intake notes help reduce delays.
+Sump discharge freeze risk in Columbus, GA should be reviewed before spring thaw cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in Columbus, GA require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 31993/31995/31999 zone).
+Material note: Water heater anode type may change with Columbus, GA hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31993/31995/31999.
+Across Columbus, GA, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 31993, 31995, 31999, 31997, 31914 (county grid: Muscogee County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Hard water in Columbus, GA accelerates scale on PRV seats and heater elements.
+
+Dual-water-meter setups in Columbus, GA irrigation zones need backflow logs before line replacement.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 31820.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Lineage note 869574: recirculation pump amp draw captured before Columbus, GA branch isolation.
+
+plumbing brief: dielectric union checklist and hose bib freeze flag were cross-checked for the Columbus intake packet.
+
+On-site sector marker: Muscogee County / ZIP 31998 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31820-d450f4b0

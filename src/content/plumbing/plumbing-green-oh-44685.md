@@ -12,26 +12,39 @@ lng: -81.4800
 zipSample: ["44685", "44319", "44216", "44312", "44232"]
 zipCodes: ["44232", "44720", "44685", "44216", "44312", "44319"]
 localPaths: ["Summit County / ZIP 44312 sector", "Summit County / coords 40.9500, -81.4800", "Summit County / ZIP 44685 sector", "Summit County / elevation 1191 ft band", "Summit County / ZIP 44319 sector"]
-zillowHomeValueUsd: 315340
 ---
 
-**Engineering Notice for Green:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Summit County.
+**Engineering Notice for Green:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Green, OH, but intake notes help reduce delays.
+Trenchless pulls in Green, OH require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Main water line replacement in Green, OH may require ROW restoration planning.
 
-In Green, OH, seasonal demand can change scheduling windows.
+FAQ: When should sump battery backups be load-tested? In Green, OH, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 44319/44216/44685 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 44319/44216/44685.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 44319, 44216, 44685, 44720, 44312 (county grid: Summit County).
+In Green, OH, slab leaks often present as warm spots before wall stains appear.
+
+Polybutylene manifold tags in Green, OH basements should be photographed before any wall chase opens.
+
+Step: camera-pass main lines in Green, OH before jetting older clay or cast iron.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 44685.
+
+Hose bib split patterns in Green, OH often follow missed winterization.
+
+Drain map 755369: camera-pass priority and expansion-tank pre-charge noted for Green, OH postal sector 44685.
+
+plumbing brief: meter pit clearance and toilet flange spacer kit were cross-checked for the Green intake packet.
+
+On-site sector marker: Summit County / coords 40.9500, -81.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44685-52114d9a

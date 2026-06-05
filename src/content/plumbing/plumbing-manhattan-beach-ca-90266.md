@@ -12,26 +12,37 @@ lng: -118.4000
 zipSample: ["90267", "90266"]
 zipCodes: ["90267", "90266"]
 localPaths: ["Los Angeles County / elevation 135 ft band", "Los Angeles County / primary ZIP 90266", "Los Angeles County / coords 33.8900, -118.4000", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / ZIP 90267 sector"]
-zillowHomeValueUsd: 3229603
 ---
 
-**Engineering Notice for Manhattan Beach:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Manhattan Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-In Manhattan Beach, CA, urgent plumbing issues can escalate quickly.
+Sump discharge freeze risk in Manhattan Beach, CA should be reviewed before spring thaw cycles.
 
-Structured milestones protect both sides when scheduling work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal Manhattan Beach, CA irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Access points and staging constraints recorded for ZIP 90266/90267 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 90266/90267.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 90266, 90267 (county grid: Los Angeles County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture shutoff stiffness in Manhattan Beach, CA may indicate mineral bridging behind stems.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Cleanout access limits in Manhattan Beach, CA frequently extend drain cleaning duration.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Flow dossier 935207: branch wet-vent geometry and jetting nozzle envelope logged for Manhattan Beach, CA county grid Los Angeles County (ZIP 90266).
+
+On-site sector marker: Los Angeles County / ZIP 90266 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90266-15939503

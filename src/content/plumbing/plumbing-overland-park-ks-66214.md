@@ -12,26 +12,43 @@ lng: -94.6900
 zipSample: ["66013", "66251", "66221", "66213", "66224"]
 zipCodes: ["66201", "66207", "66213", "66224", "66211", "66214", "66085", "66283", "66204", "66282", "66225", "66251"]
 localPaths: ["Johnson County / primary ZIP 66214", "Johnson County / ZIP 66224 sector", "Johnson County / ZIP 66221 sector", "Johnson County / coords 38.8900, -94.6900", "Johnson County / ZIP 66213 sector"]
-zillowHomeValueUsd: 389018
 ---
 
-**Engineering Notice for Overland Park:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Overland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 66214.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: confirm licensing and insurance before approving work.
+Basement floor drains in Overland Park, KS should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Sump discharge freeze risk in Overland Park, KS should be reviewed before spring thaw cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 66210/66214/66224.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 66210/66214/66224 intake.
+FAQ: When should sump battery backups be load-tested? In Overland Park, KS, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 66210, 66214, 66224, 66282, 66201 (county grid: Johnson County).
+Galvanized segments in Overland Park, KS may restrict flow long before visible corrosion.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Overland Park, KS.
+
+Risk flag: Seasonal Overland Park, KS irrigation cross-connections can mask domestic pressure loss.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Drain map 216330: camera-pass priority and expansion-tank pre-charge noted for Overland Park, KS postal sector 66214.
+
+Supply audit 216330: curb-stop orientation and hose-bib freeze flag reviewed for Overland Park, KS at coords 38.8900/-94.6900.
+
+plumbing brief: copper pinhole cluster and water heater T&P path were cross-checked for the Overland Park intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Johnson County. Reference elevation: 958 ft. Primary coordinates: 38.8900, -94.6900. ZIP sample: 66209, 66282, 66223, 66204, 66013. Regional routing note: Johnson County traffic flow is balanced around ZIP 66214 service demand.
 
 Service reference: KS-66214-4f8eb497

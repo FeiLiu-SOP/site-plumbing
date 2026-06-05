@@ -12,24 +12,43 @@ lng: -120.4800
 zipSample: ["95343", "95348", "95341", "95340"]
 zipCodes: ["95348", "95341", "95343", "95340"]
 localPaths: ["Merced County / ZIP 95340 sector", "Merced County / primary ZIP 95348", "Merced County / ZIP 95343 sector", "Merced County / ZIP 95348 sector", "Merced County / coords 37.3100, -120.4800"]
-zillowHomeValueUsd: 417745
 ---
 
-**Engineering Notice for Merced:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Merced County.
+**Engineering Notice for Merced:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Merced County.
 
 
-Our service coordination centers on Merced, CA coverage windows and verified intake details.
+Trenchless sleeve pulls near Merced, CA require pit shoring notes when water tables are high.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Merced, CA, before spring thaw and hurricane remnants.
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Structured milestones protect both sides when scheduling work.
+Sump discharge freeze risk in Merced, CA should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 95341/95348/95340 intake.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 95341, 95348, 95340, 95343 (county grid: Merced County).
+Risk flag: Seasonal Merced, CA irrigation cross-connections can mask domestic pressure loss.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Permit note: Main water line replacement in Merced, CA may require ROW restoration planning.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Dispatch packets reference county grid Merced County near ZIP 95348.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Galvanized segments in Merced, CA may restrict flow long before visible corrosion.
+
+Flow dossier 349159: branch wet-vent geometry and jetting nozzle envelope logged for Merced, CA county grid Merced County (ZIP 95348).
+
+plumbing brief: PRV outlet curve and scale coupon sampling were cross-checked for the Merced intake packet.
+
+ZIP-corridor snapshot for Merced, CA: sampled sectors include 95340, 95343, 95341, 95348; county routing grid remains Merced County.
 
 Service reference: CA-95348-d7b2a805

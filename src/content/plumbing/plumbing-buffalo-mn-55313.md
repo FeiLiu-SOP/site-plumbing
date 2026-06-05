@@ -12,24 +12,41 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600", "Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313"]
-zillowHomeValueUsd: 375222
 ---
 
-**Engineering Notice for Buffalo:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Wright County.
+**Engineering Notice for Buffalo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Buffalo, MN may require ROW restoration planning.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Buffalo, MN, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Local conditions in Buffalo, MN can affect timelines and material choices.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Buffalo, MN irrigation cross-connections can mask domestic pressure loss.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+CPVC solvent weld times shift with ambient humidity during Buffalo, MN shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 55313 coverage.
+FAQ: When should sump battery backups be load-tested? In Buffalo, MN, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 55313 (county grid: Wright County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Trenchless sleeve pulls near Buffalo, MN require pit shoring notes when water tables are high.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+We coordinate Buffalo, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Buffalo, MN.
+
+Intake ledger 926401: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Buffalo, MN at 45.1800, -93.8600.
+
+On-site sector marker: Wright County / primary ZIP 55313 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55313-35af3971

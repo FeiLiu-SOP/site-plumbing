@@ -12,24 +12,37 @@ lng: -111.9300
 zipSample: ["84101", "84147", "84115", "84112", "84110"]
 zipCodes: ["84106", "84145", "84105", "84180", "84199", "84147", "84110", "84128", "84132", "84150", "84151", "84112"]
 localPaths: ["Salt Lake County / ZIP 84101 sector", "Salt Lake County / elevation 4239 ft band", "Salt Lake County / ZIP 84110 sector", "Salt Lake County / primary ZIP 84116", "Salt Lake County / ZIP 84147 sector"]
-zillowHomeValueUsd: 452023
 ---
 
-**Engineering Notice for Salt Lake City:** Structural loading calculated based on 4239 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Salt Lake City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Salt Lake City, UT basements should be photographed before any wall chase opens.
 
-In Salt Lake City, UT, urgent plumbing issues can escalate quickly.
+Fixture shutoff stiffness in Salt Lake City, UT may indicate mineral bridging behind stems.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Salt Lake City, UT hardness profiles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Salt Lake City, UT, but intake notes help reduce delays.
+Frost-free sillcock failures in Salt Lake City, UT often trace to interior shutoff seats, not exterior stems.
 
-Tip: address recurring issues early to prevent bigger damage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84152/84103/84145.
+Risk flag: In Salt Lake City, UT, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 84152, 84103, 84145, 84148, 84133 (county grid: Salt Lake County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Basement floor drains in Salt Lake City, UT should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Seasonal Salt Lake City, UT irrigation cross-connections can mask domestic pressure loss.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84116.
+
+Permit note: Main water line replacement in Salt Lake City, UT may require ROW restoration planning.
+
+Drain map 483918: camera-pass priority and expansion-tank pre-charge noted for Salt Lake City, UT postal sector 84116.
+
+On-site sector marker: Salt Lake County / ZIP 84112 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84116-c543c379

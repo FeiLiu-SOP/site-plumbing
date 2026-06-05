@@ -12,24 +12,37 @@ lng: -76.7400
 zipSample: ["20718", "20720", "20717", "20719", "20721"]
 zipCodes: ["20720", "20715", "20721", "20716", "20719", "20717", "20718"]
 localPaths: ["Prince George's County / ZIP 20719 sector", "Prince George's County / coords 38.9500, -76.7400", "Prince George's County / ZIP 20721 sector", "Prince George's County / ZIP 20720 sector", "Prince George's County / ZIP 20717 sector"]
-zillowHomeValueUsd: 582766
 ---
 
-**Engineering Notice for Bowie:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Bowie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Tip: request a written scope before work starts.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hose bib split patterns in Bowie, MD often follow missed winterization.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Structured milestones protect both sides when scheduling work.
+Sump discharge freeze risk in Bowie, MD should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Bowie, MD, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 20717/20720/20719 coverage.
+Step: map sump float travel and check-valve orientation for Bowie, MD basements.
 
-Dispatch sectors sampled: ZIP 20717, 20720, 20719, 20721, 20718 (county grid: Prince George's County).
+Trenchless sleeve pulls near Bowie, MD require pit shoring notes when water tables are high.
+
+FAQ: When is cabling enough? In Bowie, MD, pipe material and blockage type dictate method.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Stack vent offsets in Bowie, MD older duplexes can mask tub gurgle as a main-line failure.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 629234: toilet flange spacer kit and shower cartridge seat score queued for Bowie, MD walk-through.
+
+On-site sector marker: Prince George's County / ZIP 20717 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20720-5ed49e47

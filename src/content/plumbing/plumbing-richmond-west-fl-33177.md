@@ -12,26 +12,43 @@ lng: -80.4300
 zipSample: ["33187", "33177"]
 zipCodes: ["33187", "33177"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / ZIP 33187 sector", "Miami-Dade County / coords 25.6100, -80.4300", "Miami-Dade County / primary ZIP 33177", "Miami-Dade County / ZIP 33177 sector"]
-zillowHomeValueUsd: 571191
 ---
 
-**Engineering Notice for Richmond West:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Richmond West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Richmond West, FL, but intake notes help reduce delays.
+Branch wet vents in Richmond West, FL can mask gurgling as a main-line issue.
 
-In Richmond West, FL, seasonal demand can change scheduling windows.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on Richmond West, FL coverage windows and verified intake details.
+Galvanized segments in Richmond West, FL may restrict flow long before visible corrosion.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+Dual-water-meter setups in Richmond West, FL irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 33177/33187 intake.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33177/33187.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Richmond West, FL.
 
-Dispatch sectors sampled: ZIP 33177, 33187 (county grid: Miami-Dade County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When is cabling enough? In Richmond West, FL, pipe material and blockage type dictate method.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Trenchless sleeve pulls near Richmond West, FL require pit shoring notes when water tables are high.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 33177.
+
+Supply audit 596492: curb-stop orientation and hose-bib freeze flag reviewed for Richmond West, FL at coords 25.6100/-80.4300.
+
+Lineage note 596492: recirculation pump amp draw captured before Richmond West, FL branch isolation.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33177 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33177-bbc40a44

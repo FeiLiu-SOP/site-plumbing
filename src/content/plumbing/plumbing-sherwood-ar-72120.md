@@ -12,24 +12,39 @@ lng: -92.2000
 zipSample: ["72120", "72216", "72076", "72117"]
 zipCodes: ["72120", "72216", "72076", "72117"]
 localPaths: ["Pulaski County / ZIP 72120 sector", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72216 sector", "Pulaski County / coords 34.8500, -92.2000", "Pulaski County / primary ZIP 72120"]
-zillowHomeValueUsd: 235046
 ---
 
-**Engineering Notice for Sherwood:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
 
 
-Our service coordination centers on Sherwood, AR coverage windows and verified intake details.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dispatch packets reference county grid Pulaski County near ZIP 72120.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map sump float travel and check-valve orientation for Sherwood, AR basements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Galvanized segments in Sherwood, AR may restrict flow long before visible corrosion.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Access points and staging constraints recorded for ZIP 72216/72120/72076 coverage.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 72216, 72120, 72076, 72117 (county grid: Pulaski County).
+Sewer gas odors in Sherwood, AR should trigger trap seal and vent path review.
+
+Trenchless pulls in Sherwood, AR require pit dimensions verified against utility locate marks.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: In Sherwood, AR, slab leaks can misroute as foundation issues without listening equipment.
+
+Recirculation pump failures in Sherwood, AR can mimic fixture-specific clogs.
+
+Cleanout access limits in Sherwood, AR frequently extend drain cleaning duration.
+
+Drain map 637366: camera-pass priority and expansion-tank pre-charge noted for Sherwood, AR postal sector 72120.
+
+Supply audit 637366: curb-stop orientation and hose-bib freeze flag reviewed for Sherwood, AR at coords 34.8500/-92.2000.
+
+ZIP-corridor snapshot for Sherwood, AR: sampled sectors include 72120, 72117, 72076, 72216; county routing grid remains Pulaski County.
 
 Service reference: AR-72120-15c6897d

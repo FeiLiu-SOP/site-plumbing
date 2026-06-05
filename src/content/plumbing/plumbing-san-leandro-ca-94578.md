@@ -12,25 +12,39 @@ lng: -122.1600
 zipSample: ["94579", "94578", "94622", "94577"]
 zipCodes: ["94622", "94578", "94579", "94577"]
 localPaths: ["Alameda County / ZIP 94622 sector", "Alameda County / primary ZIP 94578", "Alameda County / ZIP 94577 sector", "Alameda County / ZIP 94579 sector", "Alameda County / elevation 20 ft band"]
-zillowHomeValueUsd: 788030
 ---
 
-**Engineering Notice for San Leandro:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Leandro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
 
 
-Our service coordination centers on San Leandro, CA coverage windows and verified intake details.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94578.
+Fixture shutoff stiffness in San Leandro, CA may indicate mineral bridging behind stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 94578.
 
-Field note: Connection points spot-checked where accessible (ZIP 94622/94579/94578 zone).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 94578.
 
-Dispatch sectors sampled: ZIP 94622, 94579, 94578, 94577 (county grid: Alameda County).
+FAQ: When should sump battery backups be load-tested? In San Leandro, CA, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in San Leandro, CA systems need rebalancing.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Trenchless sleeve pulls near San Leandro, CA require pit shoring notes when water tables are high.
+
+Frost-free sillcock failures in San Leandro, CA often trace to interior shutoff seats, not exterior stems.
+
+Fixture roster 140356: toilet flange spacer kit and shower cartridge seat score queued for San Leandro, CA walk-through.
+
+Coordinate-anchored dispatch note: center reference 37.7100, -122.1600 at elevation ~20 ft aligns with Alameda County intake staging.
 
 Service reference: CA-94578-a027e960

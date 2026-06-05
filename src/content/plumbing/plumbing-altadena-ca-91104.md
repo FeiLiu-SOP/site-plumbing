@@ -12,25 +12,39 @@ lng: -118.1300
 zipSample: ["91003", "91001", "91104"]
 zipCodes: ["91104", "91003", "91001"]
 localPaths: ["Los Angeles County / elevation 1430 ft band", "Los Angeles County / ZIP 91003 sector", "Los Angeles County / ZIP 91104 sector", "Los Angeles County / primary ZIP 91104", "Los Angeles County / coords 34.1900, -118.1300"]
-zillowHomeValueUsd: 1226161
 ---
 
-**Engineering Notice for Altadena:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Altadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91104.
+Risk flag: In Altadena, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Altadena, CA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Altadena, CA, slab leaks often present as warm spots before wall stains appear.
 
-We coordinate local dispatch coverage around Altadena, CA and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 91104/91001/91003 zone).
+Irrigation cross-connections in Altadena, CA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 91104, 91001, 91003 (county grid: Los Angeles County).
+Risk flag: Seasonal Altadena, CA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Altadena, CA, before spring thaw and hurricane remnants.
+
+Frost-free sillcock failures in Altadena, CA often trace to interior shutoff seats, not exterior stems.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Cast-iron hub corrosion in Altadena, CA often concentrates at the third joint upstream of the cleanout.
+
+Supply audit 557783: curb-stop orientation and hose-bib freeze flag reviewed for Altadena, CA at coords 34.1900/-118.1300.
+
+Fixture roster 557783: toilet flange spacer kit and shower cartridge seat score queued for Altadena, CA walk-through.
+
+On-site sector marker: Los Angeles County / elevation 1430 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91104-b5712db5

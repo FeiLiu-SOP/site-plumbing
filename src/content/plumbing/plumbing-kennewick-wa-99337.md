@@ -12,26 +12,43 @@ lng: -119.1700
 zipSample: ["99336", "99337", "99338"]
 zipCodes: ["99337", "99336", "99338"]
 localPaths: ["Benton County / elevation 554 ft band", "Benton County / coords 46.2000, -119.1700", "Benton County / primary ZIP 99337", "Benton County / ZIP 99338 sector", "Benton County / ZIP 99336 sector"]
-zillowHomeValueUsd: 432110
 ---
 
-**Engineering Notice for Kennewick:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Kennewick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
 
 
-Homeowners in Kennewick, WA often face sudden plumbing problems that require fast action.
+Stack vent offsets in Kennewick, WA older duplexes can mask tub gurgle as a main-line failure.
 
-Our service coordination centers on Kennewick, WA coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kennewick, WA systems need rebalancing.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: compare at least two estimates for scope and timeline.
+In Kennewick, WA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Kennewick, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Moisture pathway inspection logged near ZIP 99336/99338/99337 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 99336/99338/99337.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 99336, 99338, 99337 (county grid: Benton County).
+Irrigation cross-connections in Kennewick, WA can back-siphon domestic lines during main breaks.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Pressure trace 169564: meter-pit clearance and dielectric union checklist staged for Kennewick, WA near elevation 554 ft.
+
+Intake ledger 169564: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kennewick, WA at 46.2000, -119.1700.
+
+plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Kennewick intake packet.
+
+On-site sector marker: Benton County / ZIP 99338 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99337-f96018c7

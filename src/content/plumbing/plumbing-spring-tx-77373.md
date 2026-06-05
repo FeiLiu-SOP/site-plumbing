@@ -12,25 +12,43 @@ lng: -95.3800
 zipSample: ["77383", "77373", "77387"]
 zipCodes: ["77373", "77383", "77387"]
 localPaths: ["Harris County / ZIP 77387 sector", "Harris County / ZIP 77383 sector", "Harris County / coords 30.0600, -95.3800", "Harris County / elevation 131 ft band", "Harris County / primary ZIP 77373"]
-zillowHomeValueUsd: 243471
 ---
 
-**Engineering Notice for Spring:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: request a written scope before work starts.
+We coordinate Spring, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 77373.
+Irrigation cross-connections in Spring, TX can back-siphon domestic lines during main breaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Spring, TX irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Wind exposure category reviewed for ZIP sector 77387/77383/77373.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 77387, 77383, 77373 (county grid: Harris County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 77373.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Dual-water-meter setups in Spring, TX irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Fixture roster 279759: toilet flange spacer kit and shower cartridge seat score queued for Spring, TX walk-through.
+
+Drain map 279759: camera-pass priority and expansion-tank pre-charge noted for Spring, TX postal sector 77373.
+
+plumbing brief: hose bib freeze flag and gas water heater draft hood gap were cross-checked for the Spring intake packet.
+
+On-site sector marker: Harris County / coords 30.0600, -95.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77373-75257e19

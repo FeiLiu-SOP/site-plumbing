@@ -12,26 +12,43 @@ lng: -122.6400
 zipSample: ["97068"]
 zipCodes: ["97068"]
 localPaths: ["Clackamas County / elevation 673 ft band", "Clackamas County / coords 45.3700, -122.6400", "Clackamas County / ZIP 97068 sector", "Clackamas County / primary ZIP 97068"]
-zillowHomeValueUsd: 773613
 ---
 
-**Engineering Notice for West Linn:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for West Linn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Linn, OR, but intake notes help reduce delays.
+Irrigation cross-connections in West Linn, OR can back-siphon domestic lines during main breaks.
 
-Tip: confirm licensing and insurance before approving work.
+Polybutylene manifold tags in West Linn, OR basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydrostatic holds in West Linn, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 97068 intake.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in West Linn, OR.
 
-Field note: Connection points spot-checked where accessible (ZIP 97068 zone).
+Sewer gas odors in West Linn, OR should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 97068 (county grid: Clackamas County).
+Cast-iron hub corrosion in West Linn, OR often concentrates at the third joint upstream of the cleanout.
+
+CPVC solvent weld times shift with ambient humidity during West Linn, OR shoulder seasons.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97068.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Permit note: Main water line replacement in West Linn, OR may require ROW restoration planning.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 97068.
+
+Drain map 981298: camera-pass priority and expansion-tank pre-charge noted for West Linn, OR postal sector 97068.
+
+Fixture roster 981298: toilet flange spacer kit and shower cartridge seat score queued for West Linn, OR walk-through.
+
+On-site sector marker: Clackamas County / elevation 673 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97068-3f9bff59

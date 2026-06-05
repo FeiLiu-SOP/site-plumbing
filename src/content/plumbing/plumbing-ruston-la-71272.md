@@ -12,26 +12,43 @@ lng: -92.6400
 zipSample: ["71270", "71272"]
 zipCodes: ["71270", "71272"]
 localPaths: ["Lincoln Parish / ZIP 71272 sector", "Lincoln Parish / coords 32.5300, -92.6400", "Lincoln Parish / ZIP 71270 sector", "Lincoln Parish / primary ZIP 71272", "Lincoln Parish / elevation 331 ft band"]
-zillowHomeValueUsd: 225070
 ---
 
-**Engineering Notice for Ruston:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Lincoln Parish.
+**Engineering Notice for Ruston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lincoln Parish.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Ruston, LA basements should be photographed before any wall chase opens.
 
-We coordinate local dispatch coverage around Ruston, LA and nearby ZIP sectors.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Basement floor drains in Ruston, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Ruston, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ruston, LA, but intake notes help reduce delays.
+Risk flag: Seasonal Ruston, LA irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Access points and staging constraints recorded for ZIP 71272/71270 coverage.
+Permit note: Main water line replacement in Ruston, LA may require ROW restoration planning.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 71272/71270.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 71272, 71270 (county grid: Lincoln Parish).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 71272.
+
+Irrigation cross-connections in Ruston, LA can back-siphon domestic lines during main breaks.
+
+Trenchless pulls in Ruston, LA require pit dimensions verified against utility locate marks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 643761: recirculation pump amp draw captured before Ruston, LA branch isolation.
+
+Drain map 643761: camera-pass priority and expansion-tank pre-charge noted for Ruston, LA postal sector 71272.
+
+Scope trace: fixture shutoff torque log plus slab penetration sleeve seal referenced in Lincoln Parish county grid review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Lincoln Parish and primary ZIP 71272. Terrain reference: 331 ft. Center point: 32.5300, -92.6400. ZIP sample: 71272, 71270. Logistics priority: Serving residential sectors across Lincoln Parish and north-east ZIP 71272 grid.
 
 Service reference: LA-71272-c97e728c

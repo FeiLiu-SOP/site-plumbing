@@ -12,26 +12,41 @@ lng: -82.9500
 zipSample: ["48021"]
 zipCodes: ["48021"]
 localPaths: ["Macomb County / primary ZIP 48021", "Macomb County / ZIP 48021 sector", "Macomb County / elevation 607 ft band", "Macomb County / coords 42.4700, -82.9500"]
-zillowHomeValueUsd: 150783
 ---
 
-**Engineering Notice for Eastpointe:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for Eastpointe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
 
 
-Our service coordination centers on Eastpointe, MI coverage windows and verified intake details.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in Eastpointe, MI older duplexes can mask tub gurgle as a main-line failure.
 
-Homeowners in Eastpointe, MI often face sudden plumbing problems that require fast action.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eastpointe, MI, but intake notes help reduce delays.
+Cast-iron hub corrosion in Eastpointe, MI often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 48021 zone).
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Moisture pathway inspection logged near ZIP 48021 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 48021 (county grid: Macomb County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Branch wet vents in Eastpointe, MI can mask gurgling as a main-line issue.
+
+Frost-free sillcock failures in Eastpointe, MI often trace to interior shutoff seats, not exterior stems.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Lineage note 888088: recirculation pump amp draw captured before Eastpointe, MI branch isolation.
+
+plumbing brief: cleanout riser height and jetter nozzle envelope were cross-checked for the Eastpointe intake packet.
+
+On-site sector marker: Macomb County / primary ZIP 48021 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48021-8bba7852

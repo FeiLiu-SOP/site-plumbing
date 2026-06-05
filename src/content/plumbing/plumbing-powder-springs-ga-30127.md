@@ -12,26 +12,37 @@ lng: -84.6800
 zipSample: ["30127"]
 zipCodes: ["30127"]
 localPaths: ["Cobb County / primary ZIP 30127", "Cobb County / coords 33.8700, -84.6800", "Cobb County / ZIP 30127 sector", "Cobb County / elevation 938 ft band"]
-zillowHomeValueUsd: 364132
 ---
 
-**Engineering Notice for Powder Springs:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Powder Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Powder Springs, GA, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Powder Springs, GA hardness profiles.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Local conditions in Powder Springs, GA can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 30127 coverage.
+Recirculation pump failures in Powder Springs, GA can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 30127 intake.
+FAQ: When should sump battery backups be load-tested? In Powder Springs, GA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 30127 (county grid: Cobb County).
+In Powder Springs, GA, slab leaks often present as warm spots before wall stains appear.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Stack vent offsets in Powder Springs, GA older duplexes can mask tub gurgle as a main-line failure.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 587632: recirculation pump amp draw captured before Powder Springs, GA branch isolation.
+
+On-site sector marker: Cobb County / elevation 938 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30127-b23ff668

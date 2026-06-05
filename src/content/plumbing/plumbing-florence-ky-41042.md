@@ -12,27 +12,39 @@ lng: -84.6500
 zipSample: ["41042", "41022"]
 zipCodes: ["41042", "41022"]
 localPaths: ["Boone County / ZIP 41042 sector", "Boone County / elevation 896 ft band", "Boone County / coords 38.9900, -84.6500", "Boone County / ZIP 41022 sector", "Boone County / primary ZIP 41042"]
-zillowHomeValueUsd: 275024
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Florence, KY, but intake notes help reduce delays.
+Trenchless sleeve pulls near Florence, KY require pit shoring notes when water tables are high.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 41042.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-In Florence, KY, urgent plumbing issues can escalate quickly.
+Risk flag: In Florence, KY, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stack vent offsets in Florence, KY older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 41042/41022 intake.
+Fixture shutoff stiffness in Florence, KY may indicate mineral bridging behind stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 41042/41022.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Florence, KY.
 
-Dispatch sectors sampled: ZIP 41042, 41022 (county grid: Boone County).
+Hydrostatic holds in Florence, KY slab circuits run overnight when listening mics show ambiguous hits.
+
+Irrigation cross-connections in Florence, KY can back-siphon domestic lines during main breaks.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Florence, KY.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Fixture roster 346906: toilet flange spacer kit and shower cartridge seat score queued for Florence, KY walk-through.
+
+On-site sector marker: Boone County / primary ZIP 41042 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41042-cb8329ad

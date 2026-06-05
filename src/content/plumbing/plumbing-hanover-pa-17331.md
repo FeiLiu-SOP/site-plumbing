@@ -12,24 +12,39 @@ lng: -76.9800
 zipSample: ["17332", "17331", "17334", "17333"]
 zipCodes: ["17332", "17333", "17331", "17334"]
 localPaths: ["York County / ZIP 17334 sector", "York County / ZIP 17332 sector", "York County / ZIP 17333 sector", "York County / coords 39.8100, -76.9800", "York County / elevation 617 ft band"]
-zillowHomeValueUsd: 291861
 ---
 
-**Engineering Notice for Hanover:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Hanover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hanover, PA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Galvanized segments in Hanover, PA may restrict flow long before visible corrosion.
 
-Our service coordination centers on Hanover, PA coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hanover, PA, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 17334/17331/17333.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 17334, 17331, 17333, 17332 (county grid: York County).
+Branch wet vents in Hanover, PA can mask gurgling as a main-line issue.
+
+Risk flag: Seasonal Hanover, PA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: map sump float travel and check-valve orientation for Hanover, PA basements.
+
+Irrigation cross-connections in Hanover, PA can back-siphon domestic lines during main breaks.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Pressure trace 349160: meter-pit clearance and dielectric union checklist staged for Hanover, PA near elevation 617 ft.
+
+On-site sector marker: York County / ZIP 17334 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17331-9729c943

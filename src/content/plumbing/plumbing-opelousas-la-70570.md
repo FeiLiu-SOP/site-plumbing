@@ -12,26 +12,39 @@ lng: -92.0800
 zipSample: ["70571", "70570"]
 zipCodes: ["70571", "70570"]
 localPaths: ["St. Landry Parish / coords 30.5300, -92.0800", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / ZIP 70571 sector", "St. Landry Parish / primary ZIP 70570"]
-zillowHomeValueUsd: 122648
 ---
 
-**Engineering Notice for Opelousas:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: St. Landry Parish.
+**Engineering Notice for Opelousas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Landry Parish.
 
 
-Tip: request a written scope before work starts.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fixture shutoff stiffness in Opelousas, LA may indicate mineral bridging behind stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Opelousas, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Opelousas, LA coverage windows and verified intake details.
+Irrigation cross-connections in Opelousas, LA can back-siphon domestic lines during main breaks.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Access points and staging constraints recorded for ZIP 70571/70570 coverage.
+Polybutylene manifold tags in Opelousas, LA basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 70571/70570.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 70571, 70570 (county grid: St. Landry Parish).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 70570.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: Water heater anode type may change with Opelousas, LA hardness profiles.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Supply audit 244690: curb-stop orientation and hose-bib freeze flag reviewed for Opelousas, LA at coords 30.5300/-92.0800.
+
+Flow dossier 244690: branch wet-vent geometry and jetting nozzle envelope logged for Opelousas, LA county grid St. Landry Parish (ZIP 70570).
+
+Primary postal anchor 70570 with multi-ZIP overlap in Opelousas; field packets tag St. Landry Parish for county-grid reconciliation.
 
 Service reference: LA-70570-1a22c533

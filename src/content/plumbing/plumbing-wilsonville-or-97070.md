@@ -12,24 +12,41 @@ lng: -122.7700
 zipSample: ["97070"]
 zipCodes: ["97070"]
 localPaths: ["Clackamas County / ZIP 97070 sector", "Clackamas County / elevation 180 ft band", "Clackamas County / primary ZIP 97070", "Clackamas County / coords 45.3100, -122.7700"]
-zillowHomeValueUsd: 633742
 ---
 
-**Engineering Notice for Wilsonville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Wilsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Wilsonville, OR irrigation cross-connections can mask domestic pressure loss.
 
-Tip: confirm licensing and insurance before approving work.
+Polybutylene manifold tags in Wilsonville, OR basements should be photographed before any wall chase opens.
 
-Local conditions in Wilsonville, OR can affect timelines and material choices.
+Cleanout access limits in Wilsonville, OR frequently extend drain cleaning duration.
 
-Our service coordination centers on Wilsonville, OR coverage windows and verified intake details.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 97070 intake.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 97070 (county grid: Clackamas County).
+Frost-free sillcock failures in Wilsonville, OR often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Trenchless pulls in Wilsonville, OR require pit dimensions verified against utility locate marks.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Sump discharge freeze risk in Wilsonville, OR should be reviewed before spring thaw cycles.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Water heater T&P discharge paths in Wilsonville, OR must terminate safely before replacement quotes.
+
+FAQ: Is hydro-jetting always appropriate? In Wilsonville, OR, pipe material and blockage type dictate method.
+
+Intake ledger 151425: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wilsonville, OR at 45.3100, -122.7700.
+
+On-site sector marker: Clackamas County / coords 45.3100, -122.7700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97070-87d6278b

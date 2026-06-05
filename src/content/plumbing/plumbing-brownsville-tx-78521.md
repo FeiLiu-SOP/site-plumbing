@@ -12,25 +12,37 @@ lng: -97.4600
 zipSample: ["78578", "78575", "78520", "78522", "78566"]
 zipCodes: ["78575", "78578", "78520", "78566", "78522", "78521", "78526"]
 localPaths: ["Cameron County / coords 26.0000, -97.4600", "Cameron County / ZIP 78520 sector", "Cameron County / primary ZIP 78521", "Cameron County / ZIP 78522 sector", "Cameron County / ZIP 78578 sector"]
-zillowHomeValueUsd: 174145
 ---
 
-**Engineering Notice for Brownsville:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Cameron County.
+**Engineering Notice for Brownsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cameron County.
 
 
-We coordinate local dispatch coverage around Brownsville, TX and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save water heater serial plates for warranty traceability.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 78521.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78566/78522/78578.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 78566, 78522, 78578, 78521, 78575 (county grid: Cameron County).
+Hose bib split patterns in Brownsville, TX often follow missed winterization.
+
+Step: camera-pass main lines in Brownsville, TX before jetting older clay or cast iron.
+
+CPVC solvent weld times shift with ambient humidity during Brownsville, TX shoulder seasons.
+
+Risk flag: Seasonal Brownsville, TX irrigation cross-connections can mask domestic pressure loss.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78521.
+
+Pressure trace 849694: meter-pit clearance and dielectric union checklist staged for Brownsville, TX near elevation 20 ft.
+
+Coordinate-anchored dispatch note: center reference 26.0000, -97.4600 at elevation ~20 ft aligns with Cameron County intake staging.
 
 Service reference: TX-78521-c7bb4582

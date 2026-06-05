@@ -12,24 +12,39 @@ lng: -90.3600
 zipSample: ["63128", "63123"]
 zipCodes: ["63123", "63128"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / coords 38.5100, -90.3600", "St. Louis County / ZIP 63128 sector", "St. Louis County / ZIP 63123 sector", "St. Louis County / primary ZIP 63128"]
-zillowHomeValueUsd: 369541
 ---
 
-**Engineering Notice for Concord:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Concord:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Local conditions in Concord, MO can affect timelines and material choices.
+Tip: Save water heater serial plates for warranty traceability.
 
-Our service coordination centers on Concord, MO coverage windows and verified intake details.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Concord, MO, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Moisture pathway inspection logged near ZIP 63128/63123 intake.
+Permit note: Main water line replacement in Concord, MO may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 63128, 63123 (county grid: St. Louis County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: In Concord, MO, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Concord, MO.
+
+Polybutylene manifold tags in Concord, MO basements should be photographed before any wall chase opens.
+
+Cleanout access limits in Concord, MO frequently extend drain cleaning duration.
+
+Fixture roster 649757: toilet flange spacer kit and shower cartridge seat score queued for Concord, MO walk-through.
+
+Drain map 649757: camera-pass priority and expansion-tank pre-charge noted for Concord, MO postal sector 63128.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~574 ft across the St. Louis County area. Coordinates: 38.5100, -90.3600. ZIP sample: 63123, 63128. Service perimeter note: Coverage extends through St. Louis County with dispatch centered near ZIP 63128.
 
 Service reference: MO-63128-815dcbb6

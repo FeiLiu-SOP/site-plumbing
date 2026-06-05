@@ -12,26 +12,41 @@ lng: -77.5500
 zipSample: ["20177", "20178", "20176", "20175"]
 zipCodes: ["20177", "20175", "20176", "20178"]
 localPaths: ["Loudoun County / coords 39.1100, -77.5500", "Loudoun County / ZIP 20175 sector", "Loudoun County / ZIP 20177 sector", "Loudoun County / ZIP 20176 sector", "Loudoun County / elevation 289 ft band"]
-zillowHomeValueUsd: 840005
 ---
 
-**Engineering Notice for Leesburg:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Leesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Main water line replacement in Leesburg, VA may require ROW restoration planning.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: confirm licensing and insurance before approving work.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Clear documentation helps align materials, labor, and timeline.
+Trenchless pulls in Leesburg, VA require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on Leesburg, VA coverage windows and verified intake details.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 20175.
 
-Field note: Moisture pathway inspection logged near ZIP 20177/20178/20176 intake.
+Across Leesburg, VA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Connection points spot-checked where accessible (ZIP 20177/20178/20176 zone).
+Irrigation cross-connections in Leesburg, VA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 20177, 20178, 20176, 20175 (county grid: Loudoun County).
+Hydrostatic holds in Leesburg, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Seasonal Leesburg, VA irrigation cross-connections can mask domestic pressure loss.
+
+Hose bib split patterns in Leesburg, VA often follow missed winterization.
+
+Frost-free sillcock failures in Leesburg, VA often trace to interior shutoff seats, not exterior stems.
+
+Sump discharge freeze risk in Leesburg, VA should be reviewed before spring thaw cycles.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Flow dossier 823762: branch wet-vent geometry and jetting nozzle envelope logged for Leesburg, VA county grid Loudoun County (ZIP 20175).
+
+plumbing brief: backflow test cock orientation and branch wet vent geometry were cross-checked for the Leesburg intake packet.
+
+On-site sector marker: Loudoun County / elevation 289 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20175-c94023a5

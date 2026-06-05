@@ -12,24 +12,43 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26101", "26104", "26103"]
 localPaths: ["Wood County / primary ZIP 26104", "Wood County / coords 39.2600, -81.5400", "Wood County / ZIP 26104 sector", "Wood County / elevation 627 ft band", "Wood County / ZIP 26103 sector"]
-zillowHomeValueUsd: 172466
 ---
 
-**Engineering Notice for Parkersburg:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Wood County.
+**Engineering Notice for Parkersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wood County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Parkersburg, WV, slab leaks can misroute as foundation issues without listening equipment.
 
-In Parkersburg, WV, urgent plumbing issues can escalate quickly.
+Stack vent offsets in Parkersburg, WV older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Parkersburg, WV and nearby ZIP sectors.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless pulls in Parkersburg, WV require pit dimensions verified against utility locate marks.
 
-Field note: Connection points spot-checked where accessible (ZIP 26103/26101/26104 zone).
+We coordinate Parkersburg, WV plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 26103, 26101, 26104 (county grid: Wood County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Basement floor drains in Parkersburg, WV should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Frost-free sillcock failures in Parkersburg, WV often trace to interior shutoff seats, not exterior stems.
+
+Hard water in Parkersburg, WV accelerates scale on PRV seats and heater elements.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Pressure trace 236097: meter-pit clearance and dielectric union checklist staged for Parkersburg, WV near elevation 627 ft.
+
+Supply audit 236097: curb-stop orientation and hose-bib freeze flag reviewed for Parkersburg, WV at coords 39.2600/-81.5400.
+
+On-site sector marker: Wood County / ZIP 26104 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26104-aed41fd1

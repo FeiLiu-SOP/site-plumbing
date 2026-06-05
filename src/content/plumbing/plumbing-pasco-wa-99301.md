@@ -12,26 +12,39 @@ lng: -119.1300
 zipSample: ["99301", "99302"]
 zipCodes: ["99301", "99302"]
 localPaths: ["Franklin County / elevation 387 ft band", "Franklin County / ZIP 99302 sector", "Franklin County / primary ZIP 99301", "Franklin County / ZIP 99301 sector", "Franklin County / coords 46.2500, -119.1300"]
-zillowHomeValueUsd: 418127
 ---
 
-**Engineering Notice for Pasco:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Pasco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pasco, WA, but intake notes help reduce delays.
+Risk flag: In Pasco, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: request a written scope before work starts.
+FAQ: Is hydro-jetting always appropriate? In Pasco, WA, pipe material and blockage type dictate method.
 
-We coordinate local dispatch coverage around Pasco, WA and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Pasco, WA, before spring thaw and hurricane remnants.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 99301/99302 zone).
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 99301/99302 coverage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 99301, 99302 (county grid: Franklin County).
+Dual-water-meter setups in Pasco, WA irrigation zones need backflow logs before line replacement.
+
+Step: map sump float travel and check-valve orientation for Pasco, WA basements.
+
+Risk flag: Seasonal Pasco, WA irrigation cross-connections can mask domestic pressure loss.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 99301.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 690590: recirculation pump amp draw captured before Pasco, WA branch isolation.
+
+Scope trace: water softener bypass lever plus meter pit clearance referenced in Franklin County county grid review.
+
+Coordinate-anchored dispatch note: center reference 46.2500, -119.1300 at elevation ~387 ft aligns with Franklin County intake staging.
 
 Service reference: WA-99301-af3d19b8

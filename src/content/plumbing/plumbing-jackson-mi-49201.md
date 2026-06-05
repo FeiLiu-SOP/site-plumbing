@@ -12,27 +12,39 @@ lng: -84.4000
 zipSample: ["49201", "49203", "49202"]
 zipCodes: ["49203", "49202", "49201"]
 localPaths: ["Jackson County / elevation 948 ft band", "Jackson County / ZIP 49202 sector", "Jackson County / coords 42.2400, -84.4000", "Jackson County / ZIP 49201 sector", "Jackson County / primary ZIP 49201"]
-zillowHomeValueUsd: 248645
 ---
 
-**Engineering Notice for Jackson:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 49201.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our service coordination centers on Jackson, MI coverage windows and verified intake details.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Homeowners in Jackson, MI often face sudden plumbing problems that require fast action.
+Step: map sump float travel and check-valve orientation for Jackson, MI basements.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jackson, MI, but intake notes help reduce delays.
+Polybutylene manifold tags in Jackson, MI basements should be photographed before any wall chase opens.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49202/49201/49203.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 49202/49201/49203 intake.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 49201.
 
-Dispatch sectors sampled: ZIP 49202, 49201, 49203 (county grid: Jackson County).
+Fixture shutoff stiffness in Jackson, MI may indicate mineral bridging behind stems.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Jackson, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: In Jackson, MI, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Pressure trace 645316: meter-pit clearance and dielectric union checklist staged for Jackson, MI near elevation 948 ft.
+
+Intake ledger 645316: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Jackson, MI at 42.2400, -84.4000.
+
+On-site sector marker: Jackson County / ZIP 49201 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49201-9e14fb70

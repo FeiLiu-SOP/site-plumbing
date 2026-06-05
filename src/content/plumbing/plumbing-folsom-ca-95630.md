@@ -12,25 +12,39 @@ lng: -121.1400
 zipSample: ["95630", "95671", "95763"]
 zipCodes: ["95763", "95671", "95630"]
 localPaths: ["Sacramento County / primary ZIP 95630", "Sacramento County / elevation 328 ft band", "Sacramento County / ZIP 95763 sector", "Sacramento County / ZIP 95671 sector", "Sacramento County / ZIP 95630 sector"]
-zillowHomeValueUsd: 763757
 ---
 
-**Engineering Notice for Folsom:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Folsom:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is hydro-jetting always appropriate? In Folsom, CA, pipe material and blockage type dictate method.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 95630.
+Trenchless sleeve pulls near Folsom, CA require pit shoring notes when water tables are high.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Folsom, CA, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around Folsom, CA and nearby ZIP sectors.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Folsom, CA.
 
-Field note: Connection points spot-checked where accessible (ZIP 95671/95763/95630 zone).
+Step: map sump float travel and check-valve orientation for Folsom, CA basements.
 
-Dispatch sectors sampled: ZIP 95671, 95763, 95630 (county grid: Sacramento County).
+Trenchless pulls in Folsom, CA require pit dimensions verified against utility locate marks.
+
+Sewer gas odors in Folsom, CA should trigger trap seal and vent path review.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Folsom, CA systems need rebalancing.
+
+Irrigation cross-connections in Folsom, CA can back-siphon domestic lines during main breaks.
+
+Flow dossier 328442: branch wet-vent geometry and jetting nozzle envelope logged for Folsom, CA county grid Sacramento County (ZIP 95630).
+
+Scope trace: hose bib freeze flag plus slab leak listening window referenced in Sacramento County county grid review.
+
+On-site sector marker: Sacramento County / ZIP 95671 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95630-8f6ea059

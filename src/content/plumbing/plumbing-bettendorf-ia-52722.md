@@ -12,26 +12,39 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / ZIP 52722 sector", "Scott County / coords 41.5700, -90.4800", "Scott County / primary ZIP 52722"]
-zillowHomeValueUsd: 328969
 ---
 
-**Engineering Notice for Bettendorf:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Bettendorf:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Bettendorf, IA shoulder seasons.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bettendorf, IA, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bettendorf, IA.
 
-Tip: request a written scope before work starts.
+Sump discharge freeze risk in Bettendorf, IA should be reviewed before spring thaw cycles.
 
-We coordinate local dispatch coverage around Bettendorf, IA and nearby ZIP sectors.
+Material note: Water heater anode type may change with Bettendorf, IA hardness profiles.
 
-In Bettendorf, IA, seasonal demand can change scheduling windows.
+FAQ: Is hydro-jetting always appropriate? In Bettendorf, IA, pipe material and blockage type dictate method.
 
-Field note: Access points and staging constraints recorded for ZIP 52722 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52722.
+Hydrostatic holds in Bettendorf, IA slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 52722 (county grid: Scott County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Frost-free sillcock failures in Bettendorf, IA often trace to interior shutoff seats, not exterior stems.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hose bib split patterns in Bettendorf, IA often follow missed winterization.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Fixture roster 987648: toilet flange spacer kit and shower cartridge seat score queued for Bettendorf, IA walk-through.
+
+Scope trace: meter pit clearance plus cleanout riser height referenced in Scott County county grid review.
+
+Primary postal anchor 52722 with multi-ZIP overlap in Bettendorf; field packets tag Scott County for county-grid reconciliation.
 
 Service reference: IA-52722-799799a4

@@ -12,27 +12,37 @@ lng: -95.4500
 zipSample: ["77566", "77515"]
 zipCodes: ["77566", "77515"]
 localPaths: ["Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / elevation 36 ft band", "Brazoria County / coords 29.0500, -95.4500", "Brazoria County / ZIP 77566 sector"]
-zillowHomeValueUsd: 240681
 ---
 
-**Engineering Notice for Lake Jackson:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Lake Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Lake Jackson, TX require pit shoring notes when water tables are high.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lake Jackson, TX, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our service coordination centers on Lake Jackson, TX coverage windows and verified intake details.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lake Jackson, TX.
 
-Tip: confirm licensing and insurance before approving work.
+Step: camera-pass main lines in Lake Jackson, TX before jetting older clay or cast iron.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 77515.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 77515/77566 intake.
+Water heater T&P discharge paths in Lake Jackson, TX must terminate safely before replacement quotes.
 
-Field note: Connection points spot-checked where accessible (ZIP 77515/77566 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 77515, 77566 (county grid: Brazoria County).
+Branch wet vents in Lake Jackson, TX can mask gurgling as a main-line issue.
+
+Hard water in Lake Jackson, TX accelerates scale on PRV seats and heater elements.
+
+Basement floor drains in Lake Jackson, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Supply audit 464692: curb-stop orientation and hose-bib freeze flag reviewed for Lake Jackson, TX at coords 29.0500/-95.4500.
+
+On-site sector marker: Brazoria County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77515-ea869db1

@@ -12,26 +12,43 @@ lng: -80.0900
 zipSample: ["33445", "33482", "33483", "33444", "33448"]
 zipCodes: ["33444", "33445", "33483", "33482", "33448"]
 localPaths: ["Palm Beach County / ZIP 33482 sector", "Palm Beach County / primary ZIP 33445", "Palm Beach County / ZIP 33448 sector", "Palm Beach County / ZIP 33483 sector", "Palm Beach County / coords 26.4500, -80.0900"]
-zillowHomeValueUsd: 304537
 ---
 
-**Engineering Notice for Delray Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Delray Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Structured milestones protect both sides when scheduling work.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33445.
 
-We coordinate local dispatch coverage around Delray Beach, FL and nearby ZIP sectors.
+Step: camera-pass main lines in Delray Beach, FL before jetting older clay or cast iron.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Irrigation cross-connections in Delray Beach, FL can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 33445/33483/33448.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 33445/33483/33448 intake.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 33445, 33483, 33448, 33444, 33482 (county grid: Palm Beach County).
+Trenchless pulls in Delray Beach, FL require pit dimensions verified against utility locate marks.
+
+Cast-iron hub corrosion in Delray Beach, FL often concentrates at the third joint upstream of the cleanout.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Hydrostatic holds in Delray Beach, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+Flow dossier 779062: branch wet-vent geometry and jetting nozzle envelope logged for Delray Beach, FL county grid Palm Beach County (ZIP 33445).
+
+Drain map 779062: camera-pass priority and expansion-tank pre-charge noted for Delray Beach, FL postal sector 33445.
+
+Scope trace: scale coupon sampling plus recirculation pump amp draw referenced in Palm Beach County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~33 ft across the Palm Beach County area. Coordinates: 26.4500, -80.0900. ZIP sample: 33445, 33448, 33483, 33482, 33444. Service perimeter note: Coverage extends through Palm Beach County with dispatch centered near ZIP 33445.
 
 Service reference: FL-33445-68300ea4

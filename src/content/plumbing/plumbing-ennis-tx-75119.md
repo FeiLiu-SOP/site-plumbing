@@ -12,26 +12,41 @@ lng: -96.6300
 zipSample: ["75120", "75119"]
 zipCodes: ["75120", "75119"]
 localPaths: ["Ellis County / ZIP 75120 sector", "Ellis County / primary ZIP 75119", "Ellis County / ZIP 75119 sector", "Ellis County / coords 32.3300, -96.6300", "Ellis County / elevation 548 ft band"]
-zillowHomeValueUsd: 265417
 ---
 
-**Engineering Notice for Ennis:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Ellis County.
+**Engineering Notice for Ennis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Ennis, TX should trigger trap seal and vent path review.
 
-We coordinate local dispatch coverage around Ennis, TX and nearby ZIP sectors.
+Cast-iron hub corrosion in Ennis, TX often concentrates at the third joint upstream of the cleanout.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Water heater anode type may change with Ennis, TX hardness profiles.
 
-Field note: Connection points spot-checked where accessible (ZIP 75119/75120 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 75119/75120 coverage.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 75119, 75120 (county grid: Ellis County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ennis, TX systems need rebalancing.
+
+Step: camera-pass main lines in Ennis, TX before jetting older clay or cast iron.
+
+Risk flag: Seasonal Ennis, TX irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ennis, TX.
+
+Supply audit 709768: curb-stop orientation and hose-bib freeze flag reviewed for Ennis, TX at coords 32.3300/-96.6300.
+
+Fixture roster 709768: toilet flange spacer kit and shower cartridge seat score queued for Ennis, TX walk-through.
+
+plumbing brief: toilet flange spacer kit and cleanout riser height were cross-checked for the Ennis intake packet.
+
+On-site sector marker: Ellis County / ZIP 75119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75119-f5135102

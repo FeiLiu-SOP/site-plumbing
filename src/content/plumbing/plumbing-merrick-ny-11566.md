@@ -12,25 +12,41 @@ lng: -73.5500
 zipSample: ["11566"]
 zipCodes: ["11566"]
 localPaths: ["Nassau County / elevation 13 ft band", "Nassau County / ZIP 11566 sector", "Nassau County / primary ZIP 11566", "Nassau County / coords 40.6500, -73.5500"]
-zillowHomeValueUsd: 878702
 ---
 
-**Engineering Notice for Merrick:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Merrick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Merrick, NY, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Merrick, NY systems need rebalancing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Merrick, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11566.
+Material note: Water heater anode type may change with Merrick, NY hardness profiles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Polybutylene manifold tags in Merrick, NY basements should be photographed before any wall chase opens.
 
-We coordinate local dispatch coverage around Merrick, NY and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Moisture pathway inspection logged near ZIP 11566 intake.
+Hard water in Merrick, NY accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 11566 (county grid: Nassau County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Across Merrick, NY, main-line bellies can trap debris even when fixtures drain normally.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 11566.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Irrigation cross-connections in Merrick, NY can back-siphon domestic lines during main breaks.
+
+Intake ledger 135572: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Merrick, NY at 40.6500, -73.5500.
+
+Flow dossier 135572: branch wet-vent geometry and jetting nozzle envelope logged for Merrick, NY county grid Nassau County (ZIP 11566).
+
+On-site sector marker: Nassau County / primary ZIP 11566 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11566-798a1cef

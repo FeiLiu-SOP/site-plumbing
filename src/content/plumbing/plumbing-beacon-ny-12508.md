@@ -12,26 +12,41 @@ lng: -73.9700
 zipSample: ["12508"]
 zipCodes: ["12508"]
 localPaths: ["Dutchess County / ZIP 12508 sector", "Dutchess County / elevation 171 ft band", "Dutchess County / coords 41.5000, -73.9700", "Dutchess County / primary ZIP 12508"]
-zillowHomeValueUsd: 533850
 ---
 
-**Engineering Notice for Beacon:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Dutchess County.
+**Engineering Notice for Beacon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dutchess County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Beacon, NY often concentrates at the third joint upstream of the cleanout.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Beacon, NY, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 12508.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Beacon, NY irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 12508 intake.
+Stack vent offsets in Beacon, NY older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 12508.
+Branch wet vents in Beacon, NY can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 12508 (county grid: Dutchess County).
+Sewer gas odors in Beacon, NY should trigger trap seal and vent path review.
+
+Permit note: Main water line replacement in Beacon, NY may require ROW restoration planning.
+
+Risk flag: In Beacon, NY, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 12508.
+
+FAQ: Is hydro-jetting always appropriate? In Beacon, NY, pipe material and blockage type dictate method.
+
+Lineage note 655519: recirculation pump amp draw captured before Beacon, NY branch isolation.
+
+Flow dossier 655519: branch wet-vent geometry and jetting nozzle envelope logged for Beacon, NY county grid Dutchess County (ZIP 12508).
+
+On-site sector marker: Dutchess County / primary ZIP 12508 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12508-6cfa7f31

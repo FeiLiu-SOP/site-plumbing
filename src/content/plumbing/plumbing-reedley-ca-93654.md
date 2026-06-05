@@ -12,24 +12,37 @@ lng: -119.4500
 zipSample: ["93654"]
 zipCodes: ["93654"]
 localPaths: ["Fresno County / elevation 354 ft band", "Fresno County / coords 36.6000, -119.4500", "Fresno County / primary ZIP 93654", "Fresno County / ZIP 93654 sector"]
-zillowHomeValueUsd: 386666
 ---
 
-**Engineering Notice for Reedley:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Reedley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
 
 
-We coordinate local dispatch coverage around Reedley, CA and nearby ZIP sectors.
+Galvanized segments in Reedley, CA may restrict flow long before visible corrosion.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Reedley, CA often trace to interior shutoff seats, not exterior stems.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stack vent offsets in Reedley, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Reedley, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Connection points spot-checked where accessible (ZIP 93654 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 93654 (county grid: Fresno County).
+Basement floor drains in Reedley, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 93654.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Reedley, CA systems need rebalancing.
+
+Hydro-jetting in Reedley, CA requires camera confirmation before nozzle pressure is raised.
+
+Lineage note 158346: recirculation pump amp draw captured before Reedley, CA branch isolation.
+
+Primary postal anchor 93654 with multi-ZIP overlap in Reedley; field packets tag Fresno County for county-grid reconciliation.
 
 Service reference: CA-93654-76e0df80

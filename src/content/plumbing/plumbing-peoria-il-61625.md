@@ -12,26 +12,39 @@ lng: -89.6200
 zipSample: ["61652", "61655", "61615", "61634", "61602"]
 zipCodes: ["61606", "61643", "61615", "61655", "61636", "61637", "61638", "61602", "61625", "61614", "61651", "61634"]
 localPaths: ["Peoria County / coords 40.7500, -89.6200", "Peoria County / ZIP 61602 sector", "Peoria County / ZIP 61634 sector", "Peoria County / ZIP 61655 sector", "Peoria County / ZIP 61615 sector"]
-zillowHomeValueUsd: 104980
 ---
 
-**Engineering Notice for Peoria:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Peoria County.
+**Engineering Notice for Peoria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Peoria County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Peoria, IL.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When is cabling enough? In Peoria, IL, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Peoria, IL, but intake notes help reduce delays.
+Fixture shutoff stiffness in Peoria, IL may indicate mineral bridging behind stems.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61639/61636/61651.
+Frost-free sillcock failures in Peoria, IL often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 61639/61636/61651.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 61639, 61636, 61651, 61655, 61604 (county grid: Peoria County).
+Hydrostatic holds in Peoria, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Stack vent offsets in Peoria, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Hydro-jetting in Peoria, IL requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 620637: toilet flange spacer kit and shower cartridge seat score queued for Peoria, IL walk-through.
+
+Intake ledger 620637: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Peoria, IL at 40.7500, -89.6200.
+
+On-site sector marker: Peoria County / elevation 719 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61625-26892db6

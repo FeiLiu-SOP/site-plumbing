@@ -12,26 +12,39 @@ lng: -116.7900
 zipSample: ["83816", "83814", "83815"]
 zipCodes: ["83815", "83814", "83816"]
 localPaths: ["Kootenai County / ZIP 83814 sector", "Kootenai County / primary ZIP 83815", "Kootenai County / ZIP 83815 sector", "Kootenai County / elevation 2247 ft band", "Kootenai County / ZIP 83816 sector"]
-zillowHomeValueUsd: 558574
 ---
 
-**Engineering Notice for Coeur d'Alene:** Structural loading calculated based on 2247 ft terrain assessment. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Coeur d'Alene:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kootenai County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Coeur d'Alene, ID, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate local dispatch coverage around Coeur d'Alene, ID and nearby ZIP sectors.
+Water heater T&P discharge paths in Coeur d'Alene, ID must terminate safely before replacement quotes.
 
-In Coeur d'Alene, ID, urgent plumbing issues can escalate quickly.
+Basement floor drains in Coeur d'Alene, ID should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Clear documentation helps align materials, labor, and timeline.
+We coordinate Coeur d'Alene, ID plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 83814/83816/83815.
+FAQ: When should sump battery backups be load-tested? In Coeur d'Alene, ID, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83814/83816/83815.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Coeur d'Alene, ID systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 83814, 83816, 83815 (county grid: Kootenai County).
+Irrigation cross-connections in Coeur d'Alene, ID can back-siphon domestic lines during main breaks.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Stack vent offsets in Coeur d'Alene, ID older duplexes can mask tub gurgle as a main-line failure.
+
+Recirculation pump failures in Coeur d'Alene, ID can mimic fixture-specific clogs.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 157533: curb-stop orientation and hose-bib freeze flag reviewed for Coeur d'Alene, ID at coords 47.7000/-116.7900.
+
+Flow dossier 157533: branch wet-vent geometry and jetting nozzle envelope logged for Coeur d'Alene, ID county grid Kootenai County (ZIP 83815).
+
+Regional mesh label Kootenai County: moisture and logistics baselines are keyed to Coeur d'Alene, ID before niche-specific work begins.
 
 Service reference: ID-83815-08db931e

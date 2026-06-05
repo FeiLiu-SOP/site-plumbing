@@ -12,26 +12,45 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55082", "55083"]
 localPaths: ["Washington County / primary ZIP 55082", "Washington County / ZIP 55082 sector", "Washington County / ZIP 55083 sector", "Washington County / elevation 856 ft band", "Washington County / coords 45.0600, -92.8300"]
-zillowHomeValueUsd: 520480
 ---
 
-**Engineering Notice for Stillwater:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Stillwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stillwater, MN, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Homeowners in Stillwater, MN often face sudden plumbing problems that require fast action.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sump discharge freeze risk in Stillwater, MN should be reviewed before spring thaw cycles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 55082.
 
-Field note: Moisture pathway inspection logged near ZIP 55082/55083 intake.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55082/55083.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 55082, 55083 (county grid: Washington County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hard water in Stillwater, MN accelerates scale on PRV seats and heater elements.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Permit note: Main water line replacement in Stillwater, MN may require ROW restoration planning.
+
+Cleanout access limits in Stillwater, MN frequently extend drain cleaning duration.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Drain map 488169: camera-pass priority and expansion-tank pre-charge noted for Stillwater, MN postal sector 55082.
+
+Lineage note 488169: recirculation pump amp draw captured before Stillwater, MN branch isolation.
+
+plumbing brief: fixture shutoff torque log and jetter nozzle envelope were cross-checked for the Stillwater intake packet.
+
+On-site sector marker: Washington County / ZIP 55082 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55082-1239dd9f

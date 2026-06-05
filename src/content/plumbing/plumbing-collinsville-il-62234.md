@@ -12,26 +12,41 @@ lng: -90.0100
 zipSample: ["62234"]
 zipCodes: ["62234"]
 localPaths: ["Madison County / ZIP 62234 sector", "Madison County / coords 38.6800, -90.0100", "Madison County / primary ZIP 62234", "Madison County / elevation 548 ft band"]
-zillowHomeValueUsd: 192528
 ---
 
-**Engineering Notice for Collinsville:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Collinsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Collinsville, IL, slab leaks often present as warm spots before wall stains appear.
 
-We coordinate local dispatch coverage around Collinsville, IL and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 62234.
 
-Tip: request a written scope before work starts.
+Stack vent offsets in Collinsville, IL older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Collinsville, IL, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 62234 coverage.
+Risk flag: Seasonal Collinsville, IL irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Moisture pathway inspection logged near ZIP 62234 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 62234 (county grid: Madison County).
+Hydrostatic holds in Collinsville, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 62234.
+
+Step: map sump float travel and check-valve orientation for Collinsville, IL basements.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 911484: recirculation pump amp draw captured before Collinsville, IL branch isolation.
+
+ZIP-corridor snapshot for Collinsville, IL: sampled sectors include 62234; county routing grid remains Madison County.
 
 Service reference: IL-62234-555d701b

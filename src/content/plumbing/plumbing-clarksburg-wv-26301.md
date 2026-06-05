@@ -12,24 +12,41 @@ lng: -80.3200
 zipSample: ["26330", "26306", "26301"]
 zipCodes: ["26330", "26301", "26306"]
 localPaths: ["Harrison County / ZIP 26330 sector", "Harrison County / ZIP 26306 sector", "Harrison County / coords 39.2900, -80.3200", "Harrison County / primary ZIP 26301", "Harrison County / ZIP 26301 sector"]
-zillowHomeValueUsd: 116819
 ---
 
-**Engineering Notice for Clarksburg:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Harrison County.
+**Engineering Notice for Clarksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Irrigation cross-connections in Clarksburg, WV can back-siphon domestic lines during main breaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clarksburg, WV, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our service coordination centers on Clarksburg, WV coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 26330/26306/26301 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 26330, 26306, 26301 (county grid: Harrison County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: In Clarksburg, WV, slab leaks can misroute as foundation issues without listening equipment.
+
+Cleanout access limits in Clarksburg, WV frequently extend drain cleaning duration.
+
+Hose bib split patterns in Clarksburg, WV often follow missed winterization.
+
+Flow dossier 652581: branch wet-vent geometry and jetting nozzle envelope logged for Clarksburg, WV county grid Harrison County (ZIP 26301).
+
+plumbing brief: backflow test cock orientation and recirculation pump amp draw were cross-checked for the Clarksburg intake packet.
+
+On-site sector marker: Harrison County / primary ZIP 26301 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26301-2388700c

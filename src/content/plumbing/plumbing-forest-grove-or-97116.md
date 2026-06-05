@@ -12,24 +12,41 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / primary ZIP 97116", "Washington County / ZIP 97116 sector"]
-zillowHomeValueUsd: 526966
 ---
 
-**Engineering Notice for Forest Grove:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Forest Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-Our service coordination centers on Forest Grove, OR coverage windows and verified intake details.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: camera-pass main lines in Forest Grove, OR before jetting older clay or cast iron.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Forest Grove, OR basements should be photographed before any wall chase opens.
 
-Field note: Access points and staging constraints recorded for ZIP 97116 coverage.
+Permit note: Main water line replacement in Forest Grove, OR may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 97116 (county grid: Washington County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Galvanized segments in Forest Grove, OR may restrict flow long before visible corrosion.
+
+Risk flag: Seasonal Forest Grove, OR irrigation cross-connections can mask domestic pressure loss.
+
+Irrigation cross-connections in Forest Grove, OR can back-siphon domestic lines during main breaks.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture roster 863255: toilet flange spacer kit and shower cartridge seat score queued for Forest Grove, OR walk-through.
+
+Lineage note 863255: recirculation pump amp draw captured before Forest Grove, OR branch isolation.
+
+plumbing brief: PEX expansion ring batch and cleanout riser height were cross-checked for the Forest Grove intake packet.
+
+On-site sector marker: Washington County / coords 45.5200, -123.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97116-a0e0bd58

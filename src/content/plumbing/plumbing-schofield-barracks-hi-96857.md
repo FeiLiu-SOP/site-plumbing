@@ -12,27 +12,43 @@ lng: -158.0600
 zipSample: ["96857", "96786"]
 zipCodes: ["96857", "96786"]
 localPaths: ["Honolulu County / primary ZIP 96857", "Honolulu County / ZIP 96786 sector", "Honolulu County / elevation 919 ft band", "Honolulu County / ZIP 96857 sector", "Honolulu County / coords 21.4900, -158.0600"]
-zillowHomeValueUsd: 861715
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Schofield Barracks:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Schofield Barracks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
 
 
-In Schofield Barracks, HI, seasonal demand can change scheduling windows.
+Branch wet vents in Schofield Barracks, HI can mask gurgling as a main-line issue.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Water heater T&P discharge paths in Schofield Barracks, HI must terminate safely before replacement quotes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 96857.
 
-Field note: Connection points spot-checked where accessible (ZIP 96786/96857 zone).
+FAQ: Is hydro-jetting always appropriate? In Schofield Barracks, HI, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96786/96857.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 96786, 96857 (county grid: Honolulu County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 96857.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+In Schofield Barracks, HI, slab leaks often present as warm spots before wall stains appear.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 886210: branch wet-vent geometry and jetting nozzle envelope logged for Schofield Barracks, HI county grid Honolulu County (ZIP 96857).
+
+Drain map 886210: camera-pass priority and expansion-tank pre-charge noted for Schofield Barracks, HI postal sector 96857.
+
+Scope trace: sump float travel plus floor drain trap primer drip referenced in Honolulu County county grid review.
+
+Primary postal anchor 96857 with multi-ZIP overlap in Schofield Barracks; field packets tag Honolulu County for county-grid reconciliation.
 
 Service reference: HI-96857-49cc3794

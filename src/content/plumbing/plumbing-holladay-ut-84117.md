@@ -12,26 +12,41 @@ lng: -111.8200
 zipSample: ["84117", "84121", "84124"]
 zipCodes: ["84121", "84124", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / elevation 4452 ft band", "Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84121 sector"]
-zillowHomeValueUsd: 694486
 ---
 
-**Engineering Notice for Holladay:** Structural loading calculated based on 4452 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Holladay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Holladay, UT and nearby ZIP sectors.
+Cast-iron hub corrosion in Holladay, UT often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Holladay, UT slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: confirm licensing and insurance before approving work.
+Step: map sump float travel and check-valve orientation for Holladay, UT basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 84124/84121/84117.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 84124/84121/84117 zone).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Holladay, UT.
 
-Dispatch sectors sampled: ZIP 84124, 84121, 84117 (county grid: Salt Lake County).
+CPVC solvent weld times shift with ambient humidity during Holladay, UT shoulder seasons.
+
+Galvanized segments in Holladay, UT may restrict flow long before visible corrosion.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 554567: toilet flange spacer kit and shower cartridge seat score queued for Holladay, UT walk-through.
+
+Scope trace: recirculation pump amp draw plus PRV outlet curve referenced in Salt Lake County county grid review.
+
+Coordinate-anchored dispatch note: center reference 40.6600, -111.8200 at elevation ~4452 ft aligns with Salt Lake County intake staging.
 
 Service reference: UT-84117-8a925491

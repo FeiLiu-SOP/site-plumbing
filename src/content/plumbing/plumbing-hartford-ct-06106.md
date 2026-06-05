@@ -12,26 +12,39 @@ lng: -72.6800
 zipSample: ["06126", "06146", "06105", "06112", "06102"]
 zipCodes: ["06152", "06143", "06133", "06106", "06141", "06115", "06102", "06151", "06142", "06154", "06112", "06167"]
 localPaths: ["Capitol County / ZIP 06112 sector", "Capitol County / ZIP 06102 sector", "Capitol County / ZIP 06146 sector", "Capitol County / elevation 46 ft band", "Capitol County / ZIP 06126 sector"]
-zillowHomeValueUsd: 226053
 ---
 
-**Engineering Notice for Hartford:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Capitol County.
+**Engineering Notice for Hartford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Capitol County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 06106.
 
-Tip: request a written scope before work starts.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 06106.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hartford, CT, but intake notes help reduce delays.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Hartford, CT.
 
-Homeowners in Hartford, CT often face sudden plumbing problems that require fast action.
+Trenchless pulls in Hartford, CT require pit dimensions verified against utility locate marks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06115/06152/06146.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 06115/06152/06146 intake.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Hartford, CT.
 
-Dispatch sectors sampled: ZIP 06115, 06152, 06146, 06176, 06104 (county grid: Capitol County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: Is hydro-jetting always appropriate? In Hartford, CT, pipe material and blockage type dictate method.
+
+Stack vent offsets in Hartford, CT older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: In Hartford, CT, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Seasonal Hartford, CT irrigation cross-connections can mask domestic pressure loss.
+
+Fixture roster 125640: toilet flange spacer kit and shower cartridge seat score queued for Hartford, CT walk-through.
+
+Field routing: dielectric union checklist paired with PEX expansion ring batch near ZIP 06106.
+
+On-site sector marker: Capitol County / ZIP 06133 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06106-910e094d

@@ -12,24 +12,43 @@ lng: -81.2900
 zipSample: ["32720", "32723", "32721", "32724"]
 zipCodes: ["32723", "32720", "32721", "32724"]
 localPaths: ["Volusia County / ZIP 32721 sector", "Volusia County / elevation 105 ft band", "Volusia County / ZIP 32723 sector", "Volusia County / ZIP 32720 sector", "Volusia County / coords 29.0200, -81.2900"]
-zillowHomeValueUsd: 339074
 ---
 
-**Engineering Notice for DeLand:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Volusia County.
+**Engineering Notice for DeLand:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in DeLand, FL, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate local dispatch coverage around DeLand, FL and nearby ZIP sectors.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in DeLand, FL.
 
-In DeLand, FL, urgent plumbing issues can escalate quickly.
+Cast-iron hub corrosion in DeLand, FL often concentrates at the third joint upstream of the cleanout.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near DeLand, FL require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32721/32720/32724.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 32721, 32720, 32724, 32723 (county grid: Volusia County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Recirculation pump failures in DeLand, FL can mimic fixture-specific clogs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Frost-free sillcock failures in DeLand, FL often trace to interior shutoff seats, not exterior stems.
+
+Flow dossier 251733: branch wet-vent geometry and jetting nozzle envelope logged for DeLand, FL county grid Volusia County (ZIP 32724).
+
+Fixture roster 251733: toilet flange spacer kit and shower cartridge seat score queued for DeLand, FL walk-through.
+
+plumbing brief: gas water heater draft hood gap and water softener bypass lever were cross-checked for the DeLand intake packet.
+
+On-site sector marker: Volusia County / ZIP 32724 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32724-ab342702

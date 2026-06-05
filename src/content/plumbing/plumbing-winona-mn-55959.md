@@ -12,27 +12,43 @@ lng: -91.6700
 zipSample: ["55987", "55959"]
 zipCodes: ["55959", "55987"]
 localPaths: ["Winona County / coords 44.0500, -91.6700", "Winona County / ZIP 55987 sector", "Winona County / ZIP 55959 sector", "Winona County / elevation 666 ft band", "Winona County / primary ZIP 55959"]
-zillowHomeValueUsd: 300714
 ---
 
-**Engineering Notice for Winona:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Winona County.
+**Engineering Notice for Winona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winona County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 55959.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Main water line replacement in Winona, MN may require ROW restoration planning.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless pulls in Winona, MN require pit dimensions verified against utility locate marks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Winona, MN, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Winona, MN systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 55959/55987.
+Basement floor drains in Winona, MN should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55959/55987.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 55959, 55987 (county grid: Winona County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Water heater anode type may change with Winona, MN hardness profiles.
+
+Risk flag: In Winona, MN, slab leaks can misroute as foundation issues without listening equipment.
+
+Supply audit 598927: curb-stop orientation and hose-bib freeze flag reviewed for Winona, MN at coords 44.0500/-91.6700.
+
+Flow dossier 598927: branch wet-vent geometry and jetting nozzle envelope logged for Winona, MN county grid Winona County (ZIP 55959).
+
+Scope trace: recirculation pump amp draw plus backflow test cock orientation referenced in Winona County county grid review.
+
+On-site sector marker: Winona County / primary ZIP 55959 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55959-831767fb

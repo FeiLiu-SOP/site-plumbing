@@ -12,26 +12,43 @@ lng: -117.3900
 zipSample: ["92502", "92501", "92503", "92505", "92506"]
 zipCodes: ["92505", "92521", "92507", "92504", "92516", "92513", "92508", "92503", "92517", "92506", "92501", "92522"]
 localPaths: ["Riverside County / ZIP 92506 sector", "Riverside County / ZIP 92502 sector", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92503 sector", "Riverside County / coords 33.9400, -117.3900"]
-zillowHomeValueUsd: 767525
 ---
 
-**Engineering Notice for Riverside:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Riverside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Riverside, CA, but intake notes help reduce delays.
+Hydrostatic holds in Riverside, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Access points and staging constraints recorded for ZIP 92513/92514/92522 coverage.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Riverside, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 92513/92514/92522.
+Dual-water-meter setups in Riverside, CA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 92513, 92514, 92522, 92506, 92504 (county grid: Riverside County).
+Fixture shutoff stiffness in Riverside, CA may indicate mineral bridging behind stems.
+
+Across Riverside, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92508.
+
+Frost-free sillcock failures in Riverside, CA often trace to interior shutoff seats, not exterior stems.
+
+Step: map sump float travel and check-valve orientation for Riverside, CA basements.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 354600: toilet flange spacer kit and shower cartridge seat score queued for Riverside, CA walk-through.
+
+Flow dossier 354600: branch wet-vent geometry and jetting nozzle envelope logged for Riverside, CA county grid Riverside County (ZIP 92508).
+
+On-site sector marker: Riverside County / ZIP 92501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92508-7c43624a

@@ -12,27 +12,39 @@ lng: -85.7800
 zipSample: ["46176"]
 zipCodes: ["46176"]
 localPaths: ["Shelby County / ZIP 46176 sector", "Shelby County / primary ZIP 46176", "Shelby County / elevation 761 ft band", "Shelby County / coords 39.5400, -85.7800"]
-zillowHomeValueUsd: 221674
 ---
 
-**Engineering Notice for Shelbyville:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Shelbyville, IN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Polybutylene manifold tags in Shelbyville, IN basements should be photographed before any wall chase opens.
 
-We coordinate local dispatch coverage around Shelbyville, IN and nearby ZIP sectors.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46176.
+Irrigation cross-connections in Shelbyville, IN can back-siphon domestic lines during main breaks.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46176.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 46176 intake.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Shelbyville, IN.
 
-Dispatch sectors sampled: ZIP 46176 (county grid: Shelby County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Trenchless sleeve pulls near Shelbyville, IN require pit shoring notes when water tables are high.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 284948: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Shelbyville, IN at 39.5400, -85.7800.
+
+Lineage note 284948: recirculation pump amp draw captured before Shelbyville, IN branch isolation.
+
+Regional mesh label Shelby County: moisture and logistics baselines are keyed to Shelbyville, IN before niche-specific work begins.
 
 Service reference: IN-46176-2ed5f59b

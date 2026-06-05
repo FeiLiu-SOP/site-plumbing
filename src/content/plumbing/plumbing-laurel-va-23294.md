@@ -12,24 +12,37 @@ lng: -77.5100
 zipSample: ["23228", "23294"]
 zipCodes: ["23294", "23228"]
 localPaths: ["Henrico County / primary ZIP 23294", "Henrico County / ZIP 23294 sector", "Henrico County / elevation 233 ft band", "Henrico County / coords 37.6400, -77.5100", "Henrico County / ZIP 23228 sector"]
-zillowHomeValueUsd: 360192
 ---
 
-**Engineering Notice for Laurel:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Laurel, VA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 23294.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: request a written scope before work starts.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on Laurel, VA coverage windows and verified intake details.
+Irrigation cross-connections in Laurel, VA can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 23294/23228 zone).
+Risk flag: Seasonal Laurel, VA irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 23294, 23228 (county grid: Henrico County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Polybutylene manifold tags in Laurel, VA basements should be photographed before any wall chase opens.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 379506: curb-stop orientation and hose-bib freeze flag reviewed for Laurel, VA at coords 37.6400/-77.5100.
+
+On-site sector marker: Henrico County / coords 37.6400, -77.5100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23294-480f99dc

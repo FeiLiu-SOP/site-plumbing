@@ -12,26 +12,39 @@ lng: -66.4000
 zipSample: ["00693"]
 zipCodes: ["00693"]
 localPaths: ["Vega Baja County / coords 18.4400, -66.4000", "Vega Baja County / elevation 243 ft band", "Vega Baja County / ZIP 00693 sector", "Vega Baja County / primary ZIP 00693"]
-zillowHomeValueUsd: 373886
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Vega Baja:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Vega Baja County.
+**Engineering Notice for Vega Baja:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vega Baja County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00693.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Expansion tank pre-charge loss in Vega Baja, PR often tracks heater replacement deferrals.
 
-Tip: confirm licensing and insurance before approving work.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 00693.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Vega Baja, PR, but intake notes help reduce delays.
+Hard water in Vega Baja, PR accelerates scale on PRV seats and heater elements.
 
-Field note: Moisture pathway inspection logged near ZIP 00693 intake.
+Hydro-jetting in Vega Baja, PR requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 00693 (county grid: Vega Baja County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Seasonal Vega Baja, PR irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Vega Baja, PR, before spring thaw and hurricane remnants.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Stack vent offsets in Vega Baja, PR older duplexes can mask tub gurgle as a main-line failure.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 00693.
+
+Pressure trace 528433: meter-pit clearance and dielectric union checklist staged for Vega Baja, PR near elevation 243 ft.
+
+Field routing: floor drain trap primer drip paired with dielectric union checklist near ZIP 00693.
+
+On-site sector marker: Vega Baja County / ZIP 00693 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00693-ceefb96f

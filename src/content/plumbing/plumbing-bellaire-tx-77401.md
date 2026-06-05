@@ -12,26 +12,39 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77401", "77402"]
 localPaths: ["Harris County / primary ZIP 77401", "Harris County / coords 29.7000, -95.4600", "Harris County / ZIP 77401 sector", "Harris County / ZIP 77402 sector", "Harris County / elevation 72 ft band"]
-zillowHomeValueUsd: 1162690
 ---
 
-**Engineering Notice for Bellaire:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Bellaire:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Bellaire, TX should be reviewed before spring thaw cycles.
 
-We coordinate local dispatch coverage around Bellaire, TX and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-In Bellaire, TX, urgent plumbing issues can escalate quickly.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Bellaire, TX.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bellaire, TX, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 77402/77401 zone).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bellaire, TX systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 77402/77401.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 77402, 77401 (county grid: Harris County).
+Fixture shutoff stiffness in Bellaire, TX may indicate mineral bridging behind stems.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Basement floor drains in Bellaire, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Drain map 157261: camera-pass priority and expansion-tank pre-charge noted for Bellaire, TX postal sector 77401.
+
+ZIP-corridor snapshot for Bellaire, TX: sampled sectors include 77401, 77402; county routing grid remains Harris County.
 
 Service reference: TX-77401-1cc4b383

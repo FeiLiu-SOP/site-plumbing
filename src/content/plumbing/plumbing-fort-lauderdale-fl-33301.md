@@ -12,27 +12,43 @@ lng: -80.1500
 zipSample: ["33316", "33309", "33308", "33304", "33315"]
 zipCodes: ["33309", "33316", "33338", "33304", "33348", "33301", "33306", "33308", "33346", "33320", "33340", "33315"]
 localPaths: ["Broward County / primary ZIP 33301", "Broward County / coords 26.1400, -80.1500", "Broward County / ZIP 33304 sector", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33315 sector"]
-zillowHomeValueUsd: 868487
 ---
 
-**Engineering Notice for Fort Lauderdale:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Fort Lauderdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Fort Lauderdale, FL systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33301.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Moisture pathway inspection logged near ZIP 33339/33320/33315 intake.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Access points and staging constraints recorded for ZIP 33339/33320/33315 coverage.
+Trenchless sleeve pulls near Fort Lauderdale, FL require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 33339, 33320, 33315, 33311, 33346 (county grid: Broward County).
+Polybutylene manifold tags in Fort Lauderdale, FL basements should be photographed before any wall chase opens.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: camera-pass main lines in Fort Lauderdale, FL before jetting older clay or cast iron.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33301.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Irrigation cross-connections in Fort Lauderdale, FL can back-siphon domestic lines during main breaks.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Flow dossier 395591: branch wet-vent geometry and jetting nozzle envelope logged for Fort Lauderdale, FL county grid Broward County (ZIP 33301).
+
+plumbing brief: floor drain trap primer drip and toilet flange spacer kit were cross-checked for the Fort Lauderdale intake packet.
+
+Regional mesh label Broward County: moisture and logistics baselines are keyed to Fort Lauderdale, FL before niche-specific work begins.
 
 Service reference: FL-33301-6b3fe6cf

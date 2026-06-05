@@ -12,26 +12,39 @@ lng: -117.9900
 zipSample: ["92684", "92685", "92683", "92655"]
 zipCodes: ["92683", "92684", "92655", "92685"]
 localPaths: ["Orange County / ZIP 92684 sector", "Orange County / coords 33.7500, -117.9900", "Orange County / ZIP 92655 sector", "Orange County / elevation 46 ft band", "Orange County / ZIP 92683 sector"]
-zillowHomeValueUsd: 1040676
 ---
 
-**Engineering Notice for Westminster:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Westminster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Westminster, CA, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Westminster, CA.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Westminster, CA before jetting older clay or cast iron.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Westminster, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Trenchless sleeve pulls near Westminster, CA require pit shoring notes when water tables are high.
 
-Field note: Connection points spot-checked where accessible (ZIP 92655/92684/92683 zone).
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Moisture pathway inspection logged near ZIP 92655/92684/92683 intake.
+CPVC solvent weld times shift with ambient humidity during Westminster, CA shoulder seasons.
 
-Dispatch sectors sampled: ZIP 92655, 92684, 92683, 92685 (county grid: Orange County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Frost-free sillcock failures in Westminster, CA often trace to interior shutoff seats, not exterior stems.
+
+Irrigation cross-connections in Westminster, CA can back-siphon domestic lines during main breaks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Westminster, CA systems need rebalancing.
+
+Lineage note 185684: recirculation pump amp draw captured before Westminster, CA branch isolation.
+
+Field routing: recirculation pump amp draw paired with copper pinhole cluster near ZIP 92655.
+
+On-site sector marker: Orange County / ZIP 92655 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92655-2303adcc

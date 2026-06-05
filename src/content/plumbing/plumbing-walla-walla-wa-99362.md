@@ -12,26 +12,43 @@ lng: -118.3400
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / elevation 965 ft band", "Walla Walla County / coords 46.0700, -118.3400", "Walla Walla County / primary ZIP 99362", "Walla Walla County / ZIP 99362 sector"]
-zillowHomeValueUsd: 412998
 ---
 
-**Engineering Notice for Walla Walla:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Walla Walla County.
+**Engineering Notice for Walla Walla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Walla Walla County.
 
 
-Structured milestones protect both sides when scheduling work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with Walla Walla, WA hardness profiles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Walla Walla, WA often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Branch wet vents in Walla Walla, WA can mask gurgling as a main-line issue.
 
-Field note: Access points and staging constraints recorded for ZIP 99362 coverage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99362.
+Irrigation cross-connections in Walla Walla, WA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 99362 (county grid: Walla Walla County).
+Risk flag: Seasonal Walla Walla, WA irrigation cross-connections can mask domestic pressure loss.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Walla Walla, WA.
+
+Stack vent offsets in Walla Walla, WA older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hydrostatic holds in Walla Walla, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 651359: meter-pit clearance and dielectric union checklist staged for Walla Walla, WA near elevation 965 ft.
+
+Flow dossier 651359: branch wet-vent geometry and jetting nozzle envelope logged for Walla Walla, WA county grid Walla Walla County (ZIP 99362).
+
+On-site sector marker: Walla Walla County / coords 46.0700, -118.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99362-1c7a2f93

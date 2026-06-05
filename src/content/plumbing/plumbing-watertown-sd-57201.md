@@ -12,24 +12,39 @@ lng: -97.1500
 zipSample: ["57201"]
 zipCodes: ["57201"]
 localPaths: ["Codington County / primary ZIP 57201", "Codington County / coords 44.9100, -97.1500", "Codington County / ZIP 57201 sector", "Codington County / elevation 1726 ft band"]
-zillowHomeValueUsd: 319569
 ---
 
-**Engineering Notice for Watertown:** Structural loading calculated based on 1726 ft terrain assessment. Regional dispatch grid: Codington County.
+**Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Codington County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Dual-water-meter setups in Watertown, SD irrigation zones need backflow logs before line replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hard water in Watertown, SD accelerates scale on PRV seats and heater elements.
 
-We coordinate local dispatch coverage around Watertown, SD and nearby ZIP sectors.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Watertown, SD.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 57201.
+Material note: Water heater anode type may change with Watertown, SD hardness profiles.
 
-Dispatch sectors sampled: ZIP 57201 (county grid: Codington County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Fixture shutoff stiffness in Watertown, SD may indicate mineral bridging behind stems.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Watertown, SD systems need rebalancing.
+
+Drain map 652906: camera-pass priority and expansion-tank pre-charge noted for Watertown, SD postal sector 57201.
+
+plumbing brief: water softener bypass lever and slab penetration sleeve seal were cross-checked for the Watertown intake packet.
+
+Coordinate-anchored dispatch note: center reference 44.9100, -97.1500 at elevation ~1726 ft aligns with Codington County intake staging.
 
 Service reference: SD-57201-00a234fa

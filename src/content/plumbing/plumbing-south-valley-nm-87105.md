@@ -12,27 +12,41 @@ lng: -106.6800
 zipSample: ["87105", "87195"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / elevation 4944 ft band", "Bernalillo County / primary ZIP 87105", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / ZIP 87195 sector"]
-zillowHomeValueUsd: 279733
 ---
 
-**Engineering Notice for South Valley:** Structural loading calculated based on 4944 ft terrain assessment. Regional dispatch grid: Bernalillo County.
+**Engineering Notice for South Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bernalillo County.
 
 
-We coordinate local dispatch coverage around South Valley, NM and nearby ZIP sectors.
+FAQ: When is cabling enough? In South Valley, NM, pipe material and blockage type dictate method.
 
-Tip: request a written scope before work starts.
+Trenchless sleeve pulls near South Valley, NM require pit shoring notes when water tables are high.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in South Valley, NM often concentrates at the third joint upstream of the cleanout.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 87105.
+Hose bib split patterns in South Valley, NM often follow missed winterization.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 87195/87105 intake.
+Cleanout access limits in South Valley, NM frequently extend drain cleaning duration.
 
-Field note: Wind exposure category reviewed for ZIP sector 87195/87105.
+Frost-free sillcock failures in South Valley, NM often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 87195, 87105 (county grid: Bernalillo County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+In South Valley, NM, slab leaks often present as warm spots before wall stains appear.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Intake ledger 592798: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Valley, NM at 35.0100, -106.6800.
+
+Drain map 592798: camera-pass priority and expansion-tank pre-charge noted for South Valley, NM postal sector 87105.
+
+plumbing brief: scale coupon sampling and PRV outlet curve were cross-checked for the South Valley intake packet.
+
+Coordinate-anchored dispatch note: center reference 35.0100, -106.6800 at elevation ~4944 ft aligns with Bernalillo County intake staging.
 
 Service reference: NM-87105-883c5b25

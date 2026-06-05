@@ -12,26 +12,43 @@ lng: -95.1500
 zipSample: ["77058", "77059", "77502", "77504", "77258"]
 zipCodes: ["77059", "77505", "77506", "77502", "77501", "77503", "77258", "77508", "77504", "77586", "77507", "77058"]
 localPaths: ["Harris County / coords 29.6600, -95.1500", "Harris County / elevation 33 ft band", "Harris County / primary ZIP 77058", "Harris County / ZIP 77258 sector", "Harris County / ZIP 77058 sector"]
-zillowHomeValueUsd: 239161
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our service coordination centers on Pasadena, TX coverage windows and verified intake details.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pasadena, TX, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Pasadena, TX, before spring thaw and hurricane remnants.
 
-Field note: Wind exposure category reviewed for ZIP sector 77586/77501/77506.
+Dual-water-meter setups in Pasadena, TX irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 77586/77501/77506 intake.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Pasadena, TX.
 
-Dispatch sectors sampled: ZIP 77586, 77501, 77506, 77258, 77508 (county grid: Harris County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Frost-free sillcock failures in Pasadena, TX often trace to interior shutoff seats, not exterior stems.
+
+Material note: Water heater anode type may change with Pasadena, TX hardness profiles.
+
+Irrigation cross-connections in Pasadena, TX can back-siphon domestic lines during main breaks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Pressure trace 126138: meter-pit clearance and dielectric union checklist staged for Pasadena, TX near elevation 33 ft.
+
+Supply audit 126138: curb-stop orientation and hose-bib freeze flag reviewed for Pasadena, TX at coords 29.6600/-95.1500.
+
+plumbing brief: recirculation pump amp draw and copper pinhole cluster were cross-checked for the Pasadena intake packet.
+
+Primary postal anchor 77058 with multi-ZIP overlap in Pasadena; field packets tag Harris County for county-grid reconciliation.
 
 Service reference: TX-77058-6a7304c1

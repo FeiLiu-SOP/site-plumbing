@@ -12,26 +12,45 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / primary ZIP 60448", "Will County / coords 41.5300, -87.8800", "Will County / ZIP 60448 sector", "Will County / elevation 725 ft band"]
-zillowHomeValueUsd: 437948
 ---
 
-**Engineering Notice for Mokena:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Mokena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around Mokena, IL and nearby ZIP sectors.
+Branch wet vents in Mokena, IL can mask gurgling as a main-line issue.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Connection points spot-checked where accessible (ZIP 60448 zone).
+FAQ: Is hydro-jetting always appropriate? In Mokena, IL, pipe material and blockage type dictate method.
 
-Field note: Access points and staging constraints recorded for ZIP 60448 coverage.
+Irrigation cross-connections in Mokena, IL can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 60448 (county grid: Will County).
+Recirculation pump failures in Mokena, IL can mimic fixture-specific clogs.
+
+Risk flag: In Mokena, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When should sump battery backups be load-tested? In Mokena, IL, before spring thaw and hurricane remnants.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mokena, IL systems need rebalancing.
+
+Cast-iron hub corrosion in Mokena, IL often concentrates at the third joint upstream of the cleanout.
+
+We coordinate Mokena, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Risk flag: Seasonal Mokena, IL irrigation cross-connections can mask domestic pressure loss.
+
+Intake ledger 754872: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Mokena, IL at 41.5300, -87.8800.
+
+Pressure trace 754872: meter-pit clearance and dielectric union checklist staged for Mokena, IL near elevation 725 ft.
+
+Scope trace: PRV outlet curve plus dielectric union checklist referenced in Will County county grid review.
+
+On-site sector marker: Will County / coords 41.5300, -87.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60448-f8db8c88

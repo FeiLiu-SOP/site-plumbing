@@ -12,24 +12,39 @@ lng: -100.7600
 zipSample: ["69103", "69101"]
 zipCodes: ["69101", "69103"]
 localPaths: ["Lincoln County / ZIP 69103 sector", "Lincoln County / primary ZIP 69101", "Lincoln County / coords 41.1300, -100.7600", "Lincoln County / elevation 2812 ft band", "Lincoln County / ZIP 69101 sector"]
-zillowHomeValueUsd: 208940
 ---
 
-**Engineering Notice for North Platte:** Structural loading calculated based on 2812 ft terrain assessment. Regional dispatch grid: Lincoln County.
+**Engineering Notice for North Platte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lincoln County.
 
 
-We coordinate local dispatch coverage around North Platte, NE and nearby ZIP sectors.
+Basement floor drains in North Platte, NE should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Main water line replacement in North Platte, NE may require ROW restoration planning.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Platte, NE, but intake notes help reduce delays.
+Branch wet vents in North Platte, NE can mask gurgling as a main-line issue.
 
-Field note: Wind exposure category reviewed for ZIP sector 69103/69101.
+Dual-water-meter setups in North Platte, NE irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 69103, 69101 (county grid: Lincoln County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in North Platte, NE often trace to interior shutoff seats, not exterior stems.
+
+Stack vent offsets in North Platte, NE older duplexes can mask tub gurgle as a main-line failure.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in North Platte, NE systems need rebalancing.
+
+Galvanized segments in North Platte, NE may restrict flow long before visible corrosion.
+
+Lineage note 698097: recirculation pump amp draw captured before North Platte, NE branch isolation.
+
+plumbing brief: recirculation pump amp draw and water heater T&P path were cross-checked for the North Platte intake packet.
+
+On-site sector marker: Lincoln County / ZIP 69103 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-69101-89f41d00

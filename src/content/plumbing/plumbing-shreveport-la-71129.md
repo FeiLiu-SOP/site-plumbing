@@ -12,24 +12,45 @@ lng: -93.8000
 zipSample: ["71134", "71119", "71101", "71109", "71154"]
 zipCodes: ["71130", "71154", "71118", "71129", "71134", "71101", "71105", "71104", "71153", "71148", "71106", "71102"]
 localPaths: ["Caddo Parish / ZIP 71119 sector", "Caddo Parish / ZIP 71134 sector", "Caddo Parish / ZIP 71109 sector", "Caddo Parish / elevation 243 ft band", "Caddo Parish / primary ZIP 71129"]
-zillowHomeValueUsd: 198029
 ---
 
-**Engineering Notice for Shreveport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Caddo Parish.
+**Engineering Notice for Shreveport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caddo Parish.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: request a written scope before work starts.
+Basement floor drains in Shreveport, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-In Shreveport, LA, seasonal demand can change scheduling windows.
+Sump discharge freeze risk in Shreveport, LA should be reviewed before spring thaw cycles.
 
-Our service coordination centers on Shreveport, LA coverage windows and verified intake details.
+Hydrostatic holds in Shreveport, LA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Hard water in Shreveport, LA accelerates scale on PRV seats and heater elements.
 
-Field note: Connection points spot-checked where accessible (ZIP 71163/71148/71136 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 71163, 71148, 71136, 71103, 71133 (county grid: Caddo Parish).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 71129.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 71129.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Shreveport, LA.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Is hydro-jetting always appropriate? In Shreveport, LA, pipe material and blockage type dictate method.
+
+Dual-water-meter setups in Shreveport, LA irrigation zones need backflow logs before line replacement.
+
+Pressure trace 613584: meter-pit clearance and dielectric union checklist staged for Shreveport, LA near elevation 243 ft.
+
+Flow dossier 613584: branch wet-vent geometry and jetting nozzle envelope logged for Shreveport, LA county grid Caddo Parish (ZIP 71129).
+
+Field routing: shower cartridge seat score paired with dielectric union checklist near ZIP 71129.
+
+On-site sector marker: Caddo Parish / ZIP 71136 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71129-8359a3de

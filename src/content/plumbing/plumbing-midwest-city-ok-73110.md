@@ -12,26 +12,41 @@ lng: -97.3700
 zipSample: ["73141", "73110", "73196", "73140", "73130"]
 zipCodes: ["73196", "73110", "73130", "73141", "73140"]
 localPaths: ["Oklahoma County / ZIP 73130 sector", "Oklahoma County / coords 35.4600, -97.3700", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / ZIP 73110 sector", "Oklahoma County / ZIP 73141 sector"]
-zillowHomeValueUsd: 143512
 ---
 
-**Engineering Notice for Midwest City:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Midwest City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: compare at least two estimates for scope and timeline.
+In Midwest City, OK, slab leaks often present as warm spots before wall stains appear.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73196/73110/73130.
+FAQ: When should sump battery backups be load-tested? In Midwest City, OK, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 73196/73110/73130 intake.
+Risk flag: In Midwest City, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 73196, 73110, 73130, 73140, 73141 (county grid: Oklahoma County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 73110.
+
+Step: map sump float travel and check-valve orientation for Midwest City, OK basements.
+
+Cast-iron hub corrosion in Midwest City, OK often concentrates at the third joint upstream of the cleanout.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Trenchless sleeve pulls near Midwest City, OK require pit shoring notes when water tables are high.
+
+Drain map 434699: camera-pass priority and expansion-tank pre-charge noted for Midwest City, OK postal sector 73110.
+
+Pressure trace 434699: meter-pit clearance and dielectric union checklist staged for Midwest City, OK near elevation 1227 ft.
+
+On-site sector marker: Oklahoma County / coords 35.4600, -97.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73110-3d41d68c

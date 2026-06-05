@@ -12,25 +12,41 @@ lng: -122.3100
 zipSample: ["94401", "94403", "94404", "94497", "94402"]
 zipCodes: ["94403", "94401", "94402", "94404", "94497"]
 localPaths: ["San Mateo County / elevation 13 ft band", "San Mateo County / ZIP 94497 sector", "San Mateo County / ZIP 94402 sector", "San Mateo County / ZIP 94401 sector", "San Mateo County / primary ZIP 94404"]
-zillowHomeValueUsd: 1763670
 ---
 
-**Engineering Notice for San Mateo:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for San Mateo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94404.
+Risk flag: Seasonal San Mateo, CA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Mateo, CA, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Galvanized segments in San Mateo, CA may restrict flow long before visible corrosion.
 
-Field note: Wind exposure category reviewed for ZIP sector 94401/94402/94497.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 94401, 94402, 94497, 94403, 94404 (county grid: San Mateo County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: When should sump battery backups be load-tested? In San Mateo, CA, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Polybutylene manifold tags in San Mateo, CA basements should be photographed before any wall chase opens.
+
+Hydro-jetting in San Mateo, CA requires camera confirmation before nozzle pressure is raised.
+
+FAQ: When is cabling enough? In San Mateo, CA, pipe material and blockage type dictate method.
+
+Flow dossier 406717: branch wet-vent geometry and jetting nozzle envelope logged for San Mateo, CA county grid San Mateo County (ZIP 94404).
+
+Field routing: jetter nozzle envelope paired with PRV outlet curve near ZIP 94404.
+
+Primary postal anchor 94404 with multi-ZIP overlap in San Mateo; field packets tag San Mateo County for county-grid reconciliation.
 
 Service reference: CA-94404-3229d591

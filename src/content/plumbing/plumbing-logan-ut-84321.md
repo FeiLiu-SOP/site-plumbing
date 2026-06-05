@@ -12,24 +12,41 @@ lng: -111.8400
 zipSample: ["84321", "84322", "84341"]
 zipCodes: ["84341", "84321", "84322"]
 localPaths: ["Cache County / ZIP 84341 sector", "Cache County / ZIP 84321 sector", "Cache County / primary ZIP 84321", "Cache County / coords 41.7400, -111.8400", "Cache County / ZIP 84322 sector"]
-zillowHomeValueUsd: 421413
 ---
 
-**Engineering Notice for Logan:** Structural loading calculated based on 4514 ft terrain assessment. Regional dispatch grid: Cache County.
+**Engineering Notice for Logan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cache County.
 
 
-Our service coordination centers on Logan, UT coverage windows and verified intake details.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Logan, UT hardness profiles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Logan, UT, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Logan, UT, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84321/84341/84322.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 84321, 84341, 84322 (county grid: Cache County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Permit note: Main water line replacement in Logan, UT may require ROW restoration planning.
+
+Risk flag: In Logan, UT, slab leaks can misroute as foundation issues without listening equipment.
+
+Irrigation cross-connections in Logan, UT can back-siphon domestic lines during main breaks.
+
+Cast-iron hub corrosion in Logan, UT often concentrates at the third joint upstream of the cleanout.
+
+CPVC solvent weld times shift with ambient humidity during Logan, UT shoulder seasons.
+
+Basement floor drains in Logan, UT should be snaked only after trap arm geometry is confirmed on camera.
+
+Supply audit 346657: curb-stop orientation and hose-bib freeze flag reviewed for Logan, UT at coords 41.7400/-111.8400.
+
+Flow dossier 346657: branch wet-vent geometry and jetting nozzle envelope logged for Logan, UT county grid Cache County (ZIP 84321).
+
+**Regional Infrastructure Brief:** Response coverage aligns with Cache County and primary ZIP 84321. Terrain reference: 4514 ft. Center point: 41.7400, -111.8400. ZIP sample: 84322, 84341, 84321. Service perimeter note: Coverage extends through Cache County with dispatch centered near ZIP 84321.
 
 Service reference: UT-84321-518b765c

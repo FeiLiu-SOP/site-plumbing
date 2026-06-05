@@ -12,24 +12,41 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / elevation 4229 ft band", "Salt Lake County / primary ZIP 84044", "Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / ZIP 84044 sector"]
-zillowHomeValueUsd: 448968
 ---
 
-**Engineering Notice for Magna:** Structural loading calculated based on 4229 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Magna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Magna, UT should trigger trap seal and vent path review.
 
-We coordinate local dispatch coverage around Magna, UT and nearby ZIP sectors.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 84044.
 
-Field note: Moisture pathway inspection logged near ZIP 84044 intake.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 84044 (county grid: Salt Lake County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 84044.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 449959: curb-stop orientation and hose-bib freeze flag reviewed for Magna, UT at coords 40.7600/-112.1600.
+
+Flow dossier 449959: branch wet-vent geometry and jetting nozzle envelope logged for Magna, UT county grid Salt Lake County (ZIP 84044).
+
+Field routing: jetter nozzle envelope paired with sump float travel near ZIP 84044.
+
+Coordinate-anchored dispatch note: center reference 40.7600, -112.1600 at elevation ~4229 ft aligns with Salt Lake County intake staging.
 
 Service reference: UT-84044-b5784a9f

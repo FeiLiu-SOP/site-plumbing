@@ -12,24 +12,41 @@ lng: -117.1300
 zipSample: ["92589", "92593", "92591", "92590", "92592"]
 zipCodes: ["92591", "92593", "92590", "92589", "92592"]
 localPaths: ["Riverside County / elevation 1152 ft band", "Riverside County / ZIP 92591 sector", "Riverside County / ZIP 92589 sector", "Riverside County / ZIP 92593 sector", "Riverside County / coords 33.4900, -117.1300"]
-zillowHomeValueUsd: 1488323
 ---
 
-**Engineering Notice for Temecula:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Temecula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-Our service coordination centers on Temecula, CA coverage windows and verified intake details.
+Step: document dielectric unions before mixed-metal replacements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: request a written scope before work starts.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 92591/92592/92590 coverage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 92591, 92592, 92590, 92589, 92593 (county grid: Riverside County).
+Trenchless sleeve pulls near Temecula, CA require pit shoring notes when water tables are high.
+
+Hard water in Temecula, CA accelerates scale on PRV seats and heater elements.
+
+Cleanout access limits in Temecula, CA frequently extend drain cleaning duration.
+
+Stack vent offsets in Temecula, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Sewer gas odors in Temecula, CA should trigger trap seal and vent path review.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Temecula, CA require pit dimensions verified against utility locate marks.
+
+Drain map 800633: camera-pass priority and expansion-tank pre-charge noted for Temecula, CA postal sector 92590.
+
+Scope trace: fixture shutoff torque log plus PRV outlet curve referenced in Riverside County county grid review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Riverside County and primary ZIP 92590. Terrain reference: 1152 ft. Center point: 33.4900, -117.1300. ZIP sample: 92589, 92592, 92591, 92593, 92590. Logistics priority: Serving residential sectors across Riverside County and north-east ZIP 92590 grid.
 
 Service reference: CA-92590-d0204182

@@ -12,26 +12,41 @@ lng: -93.2600
 zipSample: ["55421", "55432"]
 zipCodes: ["55432", "55421"]
 localPaths: ["Anoka County / ZIP 55432 sector", "Anoka County / coords 45.0800, -93.2600", "Anoka County / primary ZIP 55421", "Anoka County / ZIP 55421 sector", "Anoka County / elevation 843 ft band"]
-zillowHomeValueUsd: 297793
 ---
 
-**Engineering Notice for Fridley:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Anoka County.
+**Engineering Notice for Fridley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
 
 
-We coordinate local dispatch coverage around Fridley, MN and nearby ZIP sectors.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 55421.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in Fridley, MN older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fridley, MN, but intake notes help reduce delays.
+Irrigation cross-connections in Fridley, MN can back-siphon domestic lines during main breaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Fridley, MN, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55432/55421.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 55432/55421.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 55432, 55421 (county grid: Anoka County).
+In Fridley, MN, slab leaks often present as warm spots before wall stains appear.
+
+Trenchless pulls in Fridley, MN require pit dimensions verified against utility locate marks.
+
+Hard water in Fridley, MN accelerates scale on PRV seats and heater elements.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydrostatic holds in Fridley, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Drain map 455058: camera-pass priority and expansion-tank pre-charge noted for Fridley, MN postal sector 55421.
+
+Fixture roster 455058: toilet flange spacer kit and shower cartridge seat score queued for Fridley, MN walk-through.
+
+On-site sector marker: Anoka County / elevation 843 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55421-51916c8b

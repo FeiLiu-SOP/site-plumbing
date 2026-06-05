@@ -12,27 +12,43 @@ lng: -97.4600
 zipSample: ["76108"]
 zipCodes: ["76108"]
 localPaths: ["Tarrant County / coords 32.7600, -97.4600", "Tarrant County / ZIP 76108 sector", "Tarrant County / elevation 699 ft band", "Tarrant County / primary ZIP 76108"]
-zillowHomeValueUsd: 285833
 ---
 
-**Engineering Notice for White Settlement:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for White Settlement:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in White Settlement, TX, but intake notes help reduce delays.
+Sewer gas odors in White Settlement, TX should trigger trap seal and vent path review.
 
-Our service coordination centers on White Settlement, TX coverage windows and verified intake details.
+Polybutylene manifold tags in White Settlement, TX basements should be photographed before any wall chase opens.
 
-Tip: avoid large upfront payments without milestones.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 76108.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76108.
+Material note: Water heater anode type may change with White Settlement, TX hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 76108 intake.
+FAQ: When should sump battery backups be load-tested? In White Settlement, TX, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 76108 (county grid: Tarrant County).
+Cast-iron hub corrosion in White Settlement, TX often concentrates at the third joint upstream of the cleanout.
+
+Hydrostatic holds in White Settlement, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 76108.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Pressure trace 201377: meter-pit clearance and dielectric union checklist staged for White Settlement, TX near elevation 699 ft.
+
+Drain map 201377: camera-pass priority and expansion-tank pre-charge noted for White Settlement, TX postal sector 76108.
+
+On-site sector marker: Tarrant County / elevation 699 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76108-48aebeed

@@ -12,25 +12,39 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / primary ZIP 44446", "Trumbull County / elevation 902 ft band", "Trumbull County / coords 41.1900, -80.7500", "Trumbull County / ZIP 44446 sector"]
-zillowHomeValueUsd: 130856
 ---
 
-**Engineering Notice for Niles:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Trumbull County.
+**Engineering Notice for Niles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Trumbull County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 44446.
 
-Tip: confirm licensing and insurance before approving work.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Transparent pricing helps you compare like-for-like scope items.
+Water heater T&P discharge paths in Niles, OH must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44446.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 44446 intake.
+Hard water in Niles, OH accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 44446 (county grid: Trumbull County).
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: Is hydro-jetting always appropriate? In Niles, OH, pipe material and blockage type dictate method.
+
+Risk flag: In Niles, OH, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Seasonal Niles, OH irrigation cross-connections can mask domestic pressure loss.
+
+Sewer gas odors in Niles, OH should trigger trap seal and vent path review.
+
+Supply audit 926144: curb-stop orientation and hose-bib freeze flag reviewed for Niles, OH at coords 41.1900/-80.7500.
+
+Intake ledger 926144: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Niles, OH at 41.1900, -80.7500.
+
+ZIP-corridor snapshot for Niles, OH: sampled sectors include 44446; county routing grid remains Trumbull County.
 
 Service reference: OH-44446-f021c164

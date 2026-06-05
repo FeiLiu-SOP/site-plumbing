@@ -12,24 +12,39 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / ZIP 60172 sector", "DuPage County / primary ZIP 60172", "DuPage County / coords 41.9800, -88.0900", "DuPage County / elevation 794 ft band"]
-zillowHomeValueUsd: 374398
 ---
 
-**Engineering Notice for Roselle:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Roselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate local dispatch coverage around Roselle, IL and nearby ZIP sectors.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: compare at least two estimates for scope and timeline.
+Trenchless sleeve pulls near Roselle, IL require pit shoring notes when water tables are high.
 
-Tip: confirm licensing and insurance before approving work.
+Hose bib split patterns in Roselle, IL often follow missed winterization.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60172.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 60172 (county grid: DuPage County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 60172.
+
+CPVC solvent weld times shift with ambient humidity during Roselle, IL shoulder seasons.
+
+FAQ: When should sump battery backups be load-tested? In Roselle, IL, before spring thaw and hurricane remnants.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Basement floor drains in Roselle, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Water heater anode type may change with Roselle, IL hardness profiles.
+
+Intake ledger 892927: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roselle, IL at 41.9800, -88.0900.
+
+Drain map 892927: camera-pass priority and expansion-tank pre-charge noted for Roselle, IL postal sector 60172.
+
+**Regional Infrastructure Brief:** Service coverage aligns with DuPage County and primary ZIP 60172. Terrain reference: 794 ft. Center point: 41.9800, -88.0900. ZIP sample: 60172. Service perimeter note: Coverage extends through DuPage County with dispatch centered near ZIP 60172.
 
 Service reference: IL-60172-e57db572

@@ -12,26 +12,41 @@ lng: -79.9500
 zipSample: ["26505", "26501", "26506", "26504"]
 zipCodes: ["26505", "26504", "26501", "26506"]
 localPaths: ["Monongalia County / ZIP 26505 sector", "Monongalia County / ZIP 26504 sector", "Monongalia County / primary ZIP 26501", "Monongalia County / elevation 1165 ft band", "Monongalia County / ZIP 26506 sector"]
-zillowHomeValueUsd: 217734
 ---
 
-**Engineering Notice for Morgantown:** Structural loading calculated based on 1165 ft terrain assessment. Regional dispatch grid: Monongalia County.
+**Engineering Notice for Morgantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monongalia County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Our service coordination centers on Morgantown, WV coverage windows and verified intake details.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: compare at least two estimates for scope and timeline.
+CPVC solvent weld times shift with ambient humidity during Morgantown, WV shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Morgantown, WV, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 26504/26505/26506 zone).
+Step: map sump float travel and check-valve orientation for Morgantown, WV basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 26504/26505/26506.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 26504, 26505, 26506, 26501 (county grid: Monongalia County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: Water heater anode type may change with Morgantown, WV hardness profiles.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hose bib split patterns in Morgantown, WV often follow missed winterization.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Supply audit 609770: curb-stop orientation and hose-bib freeze flag reviewed for Morgantown, WV at coords 39.6400/-79.9500.
+
+Scope trace: sewer cleanout cap thread plus hose bib freeze flag referenced in Monongalia County county grid review.
+
+On-site sector marker: Monongalia County / ZIP 26504 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26501-5b673fa1

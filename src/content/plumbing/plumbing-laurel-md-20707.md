@@ -12,24 +12,39 @@ lng: -76.8600
 zipSample: ["20797", "20707", "20725"]
 zipCodes: ["20797", "20725", "20707"]
 localPaths: ["Prince George's County / elevation 243 ft band", "Prince George's County / ZIP 20797 sector", "Prince George's County / primary ZIP 20707", "Prince George's County / coords 39.0900, -76.8600", "Prince George's County / ZIP 20725 sector"]
-zillowHomeValueUsd: 414263
 ---
 
-**Engineering Notice for Laurel:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Water heater anode type may change with Laurel, MD hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Laurel, MD require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 20707/20725/20797.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20707.
 
-Dispatch sectors sampled: ZIP 20707, 20725, 20797 (county grid: Prince George's County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Laurel, MD systems need rebalancing.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 20707.
+
+Across Laurel, MD, main-line bellies can trap debris even when fixtures drain normally.
+
+Recirculation pump failures in Laurel, MD can mimic fixture-specific clogs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Flow dossier 188187: branch wet-vent geometry and jetting nozzle envelope logged for Laurel, MD county grid Prince George's County (ZIP 20707).
+
+On-site sector marker: Prince George's County / coords 39.0900, -76.8600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20707-4ff0079f

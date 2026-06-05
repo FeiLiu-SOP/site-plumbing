@@ -12,27 +12,41 @@ lng: -121.3100
 zipSample: ["97701", "97702", "97708", "97703"]
 zipCodes: ["97703", "97702", "97701", "97708"]
 localPaths: ["Deschutes County / elevation 3648 ft band", "Deschutes County / ZIP 97702 sector", "Deschutes County / ZIP 97701 sector", "Deschutes County / ZIP 97708 sector", "Deschutes County / primary ZIP 97702"]
-zillowHomeValueUsd: 681914
 ---
 
-**Engineering Notice for Bend:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Deschutes County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bend, OR, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Bend, OR and nearby ZIP sectors.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Bend, OR.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Main water line replacement in Bend, OR may require ROW restoration planning.
 
-Local conditions in Bend, OR can affect timelines and material choices.
+Hydrostatic holds in Bend, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 97702.
+We coordinate Bend, OR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97702/97703/97708.
+Galvanized segments in Bend, OR may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 97702/97703/97708 coverage.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 97702, 97703, 97708, 97701 (county grid: Deschutes County).
+Recirculation pump failures in Bend, OR can mimic fixture-specific clogs.
+
+Irrigation cross-connections in Bend, OR can back-siphon domestic lines during main breaks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sump discharge freeze risk in Bend, OR should be reviewed before spring thaw cycles.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Pressure trace 175806: meter-pit clearance and dielectric union checklist staged for Bend, OR near elevation 3648 ft.
+
+Fixture roster 175806: toilet flange spacer kit and shower cartridge seat score queued for Bend, OR walk-through.
+
+On-site sector marker: Deschutes County / ZIP 97702 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97702-c498db99

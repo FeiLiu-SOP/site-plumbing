@@ -12,26 +12,43 @@ lng: -94.8800
 zipSample: ["56601", "56619"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / ZIP 56601 sector", "Beltrami County / ZIP 56619 sector", "Beltrami County / primary ZIP 56601", "Beltrami County / elevation 1378 ft band", "Beltrami County / coords 47.4800, -94.8800"]
-zillowHomeValueUsd: 279400
 ---
 
-**Engineering Notice for Bemidji:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Beltrami County.
+**Engineering Notice for Bemidji:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beltrami County.
 
 
-In Bemidji, MN, seasonal demand can change scheduling windows.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bemidji, MN.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bemidji, MN, but intake notes help reduce delays.
+Frost-free sillcock failures in Bemidji, MN often trace to interior shutoff seats, not exterior stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 56619/56601.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Wind exposure category reviewed for ZIP sector 56619/56601.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 56619, 56601 (county grid: Beltrami County).
+Fixture shutoff stiffness in Bemidji, MN may indicate mineral bridging behind stems.
+
+Hose bib split patterns in Bemidji, MN often follow missed winterization.
+
+Hydrostatic holds in Bemidji, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Recirculation pump failures in Bemidji, MN can mimic fixture-specific clogs.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Across Bemidji, MN, main-line bellies can trap debris even when fixtures drain normally.
+
+Supply audit 346254: curb-stop orientation and hose-bib freeze flag reviewed for Bemidji, MN at coords 47.4800/-94.8800.
+
+Drain map 346254: camera-pass priority and expansion-tank pre-charge noted for Bemidji, MN postal sector 56601.
+
+On-site sector marker: Beltrami County / primary ZIP 56601 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-56601-942362f4

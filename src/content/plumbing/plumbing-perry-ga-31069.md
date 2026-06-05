@@ -12,26 +12,43 @@ lng: -83.7300
 zipSample: ["31069"]
 zipCodes: ["31069"]
 localPaths: ["Houston County / coords 32.4700, -83.7300", "Houston County / ZIP 31069 sector", "Houston County / primary ZIP 31069", "Houston County / elevation 394 ft band"]
-zillowHomeValueUsd: 273971
 ---
 
-**Engineering Notice for Perry:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Houston County.
+**Engineering Notice for Perry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Houston County.
 
 
-Our service coordination centers on Perry, GA coverage windows and verified intake details.
+FAQ: When should sump battery backups be load-tested? In Perry, GA, before spring thaw and hurricane remnants.
 
-Tip: compare at least two estimates for scope and timeline.
+Galvanized segments in Perry, GA may restrict flow long before visible corrosion.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Perry, GA basements should be photographed before any wall chase opens.
 
-In Perry, GA, seasonal demand can change scheduling windows.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: request a written scope before work starts.
+Trenchless pulls in Perry, GA require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 31069 intake.
+Hose bib split patterns in Perry, GA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 31069 coverage.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 31069 (county grid: Houston County).
+Step: log PRV inlet and outlet readings during intake.
+
+Trenchless sleeve pulls near Perry, GA require pit shoring notes when water tables are high.
+
+Dual-water-meter setups in Perry, GA irrigation zones need backflow logs before line replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Supply audit 851077: curb-stop orientation and hose-bib freeze flag reviewed for Perry, GA at coords 32.4700/-83.7300.
+
+Lineage note 851077: recirculation pump amp draw captured before Perry, GA branch isolation.
+
+Scope trace: toilet flange spacer kit plus thermal expansion loop check referenced in Houston County county grid review.
+
+On-site sector marker: Houston County / primary ZIP 31069 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31069-c7b66dff

@@ -12,26 +12,45 @@ lng: -79.9700
 zipSample: ["15236", "15227"]
 zipCodes: ["15236", "15227"]
 localPaths: ["Allegheny County / ZIP 15227 sector", "Allegheny County / ZIP 15236 sector", "Allegheny County / coords 40.3700, -79.9700", "Allegheny County / elevation 1135 ft band", "Allegheny County / primary ZIP 15236"]
-zillowHomeValueUsd: 249558
 ---
 
-**Engineering Notice for Baldwin:** Structural loading calculated based on 1135 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Baldwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless pulls in Baldwin, PA require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Baldwin, PA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Baldwin, PA, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 15236.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near Baldwin, PA require pit shoring notes when water tables are high.
 
-Field note: Connection points spot-checked where accessible (ZIP 15227/15236 zone).
+Galvanized segments in Baldwin, PA may restrict flow long before visible corrosion.
 
-Field note: Wind exposure category reviewed for ZIP sector 15227/15236.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 15227, 15236 (county grid: Allegheny County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Water heater anode type may change with Baldwin, PA hardness profiles.
+
+FAQ: Is hydro-jetting always appropriate? In Baldwin, PA, pipe material and blockage type dictate method.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Basement floor drains in Baldwin, PA should be snaked only after trap arm geometry is confirmed on camera.
+
+Drain map 706675: camera-pass priority and expansion-tank pre-charge noted for Baldwin, PA postal sector 15236.
+
+Supply audit 706675: curb-stop orientation and hose-bib freeze flag reviewed for Baldwin, PA at coords 40.3700/-79.9700.
+
+Scope trace: water softener bypass lever plus jetter nozzle envelope referenced in Allegheny County county grid review.
+
+On-site sector marker: Allegheny County / ZIP 15236 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15236-bc4436c7

@@ -12,26 +12,43 @@ lng: -103.1600
 zipSample: ["88244", "88240"]
 zipCodes: ["88240", "88244"]
 localPaths: ["Lea County / elevation 3648 ft band", "Lea County / ZIP 88240 sector", "Lea County / coords 32.7300, -103.1600", "Lea County / ZIP 88244 sector", "Lea County / primary ZIP 88240"]
-zillowHomeValueUsd: 191229
 ---
 
-**Engineering Notice for Hobbs:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Lea County.
+**Engineering Notice for Hobbs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lea County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Hydro-jetting in Hobbs, NM requires camera confirmation before nozzle pressure is raised.
 
-Local conditions in Hobbs, NM can affect timelines and material choices.
+Irrigation cross-connections in Hobbs, NM can back-siphon domestic lines during main breaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hobbs, NM, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Hobbs, NM shoulder seasons.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is hydro-jetting always appropriate? In Hobbs, NM, pipe material and blockage type dictate method.
 
-Field note: Moisture pathway inspection logged near ZIP 88240/88244 intake.
+Risk flag: Seasonal Hobbs, NM irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Access points and staging constraints recorded for ZIP 88240/88244 coverage.
+Permit note: Main water line replacement in Hobbs, NM may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 88240, 88244 (county grid: Lea County).
+FAQ: When should sump battery backups be load-tested? In Hobbs, NM, before spring thaw and hurricane remnants.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hobbs, NM systems need rebalancing.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hose bib split patterns in Hobbs, NM often follow missed winterization.
+
+Step: map sump float travel and check-valve orientation for Hobbs, NM basements.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Intake ledger 950813: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Hobbs, NM at 32.7300, -103.1600.
+
+Drain map 950813: camera-pass priority and expansion-tank pre-charge noted for Hobbs, NM postal sector 88240.
+
+On-site sector marker: Lea County / ZIP 88240 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88240-75e49cd5

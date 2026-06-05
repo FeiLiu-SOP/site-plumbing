@@ -12,25 +12,43 @@ lng: -74.2200
 zipSample: ["07470"]
 zipCodes: ["07470"]
 localPaths: ["Passaic County / coords 40.9400, -74.2200", "Passaic County / primary ZIP 07470", "Passaic County / ZIP 07470 sector", "Passaic County / elevation 223 ft band"]
-zillowHomeValueUsd: 742810
 ---
 
-**Engineering Notice for Preakness:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Passaic County.
+**Engineering Notice for Preakness:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07470.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Preakness, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Preakness, NJ, but intake notes help reduce delays.
+Irrigation cross-connections in Preakness, NJ can back-siphon domestic lines during main breaks.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07470.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 07470 (county grid: Passaic County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 07470.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: When should sump battery backups be load-tested? In Preakness, NJ, before spring thaw and hurricane remnants.
+
+Fixture shutoff stiffness in Preakness, NJ may indicate mineral bridging behind stems.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 571607: recirculation pump amp draw captured before Preakness, NJ branch isolation.
+
+Fixture roster 571607: toilet flange spacer kit and shower cartridge seat score queued for Preakness, NJ walk-through.
+
+On-site sector marker: Passaic County / primary ZIP 07470 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07470-12b709f3

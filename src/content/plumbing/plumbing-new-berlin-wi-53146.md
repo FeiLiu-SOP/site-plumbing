@@ -12,27 +12,45 @@ lng: -88.1300
 zipSample: ["53146", "53151"]
 zipCodes: ["53151", "53146"]
 localPaths: ["Waukesha County / elevation 886 ft band", "Waukesha County / ZIP 53151 sector", "Waukesha County / ZIP 53146 sector", "Waukesha County / coords 42.9700, -88.1300", "Waukesha County / primary ZIP 53146"]
-zillowHomeValueUsd: 441059
 ---
 
-**Engineering Notice for New Berlin:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.
+**Engineering Notice for New Berlin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waukesha County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 53146.
+Stack vent offsets in New Berlin, WI older duplexes can mask tub gurgle as a main-line failure.
 
-Our service coordination centers on New Berlin, WI coverage windows and verified intake details.
+In New Berlin, WI, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Berlin, WI, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph curb-stop and meter pit before trenching.
 
-A written scope helps prevent rework and mismatched expectations.
+Frost-free sillcock failures in New Berlin, WI often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 53146/53151.
+Hydro-jetting in New Berlin, WI requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53146/53151.
+Basement floor drains in New Berlin, WI should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 53146, 53151 (county grid: Waukesha County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 53146.
+
+Risk flag: Seasonal New Berlin, WI irrigation cross-connections can mask domestic pressure loss.
+
+Fixture shutoff stiffness in New Berlin, WI may indicate mineral bridging behind stems.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: In New Berlin, WI, slab leaks can misroute as foundation issues without listening equipment.
+
+Permit note: Main water line replacement in New Berlin, WI may require ROW restoration planning.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Supply audit 706377: curb-stop orientation and hose-bib freeze flag reviewed for New Berlin, WI at coords 42.9700/-88.1300.
+
+Fixture roster 706377: toilet flange spacer kit and shower cartridge seat score queued for New Berlin, WI walk-through.
+
+Field routing: slab leak listening window paired with copper pinhole cluster near ZIP 53146.
+
+On-site sector marker: Waukesha County / primary ZIP 53146 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53146-6e6fdf6c

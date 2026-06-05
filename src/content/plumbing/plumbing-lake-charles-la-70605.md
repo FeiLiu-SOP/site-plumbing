@@ -12,24 +12,41 @@ lng: -93.2100
 zipSample: ["70607", "70612", "70602", "70605", "70629"]
 zipCodes: ["70607", "70629", "70605", "70615", "70609", "70602", "70606", "70612", "70601", "70616"]
 localPaths: ["Calcasieu Parish / ZIP 70612 sector", "Calcasieu Parish / ZIP 70629 sector", "Calcasieu Parish / ZIP 70607 sector", "Calcasieu Parish / coords 30.2000, -93.2100", "Calcasieu Parish / primary ZIP 70605"]
-zillowHomeValueUsd: 263724
 ---
 
-**Engineering Notice for Lake Charles:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.
+**Engineering Notice for Lake Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calcasieu Parish.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lake Charles, LA, but intake notes help reduce delays.
+FAQ: When is cabling enough? In Lake Charles, LA, pipe material and blockage type dictate method.
 
-Homeowners in Lake Charles, LA often face sudden plumbing problems that require fast action.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Frost-free sillcock failures in Lake Charles, LA often trace to interior shutoff seats, not exterior stems.
 
-We coordinate local dispatch coverage around Lake Charles, LA and nearby ZIP sectors.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Wind exposure category reviewed for ZIP sector 70609/70615/70616.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 70609, 70615, 70616, 70607, 70612 (county grid: Calcasieu Parish).
+Sewer gas odors in Lake Charles, LA should trigger trap seal and vent path review.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Irrigation cross-connections in Lake Charles, LA can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with Lake Charles, LA hardness profiles.
+
+Step: map sump float travel and check-valve orientation for Lake Charles, LA basements.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Expansion tank pre-charge loss in Lake Charles, LA often tracks heater replacement deferrals.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 70605.
+
+Supply audit 489666: curb-stop orientation and hose-bib freeze flag reviewed for Lake Charles, LA at coords 30.2000/-93.2100.
+
+On-site sector marker: Calcasieu Parish / ZIP 70605 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70605-4908c3df

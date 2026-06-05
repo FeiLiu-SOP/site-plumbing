@@ -12,24 +12,37 @@ lng: -77.1200
 zipSample: ["20814", "20811", "20892", "20816", "20824"]
 zipCodes: ["20889", "20811", "20817", "20810", "20824", "20892", "20815", "20894", "20814", "20816"]
 localPaths: ["Montgomery County / ZIP 20816 sector", "Montgomery County / coords 38.9900, -77.1200", "Montgomery County / ZIP 20811 sector", "Montgomery County / elevation 367 ft band", "Montgomery County / ZIP 20814 sector"]
-zillowHomeValueUsd: 1309874
 ---
 
-**Engineering Notice for Bethesda:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Bethesda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Tip: request a written scope before work starts.
+Tip: Save water heater serial plates for warranty traceability.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: avoid large upfront payments without milestones.
+Cast-iron hub corrosion in Bethesda, MD often concentrates at the third joint upstream of the cleanout.
 
-Homeowners in Bethesda, MD often face sudden plumbing problems that require fast action.
+Trenchless pulls in Bethesda, MD require pit dimensions verified against utility locate marks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bethesda, MD, but intake notes help reduce delays.
+Hard water in Bethesda, MD accelerates scale on PRV seats and heater elements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20889/20815/20892.
+Water heater T&P discharge paths in Bethesda, MD must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 20889, 20815, 20892, 20824, 20817 (county grid: Montgomery County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Branch wet vents in Bethesda, MD can mask gurgling as a main-line issue.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Seasonal Bethesda, MD irrigation cross-connections can mask domestic pressure loss.
+
+Supply audit 924937: curb-stop orientation and hose-bib freeze flag reviewed for Bethesda, MD at coords 38.9900/-77.1200.
+
+**Regional Infrastructure Brief:** Grid anchor set to Montgomery County. Reference elevation: 367 ft. Primary coordinates: 38.9900, -77.1200. ZIP sample: 20816, 20815, 20894, 20814, 20811. Logistics priority: Serving residential sectors across Montgomery County and north-east ZIP 20892 grid.
 
 Service reference: MD-20892-01319542

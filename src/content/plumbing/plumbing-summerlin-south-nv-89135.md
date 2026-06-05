@@ -12,26 +12,45 @@ lng: -115.3300
 zipSample: ["89135"]
 zipCodes: ["89135"]
 localPaths: ["Clark County / ZIP 89135 sector", "Clark County / coords 36.1200, -115.3300", "Clark County / primary ZIP 89135", "Clark County / elevation 2887 ft band"]
-zillowHomeValueUsd: 720065
 ---
 
-**Engineering Notice for Summerlin South:** Structural loading calculated based on 2887 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Summerlin South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate local dispatch coverage around Summerlin South, NV and nearby ZIP sectors.
+Hydrostatic holds in Summerlin South, NV slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Water heater anode type may change with Summerlin South, NV hardness profiles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Summerlin South, NV require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 89135 coverage.
+CPVC solvent weld times shift with ambient humidity during Summerlin South, NV shoulder seasons.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89135.
+Stack vent offsets in Summerlin South, NV older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 89135 (county grid: Clark County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: When is cabling enough? In Summerlin South, NV, pipe material and blockage type dictate method.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Basement floor drains in Summerlin South, NV should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Pressure trace 265545: meter-pit clearance and dielectric union checklist staged for Summerlin South, NV near elevation 2887 ft.
+
+Supply audit 265545: curb-stop orientation and hose-bib freeze flag reviewed for Summerlin South, NV at coords 36.1200/-115.3300.
+
+plumbing brief: dielectric union checklist and hose bib freeze flag were cross-checked for the Summerlin South intake packet.
+
+On-site sector marker: Clark County / ZIP 89135 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89135-240f8f48

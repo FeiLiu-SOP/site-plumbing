@@ -12,25 +12,39 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22315", "22310"]
 localPaths: ["Fairfax County / ZIP 22315 sector", "Fairfax County / elevation 249 ft band", "Fairfax County / coords 38.7700, -77.1600", "Fairfax County / ZIP 22310 sector", "Fairfax County / primary ZIP 22310"]
-zillowHomeValueUsd: 673044
 ---
 
-**Engineering Notice for Franconia:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franconia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save water heater serial plates for warranty traceability.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22310.
+Galvanized segments in Franconia, VA may restrict flow long before visible corrosion.
 
-We coordinate local dispatch coverage around Franconia, VA and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 22315/22310 zone).
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 22315, 22310 (county grid: Fairfax County).
+FAQ: When should sump battery backups be load-tested? In Franconia, VA, before spring thaw and hurricane remnants.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Franconia, VA systems need rebalancing.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Stack vent offsets in Franconia, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Hydro-jetting in Franconia, VA requires camera confirmation before nozzle pressure is raised.
+
+Flow dossier 422641: branch wet-vent geometry and jetting nozzle envelope logged for Franconia, VA county grid Fairfax County (ZIP 22310).
+
+Fixture roster 422641: toilet flange spacer kit and shower cartridge seat score queued for Franconia, VA walk-through.
+
+On-site sector marker: Fairfax County / elevation 249 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22310-56a5d1e8

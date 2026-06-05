@@ -12,26 +12,39 @@ lng: -112.3300
 zipSample: ["85335"]
 zipCodes: ["85335"]
 localPaths: ["Maricopa County / ZIP 85335 sector", "Maricopa County / elevation 1106 ft band", "Maricopa County / primary ZIP 85335", "Maricopa County / coords 33.5900, -112.3300"]
-zillowHomeValueUsd: 342466
 ---
 
-**Engineering Notice for El Mirage:** Structural loading calculated based on 1106 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for El Mirage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Branch wet vents in El Mirage, AZ can mask gurgling as a main-line issue.
 
-Tip: request a written scope before work starts.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in El Mirage, AZ, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during El Mirage, AZ shoulder seasons.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Moisture pathway inspection logged near ZIP 85335 intake.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Wind exposure category reviewed for ZIP sector 85335.
+FAQ: When should sump battery backups be load-tested? In El Mirage, AZ, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 85335 (county grid: Maricopa County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Recirculation pump failures in El Mirage, AZ can mimic fixture-specific clogs.
+
+Permit note: Main water line replacement in El Mirage, AZ may require ROW restoration planning.
+
+Frost-free sillcock failures in El Mirage, AZ often trace to interior shutoff seats, not exterior stems.
+
+Polybutylene manifold tags in El Mirage, AZ basements should be photographed before any wall chase opens.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 397267: curb-stop orientation and hose-bib freeze flag reviewed for El Mirage, AZ at coords 33.5900/-112.3300.
+
+On-site sector marker: Maricopa County / primary ZIP 85335 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85335-f92c6d69

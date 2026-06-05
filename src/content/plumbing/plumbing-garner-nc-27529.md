@@ -12,26 +12,41 @@ lng: -78.6200
 zipSample: ["27603", "27529", "27699"]
 zipCodes: ["27603", "27529", "27699"]
 localPaths: ["Wake County / ZIP 27603 sector", "Wake County / ZIP 27699 sector", "Wake County / elevation 302 ft band", "Wake County / ZIP 27529 sector", "Wake County / primary ZIP 27529"]
-zillowHomeValueUsd: 386804
 ---
 
-**Engineering Notice for Garner:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Garner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dual-water-meter setups in Garner, NC irrigation zones need backflow logs before line replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Galvanized segments in Garner, NC may restrict flow long before visible corrosion.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Garner, NC.
 
-Our service coordination centers on Garner, NC coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless sleeve pulls near Garner, NC require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 27603/27699/27529 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27603/27699/27529.
+Recirculation pump failures in Garner, NC can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 27603, 27699, 27529 (county grid: Wake County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Trenchless pulls in Garner, NC require pit dimensions verified against utility locate marks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hose bib split patterns in Garner, NC often follow missed winterization.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Fixture roster 385077: toilet flange spacer kit and shower cartridge seat score queued for Garner, NC walk-through.
+
+Pressure trace 385077: meter-pit clearance and dielectric union checklist staged for Garner, NC near elevation 302 ft.
+
+On-site sector marker: Wake County / ZIP 27699 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27529-76c2c98b

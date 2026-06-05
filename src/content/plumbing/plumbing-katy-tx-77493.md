@@ -12,25 +12,39 @@ lng: -95.8400
 zipSample: ["77491", "77493", "77494"]
 zipCodes: ["77491", "77494", "77493"]
 localPaths: ["Waller County / ZIP 77493 sector", "Waller County / ZIP 77491 sector", "Waller County / ZIP 77494 sector", "Waller County / elevation 148 ft band", "Waller County / primary ZIP 77493"]
-zillowHomeValueUsd: 344069
 ---
 
-**Engineering Notice for Katy:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Waller County.
+**Engineering Notice for Katy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waller County.
 
 
-Local conditions in Katy, TX can affect timelines and material choices.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate local dispatch coverage around Katy, TX and nearby ZIP sectors.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Katy, TX.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Katy, TX should be reviewed before spring thaw cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is cabling enough? In Katy, TX, pipe material and blockage type dictate method.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 77493.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77494/77493/77491.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 77494, 77493, 77491 (county grid: Waller County).
+Water heater T&P discharge paths in Katy, TX must terminate safely before replacement quotes.
+
+Irrigation cross-connections in Katy, TX can back-siphon domestic lines during main breaks.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hydro-jetting in Katy, TX requires camera confirmation before nozzle pressure is raised.
+
+Polybutylene manifold tags in Katy, TX basements should be photographed before any wall chase opens.
+
+Pressure trace 527600: meter-pit clearance and dielectric union checklist staged for Katy, TX near elevation 148 ft.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Waller County and primary ZIP 77493. Terrain reference: 148 ft. Center point: 29.7900, -95.8400. ZIP sample: 77493, 77494, 77491. Regional routing note: Waller County traffic flow is balanced around ZIP 77493 service demand.
 
 Service reference: TX-77493-17017188

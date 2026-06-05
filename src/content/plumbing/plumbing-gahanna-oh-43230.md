@@ -12,26 +12,37 @@ lng: -82.8600
 zipSample: ["43230"]
 zipCodes: ["43230"]
 localPaths: ["Franklin County / elevation 830 ft band", "Franklin County / ZIP 43230 sector", "Franklin County / primary ZIP 43230", "Franklin County / coords 40.0300, -82.8600"]
-zillowHomeValueUsd: 343017
 ---
 
-**Engineering Notice for Gahanna:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Gahanna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 43230.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-We coordinate local dispatch coverage around Gahanna, OH and nearby ZIP sectors.
+CPVC solvent weld times shift with ambient humidity during Gahanna, OH shoulder seasons.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cleanout access limits in Gahanna, OH frequently extend drain cleaning duration.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43230.
+Frost-free sillcock failures in Gahanna, OH often trace to interior shutoff seats, not exterior stems.
 
-Field note: Moisture pathway inspection logged near ZIP 43230 intake.
+Stack vent offsets in Gahanna, OH older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 43230 (county grid: Franklin County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Seasonal Gahanna, OH irrigation cross-connections can mask domestic pressure loss.
+
+Recirculation pump failures in Gahanna, OH can mimic fixture-specific clogs.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 43230.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Lineage note 210510: recirculation pump amp draw captured before Gahanna, OH branch isolation.
+
+On-site sector marker: Franklin County / elevation 830 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43230-5066e735

@@ -12,26 +12,39 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / primary ZIP 07646", "Bergen County / coords 40.9300, -74.0200", "Bergen County / elevation 36 ft band", "Bergen County / ZIP 07646 sector"]
-zillowHomeValueUsd: 728328
 ---
 
-**Engineering Notice for New Milford:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for New Milford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Milford, NJ, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In New Milford, NJ, before spring thaw and hurricane remnants.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in New Milford, NJ.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-In New Milford, NJ, urgent plumbing issues can escalate quickly.
+Permit note: Main water line replacement in New Milford, NJ may require ROW restoration planning.
 
-Field note: Access points and staging constraints recorded for ZIP 07646 coverage.
+Hard water in New Milford, NJ accelerates scale on PRV seats and heater elements.
 
-Field note: Wind exposure category reviewed for ZIP sector 07646.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 07646 (county grid: Bergen County).
+Material note: Water heater anode type may change with New Milford, NJ hardness profiles.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 07646.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Irrigation cross-connections in New Milford, NJ can back-siphon domestic lines during main breaks.
+
+Drain map 660679: camera-pass priority and expansion-tank pre-charge noted for New Milford, NJ postal sector 07646.
+
+plumbing brief: PRV outlet curve and sewer cleanout cap thread were cross-checked for the New Milford intake packet.
+
+On-site sector marker: Bergen County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07646-c6f1fb29

@@ -12,26 +12,43 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / coords 37.5200, -122.3000", "San Mateo County / primary ZIP 94002", "San Mateo County / ZIP 94002 sector", "San Mateo County / elevation 226 ft band"]
-zillowHomeValueUsd: 2339001
 ---
 
-**Engineering Notice for Belmont:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Structured milestones protect both sides when scheduling work.
+CPVC solvent weld times shift with ambient humidity during Belmont, CA shoulder seasons.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Belmont, CA, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: compare at least two estimates for scope and timeline.
+Polybutylene manifold tags in Belmont, CA basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94002.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 94002 intake.
+Hydro-jetting in Belmont, CA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 94002 (county grid: San Mateo County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When should sump battery backups be load-tested? In Belmont, CA, before spring thaw and hurricane remnants.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Trenchless sleeve pulls near Belmont, CA require pit shoring notes when water tables are high.
+
+Step: map sump float travel and check-valve orientation for Belmont, CA basements.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Permit note: Main water line replacement in Belmont, CA may require ROW restoration planning.
+
+Lineage note 504365: recirculation pump amp draw captured before Belmont, CA branch isolation.
+
+Supply audit 504365: curb-stop orientation and hose-bib freeze flag reviewed for Belmont, CA at coords 37.5200/-122.3000.
+
+On-site sector marker: San Mateo County / coords 37.5200, -122.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94002-4ed3450b

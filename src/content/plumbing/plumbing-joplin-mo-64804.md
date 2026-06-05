@@ -12,24 +12,37 @@ lng: -94.5000
 zipSample: ["64803", "64801", "64802", "64804"]
 zipCodes: ["64801", "64802", "64804", "64803"]
 localPaths: ["Jasper County / coords 37.0800, -94.5000", "Jasper County / ZIP 64802 sector", "Jasper County / primary ZIP 64804", "Jasper County / ZIP 64801 sector", "Jasper County / ZIP 64804 sector"]
-zillowHomeValueUsd: 225052
 ---
 
-**Engineering Notice for Joplin:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Jasper County.
+**Engineering Notice for Joplin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jasper County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Joplin, MO before jetting older clay or cast iron.
 
-Local conditions in Joplin, MO can affect timelines and material choices.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 64804.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Main water line replacement in Joplin, MO may require ROW restoration planning.
 
-We coordinate local dispatch coverage around Joplin, MO and nearby ZIP sectors.
+Cast-iron hub corrosion in Joplin, MO often concentrates at the third joint upstream of the cleanout.
 
-Field note: Connection points spot-checked where accessible (ZIP 64801/64804/64802 zone).
+In Joplin, MO, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 64801, 64804, 64802, 64803 (county grid: Jasper County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: When should sump battery backups be load-tested? In Joplin, MO, before spring thaw and hurricane remnants.
+
+CPVC solvent weld times shift with ambient humidity during Joplin, MO shoulder seasons.
+
+Trenchless pulls in Joplin, MO require pit dimensions verified against utility locate marks.
+
+Hose bib split patterns in Joplin, MO often follow missed winterization.
+
+Polybutylene manifold tags in Joplin, MO basements should be photographed before any wall chase opens.
+
+Fixture roster 522127: toilet flange spacer kit and shower cartridge seat score queued for Joplin, MO walk-through.
+
+On-site sector marker: Jasper County / ZIP 64804 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64804-fb627687

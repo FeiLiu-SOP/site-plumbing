@@ -12,26 +12,39 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / primary ZIP 13045", "Cortland County / coords 42.6000, -76.1800", "Cortland County / elevation 1122 ft band", "Cortland County / ZIP 13045 sector"]
-zillowHomeValueUsd: 197159
 ---
 
-**Engineering Notice for Cortland:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Cortland County.
+**Engineering Notice for Cortland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cortland County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-In Cortland, NY, urgent plumbing issues can escalate quickly.
+Dual-water-meter setups in Cortland, NY irrigation zones need backflow logs before line replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 13045.
 
-We coordinate local dispatch coverage around Cortland, NY and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Galvanized segments in Cortland, NY may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 13045 coverage.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Connection points spot-checked where accessible (ZIP 13045 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 13045 (county grid: Cortland County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Cortland, NY systems need rebalancing.
+
+Trenchless pulls in Cortland, NY require pit dimensions verified against utility locate marks.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Drain map 190466: camera-pass priority and expansion-tank pre-charge noted for Cortland, NY postal sector 13045.
+
+plumbing brief: branch wet vent geometry and dielectric union checklist were cross-checked for the Cortland intake packet.
+
+On-site sector marker: Cortland County / elevation 1122 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13045-10150bcc

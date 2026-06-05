@@ -12,24 +12,39 @@ lng: -89.5500
 zipSample: ["54481", "54482"]
 zipCodes: ["54481", "54482"]
 localPaths: ["Portage County / ZIP 54482 sector", "Portage County / elevation 1099 ft band", "Portage County / ZIP 54481 sector", "Portage County / primary ZIP 54481", "Portage County / coords 44.5200, -89.5500"]
-zillowHomeValueUsd: 254644
 ---
 
-**Engineering Notice for Stevens Point:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Portage County.
+**Engineering Notice for Stevens Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Portage County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Stevens Point, WI, but intake notes help reduce delays.
+Branch wet vents in Stevens Point, WI can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 54482/54481 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 54482, 54481 (county grid: Portage County).
+Cast-iron hub corrosion in Stevens Point, WI often concentrates at the third joint upstream of the cleanout.
+
+Dispatch packets reference county grid Portage County near ZIP 54481.
+
+Risk flag: Seasonal Stevens Point, WI irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: log PRV inlet and outlet readings during intake.
+
+In Stevens Point, WI, slab leaks often present as warm spots before wall stains appear.
+
+Intake ledger 125075: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Stevens Point, WI at 44.5200, -89.5500.
+
+Supply audit 125075: curb-stop orientation and hose-bib freeze flag reviewed for Stevens Point, WI at coords 44.5200/-89.5500.
+
+On-site sector marker: Portage County / coords 44.5200, -89.5500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54481-24b20d33

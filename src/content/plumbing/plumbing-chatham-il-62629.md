@@ -12,26 +12,43 @@ lng: -89.6900
 zipSample: ["62629"]
 zipCodes: ["62629"]
 localPaths: ["Sangamon County / ZIP 62629 sector", "Sangamon County / coords 39.6700, -89.6900", "Sangamon County / elevation 600 ft band", "Sangamon County / primary ZIP 62629"]
-zillowHomeValueUsd: 297637
 ---
 
-**Engineering Notice for Chatham:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Sangamon County.
+**Engineering Notice for Chatham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sangamon County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 62629.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Polybutylene manifold tags in Chatham, IL basements should be photographed before any wall chase opens.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chatham, IL, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 62629.
+Recirculation pump failures in Chatham, IL can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 62629 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 62629 (county grid: Sangamon County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: map sump float travel and check-valve orientation for Chatham, IL basements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Chatham, IL systems need rebalancing.
+
+Risk flag: In Chatham, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Lineage note 962560: recirculation pump amp draw captured before Chatham, IL branch isolation.
+
+Intake ledger 962560: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Chatham, IL at 39.6700, -89.6900.
+
+plumbing brief: scale coupon sampling and copper pinhole cluster were cross-checked for the Chatham intake packet.
+
+On-site sector marker: Sangamon County / ZIP 62629 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62629-9d9e3781

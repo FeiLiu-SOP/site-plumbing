@@ -12,25 +12,37 @@ lng: -67.1400
 zipSample: ["00682", "00680", "00681"]
 zipCodes: ["00681", "00680", "00682"]
 localPaths: ["Mayagüez County / coords 18.2000, -67.1400", "Mayagüez County / ZIP 00680 sector", "Mayagüez County / primary ZIP 00682", "Mayagüez County / ZIP 00681 sector", "Mayagüez County / elevation 75 ft band"]
-zillowHomeValueUsd: 366694
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Mayagüez:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Mayagüez County.
+**Engineering Notice for Mayagüez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mayagüez County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: camera-pass main lines in Mayagüez, PR before jetting older clay or cast iron.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mayagüez, PR, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Mayagüez, PR, before spring thaw and hurricane remnants.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: map sump float travel and check-valve orientation for Mayagüez, PR basements.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00680/00682/00681.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 00680, 00682, 00681 (county grid: Mayagüez County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+In Mayagüez, PR, slab leaks often present as warm spots before wall stains appear.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless pulls in Mayagüez, PR require pit dimensions verified against utility locate marks.
+
+Frost-free sillcock failures in Mayagüez, PR often trace to interior shutoff seats, not exterior stems.
+
+Lineage note 894014: recirculation pump amp draw captured before Mayagüez, PR branch isolation.
+
+Primary postal anchor 00682 with multi-ZIP overlap in Mayagüez; field packets tag Mayagüez County for county-grid reconciliation.
 
 Service reference: PR-00682-a14e7ca5

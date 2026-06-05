@@ -12,24 +12,39 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / elevation 3241 ft band", "Gray County / ZIP 79065 sector", "Gray County / primary ZIP 79065", "Gray County / coords 35.5500, -100.9700"]
-zillowHomeValueUsd: 102752
 ---
 
-**Engineering Notice for Pampa:** Structural loading calculated based on 3241 ft terrain assessment. Regional dispatch grid: Gray County.
+**Engineering Notice for Pampa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gray County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Expansion tank pre-charge loss in Pampa, TX often tracks heater replacement deferrals.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pampa, TX systems need rebalancing.
 
-We coordinate local dispatch coverage around Pampa, TX and nearby ZIP sectors.
+Dual-water-meter setups in Pampa, TX irrigation zones need backflow logs before line replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 79065 intake.
+Step: camera-pass main lines in Pampa, TX before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 79065 (county grid: Gray County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 79065.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Stack vent offsets in Pampa, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Pampa, TX.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Pressure trace 246817: meter-pit clearance and dielectric union checklist staged for Pampa, TX near elevation 3241 ft.
+
+Drain map 246817: camera-pass priority and expansion-tank pre-charge noted for Pampa, TX postal sector 79065.
+
+Regional mesh label Gray County: moisture and logistics baselines are keyed to Pampa, TX before niche-specific work begins.
 
 Service reference: TX-79065-ed5fc15e

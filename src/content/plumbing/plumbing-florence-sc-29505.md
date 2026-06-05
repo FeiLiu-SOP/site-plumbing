@@ -12,26 +12,45 @@ lng: -79.7900
 zipSample: ["29503", "29501", "29504", "29505", "29506"]
 zipCodes: ["29501", "29506", "29504", "29505", "29502", "29503"]
 localPaths: ["Florence County / ZIP 29501 sector", "Florence County / elevation 125 ft band", "Florence County / primary ZIP 29505", "Florence County / coords 34.1800, -79.7900", "Florence County / ZIP 29505 sector"]
-zillowHomeValueUsd: 230677
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Florence County.
+**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Florence County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dual-water-meter setups in Florence, SC irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 29503/29504/29506.
+Irrigation cross-connections in Florence, SC can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 29503/29504/29506 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 29503, 29504, 29506, 29502, 29501 (county grid: Florence County).
+Water heater T&P discharge paths in Florence, SC must terminate safely before replacement quotes.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Stack vent offsets in Florence, SC older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Lineage note 171330: recirculation pump amp draw captured before Florence, SC branch isolation.
+
+Intake ledger 171330: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Florence, SC at 34.1800, -79.7900.
+
+plumbing brief: gas water heater draft hood gap and sewer cleanout cap thread were cross-checked for the Florence intake packet.
+
+Coordinate-anchored dispatch note: center reference 34.1800, -79.7900 at elevation ~125 ft aligns with Florence County intake staging.
 
 Service reference: SC-29505-6671cfd3

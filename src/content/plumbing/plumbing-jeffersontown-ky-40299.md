@@ -12,25 +12,39 @@ lng: -85.5700
 zipSample: ["40299", "40224", "40220", "40223"]
 zipCodes: ["40223", "40220", "40299", "40224"]
 localPaths: ["Jefferson County / primary ZIP 40299", "Jefferson County / ZIP 40299 sector", "Jefferson County / ZIP 40223 sector", "Jefferson County / elevation 659 ft band", "Jefferson County / coords 38.2000, -85.5700"]
-zillowHomeValueUsd: 338881
 ---
 
-**Engineering Notice for Jeffersontown:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Jeffersontown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When should sump battery backups be load-tested? In Jeffersontown, KY, before spring thaw and hurricane remnants.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 40299.
+Dispatch packets reference county grid Jefferson County near ZIP 40299.
 
-Our service coordination centers on Jeffersontown, KY coverage windows and verified intake details.
+Material note: Water heater anode type may change with Jeffersontown, KY hardness profiles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Jeffersontown, KY.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 40220/40223/40224.
+Risk flag: In Jeffersontown, KY, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 40220, 40223, 40224, 40299 (county grid: Jefferson County).
+Galvanized segments in Jeffersontown, KY may restrict flow long before visible corrosion.
+
+Frost-free sillcock failures in Jeffersontown, KY often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Hose bib split patterns in Jeffersontown, KY often follow missed winterization.
+
+Supply audit 344061: curb-stop orientation and hose-bib freeze flag reviewed for Jeffersontown, KY at coords 38.2000/-85.5700.
+
+Field routing: meter pit clearance paired with shower cartridge seat score near ZIP 40299.
+
+Primary postal anchor 40299 with multi-ZIP overlap in Jeffersontown; field packets tag Jefferson County for county-grid reconciliation.
 
 Service reference: KY-40299-87fbdc9c

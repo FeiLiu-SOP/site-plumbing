@@ -12,24 +12,39 @@ lng: -102.1100
 zipSample: ["79701", "79705", "79706", "79707", "79708"]
 zipCodes: ["79703", "79708", "79701", "79706", "79707", "79705", "79711", "79702"]
 localPaths: ["Midland County / elevation 2815 ft band", "Midland County / primary ZIP 79701", "Midland County / ZIP 79708 sector", "Midland County / ZIP 79705 sector", "Midland County / ZIP 79701 sector"]
-zillowHomeValueUsd: 217359
 ---
 
-**Engineering Notice for Midland:** Structural loading calculated based on 2815 ft terrain assessment. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Midland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-We coordinate local dispatch coverage around Midland, TX and nearby ZIP sectors.
+Galvanized segments in Midland, TX may restrict flow long before visible corrosion.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Midland, TX, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Midland, TX.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: confirm licensing and insurance before approving work.
+Across Midland, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 79702/79706/79708.
+Trenchless pulls in Midland, TX require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 79702, 79706, 79708, 79705, 79703 (county grid: Midland County).
+Expansion tank pre-charge loss in Midland, TX often tracks heater replacement deferrals.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Frost-free sillcock failures in Midland, TX often trace to interior shutoff seats, not exterior stems.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Sump discharge freeze risk in Midland, TX should be reviewed before spring thaw cycles.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Pressure trace 851583: meter-pit clearance and dielectric union checklist staged for Midland, TX near elevation 2815 ft.
+
+Flow dossier 851583: branch wet-vent geometry and jetting nozzle envelope logged for Midland, TX county grid Midland County (ZIP 79701).
+
+On-site sector marker: Midland County / ZIP 79703 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79701-4bf91b5c

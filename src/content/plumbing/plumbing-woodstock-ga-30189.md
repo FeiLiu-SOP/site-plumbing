@@ -12,26 +12,39 @@ lng: -84.5100
 zipSample: ["30189", "30188"]
 zipCodes: ["30189", "30188"]
 localPaths: ["Cherokee County / ZIP 30188 sector", "Cherokee County / ZIP 30189 sector", "Cherokee County / elevation 919 ft band", "Cherokee County / coords 34.1000, -84.5100", "Cherokee County / primary ZIP 30189"]
-zillowHomeValueUsd: 453987
 ---
 
-**Engineering Notice for Woodstock:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Woodstock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Branch wet vents in Woodstock, GA can mask gurgling as a main-line issue.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Woodstock, GA, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate local dispatch coverage around Woodstock, GA and nearby ZIP sectors.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 30188/30189 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 30188/30189 coverage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 30188, 30189 (county grid: Cherokee County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Cast-iron hub corrosion in Woodstock, GA often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 494470: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Woodstock, GA at 34.1000, -84.5100.
+
+Flow dossier 494470: branch wet-vent geometry and jetting nozzle envelope logged for Woodstock, GA county grid Cherokee County (ZIP 30189).
+
+On-site sector marker: Cherokee County / primary ZIP 30189 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30189-c600f95b

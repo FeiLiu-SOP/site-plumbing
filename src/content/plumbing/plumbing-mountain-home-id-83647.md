@@ -12,26 +12,39 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / coords 43.1300, -115.7000", "Elmore County / primary ZIP 83647", "Elmore County / elevation 3143 ft band", "Elmore County / ZIP 83647 sector"]
-zillowHomeValueUsd: 355923
 ---
 
-**Engineering Notice for Mountain Home:** Structural loading calculated based on 3143 ft terrain assessment. Regional dispatch grid: Elmore County.
+**Engineering Notice for Mountain Home:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elmore County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Our service coordination centers on Mountain Home, ID coverage windows and verified intake details.
+Trenchless pulls in Mountain Home, ID require pit dimensions verified against utility locate marks.
 
-Tip: request a written scope before work starts.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 83647 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Access points and staging constraints recorded for ZIP 83647 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 83647 (county grid: Elmore County).
+Material note: Water heater anode type may change with Mountain Home, ID hardness profiles.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 83647.
+
+Hydrostatic holds in Mountain Home, ID slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sewer gas odors in Mountain Home, ID should trigger trap seal and vent path review.
+
+Flow dossier 735928: branch wet-vent geometry and jetting nozzle envelope logged for Mountain Home, ID county grid Elmore County (ZIP 83647).
+
+On-site sector marker: Elmore County / ZIP 83647 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83647-59035f1c

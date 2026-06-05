@@ -12,24 +12,41 @@ lng: -80.3400
 zipSample: ["33189", "33157", "33190"]
 zipCodes: ["33190", "33189", "33157"]
 localPaths: ["Miami-Dade County / ZIP 33189 sector", "Miami-Dade County / primary ZIP 33190", "Miami-Dade County / coords 25.5800, -80.3400", "Miami-Dade County / elevation 23 ft band", "Miami-Dade County / ZIP 33190 sector"]
-zillowHomeValueUsd: 437189
 ---
 
-**Engineering Notice for Cutler Bay:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Cutler Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map sump float travel and check-valve orientation for Cutler Bay, FL basements.
 
-Local conditions in Cutler Bay, FL can affect timelines and material choices.
+Permit note: Main water line replacement in Cutler Bay, FL may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Cutler Bay, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Recirculation pump failures in Cutler Bay, FL can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 33157/33190/33189 intake.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 33157, 33190, 33189 (county grid: Miami-Dade County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Polybutylene manifold tags in Cutler Bay, FL basements should be photographed before any wall chase opens.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydrostatic holds in Cutler Bay, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33190.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Pressure trace 392839: meter-pit clearance and dielectric union checklist staged for Cutler Bay, FL near elevation 23 ft.
+
+Fixture roster 392839: toilet flange spacer kit and shower cartridge seat score queued for Cutler Bay, FL walk-through.
+
+On-site sector marker: Miami-Dade County / ZIP 33157 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33190-780a6e20

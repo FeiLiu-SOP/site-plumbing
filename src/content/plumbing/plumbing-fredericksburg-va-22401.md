@@ -12,27 +12,41 @@ lng: -77.4900
 zipSample: ["22404", "22412", "22401"]
 zipCodes: ["22412", "22401", "22404"]
 localPaths: ["Fredericksburg County / primary ZIP 22401", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / ZIP 22404 sector", "Fredericksburg County / coords 38.3000, -77.4900"]
-zillowHomeValueUsd: 466787
 ---
 
-**Engineering Notice for Fredericksburg:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Fredericksburg County.
+**Engineering Notice for Fredericksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fredericksburg County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 22401.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate local dispatch coverage around Fredericksburg, VA and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: request a written scope before work starts.
+FAQ: Is hydro-jetting always appropriate? In Fredericksburg, VA, pipe material and blockage type dictate method.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fredericksburg, VA, but intake notes help reduce delays.
+Branch wet vents in Fredericksburg, VA can mask gurgling as a main-line issue.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 22401/22412/22404.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22401/22412/22404.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 22401, 22412, 22404 (county grid: Fredericksburg County).
+Material note: Water heater anode type may change with Fredericksburg, VA hardness profiles.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Dispatch packets reference county grid Fredericksburg County near ZIP 22401.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When should sump battery backups be load-tested? In Fredericksburg, VA, before spring thaw and hurricane remnants.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 22401.
+
+Lineage note 449640: recirculation pump amp draw captured before Fredericksburg, VA branch isolation.
+
+Field routing: fixture shutoff torque log paired with hose bib freeze flag near ZIP 22401.
+
+Regional mesh label Fredericksburg County: moisture and logistics baselines are keyed to Fredericksburg, VA before niche-specific work begins.
 
 Service reference: VA-22401-75551c05

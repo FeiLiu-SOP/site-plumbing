@@ -12,27 +12,43 @@ lng: -82.9400
 zipSample: ["48066"]
 zipCodes: ["48066"]
 localPaths: ["Macomb County / ZIP 48066 sector", "Macomb County / elevation 623 ft band", "Macomb County / coords 42.5100, -82.9400", "Macomb County / primary ZIP 48066"]
-zillowHomeValueUsd: 168997
 ---
 
-**Engineering Notice for Roseville:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Roseville, MI, but intake notes help reduce delays.
+Step: map sump float travel and check-valve orientation for Roseville, MI basements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Roseville, MI often concentrates at the third joint upstream of the cleanout.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48066.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 48066 zone).
+Trenchless pulls in Roseville, MI require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 48066 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 48066 (county grid: Macomb County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Sewer gas odors in Roseville, MI should trigger trap seal and vent path review.
+
+Risk flag: Seasonal Roseville, MI irrigation cross-connections can mask domestic pressure loss.
+
+Sump discharge freeze risk in Roseville, MI should be reviewed before spring thaw cycles.
+
+Drain map 663627: camera-pass priority and expansion-tank pre-charge noted for Roseville, MI postal sector 48066.
+
+Scope trace: thermal expansion loop check plus hose bib freeze flag referenced in Macomb County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~623 ft across the Macomb County area. Coordinates: 42.5100, -82.9400. ZIP sample: 48066. Regional routing note: Macomb County traffic flow is balanced around ZIP 48066 service demand.
 
 Service reference: MI-48066-eca91837

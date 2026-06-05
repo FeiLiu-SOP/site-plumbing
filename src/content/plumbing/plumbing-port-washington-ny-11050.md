@@ -12,26 +12,45 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector", "Nassau County / primary ZIP 11050", "Nassau County / elevation 187 ft band"]
-zillowHomeValueUsd: 1301403
 ---
 
-**Engineering Notice for Port Washington:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Port Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-We coordinate local dispatch coverage around Port Washington, NY and nearby ZIP sectors.
+In Port Washington, NY, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Port Washington, NY should trigger trap seal and vent path review.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+CPVC solvent weld times shift with ambient humidity during Port Washington, NY shoulder seasons.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Port Washington, NY, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 11050.
+Sump discharge freeze risk in Port Washington, NY should be reviewed before spring thaw cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 11050 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 11050 (county grid: Nassau County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Irrigation cross-connections in Port Washington, NY can back-siphon domestic lines during main breaks.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Flow dossier 961141: branch wet-vent geometry and jetting nozzle envelope logged for Port Washington, NY county grid Nassau County (ZIP 11050).
+
+Drain map 961141: camera-pass priority and expansion-tank pre-charge noted for Port Washington, NY postal sector 11050.
+
+plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Port Washington intake packet.
+
+On-site sector marker: Nassau County / ZIP 11050 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11050-a85a3223

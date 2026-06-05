@@ -12,27 +12,41 @@ lng: -74.0500
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / coords 41.1200, -74.0500", "Rockland County / elevation 479 ft band"]
-zillowHomeValueUsd: 1129886
 ---
 
-**Engineering Notice for Spring Valley:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for Spring Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map sump float travel and check-valve orientation for Spring Valley, NY basements.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 10952.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: request a written scope before work starts.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Connection points spot-checked where accessible (ZIP 10977/10952 zone).
+Risk flag: In Spring Valley, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 10977/10952 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 10977, 10952 (county grid: Rockland County).
+Trenchless sleeve pulls near Spring Valley, NY require pit shoring notes when water tables are high.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Irrigation cross-connections in Spring Valley, NY can back-siphon domestic lines during main breaks.
+
+Galvanized segments in Spring Valley, NY may restrict flow long before visible corrosion.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 10952.
+
+Supply audit 819072: curb-stop orientation and hose-bib freeze flag reviewed for Spring Valley, NY at coords 41.1200/-74.0500.
+
+plumbing brief: hose bib freeze flag and backflow test cock orientation were cross-checked for the Spring Valley intake packet.
+
+On-site sector marker: Rockland County / elevation 479 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10952-37f0fac2

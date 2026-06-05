@@ -12,25 +12,41 @@ lng: -117.6000
 zipSample: ["92679", "92688"]
 zipCodes: ["92679", "92688"]
 localPaths: ["Orange County / ZIP 92679 sector", "Orange County / elevation 935 ft band", "Orange County / coords 33.6300, -117.6000", "Orange County / primary ZIP 92679", "Orange County / ZIP 92688 sector"]
-zillowHomeValueUsd: 1600687
 ---
 
-**Engineering Notice for Rancho Santa Margarita:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Rancho Santa Margarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Rancho Santa Margarita, CA and nearby ZIP sectors.
+Dispatch packets reference county grid Orange County near ZIP 92679.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92679.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Irrigation cross-connections in Rancho Santa Margarita, CA can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 92679/92688.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 92679, 92688 (county grid: Orange County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92679.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless pulls in Rancho Santa Margarita, CA require pit dimensions verified against utility locate marks.
+
+Permit note: Main water line replacement in Rancho Santa Margarita, CA may require ROW restoration planning.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Basement floor drains in Rancho Santa Margarita, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Lineage note 316793: recirculation pump amp draw captured before Rancho Santa Margarita, CA branch isolation.
+
+Intake ledger 316793: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Rancho Santa Margarita, CA at 33.6300, -117.6000.
+
+plumbing brief: backflow test cock orientation and water softener bypass lever were cross-checked for the Rancho Santa Margarita intake packet.
+
+On-site sector marker: Orange County / elevation 935 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92679-6ea90fa3

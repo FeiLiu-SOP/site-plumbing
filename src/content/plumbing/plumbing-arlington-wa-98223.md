@@ -12,24 +12,41 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / primary ZIP 98223", "Snohomish County / ZIP 98223 sector", "Snohomish County / elevation 223 ft band"]
-zillowHomeValueUsd: 663348
 ---
 
-**Engineering Notice for Arlington:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-Homeowners in Arlington, WA often face sudden plumbing problems that require fast action.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Structured milestones protect both sides when scheduling work.
+Stack vent offsets in Arlington, WA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Arlington, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Arlington, WA coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: avoid large upfront payments without milestones.
+Dispatch packets reference county grid Snohomish County near ZIP 98223.
 
-Field note: Access points and staging constraints recorded for ZIP 98223 coverage.
+Trenchless sleeve pulls near Arlington, WA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 98223 (county grid: Snohomish County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 98223.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Permit note: Main water line replacement in Arlington, WA may require ROW restoration planning.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Drain map 972454: camera-pass priority and expansion-tank pre-charge noted for Arlington, WA postal sector 98223.
+
+Regional mesh label Snohomish County: moisture and logistics baselines are keyed to Arlington, WA before niche-specific work begins.
 
 Service reference: WA-98223-5c95409f

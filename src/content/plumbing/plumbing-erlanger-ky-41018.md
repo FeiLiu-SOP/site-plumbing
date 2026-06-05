@@ -12,27 +12,39 @@ lng: -84.5900
 zipSample: ["41017", "41051", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / elevation 879 ft band", "Kenton County / coords 39.0100, -84.5900", "Kenton County / ZIP 41051 sector", "Kenton County / primary ZIP 41018", "Kenton County / ZIP 41017 sector"]
-zillowHomeValueUsd: 234863
 ---
 
-**Engineering Notice for Erlanger:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Kenton County.
+**Engineering Notice for Erlanger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenton County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Homeowners in Erlanger, KY often face sudden plumbing problems that require fast action.
+Risk flag: In Erlanger, KY, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: request a written scope before work starts.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 41018.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 41018.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 41017/41051/41018.
+Trenchless sleeve pulls near Erlanger, KY require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 41017/41051/41018 coverage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 41017, 41051, 41018 (county grid: Kenton County).
+Irrigation cross-connections in Erlanger, KY can back-siphon domestic lines during main breaks.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When should sump battery backups be load-tested? In Erlanger, KY, before spring thaw and hurricane remnants.
+
+FAQ: When is cabling enough? In Erlanger, KY, pipe material and blockage type dictate method.
+
+Flow dossier 447096: branch wet-vent geometry and jetting nozzle envelope logged for Erlanger, KY county grid Kenton County (ZIP 41018).
+
+Drain map 447096: camera-pass priority and expansion-tank pre-charge noted for Erlanger, KY postal sector 41018.
+
+On-site sector marker: Kenton County / elevation 879 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41018-b42573b1

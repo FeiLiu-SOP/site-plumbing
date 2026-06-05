@@ -12,25 +12,43 @@ lng: -70.2700
 zipSample: ["04112", "04103", "04122", "04123", "04102"]
 zipCodes: ["04122", "04108", "04124", "04116", "04112", "04102", "04123", "04103", "04109", "04019", "04101", "04104"]
 localPaths: ["Cumberland County / ZIP 04123 sector", "Cumberland County / ZIP 04102 sector", "Cumberland County / ZIP 04103 sector", "Cumberland County / coords 43.6800, -70.2700", "Cumberland County / ZIP 04122 sector"]
-zillowHomeValueUsd: 653879
 ---
 
-**Engineering Notice for Portland:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Portland, ME, but intake notes help reduce delays.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Portland, ME.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Portland, ME irrigation zones need backflow logs before line replacement.
 
-Tip: request a written scope before work starts.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 04101.
+FAQ: Is hydro-jetting always appropriate? In Portland, ME, pipe material and blockage type dictate method.
 
-Our service coordination centers on Portland, ME coverage windows and verified intake details.
+Basement floor drains in Portland, ME should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Connection points spot-checked where accessible (ZIP 04123/04108/04104 zone).
+Frost-free sillcock failures in Portland, ME often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 04123, 04108, 04104, 04112, 04101 (county grid: Cumberland County).
+Risk flag: In Portland, ME, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sump discharge freeze risk in Portland, ME should be reviewed before spring thaw cycles.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: When should sump battery backups be load-tested? In Portland, ME, before spring thaw and hurricane remnants.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Hydrostatic holds in Portland, ME slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 888650: meter-pit clearance and dielectric union checklist staged for Portland, ME near elevation 0 ft.
+
+plumbing brief: sewer cleanout cap thread and hose bib freeze flag were cross-checked for the Portland intake packet.
+
+On-site sector marker: Cumberland County / ZIP 04109 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04101-dff8de48

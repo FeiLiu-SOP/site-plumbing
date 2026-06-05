@@ -12,24 +12,39 @@ lng: -96.7700
 zipSample: ["75287", "75227", "75089", "75032", "75315"]
 zipCodes: ["75202", "75043", "75358", "75277", "75250", "75389", "75379", "75237", "75371", "75254", "75393", "75220"]
 localPaths: ["Dallas County / ZIP 75287 sector", "Dallas County / ZIP 75089 sector", "Dallas County / elevation 502 ft band", "Dallas County / ZIP 75227 sector", "Dallas County / coords 32.7900, -96.7700"]
-zillowHomeValueUsd: 423156
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Dallas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Expansion tank pre-charge loss in Dallas, TX often tracks heater replacement deferrals.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: camera-pass main lines in Dallas, TX before jetting older clay or cast iron.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In Dallas, TX, before spring thaw and hurricane remnants.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dallas, TX, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 75313/75372/75283.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 75098.
 
-Dispatch sectors sampled: ZIP 75313, 75372, 75283, 75392, 75216 (county grid: Dallas County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Dallas, TX.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Seasonal Dallas, TX irrigation cross-connections can mask domestic pressure loss.
+
+Lineage note 659537: recirculation pump amp draw captured before Dallas, TX branch isolation.
+
+plumbing brief: meter pit clearance and slab penetration sleeve seal were cross-checked for the Dallas intake packet.
+
+Primary postal anchor 75098 with multi-ZIP overlap in Dallas; field packets tag Dallas County for county-grid reconciliation.
 
 Service reference: TX-75098-4d0de507

@@ -12,27 +12,39 @@ lng: -81.4000
 zipSample: ["44720", "44709"]
 zipCodes: ["44720", "44709"]
 localPaths: ["Stark County / coords 40.8700, -81.4000", "Stark County / primary ZIP 44709", "Stark County / elevation 1152 ft band", "Stark County / ZIP 44709 sector", "Stark County / ZIP 44720 sector"]
-zillowHomeValueUsd: 184776
 ---
 
-**Engineering Notice for North Canton:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Stark County.
+**Engineering Notice for North Canton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stark County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 44709.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 44709.
 
-We coordinate local dispatch coverage around North Canton, OH and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44709.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 44709.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44720/44709.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Moisture pathway inspection logged near ZIP 44720/44709 intake.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 44720, 44709 (county grid: Stark County).
+Dispatch packets reference county grid Stark County near ZIP 44709.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydrostatic holds in North Canton, OH slab circuits run overnight when listening mics show ambiguous hits.
+
+Sewer gas odors in North Canton, OH should trigger trap seal and vent path review.
+
+Cleanout access limits in North Canton, OH frequently extend drain cleaning duration.
+
+Across North Canton, OH, main-line bellies can trap debris even when fixtures drain normally.
+
+Fixture roster 880797: toilet flange spacer kit and shower cartridge seat score queued for North Canton, OH walk-through.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Stark County. Reference elevation: 1152 ft. Primary coordinates: 40.8700, -81.4000. ZIP sample: 44709, 44720. Regional routing note: Stark County traffic flow is balanced around ZIP 44709 service demand.
 
 Service reference: OH-44709-dd41146d

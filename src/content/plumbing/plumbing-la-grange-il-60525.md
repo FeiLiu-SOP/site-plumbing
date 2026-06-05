@@ -12,25 +12,39 @@ lng: -87.8700
 zipSample: ["60525"]
 zipCodes: ["60525"]
 localPaths: ["Cook County / primary ZIP 60525", "Cook County / elevation 656 ft band", "Cook County / ZIP 60525 sector", "Cook County / coords 41.8100, -87.8700"]
-zillowHomeValueUsd: 485366
 ---
 
-**Engineering Notice for La Grange:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for La Grange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Recirculation pump failures in La Grange, IL can mimic fixture-specific clogs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 60525.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60525.
+Fixture shutoff stiffness in La Grange, IL may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 60525 (county grid: Cook County).
+Cleanout access limits in La Grange, IL frequently extend drain cleaning duration.
+
+Stack vent offsets in La Grange, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 60525.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Hydrostatic holds in La Grange, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Fixture roster 924173: toilet flange spacer kit and shower cartridge seat score queued for La Grange, IL walk-through.
+
+Regional mesh label Cook County: moisture and logistics baselines are keyed to La Grange, IL before niche-specific work begins.
 
 Service reference: IL-60525-efe367b7

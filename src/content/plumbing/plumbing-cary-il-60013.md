@@ -12,26 +12,41 @@ lng: -88.2500
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / coords 42.2100, -88.2500", "McHenry County / ZIP 60013 sector", "McHenry County / primary ZIP 60013", "McHenry County / elevation 820 ft band"]
-zillowHomeValueUsd: 370691
 ---
 
-**Engineering Notice for Cary:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Cary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
 
 
-In Cary, IL, urgent plumbing issues can escalate quickly.
+Step: document dielectric unions before mixed-metal replacements.
 
-Our service coordination centers on Cary, IL coverage windows and verified intake details.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Cary, IL often trace to interior shutoff seats, not exterior stems.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Cary, IL, slab leaks often present as warm spots before wall stains appear.
 
-A written scope helps prevent rework and mismatched expectations.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 60013 zone).
+CPVC solvent weld times shift with ambient humidity during Cary, IL shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 60013 coverage.
+Dual-water-meter setups in Cary, IL irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 60013 (county grid: McHenry County).
+FAQ: Is hydro-jetting always appropriate? In Cary, IL, pipe material and blockage type dictate method.
+
+FAQ: When should sump battery backups be load-tested? In Cary, IL, before spring thaw and hurricane remnants.
+
+Stack vent offsets in Cary, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless pulls in Cary, IL require pit dimensions verified against utility locate marks.
+
+Trenchless sleeve pulls near Cary, IL require pit shoring notes when water tables are high.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Fixture roster 985926: toilet flange spacer kit and shower cartridge seat score queued for Cary, IL walk-through.
+
+Field routing: slab leak listening window paired with PEX expansion ring batch near ZIP 60013.
+
+Primary postal anchor 60013 with multi-ZIP overlap in Cary; field packets tag McHenry County for county-grid reconciliation.
 
 Service reference: IL-60013-f7177fbd

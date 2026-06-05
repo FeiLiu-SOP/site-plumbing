@@ -12,24 +12,41 @@ lng: -88.2100
 zipSample: ["36619", "36582"]
 zipCodes: ["36619", "36582"]
 localPaths: ["Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / ZIP 36582 sector"]
-zillowHomeValueUsd: 203028
 ---
 
-**Engineering Notice for Tillmans Corner:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Tillmans Corner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Tillmans Corner, AL, main-line bellies can trap debris even when fixtures drain normally.
 
-In Tillmans Corner, AL, seasonal demand can change scheduling windows.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Main water line replacement in Tillmans Corner, AL may require ROW restoration planning.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tillmans Corner, AL, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tillmans Corner, AL systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36582/36619.
+FAQ: When should sump battery backups be load-tested? In Tillmans Corner, AL, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 36582, 36619 (county grid: Mobile County).
+Trenchless sleeve pulls near Tillmans Corner, AL require pit shoring notes when water tables are high.
+
+Irrigation cross-connections in Tillmans Corner, AL can back-siphon domestic lines during main breaks.
+
+Risk flag: In Tillmans Corner, AL, slab leaks can misroute as foundation issues without listening equipment.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Fixture shutoff stiffness in Tillmans Corner, AL may indicate mineral bridging behind stems.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 491112: recirculation pump amp draw captured before Tillmans Corner, AL branch isolation.
+
+Supply audit 491112: curb-stop orientation and hose-bib freeze flag reviewed for Tillmans Corner, AL at coords 30.5800/-88.2100.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Mobile County and primary ZIP 36582. Terrain reference: 174 ft. Center point: 30.5800, -88.2100. ZIP sample: 36619, 36582. Regional routing note: Mobile County traffic flow is balanced around ZIP 36582 service demand.
 
 Service reference: AL-36582-1a9b5d05

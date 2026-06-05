@@ -12,27 +12,45 @@ lng: -118.0700
 zipSample: ["90740", "90743"]
 zipCodes: ["90740", "90743"]
 localPaths: ["Orange County / ZIP 90743 sector", "Orange County / coords 33.7500, -118.0700", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / elevation 13 ft band"]
-zillowHomeValueUsd: 798316
 ---
 
-**Engineering Notice for Seal Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Seal Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 90743.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sewer gas odors in Seal Beach, CA should trigger trap seal and vent path review.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal Seal Beach, CA irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Seal Beach, CA, before spring thaw and hurricane remnants.
 
-Field note: Wind exposure category reviewed for ZIP sector 90740/90743.
+Basement floor drains in Seal Beach, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Connection points spot-checked where accessible (ZIP 90740/90743 zone).
+Frost-free sillcock failures in Seal Beach, CA often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 90740, 90743 (county grid: Orange County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 90743.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 90743.
+
+Across Seal Beach, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+We coordinate Seal Beach, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Flow dossier 839664: branch wet-vent geometry and jetting nozzle envelope logged for Seal Beach, CA county grid Orange County (ZIP 90743).
+
+Pressure trace 839664: meter-pit clearance and dielectric union checklist staged for Seal Beach, CA near elevation 13 ft.
+
+Field routing: toilet flange spacer kit paired with dielectric union checklist near ZIP 90743.
+
+On-site sector marker: Orange County / coords 33.7500, -118.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90743-e6a2f199

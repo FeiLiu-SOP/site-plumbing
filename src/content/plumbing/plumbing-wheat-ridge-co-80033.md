@@ -12,26 +12,37 @@ lng: -105.1000
 zipSample: ["80033", "80034"]
 zipCodes: ["80033", "80034"]
 localPaths: ["Jefferson County / primary ZIP 80033", "Jefferson County / coords 39.7700, -105.1000", "Jefferson County / ZIP 80033 sector", "Jefferson County / elevation 5381 ft band", "Jefferson County / ZIP 80034 sector"]
-zillowHomeValueUsd: 599387
 ---
 
-**Engineering Notice for Wheat Ridge:** Structural loading calculated based on 5381 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Wheat Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our service coordination centers on Wheat Ridge, CO coverage windows and verified intake details.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Wheat Ridge, CO older duplexes can mask tub gurgle as a main-line failure.
 
-Local conditions in Wheat Ridge, CO can affect timelines and material choices.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Wheat Ridge, CO systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wheat Ridge, CO, but intake notes help reduce delays.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Access points and staging constraints recorded for ZIP 80034/80033 coverage.
+In Wheat Ridge, CO, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Moisture pathway inspection logged near ZIP 80034/80033 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 80034, 80033 (county grid: Jefferson County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+We coordinate Wheat Ridge, CO plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Frost-free sillcock failures in Wheat Ridge, CO often trace to interior shutoff seats, not exterior stems.
+
+Irrigation cross-connections in Wheat Ridge, CO can back-siphon domestic lines during main breaks.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 80033.
+
+Supply audit 731635: curb-stop orientation and hose-bib freeze flag reviewed for Wheat Ridge, CO at coords 39.7700/-105.1000.
+
+Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Wheat Ridge, CO before niche-specific work begins.
 
 Service reference: CO-80033-05024eea

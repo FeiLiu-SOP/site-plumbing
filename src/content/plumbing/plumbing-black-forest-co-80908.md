@@ -12,24 +12,41 @@ lng: -104.6800
 zipSample: ["80106", "80912", "80908"]
 zipCodes: ["80912", "80908", "80106"]
 localPaths: ["El Paso County / coords 39.0600, -104.6800", "El Paso County / ZIP 80908 sector", "El Paso County / ZIP 80106 sector", "El Paso County / primary ZIP 80908", "El Paso County / ZIP 80912 sector"]
-zillowHomeValueUsd: 673316
 ---
 
-**Engineering Notice for Black Forest:** Structural loading calculated based on 7598 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Black Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
 
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: In Black Forest, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Seasonal Black Forest, CO irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Black Forest, CO systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80912/80106/80908.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Black Forest, CO.
 
-Dispatch sectors sampled: ZIP 80912, 80106, 80908 (county grid: El Paso County).
+Dispatch packets reference county grid El Paso County near ZIP 80908.
+
+CPVC solvent weld times shift with ambient humidity during Black Forest, CO shoulder seasons.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 80908.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 497118: branch wet-vent geometry and jetting nozzle envelope logged for Black Forest, CO county grid El Paso County (ZIP 80908).
+
+On-site sector marker: El Paso County / ZIP 80908 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80908-21ce10b1

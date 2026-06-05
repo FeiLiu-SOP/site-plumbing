@@ -12,24 +12,37 @@ lng: -96.6300
 zipSample: ["75047", "75043", "75049", "75046", "75044"]
 zipCodes: ["75040", "75044", "75049", "75047", "75043", "75041", "75042", "75046"]
 localPaths: ["Dallas County / elevation 535 ft band", "Dallas County / primary ZIP 75043", "Dallas County / coords 32.9100, -96.6300", "Dallas County / ZIP 75047 sector", "Dallas County / ZIP 75044 sector"]
-zillowHomeValueUsd: 289504
 ---
 
-**Engineering Notice for Garland:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Garland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Structured milestones protect both sides when scheduling work.
+Trenchless pulls in Garland, TX require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydro-jetting in Garland, TX requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Garland, TX, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: request a written scope before work starts.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75043/75042/75041.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 75043, 75042, 75041, 75046, 75040 (county grid: Dallas County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: map sump float travel and check-valve orientation for Garland, TX basements.
+
+Hard water in Garland, TX accelerates scale on PRV seats and heater elements.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Stack vent offsets in Garland, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 75043.
+
+Pressure trace 864576: meter-pit clearance and dielectric union checklist staged for Garland, TX near elevation 535 ft.
+
+On-site sector marker: Dallas County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75043-7b2aeefc

@@ -12,25 +12,39 @@ lng: -86.0900
 zipSample: ["46107", "46203"]
 zipCodes: ["46203", "46107"]
 localPaths: ["Marion County / elevation 820 ft band", "Marion County / ZIP 46107 sector", "Marion County / coords 39.7200, -86.0900", "Marion County / primary ZIP 46107", "Marion County / ZIP 46203 sector"]
-zillowHomeValueUsd: 190343
 ---
 
-**Engineering Notice for Beech Grove:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Beech Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 46107.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Beech Grove, IN coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46107.
+Galvanized segments in Beech Grove, IN may restrict flow long before visible corrosion.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Beech Grove, IN systems need rebalancing.
 
-Field note: Access points and staging constraints recorded for ZIP 46203/46107 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 46203, 46107 (county grid: Marion County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Frost-free sillcock failures in Beech Grove, IN often trace to interior shutoff seats, not exterior stems.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Hydro-jetting in Beech Grove, IN requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Fixture roster 293147: toilet flange spacer kit and shower cartridge seat score queued for Beech Grove, IN walk-through.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Marion County. Reference elevation: 820 ft. Primary coordinates: 39.7200, -86.0900. ZIP sample: 46203, 46107. Service perimeter note: Coverage extends through Marion County with dispatch centered near ZIP 46107.
 
 Service reference: IN-46107-5ec1319a

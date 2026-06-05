@@ -12,27 +12,43 @@ lng: -77.6300
 zipSample: ["20169", "20156", "20155"]
 zipCodes: ["20156", "20169", "20155"]
 localPaths: ["Prince William County / ZIP 20169 sector", "Prince William County / elevation 387 ft band", "Prince William County / ZIP 20156 sector", "Prince William County / primary ZIP 20169", "Prince William County / coords 38.7900, -77.6300"]
-zillowHomeValueUsd: 832929
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In Gainesville, VA, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Gainesville, VA coverage windows and verified intake details.
+Sewer gas odors in Gainesville, VA should trigger trap seal and vent path review.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gainesville, VA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20169.
+Risk flag: In Gainesville, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 20156/20155/20169 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 20156/20155/20169.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 20156, 20155, 20169 (county grid: Prince William County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 20169.
+
+Cast-iron hub corrosion in Gainesville, VA often concentrates at the third joint upstream of the cleanout.
+
+Branch wet vents in Gainesville, VA can mask gurgling as a main-line issue.
+
+Expansion tank pre-charge loss in Gainesville, VA often tracks heater replacement deferrals.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Supply audit 929240: curb-stop orientation and hose-bib freeze flag reviewed for Gainesville, VA at coords 38.7900/-77.6300.
+
+Fixture roster 929240: toilet flange spacer kit and shower cartridge seat score queued for Gainesville, VA walk-through.
+
+Primary postal anchor 20169 with multi-ZIP overlap in Gainesville; field packets tag Prince William County for county-grid reconciliation.
 
 Service reference: VA-20169-3dfef2bf

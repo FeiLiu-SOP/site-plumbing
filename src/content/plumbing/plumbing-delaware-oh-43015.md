@@ -12,24 +12,41 @@ lng: -83.0700
 zipSample: ["43015"]
 zipCodes: ["43015"]
 localPaths: ["Delaware County / elevation 915 ft band", "Delaware County / ZIP 43015 sector", "Delaware County / coords 40.2900, -83.0700", "Delaware County / primary ZIP 43015"]
-zillowHomeValueUsd: 408684
 ---
 
-**Engineering Notice for Delaware:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Delaware County.
+**Engineering Notice for Delaware:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Delaware County.
 
 
-Local conditions in Delaware, OH can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Delaware, OH, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Our service coordination centers on Delaware, OH coverage windows and verified intake details.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Delaware, OH.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 43015 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 43015 (county grid: Delaware County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Cleanout access limits in Delaware, OH frequently extend drain cleaning duration.
+
+Trenchless pulls in Delaware, OH require pit dimensions verified against utility locate marks.
+
+Permit note: Main water line replacement in Delaware, OH may require ROW restoration planning.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Fixture roster 797000: toilet flange spacer kit and shower cartridge seat score queued for Delaware, OH walk-through.
+
+Drain map 797000: camera-pass priority and expansion-tank pre-charge noted for Delaware, OH postal sector 43015.
+
+Field routing: gas water heater draft hood gap paired with meter pit clearance near ZIP 43015.
+
+On-site sector marker: Delaware County / elevation 915 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43015-19bf8240

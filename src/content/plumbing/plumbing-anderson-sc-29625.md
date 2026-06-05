@@ -12,24 +12,39 @@ lng: -82.6500
 zipSample: ["29624", "29625", "29621", "29622"]
 zipCodes: ["29624", "29622", "29621", "29625"]
 localPaths: ["Anderson County / ZIP 29624 sector", "Anderson County / elevation 791 ft band", "Anderson County / ZIP 29625 sector", "Anderson County / ZIP 29621 sector", "Anderson County / primary ZIP 29625"]
-zillowHomeValueUsd: 263728
 ---
 
-**Engineering Notice for Anderson:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Anderson County.
+**Engineering Notice for Anderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anderson County.
 
 
-Homeowners in Anderson, SC often face sudden plumbing problems that require fast action.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Irrigation cross-connections in Anderson, SC can back-siphon domestic lines during main breaks.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Branch wet vents in Anderson, SC can mask gurgling as a main-line issue.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Moisture pathway inspection logged near ZIP 29625/29624/29621 intake.
+Dispatch packets reference county grid Anderson County near ZIP 29625.
 
-Dispatch sectors sampled: ZIP 29625, 29624, 29621, 29622 (county grid: Anderson County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Anderson, SC systems need rebalancing.
+
+Dual-water-meter setups in Anderson, SC irrigation zones need backflow logs before line replacement.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Polybutylene manifold tags in Anderson, SC basements should be photographed before any wall chase opens.
+
+Cleanout access limits in Anderson, SC frequently extend drain cleaning duration.
+
+Lineage note 313698: recirculation pump amp draw captured before Anderson, SC branch isolation.
+
+plumbing brief: water softener bypass lever and recirculation pump amp draw were cross-checked for the Anderson intake packet.
+
+On-site sector marker: Anderson County / coords 34.5200, -82.6500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29625-d56f3eac

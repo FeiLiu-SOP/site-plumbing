@@ -12,27 +12,43 @@ lng: -111.9300
 zipSample: ["85283", "85287", "85288", "85284", "85285"]
 zipCodes: ["85287", "85288", "85284", "85280", "85282", "85283", "85281", "85285"]
 localPaths: ["Maricopa County / ZIP 85283 sector", "Maricopa County / coords 33.3900, -111.9300", "Maricopa County / ZIP 85284 sector", "Maricopa County / elevation 1171 ft band", "Maricopa County / ZIP 85285 sector"]
-zillowHomeValueUsd: 402193
 ---
 
-**Engineering Notice for Tempe:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Tempe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Tempe, AZ before jetting older clay or cast iron.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85281.
+Trenchless sleeve pulls near Tempe, AZ require pit shoring notes when water tables are high.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hose bib split patterns in Tempe, AZ often follow missed winterization.
 
-We coordinate local dispatch coverage around Tempe, AZ and nearby ZIP sectors.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 85281.
 
-Field note: Wind exposure category reviewed for ZIP sector 85280/85284/85281.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 85280/85284/85281 intake.
+FAQ: When is cabling enough? In Tempe, AZ, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 85280, 85284, 85281, 85282, 85287 (county grid: Maricopa County).
+Polybutylene manifold tags in Tempe, AZ basements should be photographed before any wall chase opens.
+
+Frost-free sillcock failures in Tempe, AZ often trace to interior shutoff seats, not exterior stems.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tempe, AZ systems need rebalancing.
+
+CPVC solvent weld times shift with ambient humidity during Tempe, AZ shoulder seasons.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Flow dossier 728697: branch wet-vent geometry and jetting nozzle envelope logged for Tempe, AZ county grid Maricopa County (ZIP 85281).
+
+Scope trace: gas water heater draft hood gap plus meter pit clearance referenced in Maricopa County county grid review.
+
+On-site sector marker: Maricopa County / primary ZIP 85281 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85281-1d96dd39

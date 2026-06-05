@@ -12,24 +12,37 @@ lng: -97.7000
 zipSample: ["78553", "78552", "78550", "78551"]
 zipCodes: ["78552", "78551", "78553", "78550"]
 localPaths: ["Cameron County / ZIP 78550 sector", "Cameron County / ZIP 78553 sector", "Cameron County / coords 26.1900, -97.7000", "Cameron County / elevation 56 ft band", "Cameron County / primary ZIP 78550"]
-zillowHomeValueUsd: 176076
 ---
 
-**Engineering Notice for Harlingen:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.
+**Engineering Notice for Harlingen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cameron County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Harlingen, TX systems need rebalancing.
 
-Clear documentation helps align materials, labor, and timeline.
+Hydrostatic holds in Harlingen, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in Harlingen, TX often concentrates at the third joint upstream of the cleanout.
 
-Tip: request a written scope before work starts.
+Hard water in Harlingen, TX accelerates scale on PRV seats and heater elements.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78553/78552/78551.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Harlingen, TX.
 
-Dispatch sectors sampled: ZIP 78553, 78552, 78551, 78550 (county grid: Cameron County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Harlingen, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Water heater T&P discharge paths in Harlingen, TX must terminate safely before replacement quotes.
+
+Irrigation cross-connections in Harlingen, TX can back-siphon domestic lines during main breaks.
+
+Flow dossier 947822: branch wet-vent geometry and jetting nozzle envelope logged for Harlingen, TX county grid Cameron County (ZIP 78550).
+
+ZIP-corridor snapshot for Harlingen, TX: sampled sectors include 78551, 78550, 78553, 78552; county routing grid remains Cameron County.
 
 Service reference: TX-78550-47641bc8

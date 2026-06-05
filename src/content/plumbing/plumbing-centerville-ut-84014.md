@@ -12,24 +12,39 @@ lng: -111.8800
 zipSample: ["84014", "84087"]
 zipCodes: ["84087", "84014"]
 localPaths: ["Davis County / coords 40.9300, -111.8800", "Davis County / primary ZIP 84014", "Davis County / ZIP 84014 sector", "Davis County / elevation 4255 ft band", "Davis County / ZIP 84087 sector"]
-zillowHomeValueUsd: 589780
 ---
 
-**Engineering Notice for Centerville:** Structural loading calculated based on 4255 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Centerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Water heater T&P discharge paths in Centerville, UT must terminate safely before replacement quotes.
 
-Our service coordination centers on Centerville, UT coverage windows and verified intake details.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Homeowners in Centerville, UT often face sudden plumbing problems that require fast action.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 84087/84014.
+Branch wet vents in Centerville, UT can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 84087, 84014 (county grid: Davis County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84014.
+
+Dispatch packets reference county grid Davis County near ZIP 84014.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Intake ledger 684956: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Centerville, UT at 40.9300, -111.8800.
+
+Fixture roster 684956: toilet flange spacer kit and shower cartridge seat score queued for Centerville, UT walk-through.
+
+On-site sector marker: Davis County / ZIP 84014 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84014-bb638243

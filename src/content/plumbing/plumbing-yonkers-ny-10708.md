@@ -12,26 +12,41 @@ lng: -73.8700
 zipSample: ["10704", "10701", "10710", "10703", "10707"]
 zipCodes: ["10702", "10701", "10708", "10703", "10705", "10710", "10707", "10704"]
 localPaths: ["Westchester County / primary ZIP 10708", "Westchester County / coords 40.9500, -73.8700", "Westchester County / ZIP 10703 sector", "Westchester County / elevation 325 ft band", "Westchester County / ZIP 10710 sector"]
-zillowHomeValueUsd: 949633
 ---
 
-**Engineering Notice for Yonkers:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for Yonkers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In Yonkers, NY, before spring thaw and hurricane remnants.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Yonkers, NY older duplexes can mask tub gurgle as a main-line failure.
 
-Our service coordination centers on Yonkers, NY coverage windows and verified intake details.
+Dispatch packets reference county grid Westchester County near ZIP 10708.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 10701/10702/10710 intake.
+Fixture shutoff stiffness in Yonkers, NY may indicate mineral bridging behind stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 10701/10702/10710 zone).
+Irrigation cross-connections in Yonkers, NY can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 10701, 10702, 10710, 10703, 10705 (county grid: Westchester County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Yonkers, NY.
+
+Hydrostatic holds in Yonkers, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Cast-iron hub corrosion in Yonkers, NY often concentrates at the third joint upstream of the cleanout.
+
+Trenchless sleeve pulls near Yonkers, NY require pit shoring notes when water tables are high.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Lineage note 920238: recirculation pump amp draw captured before Yonkers, NY branch isolation.
+
+Drain map 920238: camera-pass priority and expansion-tank pre-charge noted for Yonkers, NY postal sector 10708.
+
+On-site sector marker: Westchester County / ZIP 10710 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10708-bcf783d5

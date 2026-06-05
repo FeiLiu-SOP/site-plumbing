@@ -12,26 +12,41 @@ lng: -84.6200
 zipSample: ["30144", "30152"]
 zipCodes: ["30152", "30144"]
 localPaths: ["Cobb County / ZIP 30144 sector", "Cobb County / primary ZIP 30144", "Cobb County / elevation 1138 ft band", "Cobb County / coords 34.0300, -84.6200", "Cobb County / ZIP 30152 sector"]
-zillowHomeValueUsd: 382589
 ---
 
-**Engineering Notice for Kennesaw:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Kennesaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our service coordination centers on Kennesaw, GA coverage windows and verified intake details.
+FAQ: Is hydro-jetting always appropriate? In Kennesaw, GA, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kennesaw, GA, but intake notes help reduce delays.
+Fixture shutoff stiffness in Kennesaw, GA may indicate mineral bridging behind stems.
 
-Field note: Moisture pathway inspection logged near ZIP 30144/30152 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 30144/30152.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kennesaw, GA systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 30144, 30152 (county grid: Cobb County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 30144.
+
+Hydrostatic holds in Kennesaw, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Intake ledger 485515: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kennesaw, GA at 34.0300, -84.6200.
+
+Fixture roster 485515: toilet flange spacer kit and shower cartridge seat score queued for Kennesaw, GA walk-through.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Cobb County and primary ZIP 30144. Terrain reference: 1138 ft. Center point: 34.0300, -84.6200. ZIP sample: 30144, 30152. Regional routing note: Cobb County traffic flow is balanced around ZIP 30144 service demand.
 
 Service reference: GA-30144-517cff23

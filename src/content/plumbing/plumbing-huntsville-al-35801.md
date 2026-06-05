@@ -12,27 +12,43 @@ lng: -86.6400
 zipSample: ["35806", "35741", "35805", "35763", "35893"]
 zipCodes: ["35742", "35815", "35763", "35811", "35806", "35824", "35757", "35894", "35893", "35804", "35895", "35741"]
 localPaths: ["Madison County / ZIP 35806 sector", "Madison County / primary ZIP 35801", "Madison County / coords 34.7000, -86.6400", "Madison County / ZIP 35741 sector", "Madison County / ZIP 35893 sector"]
-zillowHomeValueUsd: 394322
 ---
 
-**Engineering Notice for Huntsville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Huntsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate local dispatch coverage around Huntsville, AL and nearby ZIP sectors.
+Trenchless pulls in Huntsville, AL require pit dimensions verified against utility locate marks.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 35801.
+Sewer gas odors in Huntsville, AL should trigger trap seal and vent path review.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Huntsville, AL often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Huntsville, AL, but intake notes help reduce delays.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 35801.
 
-Field note: Moisture pathway inspection logged near ZIP 35801/35893/35824 intake.
+Dual-water-meter setups in Huntsville, AL irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 35801/35893/35824.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 35801, 35893, 35824, 35809, 35741 (county grid: Madison County).
+CPVC solvent weld times shift with ambient humidity during Huntsville, AL shoulder seasons.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Huntsville, AL.
+
+Trenchless sleeve pulls near Huntsville, AL require pit shoring notes when water tables are high.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Supply audit 896040: curb-stop orientation and hose-bib freeze flag reviewed for Huntsville, AL at coords 34.7000/-86.6400.
+
+Field routing: fixture shutoff torque log paired with PRV outlet curve near ZIP 35801.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Huntsville, AL before niche-specific work begins.
 
 Service reference: AL-35801-92f535e2

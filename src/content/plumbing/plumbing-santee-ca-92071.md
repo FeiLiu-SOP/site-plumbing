@@ -12,26 +12,43 @@ lng: -116.9900
 zipSample: ["92040", "92071"]
 zipCodes: ["92071", "92040"]
 localPaths: ["San Diego County / coords 32.8600, -116.9900", "San Diego County / elevation 472 ft band", "San Diego County / ZIP 92071 sector", "San Diego County / ZIP 92040 sector", "San Diego County / primary ZIP 92071"]
-zillowHomeValueUsd: 808582
 ---
 
-**Engineering Notice for Santee:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Santee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-We coordinate local dispatch coverage around Santee, CA and nearby ZIP sectors.
+Branch wet vents in Santee, CA can mask gurgling as a main-line issue.
 
-Tip: request a written scope before work starts.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santee, CA, but intake notes help reduce delays.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Basement floor drains in Santee, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 92040/92071 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Santee, CA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92040/92071.
+Dual-water-meter setups in Santee, CA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 92040, 92071 (county grid: San Diego County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Cast-iron hub corrosion in Santee, CA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Seasonal Santee, CA irrigation cross-connections can mask domestic pressure loss.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 92071.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 627777: toilet flange spacer kit and shower cartridge seat score queued for Santee, CA walk-through.
+
+Supply audit 627777: curb-stop orientation and hose-bib freeze flag reviewed for Santee, CA at coords 32.8600/-116.9900.
+
+Coordinate-anchored dispatch note: center reference 32.8600, -116.9900 at elevation ~472 ft aligns with San Diego County intake staging.
 
 Service reference: CA-92071-75e8ed5c

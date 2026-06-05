@@ -12,26 +12,39 @@ lng: -91.6800
 zipSample: ["52411", "52405", "52401", "52406", "52409"]
 zipCodes: ["52409", "52497", "52401", "52404", "52408", "52499", "52407", "52411", "52498", "52405", "52403", "52402"]
 localPaths: ["Linn County / ZIP 52411 sector", "Linn County / primary ZIP 52404", "Linn County / ZIP 52406 sector", "Linn County / ZIP 52409 sector", "Linn County / ZIP 52401 sector"]
-zillowHomeValueUsd: 192720
 ---
 
-**Engineering Notice for Cedar Rapids:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Cedar Rapids:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
 
 
-Our service coordination centers on Cedar Rapids, IA coverage windows and verified intake details.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Cedar Rapids, IA should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Across Cedar Rapids, IA, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: compare at least two estimates for scope and timeline.
+Cast-iron hub corrosion in Cedar Rapids, IA often concentrates at the third joint upstream of the cleanout.
 
-Field note: Wind exposure category reviewed for ZIP sector 52405/52404/52406.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52405/52404/52406.
+Step: camera-pass main lines in Cedar Rapids, IA before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 52405, 52404, 52406, 52499, 52410 (county grid: Linn County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: In Cedar Rapids, IA, slab leaks can misroute as foundation issues without listening equipment.
+
+Cleanout access limits in Cedar Rapids, IA frequently extend drain cleaning duration.
+
+Trenchless sleeve pulls near Cedar Rapids, IA require pit shoring notes when water tables are high.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Intake ledger 136282: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Cedar Rapids, IA at 41.9700, -91.6800.
+
+Scope trace: slab penetration sleeve seal plus thermal expansion loop check referenced in Linn County county grid review.
+
+On-site sector marker: Linn County / ZIP 52406 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52404-63ed64ef

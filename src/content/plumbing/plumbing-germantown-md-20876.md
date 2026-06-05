@@ -12,26 +12,39 @@ lng: -77.2600
 zipSample: ["20876", "20874", "20875"]
 zipCodes: ["20876", "20875", "20874"]
 localPaths: ["Montgomery County / primary ZIP 20876", "Montgomery County / coords 39.1800, -77.2600", "Montgomery County / elevation 492 ft band", "Montgomery County / ZIP 20874 sector", "Montgomery County / ZIP 20875 sector"]
-zillowHomeValueUsd: 484225
 ---
 
-**Engineering Notice for Germantown:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Germantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in Germantown, MD accelerates scale on PRV seats and heater elements.
 
-We coordinate local dispatch coverage around Germantown, MD and nearby ZIP sectors.
+Dual-water-meter setups in Germantown, MD irrigation zones need backflow logs before line replacement.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Germantown, MD, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Germantown, MD.
 
-Field note: Moisture pathway inspection logged near ZIP 20874/20876/20875 intake.
+Basement floor drains in Germantown, MD should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 20874/20876/20875.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 20874, 20876, 20875 (county grid: Montgomery County).
+Cleanout access limits in Germantown, MD frequently extend drain cleaning duration.
+
+Material note: Water heater anode type may change with Germantown, MD hardness profiles.
+
+Dispatch packets reference county grid Montgomery County near ZIP 20876.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Trenchless sleeve pulls near Germantown, MD require pit shoring notes when water tables are high.
+
+Flow dossier 684947: branch wet-vent geometry and jetting nozzle envelope logged for Germantown, MD county grid Montgomery County (ZIP 20876).
+
+Field routing: toilet flange spacer kit paired with slab leak listening window near ZIP 20876.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~492 ft across the Montgomery County area. Coordinates: 39.1800, -77.2600. ZIP sample: 20874, 20876, 20875. Service perimeter note: Coverage extends through Montgomery County with dispatch centered near ZIP 20876.
 
 Service reference: MD-20876-19298173

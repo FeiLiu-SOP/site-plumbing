@@ -12,24 +12,45 @@ lng: -88.3200
 zipSample: ["42071"]
 zipCodes: ["42071"]
 localPaths: ["Calloway County / ZIP 42071 sector", "Calloway County / elevation 545 ft band", "Calloway County / primary ZIP 42071", "Calloway County / coords 36.6100, -88.3200"]
-zillowHomeValueUsd: 179971
 ---
 
-**Engineering Notice for Murray:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Calloway County.
+**Engineering Notice for Murray:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calloway County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless pulls in Murray, KY require pit dimensions verified against utility locate marks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-We coordinate local dispatch coverage around Murray, KY and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 42071.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Murray, KY, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 42071 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 42071 (county grid: Calloway County).
+Material note: Water heater anode type may change with Murray, KY hardness profiles.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 42071.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Murray, KY systems need rebalancing.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Water heater T&P discharge paths in Murray, KY must terminate safely before replacement quotes.
+
+Frost-free sillcock failures in Murray, KY often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 530614: meter-pit clearance and dielectric union checklist staged for Murray, KY near elevation 545 ft.
+
+Drain map 530614: camera-pass priority and expansion-tank pre-charge noted for Murray, KY postal sector 42071.
+
+plumbing brief: slab penetration sleeve seal and sump float travel were cross-checked for the Murray intake packet.
+
+Coordinate-anchored dispatch note: center reference 36.6100, -88.3200 at elevation ~545 ft aligns with Calloway County intake staging.
 
 Service reference: KY-42071-ba6f03bb

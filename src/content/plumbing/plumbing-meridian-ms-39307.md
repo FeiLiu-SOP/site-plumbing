@@ -12,26 +12,43 @@ lng: -88.6900
 zipSample: ["39302", "39307", "39304", "39305", "39301"]
 zipCodes: ["39304", "39303", "39305", "39307", "39302", "39301"]
 localPaths: ["Lauderdale County / ZIP 39304 sector", "Lauderdale County / coords 32.3800, -88.6900", "Lauderdale County / ZIP 39302 sector", "Lauderdale County / ZIP 39301 sector", "Lauderdale County / elevation 420 ft band"]
-zillowHomeValueUsd: 63402
 ---
 
-**Engineering Notice for Meridian:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Lauderdale County.
+**Engineering Notice for Meridian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lauderdale County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Meridian, MS, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 39307.
+Cast-iron hub corrosion in Meridian, MS often concentrates at the third joint upstream of the cleanout.
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 39307.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 39307.
 
-Field note: Wind exposure category reviewed for ZIP sector 39303/39302/39304.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 39303, 39302, 39304, 39305, 39301 (county grid: Lauderdale County).
+Material note: Water heater anode type may change with Meridian, MS hardness profiles.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: log PRV inlet and outlet readings during intake.
+
+We coordinate Meridian, MS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 39307.
+
+Dual-water-meter setups in Meridian, MS irrigation zones need backflow logs before line replacement.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Expansion tank pre-charge loss in Meridian, MS often tracks heater replacement deferrals.
+
+Pressure trace 726453: meter-pit clearance and dielectric union checklist staged for Meridian, MS near elevation 420 ft.
+
+Field routing: gas water heater draft hood gap paired with toilet flange spacer kit near ZIP 39307.
+
+On-site sector marker: Lauderdale County / primary ZIP 39307 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39307-3060f429

@@ -12,26 +12,41 @@ lng: -105.2100
 zipSample: ["80403", "80401", "80419"]
 zipCodes: ["80401", "80403", "80419"]
 localPaths: ["Jefferson County / primary ZIP 80401", "Jefferson County / ZIP 80401 sector", "Jefferson County / ZIP 80419 sector", "Jefferson County / elevation 5797 ft band", "Jefferson County / ZIP 80403 sector"]
-zillowHomeValueUsd: 837760
 ---
 
-**Engineering Notice for Golden:** Structural loading calculated based on 5797 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Golden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Basement floor drains in Golden, CO should be snaked only after trap arm geometry is confirmed on camera.
 
-In Golden, CO, seasonal demand can change scheduling windows.
+Polybutylene manifold tags in Golden, CO basements should be photographed before any wall chase opens.
 
-Tip: address recurring issues early to prevent bigger damage.
+Recirculation pump failures in Golden, CO can mimic fixture-specific clogs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cleanout access limits in Golden, CO frequently extend drain cleaning duration.
 
-Field note: Connection points spot-checked where accessible (ZIP 80419/80401/80403 zone).
+Cast-iron hub corrosion in Golden, CO often concentrates at the third joint upstream of the cleanout.
 
-Field note: Moisture pathway inspection logged near ZIP 80419/80401/80403 intake.
+CPVC solvent weld times shift with ambient humidity during Golden, CO shoulder seasons.
 
-Dispatch sectors sampled: ZIP 80419, 80401, 80403 (county grid: Jefferson County).
+Permit note: Main water line replacement in Golden, CO may require ROW restoration planning.
+
+Risk flag: Seasonal Golden, CO irrigation cross-connections can mask domestic pressure loss.
+
+Material note: Water heater anode type may change with Golden, CO hardness profiles.
+
+Dispatch packets reference county grid Jefferson County near ZIP 80401.
+
+Step: camera-pass main lines in Golden, CO before jetting older clay or cast iron.
+
+Drain map 301874: camera-pass priority and expansion-tank pre-charge noted for Golden, CO postal sector 80401.
+
+Intake ledger 301874: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Golden, CO at 39.7400, -105.2100.
+
+plumbing brief: slab penetration sleeve seal and hose bib freeze flag were cross-checked for the Golden intake packet.
+
+On-site sector marker: Jefferson County / coords 39.7400, -105.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80401-53aca3eb

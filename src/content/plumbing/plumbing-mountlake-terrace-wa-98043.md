@@ -12,26 +12,41 @@ lng: -122.3100
 zipSample: ["98043"]
 zipCodes: ["98043"]
 localPaths: ["Snohomish County / coords 47.7900, -122.3100", "Snohomish County / elevation 495 ft band", "Snohomish County / primary ZIP 98043", "Snohomish County / ZIP 98043 sector"]
-zillowHomeValueUsd: 699208
 ---
 
-**Engineering Notice for Mountlake Terrace:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mountlake Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Mountlake Terrace, WA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mountlake Terrace, WA, but intake notes help reduce delays.
+Stack vent offsets in Mountlake Terrace, WA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dual-water-meter setups in Mountlake Terrace, WA irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 98043 coverage.
+Basement floor drains in Mountlake Terrace, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 98043.
+Polybutylene manifold tags in Mountlake Terrace, WA basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 98043 (county grid: Snohomish County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mountlake Terrace, WA.
+
+Water heater T&P discharge paths in Mountlake Terrace, WA must terminate safely before replacement quotes.
+
+Risk flag: Seasonal Mountlake Terrace, WA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Is hydro-jetting always appropriate? In Mountlake Terrace, WA, pipe material and blockage type dictate method.
+
+Pressure trace 619181: meter-pit clearance and dielectric union checklist staged for Mountlake Terrace, WA near elevation 495 ft.
+
+Flow dossier 619181: branch wet-vent geometry and jetting nozzle envelope logged for Mountlake Terrace, WA county grid Snohomish County (ZIP 98043).
+
+Coordinate-anchored dispatch note: center reference 47.7900, -122.3100 at elevation ~495 ft aligns with Snohomish County intake staging.
 
 Service reference: WA-98043-aeb970a0

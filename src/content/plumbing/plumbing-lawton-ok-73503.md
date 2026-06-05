@@ -12,26 +12,43 @@ lng: -98.4200
 zipSample: ["73505", "73506", "73503", "73507", "73501"]
 zipCodes: ["73505", "73503", "73506", "73507", "73501", "73502"]
 localPaths: ["Comanche County / elevation 1158 ft band", "Comanche County / ZIP 73501 sector", "Comanche County / primary ZIP 73503", "Comanche County / ZIP 73507 sector", "Comanche County / coords 34.6200, -98.4200"]
-zillowHomeValueUsd: 148842
 ---
 
-**Engineering Notice for Lawton:** Structural loading calculated based on 1158 ft terrain assessment. Regional dispatch grid: Comanche County.
+**Engineering Notice for Lawton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Comanche County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-In Lawton, OK, urgent plumbing issues can escalate quickly.
+Dual-water-meter setups in Lawton, OK irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on Lawton, OK coverage windows and verified intake details.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73503/73507/73506.
+We coordinate Lawton, OK plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 73503/73507/73506.
+Risk flag: In Lawton, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 73503, 73507, 73506, 73505, 73501 (county grid: Comanche County).
+Hose bib split patterns in Lawton, OK often follow missed winterization.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Recirculation pump failures in Lawton, OK can mimic fixture-specific clogs.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Permit note: Main water line replacement in Lawton, OK may require ROW restoration planning.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: camera-pass main lines in Lawton, OK before jetting older clay or cast iron.
+
+Intake ledger 499349: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lawton, OK at 34.6200, -98.4200.
+
+Field routing: PEX expansion ring batch paired with dielectric union checklist near ZIP 73503.
+
+On-site sector marker: Comanche County / primary ZIP 73503 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73503-728c19d1

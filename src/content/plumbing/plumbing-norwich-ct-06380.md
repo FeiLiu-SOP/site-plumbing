@@ -12,26 +12,41 @@ lng: -72.0900
 zipSample: ["06360", "06380", "06389"]
 zipCodes: ["06389", "06360", "06380"]
 localPaths: ["Southeastern Connecticut County / ZIP 06380 sector", "Southeastern Connecticut County / coords 41.5500, -72.0900", "Southeastern Connecticut County / ZIP 06389 sector", "Southeastern Connecticut County / primary ZIP 06380", "Southeastern Connecticut County / ZIP 06360 sector"]
-zillowHomeValueUsd: 281993
 ---
 
-**Engineering Notice for Norwich:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for Norwich:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Norwich, CT, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Norwich, CT, before spring thaw and hurricane remnants.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Wind exposure category reviewed for ZIP sector 06380/06360/06389.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Access points and staging constraints recorded for ZIP 06380/06360/06389 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 06380, 06360, 06389 (county grid: Southeastern Connecticut County).
+Water heater T&P discharge paths in Norwich, CT must terminate safely before replacement quotes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Basement floor drains in Norwich, CT should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: Is hydro-jetting always appropriate? In Norwich, CT, pipe material and blockage type dictate method.
+
+Stack vent offsets in Norwich, CT older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Intake ledger 552197: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norwich, CT at 41.5500, -72.0900.
+
+Field routing: sewer cleanout cap thread paired with branch wet vent geometry near ZIP 06380.
+
+On-site sector marker: Southeastern Connecticut County / elevation 141 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06380-7667489e

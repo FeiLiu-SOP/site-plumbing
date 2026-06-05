@@ -12,26 +12,41 @@ lng: -122.3000
 zipSample: ["98198", "98131", "98168", "98158", "98188"]
 zipCodes: ["98168", "98158", "98198", "98131", "98148", "98188"]
 localPaths: ["King County / coords 47.4400, -122.3000", "King County / ZIP 98198 sector", "King County / ZIP 98158 sector", "King County / elevation 377 ft band", "King County / ZIP 98188 sector"]
-zillowHomeValueUsd: 587740
 ---
 
-**Engineering Notice for SeaTac:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for SeaTac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: confirm licensing and insurance before approving work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is cabling enough? In SeaTac, WA, pipe material and blockage type dictate method.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 98148/98198/98188.
+Step: map sump float travel and check-valve orientation for SeaTac, WA basements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98148/98198/98188.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 98148, 98198, 98188, 98158, 98131 (county grid: King County).
+CPVC solvent weld times shift with ambient humidity during SeaTac, WA shoulder seasons.
+
+Irrigation cross-connections in SeaTac, WA can back-siphon domestic lines during main breaks.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: Water heater anode type may change with SeaTac, WA hardness profiles.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 840852: recirculation pump amp draw captured before SeaTac, WA branch isolation.
+
+Regional mesh label King County: moisture and logistics baselines are keyed to SeaTac, WA before niche-specific work begins.
 
 Service reference: WA-98158-a4198f6f

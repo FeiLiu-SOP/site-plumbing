@@ -12,26 +12,39 @@ lng: -80.3900
 zipSample: ["29150", "29152", "29153", "29154", "29151"]
 zipCodes: ["29151", "29150", "29154", "29152", "29153"]
 localPaths: ["Sumter County / ZIP 29152 sector", "Sumter County / ZIP 29151 sector", "Sumter County / ZIP 29150 sector", "Sumter County / coords 33.9400, -80.3900", "Sumter County / primary ZIP 29154"]
-zillowHomeValueUsd: 235494
 ---
 
-**Engineering Notice for Sumter:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Sumter County.
+**Engineering Notice for Sumter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumter County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hydrostatic holds in Sumter, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Sumter, SC.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Sumter, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-In Sumter, SC, seasonal demand can change scheduling windows.
+Cast-iron hub corrosion in Sumter, SC often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Sumter, SC shoulder seasons.
 
-Field note: Connection points spot-checked where accessible (ZIP 29152/29153/29154 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Access points and staging constraints recorded for ZIP 29152/29153/29154 coverage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 29152, 29153, 29154, 29150, 29151 (county grid: Sumter County).
+Expansion tank pre-charge loss in Sumter, SC often tracks heater replacement deferrals.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Water heater anode type may change with Sumter, SC hardness profiles.
+
+Pressure trace 401459: meter-pit clearance and dielectric union checklist staged for Sumter, SC near elevation 184 ft.
+
+Scope trace: slab leak listening window plus water softener bypass lever referenced in Sumter County county grid review.
+
+On-site sector marker: Sumter County / ZIP 29152 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29154-597c0cb3

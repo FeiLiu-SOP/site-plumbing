@@ -12,24 +12,37 @@ lng: -93.4600
 zipSample: ["55345", "55305", "55343", "55391"]
 zipCodes: ["55391", "55305", "55343", "55345"]
 localPaths: ["Hennepin County / coords 44.9300, -93.4600", "Hennepin County / ZIP 55345 sector", "Hennepin County / elevation 991 ft band", "Hennepin County / primary ZIP 55345", "Hennepin County / ZIP 55305 sector"]
-zillowHomeValueUsd: 534585
 ---
 
-**Engineering Notice for Minnetonka:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Minnetonka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-Tip: request a written scope before work starts.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Minnetonka, MN often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map sump float travel and check-valve orientation for Minnetonka, MN basements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Minnetonka, MN, but intake notes help reduce delays.
+Material note: Water heater anode type may change with Minnetonka, MN hardness profiles.
 
-Field note: Wind exposure category reviewed for ZIP sector 55305/55345/55391.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 55305, 55345, 55391, 55343 (county grid: Hennepin County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Risk flag: In Minnetonka, MN, slab leaks can misroute as foundation issues without listening equipment.
+
+We coordinate Minnetonka, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Step: camera-pass main lines in Minnetonka, MN before jetting older clay or cast iron.
+
+FAQ: When should sump battery backups be load-tested? In Minnetonka, MN, before spring thaw and hurricane remnants.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 236040: recirculation pump amp draw captured before Minnetonka, MN branch isolation.
+
+Regional mesh label Hennepin County: moisture and logistics baselines are keyed to Minnetonka, MN before niche-specific work begins.
 
 Service reference: MN-55345-fec38c9d

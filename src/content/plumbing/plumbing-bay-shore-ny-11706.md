@@ -12,24 +12,37 @@ lng: -73.2500
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / coords 40.7300, -73.2500", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 30 ft band"]
-zillowHomeValueUsd: 620295
 ---
 
-**Engineering Notice for Bay Shore:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Bay Shore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cast-iron hub corrosion in Bay Shore, NY often concentrates at the third joint upstream of the cleanout.
 
-We coordinate local dispatch coverage around Bay Shore, NY and nearby ZIP sectors.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 11706.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Bay Shore, NY, before spring thaw and hurricane remnants.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11706.
+In Bay Shore, NY, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 11706 (county grid: Suffolk County).
+Risk flag: In Bay Shore, NY, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Seasonal Bay Shore, NY irrigation cross-connections can mask domestic pressure loss.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Supply audit 123900: curb-stop orientation and hose-bib freeze flag reviewed for Bay Shore, NY at coords 40.7300/-73.2500.
+
+Primary postal anchor 11706 with multi-ZIP overlap in Bay Shore; field packets tag Suffolk County for county-grid reconciliation.
 
 Service reference: NY-11706-1b6b9b44

@@ -12,24 +12,43 @@ lng: -122.5900
 zipSample: ["97045"]
 zipCodes: ["97045"]
 localPaths: ["Clackamas County / primary ZIP 97045", "Clackamas County / ZIP 97045 sector", "Clackamas County / elevation 469 ft band", "Clackamas County / coords 45.3400, -122.5900"]
-zillowHomeValueUsd: 602854
 ---
 
-**Engineering Notice for Oregon City:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Oregon City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
 
 
-In Oregon City, OR, urgent plumbing issues can escalate quickly.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+CPVC solvent weld times shift with ambient humidity during Oregon City, OR shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Permit note: Main water line replacement in Oregon City, OR may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 97045.
+Material note: Water heater anode type may change with Oregon City, OR hardness profiles.
 
-Dispatch sectors sampled: ZIP 97045 (county grid: Clackamas County).
+Fixture shutoff stiffness in Oregon City, OR may indicate mineral bridging behind stems.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Dispatch packets reference county grid Clackamas County near ZIP 97045.
+
+Trenchless sleeve pulls near Oregon City, OR require pit shoring notes when water tables are high.
+
+Hydrostatic holds in Oregon City, OR slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Supply audit 133924: curb-stop orientation and hose-bib freeze flag reviewed for Oregon City, OR at coords 45.3400/-122.5900.
+
+Field routing: toilet flange spacer kit paired with fixture shutoff torque log near ZIP 97045.
+
+ZIP-corridor snapshot for Oregon City, OR: sampled sectors include 97045; county routing grid remains Clackamas County.
 
 Service reference: OR-97045-3ff386d2

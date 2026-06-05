@@ -12,26 +12,41 @@ lng: -75.2300
 zipSample: ["13505", "13502", "13501", "13504", "13599"]
 zipCodes: ["13504", "13505", "13599", "13501", "13502", "13503"]
 localPaths: ["Oneida County / primary ZIP 13501", "Oneida County / ZIP 13599 sector", "Oneida County / coords 43.1000, -75.2300", "Oneida County / ZIP 13504 sector", "Oneida County / ZIP 13502 sector"]
-zillowHomeValueUsd: 204823
 ---
 
-**Engineering Notice for Utica:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Oneida County.
+**Engineering Notice for Utica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oneida County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Utica, NY, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate local dispatch coverage around Utica, NY and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-A written scope helps prevent rework and mismatched expectations.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: avoid large upfront payments without milestones.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Moisture pathway inspection logged near ZIP 13503/13505/13502 intake.
+Polybutylene manifold tags in Utica, NY basements should be photographed before any wall chase opens.
 
-Field note: Access points and staging constraints recorded for ZIP 13503/13505/13502 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 13503, 13505, 13502, 13501, 13599 (county grid: Oneida County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Utica, NY systems need rebalancing.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Sump discharge freeze risk in Utica, NY should be reviewed before spring thaw cycles.
+
+Galvanized segments in Utica, NY may restrict flow long before visible corrosion.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 196144: meter-pit clearance and dielectric union checklist staged for Utica, NY near elevation 502 ft.
+
+Scope trace: thermal expansion loop check plus floor drain trap primer drip referenced in Oneida County county grid review.
+
+Coordinate-anchored dispatch note: center reference 43.1000, -75.2300 at elevation ~502 ft aligns with Oneida County intake staging.
 
 Service reference: NY-13501-8be84ac8

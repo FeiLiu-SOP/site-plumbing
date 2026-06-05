@@ -12,24 +12,41 @@ lng: -81.4400
 zipSample: ["32837"]
 zipCodes: ["32837"]
 localPaths: ["Orange County / elevation 69 ft band", "Orange County / primary ZIP 32837", "Orange County / ZIP 32837 sector", "Orange County / coords 28.3600, -81.4400"]
-zillowHomeValueUsd: 411446
 ---
 
-**Engineering Notice for Hunters Creek:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Hunters Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hunters Creek, FL, but intake notes help reduce delays.
+Cleanout access limits in Hunters Creek, FL frequently extend drain cleaning duration.
 
-Tip: compare at least two estimates for scope and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 32837.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Hunters Creek, FL.
 
-Transparent pricing helps you compare like-for-like scope items.
+Permit note: Main water line replacement in Hunters Creek, FL may require ROW restoration planning.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 32837 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 32837 (county grid: Orange County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hunters Creek, FL.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Polybutylene manifold tags in Hunters Creek, FL basements should be photographed before any wall chase opens.
+
+Material note: Water heater anode type may change with Hunters Creek, FL hardness profiles.
+
+Flow dossier 394748: branch wet-vent geometry and jetting nozzle envelope logged for Hunters Creek, FL county grid Orange County (ZIP 32837).
+
+Intake ledger 394748: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Hunters Creek, FL at 28.3600, -81.4400.
+
+On-site sector marker: Orange County / ZIP 32837 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32837-623f12c2

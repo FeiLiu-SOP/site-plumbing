@@ -12,26 +12,41 @@ lng: -88.7500
 zipSample: ["60115"]
 zipCodes: ["60115"]
 localPaths: ["DeKalb County / ZIP 60115 sector", "DeKalb County / elevation 889 ft band", "DeKalb County / coords 41.9300, -88.7500", "DeKalb County / primary ZIP 60115"]
-zillowHomeValueUsd: 252752
 ---
 
-**Engineering Notice for DeKalb:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for DeKalb:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-A written scope helps prevent rework and mismatched expectations.
+In DeKalb, IL, slab leaks often present as warm spots before wall stains appear.
 
-We coordinate local dispatch coverage around DeKalb, IL and nearby ZIP sectors.
+Sump discharge freeze risk in DeKalb, IL should be reviewed before spring thaw cycles.
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in DeKalb, IL, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during DeKalb, IL shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 60115 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 60115.
 
-Field note: Moisture pathway inspection logged near ZIP 60115 intake.
+Expansion tank pre-charge loss in DeKalb, IL often tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 60115 (county grid: DeKalb County).
+Material note: Water heater anode type may change with DeKalb, IL hardness profiles.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Water heater T&P discharge paths in DeKalb, IL must terminate safely before replacement quotes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Drain map 387454: camera-pass priority and expansion-tank pre-charge noted for DeKalb, IL postal sector 60115.
+
+Intake ledger 387454: sump amperage, PRV seat wear, and cleanout riser height cross-checked for DeKalb, IL at 41.9300, -88.7500.
+
+plumbing brief: shower cartridge seat score and PEX expansion ring batch were cross-checked for the DeKalb intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with DeKalb County and primary ZIP 60115. Terrain reference: 889 ft. Center point: 41.9300, -88.7500. ZIP sample: 60115. Regional routing note: DeKalb County traffic flow is balanced around ZIP 60115 service demand.
 
 Service reference: IL-60115-908bc0d5

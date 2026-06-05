@@ -12,27 +12,43 @@ lng: -155.0900
 zipSample: ["96720"]
 zipCodes: ["96720"]
 localPaths: ["Hawaii County / elevation 374 ft band", "Hawaii County / coords 19.6900, -155.0900", "Hawaii County / primary ZIP 96720", "Hawaii County / ZIP 96720 sector"]
-zillowHomeValueUsd: 542552
 ---
 
-**Engineering Notice for Hilo:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Hawaii County.
+**Engineering Notice for Hilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hawaii County.
 
 
-We coordinate local dispatch coverage around Hilo, HI and nearby ZIP sectors.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 96720.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hilo, HI, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 96720.
+Irrigation cross-connections in Hilo, HI can back-siphon domestic lines during main breaks.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is hydro-jetting always appropriate? In Hilo, HI, pipe material and blockage type dictate method.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Hilo, HI require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96720.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 96720 zone).
+Dual-water-meter setups in Hilo, HI irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 96720 (county grid: Hawaii County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Basement floor drains in Hilo, HI should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Fixture shutoff stiffness in Hilo, HI may indicate mineral bridging behind stems.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hard water in Hilo, HI accelerates scale on PRV seats and heater elements.
+
+Drain map 704665: camera-pass priority and expansion-tank pre-charge noted for Hilo, HI postal sector 96720.
+
+Supply audit 704665: curb-stop orientation and hose-bib freeze flag reviewed for Hilo, HI at coords 19.6900/-155.0900.
+
+Field routing: cleanout riser height paired with water softener bypass lever near ZIP 96720.
+
+On-site sector marker: Hawaii County / coords 19.6900, -155.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96720-cebbe985

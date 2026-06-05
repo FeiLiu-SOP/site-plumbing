@@ -12,24 +12,45 @@ lng: -122.1200
 zipSample: ["98073", "98052"]
 zipCodes: ["98052", "98073"]
 localPaths: ["King County / primary ZIP 98052", "King County / ZIP 98073 sector", "King County / ZIP 98052 sector", "King County / coords 47.6800, -122.1200", "King County / elevation 59 ft band"]
-zillowHomeValueUsd: 1364874
 ---
 
-**Engineering Notice for Redmond:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Trenchless pulls in Redmond, WA require pit dimensions verified against utility locate marks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our service coordination centers on Redmond, WA coverage windows and verified intake details.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Redmond, WA shoulder seasons.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98073/98052.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 98073, 98052 (county grid: King County).
+Frost-free sillcock failures in Redmond, WA often trace to interior shutoff seats, not exterior stems.
+
+Sump discharge freeze risk in Redmond, WA should be reviewed before spring thaw cycles.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Recirculation pump failures in Redmond, WA can mimic fixture-specific clogs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Intake ledger 577428: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Redmond, WA at 47.6800, -122.1200.
+
+Fixture roster 577428: toilet flange spacer kit and shower cartridge seat score queued for Redmond, WA walk-through.
+
+Field routing: backflow test cock orientation paired with jetter nozzle envelope near ZIP 98052.
+
+Regional mesh label King County: moisture and logistics baselines are keyed to Redmond, WA before niche-specific work begins.
 
 Service reference: WA-98052-75930115

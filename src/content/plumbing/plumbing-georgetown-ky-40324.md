@@ -12,24 +12,39 @@ lng: -84.5500
 zipSample: ["40324"]
 zipCodes: ["40324"]
 localPaths: ["Scott County / ZIP 40324 sector", "Scott County / primary ZIP 40324", "Scott County / elevation 827 ft band", "Scott County / coords 38.2200, -84.5500"]
-zillowHomeValueUsd: 336301
 ---
 
-**Engineering Notice for Georgetown:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Georgetown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Georgetown, KY.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Georgetown, KY should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Georgetown, KY coverage windows and verified intake details.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Georgetown, KY, before spring thaw and hurricane remnants.
 
-Structured milestones protect both sides when scheduling work.
+Stack vent offsets in Georgetown, KY older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 40324.
+Cast-iron hub corrosion in Georgetown, KY often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 40324 (county grid: Scott County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 40324.
+
+Fixture roster 254079: toilet flange spacer kit and shower cartridge seat score queued for Georgetown, KY walk-through.
+
+plumbing brief: jetter nozzle envelope and shower cartridge seat score were cross-checked for the Georgetown intake packet.
+
+Coordinate-anchored dispatch note: center reference 38.2200, -84.5500 at elevation ~827 ft aligns with Scott County intake staging.
 
 Service reference: KY-40324-927d4633

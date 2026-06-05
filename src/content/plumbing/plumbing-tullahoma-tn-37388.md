@@ -12,24 +12,39 @@ lng: -86.2200
 zipSample: ["37388"]
 zipCodes: ["37388"]
 localPaths: ["Coffee County / ZIP 37388 sector", "Coffee County / primary ZIP 37388", "Coffee County / elevation 1060 ft band", "Coffee County / coords 35.3700, -86.2200"]
-zillowHomeValueUsd: 295814
 ---
 
-**Engineering Notice for Tullahoma:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Coffee County.
+**Engineering Notice for Tullahoma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coffee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Basement floor drains in Tullahoma, TN should be snaked only after trap arm geometry is confirmed on camera.
 
-A written scope helps prevent rework and mismatched expectations.
+In Tullahoma, TN, slab leaks often present as warm spots before wall stains appear.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Water heater anode type may change with Tullahoma, TN hardness profiles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Tullahoma, TN slab circuits run overnight when listening mics show ambiguous hits.
 
-Our service coordination centers on Tullahoma, TN coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 37388 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 37388.
 
-Dispatch sectors sampled: ZIP 37388 (county grid: Coffee County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When should sump battery backups be load-tested? In Tullahoma, TN, before spring thaw and hurricane remnants.
+
+Lineage note 251571: recirculation pump amp draw captured before Tullahoma, TN branch isolation.
+
+Drain map 251571: camera-pass priority and expansion-tank pre-charge noted for Tullahoma, TN postal sector 37388.
+
+On-site sector marker: Coffee County / coords 35.3700, -86.2200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37388-fa07a949

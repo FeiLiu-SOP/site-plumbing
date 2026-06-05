@@ -12,24 +12,43 @@ lng: -88.0400
 zipSample: ["60074", "60055", "60067", "60095"]
 zipCodes: ["60095", "60074", "60067", "60055"]
 localPaths: ["Cook County / ZIP 60055 sector", "Cook County / ZIP 60074 sector", "Cook County / ZIP 60067 sector", "Cook County / elevation 768 ft band", "Cook County / coords 42.1200, -88.0400"]
-zillowHomeValueUsd: 301834
 ---
 
-**Engineering Notice for Palatine:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Palatine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Palatine, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Local conditions in Palatine, IL can affect timelines and material choices.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dual-water-meter setups in Palatine, IL irrigation zones need backflow logs before line replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60095/60074/60055.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 60095, 60074, 60055, 60067 (county grid: Cook County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Trenchless pulls in Palatine, IL require pit dimensions verified against utility locate marks.
+
+Hydrostatic holds in Palatine, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Stack vent offsets in Palatine, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Drain map 325152: camera-pass priority and expansion-tank pre-charge noted for Palatine, IL postal sector 60074.
+
+Intake ledger 325152: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Palatine, IL at 42.1200, -88.0400.
+
+On-site sector marker: Cook County / ZIP 60095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60074-7a33018c

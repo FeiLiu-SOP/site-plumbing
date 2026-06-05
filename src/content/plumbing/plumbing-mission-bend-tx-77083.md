@@ -12,25 +12,39 @@ lng: -95.6700
 zipSample: ["77083"]
 zipCodes: ["77083"]
 localPaths: ["Fort Bend County / coords 29.6900, -95.6700", "Fort Bend County / primary ZIP 77083", "Fort Bend County / ZIP 77083 sector", "Fort Bend County / elevation 98 ft band"]
-zillowHomeValueUsd: 262916
 ---
 
-**Engineering Notice for Mission Bend:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Fort Bend County.
+**Engineering Notice for Mission Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-In Mission Bend, TX, urgent plumbing issues can escalate quickly.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Mission Bend, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77083.
+Hydro-jetting in Mission Bend, TX requires camera confirmation before nozzle pressure is raised.
 
-Our service coordination centers on Mission Bend, TX coverage windows and verified intake details.
+In Mission Bend, TX, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Wind exposure category reviewed for ZIP sector 77083.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 77083 (county grid: Fort Bend County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Seasonal Mission Bend, TX irrigation cross-connections can mask domestic pressure loss.
+
+Dual-water-meter setups in Mission Bend, TX irrigation zones need backflow logs before line replacement.
+
+Expansion tank pre-charge loss in Mission Bend, TX often tracks heater replacement deferrals.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 789737: curb-stop orientation and hose-bib freeze flag reviewed for Mission Bend, TX at coords 29.6900/-95.6700.
+
+On-site sector marker: Fort Bend County / ZIP 77083 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77083-b16045ad

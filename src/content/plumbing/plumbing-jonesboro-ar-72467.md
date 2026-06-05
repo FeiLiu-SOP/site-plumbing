@@ -12,27 +12,41 @@ lng: -90.6800
 zipSample: ["72467", "72402", "72405", "72401", "72403"]
 zipCodes: ["72402", "72403", "72404", "72405", "72467", "72401"]
 localPaths: ["Craighead County / primary ZIP 72467", "Craighead County / ZIP 72402 sector", "Craighead County / ZIP 72403 sector", "Craighead County / ZIP 72467 sector", "Craighead County / ZIP 72401 sector"]
-zillowHomeValueUsd: 184543
 ---
 
-**Engineering Notice for Jonesboro:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Craighead County.
+**Engineering Notice for Jonesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Craighead County.
 
 
-Our service coordination centers on Jonesboro, AR coverage windows and verified intake details.
+Cast-iron hub corrosion in Jonesboro, AR often concentrates at the third joint upstream of the cleanout.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Jonesboro, AR, but intake notes help reduce delays.
+Polybutylene manifold tags in Jonesboro, AR basements should be photographed before any wall chase opens.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 72467.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-In Jonesboro, AR, seasonal demand can change scheduling windows.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 72403/72404/72467 coverage.
+Risk flag: In Jonesboro, AR, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 72403/72404/72467.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Jonesboro, AR.
 
-Dispatch sectors sampled: ZIP 72403, 72404, 72467, 72401, 72402 (county grid: Craighead County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Material note: Water heater anode type may change with Jonesboro, AR hardness profiles.
+
+Frost-free sillcock failures in Jonesboro, AR often trace to interior shutoff seats, not exterior stems.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 935942: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Jonesboro, AR at 35.8200, -90.6800.
+
+Fixture roster 935942: toilet flange spacer kit and shower cartridge seat score queued for Jonesboro, AR walk-through.
+
+plumbing brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the Jonesboro intake packet.
+
+Primary postal anchor 72467 with multi-ZIP overlap in Jonesboro; field packets tag Craighead County for county-grid reconciliation.
 
 Service reference: AR-72467-bd226b87

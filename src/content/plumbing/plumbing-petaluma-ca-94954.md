@@ -12,24 +12,39 @@ lng: -122.6300
 zipSample: ["94952", "94954", "94953"]
 zipCodes: ["94952", "94953", "94954"]
 localPaths: ["Sonoma County / coords 38.2400, -122.6300", "Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94954 sector", "Sonoma County / ZIP 94953 sector"]
-zillowHomeValueUsd: 836254
 ---
 
-**Engineering Notice for Petaluma:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Petaluma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.
 
 
-In Petaluma, CA, urgent plumbing issues can escalate quickly.
+Recirculation pump failures in Petaluma, CA can mimic fixture-specific clogs.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Petaluma, CA and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near Petaluma, CA require pit shoring notes when water tables are high.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Petaluma, CA, but intake notes help reduce delays.
+Cast-iron hub corrosion in Petaluma, CA often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94953/94952/94954.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 94953, 94952, 94954 (county grid: Sonoma County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 94954.
+
+Galvanized segments in Petaluma, CA may restrict flow long before visible corrosion.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: In Petaluma, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: Water heater anode type may change with Petaluma, CA hardness profiles.
+
+Fixture roster 119675: toilet flange spacer kit and shower cartridge seat score queued for Petaluma, CA walk-through.
+
+Scope trace: dielectric union checklist plus backflow test cock orientation referenced in Sonoma County county grid review.
+
+Coordinate-anchored dispatch note: center reference 38.2400, -122.6300 at elevation ~13 ft aligns with Sonoma County intake staging.
 
 Service reference: CA-94954-ed8c5ed1

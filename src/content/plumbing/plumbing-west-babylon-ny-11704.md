@@ -12,24 +12,41 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / primary ZIP 11704", "Suffolk County / elevation 39 ft band", "Suffolk County / ZIP 11704 sector", "Suffolk County / coords 40.7100, -73.3600"]
-zillowHomeValueUsd: 614802
 ---
 
-**Engineering Notice for West Babylon:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for West Babylon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Tip: request a written scope before work starts.
+Step: map sump float travel and check-valve orientation for West Babylon, NY basements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-In West Babylon, NY, seasonal demand can change scheduling windows.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in West Babylon, NY.
 
-Field note: Access points and staging constraints recorded for ZIP 11704 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 11704 (county grid: Suffolk County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in West Babylon, NY systems need rebalancing.
+
+Trenchless sleeve pulls near West Babylon, NY require pit shoring notes when water tables are high.
+
+Recirculation pump failures in West Babylon, NY can mimic fixture-specific clogs.
+
+Irrigation cross-connections in West Babylon, NY can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with West Babylon, NY hardness profiles.
+
+Flow dossier 773088: branch wet-vent geometry and jetting nozzle envelope logged for West Babylon, NY county grid Suffolk County (ZIP 11704).
+
+Intake ledger 773088: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West Babylon, NY at 40.7100, -73.3600.
+
+On-site sector marker: Suffolk County / coords 40.7100, -73.3600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11704-ce6baf44

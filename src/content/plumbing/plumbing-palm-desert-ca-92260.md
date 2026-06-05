@@ -12,25 +12,41 @@ lng: -116.3700
 zipSample: ["92255", "92211", "92260"]
 zipCodes: ["92255", "92260", "92211"]
 localPaths: ["Riverside County / elevation 154 ft band", "Riverside County / ZIP 92211 sector", "Riverside County / coords 33.7400, -116.3700", "Riverside County / ZIP 92255 sector", "Riverside County / ZIP 92260 sector"]
-zillowHomeValueUsd: 589946
 ---
 
-**Engineering Notice for Palm Desert:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Palm Desert:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Palm Desert, CA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palm Desert, CA, but intake notes help reduce delays.
+Stack vent offsets in Palm Desert, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92260.
+Step: document dielectric unions before mixed-metal replacements.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Palm Desert, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in Palm Desert, CA require pit dimensions verified against utility locate marks.
 
-Field note: Connection points spot-checked where accessible (ZIP 92260/92255/92211 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 92260, 92255, 92211 (county grid: Riverside County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Branch wet vents in Palm Desert, CA can mask gurgling as a main-line issue.
+
+We coordinate Palm Desert, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 92260.
+
+Fixture roster 298756: toilet flange spacer kit and shower cartridge seat score queued for Palm Desert, CA walk-through.
+
+Supply audit 298756: curb-stop orientation and hose-bib freeze flag reviewed for Palm Desert, CA at coords 33.7400/-116.3700.
+
+Scope trace: dielectric union checklist plus recirculation pump amp draw referenced in Riverside County county grid review.
+
+On-site sector marker: Riverside County / elevation 154 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92260-c5d2bf41

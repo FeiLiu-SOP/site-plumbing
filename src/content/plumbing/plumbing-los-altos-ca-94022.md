@@ -12,25 +12,39 @@ lng: -122.1000
 zipSample: ["94023", "94024", "94022"]
 zipCodes: ["94022", "94023", "94024"]
 localPaths: ["Santa Clara County / ZIP 94022 sector", "Santa Clara County / ZIP 94024 sector", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / elevation 174 ft band", "Santa Clara County / coords 37.3700, -122.1000"]
-zillowHomeValueUsd: 5191299
 ---
 
-**Engineering Notice for Los Altos:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Los Altos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Los Altos, CA, but intake notes help reduce delays.
+FAQ: When is cabling enough? In Los Altos, CA, pipe material and blockage type dictate method.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Los Altos, CA, slab leaks often present as warm spots before wall stains appear.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map sump float travel and check-valve orientation for Los Altos, CA basements.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 94022.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 94023/94022/94024 coverage.
+Trenchless pulls in Los Altos, CA require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 94023, 94022, 94024 (county grid: Santa Clara County).
+Frost-free sillcock failures in Los Altos, CA often trace to interior shutoff seats, not exterior stems.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: camera-pass main lines in Los Altos, CA before jetting older clay or cast iron.
+
+Polybutylene manifold tags in Los Altos, CA basements should be photographed before any wall chase opens.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Expansion tank pre-charge loss in Los Altos, CA often tracks heater replacement deferrals.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 94022.
+
+Fixture roster 223767: toilet flange spacer kit and shower cartridge seat score queued for Los Altos, CA walk-through.
+
+On-site sector marker: Santa Clara County / ZIP 94022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94022-8066e98f

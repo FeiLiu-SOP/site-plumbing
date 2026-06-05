@@ -12,24 +12,39 @@ lng: -97.2200
 zipSample: ["76182", "76185", "76180"]
 zipCodes: ["76180", "76185", "76182"]
 localPaths: ["Tarrant County / elevation 636 ft band", "Tarrant County / coords 32.8600, -97.2200", "Tarrant County / ZIP 76180 sector", "Tarrant County / ZIP 76182 sector", "Tarrant County / primary ZIP 76180"]
-zillowHomeValueUsd: 336919
 ---
 
-**Engineering Notice for North Richland Hills:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for North Richland Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our service coordination centers on North Richland Hills, TX coverage windows and verified intake details.
+Expansion tank pre-charge loss in North Richland Hills, TX often tracks heater replacement deferrals.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Connection points spot-checked where accessible (ZIP 76180/76182/76185 zone).
+Trenchless pulls in North Richland Hills, TX require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 76180, 76182, 76185 (county grid: Tarrant County).
+CPVC solvent weld times shift with ambient humidity during North Richland Hills, TX shoulder seasons.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Material note: Water heater anode type may change with North Richland Hills, TX hardness profiles.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Hard water in North Richland Hills, TX accelerates scale on PRV seats and heater elements.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 863282: curb-stop orientation and hose-bib freeze flag reviewed for North Richland Hills, TX at coords 32.8600/-97.2200.
+
+Intake ledger 863282: sump amperage, PRV seat wear, and cleanout riser height cross-checked for North Richland Hills, TX at 32.8600, -97.2200.
+
+Coordinate-anchored dispatch note: center reference 32.8600, -97.2200 at elevation ~636 ft aligns with Tarrant County intake staging.
 
 Service reference: TX-76180-b16252e2

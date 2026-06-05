@@ -12,27 +12,39 @@ lng: -78.7100
 zipSample: ["29568", "29597", "29566", "29582"]
 zipCodes: ["29582", "29568", "29597", "29566"]
 localPaths: ["Horry County / coords 33.8200, -78.7100", "Horry County / elevation 7 ft band", "Horry County / ZIP 29597 sector", "Horry County / ZIP 29566 sector", "Horry County / ZIP 29582 sector"]
-zillowHomeValueUsd: 393247
 ---
 
-**Engineering Notice for North Myrtle Beach:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Horry County.
+**Engineering Notice for North Myrtle Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.
 
 
-Homeowners in North Myrtle Beach, SC often face sudden plumbing problems that require fast action.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in North Myrtle Beach, SC systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Myrtle Beach, SC, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate local dispatch coverage around North Myrtle Beach, SC and nearby ZIP sectors.
+Irrigation cross-connections in North Myrtle Beach, SC can back-siphon domestic lines during main breaks.
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 29582.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 29568/29582/29566 coverage.
+Hydrostatic holds in North Myrtle Beach, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29568/29582/29566.
+Basement floor drains in North Myrtle Beach, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 29568, 29582, 29566, 29597 (county grid: Horry County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: Seasonal North Myrtle Beach, SC irrigation cross-connections can mask domestic pressure loss.
+
+Frost-free sillcock failures in North Myrtle Beach, SC often trace to interior shutoff seats, not exterior stems.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in North Myrtle Beach, SC.
+
+FAQ: When is cabling enough? In North Myrtle Beach, SC, pipe material and blockage type dictate method.
+
+Risk flag: In North Myrtle Beach, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Lineage note 434287: recirculation pump amp draw captured before North Myrtle Beach, SC branch isolation.
+
+On-site sector marker: Horry County / ZIP 29597 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29582-752fdf0b

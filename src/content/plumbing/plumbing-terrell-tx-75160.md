@@ -12,26 +12,43 @@ lng: -96.2900
 zipSample: ["75161", "75160"]
 zipCodes: ["75161", "75160"]
 localPaths: ["Kaufman County / ZIP 75161 sector", "Kaufman County / elevation 528 ft band", "Kaufman County / ZIP 75160 sector", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / primary ZIP 75160"]
-zillowHomeValueUsd: 261869
 ---
 
-**Engineering Notice for Terrell:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Kaufman County.
+**Engineering Notice for Terrell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kaufman County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Terrell, TX systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Terrell, TX, but intake notes help reduce delays.
+Tip: Save water heater serial plates for warranty traceability.
 
-Clear documentation helps align materials, labor, and timeline.
+Dual-water-meter setups in Terrell, TX irrigation zones need backflow logs before line replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 75161/75160 zone).
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 75161/75160 intake.
+Across Terrell, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 75161, 75160 (county grid: Kaufman County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless sleeve pulls near Terrell, TX require pit shoring notes when water tables are high.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cast-iron hub corrosion in Terrell, TX often concentrates at the third joint upstream of the cleanout.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Seasonal Terrell, TX irrigation cross-connections can mask domestic pressure loss.
+
+Drain map 550422: camera-pass priority and expansion-tank pre-charge noted for Terrell, TX postal sector 75160.
+
+Scope trace: scale coupon sampling plus toilet flange spacer kit referenced in Kaufman County county grid review.
+
+On-site sector marker: Kaufman County / coords 32.7300, -96.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75160-d219f79c

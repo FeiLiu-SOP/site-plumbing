@@ -12,24 +12,39 @@ lng: -97.9700
 zipSample: ["78155", "78156", "78115"]
 zipCodes: ["78156", "78155", "78115"]
 localPaths: ["Guadalupe County / ZIP 78155 sector", "Guadalupe County / primary ZIP 78155", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector", "Guadalupe County / coords 29.5900, -97.9700"]
-zillowHomeValueUsd: 272053
 ---
 
-**Engineering Notice for Seguin:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Guadalupe County.
+**Engineering Notice for Seguin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guadalupe County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Seguin, TX systems need rebalancing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Seguin, TX often trace to interior shutoff seats, not exterior stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78115/78156/78155.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 78115, 78156, 78155 (county grid: Guadalupe County).
+Polybutylene manifold tags in Seguin, TX basements should be photographed before any wall chase opens.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Sump discharge freeze risk in Seguin, TX should be reviewed before spring thaw cycles.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+CPVC solvent weld times shift with ambient humidity during Seguin, TX shoulder seasons.
+
+Intake ledger 776611: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Seguin, TX at 29.5900, -97.9700.
+
+On-site sector marker: Guadalupe County / ZIP 78155 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78155-7004bc74

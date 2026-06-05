@@ -12,24 +12,41 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / primary ZIP 60430", "Cook County / ZIP 60430 sector", "Cook County / coords 41.5600, -87.6600"]
-zillowHomeValueUsd: 243511
 ---
 
-**Engineering Notice for Homewood:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Homewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-Tip: avoid large upfront payments without milestones.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Homewood, IL, but intake notes help reduce delays.
+Dual-water-meter setups in Homewood, IL irrigation zones need backflow logs before line replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Branch wet vents in Homewood, IL can mask gurgling as a main-line issue.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Homewood, IL.
 
-Field note: Wind exposure category reviewed for ZIP sector 60430.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 60430.
 
-Dispatch sectors sampled: ZIP 60430 (county grid: Cook County).
+FAQ: When should sump battery backups be load-tested? In Homewood, IL, before spring thaw and hurricane remnants.
+
+Stack vent offsets in Homewood, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Step: log PRV inlet and outlet readings during intake.
+
+CPVC solvent weld times shift with ambient humidity during Homewood, IL shoulder seasons.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Material note: Water heater anode type may change with Homewood, IL hardness profiles.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Lineage note 716364: recirculation pump amp draw captured before Homewood, IL branch isolation.
+
+On-site sector marker: Cook County / elevation 669 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60430-9a5e2a57

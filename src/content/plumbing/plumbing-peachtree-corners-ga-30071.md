@@ -12,24 +12,41 @@ lng: -84.2300
 zipSample: ["30010", "30092", "30360", "30071"]
 zipCodes: ["30360", "30010", "30092", "30071"]
 localPaths: ["Gwinnett County / primary ZIP 30071", "Gwinnett County / ZIP 30092 sector", "Gwinnett County / elevation 1014 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9700, -84.2300"]
-zillowHomeValueUsd: 360247
 ---
 
-**Engineering Notice for Peachtree Corners:** Structural loading calculated based on 1014 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Peachtree Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
 
 
-In Peachtree Corners, GA, seasonal demand can change scheduling windows.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-We coordinate local dispatch coverage around Peachtree Corners, GA and nearby ZIP sectors.
+Across Peachtree Corners, GA, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Peachtree Corners, GA, but intake notes help reduce delays.
+Risk flag: Seasonal Peachtree Corners, GA irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Access points and staging constraints recorded for ZIP 30360/30071/30092 coverage.
+Permit note: Main water line replacement in Peachtree Corners, GA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 30360, 30071, 30092, 30010 (county grid: Gwinnett County).
+FAQ: When is cabling enough? In Peachtree Corners, GA, pipe material and blockage type dictate method.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cast-iron hub corrosion in Peachtree Corners, GA often concentrates at the third joint upstream of the cleanout.
+
+Frost-free sillcock failures in Peachtree Corners, GA often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+We coordinate Peachtree Corners, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Drain map 563653: camera-pass priority and expansion-tank pre-charge noted for Peachtree Corners, GA postal sector 30071.
+
+plumbing brief: recirculation pump amp draw and water softener bypass lever were cross-checked for the Peachtree Corners intake packet.
+
+On-site sector marker: Gwinnett County / ZIP 30010 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30071-fbed4c1c

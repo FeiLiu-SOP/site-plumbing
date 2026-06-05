@@ -12,26 +12,41 @@ lng: -77.3100
 zipSample: ["22192"]
 zipCodes: ["22192"]
 localPaths: ["Prince William County / ZIP 22192 sector", "Prince William County / coords 38.6800, -77.3100", "Prince William County / elevation 308 ft band", "Prince William County / primary ZIP 22192"]
-zillowHomeValueUsd: 525369
 ---
 
-**Engineering Notice for Lake Ridge:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Lake Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Lake Ridge, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lake Ridge, VA.
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Lake Ridge, VA and nearby ZIP sectors.
+Basement floor drains in Lake Ridge, VA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 22192.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 22192 zone).
+Branch wet vents in Lake Ridge, VA can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 22192 (county grid: Prince William County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lake Ridge, VA.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Hydro-jetting in Lake Ridge, VA requires camera confirmation before nozzle pressure is raised.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Lineage note 447883: recirculation pump amp draw captured before Lake Ridge, VA branch isolation.
+
+Field routing: floor drain trap primer drip paired with shower cartridge seat score near ZIP 22192.
+
+On-site sector marker: Prince William County / coords 38.6800, -77.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22192-a56561b7

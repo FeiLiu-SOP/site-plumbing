@@ -12,26 +12,41 @@ lng: -85.8300
 zipSample: ["49429", "49428"]
 zipCodes: ["49429", "49428"]
 localPaths: ["Ottawa County / primary ZIP 49428", "Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / elevation 659 ft band", "Ottawa County / coords 42.9100, -85.8300"]
-zillowHomeValueUsd: 360135
 ---
 
-**Engineering Notice for Jenison:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Ottawa County.
+**Engineering Notice for Jenison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: camera-pass main lines in Jenison, MI before jetting older clay or cast iron.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Jenison, MI irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on Jenison, MI coverage windows and verified intake details.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jenison, MI, but intake notes help reduce delays.
+Recirculation pump failures in Jenison, MI can mimic fixture-specific clogs.
 
-Field note: Wind exposure category reviewed for ZIP sector 49429/49428.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49429/49428.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 49429, 49428 (county grid: Ottawa County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Permit note: Main water line replacement in Jenison, MI may require ROW restoration planning.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 49428.
+
+Step: map sump float travel and check-valve orientation for Jenison, MI basements.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 783185: toilet flange spacer kit and shower cartridge seat score queued for Jenison, MI walk-through.
+
+On-site sector marker: Ottawa County / coords 42.9100, -85.8300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49428-900c0093

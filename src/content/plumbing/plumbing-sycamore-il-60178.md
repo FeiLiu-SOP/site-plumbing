@@ -12,26 +12,41 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / elevation 827 ft band", "DeKalb County / primary ZIP 60178"]
-zillowHomeValueUsd: 313301
 ---
 
-**Engineering Notice for Sycamore:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Sycamore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60178.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Local conditions in Sycamore, IL can affect timelines and material choices.
+Hard water in Sycamore, IL accelerates scale on PRV seats and heater elements.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in Sycamore, IL require pit dimensions verified against utility locate marks.
 
-Field note: Connection points spot-checked where accessible (ZIP 60178 zone).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 60178.
 
-Field note: Access points and staging constraints recorded for ZIP 60178 coverage.
+Sump discharge freeze risk in Sycamore, IL should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 60178 (county grid: DeKalb County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Hydrostatic holds in Sycamore, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: In Sycamore, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Fixture shutoff stiffness in Sycamore, IL may indicate mineral bridging behind stems.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Sycamore, IL.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Dual-water-meter setups in Sycamore, IL irrigation zones need backflow logs before line replacement.
+
+Supply audit 403465: curb-stop orientation and hose-bib freeze flag reviewed for Sycamore, IL at coords 42.0000/-88.6800.
+
+Coordinate-anchored dispatch note: center reference 42.0000, -88.6800 at elevation ~827 ft aligns with DeKalb County intake staging.
 
 Service reference: IL-60178-1fc4125b

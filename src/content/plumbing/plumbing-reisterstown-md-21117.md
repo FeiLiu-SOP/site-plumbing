@@ -12,27 +12,37 @@ lng: -76.8100
 zipSample: ["21136", "21117"]
 zipCodes: ["21117", "21136"]
 localPaths: ["Baltimore County / ZIP 21136 sector", "Baltimore County / ZIP 21117 sector", "Baltimore County / elevation 705 ft band", "Baltimore County / primary ZIP 21117", "Baltimore County / coords 39.4500, -76.8100"]
-zillowHomeValueUsd: 386403
 ---
 
-**Engineering Notice for Reisterstown:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Reisterstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
 
 
-In Reisterstown, MD, seasonal demand can change scheduling windows.
+CPVC solvent weld times shift with ambient humidity during Reisterstown, MD shoulder seasons.
 
-Tip: address recurring issues early to prevent bigger damage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 21117.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 21117.
 
-Field note: Moisture pathway inspection logged near ZIP 21136/21117 intake.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 21136/21117.
+Hard water in Reisterstown, MD accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 21136, 21117 (county grid: Baltimore County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 21117.
+
+Permit note: Main water line replacement in Reisterstown, MD may require ROW restoration planning.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Supply audit 387563: curb-stop orientation and hose-bib freeze flag reviewed for Reisterstown, MD at coords 39.4500/-76.8100.
+
+Primary postal anchor 21117 with multi-ZIP overlap in Reisterstown; field packets tag Baltimore County for county-grid reconciliation.
 
 Service reference: MD-21117-89c978dc

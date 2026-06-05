@@ -12,26 +12,43 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / ZIP 95035 sector", "Santa Clara County / primary ZIP 95035", "Santa Clara County / elevation 30 ft band"]
-zillowHomeValueUsd: 1501880
 ---
 
-**Engineering Notice for Milpitas:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Milpitas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-Our service coordination centers on Milpitas, CA coverage windows and verified intake details.
+Tip: Save water heater serial plates for warranty traceability.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: request a written scope before work starts.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Milpitas, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 95035 intake.
+Hose bib split patterns in Milpitas, CA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 95035 coverage.
+Dual-water-meter setups in Milpitas, CA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 95035 (county grid: Santa Clara County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Frost-free sillcock failures in Milpitas, CA often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Seasonal Milpitas, CA irrigation cross-connections can mask domestic pressure loss.
+
+Polybutylene manifold tags in Milpitas, CA basements should be photographed before any wall chase opens.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Is hydro-jetting always appropriate? In Milpitas, CA, pipe material and blockage type dictate method.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Fixture roster 959459: toilet flange spacer kit and shower cartridge seat score queued for Milpitas, CA walk-through.
+
+Scope trace: jetter nozzle envelope plus slab penetration sleeve seal referenced in Santa Clara County county grid review.
+
+Coordinate-anchored dispatch note: center reference 37.4300, -121.8900 at elevation ~30 ft aligns with Santa Clara County intake staging.
 
 Service reference: CA-95035-66628e04

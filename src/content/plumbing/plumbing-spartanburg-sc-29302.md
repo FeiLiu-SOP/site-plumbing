@@ -12,24 +12,43 @@ lng: -81.9300
 zipSample: ["29301", "29302", "29307", "29306", "29319"]
 zipCodes: ["29302", "29319", "29307", "29304", "29301", "29306"]
 localPaths: ["Spartanburg County / ZIP 29307 sector", "Spartanburg County / coords 34.9400, -81.9300", "Spartanburg County / ZIP 29301 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / ZIP 29319 sector"]
-zillowHomeValueUsd: 269402
 ---
 
-**Engineering Notice for Spartanburg:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Spartanburg County.
+**Engineering Notice for Spartanburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Spartanburg County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Trenchless sleeve pulls near Spartanburg, SC require pit shoring notes when water tables are high.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29319/29301/29304.
+CPVC solvent weld times shift with ambient humidity during Spartanburg, SC shoulder seasons.
 
-Dispatch sectors sampled: ZIP 29319, 29301, 29304, 29306, 29302 (county grid: Spartanburg County).
+Cast-iron hub corrosion in Spartanburg, SC often concentrates at the third joint upstream of the cleanout.
+
+FAQ: When should sump battery backups be load-tested? In Spartanburg, SC, before spring thaw and hurricane remnants.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Hard water in Spartanburg, SC accelerates scale on PRV seats and heater elements.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: map sump float travel and check-valve orientation for Spartanburg, SC basements.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: Is hydro-jetting always appropriate? In Spartanburg, SC, pipe material and blockage type dictate method.
+
+Flow dossier 351062: branch wet-vent geometry and jetting nozzle envelope logged for Spartanburg, SC county grid Spartanburg County (ZIP 29302).
+
+Scope trace: shower cartridge seat score plus thermal expansion loop check referenced in Spartanburg County county grid review.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Spartanburg County and primary ZIP 29302. Terrain reference: 774 ft. Center point: 34.9400, -81.9300. ZIP sample: 29306, 29319, 29307, 29304, 29301. Service perimeter note: Coverage extends through Spartanburg County with dispatch centered near ZIP 29302.
 
 Service reference: SC-29302-0239c611

@@ -12,27 +12,41 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / coords 45.6900, -122.5300", "Clark County / ZIP 98682 sector", "Clark County / elevation 279 ft band"]
-zillowHomeValueUsd: 502129
 ---
 
-**Engineering Notice for Orchards:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Orchards:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98682.
+Sump discharge freeze risk in Orchards, WA should be reviewed before spring thaw cycles.
 
-In Orchards, WA, seasonal demand can change scheduling windows.
+Stack vent offsets in Orchards, WA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orchards, WA, but intake notes help reduce delays.
+Hydro-jetting in Orchards, WA requires camera confirmation before nozzle pressure is raised.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98682.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Orchards, WA systems need rebalancing.
 
-Field note: Moisture pathway inspection logged near ZIP 98682 intake.
+FAQ: When should sump battery backups be load-tested? In Orchards, WA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 98682 (county grid: Clark County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Dispatch packets reference county grid Clark County near ZIP 98682.
+
+Cast-iron hub corrosion in Orchards, WA often concentrates at the third joint upstream of the cleanout.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Frost-free sillcock failures in Orchards, WA often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 917947: curb-stop orientation and hose-bib freeze flag reviewed for Orchards, WA at coords 45.6900/-122.5300.
+
+On-site sector marker: Clark County / ZIP 98682 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98682-e9e2a2c0

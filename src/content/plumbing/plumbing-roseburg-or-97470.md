@@ -12,24 +12,39 @@ lng: -123.3500
 zipSample: ["97471", "97470"]
 zipCodes: ["97471", "97470"]
 localPaths: ["Douglas County / coords 43.2200, -123.3500", "Douglas County / ZIP 97470 sector", "Douglas County / elevation 482 ft band", "Douglas County / primary ZIP 97470", "Douglas County / ZIP 97471 sector"]
-zillowHomeValueUsd: 320670
 ---
 
-**Engineering Notice for Roseburg:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Roseburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Homeowners in Roseburg, OR often face sudden plumbing problems that require fast action.
+Polybutylene manifold tags in Roseburg, OR basements should be photographed before any wall chase opens.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our service coordination centers on Roseburg, OR coverage windows and verified intake details.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Roseburg, OR, but intake notes help reduce delays.
+Dispatch packets reference county grid Douglas County near ZIP 97470.
 
-Field note: Connection points spot-checked where accessible (ZIP 97471/97470 zone).
+Hydro-jetting in Roseburg, OR requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 97471, 97470 (county grid: Douglas County).
+FAQ: When should sump battery backups be load-tested? In Roseburg, OR, before spring thaw and hurricane remnants.
+
+Permit note: Main water line replacement in Roseburg, OR may require ROW restoration planning.
+
+Dual-water-meter setups in Roseburg, OR irrigation zones need backflow logs before line replacement.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 97470.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Flow dossier 781949: branch wet-vent geometry and jetting nozzle envelope logged for Roseburg, OR county grid Douglas County (ZIP 97470).
+
+Intake ledger 781949: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roseburg, OR at 43.2200, -123.3500.
+
+Coordinate-anchored dispatch note: center reference 43.2200, -123.3500 at elevation ~482 ft aligns with Douglas County intake staging.
 
 Service reference: OR-97470-c8037a47

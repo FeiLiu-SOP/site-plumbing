@@ -12,26 +12,41 @@ lng: -84.4200
 zipSample: ["30398", "31139", "30348", "30354", "30325"]
 zipCodes: ["30355", "30307", "30354", "30326", "30301", "30342", "30316", "30334", "30311", "30313", "30306", "30394"]
 localPaths: ["Fulton County / primary ZIP 30334", "Fulton County / coords 33.7600, -84.4200", "Fulton County / elevation 974 ft band", "Fulton County / ZIP 30354 sector", "Fulton County / ZIP 30348 sector"]
-zillowHomeValueUsd: 386451
 ---
 
-**Engineering Notice for Atlanta:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Atlanta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Atlanta, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Atlanta, GA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 30361/30319/30377 coverage.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 30361/30319/30377 zone).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 30361, 30319, 30377, 30307, 30398 (county grid: Fulton County).
+Basement floor drains in Atlanta, GA should be snaked only after trap arm geometry is confirmed on camera.
+
+Sump discharge freeze risk in Atlanta, GA should be reviewed before spring thaw cycles.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Lineage note 350253: recirculation pump amp draw captured before Atlanta, GA branch isolation.
+
+Intake ledger 350253: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Atlanta, GA at 33.7600, -84.4200.
+
+Coordinate-anchored dispatch note: center reference 33.7600, -84.4200 at elevation ~974 ft aligns with Fulton County intake staging.
 
 Service reference: GA-30334-9e43cebf

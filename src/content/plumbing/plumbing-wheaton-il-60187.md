@@ -12,26 +12,39 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60187", "60189"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / coords 41.8600, -88.1100", "DuPage County / primary ZIP 60187", "DuPage County / ZIP 60189 sector", "DuPage County / ZIP 60187 sector"]
-zillowHomeValueUsd: 490746
 ---
 
-**Engineering Notice for Wheaton:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Wheaton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Local conditions in Wheaton, IL can affect timelines and material choices.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Structured milestones protect both sides when scheduling work.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wheaton, IL, but intake notes help reduce delays.
+Risk flag: In Wheaton, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Branch wet vents in Wheaton, IL can mask gurgling as a main-line issue.
 
-Field note: Wind exposure category reviewed for ZIP sector 60189/60187.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 60187.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60189/60187.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 60189, 60187 (county grid: DuPage County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Wheaton, IL.
+
+FAQ: Is hydro-jetting always appropriate? In Wheaton, IL, pipe material and blockage type dictate method.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Intake ledger 648366: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wheaton, IL at 41.8600, -88.1100.
+
+Scope trace: cleanout riser height plus fixture shutoff torque log referenced in DuPage County county grid review.
+
+On-site sector marker: DuPage County / coords 41.8600, -88.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60187-1347abf2

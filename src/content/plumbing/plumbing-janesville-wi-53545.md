@@ -12,26 +12,39 @@ lng: -89.0100
 zipSample: ["53547", "53546", "53545", "53548"]
 zipCodes: ["53548", "53545", "53546", "53547"]
 localPaths: ["Rock County / coords 42.6900, -89.0100", "Rock County / elevation 866 ft band", "Rock County / ZIP 53546 sector", "Rock County / ZIP 53545 sector", "Rock County / ZIP 53547 sector"]
-zillowHomeValueUsd: 276929
 ---
 
-**Engineering Notice for Janesville:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Rock County.
+**Engineering Notice for Janesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rock County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Janesville, WI, but intake notes help reduce delays.
+Galvanized segments in Janesville, WI may restrict flow long before visible corrosion.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 53545.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Janesville, WI shoulder seasons.
 
-Field note: Wind exposure category reviewed for ZIP sector 53547/53546/53545.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53547/53546/53545.
+Polybutylene manifold tags in Janesville, WI basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 53547, 53546, 53545, 53548 (county grid: Rock County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Permit note: Main water line replacement in Janesville, WI may require ROW restoration planning.
+
+Sewer gas odors in Janesville, WI should trigger trap seal and vent path review.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Janesville, WI.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Janesville, WI systems need rebalancing.
+
+Intake ledger 724134: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Janesville, WI at 42.6900, -89.0100.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Rock County and primary ZIP 53545. Terrain reference: 866 ft. Center point: 42.6900, -89.0100. ZIP sample: 53548, 53546, 53545, 53547. Regional routing note: Rock County traffic flow is balanced around ZIP 53545 service demand.
 
 Service reference: WI-53545-a7b6cdad

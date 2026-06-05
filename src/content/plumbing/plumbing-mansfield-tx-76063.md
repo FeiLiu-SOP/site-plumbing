@@ -12,24 +12,39 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / elevation 607 ft band", "Tarrant County / primary ZIP 76063", "Tarrant County / coords 32.5700, -97.1200", "Tarrant County / ZIP 76063 sector"]
-zillowHomeValueUsd: 439961
 ---
 
-**Engineering Notice for Mansfield:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Mansfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cleanout access limits in Mansfield, TX frequently extend drain cleaning duration.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Mansfield, TX often trace to interior shutoff seats, not exterior stems.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 76063.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mansfield, TX, but intake notes help reduce delays.
+Trenchless pulls in Mansfield, TX require pit dimensions verified against utility locate marks.
 
-Tip: request a written scope before work starts.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mansfield, TX systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76063.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 76063 (county grid: Tarrant County).
+Branch wet vents in Mansfield, TX can mask gurgling as a main-line issue.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mansfield, TX.
+
+Hose bib split patterns in Mansfield, TX often follow missed winterization.
+
+FAQ: When should sump battery backups be load-tested? In Mansfield, TX, before spring thaw and hurricane remnants.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 632368: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Mansfield, TX at 32.5700, -97.1200.
+
+Drain map 632368: camera-pass priority and expansion-tank pre-charge noted for Mansfield, TX postal sector 76063.
+
+On-site sector marker: Tarrant County / coords 32.5700, -97.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76063-f4143f50

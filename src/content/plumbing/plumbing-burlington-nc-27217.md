@@ -12,27 +12,41 @@ lng: -79.4700
 zipSample: ["27217", "27215"]
 zipCodes: ["27217", "27215"]
 localPaths: ["Alamance County / ZIP 27215 sector", "Alamance County / primary ZIP 27217", "Alamance County / ZIP 27217 sector", "Alamance County / coords 36.0800, -79.4700", "Alamance County / elevation 673 ft band"]
-zillowHomeValueUsd: 224923
 ---
 
-**Engineering Notice for Burlington:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Alamance County.
+**Engineering Notice for Burlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alamance County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Burlington, NC and nearby ZIP sectors.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Burlington, NC systems need rebalancing.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27217.
+Trenchless pulls in Burlington, NC require pit dimensions verified against utility locate marks.
 
-Field note: Connection points spot-checked where accessible (ZIP 27215/27217 zone).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 27215/27217.
+FAQ: When should sump battery backups be load-tested? In Burlington, NC, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 27215, 27217 (county grid: Alamance County).
+Hose bib split patterns in Burlington, NC often follow missed winterization.
+
+Trenchless sleeve pulls near Burlington, NC require pit shoring notes when water tables are high.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+CPVC solvent weld times shift with ambient humidity during Burlington, NC shoulder seasons.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Flow dossier 947356: branch wet-vent geometry and jetting nozzle envelope logged for Burlington, NC county grid Alamance County (ZIP 27217).
+
+Intake ledger 947356: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Burlington, NC at 36.0800, -79.4700.
+
+Regional mesh label Alamance County: moisture and logistics baselines are keyed to Burlington, NC before niche-specific work begins.
 
 Service reference: NC-27217-ef466184

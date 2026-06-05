@@ -12,24 +12,39 @@ lng: -89.9700
 zipSample: ["38182", "38112", "38119", "38148", "38103"]
 zipCodes: ["38182", "38148", "38114", "38124", "38181", "38104", "38120", "38115", "38193", "38131", "38161", "38101"]
 localPaths: ["Shelby County / ZIP 38112 sector", "Shelby County / elevation 315 ft band", "Shelby County / ZIP 38148 sector", "Shelby County / ZIP 38103 sector", "Shelby County / primary ZIP 38120"]
-zillowHomeValueUsd: 423516
 ---
 
-**Engineering Notice for Memphis:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Memphis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dispatch packets reference county grid Shelby County near ZIP 38120.
 
-Field note: Access points and staging constraints recorded for ZIP 38159/38122/38101 coverage.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Memphis, TN.
 
-Dispatch sectors sampled: ZIP 38159, 38122, 38101, 38117, 38177 (county grid: Shelby County).
+Tip: Save water heater serial plates for warranty traceability.
+
+Dual-water-meter setups in Memphis, TN irrigation zones need backflow logs before line replacement.
+
+Recirculation pump failures in Memphis, TN can mimic fixture-specific clogs.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Permit note: Main water line replacement in Memphis, TN may require ROW restoration planning.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Pressure trace 128532: meter-pit clearance and dielectric union checklist staged for Memphis, TN near elevation 315 ft.
+
+Fixture roster 128532: toilet flange spacer kit and shower cartridge seat score queued for Memphis, TN walk-through.
+
+On-site sector marker: Shelby County / ZIP 38168 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38120-599c2e13

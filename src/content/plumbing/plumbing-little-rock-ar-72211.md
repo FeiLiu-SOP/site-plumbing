@@ -12,24 +12,41 @@ lng: -92.3600
 zipSample: ["72207", "72209", "72201", "72223", "72255"]
 zipCodes: ["72202", "72223", "72231", "72205", "72227", "72219", "72103", "72260", "72225", "72222", "72210", "72217"]
 localPaths: ["Pulaski County / ZIP 72255 sector", "Pulaski County / ZIP 72223 sector", "Pulaski County / coords 34.7300, -92.3600", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72207 sector"]
-zillowHomeValueUsd: 280177
 ---
 
-**Engineering Notice for Little Rock:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Little Rock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
 
 
-Local conditions in Little Rock, AR can affect timelines and material choices.
+Material note: Water heater anode type may change with Little Rock, AR hardness profiles.
 
-Our service coordination centers on Little Rock, AR coverage windows and verified intake details.
+Basement floor drains in Little Rock, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Little Rock, AR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: request a written scope before work starts.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Little Rock, AR systems need rebalancing.
 
-Homeowners in Little Rock, AR often face sudden plumbing problems that require fast action.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 72295/72227/72204 coverage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 72295, 72227, 72204, 72255, 72211 (county grid: Pulaski County).
+Across Little Rock, AR, main-line bellies can trap debris even when fixtures drain normally.
+
+Trenchless pulls in Little Rock, AR require pit dimensions verified against utility locate marks.
+
+Stack vent offsets in Little Rock, AR older duplexes can mask tub gurgle as a main-line failure.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 72211.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 72211.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Flow dossier 853338: branch wet-vent geometry and jetting nozzle envelope logged for Little Rock, AR county grid Pulaski County (ZIP 72211).
+
+Pressure trace 853338: meter-pit clearance and dielectric union checklist staged for Little Rock, AR near elevation 341 ft.
+
+Scope trace: dielectric union checklist plus slab leak listening window referenced in Pulaski County county grid review.
+
+ZIP-corridor snapshot for Little Rock, AR: sampled sectors include 72207, 72223, 72231, 72210, 72222, 72103, 72255, 72260; county routing grid remains Pulaski County.
 
 Service reference: AR-72211-84fd61b3

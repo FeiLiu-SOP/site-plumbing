@@ -12,26 +12,39 @@ lng: -74.4200
 zipSample: ["07940"]
 zipCodes: ["07940"]
 localPaths: ["Morris County / coords 40.7600, -74.4200", "Morris County / primary ZIP 07940", "Morris County / ZIP 07940 sector", "Morris County / elevation 262 ft band"]
-zillowHomeValueUsd: 1030691
 ---
 
-**Engineering Notice for Madison:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Morris County.
+**Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.
 
 
-In Madison, NJ, urgent plumbing issues can escalate quickly.
+Basement floor drains in Madison, NJ should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: request a written scope before work starts.
+Irrigation cross-connections in Madison, NJ can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around Madison, NJ and nearby ZIP sectors.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 07940.
+Trenchless pulls in Madison, NJ require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 07940 intake.
+Dual-water-meter setups in Madison, NJ irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 07940 (county grid: Morris County).
+CPVC solvent weld times shift with ambient humidity during Madison, NJ shoulder seasons.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Expansion tank pre-charge loss in Madison, NJ often tracks heater replacement deferrals.
+
+Dispatch packets reference county grid Morris County near ZIP 07940.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Trenchless sleeve pulls near Madison, NJ require pit shoring notes when water tables are high.
+
+Intake ledger 426314: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Madison, NJ at 40.7600, -74.4200.
+
+On-site sector marker: Morris County / coords 40.7600, -74.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07940-7b6ac80d

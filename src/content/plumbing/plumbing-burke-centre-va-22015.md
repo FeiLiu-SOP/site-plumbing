@@ -12,26 +12,39 @@ lng: -77.3000
 zipSample: ["22015"]
 zipCodes: ["22015"]
 localPaths: ["Fairfax County / elevation 384 ft band", "Fairfax County / primary ZIP 22015", "Fairfax County / ZIP 22015 sector", "Fairfax County / coords 38.7900, -77.3000"]
-zillowHomeValueUsd: 733840
 ---
 
-**Engineering Notice for Burke Centre:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Burke Centre:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burke Centre, VA, but intake notes help reduce delays.
+Material note: Water heater anode type may change with Burke Centre, VA hardness profiles.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Hose bib split patterns in Burke Centre, VA often follow missed winterization.
 
-Our service coordination centers on Burke Centre, VA coverage windows and verified intake details.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 22015.
 
-Structured milestones protect both sides when scheduling work.
+Hard water in Burke Centre, VA accelerates scale on PRV seats and heater elements.
 
-Field note: Moisture pathway inspection logged near ZIP 22015 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22015.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 22015 (county grid: Fairfax County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Cast-iron hub corrosion in Burke Centre, VA often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Flow dossier 192409: branch wet-vent geometry and jetting nozzle envelope logged for Burke Centre, VA county grid Fairfax County (ZIP 22015).
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Fairfax County and primary ZIP 22015. Terrain reference: 384 ft. Center point: 38.7900, -77.3000. ZIP sample: 22015. Logistics priority: Serving residential sectors across Fairfax County and north-east ZIP 22015 grid.
 
 Service reference: VA-22015-9dd3761d

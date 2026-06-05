@@ -12,24 +12,41 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07901", "07902"]
 localPaths: ["Union County / ZIP 07902 sector", "Union County / elevation 390 ft band", "Union County / ZIP 07901 sector", "Union County / primary ZIP 07901", "Union County / coords 40.7200, -74.3600"]
-zillowHomeValueUsd: 1360951
 ---
 
-**Engineering Notice for Summit:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Summit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 07901.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: request a written scope before work starts.
+CPVC solvent weld times shift with ambient humidity during Summit, NJ shoulder seasons.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Summit, NJ, but intake notes help reduce delays.
+Across Summit, NJ, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 07902/07901.
+Hydrostatic holds in Summit, NJ slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 07902, 07901 (county grid: Union County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Hose bib split patterns in Summit, NJ often follow missed winterization.
+
+Stack vent offsets in Summit, NJ older duplexes can mask tub gurgle as a main-line failure.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: In Summit, NJ, slab leaks can misroute as foundation issues without listening equipment.
+
+Intake ledger 573190: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Summit, NJ at 40.7200, -74.3600.
+
+Fixture roster 573190: toilet flange spacer kit and shower cartridge seat score queued for Summit, NJ walk-through.
+
+Field routing: thermal expansion loop check paired with slab penetration sleeve seal near ZIP 07901.
+
+On-site sector marker: Union County / ZIP 07902 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07901-77ce047b

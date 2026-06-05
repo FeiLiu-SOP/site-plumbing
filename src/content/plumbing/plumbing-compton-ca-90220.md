@@ -12,24 +12,39 @@ lng: -118.2300
 zipSample: ["90220", "90221", "90223", "90222"]
 zipCodes: ["90223", "90221", "90220", "90222"]
 localPaths: ["Los Angeles County / ZIP 90220 sector", "Los Angeles County / ZIP 90222 sector", "Los Angeles County / elevation 85 ft band", "Los Angeles County / ZIP 90223 sector", "Los Angeles County / coords 33.8900, -118.2300"]
-zillowHomeValueUsd: 638866
 ---
 
-**Engineering Notice for Compton:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Compton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Sewer gas odors in Compton, CA should trigger trap seal and vent path review.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Compton, CA hardness profiles.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Across Compton, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Our service coordination centers on Compton, CA coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Compton, CA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90223/90220/90221.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 90223, 90220, 90221, 90222 (county grid: Los Angeles County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Seasonal Compton, CA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Compton, CA.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 90220.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When should sump battery backups be load-tested? In Compton, CA, before spring thaw and hurricane remnants.
+
+Drain map 501060: camera-pass priority and expansion-tank pre-charge noted for Compton, CA postal sector 90220.
+
+plumbing brief: sump float travel and meter pit clearance were cross-checked for the Compton intake packet.
+
+On-site sector marker: Los Angeles County / coords 33.8900, -118.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90220-d7d8c460

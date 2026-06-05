@@ -12,26 +12,43 @@ lng: -96.4000
 zipSample: ["77834", "77833"]
 zipCodes: ["77834", "77833"]
 localPaths: ["Washington County / elevation 325 ft band", "Washington County / ZIP 77834 sector", "Washington County / ZIP 77833 sector", "Washington County / primary ZIP 77833", "Washington County / coords 30.1600, -96.4000"]
-zillowHomeValueUsd: 332599
 ---
 
-**Engineering Notice for Brenham:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Brenham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brenham, TX, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Brenham, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Brenham, TX hardness profiles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Across Brenham, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Moisture pathway inspection logged near ZIP 77833/77834 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77833/77834.
+Hydrostatic holds in Brenham, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 77833, 77834 (county grid: Washington County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+CPVC solvent weld times shift with ambient humidity during Brenham, TX shoulder seasons.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Sewer gas odors in Brenham, TX should trigger trap seal and vent path review.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Polybutylene manifold tags in Brenham, TX basements should be photographed before any wall chase opens.
+
+FAQ: When should sump battery backups be load-tested? In Brenham, TX, before spring thaw and hurricane remnants.
+
+Pressure trace 545331: meter-pit clearance and dielectric union checklist staged for Brenham, TX near elevation 325 ft.
+
+Supply audit 545331: curb-stop orientation and hose-bib freeze flag reviewed for Brenham, TX at coords 30.1600/-96.4000.
+
+On-site sector marker: Washington County / elevation 325 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77833-a59b3552

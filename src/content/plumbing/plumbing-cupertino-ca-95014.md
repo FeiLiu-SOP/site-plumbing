@@ -12,26 +12,41 @@ lng: -122.0500
 zipSample: ["95108", "95170", "95015", "95014"]
 zipCodes: ["95108", "95014", "95170", "95015"]
 localPaths: ["Santa Clara County / primary ZIP 95014", "Santa Clara County / ZIP 95170 sector", "Santa Clara County / ZIP 95108 sector", "Santa Clara County / coords 37.3200, -122.0500", "Santa Clara County / elevation 305 ft band"]
-zillowHomeValueUsd: 3188361
 ---
 
-**Engineering Notice for Cupertino:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Cupertino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95014.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map sump float travel and check-valve orientation for Cupertino, CA basements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: avoid large upfront payments without milestones.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Wind exposure category reviewed for ZIP sector 95108/95015/95170.
+In Cupertino, CA, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Connection points spot-checked where accessible (ZIP 95108/95015/95170 zone).
+Dual-water-meter setups in Cupertino, CA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 95108, 95015, 95170, 95014 (county grid: Santa Clara County).
+Frost-free sillcock failures in Cupertino, CA often trace to interior shutoff seats, not exterior stems.
+
+Hose bib split patterns in Cupertino, CA often follow missed winterization.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 95014.
+
+Stack vent offsets in Cupertino, CA older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Is hydro-jetting always appropriate? In Cupertino, CA, pipe material and blockage type dictate method.
+
+Supply audit 467485: curb-stop orientation and hose-bib freeze flag reviewed for Cupertino, CA at coords 37.3200/-122.0500.
+
+Pressure trace 467485: meter-pit clearance and dielectric union checklist staged for Cupertino, CA near elevation 305 ft.
+
+On-site sector marker: Santa Clara County / ZIP 95014 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95014-e748b43c

@@ -12,24 +12,43 @@ lng: -86.1700
 zipSample: ["46544", "46530", "46545", "46546"]
 zipCodes: ["46545", "46544", "46546", "46530"]
 localPaths: ["St. Joseph County / ZIP 46546 sector", "St. Joseph County / ZIP 46544 sector", "St. Joseph County / ZIP 46530 sector", "St. Joseph County / primary ZIP 46544", "St. Joseph County / elevation 738 ft band"]
-zillowHomeValueUsd: 202818
 ---
 
-**Engineering Notice for Mishawaka:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for Mishawaka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Joseph County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-In Mishawaka, IN, seasonal demand can change scheduling windows.
+Material note: Water heater anode type may change with Mishawaka, IN hardness profiles.
 
-Tip: request a written scope before work starts.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 46546/46530/46544 coverage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 46546, 46530, 46544, 46545 (county grid: St. Joseph County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mishawaka, IN systems need rebalancing.
+
+Fixture shutoff stiffness in Mishawaka, IN may indicate mineral bridging behind stems.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In Mishawaka, IN, slab leaks can misroute as foundation issues without listening equipment.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 46544.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Supply audit 996093: curb-stop orientation and hose-bib freeze flag reviewed for Mishawaka, IN at coords 41.6700/-86.1700.
+
+Flow dossier 996093: branch wet-vent geometry and jetting nozzle envelope logged for Mishawaka, IN county grid St. Joseph County (ZIP 46544).
+
+Coordinate-anchored dispatch note: center reference 41.6700, -86.1700 at elevation ~738 ft aligns with St. Joseph County intake staging.
 
 Service reference: IN-46544-fc3997a0

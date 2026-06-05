@@ -12,26 +12,41 @@ lng: -107.8600
 zipSample: ["81401", "81403", "81402"]
 zipCodes: ["81401", "81402", "81403"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / primary ZIP 81403", "Montrose County / ZIP 81401 sector", "Montrose County / elevation 5879 ft band", "Montrose County / ZIP 81402 sector"]
-zillowHomeValueUsd: 600787
 ---
 
-**Engineering Notice for Montrose:** Structural loading calculated based on 5879 ft terrain assessment. Regional dispatch grid: Montrose County.
+**Engineering Notice for Montrose:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montrose County.
 
 
-Our service coordination centers on Montrose, CO coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Montrose, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 81402/81401/81403 coverage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Moisture pathway inspection logged near ZIP 81402/81401/81403 intake.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Montrose, CO.
 
-Dispatch sectors sampled: ZIP 81402, 81401, 81403 (county grid: Montrose County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Montrose, CO.
+
+Galvanized segments in Montrose, CO may restrict flow long before visible corrosion.
+
+Polybutylene manifold tags in Montrose, CO basements should be photographed before any wall chase opens.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 81403.
+
+Fixture roster 712162: toilet flange spacer kit and shower cartridge seat score queued for Montrose, CO walk-through.
+
+Field routing: sump float travel paired with PRV outlet curve near ZIP 81403.
+
+On-site sector marker: Montrose County / ZIP 81401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81403-b51f92f4

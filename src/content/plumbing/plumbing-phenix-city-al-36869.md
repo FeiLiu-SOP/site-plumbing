@@ -12,27 +12,45 @@ lng: -85.0300
 zipSample: ["36867", "36868", "36869"]
 zipCodes: ["36867", "36869", "36868"]
 localPaths: ["Russell County / coords 32.4600, -85.0300", "Russell County / ZIP 36867 sector", "Russell County / ZIP 36868 sector", "Russell County / ZIP 36869 sector", "Russell County / elevation 456 ft band"]
-zillowHomeValueUsd: 172071
 ---
 
-**Engineering Notice for Phenix City:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Russell County.
+**Engineering Notice for Phenix City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Russell County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 36869.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Phenix City, AL often concentrates at the third joint upstream of the cleanout.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 36869.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate local dispatch coverage around Phenix City, AL and nearby ZIP sectors.
+Irrigation cross-connections in Phenix City, AL can back-siphon domestic lines during main breaks.
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Phenix City, AL basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 36868/36867/36869.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 36868/36867/36869 zone).
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 36868, 36867, 36869 (county grid: Russell County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Cleanout access limits in Phenix City, AL frequently extend drain cleaning duration.
+
+Galvanized segments in Phenix City, AL may restrict flow long before visible corrosion.
+
+Material note: Water heater anode type may change with Phenix City, AL hardness profiles.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: map sump float travel and check-valve orientation for Phenix City, AL basements.
+
+FAQ: When should sump battery backups be load-tested? In Phenix City, AL, before spring thaw and hurricane remnants.
+
+Flow dossier 147764: branch wet-vent geometry and jetting nozzle envelope logged for Phenix City, AL county grid Russell County (ZIP 36869).
+
+Lineage note 147764: recirculation pump amp draw captured before Phenix City, AL branch isolation.
+
+plumbing brief: shower cartridge seat score and sewer cleanout cap thread were cross-checked for the Phenix City intake packet.
+
+On-site sector marker: Russell County / primary ZIP 36869 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36869-772ad023

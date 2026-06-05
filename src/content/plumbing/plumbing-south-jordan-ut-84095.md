@@ -12,26 +12,41 @@ lng: -111.9800
 zipSample: ["84096", "84009", "84095"]
 zipCodes: ["84096", "84009", "84095"]
 localPaths: ["Salt Lake County / ZIP 84009 sector", "Salt Lake County / ZIP 84095 sector", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84095"]
-zillowHomeValueUsd: 759211
 ---
 
-**Engineering Notice for South Jordan:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Jordan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-Tip: request a written scope before work starts.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-In South Jordan, UT, urgent plumbing issues can escalate quickly.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84095.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Our service coordination centers on South Jordan, UT coverage windows and verified intake details.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Jordan, UT, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in South Jordan, UT systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 84096/84095/84009.
+Basement floor drains in South Jordan, UT should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 84096/84095/84009 coverage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 84096, 84095, 84009 (county grid: Salt Lake County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hose bib split patterns in South Jordan, UT often follow missed winterization.
+
+We coordinate South Jordan, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 84095.
+
+Branch wet vents in South Jordan, UT can mask gurgling as a main-line issue.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 948941: recirculation pump amp draw captured before South Jordan, UT branch isolation.
+
+Flow dossier 948941: branch wet-vent geometry and jetting nozzle envelope logged for South Jordan, UT county grid Salt Lake County (ZIP 84095).
+
+On-site sector marker: Salt Lake County / primary ZIP 84095 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84095-7aa19211

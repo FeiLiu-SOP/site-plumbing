@@ -12,26 +12,43 @@ lng: -72.2500
 zipSample: ["06268", "06269"]
 zipCodes: ["06268", "06269"]
 localPaths: ["Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269", "Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500"]
-zillowHomeValueUsd: 538058
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Storrs:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Capitol County.
+**Engineering Notice for Storrs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Capitol County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Storrs, CT may require ROW restoration planning.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 06269.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-In Storrs, CT, urgent plumbing issues can escalate quickly.
+Across Storrs, CT, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 06269.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06269/06268.
+Risk flag: In Storrs, CT, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 06269, 06268 (county grid: Capitol County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When should sump battery backups be load-tested? In Storrs, CT, before spring thaw and hurricane remnants.
+
+Hydro-jetting in Storrs, CT requires camera confirmation before nozzle pressure is raised.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless sleeve pulls near Storrs, CT require pit shoring notes when water tables are high.
+
+Cast-iron hub corrosion in Storrs, CT often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Polybutylene manifold tags in Storrs, CT basements should be photographed before any wall chase opens.
+
+Lineage note 402565: recirculation pump amp draw captured before Storrs, CT branch isolation.
+
+Fixture roster 402565: toilet flange spacer kit and shower cartridge seat score queued for Storrs, CT walk-through.
+
+On-site sector marker: Capitol County / ZIP 06269 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06269-c648cc15

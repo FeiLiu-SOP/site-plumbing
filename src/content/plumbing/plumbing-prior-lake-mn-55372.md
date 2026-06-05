@@ -12,26 +12,45 @@ lng: -93.4400
 zipSample: ["55372", "55379"]
 zipCodes: ["55372", "55379"]
 localPaths: ["Scott County / ZIP 55379 sector", "Scott County / coords 44.7200, -93.4400", "Scott County / elevation 928 ft band", "Scott County / primary ZIP 55372", "Scott County / ZIP 55372 sector"]
-zillowHomeValueUsd: 516877
 ---
 
-**Engineering Notice for Prior Lake:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Prior Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55372.
+CPVC solvent weld times shift with ambient humidity during Prior Lake, MN shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55372.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on Prior Lake, MN coverage windows and verified intake details.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55372.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prior Lake, MN, but intake notes help reduce delays.
+Step: camera-pass main lines in Prior Lake, MN before jetting older clay or cast iron.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55372/55379.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 55372, 55379 (county grid: Scott County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Prior Lake, MN systems need rebalancing.
+
+Frost-free sillcock failures in Prior Lake, MN often trace to interior shutoff seats, not exterior stems.
+
+Hydrostatic holds in Prior Lake, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Expansion tank pre-charge loss in Prior Lake, MN often tracks heater replacement deferrals.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Prior Lake, MN.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Flow dossier 385662: branch wet-vent geometry and jetting nozzle envelope logged for Prior Lake, MN county grid Scott County (ZIP 55372).
+
+Pressure trace 385662: meter-pit clearance and dielectric union checklist staged for Prior Lake, MN near elevation 928 ft.
+
+Scope trace: floor drain trap primer drip plus copper pinhole cluster referenced in Scott County county grid review.
+
+On-site sector marker: Scott County / ZIP 55372 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55372-816ebace

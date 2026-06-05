@@ -12,25 +12,41 @@ lng: -81.9300
 zipSample: ["32159", "32158"]
 zipCodes: ["32159", "32158"]
 localPaths: ["Lake County / ZIP 32159 sector", "Lake County / ZIP 32158 sector", "Lake County / primary ZIP 32159", "Lake County / coords 28.9200, -81.9300", "Lake County / elevation 105 ft band"]
-zillowHomeValueUsd: 318732
 ---
 
-**Engineering Notice for Lady Lake:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Lady Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: camera-pass main lines in Lady Lake, FL before jetting older clay or cast iron.
 
-Our service coordination centers on Lady Lake, FL coverage windows and verified intake details.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lady Lake, FL, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32159.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32158/32159.
+FAQ: When is cabling enough? In Lady Lake, FL, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 32158, 32159 (county grid: Lake County).
+Cast-iron hub corrosion in Lady Lake, FL often concentrates at the third joint upstream of the cleanout.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Irrigation cross-connections in Lady Lake, FL can back-siphon domestic lines during main breaks.
+
+Sump discharge freeze risk in Lady Lake, FL should be reviewed before spring thaw cycles.
+
+Dual-water-meter setups in Lady Lake, FL irrigation zones need backflow logs before line replacement.
+
+Hydrostatic holds in Lady Lake, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+Fixture roster 960632: toilet flange spacer kit and shower cartridge seat score queued for Lady Lake, FL walk-through.
+
+Drain map 960632: camera-pass priority and expansion-tank pre-charge noted for Lady Lake, FL postal sector 32159.
+
+Field routing: meter pit clearance paired with thermal expansion loop check near ZIP 32159.
+
+Primary postal anchor 32159 with multi-ZIP overlap in Lady Lake; field packets tag Lake County for county-grid reconciliation.
 
 Service reference: FL-32159-c2aa07c3

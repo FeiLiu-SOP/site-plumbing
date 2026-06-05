@@ -12,27 +12,41 @@ lng: -112.0400
 zipSample: ["83401", "83402", "83404", "83415"]
 zipCodes: ["83415", "83401", "83402", "83404"]
 localPaths: ["Bonneville County / ZIP 83404 sector", "Bonneville County / elevation 4715 ft band", "Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83401 sector", "Bonneville County / ZIP 83415 sector"]
-zillowHomeValueUsd: 401228
 ---
 
-**Engineering Notice for Idaho Falls:** Structural loading calculated based on 4715 ft terrain assessment. Regional dispatch grid: Bonneville County.
+**Engineering Notice for Idaho Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bonneville County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Idaho Falls, ID, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Idaho Falls, ID may require ROW restoration planning.
 
-We coordinate local dispatch coverage around Idaho Falls, ID and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 83401.
+Risk flag: In Idaho Falls, ID, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In Idaho Falls, ID, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83401/83402/83404.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 83401/83402/83404 coverage.
+Stack vent offsets in Idaho Falls, ID older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 83401, 83402, 83404, 83415 (county grid: Bonneville County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 83401.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Seasonal Idaho Falls, ID irrigation cross-connections can mask domestic pressure loss.
+
+Hose bib split patterns in Idaho Falls, ID often follow missed winterization.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 803063: toilet flange spacer kit and shower cartridge seat score queued for Idaho Falls, ID walk-through.
+
+Drain map 803063: camera-pass priority and expansion-tank pre-charge noted for Idaho Falls, ID postal sector 83401.
+
+Scope trace: slab leak listening window plus hose bib freeze flag referenced in Bonneville County county grid review.
+
+On-site sector marker: Bonneville County / primary ZIP 83401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83401-9106505d

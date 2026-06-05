@@ -12,26 +12,43 @@ lng: -76.5700
 zipSample: ["13021", "13024", "13022"]
 zipCodes: ["13022", "13021", "13024"]
 localPaths: ["Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700", "Cayuga County / ZIP 13021 sector", "Cayuga County / ZIP 13022 sector", "Cayuga County / primary ZIP 13021"]
-zillowHomeValueUsd: 214974
 ---
 
-**Engineering Notice for Auburn:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cayuga County.
+**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cayuga County.
 
 
-In Auburn, NY, seasonal demand can change scheduling windows.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn, NY, but intake notes help reduce delays.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Auburn, NY often concentrates at the third joint upstream of the cleanout.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Auburn, NY irrigation zones need backflow logs before line replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Polybutylene manifold tags in Auburn, NY basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 13024/13022/13021 zone).
+Irrigation cross-connections in Auburn, NY can back-siphon domestic lines during main breaks.
 
-Field note: Access points and staging constraints recorded for ZIP 13024/13022/13021 coverage.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 13024, 13022, 13021 (county grid: Cayuga County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Across Auburn, NY, main-line bellies can trap debris even when fixtures drain normally.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 615044: toilet flange spacer kit and shower cartridge seat score queued for Auburn, NY walk-through.
+
+Flow dossier 615044: branch wet-vent geometry and jetting nozzle envelope logged for Auburn, NY county grid Cayuga County (ZIP 13021).
+
+On-site sector marker: Cayuga County / elevation 669 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13021-f0e6c8cc

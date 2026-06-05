@@ -12,27 +12,45 @@ lng: -83.2900
 zipSample: ["48343", "48055", "48340", "48341", "48342"]
 zipCodes: ["48341", "48340", "48343", "48055", "48342"]
 localPaths: ["Oakland County / primary ZIP 48342", "Oakland County / ZIP 48342 sector", "Oakland County / coords 42.6500, -83.2900", "Oakland County / elevation 974 ft band", "Oakland County / ZIP 48343 sector"]
-zillowHomeValueUsd: 127824
 ---
 
-**Engineering Notice for Pontiac:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Pontiac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-We coordinate local dispatch coverage around Pontiac, MI and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Galvanized segments in Pontiac, MI may restrict flow long before visible corrosion.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 48342.
+Risk flag: Seasonal Pontiac, MI irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Moisture pathway inspection logged near ZIP 48342/48340/48341 intake.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48342/48340/48341.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 48342, 48340, 48341, 48055, 48343 (county grid: Oakland County).
+Basement floor drains in Pontiac, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Cleanout access limits in Pontiac, MI frequently extend drain cleaning duration.
+
+Frost-free sillcock failures in Pontiac, MI often trace to interior shutoff seats, not exterior stems.
+
+In Pontiac, MI, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Branch wet vents in Pontiac, MI can mask gurgling as a main-line issue.
+
+Intake ledger 450456: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Pontiac, MI at 42.6500, -83.2900.
+
+Drain map 450456: camera-pass priority and expansion-tank pre-charge noted for Pontiac, MI postal sector 48342.
+
+plumbing brief: gas water heater draft hood gap and meter pit clearance were cross-checked for the Pontiac intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Oakland County. Reference elevation: 974 ft. Primary coordinates: 42.6500, -83.2900. ZIP sample: 48342, 48055, 48343, 48341, 48340. Service perimeter note: Coverage extends through Oakland County with dispatch centered near ZIP 48342.
 
 Service reference: MI-48342-40733c31

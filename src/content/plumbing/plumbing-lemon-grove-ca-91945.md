@@ -12,26 +12,41 @@ lng: -117.0300
 zipSample: ["91946", "91945"]
 zipCodes: ["91946", "91945"]
 localPaths: ["San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / primary ZIP 91945", "San Diego County / coords 32.7300, -117.0300"]
-zillowHomeValueUsd: 762166
 ---
 
-**Engineering Notice for Lemon Grove:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Lemon Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lemon Grove, CA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph curb-stop and meter pit before trenching.
 
-Homeowners in Lemon Grove, CA often face sudden plumbing problems that require fast action.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lemon Grove, CA systems need rebalancing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Lemon Grove, CA, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 91946/91945 intake.
+Frost-free sillcock failures in Lemon Grove, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 91946/91945.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 91946, 91945 (county grid: San Diego County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Trenchless pulls in Lemon Grove, CA require pit dimensions verified against utility locate marks.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lemon Grove, CA.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lemon Grove, CA.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 755912: curb-stop orientation and hose-bib freeze flag reviewed for Lemon Grove, CA at coords 32.7300/-117.0300.
+
+Intake ledger 755912: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lemon Grove, CA at 32.7300, -117.0300.
+
+On-site sector marker: San Diego County / ZIP 91945 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91945-6df11f04

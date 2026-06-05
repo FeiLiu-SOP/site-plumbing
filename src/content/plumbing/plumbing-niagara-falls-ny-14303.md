@@ -12,25 +12,43 @@ lng: -79.0100
 zipSample: ["14305", "14304", "14303", "14302", "14301"]
 zipCodes: ["14302", "14304", "14303", "14305", "14301"]
 localPaths: ["Niagara County / ZIP 14305 sector", "Niagara County / coords 43.0900, -79.0100", "Niagara County / elevation 564 ft band", "Niagara County / ZIP 14304 sector", "Niagara County / primary ZIP 14303"]
-zillowHomeValueUsd: 103734
 ---
 
-**Engineering Notice for Niagara Falls:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Niagara County.
+**Engineering Notice for Niagara Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Niagara County.
 
 
-Our service coordination centers on Niagara Falls, NY coverage windows and verified intake details.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 14303.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 14303.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Niagara Falls, NY, but intake notes help reduce delays.
+Risk flag: In Niagara Falls, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 14301/14305/14302 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 14301, 14305, 14302, 14304, 14303 (county grid: Niagara County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Polybutylene manifold tags in Niagara Falls, NY basements should be photographed before any wall chase opens.
+
+Risk flag: Seasonal Niagara Falls, NY irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Niagara Falls, NY.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Drain map 520429: camera-pass priority and expansion-tank pre-charge noted for Niagara Falls, NY postal sector 14303.
+
+Flow dossier 520429: branch wet-vent geometry and jetting nozzle envelope logged for Niagara Falls, NY county grid Niagara County (ZIP 14303).
+
+Field routing: meter pit clearance paired with dielectric union checklist near ZIP 14303.
+
+On-site sector marker: Niagara County / ZIP 14301 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14303-6a9a616a

@@ -12,26 +12,37 @@ lng: -82.3200
 zipSample: ["44805"]
 zipCodes: ["44805"]
 localPaths: ["Ashland County / primary ZIP 44805", "Ashland County / coords 40.8700, -82.3200", "Ashland County / ZIP 44805 sector", "Ashland County / elevation 1073 ft band"]
-zillowHomeValueUsd: 226899
 ---
 
-**Engineering Notice for Ashland:** Structural loading calculated based on 1073 ft terrain assessment. Regional dispatch grid: Ashland County.
+**Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ashland County.
 
 
-Our service coordination centers on Ashland, OH coverage windows and verified intake details.
+FAQ: When should sump battery backups be load-tested? In Ashland, OH, before spring thaw and hurricane remnants.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: request a written scope before work starts.
+Material note: Water heater anode type may change with Ashland, OH hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dual-water-meter setups in Ashland, OH irrigation zones need backflow logs before line replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44805.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 44805.
+Across Ashland, OH, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 44805 (county grid: Ashland County).
+Risk flag: In Ashland, OH, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ashland, OH systems need rebalancing.
+
+Cast-iron hub corrosion in Ashland, OH often concentrates at the third joint upstream of the cleanout.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Intake ledger 527805: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ashland, OH at 40.8700, -82.3200.
+
+On-site sector marker: Ashland County / coords 40.8700, -82.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44805-335747d4

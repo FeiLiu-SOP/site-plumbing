@@ -12,24 +12,39 @@ lng: -80.1300
 zipSample: ["33060", "33061", "33062", "33097", "33069"]
 zipCodes: ["33062", "33097", "33074", "33064", "33069", "33060", "33061"]
 localPaths: ["Broward County / ZIP 33062 sector", "Broward County / coords 26.2400, -80.1300", "Broward County / primary ZIP 33060", "Broward County / ZIP 33061 sector", "Broward County / ZIP 33069 sector"]
-zillowHomeValueUsd: 430568
 ---
 
-**Engineering Notice for Pompano Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Pompano Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Clear documentation helps align materials, labor, and timeline.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pompano Beach, FL, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-In Pompano Beach, FL, seasonal demand can change scheduling windows.
+Trenchless pulls in Pompano Beach, FL require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 33069/33062/33064 coverage.
+Material note: Water heater anode type may change with Pompano Beach, FL hardness profiles.
 
-Dispatch sectors sampled: ZIP 33069, 33062, 33064, 33061, 33074 (county grid: Broward County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 33060.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless sleeve pulls near Pompano Beach, FL require pit shoring notes when water tables are high.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Pressure trace 143101: meter-pit clearance and dielectric union checklist staged for Pompano Beach, FL near elevation 33 ft.
+
+Fixture roster 143101: toilet flange spacer kit and shower cartridge seat score queued for Pompano Beach, FL walk-through.
+
+Primary postal anchor 33060 with multi-ZIP overlap in Pompano Beach; field packets tag Broward County for county-grid reconciliation.
 
 Service reference: FL-33060-a9e80306

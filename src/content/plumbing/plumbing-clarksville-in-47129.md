@@ -12,24 +12,37 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / ZIP 47129 sector", "Clark County / coords 38.3200, -85.7700", "Clark County / ZIP 47172 sector", "Clark County / primary ZIP 47129", "Clark County / elevation 472 ft band"]
-zillowHomeValueUsd: 203424
 ---
 
-**Engineering Notice for Clarksville:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Clarksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clarksville, IN, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in Clarksville, IN often tracks heater replacement deferrals.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Clarksville, IN.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 47129/47172 coverage.
+Fixture shutoff stiffness in Clarksville, IN may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 47129, 47172 (county grid: Clark County).
+Galvanized segments in Clarksville, IN may restrict flow long before visible corrosion.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Permit note: Main water line replacement in Clarksville, IN may require ROW restoration planning.
+
+Risk flag: Seasonal Clarksville, IN irrigation cross-connections can mask domestic pressure loss.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Flow dossier 127746: branch wet-vent geometry and jetting nozzle envelope logged for Clarksville, IN county grid Clark County (ZIP 47129).
+
+ZIP-corridor snapshot for Clarksville, IN: sampled sectors include 47129, 47172; county routing grid remains Clark County.
 
 Service reference: IN-47129-85d4be9e

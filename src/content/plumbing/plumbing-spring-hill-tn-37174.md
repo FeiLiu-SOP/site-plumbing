@@ -12,24 +12,43 @@ lng: -86.9100
 zipSample: ["37179", "37174"]
 zipCodes: ["37174", "37179"]
 localPaths: ["Maury County / elevation 771 ft band", "Maury County / primary ZIP 37174", "Maury County / coords 35.7400, -86.9100", "Maury County / ZIP 37179 sector", "Maury County / ZIP 37174 sector"]
-zillowHomeValueUsd: 517913
 ---
 
-**Engineering Notice for Spring Hill:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Maury County.
+**Engineering Notice for Spring Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maury County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stack vent offsets in Spring Hill, TN older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Recirculation pump failures in Spring Hill, TN can mimic fixture-specific clogs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Spring Hill, TN often concentrates at the third joint upstream of the cleanout.
 
-In Spring Hill, TN, urgent plumbing issues can escalate quickly.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37179/37174.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 37179, 37174 (county grid: Maury County).
+FAQ: When should sump battery backups be load-tested? In Spring Hill, TN, before spring thaw and hurricane remnants.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Branch wet vents in Spring Hill, TN can mask gurgling as a main-line issue.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 37174.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Flow dossier 314464: branch wet-vent geometry and jetting nozzle envelope logged for Spring Hill, TN county grid Maury County (ZIP 37174).
+
+Drain map 314464: camera-pass priority and expansion-tank pre-charge noted for Spring Hill, TN postal sector 37174.
+
+plumbing brief: meter pit clearance and dielectric union checklist were cross-checked for the Spring Hill intake packet.
+
+On-site sector marker: Maury County / ZIP 37179 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37174-2299892c

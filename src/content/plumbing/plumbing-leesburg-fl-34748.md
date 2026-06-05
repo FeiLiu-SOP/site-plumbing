@@ -12,25 +12,39 @@ lng: -81.9000
 zipSample: ["34762", "34789", "34748", "34736", "34749"]
 zipCodes: ["34789", "34762", "34736", "34749", "34748"]
 localPaths: ["Lake County / ZIP 34789 sector", "Lake County / elevation 69 ft band", "Lake County / ZIP 34749 sector", "Lake County / ZIP 34748 sector", "Lake County / coords 28.7700, -81.9000"]
-zillowHomeValueUsd: 276551
 ---
 
-**Engineering Notice for Leesburg:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Leesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 34748.
+FAQ: When should sump battery backups be load-tested? In Leesburg, FL, before spring thaw and hurricane remnants.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: camera-pass main lines in Leesburg, FL before jetting older clay or cast iron.
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Leesburg, FL basements should be photographed before any wall chase opens.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Is hydro-jetting always appropriate? In Leesburg, FL, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 34736/34749/34748.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 34736, 34749, 34748, 34762, 34789 (county grid: Lake County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Cast-iron hub corrosion in Leesburg, FL often concentrates at the third joint upstream of the cleanout.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Leesburg, FL.
+
+Frost-free sillcock failures in Leesburg, FL often trace to interior shutoff seats, not exterior stems.
+
+Dual-water-meter setups in Leesburg, FL irrigation zones need backflow logs before line replacement.
+
+Pressure trace 846063: meter-pit clearance and dielectric union checklist staged for Leesburg, FL near elevation 69 ft.
+
+Scope trace: PEX expansion ring batch plus sewer cleanout cap thread referenced in Lake County county grid review.
+
+Coordinate-anchored dispatch note: center reference 28.7700, -81.9000 at elevation ~69 ft aligns with Lake County intake staging.
 
 Service reference: FL-34748-d909f5d5

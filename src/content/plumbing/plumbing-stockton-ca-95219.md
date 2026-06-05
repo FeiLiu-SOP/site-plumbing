@@ -12,26 +12,39 @@ lng: -121.3100
 zipSample: ["95201", "95210", "95207", "95297", "95269"]
 zipCodes: ["95219", "95210", "95296", "95203", "95267", "95201", "95211", "95212", "95207", "95206", "95202", "95205"]
 localPaths: ["San Joaquin County / ZIP 95207 sector", "San Joaquin County / primary ZIP 95219", "San Joaquin County / ZIP 95201 sector", "San Joaquin County / coords 37.9800, -121.3100", "San Joaquin County / ZIP 95210 sector"]
-zillowHomeValueUsd: 555816
 ---
 
-**Engineering Notice for Stockton:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Stockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+Polybutylene manifold tags in Stockton, CA basements should be photographed before any wall chase opens.
 
-Structured milestones protect both sides when scheduling work.
+Dual-water-meter setups in Stockton, CA irrigation zones need backflow logs before line replacement.
 
-We coordinate local dispatch coverage around Stockton, CA and nearby ZIP sectors.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: address recurring issues early to prevent bigger damage.
+Water heater T&P discharge paths in Stockton, CA must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 95296/95201/95269.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95296/95201/95269.
+We coordinate Stockton, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 95296, 95201, 95269, 95203, 95207 (county grid: San Joaquin County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 95219.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Lineage note 861990: recirculation pump amp draw captured before Stockton, CA branch isolation.
+
+Drain map 861990: camera-pass priority and expansion-tank pre-charge noted for Stockton, CA postal sector 95219.
+
+Primary postal anchor 95219 with multi-ZIP overlap in Stockton; field packets tag San Joaquin County for county-grid reconciliation.
 
 Service reference: CA-95219-a4cfd282

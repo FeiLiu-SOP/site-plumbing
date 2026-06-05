@@ -12,26 +12,41 @@ lng: -104.8800
 zipSample: ["80209", "80265", "80219", "80222", "80218"]
 zipCodes: ["80222", "80248", "80247", "80293", "80271", "80256", "80238", "80205", "80265", "80290", "80250", "80236"]
 localPaths: ["Denver County / ZIP 80219 sector", "Denver County / elevation 5285 ft band", "Denver County / primary ZIP 80264", "Denver County / ZIP 80265 sector", "Denver County / coords 39.7600, -104.8800"]
-zillowHomeValueUsd: 427009
 ---
 
-**Engineering Notice for Denver:** Structural loading calculated based on 5285 ft terrain assessment. Regional dispatch grid: Denver County.
+**Engineering Notice for Denver:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denver County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: request a written scope before work starts.
+Stack vent offsets in Denver, CO older duplexes can mask tub gurgle as a main-line failure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Denver, CO, main-line bellies can trap debris even when fixtures drain normally.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Wind exposure category reviewed for ZIP sector 80221/80247/80222.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Denver, CO.
 
-Field note: Access points and staging constraints recorded for ZIP 80221/80247/80222 coverage.
+FAQ: When should sump battery backups be load-tested? In Denver, CO, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 80221, 80247, 80222, 80218, 80219 (county grid: Denver County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 80264.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Drain map 838656: camera-pass priority and expansion-tank pre-charge noted for Denver, CO postal sector 80264.
+
+Field routing: water heater T&P path paired with floor drain trap primer drip near ZIP 80264.
+
+ZIP-corridor snapshot for Denver, CO: sampled sectors include 80203, 80218, 80216, 80243, 80123, 80281, 80294, 80207; county routing grid remains Denver County.
 
 Service reference: CO-80264-7c2b972c

@@ -12,27 +12,41 @@ lng: -104.9500
 zipSample: ["80504", "80520"]
 zipCodes: ["80504", "80520"]
 localPaths: ["Weld County / coords 40.1600, -104.9500", "Weld County / ZIP 80504 sector", "Weld County / primary ZIP 80520", "Weld County / ZIP 80520 sector", "Weld County / elevation 4856 ft band"]
-zillowHomeValueUsd: 469174
 ---
 
-**Engineering Notice for Firestone:** Structural loading calculated based on 4856 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Firestone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 80520.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 80520.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Firestone, CO systems need rebalancing.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Access points and staging constraints recorded for ZIP 80520/80504 coverage.
+Material note: Water heater anode type may change with Firestone, CO hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 80520/80504 intake.
+Dispatch packets reference county grid Weld County near ZIP 80520.
 
-Dispatch sectors sampled: ZIP 80520, 80504 (county grid: Weld County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 80520.
+
+Basement floor drains in Firestone, CO should be snaked only after trap arm geometry is confirmed on camera.
+
+Cast-iron hub corrosion in Firestone, CO often concentrates at the third joint upstream of the cleanout.
+
+Frost-free sillcock failures in Firestone, CO often trace to interior shutoff seats, not exterior stems.
+
+Intake ledger 863210: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Firestone, CO at 40.1600, -104.9500.
+
+Lineage note 863210: recirculation pump amp draw captured before Firestone, CO branch isolation.
+
+plumbing brief: sump float travel and water heater T&P path were cross-checked for the Firestone intake packet.
+
+On-site sector marker: Weld County / primary ZIP 80520 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80520-a93990cc

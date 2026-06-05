@@ -12,26 +12,39 @@ lng: -77.0100
 zipSample: ["20603", "20695", "20675"]
 zipCodes: ["20603", "20695", "20675"]
 localPaths: ["Charles County / coords 38.6200, -77.0100", "Charles County / elevation 213 ft band", "Charles County / ZIP 20603 sector", "Charles County / ZIP 20675 sector", "Charles County / ZIP 20695 sector"]
-zillowHomeValueUsd: 483805
 ---
 
-**Engineering Notice for Bensville:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Charles County.
+**Engineering Notice for Bensville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charles County.
 
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Seasonal Bensville, MD irrigation cross-connections can mask domestic pressure loss.
 
-Tip: compare at least two estimates for scope and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Local conditions in Bensville, MD can affect timelines and material choices.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bensville, MD systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bensville, MD, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20603/20695/20675.
+Fixture shutoff stiffness in Bensville, MD may indicate mineral bridging behind stems.
 
-Field note: Access points and staging constraints recorded for ZIP 20603/20695/20675 coverage.
+Galvanized segments in Bensville, MD may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 20603, 20695, 20675 (county grid: Charles County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 20603.
+
+Stack vent offsets in Bensville, MD older duplexes can mask tub gurgle as a main-line failure.
+
+Branch wet vents in Bensville, MD can mask gurgling as a main-line issue.
+
+CPVC solvent weld times shift with ambient humidity during Bensville, MD shoulder seasons.
+
+Supply audit 583191: curb-stop orientation and hose-bib freeze flag reviewed for Bensville, MD at coords 38.6200/-77.0100.
+
+Scope trace: floor drain trap primer drip plus meter pit clearance referenced in Charles County county grid review.
+
+On-site sector marker: Charles County / ZIP 20695 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20603-68c9ba88

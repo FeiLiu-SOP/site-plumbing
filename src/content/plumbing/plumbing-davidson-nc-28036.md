@@ -12,27 +12,41 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28035", "28036"]
 localPaths: ["Mecklenburg County / ZIP 28035 sector", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / primary ZIP 28036"]
-zillowHomeValueUsd: 655804
 ---
 
-**Engineering Notice for Davidson:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Davidson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is cabling enough? In Davidson, NC, pipe material and blockage type dictate method.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Davidson, NC, but intake notes help reduce delays.
+Dual-water-meter setups in Davidson, NC irrigation zones need backflow logs before line replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28036.
+Risk flag: Seasonal Davidson, NC irrigation cross-connections can mask domestic pressure loss.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: camera-pass main lines in Davidson, NC before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 28036/28035.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Connection points spot-checked where accessible (ZIP 28036/28035 zone).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 28036, 28035 (county grid: Mecklenburg County).
+Cast-iron hub corrosion in Davidson, NC often concentrates at the third joint upstream of the cleanout.
+
+Hose bib split patterns in Davidson, NC often follow missed winterization.
+
+Fixture shutoff stiffness in Davidson, NC may indicate mineral bridging behind stems.
+
+Basement floor drains in Davidson, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 105794: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Davidson, NC at 35.4800, -80.8200.
+
+plumbing brief: slab leak listening window and water softener bypass lever were cross-checked for the Davidson intake packet.
+
+Coordinate-anchored dispatch note: center reference 35.4800, -80.8200 at elevation ~751 ft aligns with Mecklenburg County intake staging.
 
 Service reference: NC-28036-166556ef

@@ -12,26 +12,43 @@ lng: -80.8300
 zipSample: ["28201", "28275", "28227", "28272", "28204"]
 zipCodes: ["28278", "28287", "28228", "28256", "28237", "28242", "28218", "28273", "28221", "28205", "28206", "28255"]
 localPaths: ["Mecklenburg County / ZIP 28275 sector", "Mecklenburg County / ZIP 28201 sector", "Mecklenburg County / ZIP 28272 sector", "Mecklenburg County / primary ZIP 28269", "Mecklenburg County / coords 35.2100, -80.8300"]
-zillowHomeValueUsd: 359429
 ---
 
-**Engineering Notice for Charlotte:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Charlotte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
 
 
-Our service coordination centers on Charlotte, NC coverage windows and verified intake details.
+Basement floor drains in Charlotte, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Water heater anode type may change with Charlotte, NC hardness profiles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Charlotte, NC, but intake notes help reduce delays.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: request a written scope before work starts.
+Hard water in Charlotte, NC accelerates scale on PRV seats and heater elements.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Charlotte, NC.
 
-Field note: Moisture pathway inspection logged near ZIP 28223/28204/28254 intake.
+Branch wet vents in Charlotte, NC can mask gurgling as a main-line issue.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28223/28204/28254.
+Stack vent offsets in Charlotte, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 28223, 28204, 28254, 28205, 28126 (county grid: Mecklenburg County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Irrigation cross-connections in Charlotte, NC can back-siphon domestic lines during main breaks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 474947: meter-pit clearance and dielectric union checklist staged for Charlotte, NC near elevation 692 ft.
+
+Lineage note 474947: recirculation pump amp draw captured before Charlotte, NC branch isolation.
+
+plumbing brief: slab leak listening window and water heater T&P path were cross-checked for the Charlotte intake packet.
+
+Primary postal anchor 28269 with multi-ZIP overlap in Charlotte; field packets tag Mecklenburg County for county-grid reconciliation.
 
 Service reference: NC-28269-a8ca3073

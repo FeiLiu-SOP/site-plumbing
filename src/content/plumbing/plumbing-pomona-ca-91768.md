@@ -12,24 +12,41 @@ lng: -117.7600
 zipSample: ["91768", "91769", "91766", "91767"]
 zipCodes: ["91766", "91769", "91768", "91767"]
 localPaths: ["Los Angeles County / elevation 853 ft band", "Los Angeles County / ZIP 91768 sector", "Los Angeles County / coords 34.0600, -117.7600", "Los Angeles County / ZIP 91767 sector", "Los Angeles County / ZIP 91769 sector"]
-zillowHomeValueUsd: 674139
 ---
 
-**Engineering Notice for Pomona:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pomona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Clear documentation helps align materials, labor, and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 91768.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate local dispatch coverage around Pomona, CA and nearby ZIP sectors.
+CPVC solvent weld times shift with ambient humidity during Pomona, CA shoulder seasons.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Pomona, CA, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 91768/91766/91769 coverage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pomona, CA systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 91768, 91766, 91769, 91767 (county grid: Los Angeles County).
+Trenchless pulls in Pomona, CA require pit dimensions verified against utility locate marks.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Pomona, CA.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 91768.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Across Pomona, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Drain map 164977: camera-pass priority and expansion-tank pre-charge noted for Pomona, CA postal sector 91768.
+
+Flow dossier 164977: branch wet-vent geometry and jetting nozzle envelope logged for Pomona, CA county grid Los Angeles County (ZIP 91768).
+
+Coordinate-anchored dispatch note: center reference 34.0600, -117.7600 at elevation ~853 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91768-742c5124

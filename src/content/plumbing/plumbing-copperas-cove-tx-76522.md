@@ -12,24 +12,41 @@ lng: -97.9100
 zipSample: ["76522"]
 zipCodes: ["76522"]
 localPaths: ["Coryell County / ZIP 76522 sector", "Coryell County / coords 31.1200, -97.9100", "Coryell County / primary ZIP 76522", "Coryell County / elevation 1129 ft band"]
-zillowHomeValueUsd: 223554
 ---
 
-**Engineering Notice for Copperas Cove:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Coryell County.
+**Engineering Notice for Copperas Cove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coryell County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: request a written scope before work starts.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Irrigation cross-connections in Copperas Cove, TX can back-siphon domestic lines during main breaks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Polybutylene manifold tags in Copperas Cove, TX basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 76522 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 76522 (county grid: Coryell County).
+Stack vent offsets in Copperas Cove, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 76522.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Permit note: Main water line replacement in Copperas Cove, TX may require ROW restoration planning.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 504970: toilet flange spacer kit and shower cartridge seat score queued for Copperas Cove, TX walk-through.
+
+Intake ledger 504970: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Copperas Cove, TX at 31.1200, -97.9100.
+
+Field routing: fixture shutoff torque log paired with slab penetration sleeve seal near ZIP 76522.
+
+On-site sector marker: Coryell County / elevation 1129 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76522-60ae3ee8

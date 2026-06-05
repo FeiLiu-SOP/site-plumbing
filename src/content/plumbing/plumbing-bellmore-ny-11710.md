@@ -12,26 +12,45 @@ lng: -73.5300
 zipSample: ["11710"]
 zipCodes: ["11710"]
 localPaths: ["Nassau County / elevation 10 ft band", "Nassau County / primary ZIP 11710", "Nassau County / coords 40.6600, -73.5300", "Nassau County / ZIP 11710 sector"]
-zillowHomeValueUsd: 804891
 ---
 
-**Engineering Notice for Bellmore:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Bellmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in Bellmore, NY older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 11710.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bellmore, NY, but intake notes help reduce delays.
+Permit note: Main water line replacement in Bellmore, NY may require ROW restoration planning.
 
-We coordinate local dispatch coverage around Bellmore, NY and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Moisture pathway inspection logged near ZIP 11710 intake.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 11710.
 
-Field note: Access points and staging constraints recorded for ZIP 11710 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 11710 (county grid: Nassau County).
+Tip: Save water heater serial plates for warranty traceability.
+
+Polybutylene manifold tags in Bellmore, NY basements should be photographed before any wall chase opens.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Bellmore, NY.
+
+Risk flag: Seasonal Bellmore, NY irrigation cross-connections can mask domestic pressure loss.
+
+Hydrostatic holds in Bellmore, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Flow dossier 730102: branch wet-vent geometry and jetting nozzle envelope logged for Bellmore, NY county grid Nassau County (ZIP 11710).
+
+Fixture roster 730102: toilet flange spacer kit and shower cartridge seat score queued for Bellmore, NY walk-through.
+
+Field routing: backflow test cock orientation paired with slab penetration sleeve seal near ZIP 11710.
+
+On-site sector marker: Nassau County / ZIP 11710 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11710-552dac34

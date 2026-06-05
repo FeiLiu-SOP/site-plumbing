@@ -12,26 +12,41 @@ lng: -94.0000
 zipSample: ["77627"]
 zipCodes: ["77627"]
 localPaths: ["Jefferson County / elevation 33 ft band", "Jefferson County / ZIP 77627 sector", "Jefferson County / coords 29.9700, -94.0000", "Jefferson County / primary ZIP 77627"]
-zillowHomeValueUsd: 211369
 ---
 
-**Engineering Notice for Nederland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Nederland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-We coordinate local dispatch coverage around Nederland, TX and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Nederland, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-In Nederland, TX, urgent plumbing issues can escalate quickly.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Access points and staging constraints recorded for ZIP 77627 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 77627.
+Trenchless pulls in Nederland, TX require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 77627 (county grid: Jefferson County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Permit note: Main water line replacement in Nederland, TX may require ROW restoration planning.
+
+Pressure trace 338598: meter-pit clearance and dielectric union checklist staged for Nederland, TX near elevation 33 ft.
+
+Supply audit 338598: curb-stop orientation and hose-bib freeze flag reviewed for Nederland, TX at coords 29.9700/-94.0000.
+
+Scope trace: fixture shutoff torque log plus scale coupon sampling referenced in Jefferson County county grid review.
+
+ZIP-corridor snapshot for Nederland, TX: sampled sectors include 77627; county routing grid remains Jefferson County.
 
 Service reference: TX-77627-5fef57ad

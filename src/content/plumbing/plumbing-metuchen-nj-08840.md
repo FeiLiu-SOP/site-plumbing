@@ -12,27 +12,37 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / elevation 98 ft band", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / ZIP 08840 sector"]
-zillowHomeValueUsd: 682590
 ---
 
-**Engineering Notice for Metuchen:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Metuchen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 08840.
+Dual-water-meter setups in Metuchen, NJ irrigation zones need backflow logs before line replacement.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Metuchen, NJ, but intake notes help reduce delays.
+Risk flag: Seasonal Metuchen, NJ irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Water heater anode type may change with Metuchen, NJ hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08840.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 08840 coverage.
+Stack vent offsets in Metuchen, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 08840 (county grid: Middlesex County).
+Cast-iron hub corrosion in Metuchen, NJ often concentrates at the third joint upstream of the cleanout.
+
+Across Metuchen, NJ, main-line bellies can trap debris even when fixtures drain normally.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Basement floor drains in Metuchen, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 477902: toilet flange spacer kit and shower cartridge seat score queued for Metuchen, NJ walk-through.
+
+**Regional Infrastructure Brief:** Grid anchor set to Middlesex County. Reference elevation: 98 ft. Primary coordinates: 40.5400, -74.3600. ZIP sample: 08840. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 08840.
 
 Service reference: NJ-08840-25efc081

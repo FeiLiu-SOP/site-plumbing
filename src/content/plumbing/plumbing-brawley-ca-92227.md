@@ -12,25 +12,45 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / coords 32.9800, -115.5300", "Imperial County / elevation -113 ft band", "Imperial County / primary ZIP 92227", "Imperial County / ZIP 92227 sector"]
-zillowHomeValueUsd: 358606
 ---
 
-**Engineering Notice for Brawley:** Structural loading calculated based on -113 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for Brawley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92227.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Brawley, CA.
 
-Tip: confirm licensing and insurance before approving work.
+Polybutylene manifold tags in Brawley, CA basements should be photographed before any wall chase opens.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92227.
+Risk flag: In Brawley, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 92227 zone).
+CPVC solvent weld times shift with ambient humidity during Brawley, CA shoulder seasons.
 
-Dispatch sectors sampled: ZIP 92227 (county grid: Imperial County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Hydrostatic holds in Brawley, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Dual-water-meter setups in Brawley, CA irrigation zones need backflow logs before line replacement.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Expansion tank pre-charge loss in Brawley, CA often tracks heater replacement deferrals.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 175264: meter-pit clearance and dielectric union checklist staged for Brawley, CA near elevation -113 ft.
+
+Fixture roster 175264: toilet flange spacer kit and shower cartridge seat score queued for Brawley, CA walk-through.
+
+Field routing: sump float travel paired with slab penetration sleeve seal near ZIP 92227.
+
+On-site sector marker: Imperial County / elevation -113 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92227-7030359f

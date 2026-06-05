@@ -12,25 +12,41 @@ lng: -82.5800
 zipSample: ["34205", "34281", "34208", "34209", "34206"]
 zipCodes: ["34206", "34208", "34281", "34205", "34209"]
 localPaths: ["Manatee County / ZIP 34206 sector", "Manatee County / ZIP 34209 sector", "Manatee County / elevation 33 ft band", "Manatee County / ZIP 34281 sector", "Manatee County / primary ZIP 34208"]
-zillowHomeValueUsd: 323086
 ---
 
-**Engineering Notice for Bradenton:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Manatee County.
+**Engineering Notice for Bradenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manatee County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bradenton, FL, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Our service coordination centers on Bradenton, FL coverage windows and verified intake details.
+Recirculation pump failures in Bradenton, FL can mimic fixture-specific clogs.
 
-Structured milestones protect both sides when scheduling work.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 34208.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Bradenton, FL hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 34208/34281/34205 intake.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 34208, 34281, 34205, 34206, 34209 (county grid: Manatee County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture shutoff stiffness in Bradenton, FL may indicate mineral bridging behind stems.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 34208.
+
+Lineage note 429332: recirculation pump amp draw captured before Bradenton, FL branch isolation.
+
+Pressure trace 429332: meter-pit clearance and dielectric union checklist staged for Bradenton, FL near elevation 33 ft.
+
+On-site sector marker: Manatee County / primary ZIP 34208 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34208-580a6c96

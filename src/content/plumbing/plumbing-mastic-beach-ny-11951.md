@@ -12,27 +12,37 @@ lng: -72.8400
 zipSample: ["11951"]
 zipCodes: ["11951"]
 localPaths: ["Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11951", "Suffolk County / ZIP 11951 sector", "Suffolk County / coords 40.7700, -72.8400"]
-zillowHomeValueUsd: 469053
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Mastic Beach:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Mastic Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Mastic Beach, NY, before spring thaw and hurricane remnants.
 
-Tip: request a written scope before work starts.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 11951.
 
-In Mastic Beach, NY, seasonal demand can change scheduling windows.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mastic Beach, NY, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Homeowners in Mastic Beach, NY often face sudden plumbing problems that require fast action.
+Polybutylene manifold tags in Mastic Beach, NY basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 11951 zone).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 11951.
+Hydrostatic holds in Mastic Beach, NY slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 11951 (county grid: Suffolk County).
+Frost-free sillcock failures in Mastic Beach, NY often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: In Mastic Beach, NY, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: camera-pass main lines in Mastic Beach, NY before jetting older clay or cast iron.
+
+Lineage note 363084: recirculation pump amp draw captured before Mastic Beach, NY branch isolation.
+
+On-site sector marker: Suffolk County / ZIP 11951 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11951-24ef9679

@@ -12,24 +12,37 @@ lng: -73.5900
 zipSample: ["11530", "11556", "11553", "11549", "11555"]
 zipCodes: ["11555", "11549", "11530", "11590", "11553", "11556"]
 localPaths: ["Nassau County / coords 40.7200, -73.5900", "Nassau County / ZIP 11553 sector", "Nassau County / ZIP 11530 sector", "Nassau County / ZIP 11549 sector", "Nassau County / primary ZIP 11549"]
-zillowHomeValueUsd: 661488
 ---
 
-**Engineering Notice for Uniondale:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Uniondale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Homeowners in Uniondale, NY often face sudden plumbing problems that require fast action.
+Hydro-jetting in Uniondale, NY requires camera confirmation before nozzle pressure is raised.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Uniondale, NY, but intake notes help reduce delays.
+Frost-free sillcock failures in Uniondale, NY often trace to interior shutoff seats, not exterior stems.
 
-We coordinate local dispatch coverage around Uniondale, NY and nearby ZIP sectors.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11556/11590/11553.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 11556, 11590, 11553, 11530, 11555 (county grid: Nassau County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Recirculation pump failures in Uniondale, NY can mimic fixture-specific clogs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Seasonal Uniondale, NY irrigation cross-connections can mask domestic pressure loss.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Intake ledger 316475: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Uniondale, NY at 40.7200, -73.5900.
+
+On-site sector marker: Nassau County / primary ZIP 11549 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11549-5d555e60

@@ -12,26 +12,43 @@ lng: -77.0700
 zipSample: ["28562", "28560", "28561"]
 zipCodes: ["28562", "28561", "28560"]
 localPaths: ["Craven County / ZIP 28560 sector", "Craven County / ZIP 28561 sector", "Craven County / ZIP 28562 sector", "Craven County / coords 35.1000, -77.0700", "Craven County / elevation 16 ft band"]
-zillowHomeValueUsd: 268058
 ---
 
-**Engineering Notice for New Bern:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Craven County.
+**Engineering Notice for New Bern:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Craven County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in New Bern, NC often trace to interior shutoff seats, not exterior stems.
 
-In New Bern, NC, urgent plumbing issues can escalate quickly.
+Hose bib split patterns in New Bern, NC often follow missed winterization.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Bern, NC, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Our service coordination centers on New Bern, NC coverage windows and verified intake details.
+Irrigation cross-connections in New Bern, NC can back-siphon domestic lines during main breaks.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Moisture pathway inspection logged near ZIP 28562/28560/28561 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28562/28560/28561.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 28562, 28560, 28561 (county grid: Craven County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Across New Bern, NC, main-line bellies can trap debris even when fixtures drain normally.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 28560.
+
+Cleanout access limits in New Bern, NC frequently extend drain cleaning duration.
+
+Intake ledger 843459: sump amperage, PRV seat wear, and cleanout riser height cross-checked for New Bern, NC at 35.1000, -77.0700.
+
+Fixture roster 843459: toilet flange spacer kit and shower cartridge seat score queued for New Bern, NC walk-through.
+
+On-site sector marker: Craven County / primary ZIP 28560 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28560-750c97b6

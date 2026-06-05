@@ -12,26 +12,43 @@ lng: -77.0700
 zipSample: ["20832", "20860", "20833", "20853", "20830"]
 zipCodes: ["20853", "20860", "20906", "20832", "20833", "20830"]
 localPaths: ["Montgomery County / ZIP 20832 sector", "Montgomery County / elevation 512 ft band", "Montgomery County / ZIP 20830 sector", "Montgomery County / ZIP 20853 sector", "Montgomery County / coords 39.1500, -77.0700"]
-zillowHomeValueUsd: 821787
 ---
 
-**Engineering Notice for Olney:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Olney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Olney, MD.
 
-In Olney, MD, urgent plumbing issues can escalate quickly.
+Water heater T&P discharge paths in Olney, MD must terminate safely before replacement quotes.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 20833/20860/20853 zone).
+Hydro-jetting in Olney, MD requires camera confirmation before nozzle pressure is raised.
 
-Field note: Wind exposure category reviewed for ZIP sector 20833/20860/20853.
+Branch wet vents in Olney, MD can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 20833, 20860, 20853, 20832, 20906 (county grid: Montgomery County).
+Sewer gas odors in Olney, MD should trigger trap seal and vent path review.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in Olney, MD often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: When should sump battery backups be load-tested? In Olney, MD, before spring thaw and hurricane remnants.
+
+Lineage note 481082: recirculation pump amp draw captured before Olney, MD branch isolation.
+
+Fixture roster 481082: toilet flange spacer kit and shower cartridge seat score queued for Olney, MD walk-through.
+
+Field routing: copper pinhole cluster paired with dielectric union checklist near ZIP 20860.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~512 ft across the Montgomery County area. Coordinates: 39.1500, -77.0700. ZIP sample: 20832, 20906, 20830, 20833, 20853. Regional routing note: Montgomery County traffic flow is balanced around ZIP 20860 service demand.
 
 Service reference: MD-20860-6e8e6338

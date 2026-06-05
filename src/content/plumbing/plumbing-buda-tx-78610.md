@@ -12,26 +12,45 @@ lng: -97.8500
 zipSample: ["78610"]
 zipCodes: ["78610"]
 localPaths: ["Hays County / ZIP 78610 sector", "Hays County / primary ZIP 78610", "Hays County / elevation 715 ft band", "Hays County / coords 30.0800, -97.8500"]
-zillowHomeValueUsd: 363704
 ---
 
-**Engineering Notice for Buda:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Hays County.
+**Engineering Notice for Buda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hays County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hard water in Buda, TX accelerates scale on PRV seats and heater elements.
 
-Transparent pricing helps you compare like-for-like scope items.
+CPVC solvent weld times shift with ambient humidity during Buda, TX shoulder seasons.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydro-jetting in Buda, TX requires camera confirmation before nozzle pressure is raised.
 
-Tip: confirm licensing and insurance before approving work.
+Frost-free sillcock failures in Buda, TX often trace to interior shutoff seats, not exterior stems.
 
-Field note: Access points and staging constraints recorded for ZIP 78610 coverage.
+FAQ: When is cabling enough? In Buda, TX, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 78610.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 78610 (county grid: Hays County).
+Hydrostatic holds in Buda, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78610.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Buda, TX systems need rebalancing.
+
+Risk flag: Seasonal Buda, TX irrigation cross-connections can mask domestic pressure loss.
+
+Intake ledger 585878: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Buda, TX at 30.0800, -97.8500.
+
+Fixture roster 585878: toilet flange spacer kit and shower cartridge seat score queued for Buda, TX walk-through.
+
+plumbing brief: backflow test cock orientation and water softener bypass lever were cross-checked for the Buda intake packet.
+
+On-site sector marker: Hays County / ZIP 78610 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78610-33a87a8b

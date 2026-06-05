@@ -12,24 +12,37 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / elevation 2841 ft band", "Finney County / primary ZIP 67846", "Finney County / coords 37.9800, -100.8500", "Finney County / ZIP 67846 sector"]
-zillowHomeValueUsd: 233464
 ---
 
-**Engineering Notice for Garden City:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Finney County.
+**Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Finney County.
 
 
-We coordinate local dispatch coverage around Garden City, KS and nearby ZIP sectors.
+Material note: Water heater anode type may change with Garden City, KS hardness profiles.
 
-Tip: request a written scope before work starts.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Garden City, KS, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Garden City, KS systems need rebalancing.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Garden City, KS often concentrates at the third joint upstream of the cleanout.
 
-Field note: Connection points spot-checked where accessible (ZIP 67846 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 67846 (county grid: Finney County).
+Frost-free sillcock failures in Garden City, KS often trace to interior shutoff seats, not exterior stems.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Expansion tank pre-charge loss in Garden City, KS often tracks heater replacement deferrals.
+
+Dispatch packets reference county grid Finney County near ZIP 67846.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Trenchless pulls in Garden City, KS require pit dimensions verified against utility locate marks.
+
+Fixture roster 225153: toilet flange spacer kit and shower cartridge seat score queued for Garden City, KS walk-through.
+
+**Regional Infrastructure Brief:** Grid anchor set to Finney County. Reference elevation: 2841 ft. Primary coordinates: 37.9800, -100.8500. ZIP sample: 67846. Service perimeter note: Coverage extends through Finney County with dispatch centered near ZIP 67846.
 
 Service reference: KS-67846-0014dd57

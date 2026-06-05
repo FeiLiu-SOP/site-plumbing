@@ -12,25 +12,39 @@ lng: -90.2100
 zipSample: ["63138"]
 zipCodes: ["63138"]
 localPaths: ["St. Louis County / ZIP 63138 sector", "St. Louis County / coords 38.7900, -90.2100", "St. Louis County / primary ZIP 63138", "St. Louis County / elevation 531 ft band"]
-zillowHomeValueUsd: 148372
 ---
 
-**Engineering Notice for Spanish Lake:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Spanish Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-Local conditions in Spanish Lake, MO can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63138.
+FAQ: When should sump battery backups be load-tested? In Spanish Lake, MO, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Spanish Lake, MO coverage windows and verified intake details.
+Sewer gas odors in Spanish Lake, MO should trigger trap seal and vent path review.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Spanish Lake, MO systems need rebalancing.
 
-Field note: Connection points spot-checked where accessible (ZIP 63138 zone).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 63138.
 
-Dispatch sectors sampled: ZIP 63138 (county grid: St. Louis County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 63138.
+
+Risk flag: In Spanish Lake, MO, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Dispatch packets reference county grid St. Louis County near ZIP 63138.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Supply audit 401808: curb-stop orientation and hose-bib freeze flag reviewed for Spanish Lake, MO at coords 38.7900/-90.2100.
+
+On-site sector marker: St. Louis County / coords 38.7900, -90.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63138-74d113df

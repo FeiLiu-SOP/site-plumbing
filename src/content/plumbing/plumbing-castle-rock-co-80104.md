@@ -12,26 +12,39 @@ lng: -104.8500
 zipSample: ["80108", "80109", "80104"]
 zipCodes: ["80108", "80109", "80104"]
 localPaths: ["Douglas County / ZIP 80109 sector", "Douglas County / ZIP 80104 sector", "Douglas County / elevation 6309 ft band", "Douglas County / ZIP 80108 sector", "Douglas County / coords 39.3800, -104.8500"]
-zillowHomeValueUsd: 614724
 ---
 
-**Engineering Notice for Castle Rock:** Structural loading calculated based on 6309 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Castle Rock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-Homeowners in Castle Rock, CO often face sudden plumbing problems that require fast action.
+Hose bib split patterns in Castle Rock, CO often follow missed winterization.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Castle Rock, CO, but intake notes help reduce delays.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-We coordinate local dispatch coverage around Castle Rock, CO and nearby ZIP sectors.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Connection points spot-checked where accessible (ZIP 80109/80104/80108 zone).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Castle Rock, CO.
 
-Field note: Wind exposure category reviewed for ZIP sector 80109/80104/80108.
+Stack vent offsets in Castle Rock, CO older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 80109, 80104, 80108 (county grid: Douglas County).
+Polybutylene manifold tags in Castle Rock, CO basements should be photographed before any wall chase opens.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Permit note: Main water line replacement in Castle Rock, CO may require ROW restoration planning.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Flow dossier 781712: branch wet-vent geometry and jetting nozzle envelope logged for Castle Rock, CO county grid Douglas County (ZIP 80104).
+
+Scope trace: fixture shutoff torque log plus water heater T&P path referenced in Douglas County county grid review.
+
+Primary postal anchor 80104 with multi-ZIP overlap in Castle Rock; field packets tag Douglas County for county-grid reconciliation.
 
 Service reference: CO-80104-e4b1b56a

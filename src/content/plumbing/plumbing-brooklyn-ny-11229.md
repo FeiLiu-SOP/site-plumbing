@@ -12,26 +12,45 @@ lng: -73.9500
 zipSample: ["11209", "11234", "11225", "11251", "11202"]
 zipCodes: ["11207", "11222", "11220", "11235", "11243", "11239", "11228", "11210", "11226", "11225", "11219", "11217"]
 localPaths: ["Kings County / coords 40.6500, -73.9500", "Kings County / ZIP 11209 sector", "Kings County / ZIP 11251 sector", "Kings County / primary ZIP 11229", "Kings County / elevation 59 ft band"]
-zillowHomeValueUsd: 767702
 ---
 
-**Engineering Notice for Brooklyn:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Brooklyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Clear documentation helps align materials, labor, and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 11229.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Trenchless pulls in Brooklyn, NY require pit dimensions verified against utility locate marks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Brooklyn, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11213/11220/11252.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 11213/11220/11252.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 11213, 11220, 11252, 11212, 11231 (county grid: Kings County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Hose bib split patterns in Brooklyn, NY often follow missed winterization.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Branch wet vents in Brooklyn, NY can mask gurgling as a main-line issue.
+
+Intake ledger 492553: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brooklyn, NY at 40.6500, -73.9500.
+
+Flow dossier 492553: branch wet-vent geometry and jetting nozzle envelope logged for Brooklyn, NY county grid Kings County (ZIP 11229).
+
+Scope trace: thermal expansion loop check plus copper pinhole cluster referenced in Kings County county grid review.
+
+Primary postal anchor 11229 with multi-ZIP overlap in Brooklyn; field packets tag Kings County for county-grid reconciliation.
 
 Service reference: NY-11229-17a4b7b5

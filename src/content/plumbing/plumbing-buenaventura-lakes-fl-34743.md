@@ -12,26 +12,39 @@ lng: -81.3500
 zipSample: ["34743"]
 zipCodes: ["34743"]
 localPaths: ["Osceola County / coords 28.3300, -81.3500", "Osceola County / primary ZIP 34743", "Osceola County / ZIP 34743 sector", "Osceola County / elevation 89 ft band"]
-zillowHomeValueUsd: 339179
 ---
 
-**Engineering Notice for Buenaventura Lakes:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Osceola County.
+**Engineering Notice for Buenaventura Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Osceola County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Buenaventura Lakes, FL, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 34743.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Wind exposure category reviewed for ZIP sector 34743.
+FAQ: When should sump battery backups be load-tested? In Buenaventura Lakes, FL, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 34743 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 34743 (county grid: Osceola County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Cast-iron hub corrosion in Buenaventura Lakes, FL often concentrates at the third joint upstream of the cleanout.
+
+Fixture roster 543223: toilet flange spacer kit and shower cartridge seat score queued for Buenaventura Lakes, FL walk-through.
+
+ZIP-corridor snapshot for Buenaventura Lakes, FL: sampled sectors include 34743; county routing grid remains Osceola County.
 
 Service reference: FL-34743-26deda2b

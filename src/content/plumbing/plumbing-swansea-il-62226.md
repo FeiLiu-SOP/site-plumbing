@@ -12,25 +12,41 @@ lng: -89.9900
 zipSample: ["62226"]
 zipCodes: ["62226"]
 localPaths: ["St. Clair County / elevation 574 ft band", "St. Clair County / coords 38.5500, -89.9900", "St. Clair County / primary ZIP 62226", "St. Clair County / ZIP 62226 sector"]
-zillowHomeValueUsd: 180657
 ---
 
-**Engineering Notice for Swansea:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Swansea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Swansea, IL, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Water heater anode type may change with Swansea, IL hardness profiles.
 
-We coordinate local dispatch coverage around Swansea, IL and nearby ZIP sectors.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 62226.
+Hard water in Swansea, IL accelerates scale on PRV seats and heater elements.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62226.
+Irrigation cross-connections in Swansea, IL can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 62226 (county grid: St. Clair County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+In Swansea, IL, slab leaks often present as warm spots before wall stains appear.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 62226.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Pressure trace 734134: meter-pit clearance and dielectric union checklist staged for Swansea, IL near elevation 574 ft.
+
+Scope trace: gas water heater draft hood gap plus recirculation pump amp draw referenced in St. Clair County county grid review.
+
+Primary postal anchor 62226 with multi-ZIP overlap in Swansea; field packets tag St. Clair County for county-grid reconciliation.
 
 Service reference: IL-62226-4ecc3caf

@@ -12,26 +12,37 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / elevation 1070 ft band", "San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / ZIP 92316 sector"]
-zillowHomeValueUsd: 564806
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: request a written scope before work starts.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bloomington, CA, but intake notes help reduce delays.
+Stack vent offsets in Bloomington, CA older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Bloomington, CA and nearby ZIP sectors.
+Fixture shutoff stiffness in Bloomington, CA may indicate mineral bridging behind stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Bloomington, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 92316 zone).
+Dispatch packets reference county grid San Bernardino County near ZIP 92316.
 
-Field note: Wind exposure category reviewed for ZIP sector 92316.
+Hydro-jetting in Bloomington, CA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 92316 (county grid: San Bernardino County).
+Trenchless pulls in Bloomington, CA require pit dimensions verified against utility locate marks.
+
+Expansion tank pre-charge loss in Bloomington, CA often tracks heater replacement deferrals.
+
+Cast-iron hub corrosion in Bloomington, CA often concentrates at the third joint upstream of the cleanout.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: Water heater anode type may change with Bloomington, CA hardness profiles.
+
+Intake ledger 667494: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bloomington, CA at 34.0600, -117.4000.
+
+On-site sector marker: San Bernardino County / elevation 1070 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92316-847845fe

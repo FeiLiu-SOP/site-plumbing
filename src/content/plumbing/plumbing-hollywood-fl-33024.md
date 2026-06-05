@@ -12,26 +12,45 @@ lng: -80.1700
 zipSample: ["33316", "33022", "33081", "33312", "33004"]
 zipCodes: ["33022", "33302", "33021", "33023", "33019", "33020", "33082", "33316", "33024", "33004", "33312", "33081"]
 localPaths: ["Broward County / ZIP 33022 sector", "Broward County / coords 26.0300, -80.1700", "Broward County / ZIP 33312 sector", "Broward County / ZIP 33004 sector", "Broward County / primary ZIP 33024"]
-zillowHomeValueUsd: 465751
 ---
 
-**Engineering Notice for Hollywood:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Hollywood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Hollywood, FL and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hollywood, FL, but intake notes help reduce delays.
+Dispatch packets reference county grid Broward County near ZIP 33024.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33024.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33024.
+Stack vent offsets in Hollywood, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33020/33023/33024.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 33024.
 
-Dispatch sectors sampled: ZIP 33020, 33023, 33024, 33081, 33316 (county grid: Broward County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hollywood, FL systems need rebalancing.
+
+Hydrostatic holds in Hollywood, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Frost-free sillcock failures in Hollywood, FL often trace to interior shutoff seats, not exterior stems.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33024.
+
+Pressure trace 583981: meter-pit clearance and dielectric union checklist staged for Hollywood, FL near elevation 30 ft.
+
+Drain map 583981: camera-pass priority and expansion-tank pre-charge noted for Hollywood, FL postal sector 33024.
+
+Field routing: toilet flange spacer kit paired with fixture shutoff torque log near ZIP 33024.
+
+Primary postal anchor 33024 with multi-ZIP overlap in Hollywood; field packets tag Broward County for county-grid reconciliation.
 
 Service reference: FL-33024-e1da512b

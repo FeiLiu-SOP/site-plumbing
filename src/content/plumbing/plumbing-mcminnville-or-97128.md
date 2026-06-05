@@ -12,26 +12,41 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / elevation 164 ft band", "Yamhill County / ZIP 97128 sector", "Yamhill County / coords 45.2100, -123.1900", "Yamhill County / primary ZIP 97128"]
-zillowHomeValueUsd: 485278
 ---
 
-**Engineering Notice for McMinnville:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Yamhill County.
+**Engineering Notice for McMinnville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yamhill County.
 
 
-Our service coordination centers on McMinnville, OR coverage windows and verified intake details.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Homeowners in McMinnville, OR often face sudden plumbing problems that require fast action.
+Frost-free sillcock failures in McMinnville, OR often trace to interior shutoff seats, not exterior stems.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: request a written scope before work starts.
+FAQ: When should sump battery backups be load-tested? In McMinnville, OR, before spring thaw and hurricane remnants.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Connection points spot-checked where accessible (ZIP 97128 zone).
+Fixture shutoff stiffness in McMinnville, OR may indicate mineral bridging behind stems.
 
-Field note: Moisture pathway inspection logged near ZIP 97128 intake.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 97128 (county grid: Yamhill County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dispatch packets reference county grid Yamhill County near ZIP 97128.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in McMinnville, OR systems need rebalancing.
+
+Polybutylene manifold tags in McMinnville, OR basements should be photographed before any wall chase opens.
+
+Trenchless pulls in McMinnville, OR require pit dimensions verified against utility locate marks.
+
+Drain map 294558: camera-pass priority and expansion-tank pre-charge noted for McMinnville, OR postal sector 97128.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~164 ft across the Yamhill County area. Coordinates: 45.2100, -123.1900. ZIP sample: 97128. Regional routing note: Yamhill County traffic flow is balanced around ZIP 97128 service demand.
 
 Service reference: OR-97128-3b13e8ba

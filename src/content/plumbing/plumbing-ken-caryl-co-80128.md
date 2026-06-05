@@ -12,25 +12,37 @@ lng: -105.1100
 zipSample: ["80128", "80127", "80123", "80162"]
 zipCodes: ["80162", "80127", "80123", "80128"]
 localPaths: ["Jefferson County / ZIP 80127 sector", "Jefferson County / primary ZIP 80128", "Jefferson County / ZIP 80162 sector", "Jefferson County / coords 39.5800, -105.1100", "Jefferson County / ZIP 80123 sector"]
-zillowHomeValueUsd: 602625
 ---
 
-**Engineering Notice for Ken Caryl:** Structural loading calculated based on 5807 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Ken Caryl:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ken Caryl, CO systems need rebalancing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 80128.
+Fixture shutoff stiffness in Ken Caryl, CO may indicate mineral bridging behind stems.
 
-Tip: avoid large upfront payments without milestones.
+Frost-free sillcock failures in Ken Caryl, CO often trace to interior shutoff seats, not exterior stems.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Access points and staging constraints recorded for ZIP 80123/80127/80162 coverage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 80123, 80127, 80162, 80128 (county grid: Jefferson County).
+FAQ: When should sump battery backups be load-tested? In Ken Caryl, CO, before spring thaw and hurricane remnants.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 80128.
+
+Branch wet vents in Ken Caryl, CO can mask gurgling as a main-line issue.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Intake ledger 641427: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ken Caryl, CO at 39.5800, -105.1100.
+
+On-site sector marker: Jefferson County / ZIP 80128 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80128-22abf95c

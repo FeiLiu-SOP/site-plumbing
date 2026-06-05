@@ -12,24 +12,43 @@ lng: -122.5300
 zipSample: ["98496", "98499", "98497", "98498"]
 zipCodes: ["98499", "98497", "98498", "98496"]
 localPaths: ["Pierce County / ZIP 98497 sector", "Pierce County / ZIP 98499 sector", "Pierce County / ZIP 98496 sector", "Pierce County / elevation 233 ft band", "Pierce County / ZIP 98498 sector"]
-zillowHomeValueUsd: 481493
 ---
 
-**Engineering Notice for Lakewood:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Lakewood, WA before jetting older clay or cast iron.
 
-We coordinate local dispatch coverage around Lakewood, WA and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 98497/98499/98496.
+Material note: Water heater anode type may change with Lakewood, WA hardness profiles.
 
-Dispatch sectors sampled: ZIP 98497, 98499, 98496, 98498 (county grid: Pierce County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Irrigation cross-connections in Lakewood, WA can back-siphon domestic lines during main breaks.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+We coordinate Lakewood, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+FAQ: When is cabling enough? In Lakewood, WA, pipe material and blockage type dictate method.
+
+Supply audit 687866: curb-stop orientation and hose-bib freeze flag reviewed for Lakewood, WA at coords 47.1600/-122.5300.
+
+plumbing brief: meter pit clearance and jetter nozzle envelope were cross-checked for the Lakewood intake packet.
+
+On-site sector marker: Pierce County / primary ZIP 98499 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98499-e42c5331

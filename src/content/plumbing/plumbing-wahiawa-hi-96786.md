@@ -12,24 +12,41 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / coords 21.5000, -158.0200", "Honolulu County / primary ZIP 96786"]
-zillowHomeValueUsd: 850654
 ---
 
-**Engineering Notice for Wahiawa:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Wahiawa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Wahiawa, HI and nearby ZIP sectors.
+Polybutylene manifold tags in Wahiawa, HI basements should be photographed before any wall chase opens.
 
-Tip: compare at least two estimates for scope and timeline.
+Trenchless pulls in Wahiawa, HI require pit dimensions verified against utility locate marks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wahiawa, HI, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 96786 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 96786 (county grid: Honolulu County).
+Material note: Water heater anode type may change with Wahiawa, HI hardness profiles.
+
+Hydrostatic holds in Wahiawa, HI slab circuits run overnight when listening mics show ambiguous hits.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dual-water-meter setups in Wahiawa, HI irrigation zones need backflow logs before line replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Fixture shutoff stiffness in Wahiawa, HI may indicate mineral bridging behind stems.
+
+Lineage note 971640: recirculation pump amp draw captured before Wahiawa, HI branch isolation.
+
+On-site sector marker: Honolulu County / primary ZIP 96786 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96786-7d1f74e3

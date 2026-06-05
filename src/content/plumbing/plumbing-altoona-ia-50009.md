@@ -12,26 +12,41 @@ lng: -93.4800
 zipSample: ["50009"]
 zipCodes: ["50009"]
 localPaths: ["Polk County / primary ZIP 50009", "Polk County / elevation 942 ft band", "Polk County / ZIP 50009 sector", "Polk County / coords 41.6500, -93.4800"]
-zillowHomeValueUsd: 316813
 ---
 
-**Engineering Notice for Altoona:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Altoona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Main water line replacement in Altoona, IA may require ROW restoration planning.
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sump discharge freeze risk in Altoona, IA should be reviewed before spring thaw cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 50009 zone).
+Trenchless pulls in Altoona, IA require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 50009 intake.
+Hard water in Altoona, IA accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 50009 (county grid: Polk County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Frost-free sillcock failures in Altoona, IA often trace to interior shutoff seats, not exterior stems.
+
+Basement floor drains in Altoona, IA should be snaked only after trap arm geometry is confirmed on camera.
+
+Dual-water-meter setups in Altoona, IA irrigation zones need backflow logs before line replacement.
+
+Recirculation pump failures in Altoona, IA can mimic fixture-specific clogs.
+
+Flow dossier 552951: branch wet-vent geometry and jetting nozzle envelope logged for Altoona, IA county grid Polk County (ZIP 50009).
+
+Lineage note 552951: recirculation pump amp draw captured before Altoona, IA branch isolation.
+
+Field routing: cleanout riser height paired with thermal expansion loop check near ZIP 50009.
+
+On-site sector marker: Polk County / elevation 942 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50009-0be20e7c

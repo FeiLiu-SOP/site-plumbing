@@ -12,26 +12,43 @@ lng: -75.3700
 zipSample: ["18017", "18018", "18015", "18016"]
 zipCodes: ["18015", "18016", "18017", "18018"]
 localPaths: ["Northampton County / coords 40.6300, -75.3700", "Northampton County / ZIP 18018 sector", "Northampton County / elevation 351 ft band", "Northampton County / ZIP 18017 sector", "Northampton County / ZIP 18016 sector"]
-zillowHomeValueUsd: 378584
 ---
 
-**Engineering Notice for Bethlehem:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Northampton County.
+**Engineering Notice for Bethlehem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Northampton County.
 
 
-Our service coordination centers on Bethlehem, PA coverage windows and verified intake details.
+Stack vent offsets in Bethlehem, PA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bethlehem, PA, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 18016/18015/18017 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 18016/18015/18017.
+Fixture shutoff stiffness in Bethlehem, PA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 18016, 18015, 18017, 18018 (county grid: Northampton County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 18017.
+
+Frost-free sillcock failures in Bethlehem, PA often trace to interior shutoff seats, not exterior stems.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Permit note: Main water line replacement in Bethlehem, PA may require ROW restoration planning.
+
+Step: log PRV inlet and outlet readings during intake.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When should sump battery backups be load-tested? In Bethlehem, PA, before spring thaw and hurricane remnants.
+
+Lineage note 890578: recirculation pump amp draw captured before Bethlehem, PA branch isolation.
+
+Scope trace: branch wet vent geometry plus toilet flange spacer kit referenced in Northampton County county grid review.
+
+On-site sector marker: Northampton County / ZIP 18016 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18017-8cf68971

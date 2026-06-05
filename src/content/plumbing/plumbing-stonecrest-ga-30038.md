@@ -12,26 +12,41 @@ lng: -84.1400
 zipSample: ["30035", "30058", "30038"]
 zipCodes: ["30038", "30035", "30058"]
 localPaths: ["DeKalb County / elevation 856 ft band", "DeKalb County / primary ZIP 30038", "DeKalb County / coords 33.6800, -84.1400", "DeKalb County / ZIP 30038 sector", "DeKalb County / ZIP 30058 sector"]
-zillowHomeValueUsd: 253921
 ---
 
-**Engineering Notice for Stonecrest:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Stonecrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-We coordinate local dispatch coverage around Stonecrest, GA and nearby ZIP sectors.
+Frost-free sillcock failures in Stonecrest, GA often trace to interior shutoff seats, not exterior stems.
 
-Tip: request a written scope before work starts.
+Sump discharge freeze risk in Stonecrest, GA should be reviewed before spring thaw cycles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stonecrest, GA, but intake notes help reduce delays.
+Risk flag: Seasonal Stonecrest, GA irrigation cross-connections can mask domestic pressure loss.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 30058/30035/30038.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30058/30035/30038.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 30058, 30035, 30038 (county grid: DeKalb County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 30038.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stonecrest, GA systems need rebalancing.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Stack vent offsets in Stonecrest, GA older duplexes can mask tub gurgle as a main-line failure.
+
+Intake ledger 291249: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Stonecrest, GA at 33.6800, -84.1400.
+
+Coordinate-anchored dispatch note: center reference 33.6800, -84.1400 at elevation ~856 ft aligns with DeKalb County intake staging.
 
 Service reference: GA-30038-b07283e3

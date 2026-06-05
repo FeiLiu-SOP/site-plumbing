@@ -12,26 +12,39 @@ lng: -76.1400
 zipSample: ["13214", "13206", "13202", "13210", "13217"]
 zipCodes: ["13203", "13206", "13261", "13224", "13202", "13290", "13205", "13244", "13204", "13214", "13208", "13207"]
 localPaths: ["Onondaga County / ZIP 13214 sector", "Onondaga County / ZIP 13217 sector", "Onondaga County / ZIP 13210 sector", "Onondaga County / primary ZIP 13210", "Onondaga County / ZIP 13202 sector"]
-zillowHomeValueUsd: 254842
 ---
 
-**Engineering Notice for Syracuse:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Onondaga County.
+**Engineering Notice for Syracuse:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Onondaga County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Syracuse, NY.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Main water line replacement in Syracuse, NY may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 13205/13218/13208.
+Expansion tank pre-charge loss in Syracuse, NY often tracks heater replacement deferrals.
 
-Field note: Access points and staging constraints recorded for ZIP 13205/13218/13208 coverage.
+Material note: Water heater anode type may change with Syracuse, NY hardness profiles.
 
-Dispatch sectors sampled: ZIP 13205, 13218, 13208, 13206, 13207 (county grid: Onondaga County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Trenchless pulls in Syracuse, NY require pit dimensions verified against utility locate marks.
+
+Frost-free sillcock failures in Syracuse, NY often trace to interior shutoff seats, not exterior stems.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+CPVC solvent weld times shift with ambient humidity during Syracuse, NY shoulder seasons.
+
+Fixture roster 743855: toilet flange spacer kit and shower cartridge seat score queued for Syracuse, NY walk-through.
+
+ZIP-corridor snapshot for Syracuse, NY: sampled sectors include 13290, 13206, 13214, 13244, 13202, 13218, 13205, 13217; county routing grid remains Onondaga County.
 
 Service reference: NY-13210-2dd89266

@@ -12,24 +12,37 @@ lng: -118.1400
 zipSample: ["91121", "91116", "91115", "91129", "91101"]
 zipCodes: ["91110", "91109", "91121", "91105", "91115", "91184", "91126", "91101", "91124", "91125", "91103", "91107"]
 localPaths: ["Los Angeles County / ZIP 91121 sector", "Los Angeles County / ZIP 91116 sector", "Los Angeles County / primary ZIP 91103", "Los Angeles County / elevation 928 ft band", "Los Angeles County / ZIP 91101 sector"]
-zillowHomeValueUsd: 1083812
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-In Pasadena, CA, seasonal demand can change scheduling windows.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Pasadena, CA, slab leaks often present as warm spots before wall stains appear.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Pasadena, CA.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 91110/91199/91121.
+Trenchless sleeve pulls near Pasadena, CA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 91110, 91199, 91121, 91107, 91125 (county grid: Los Angeles County).
+Frost-free sillcock failures in Pasadena, CA often trace to interior shutoff seats, not exterior stems.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Pasadena, CA.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Fixture roster 347966: toilet flange spacer kit and shower cartridge seat score queued for Pasadena, CA walk-through.
+
+Coordinate-anchored dispatch note: center reference 34.1600, -118.1400 at elevation ~928 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91103-1130d69c

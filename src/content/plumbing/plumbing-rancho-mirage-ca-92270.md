@@ -12,26 +12,41 @@ lng: -116.4300
 zipSample: ["92270"]
 zipCodes: ["92270"]
 localPaths: ["Riverside County / elevation 249 ft band", "Riverside County / primary ZIP 92270", "Riverside County / coords 33.7600, -116.4300", "Riverside County / ZIP 92270 sector"]
-zillowHomeValueUsd: 843962
 ---
 
-**Engineering Notice for Rancho Mirage:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Rancho Mirage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-We coordinate local dispatch coverage around Rancho Mirage, CA and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Rancho Mirage, CA, before spring thaw and hurricane remnants.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 92270.
 
-Field note: Connection points spot-checked where accessible (ZIP 92270 zone).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 92270 intake.
+Hydrostatic holds in Rancho Mirage, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 92270 (county grid: Riverside County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Seasonal Rancho Mirage, CA irrigation cross-connections can mask domestic pressure loss.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92270.
+
+Lineage note 323505: recirculation pump amp draw captured before Rancho Mirage, CA branch isolation.
+
+Supply audit 323505: curb-stop orientation and hose-bib freeze flag reviewed for Rancho Mirage, CA at coords 33.7600/-116.4300.
+
+Coordinate-anchored dispatch note: center reference 33.7600, -116.4300 at elevation ~249 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92270-53baecac

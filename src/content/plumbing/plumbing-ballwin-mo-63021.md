@@ -12,24 +12,39 @@ lng: -90.5500
 zipSample: ["63021", "63011", "63024", "63022"]
 zipCodes: ["63022", "63021", "63011", "63024"]
 localPaths: ["St. Louis County / ZIP 63022 sector", "St. Louis County / coords 38.5900, -90.5500", "St. Louis County / ZIP 63021 sector", "St. Louis County / primary ZIP 63021", "St. Louis County / ZIP 63024 sector"]
-zillowHomeValueUsd: 386278
 ---
 
-**Engineering Notice for Ballwin:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Ballwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ballwin, MO, but intake notes help reduce delays.
+Permit note: Main water line replacement in Ballwin, MO may require ROW restoration planning.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Ballwin, MO basements should be photographed before any wall chase opens.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ballwin, MO.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+Cast-iron hub corrosion in Ballwin, MO often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 63011/63022/63021 coverage.
+Frost-free sillcock failures in Ballwin, MO often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 63011, 63022, 63021, 63024 (county grid: St. Louis County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Seasonal Ballwin, MO irrigation cross-connections can mask domestic pressure loss.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Ballwin, MO.
+
+Step: map sump float travel and check-valve orientation for Ballwin, MO basements.
+
+Material note: Water heater anode type may change with Ballwin, MO hardness profiles.
+
+Galvanized segments in Ballwin, MO may restrict flow long before visible corrosion.
+
+Flow dossier 692241: branch wet-vent geometry and jetting nozzle envelope logged for Ballwin, MO county grid St. Louis County (ZIP 63021).
+
+On-site sector marker: St. Louis County / ZIP 63022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63021-8b615f16

@@ -12,24 +12,41 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / ZIP 98221 sector", "Skagit County / elevation 302 ft band", "Skagit County / coords 48.4900, -122.6300", "Skagit County / primary ZIP 98221"]
-zillowHomeValueUsd: 720443
 ---
 
-**Engineering Notice for Anacortes:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Skagit County.
+**Engineering Notice for Anacortes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Skagit County.
 
 
-We coordinate local dispatch coverage around Anacortes, WA and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Transparent pricing helps you compare like-for-like scope items.
+Sump discharge freeze risk in Anacortes, WA should be reviewed before spring thaw cycles.
 
-Tip: confirm licensing and insurance before approving work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 98221 coverage.
+FAQ: Is hydro-jetting always appropriate? In Anacortes, WA, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 98221 (county grid: Skagit County).
+Irrigation cross-connections in Anacortes, WA can back-siphon domestic lines during main breaks.
+
+Dispatch packets reference county grid Skagit County near ZIP 98221.
+
+Stack vent offsets in Anacortes, WA older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 369238: curb-stop orientation and hose-bib freeze flag reviewed for Anacortes, WA at coords 48.4900/-122.6300.
+
+plumbing brief: branch wet vent geometry and fixture shutoff torque log were cross-checked for the Anacortes intake packet.
+
+On-site sector marker: Skagit County / elevation 302 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98221-3f9fcd61

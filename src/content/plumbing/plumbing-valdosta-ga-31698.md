@@ -12,27 +12,39 @@ lng: -83.2800
 zipSample: ["31601", "31603", "31698", "31605", "31602"]
 zipCodes: ["31604", "31698", "31602", "31601", "31605", "31603"]
 localPaths: ["Lowndes County / coords 30.8500, -83.2800", "Lowndes County / ZIP 31698 sector", "Lowndes County / elevation 213 ft band", "Lowndes County / primary ZIP 31698", "Lowndes County / ZIP 31602 sector"]
-zillowHomeValueUsd: 206252
 ---
 
-**Engineering Notice for Valdosta:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Lowndes County.
+**Engineering Notice for Valdosta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lowndes County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 31698.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Valdosta, GA coverage windows and verified intake details.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 31698.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Water heater T&P discharge paths in Valdosta, GA must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Valdosta, GA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 31602/31604/31605.
+We coordinate Valdosta, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31602/31604/31605.
+Across Valdosta, GA, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 31602, 31604, 31605, 31698, 31601 (county grid: Lowndes County).
+Risk flag: Seasonal Valdosta, GA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Valdosta, GA systems need rebalancing.
+
+Polybutylene manifold tags in Valdosta, GA basements should be photographed before any wall chase opens.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Intake ledger 527480: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Valdosta, GA at 30.8500, -83.2800.
+
+Scope trace: water heater T&P path plus meter pit clearance referenced in Lowndes County county grid review.
+
+On-site sector marker: Lowndes County / ZIP 31605 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31698-dc036f18

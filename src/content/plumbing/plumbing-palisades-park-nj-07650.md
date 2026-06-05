@@ -12,26 +12,41 @@ lng: -74.0000
 zipSample: ["07650"]
 zipCodes: ["07650"]
 localPaths: ["Bergen County / ZIP 07650 sector", "Bergen County / elevation 115 ft band", "Bergen County / coords 40.8500, -74.0000", "Bergen County / primary ZIP 07650"]
-zillowHomeValueUsd: 983981
 ---
 
-**Engineering Notice for Palisades Park:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Palisades Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydro-jetting in Palisades Park, NJ requires camera confirmation before nozzle pressure is raised.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palisades Park, NJ, but intake notes help reduce delays.
+Risk flag: In Palisades Park, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Palisades Park, NJ.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sump discharge freeze risk in Palisades Park, NJ should be reviewed before spring thaw cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 07650 zone).
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07650.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 07650 (county grid: Bergen County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+We coordinate Palisades Park, NJ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Recirculation pump failures in Palisades Park, NJ can mimic fixture-specific clogs.
+
+FAQ: When is cabling enough? In Palisades Park, NJ, pipe material and blockage type dictate method.
+
+Flow dossier 899756: branch wet-vent geometry and jetting nozzle envelope logged for Palisades Park, NJ county grid Bergen County (ZIP 07650).
+
+Supply audit 899756: curb-stop orientation and hose-bib freeze flag reviewed for Palisades Park, NJ at coords 40.8500/-74.0000.
+
+Field routing: shower cartridge seat score paired with hose bib freeze flag near ZIP 07650.
+
+Coordinate-anchored dispatch note: center reference 40.8500, -74.0000 at elevation ~115 ft aligns with Bergen County intake staging.
 
 Service reference: NJ-07650-525521fd

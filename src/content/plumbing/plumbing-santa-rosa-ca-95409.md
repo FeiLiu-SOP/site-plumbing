@@ -12,24 +12,41 @@ lng: -122.7100
 zipSample: ["95404", "95407", "95406", "95401", "95405"]
 zipCodes: ["95406", "95401", "95407", "95409", "95405", "95404", "95403"]
 localPaths: ["Sonoma County / ZIP 95405 sector", "Sonoma County / elevation 184 ft band", "Sonoma County / ZIP 95407 sector", "Sonoma County / ZIP 95401 sector", "Sonoma County / primary ZIP 95409"]
-zillowHomeValueUsd: 780304
 ---
 
-**Engineering Notice for Santa Rosa:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Santa Rosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Santa Rosa, CA, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Our service coordination centers on Santa Rosa, CA coverage windows and verified intake details.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Moisture pathway inspection logged near ZIP 95404/95409/95403 intake.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Santa Rosa, CA.
 
-Dispatch sectors sampled: ZIP 95404, 95409, 95403, 95407, 95406 (county grid: Sonoma County).
+Frost-free sillcock failures in Santa Rosa, CA often trace to interior shutoff seats, not exterior stems.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Sewer gas odors in Santa Rosa, CA should trigger trap seal and vent path review.
+
+Permit note: Main water line replacement in Santa Rosa, CA may require ROW restoration planning.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+CPVC solvent weld times shift with ambient humidity during Santa Rosa, CA shoulder seasons.
+
+Drain map 248310: camera-pass priority and expansion-tank pre-charge noted for Santa Rosa, CA postal sector 95409.
+
+Fixture roster 248310: toilet flange spacer kit and shower cartridge seat score queued for Santa Rosa, CA walk-through.
+
+plumbing brief: cleanout riser height and dielectric union checklist were cross-checked for the Santa Rosa intake packet.
+
+ZIP-corridor snapshot for Santa Rosa, CA: sampled sectors include 95407, 95401, 95405, 95403, 95404, 95409, 95406; county routing grid remains Sonoma County.
 
 Service reference: CA-95409-4fc02fd9

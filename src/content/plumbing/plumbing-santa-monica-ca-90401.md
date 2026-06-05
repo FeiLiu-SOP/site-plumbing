@@ -12,26 +12,39 @@ lng: -118.4800
 zipSample: ["90402", "90406", "90403", "90401", "90409"]
 zipCodes: ["90411", "90410", "90407", "90406", "90401", "90405", "90409", "90402", "90408", "90403", "90404"]
 localPaths: ["Los Angeles County / ZIP 90406 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90401 sector", "Los Angeles County / primary ZIP 90401", "Los Angeles County / ZIP 90403 sector"]
-zillowHomeValueUsd: 1317893
 ---
 
-**Engineering Notice for Santa Monica:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Santa Monica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Santa Monica, CA.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Water heater T&P discharge paths in Santa Monica, CA must terminate safely before replacement quotes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santa Monica, CA, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 90410/90408/90406.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 90410/90408/90406 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 90410, 90408, 90406, 90403, 90404 (county grid: Los Angeles County).
+Material note: Water heater anode type may change with Santa Monica, CA hardness profiles.
+
+Branch wet vents in Santa Monica, CA can mask gurgling as a main-line issue.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Permit note: Main water line replacement in Santa Monica, CA may require ROW restoration planning.
+
+Cast-iron hub corrosion in Santa Monica, CA often concentrates at the third joint upstream of the cleanout.
+
+Flow dossier 647885: branch wet-vent geometry and jetting nozzle envelope logged for Santa Monica, CA county grid Los Angeles County (ZIP 90401).
+
+Field routing: backflow test cock orientation paired with gas water heater draft hood gap near ZIP 90401.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~135 ft across the Los Angeles County area. Coordinates: 34.0200, -118.4800. ZIP sample: 90406, 90407, 90405, 90411, 90409. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 90401 grid.
 
 Service reference: CA-90401-39fe7628

@@ -12,24 +12,41 @@ lng: -97.1500
 zipSample: ["76240", "76241"]
 zipCodes: ["76240", "76241"]
 localPaths: ["Cooke County / elevation 778 ft band", "Cooke County / ZIP 76240 sector", "Cooke County / primary ZIP 76240", "Cooke County / ZIP 76241 sector", "Cooke County / coords 33.6400, -97.1500"]
-zillowHomeValueUsd: 278309
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Cooke County.
+**Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cooke County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 76240.
 
-We coordinate local dispatch coverage around Gainesville, TX and nearby ZIP sectors.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Gainesville, TX systems need rebalancing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Recirculation pump failures in Gainesville, TX can mimic fixture-specific clogs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: confirm licensing and insurance before approving work.
+Step: camera-pass main lines in Gainesville, TX before jetting older clay or cast iron.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76240/76241.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 76240, 76241 (county grid: Cooke County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 76240.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+In Gainesville, TX, slab leaks often present as warm spots before wall stains appear.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: In Gainesville, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Stack vent offsets in Gainesville, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Intake ledger 864110: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Gainesville, TX at 33.6400, -97.1500.
+
+Flow dossier 864110: branch wet-vent geometry and jetting nozzle envelope logged for Gainesville, TX county grid Cooke County (ZIP 76240).
+
+Field routing: fixture shutoff torque log paired with slab penetration sleeve seal near ZIP 76240.
+
+On-site sector marker: Cooke County / ZIP 76240 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76240-04152d27

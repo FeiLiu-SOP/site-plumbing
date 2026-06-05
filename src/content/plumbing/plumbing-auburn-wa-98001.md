@@ -12,25 +12,39 @@ lng: -122.2100
 zipSample: ["98092", "98001", "98002"]
 zipCodes: ["98002", "98001", "98092"]
 localPaths: ["King County / coords 47.3000, -122.2100", "King County / ZIP 98001 sector", "King County / ZIP 98002 sector", "King County / elevation 92 ft band", "King County / primary ZIP 98001"]
-zillowHomeValueUsd: 640532
 ---
 
-**Engineering Notice for Auburn:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-Our service coordination centers on Auburn, WA coverage windows and verified intake details.
+Hydrostatic holds in Auburn, WA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Auburn, WA, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Auburn, WA shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Auburn, WA systems need rebalancing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98001.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Wind exposure category reviewed for ZIP sector 98002/98092/98001.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98001.
 
-Dispatch sectors sampled: ZIP 98002, 98092, 98001 (county grid: King County).
+Risk flag: In Auburn, WA, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Expansion tank pre-charge loss in Auburn, WA often tracks heater replacement deferrals.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Branch wet vents in Auburn, WA can mask gurgling as a main-line issue.
+
+Supply audit 818695: curb-stop orientation and hose-bib freeze flag reviewed for Auburn, WA at coords 47.3000/-122.2100.
+
+Field routing: sump float travel paired with shower cartridge seat score near ZIP 98001.
+
+Coordinate-anchored dispatch note: center reference 47.3000, -122.2100 at elevation ~92 ft aligns with King County intake staging.
 
 Service reference: WA-98001-bf941428

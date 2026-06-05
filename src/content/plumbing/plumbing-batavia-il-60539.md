@@ -12,26 +12,43 @@ lng: -88.3100
 zipSample: ["60539", "60510"]
 zipCodes: ["60539", "60510"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / coords 41.8500, -88.3100", "Kane County / ZIP 60510 sector", "Kane County / primary ZIP 60539", "Kane County / elevation 709 ft band"]
-zillowHomeValueUsd: 453673
 ---
 
-**Engineering Notice for Batavia:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
 
 
-Our service coordination centers on Batavia, IL coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Local conditions in Batavia, IL can affect timelines and material choices.
+Risk flag: In Batavia, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Batavia, IL often trace to interior shutoff seats, not exterior stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 60539/60510 coverage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 60539/60510 intake.
+Fixture shutoff stiffness in Batavia, IL may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 60539, 60510 (county grid: Kane County).
+Hard water in Batavia, IL accelerates scale on PRV seats and heater elements.
+
+Risk flag: Seasonal Batavia, IL irrigation cross-connections can mask domestic pressure loss.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 60539.
+
+Cast-iron hub corrosion in Batavia, IL often concentrates at the third joint upstream of the cleanout.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: map sump float travel and check-valve orientation for Batavia, IL basements.
+
+Basement floor drains in Batavia, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 234648: toilet flange spacer kit and shower cartridge seat score queued for Batavia, IL walk-through.
+
+plumbing brief: dielectric union checklist and shower cartridge seat score were cross-checked for the Batavia intake packet.
+
+On-site sector marker: Kane County / primary ZIP 60539 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60539-13821a10

@@ -12,24 +12,41 @@ lng: -117.2300
 zipSample: ["92088", "92028"]
 zipCodes: ["92088", "92028"]
 localPaths: ["San Diego County / ZIP 92028 sector", "San Diego County / primary ZIP 92028", "San Diego County / coords 33.3700, -117.2300", "San Diego County / ZIP 92088 sector", "San Diego County / elevation 705 ft band"]
-zillowHomeValueUsd: 885119
 ---
 
-**Engineering Notice for Fallbrook:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Fallbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our service coordination centers on Fallbrook, CA coverage windows and verified intake details.
+Material note: Water heater anode type may change with Fallbrook, CA hardness profiles.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: request a written scope before work starts.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92028/92088.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 92028, 92088 (county grid: San Diego County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hose bib split patterns in Fallbrook, CA often follow missed winterization.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Stack vent offsets in Fallbrook, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless sleeve pulls near Fallbrook, CA require pit shoring notes when water tables are high.
+
+Lineage note 353311: recirculation pump amp draw captured before Fallbrook, CA branch isolation.
+
+Flow dossier 353311: branch wet-vent geometry and jetting nozzle envelope logged for Fallbrook, CA county grid San Diego County (ZIP 92028).
+
+On-site sector marker: San Diego County / ZIP 92088 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92028-437689dc

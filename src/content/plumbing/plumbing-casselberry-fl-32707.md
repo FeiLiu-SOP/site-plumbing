@@ -12,27 +12,41 @@ lng: -81.3200
 zipSample: ["32718", "32707"]
 zipCodes: ["32718", "32707"]
 localPaths: ["Seminole County / ZIP 32707 sector", "Seminole County / primary ZIP 32707", "Seminole County / ZIP 32718 sector", "Seminole County / coords 28.6600, -81.3200", "Seminole County / elevation 66 ft band"]
-zillowHomeValueUsd: 350068
 ---
 
-**Engineering Notice for Casselberry:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Seminole County.
+**Engineering Notice for Casselberry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When should sump battery backups be load-tested? In Casselberry, FL, before spring thaw and hurricane remnants.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-We coordinate local dispatch coverage around Casselberry, FL and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 32707.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Casselberry, FL require pit shoring notes when water tables are high.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 32707.
+Risk flag: Seasonal Casselberry, FL irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Moisture pathway inspection logged near ZIP 32707/32718 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 32707/32718 zone).
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 32707, 32718 (county grid: Seminole County).
+Expansion tank pre-charge loss in Casselberry, FL often tracks heater replacement deferrals.
+
+Basement floor drains in Casselberry, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Galvanized segments in Casselberry, FL may restrict flow long before visible corrosion.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 32707.
+
+Pressure trace 475317: meter-pit clearance and dielectric union checklist staged for Casselberry, FL near elevation 66 ft.
+
+Drain map 475317: camera-pass priority and expansion-tank pre-charge noted for Casselberry, FL postal sector 32707.
+
+On-site sector marker: Seminole County / coords 28.6600, -81.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32707-d0aea892

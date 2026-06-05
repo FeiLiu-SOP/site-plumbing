@@ -12,24 +12,43 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40404", "40403"]
 localPaths: ["Madison County / elevation 961 ft band", "Madison County / primary ZIP 40404", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900", "Madison County / ZIP 40404 sector"]
-zillowHomeValueUsd: 252768
 ---
 
-**Engineering Notice for Berea:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Berea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
 
 
-Our service coordination centers on Berea, KY coverage windows and verified intake details.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 40404.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 40404/40403 coverage.
+Galvanized segments in Berea, KY may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 40404, 40403 (county grid: Madison County).
+Step: log PRV inlet and outlet readings during intake.
+
+Frost-free sillcock failures in Berea, KY often trace to interior shutoff seats, not exterior stems.
+
+Material note: Water heater anode type may change with Berea, KY hardness profiles.
+
+Cleanout access limits in Berea, KY frequently extend drain cleaning duration.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Berea, KY should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 122658: toilet flange spacer kit and shower cartridge seat score queued for Berea, KY walk-through.
+
+Flow dossier 122658: branch wet-vent geometry and jetting nozzle envelope logged for Berea, KY county grid Madison County (ZIP 40404).
+
+plumbing brief: sump float travel and thermal expansion loop check were cross-checked for the Berea intake packet.
+
+On-site sector marker: Madison County / ZIP 40404 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40404-1304f1f3

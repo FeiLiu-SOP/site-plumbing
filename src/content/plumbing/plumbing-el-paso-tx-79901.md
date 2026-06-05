@@ -12,24 +12,41 @@ lng: -106.4300
 zipSample: ["79953", "88577", "88572", "88571", "79925"]
 zipCodes: ["79953", "88560", "88561", "88550", "88573", "79952", "79903", "88569", "88547", "88583", "79958", "88566"]
 localPaths: ["El Paso County / ZIP 88572 sector", "El Paso County / ZIP 79953 sector", "El Paso County / elevation 3875 ft band", "El Paso County / coords 31.8500, -106.4300", "El Paso County / ZIP 88577 sector"]
-zillowHomeValueUsd: 137645
 ---
 
-**Engineering Notice for El Paso:** Structural loading calculated based on 3875 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for El Paso:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
 
 
-We coordinate local dispatch coverage around El Paso, TX and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is hydro-jetting always appropriate? In El Paso, TX, pipe material and blockage type dictate method.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in El Paso, TX, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 88556/79940/88548 zone).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in El Paso, TX systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 88556, 79940, 88548, 79978, 88578 (county grid: El Paso County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 79901.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+CPVC solvent weld times shift with ambient humidity during El Paso, TX shoulder seasons.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Recirculation pump failures in El Paso, TX can mimic fixture-specific clogs.
+
+Across El Paso, TX, main-line bellies can trap debris even when fixtures drain normally.
+
+Trenchless pulls in El Paso, TX require pit dimensions verified against utility locate marks.
+
+Hose bib split patterns in El Paso, TX often follow missed winterization.
+
+Drain map 376825: camera-pass priority and expansion-tank pre-charge noted for El Paso, TX postal sector 79901.
+
+Coordinate-anchored dispatch note: center reference 31.8500, -106.4300 at elevation ~3875 ft aligns with El Paso County intake staging.
 
 Service reference: TX-79901-da2d25de

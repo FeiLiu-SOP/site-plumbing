@@ -12,28 +12,39 @@ lng: -84.2900
 zipSample: ["40475", "40476"]
 zipCodes: ["40476", "40475"]
 localPaths: ["Madison County / elevation 1004 ft band", "Madison County / ZIP 40475 sector", "Madison County / coords 37.7300, -84.2900", "Madison County / primary ZIP 40475", "Madison County / ZIP 40476 sector"]
-zillowHomeValueUsd: 297055
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 40475.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 40475.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Main water line replacement in Richmond, KY may require ROW restoration planning.
 
-Field note: Moisture pathway inspection logged near ZIP 40475/40476 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Richmond, KY systems need rebalancing.
 
-Field note: Access points and staging constraints recorded for ZIP 40475/40476 coverage.
+Sump discharge freeze risk in Richmond, KY should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 40475, 40476 (county grid: Madison County).
+FAQ: When is cabling enough? In Richmond, KY, pipe material and blockage type dictate method.
+
+Irrigation cross-connections in Richmond, KY can back-siphon domestic lines during main breaks.
+
+Water heater T&P discharge paths in Richmond, KY must terminate safely before replacement quotes.
+
+Cast-iron hub corrosion in Richmond, KY often concentrates at the third joint upstream of the cleanout.
+
+CPVC solvent weld times shift with ambient humidity during Richmond, KY shoulder seasons.
+
+Pressure trace 663278: meter-pit clearance and dielectric union checklist staged for Richmond, KY near elevation 1004 ft.
+
+plumbing brief: backflow test cock orientation and hose bib freeze flag were cross-checked for the Richmond intake packet.
+
+On-site sector marker: Madison County / ZIP 40476 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40475-65dd931c

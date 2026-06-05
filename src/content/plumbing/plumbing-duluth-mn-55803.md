@@ -12,27 +12,41 @@ lng: -92.1400
 zipSample: ["55816", "55807", "55811", "55803", "55804"]
 zipCodes: ["55803", "55816", "55802", "55811", "55807", "55806", "55815", "55812", "55805", "55804", "55808", "55810"]
 localPaths: ["St. Louis County / coords 46.7800, -92.1400", "St. Louis County / ZIP 55816 sector", "St. Louis County / ZIP 55807 sector", "St. Louis County / ZIP 55803 sector", "St. Louis County / elevation 1047 ft band"]
-zillowHomeValueUsd: 341370
 ---
 
-**Engineering Notice for Duluth:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Duluth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55803.
+FAQ: Is hydro-jetting always appropriate? In Duluth, MN, pipe material and blockage type dictate method.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Duluth, MN irrigation cross-connections can mask domestic pressure loss.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Duluth, MN older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 55816/55815/55802 intake.
+Hard water in Duluth, MN accelerates scale on PRV seats and heater elements.
 
-Field note: Wind exposure category reviewed for ZIP sector 55816/55815/55802.
+Material note: Water heater anode type may change with Duluth, MN hardness profiles.
 
-Dispatch sectors sampled: ZIP 55816, 55815, 55802, 55806, 55805 (county grid: St. Louis County).
+Polybutylene manifold tags in Duluth, MN basements should be photographed before any wall chase opens.
+
+Hydrostatic holds in Duluth, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Expansion tank pre-charge loss in Duluth, MN often tracks heater replacement deferrals.
+
+Step: map sump float travel and check-valve orientation for Duluth, MN basements.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Intake ledger 455151: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Duluth, MN at 46.7800, -92.1400.
+
+ZIP-corridor snapshot for Duluth, MN: sampled sectors include 55807, 55808, 55802, 55804, 55803, 55816, 55811, 55815; county routing grid remains St. Louis County.
 
 Service reference: MN-55803-c9ba80df

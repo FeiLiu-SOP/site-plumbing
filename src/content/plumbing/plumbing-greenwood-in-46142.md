@@ -12,26 +12,43 @@ lng: -86.1100
 zipSample: ["46142", "46143"]
 zipCodes: ["46143", "46142"]
 localPaths: ["Johnson County / elevation 807 ft band", "Johnson County / coords 39.6000, -86.1100", "Johnson County / ZIP 46142 sector", "Johnson County / ZIP 46143 sector", "Johnson County / primary ZIP 46142"]
-zillowHomeValueUsd: 317807
 ---
 
-**Engineering Notice for Greenwood:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Irrigation cross-connections in Greenwood, IN can back-siphon domestic lines during main breaks.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log PRV inlet and outlet readings during intake.
 
-We coordinate local dispatch coverage around Greenwood, IN and nearby ZIP sectors.
+Sewer gas odors in Greenwood, IN should trigger trap seal and vent path review.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Access points and staging constraints recorded for ZIP 46143/46142 coverage.
+Step: map sump float travel and check-valve orientation for Greenwood, IN basements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46143/46142.
+Frost-free sillcock failures in Greenwood, IN often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 46143, 46142 (county grid: Johnson County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: Water heater anode type may change with Greenwood, IN hardness profiles.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Water heater T&P discharge paths in Greenwood, IN must terminate safely before replacement quotes.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: In Greenwood, IN, slab leaks can misroute as foundation issues without listening equipment.
+
+Lineage note 656459: recirculation pump amp draw captured before Greenwood, IN branch isolation.
+
+Drain map 656459: camera-pass priority and expansion-tank pre-charge noted for Greenwood, IN postal sector 46142.
+
+Field routing: thermal expansion loop check paired with scale coupon sampling near ZIP 46142.
+
+On-site sector marker: Johnson County / elevation 807 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46142-7ca2e42a

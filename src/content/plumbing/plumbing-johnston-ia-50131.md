@@ -12,26 +12,39 @@ lng: -93.7200
 zipSample: ["50131"]
 zipCodes: ["50131"]
 localPaths: ["Polk County / elevation 820 ft band", "Polk County / ZIP 50131 sector", "Polk County / primary ZIP 50131", "Polk County / coords 41.6900, -93.7200"]
-zillowHomeValueUsd: 395612
 ---
 
-**Engineering Notice for Johnston:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Johnston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Johnston, IA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Polybutylene manifold tags in Johnston, IA basements should be photographed before any wall chase opens.
 
-Our service coordination centers on Johnston, IA coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50131.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 50131.
+Permit note: Main water line replacement in Johnston, IA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 50131 (county grid: Polk County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Johnston, IA.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Dual-water-meter setups in Johnston, IA irrigation zones need backflow logs before line replacement.
+
+Irrigation cross-connections in Johnston, IA can back-siphon domestic lines during main breaks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 50131.
+
+Drain map 199411: camera-pass priority and expansion-tank pre-charge noted for Johnston, IA postal sector 50131.
+
+On-site sector marker: Polk County / coords 41.6900, -93.7200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50131-20e937be

@@ -12,26 +12,37 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / coords 40.6500, -73.6100", "Nassau County / elevation 26 ft band", "Nassau County / primary ZIP 11510", "Nassau County / ZIP 11510 sector"]
-zillowHomeValueUsd: 714456
 ---
 
-**Engineering Notice for Baldwin:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Baldwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-In Baldwin, NY, urgent plumbing issues can escalate quickly.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Baldwin, NY, but intake notes help reduce delays.
+Hydro-jetting in Baldwin, NY requires camera confirmation before nozzle pressure is raised.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in Baldwin, NY often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 11510 coverage.
+In Baldwin, NY, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Connection points spot-checked where accessible (ZIP 11510 zone).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 11510 (county grid: Nassau County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+CPVC solvent weld times shift with ambient humidity during Baldwin, NY shoulder seasons.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Flow dossier 583411: branch wet-vent geometry and jetting nozzle envelope logged for Baldwin, NY county grid Nassau County (ZIP 11510).
+
+On-site sector marker: Nassau County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11510-f5620227

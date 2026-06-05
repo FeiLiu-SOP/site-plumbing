@@ -12,26 +12,41 @@ lng: -91.8200
 zipSample: ["70562", "70560", "70563"]
 zipCodes: ["70563", "70560", "70562"]
 localPaths: ["Iberia Parish / primary ZIP 70560", "Iberia Parish / elevation 36 ft band", "Iberia Parish / ZIP 70562 sector", "Iberia Parish / coords 30.0000, -91.8200", "Iberia Parish / ZIP 70563 sector"]
-zillowHomeValueUsd: 112911
 ---
 
-**Engineering Notice for New Iberia:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Iberia Parish.
+**Engineering Notice for New Iberia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iberia Parish.
 
 
-We coordinate local dispatch coverage around New Iberia, LA and nearby ZIP sectors.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Iberia, LA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during New Iberia, LA shoulder seasons.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-In New Iberia, LA, urgent plumbing issues can escalate quickly.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 70563/70560/70562 intake.
+Stack vent offsets in New Iberia, LA older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 70563/70560/70562.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 70563, 70560, 70562 (county grid: Iberia Parish).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 70560.
+
+Sump discharge freeze risk in New Iberia, LA should be reviewed before spring thaw cycles.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in New Iberia, LA.
+
+Across New Iberia, LA, main-line bellies can trap debris even when fixtures drain normally.
+
+Pressure trace 662810: meter-pit clearance and dielectric union checklist staged for New Iberia, LA near elevation 36 ft.
+
+Lineage note 662810: recirculation pump amp draw captured before New Iberia, LA branch isolation.
+
+Scope trace: toilet flange spacer kit plus backflow test cock orientation referenced in Iberia Parish county grid review.
+
+On-site sector marker: Iberia Parish / coords 30.0000, -91.8200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70560-838f7f5d

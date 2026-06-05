@@ -12,26 +12,37 @@ lng: -77.1800
 zipSample: ["22046", "22040"]
 zipCodes: ["22040", "22046"]
 localPaths: ["Falls Church County / coords 38.8800, -77.1800", "Falls Church County / elevation 338 ft band", "Falls Church County / ZIP 22046 sector", "Falls Church County / primary ZIP 22046", "Falls Church County / ZIP 22040 sector"]
-zillowHomeValueUsd: 1052488
 ---
 
-**Engineering Notice for Falls Church:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Falls Church County.
+**Engineering Notice for Falls Church:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Falls Church County.
 
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Falls Church, VA shoulder seasons.
 
-Tip: address recurring issues early to prevent bigger damage.
+Polybutylene manifold tags in Falls Church, VA basements should be photographed before any wall chase opens.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Falls Church, VA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Across Falls Church, VA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 22040/22046 coverage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 22040/22046 zone).
+Irrigation cross-connections in Falls Church, VA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 22040, 22046 (county grid: Falls Church County).
+Stack vent offsets in Falls Church, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Sewer gas odors in Falls Church, VA should trigger trap seal and vent path review.
+
+Trenchless sleeve pulls near Falls Church, VA require pit shoring notes when water tables are high.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Trenchless pulls in Falls Church, VA require pit dimensions verified against utility locate marks.
+
+Fixture roster 256407: toilet flange spacer kit and shower cartridge seat score queued for Falls Church, VA walk-through.
+
+On-site sector marker: Falls Church County / elevation 338 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22046-2ff2b6f7

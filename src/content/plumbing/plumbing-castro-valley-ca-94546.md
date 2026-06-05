@@ -12,26 +12,37 @@ lng: -122.0600
 zipSample: ["94552", "94578", "94546"]
 zipCodes: ["94546", "94578", "94552"]
 localPaths: ["Alameda County / ZIP 94552 sector", "Alameda County / elevation 361 ft band", "Alameda County / ZIP 94546 sector", "Alameda County / primary ZIP 94546", "Alameda County / ZIP 94578 sector"]
-zillowHomeValueUsd: 1035770
 ---
 
-**Engineering Notice for Castro Valley:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Castro Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in Castro Valley, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: avoid large upfront payments without milestones.
+Step: document dielectric unions before mixed-metal replacements.
 
-Our service coordination centers on Castro Valley, CA coverage windows and verified intake details.
+We coordinate Castro Valley, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Connection points spot-checked where accessible (ZIP 94578/94552/94546 zone).
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Moisture pathway inspection logged near ZIP 94578/94552/94546 intake.
+Step: camera-pass main lines in Castro Valley, CA before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 94578, 94552, 94546 (county grid: Alameda County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: Water heater anode type may change with Castro Valley, CA hardness profiles.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Lineage note 210354: recirculation pump amp draw captured before Castro Valley, CA branch isolation.
+
+On-site sector marker: Alameda County / ZIP 94578 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94546-3c170759

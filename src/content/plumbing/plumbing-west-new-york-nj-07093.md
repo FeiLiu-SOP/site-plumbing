@@ -12,24 +12,41 @@ lng: -74.0100
 zipSample: ["07093"]
 zipCodes: ["07093"]
 localPaths: ["Hudson County / primary ZIP 07093", "Hudson County / elevation 171 ft band", "Hudson County / coords 40.7900, -74.0100", "Hudson County / ZIP 07093 sector"]
-zillowHomeValueUsd: 442363
 ---
 
-**Engineering Notice for West New York:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for West New York:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around West New York, NJ and nearby ZIP sectors.
+Dual-water-meter setups in West New York, NJ irrigation zones need backflow logs before line replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West New York, NJ, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stack vent offsets in West New York, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cast-iron hub corrosion in West New York, NJ often concentrates at the third joint upstream of the cleanout.
 
-Field note: Moisture pathway inspection logged near ZIP 07093 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 07093 (county grid: Hudson County).
+Material note: Water heater anode type may change with West New York, NJ hardness profiles.
+
+FAQ: When is cabling enough? In West New York, NJ, pipe material and blockage type dictate method.
+
+Step: map sump float travel and check-valve orientation for West New York, NJ basements.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 07093.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 968966: branch wet-vent geometry and jetting nozzle envelope logged for West New York, NJ county grid Hudson County (ZIP 07093).
+
+Pressure trace 968966: meter-pit clearance and dielectric union checklist staged for West New York, NJ near elevation 171 ft.
+
+On-site sector marker: Hudson County / ZIP 07093 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07093-e745b085

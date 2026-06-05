@@ -12,26 +12,39 @@ lng: -118.5900
 zipSample: ["91381"]
 zipCodes: ["91381"]
 localPaths: ["Los Angeles County / coords 34.3900, -118.5900", "Los Angeles County / primary ZIP 91381", "Los Angeles County / ZIP 91381 sector", "Los Angeles County / elevation 1558 ft band"]
-zillowHomeValueUsd: 969446
 ---
 
-**Engineering Notice for Stevenson Ranch:** Structural loading calculated based on 1558 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Stevenson Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Stevenson Ranch, CA irrigation zones need backflow logs before line replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stevenson Ranch, CA, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: request a written scope before work starts.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 91381.
 
-Field note: Moisture pathway inspection logged near ZIP 91381 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 91381 zone).
+FAQ: When should sump battery backups be load-tested? In Stevenson Ranch, CA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 91381 (county grid: Los Angeles County).
+Polybutylene manifold tags in Stevenson Ranch, CA basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stevenson Ranch, CA systems need rebalancing.
+
+Hydrostatic holds in Stevenson Ranch, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Water heater T&P discharge paths in Stevenson Ranch, CA must terminate safely before replacement quotes.
+
+Supply audit 119091: curb-stop orientation and hose-bib freeze flag reviewed for Stevenson Ranch, CA at coords 34.3900/-118.5900.
+
+Lineage note 119091: recirculation pump amp draw captured before Stevenson Ranch, CA branch isolation.
+
+Coordinate-anchored dispatch note: center reference 34.3900, -118.5900 at elevation ~1558 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91381-579df42f

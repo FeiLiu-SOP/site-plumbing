@@ -12,26 +12,39 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / primary ZIP 80516", "Weld County / coords 40.0400, -105.0400", "Weld County / elevation 5056 ft band", "Weld County / ZIP 80516 sector"]
-zillowHomeValueUsd: 714110
 ---
 
-**Engineering Notice for Erie:** Structural loading calculated based on 5056 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Erie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
 
 
-Structured milestones protect both sides when scheduling work.
+In Erie, CO, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Erie, CO, but intake notes help reduce delays.
+Frost-free sillcock failures in Erie, CO often trace to interior shutoff seats, not exterior stems.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Erie, CO, before spring thaw and hurricane remnants.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Wind exposure category reviewed for ZIP sector 80516.
+Trenchless sleeve pulls near Erie, CO require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 80516 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 80516 (county grid: Weld County).
+Hydro-jetting in Erie, CO requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Seasonal Erie, CO irrigation cross-connections can mask domestic pressure loss.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+CPVC solvent weld times shift with ambient humidity during Erie, CO shoulder seasons.
+
+Flow dossier 185108: branch wet-vent geometry and jetting nozzle envelope logged for Erie, CO county grid Weld County (ZIP 80516).
+
+Supply audit 185108: curb-stop orientation and hose-bib freeze flag reviewed for Erie, CO at coords 40.0400/-105.0400.
+
+Coordinate-anchored dispatch note: center reference 40.0400, -105.0400 at elevation ~5056 ft aligns with Weld County intake staging.
 
 Service reference: CO-80516-fc5c318a

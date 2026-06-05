@@ -12,27 +12,39 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / primary ZIP 95519", "Humboldt County / elevation 200 ft band"]
-zillowHomeValueUsd: 482876
 ---
 
-**Engineering Notice for McKinleyville:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for McKinleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Homeowners in McKinleyville, CA often face sudden plumbing problems that require fast action.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless sleeve pulls near McKinleyville, CA require pit shoring notes when water tables are high.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95519.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-We coordinate local dispatch coverage around McKinleyville, CA and nearby ZIP sectors.
+Trenchless pulls in McKinleyville, CA require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 95519.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Connection points spot-checked where accessible (ZIP 95519 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 95519 (county grid: Humboldt County).
+Basement floor drains in McKinleyville, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Risk flag: Seasonal McKinleyville, CA irrigation cross-connections can mask domestic pressure loss.
+
+Polybutylene manifold tags in McKinleyville, CA basements should be photographed before any wall chase opens.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Flow dossier 451182: branch wet-vent geometry and jetting nozzle envelope logged for McKinleyville, CA county grid Humboldt County (ZIP 95519).
+
+Field routing: PEX expansion ring batch paired with cleanout riser height near ZIP 95519.
+
+On-site sector marker: Humboldt County / coords 40.9500, -124.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95519-5644b3d7

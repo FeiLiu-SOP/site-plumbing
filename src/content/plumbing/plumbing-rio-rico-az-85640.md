@@ -12,24 +12,39 @@ lng: -110.9900
 zipSample: ["85640", "85648"]
 zipCodes: ["85648", "85640"]
 localPaths: ["Santa Cruz County / elevation 3461 ft band", "Santa Cruz County / primary ZIP 85640", "Santa Cruz County / coords 31.5000, -110.9900", "Santa Cruz County / ZIP 85640 sector", "Santa Cruz County / ZIP 85648 sector"]
-zillowHomeValueUsd: 408337
 ---
 
-**Engineering Notice for Rio Rico:** Structural loading calculated based on 3461 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Rio Rico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Cruz County.
 
 
-Tip: request a written scope before work starts.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rio Rico, AZ, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-In Rio Rico, AZ, urgent plumbing issues can escalate quickly.
+FAQ: Is hydro-jetting always appropriate? In Rio Rico, AZ, pipe material and blockage type dictate method.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydro-jetting in Rio Rico, AZ requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85648/85640.
+Risk flag: In Rio Rico, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 85648, 85640 (county grid: Santa Cruz County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture shutoff stiffness in Rio Rico, AZ may indicate mineral bridging behind stems.
+
+Polybutylene manifold tags in Rio Rico, AZ basements should be photographed before any wall chase opens.
+
+Dispatch packets reference county grid Santa Cruz County near ZIP 85640.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Rio Rico, AZ should be snaked only after trap arm geometry is confirmed on camera.
+
+In Rio Rico, AZ, slab leaks often present as warm spots before wall stains appear.
+
+Fixture roster 404078: toilet flange spacer kit and shower cartridge seat score queued for Rio Rico, AZ walk-through.
+
+On-site sector marker: Santa Cruz County / primary ZIP 85640 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85640-d10dbb28

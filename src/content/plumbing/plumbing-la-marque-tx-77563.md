@@ -12,27 +12,39 @@ lng: -94.9900
 zipSample: ["77563", "77568"]
 zipCodes: ["77568", "77563"]
 localPaths: ["Galveston County / ZIP 77568 sector", "Galveston County / ZIP 77563 sector", "Galveston County / primary ZIP 77563", "Galveston County / elevation 26 ft band", "Galveston County / coords 29.3700, -94.9900"]
-zillowHomeValueUsd: 253448
 ---
 
-**Engineering Notice for La Marque:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Galveston County.
+**Engineering Notice for La Marque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 77563.
+Cleanout access limits in La Marque, TX frequently extend drain cleaning duration.
 
-We coordinate local dispatch coverage around La Marque, TX and nearby ZIP sectors.
+Risk flag: In La Marque, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Main water line replacement in La Marque, TX may require ROW restoration planning.
 
-Field note: Moisture pathway inspection logged near ZIP 77568/77563 intake.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Connection points spot-checked where accessible (ZIP 77568/77563 zone).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 77568, 77563 (county grid: Galveston County).
+Cast-iron hub corrosion in La Marque, TX often concentrates at the third joint upstream of the cleanout.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in La Marque, TX.
+
+Trenchless pulls in La Marque, TX require pit dimensions verified against utility locate marks.
+
+Drain map 189198: camera-pass priority and expansion-tank pre-charge noted for La Marque, TX postal sector 77563.
+
+Field routing: water softener bypass lever paired with PEX expansion ring batch near ZIP 77563.
+
+Coordinate-anchored dispatch note: center reference 29.3700, -94.9900 at elevation ~26 ft aligns with Galveston County intake staging.
 
 Service reference: TX-77563-ecce3224

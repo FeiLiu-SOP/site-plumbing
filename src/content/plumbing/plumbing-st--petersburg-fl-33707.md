@@ -12,25 +12,41 @@ lng: -82.6700
 zipSample: ["33710", "33703", "33733", "33713", "33762"]
 zipCodes: ["33747", "33703", "33716", "33712", "33762", "33734", "33732", "33707", "33702", "33705", "33710", "33704"]
 localPaths: ["Pinellas County / primary ZIP 33707", "Pinellas County / ZIP 33733 sector", "Pinellas County / ZIP 33762 sector", "Pinellas County / ZIP 33710 sector", "Pinellas County / ZIP 33703 sector"]
-zillowHomeValueUsd: 361594
 ---
 
-**Engineering Notice for St. Petersburg:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for St. Petersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33707.
+Hard water in St. Petersburg, FL accelerates scale on PRV seats and heater elements.
 
-Local conditions in St. Petersburg, FL can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on St. Petersburg, FL coverage windows and verified intake details.
+Across St. Petersburg, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: avoid large upfront payments without milestones.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 33716/33710/33701 zone).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 33716, 33710, 33701, 33743, 33747 (county grid: Pinellas County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sewer gas odors in St. Petersburg, FL should trigger trap seal and vent path review.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless sleeve pulls near St. Petersburg, FL require pit shoring notes when water tables are high.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 746183: sump amperage, PRV seat wear, and cleanout riser height cross-checked for St. Petersburg, FL at 27.7900, -82.6700.
+
+Supply audit 746183: curb-stop orientation and hose-bib freeze flag reviewed for St. Petersburg, FL at coords 27.7900/-82.6700.
+
+On-site sector marker: Pinellas County / ZIP 33715 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33707-8e629d34

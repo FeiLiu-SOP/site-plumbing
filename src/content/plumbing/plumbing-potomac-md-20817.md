@@ -12,27 +12,45 @@ lng: -77.1900
 zipSample: ["20827", "20859", "20854", "20817"]
 zipCodes: ["20854", "20827", "20817", "20859"]
 localPaths: ["Montgomery County / ZIP 20827 sector", "Montgomery County / coords 39.0100, -77.1900", "Montgomery County / ZIP 20859 sector", "Montgomery County / ZIP 20817 sector", "Montgomery County / primary ZIP 20817"]
-zillowHomeValueUsd: 1309875
 ---
 
-**Engineering Notice for Potomac:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Potomac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 20817.
+Risk flag: Seasonal Potomac, MD irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Potomac, MD, but intake notes help reduce delays.
+Sewer gas odors in Potomac, MD should trigger trap seal and vent path review.
 
-We coordinate local dispatch coverage around Potomac, MD and nearby ZIP sectors.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Potomac, MD, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 20854/20817/20859.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20854/20817/20859.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 20817.
 
-Dispatch sectors sampled: ZIP 20854, 20817, 20859, 20827 (county grid: Montgomery County).
+FAQ: When should sump battery backups be load-tested? In Potomac, MD, before spring thaw and hurricane remnants.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Permit note: Main water line replacement in Potomac, MD may require ROW restoration planning.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Branch wet vents in Potomac, MD can mask gurgling as a main-line issue.
+
+Pressure trace 609350: meter-pit clearance and dielectric union checklist staged for Potomac, MD near elevation 305 ft.
+
+Flow dossier 609350: branch wet-vent geometry and jetting nozzle envelope logged for Potomac, MD county grid Montgomery County (ZIP 20817).
+
+Field routing: slab penetration sleeve seal paired with water heater T&P path near ZIP 20817.
+
+**Regional Infrastructure Brief:** Grid anchor set to Montgomery County. Reference elevation: 305 ft. Primary coordinates: 39.0100, -77.1900. ZIP sample: 20859, 20817, 20827, 20854. Regional routing note: Montgomery County traffic flow is balanced around ZIP 20817 service demand.
 
 Service reference: MD-20817-91f463e4

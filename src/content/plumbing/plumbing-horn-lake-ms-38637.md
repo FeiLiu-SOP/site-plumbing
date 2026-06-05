@@ -12,27 +12,43 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / ZIP 38637 sector", "DeSoto County / primary ZIP 38637", "DeSoto County / elevation 299 ft band", "DeSoto County / coords 34.9500, -90.0500"]
-zillowHomeValueUsd: 202247
 ---
 
-**Engineering Notice for Horn Lake:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Horn Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 38637.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-In Horn Lake, MS, seasonal demand can change scheduling windows.
+Hard water in Horn Lake, MS accelerates scale on PRV seats and heater elements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Horn Lake, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 38637 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 38637.
+Hose bib split patterns in Horn Lake, MS often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 38637 (county grid: DeSoto County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 38637.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+CPVC solvent weld times shift with ambient humidity during Horn Lake, MS shoulder seasons.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Horn Lake, MS.
+
+Lineage note 524041: recirculation pump amp draw captured before Horn Lake, MS branch isolation.
+
+Scope trace: thermal expansion loop check plus jetter nozzle envelope referenced in DeSoto County county grid review.
+
+Regional mesh label DeSoto County: moisture and logistics baselines are keyed to Horn Lake, MS before niche-specific work begins.
 
 Service reference: MS-38637-5147593a

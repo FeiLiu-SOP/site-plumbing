@@ -12,26 +12,41 @@ lng: -120.2300
 zipSample: ["93610"]
 zipCodes: ["93610"]
 localPaths: ["Madera County / ZIP 93610 sector", "Madera County / coords 37.1100, -120.2300", "Madera County / elevation 262 ft band", "Madera County / primary ZIP 93610"]
-zillowHomeValueUsd: 393292
 ---
 
-**Engineering Notice for Chowchilla:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Madera County.
+**Engineering Notice for Chowchilla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madera County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our service coordination centers on Chowchilla, CA coverage windows and verified intake details.
+Irrigation cross-connections in Chowchilla, CA can back-siphon domestic lines during main breaks.
 
-Local conditions in Chowchilla, CA can affect timelines and material choices.
+Branch wet vents in Chowchilla, CA can mask gurgling as a main-line issue.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chowchilla, CA, but intake notes help reduce delays.
+Risk flag: In Chowchilla, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93610.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 93610 coverage.
+Cast-iron hub corrosion in Chowchilla, CA often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 93610 (county grid: Madera County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Polybutylene manifold tags in Chowchilla, CA basements should be photographed before any wall chase opens.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Chowchilla, CA systems need rebalancing.
+
+We coordinate Chowchilla, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+FAQ: When should sump battery backups be load-tested? In Chowchilla, CA, before spring thaw and hurricane remnants.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Pressure trace 995704: meter-pit clearance and dielectric union checklist staged for Chowchilla, CA near elevation 262 ft.
+
+On-site sector marker: Madera County / coords 37.1100, -120.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93610-80080462

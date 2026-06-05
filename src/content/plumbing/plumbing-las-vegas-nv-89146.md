@@ -12,24 +12,43 @@ lng: -115.2700
 zipSample: ["89145", "89140", "89138", "89137", "89107"]
 zipCodes: ["89130", "89155", "89125", "89151", "89127", "89101", "89163", "89128", "89143", "89152", "89149", "89105"]
 localPaths: ["Clark County / ZIP 89140 sector", "Clark County / primary ZIP 89146", "Clark County / elevation 2362 ft band", "Clark County / ZIP 89107 sector", "Clark County / ZIP 89138 sector"]
-zillowHomeValueUsd: 400952
 ---
 
-**Engineering Notice for Las Vegas:** Structural loading calculated based on 2362 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Las Vegas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is cabling enough? In Las Vegas, NV, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Las Vegas, NV, but intake notes help reduce delays.
+Cleanout access limits in Las Vegas, NV frequently extend drain cleaning duration.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Las Vegas, NV irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 89153/89152/89128 coverage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 89153, 89152, 89128, 89108, 89133 (county grid: Clark County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 89146.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless sleeve pulls near Las Vegas, NV require pit shoring notes when water tables are high.
+
+Risk flag: In Las Vegas, NV, slab leaks can misroute as foundation issues without listening equipment.
+
+Across Las Vegas, NV, main-line bellies can trap debris even when fixtures drain normally.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Stack vent offsets in Las Vegas, NV older duplexes can mask tub gurgle as a main-line failure.
+
+Pressure trace 695879: meter-pit clearance and dielectric union checklist staged for Las Vegas, NV near elevation 2362 ft.
+
+Intake ledger 695879: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Las Vegas, NV at 36.2300, -115.2700.
+
+Field routing: toilet flange spacer kit paired with slab leak listening window near ZIP 89146.
+
+On-site sector marker: Clark County / ZIP 89130 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89146-4229a3ec

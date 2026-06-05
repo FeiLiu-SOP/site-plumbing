@@ -12,24 +12,39 @@ lng: -85.7600
 zipSample: ["49468", "49418"]
 zipCodes: ["49468", "49418"]
 localPaths: ["Kent County / elevation 627 ft band", "Kent County / coords 42.9000, -85.7600", "Kent County / primary ZIP 49418", "Kent County / ZIP 49418 sector", "Kent County / ZIP 49468 sector"]
-zillowHomeValueUsd: 377144
 ---
 
-**Engineering Notice for Grandville:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Grandville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document dielectric unions before mixed-metal replacements.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Main water line replacement in Grandville, MI may require ROW restoration planning.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sewer gas odors in Grandville, MI should trigger trap seal and vent path review.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 49468/49418 intake.
+Step: map sump float travel and check-valve orientation for Grandville, MI basements.
 
-Dispatch sectors sampled: ZIP 49468, 49418 (county grid: Kent County).
+Stack vent offsets in Grandville, MI older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+CPVC solvent weld times shift with ambient humidity during Grandville, MI shoulder seasons.
+
+Step: camera-pass main lines in Grandville, MI before jetting older clay or cast iron.
+
+Hard water in Grandville, MI accelerates scale on PRV seats and heater elements.
+
+Fixture roster 275629: toilet flange spacer kit and shower cartridge seat score queued for Grandville, MI walk-through.
+
+Field routing: toilet flange spacer kit paired with slab leak listening window near ZIP 49418.
+
+On-site sector marker: Kent County / coords 42.9000, -85.7600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49418-620547bb

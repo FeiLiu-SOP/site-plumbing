@@ -12,24 +12,39 @@ lng: -111.7600
 zipSample: ["85194", "85122", "85193", "85130"]
 zipCodes: ["85193", "85194", "85130", "85122"]
 localPaths: ["Pinal County / ZIP 85122 sector", "Pinal County / ZIP 85194 sector", "Pinal County / elevation 1371 ft band", "Pinal County / primary ZIP 85194", "Pinal County / coords 32.9100, -111.7600"]
-zillowHomeValueUsd: 362232
 ---
 
-**Engineering Notice for Casa Grande:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Casa Grande:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
 
 
-Our service coordination centers on Casa Grande, AZ coverage windows and verified intake details.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 85194.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Casa Grande, AZ, before spring thaw and hurricane remnants.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Casa Grande, AZ.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Casa Grande, AZ, but intake notes help reduce delays.
+In Casa Grande, AZ, slab leaks often present as warm spots before wall stains appear.
 
-Tip: confirm licensing and insurance before approving work.
+Recirculation pump failures in Casa Grande, AZ can mimic fixture-specific clogs.
 
-Field note: Connection points spot-checked where accessible (ZIP 85130/85193/85194 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 85130, 85193, 85194, 85122 (county grid: Pinal County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Hydrostatic holds in Casa Grande, AZ slab circuits run overnight when listening mics show ambiguous hits.
+
+Sewer gas odors in Casa Grande, AZ should trigger trap seal and vent path review.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Trenchless pulls in Casa Grande, AZ require pit dimensions verified against utility locate marks.
+
+Supply audit 773782: curb-stop orientation and hose-bib freeze flag reviewed for Casa Grande, AZ at coords 32.9100/-111.7600.
+
+Drain map 773782: camera-pass priority and expansion-tank pre-charge noted for Casa Grande, AZ postal sector 85194.
+
+On-site sector marker: Pinal County / ZIP 85193 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85194-445a7da7

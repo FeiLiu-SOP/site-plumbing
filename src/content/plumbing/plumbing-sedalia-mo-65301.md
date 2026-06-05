@@ -12,26 +12,39 @@ lng: -93.2300
 zipSample: ["65302", "65301"]
 zipCodes: ["65301", "65302"]
 localPaths: ["Pettis County / primary ZIP 65301", "Pettis County / coords 38.7100, -93.2300", "Pettis County / ZIP 65302 sector", "Pettis County / ZIP 65301 sector", "Pettis County / elevation 912 ft band"]
-zillowHomeValueUsd: 182080
 ---
 
-**Engineering Notice for Sedalia:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Pettis County.
+**Engineering Notice for Sedalia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pettis County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Sedalia, MO may require ROW restoration planning.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Irrigation cross-connections in Sedalia, MO can back-siphon domestic lines during main breaks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Frost-free sillcock failures in Sedalia, MO often trace to interior shutoff seats, not exterior stems.
 
-Tip: confirm licensing and insurance before approving work.
+Branch wet vents in Sedalia, MO can mask gurgling as a main-line issue.
 
-In Sedalia, MO, seasonal demand can change scheduling windows.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 65301/65302 zone).
+Polybutylene manifold tags in Sedalia, MO basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 65301/65302 intake.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 65301.
 
-Dispatch sectors sampled: ZIP 65301, 65302 (county grid: Pettis County).
+Fixture shutoff stiffness in Sedalia, MO may indicate mineral bridging behind stems.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Drain map 516973: camera-pass priority and expansion-tank pre-charge noted for Sedalia, MO postal sector 65301.
+
+ZIP-corridor snapshot for Sedalia, MO: sampled sectors include 65302, 65301; county routing grid remains Pettis County.
 
 Service reference: MO-65301-29d6ba10

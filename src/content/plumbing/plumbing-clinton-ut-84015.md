@@ -12,26 +12,41 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / elevation 4341 ft band", "Davis County / coords 41.1400, -112.0700", "Davis County / primary ZIP 84015", "Davis County / ZIP 84015 sector"]
-zillowHomeValueUsd: 465980
 ---
 
-**Engineering Notice for Clinton:** Structural loading calculated based on 4341 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: request a written scope before work starts.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 84015 intake.
+Step: camera-pass main lines in Clinton, UT before jetting older clay or cast iron.
 
-Field note: Connection points spot-checked where accessible (ZIP 84015 zone).
+Across Clinton, UT, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 84015 (county grid: Davis County).
+Dual-water-meter setups in Clinton, UT irrigation zones need backflow logs before line replacement.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84015.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 226828: recirculation pump amp draw captured before Clinton, UT branch isolation.
+
+Drain map 226828: camera-pass priority and expansion-tank pre-charge noted for Clinton, UT postal sector 84015.
+
+Regional mesh label Davis County: moisture and logistics baselines are keyed to Clinton, UT before niche-specific work begins.
 
 Service reference: UT-84015-1aaf7b7c

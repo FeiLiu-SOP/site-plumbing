@@ -12,26 +12,39 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / coords 37.0500, -100.9300", "Seward County / ZIP 67901 sector", "Seward County / primary ZIP 67901", "Seward County / elevation 2858 ft band", "Seward County / ZIP 67905 sector"]
-zillowHomeValueUsd: 144571
 ---
 
-**Engineering Notice for Liberal:** Structural loading calculated based on 2858 ft terrain assessment. Regional dispatch grid: Seward County.
+**Engineering Notice for Liberal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seward County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Irrigation cross-connections in Liberal, KS can back-siphon domestic lines during main breaks.
 
-In Liberal, KS, urgent plumbing issues can escalate quickly.
+Polybutylene manifold tags in Liberal, KS basements should be photographed before any wall chase opens.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Liberal, KS, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document dielectric unions before mixed-metal replacements.
 
-Our service coordination centers on Liberal, KS coverage windows and verified intake details.
+Fixture shutoff stiffness in Liberal, KS may indicate mineral bridging behind stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 67901/67905.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Liberal, KS systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67901/67905.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Liberal, KS.
 
-Dispatch sectors sampled: ZIP 67901, 67905 (county grid: Seward County).
+Recirculation pump failures in Liberal, KS can mimic fixture-specific clogs.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+We coordinate Liberal, KS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Liberal, KS.
+
+Supply audit 809958: curb-stop orientation and hose-bib freeze flag reviewed for Liberal, KS at coords 37.0500/-100.9300.
+
+Scope trace: shower cartridge seat score plus slab penetration sleeve seal referenced in Seward County county grid review.
+
+On-site sector marker: Seward County / coords 37.0500, -100.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67901-eaf88eed

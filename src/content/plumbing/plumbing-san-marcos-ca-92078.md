@@ -12,25 +12,41 @@ lng: -117.1700
 zipSample: ["92069", "92096", "92078", "92079"]
 zipCodes: ["92069", "92079", "92096", "92078"]
 localPaths: ["San Diego County / elevation 545 ft band", "San Diego County / ZIP 92069 sector", "San Diego County / ZIP 92096 sector", "San Diego County / ZIP 92079 sector", "San Diego County / coords 33.1300, -117.1700"]
-zillowHomeValueUsd: 1025267
 ---
 
-**Engineering Notice for San Marcos:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for San Marcos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92078.
+CPVC solvent weld times shift with ambient humidity during San Marcos, CA shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+Cleanout access limits in San Marcos, CA frequently extend drain cleaning duration.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Transparent pricing helps you compare like-for-like scope items.
+Trenchless sleeve pulls near San Marcos, CA require pit shoring notes when water tables are high.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hose bib split patterns in San Marcos, CA often follow missed winterization.
 
-Field note: Moisture pathway inspection logged near ZIP 92096/92079/92069 intake.
+Hydrostatic holds in San Marcos, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 92096, 92079, 92069, 92078 (county grid: San Diego County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in San Marcos, CA.
+
+Hard water in San Marcos, CA accelerates scale on PRV seats and heater elements.
+
+Frost-free sillcock failures in San Marcos, CA often trace to interior shutoff seats, not exterior stems.
+
+Recirculation pump failures in San Marcos, CA can mimic fixture-specific clogs.
+
+Dual-water-meter setups in San Marcos, CA irrigation zones need backflow logs before line replacement.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Fixture roster 600271: toilet flange spacer kit and shower cartridge seat score queued for San Marcos, CA walk-through.
+
+Scope trace: copper pinhole cluster plus hose bib freeze flag referenced in San Diego County county grid review.
+
+On-site sector marker: San Diego County / coords 33.1300, -117.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92078-2db95cad

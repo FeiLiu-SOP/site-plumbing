@@ -12,24 +12,43 @@ lng: -94.1700
 zipSample: ["72704", "72703", "72701", "72702"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / ZIP 72702 sector", "Washington County / primary ZIP 72704", "Washington County / ZIP 72701 sector", "Washington County / ZIP 72704 sector", "Washington County / coords 36.0700, -94.1700"]
-zillowHomeValueUsd: 361930
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fayetteville, AR, but intake notes help reduce delays.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 72704.
 
-Tip: confirm licensing and insurance before approving work.
+Cast-iron hub corrosion in Fayetteville, AR often concentrates at the third joint upstream of the cleanout.
 
-A written scope helps prevent rework and mismatched expectations.
+Water heater T&P discharge paths in Fayetteville, AR must terminate safely before replacement quotes.
 
-Tip: avoid large upfront payments without milestones.
+Dispatch packets reference county grid Washington County near ZIP 72704.
 
-Our service coordination centers on Fayetteville, AR coverage windows and verified intake details.
+Permit note: Main water line replacement in Fayetteville, AR may require ROW restoration planning.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72704/72702/72703.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 72704, 72702, 72703, 72701 (county grid: Washington County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: Water heater anode type may change with Fayetteville, AR hardness profiles.
+
+Galvanized segments in Fayetteville, AR may restrict flow long before visible corrosion.
+
+Recirculation pump failures in Fayetteville, AR can mimic fixture-specific clogs.
+
+Sump discharge freeze risk in Fayetteville, AR should be reviewed before spring thaw cycles.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Intake ledger 345879: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fayetteville, AR at 36.0700, -94.1700.
+
+plumbing brief: water softener bypass lever and toilet flange spacer kit were cross-checked for the Fayetteville intake packet.
+
+On-site sector marker: Washington County / ZIP 72703 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72704-61c9fbf2

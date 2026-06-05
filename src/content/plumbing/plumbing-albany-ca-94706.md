@@ -12,26 +12,43 @@ lng: -122.3000
 zipSample: ["94706"]
 zipCodes: ["94706"]
 localPaths: ["Alameda County / primary ZIP 94706", "Alameda County / ZIP 94706 sector", "Alameda County / elevation 49 ft band", "Alameda County / coords 37.8900, -122.3000"]
-zillowHomeValueUsd: 1260296
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Albany, CA, but intake notes help reduce delays.
+Polybutylene manifold tags in Albany, CA basements should be photographed before any wall chase opens.
 
-Our service coordination centers on Albany, CA coverage windows and verified intake details.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 94706 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Connection points spot-checked where accessible (ZIP 94706 zone).
+Permit note: Main water line replacement in Albany, CA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 94706 (county grid: Alameda County).
+FAQ: When should sump battery backups be load-tested? In Albany, CA, before spring thaw and hurricane remnants.
+
+Fixture shutoff stiffness in Albany, CA may indicate mineral bridging behind stems.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Galvanized segments in Albany, CA may restrict flow long before visible corrosion.
+
+Risk flag: In Albany, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Seasonal Albany, CA irrigation cross-connections can mask domestic pressure loss.
+
+Flow dossier 528906: branch wet-vent geometry and jetting nozzle envelope logged for Albany, CA county grid Alameda County (ZIP 94706).
+
+Supply audit 528906: curb-stop orientation and hose-bib freeze flag reviewed for Albany, CA at coords 37.8900/-122.3000.
+
+Regional mesh label Alameda County: moisture and logistics baselines are keyed to Albany, CA before niche-specific work begins.
 
 Service reference: CA-94706-a780a7b0

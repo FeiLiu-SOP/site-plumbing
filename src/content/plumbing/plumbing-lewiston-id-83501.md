@@ -12,24 +12,41 @@ lng: -116.9900
 zipSample: ["83501"]
 zipCodes: ["83501"]
 localPaths: ["Nez Perce County / primary ZIP 83501", "Nez Perce County / coords 46.3900, -116.9900", "Nez Perce County / ZIP 83501 sector", "Nez Perce County / elevation 1286 ft band"]
-zillowHomeValueUsd: 382324
 ---
 
-**Engineering Notice for Lewiston:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Nez Perce County.
+**Engineering Notice for Lewiston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nez Perce County.
 
 
-Our service coordination centers on Lewiston, ID coverage windows and verified intake details.
+Material note: Water heater anode type may change with Lewiston, ID hardness profiles.
 
-Tip: address recurring issues early to prevent bigger damage.
+CPVC solvent weld times shift with ambient humidity during Lewiston, ID shoulder seasons.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Lewiston, ID irrigation zones need backflow logs before line replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Wind exposure category reviewed for ZIP sector 83501.
+Water heater T&P discharge paths in Lewiston, ID must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 83501 (county grid: Nez Perce County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 83501.
+
+Step: map sump float travel and check-valve orientation for Lewiston, ID basements.
+
+Hydrostatic holds in Lewiston, ID slab circuits run overnight when listening mics show ambiguous hits.
+
+Permit note: Main water line replacement in Lewiston, ID may require ROW restoration planning.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Polybutylene manifold tags in Lewiston, ID basements should be photographed before any wall chase opens.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Supply audit 970933: curb-stop orientation and hose-bib freeze flag reviewed for Lewiston, ID at coords 46.3900/-116.9900.
+
+Field routing: cleanout riser height paired with sewer cleanout cap thread near ZIP 83501.
+
+Coordinate-anchored dispatch note: center reference 46.3900, -116.9900 at elevation ~1286 ft aligns with Nez Perce County intake staging.
 
 Service reference: ID-83501-b158aa4f

@@ -12,24 +12,41 @@ lng: -74.2800
 zipSample: ["08005", "08050"]
 zipCodes: ["08005", "08050"]
 localPaths: ["Ocean County / coords 39.7400, -74.2800", "Ocean County / ZIP 08050 sector", "Ocean County / primary ZIP 08050", "Ocean County / ZIP 08005 sector", "Ocean County / elevation 131 ft band"]
-zillowHomeValueUsd: 583777
 ---
 
-**Engineering Notice for Ocean Acres:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Ocean County.
+**Engineering Notice for Ocean Acres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ocean County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: compare at least two estimates for scope and timeline.
+Irrigation cross-connections in Ocean Acres, NJ can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around Ocean Acres, NJ and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Homeowners in Ocean Acres, NJ often face sudden plumbing problems that require fast action.
+Trenchless pulls in Ocean Acres, NJ require pit dimensions verified against utility locate marks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 08050/08005 coverage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 08050, 08005 (county grid: Ocean County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ocean Acres, NJ systems need rebalancing.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cast-iron hub corrosion in Ocean Acres, NJ often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Permit note: Main water line replacement in Ocean Acres, NJ may require ROW restoration planning.
+
+Fixture roster 910005: toilet flange spacer kit and shower cartridge seat score queued for Ocean Acres, NJ walk-through.
+
+Drain map 910005: camera-pass priority and expansion-tank pre-charge noted for Ocean Acres, NJ postal sector 08050.
+
+On-site sector marker: Ocean County / coords 39.7400, -74.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08050-3f8753d5

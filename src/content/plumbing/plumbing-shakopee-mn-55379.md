@@ -12,27 +12,37 @@ lng: -93.4800
 zipSample: ["55379"]
 zipCodes: ["55379"]
 localPaths: ["Scott County / coords 44.7700, -93.4800", "Scott County / ZIP 55379 sector", "Scott County / primary ZIP 55379", "Scott County / elevation 794 ft band"]
-zillowHomeValueUsd: 404198
 ---
 
-**Engineering Notice for Shakopee:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Shakopee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Shakopee, MN require pit dimensions verified against utility locate marks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Shakopee, MN shoulder seasons.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55379.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shakopee, MN, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: request a written scope before work starts.
+Polybutylene manifold tags in Shakopee, MN basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 55379 intake.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55379.
+Across Shakopee, MN, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 55379 (county grid: Scott County).
+Fixture shutoff stiffness in Shakopee, MN may indicate mineral bridging behind stems.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dispatch packets reference county grid Scott County near ZIP 55379.
+
+Frost-free sillcock failures in Shakopee, MN often trace to interior shutoff seats, not exterior stems.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Flow dossier 544252: branch wet-vent geometry and jetting nozzle envelope logged for Shakopee, MN county grid Scott County (ZIP 55379).
+
+On-site sector marker: Scott County / elevation 794 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55379-c3c76503

@@ -12,26 +12,41 @@ lng: -95.6400
 zipSample: ["77498", "77487", "77478", "77496", "77479"]
 zipCodes: ["77479", "77496", "77498", "77487", "77478"]
 localPaths: ["Fort Bend County / ZIP 77479 sector", "Fort Bend County / coords 29.5900, -95.6400", "Fort Bend County / ZIP 77498 sector", "Fort Bend County / elevation 82 ft band", "Fort Bend County / ZIP 77496 sector"]
-zillowHomeValueUsd: 327174
 ---
 
-**Engineering Notice for Sugar Land:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Fort Bend County.
+**Engineering Notice for Sugar Land:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sugar Land, TX, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 77498.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 77498.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 77498/77478/77479 zone).
+Stack vent offsets in Sugar Land, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 77498/77478/77479.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 77498, 77478, 77479, 77496, 77487 (county grid: Fort Bend County).
+Expansion tank pre-charge loss in Sugar Land, TX often tracks heater replacement deferrals.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Permit note: Main water line replacement in Sugar Land, TX may require ROW restoration planning.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture shutoff stiffness in Sugar Land, TX may indicate mineral bridging behind stems.
+
+Lineage note 548740: recirculation pump amp draw captured before Sugar Land, TX branch isolation.
+
+Drain map 548740: camera-pass priority and expansion-tank pre-charge noted for Sugar Land, TX postal sector 77498.
+
+On-site sector marker: Fort Bend County / coords 29.5900, -95.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77498-18cfbe67

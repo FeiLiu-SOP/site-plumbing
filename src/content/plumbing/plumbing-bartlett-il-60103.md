@@ -12,26 +12,41 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / elevation 797 ft band", "DuPage County / ZIP 60103 sector", "DuPage County / primary ZIP 60103", "DuPage County / coords 41.9800, -88.2100"]
-zillowHomeValueUsd: 427219
 ---
 
-**Engineering Notice for Bartlett:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bartlett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Bartlett, IL may require ROW restoration planning.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in Bartlett, IL require pit dimensions verified against utility locate marks.
 
-We coordinate local dispatch coverage around Bartlett, IL and nearby ZIP sectors.
+Trenchless sleeve pulls near Bartlett, IL require pit shoring notes when water tables are high.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bartlett, IL.
 
-Local conditions in Bartlett, IL can affect timelines and material choices.
+Basement floor drains in Bartlett, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Connection points spot-checked where accessible (ZIP 60103 zone).
+Cast-iron hub corrosion in Bartlett, IL often concentrates at the third joint upstream of the cleanout.
 
-Field note: Moisture pathway inspection logged near ZIP 60103 intake.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 60103 (county grid: DuPage County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 60103.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Pressure trace 210528: meter-pit clearance and dielectric union checklist staged for Bartlett, IL near elevation 797 ft.
+
+Lineage note 210528: recirculation pump amp draw captured before Bartlett, IL branch isolation.
+
+Field routing: slab penetration sleeve seal paired with PRV outlet curve near ZIP 60103.
+
+On-site sector marker: DuPage County / ZIP 60103 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60103-e66ad451

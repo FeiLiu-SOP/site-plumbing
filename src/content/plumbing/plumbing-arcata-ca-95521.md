@@ -12,24 +12,43 @@ lng: -124.0800
 zipSample: ["95518", "95521"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / ZIP 95518 sector", "Humboldt County / coords 40.8600, -124.0800", "Humboldt County / elevation 7 ft band", "Humboldt County / ZIP 95521 sector", "Humboldt County / primary ZIP 95521"]
-zillowHomeValueUsd: 488023
 ---
 
-**Engineering Notice for Arcata:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Arcata:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.
 
 
-In Arcata, CA, urgent plumbing issues can escalate quickly.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Our service coordination centers on Arcata, CA coverage windows and verified intake details.
+Fixture shutoff stiffness in Arcata, CA may indicate mineral bridging behind stems.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Arcata, CA shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 95521/95518 coverage.
+Branch wet vents in Arcata, CA can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 95521, 95518 (county grid: Humboldt County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+In Arcata, CA, slab leaks often present as warm spots before wall stains appear.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Arcata, CA.
+
+Dual-water-meter setups in Arcata, CA irrigation zones need backflow logs before line replacement.
+
+FAQ: When should sump battery backups be load-tested? In Arcata, CA, before spring thaw and hurricane remnants.
+
+Basement floor drains in Arcata, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Drain map 869814: camera-pass priority and expansion-tank pre-charge noted for Arcata, CA postal sector 95521.
+
+Lineage note 869814: recirculation pump amp draw captured before Arcata, CA branch isolation.
+
+Field routing: branch wet vent geometry paired with PRV outlet curve near ZIP 95521.
+
+Primary postal anchor 95521 with multi-ZIP overlap in Arcata; field packets tag Humboldt County for county-grid reconciliation.
 
 Service reference: CA-95521-1f310b96

@@ -12,25 +12,39 @@ lng: -88.3200
 zipSample: ["60123", "60124", "60122", "60121", "60120"]
 zipCodes: ["60121", "60123", "60122", "60124", "60120"]
 localPaths: ["Kane County / ZIP 60124 sector", "Kane County / ZIP 60122 sector", "Kane County / primary ZIP 60120", "Kane County / elevation 823 ft band", "Kane County / ZIP 60123 sector"]
-zillowHomeValueUsd: 293656
 ---
 
-**Engineering Notice for Elgin:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Elgin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Elgin, IL systems need rebalancing.
 
-Homeowners in Elgin, IL often face sudden plumbing problems that require fast action.
+Sewer gas odors in Elgin, IL should trigger trap seal and vent path review.
 
-Our service coordination centers on Elgin, IL coverage windows and verified intake details.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Elgin, IL irrigation zones need backflow logs before line replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60120.
+Cast-iron hub corrosion in Elgin, IL often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60120/60123/60124.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 60120.
 
-Dispatch sectors sampled: ZIP 60120, 60123, 60124, 60122, 60121 (county grid: Kane County).
+Trenchless sleeve pulls near Elgin, IL require pit shoring notes when water tables are high.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Frost-free sillcock failures in Elgin, IL often trace to interior shutoff seats, not exterior stems.
+
+We coordinate Elgin, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Supply audit 236270: curb-stop orientation and hose-bib freeze flag reviewed for Elgin, IL at coords 42.0400/-88.3200.
+
+Drain map 236270: camera-pass priority and expansion-tank pre-charge noted for Elgin, IL postal sector 60120.
+
+On-site sector marker: Kane County / primary ZIP 60120 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60120-f3605d8a

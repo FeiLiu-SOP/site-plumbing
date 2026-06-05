@@ -12,26 +12,39 @@ lng: -84.3300
 zipSample: ["30324", "30319", "30329", "31119"]
 zipCodes: ["30319", "30324", "30329", "31119"]
 localPaths: ["DeKalb County / ZIP 31119 sector", "DeKalb County / elevation 1024 ft band", "DeKalb County / ZIP 30324 sector", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 30329 sector"]
-zillowHomeValueUsd: 524004
 ---
 
-**Engineering Notice for Brookhaven:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Brookhaven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Brookhaven, GA should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Brookhaven, GA.
 
-We coordinate local dispatch coverage around Brookhaven, GA and nearby ZIP sectors.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 30329.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30319/30324/30329.
+Cleanout access limits in Brookhaven, GA frequently extend drain cleaning duration.
 
-Field note: Connection points spot-checked where accessible (ZIP 30319/30324/30329 zone).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 30319, 30324, 30329, 31119 (county grid: DeKalb County).
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: Seasonal Brookhaven, GA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Brookhaven, GA, before spring thaw and hurricane remnants.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Galvanized segments in Brookhaven, GA may restrict flow long before visible corrosion.
+
+Water heater T&P discharge paths in Brookhaven, GA must terminate safely before replacement quotes.
+
+Lineage note 754597: recirculation pump amp draw captured before Brookhaven, GA branch isolation.
+
+On-site sector marker: DeKalb County / ZIP 30319 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30329-1f2b54c8

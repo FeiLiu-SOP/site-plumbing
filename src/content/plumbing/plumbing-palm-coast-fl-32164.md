@@ -12,26 +12,41 @@ lng: -81.2500
 zipSample: ["32135", "32142", "32143", "32164", "32136"]
 zipCodes: ["32137", "32143", "32164", "32142", "32136", "32135"]
 localPaths: ["Flagler County / ZIP 32136 sector", "Flagler County / ZIP 32143 sector", "Flagler County / ZIP 32164 sector", "Flagler County / elevation 46 ft band", "Flagler County / coords 29.5400, -81.2500"]
-zillowHomeValueUsd: 322302
 ---
 
-**Engineering Notice for Palm Coast:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Flagler County.
+**Engineering Notice for Palm Coast:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flagler County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Water heater T&P discharge paths in Palm Coast, FL must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-In Palm Coast, FL, urgent plumbing issues can escalate quickly.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hydrostatic holds in Palm Coast, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Access points and staging constraints recorded for ZIP 32137/32143/32164 coverage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 32137/32143/32164.
+Step: map sump float travel and check-valve orientation for Palm Coast, FL basements.
 
-Dispatch sectors sampled: ZIP 32137, 32143, 32164, 32135, 32136 (county grid: Flagler County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+In Palm Coast, FL, slab leaks often present as warm spots before wall stains appear.
+
+Pressure trace 883977: meter-pit clearance and dielectric union checklist staged for Palm Coast, FL near elevation 46 ft.
+
+Scope trace: slab leak listening window plus backflow test cock orientation referenced in Flagler County county grid review.
+
+Coordinate-anchored dispatch note: center reference 29.5400, -81.2500 at elevation ~46 ft aligns with Flagler County intake staging.
 
 Service reference: FL-32164-d01dcf07

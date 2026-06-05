@@ -12,26 +12,41 @@ lng: -74.1700
 zipSample: ["07101", "07188", "07192", "07191", "07199"]
 zipCodes: ["07188", "07107", "07103", "07106", "07108", "07114", "07112", "07105", "07104", "07102", "07192", "07199"]
 localPaths: ["Essex County / ZIP 07199 sector", "Essex County / ZIP 07101 sector", "Essex County / ZIP 07188 sector", "Essex County / coords 40.7200, -74.1700", "Essex County / elevation 3 ft band"]
-zillowHomeValueUsd: 392620
 ---
 
-**Engineering Notice for Newark:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Newark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.
 
 
-Tip: request a written scope before work starts.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Our service coordination centers on Newark, NJ coverage windows and verified intake details.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Hydrostatic holds in Newark, NJ slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Newark, NJ, but intake notes help reduce delays.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 07103/07198/07188.
+Permit note: Main water line replacement in Newark, NJ may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 07103/07198/07188 zone).
+Material note: Water heater anode type may change with Newark, NJ hardness profiles.
 
-Dispatch sectors sampled: ZIP 07103, 07198, 07188, 07105, 07195 (county grid: Essex County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 07103.
+
+Basement floor drains in Newark, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Irrigation cross-connections in Newark, NJ can back-siphon domestic lines during main breaks.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Flow dossier 718918: branch wet-vent geometry and jetting nozzle envelope logged for Newark, NJ county grid Essex County (ZIP 07103).
+
+Supply audit 718918: curb-stop orientation and hose-bib freeze flag reviewed for Newark, NJ at coords 40.7200/-74.1700.
+
+plumbing brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Newark intake packet.
+
+On-site sector marker: Essex County / ZIP 07107 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07103-1fa0e7b2

@@ -12,27 +12,45 @@ lng: -93.2800
 zipSample: ["55337", "55306"]
 zipCodes: ["55337", "55306"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / ZIP 55306 sector", "Dakota County / elevation 968 ft band"]
-zillowHomeValueUsd: 416540
 ---
 
-**Engineering Notice for Burnsville:** Structural loading calculated based on 968 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Burnsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+CPVC solvent weld times shift with ambient humidity during Burnsville, MN shoulder seasons.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55306.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burnsville, MN, but intake notes help reduce delays.
+Trenchless pulls in Burnsville, MN require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 55337/55306 intake.
+Recirculation pump failures in Burnsville, MN can mimic fixture-specific clogs.
 
-Field note: Connection points spot-checked where accessible (ZIP 55337/55306 zone).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 55337, 55306 (county grid: Dakota County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 55306.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Across Burnsville, MN, main-line bellies can trap debris even when fixtures drain normally.
+
+Cast-iron hub corrosion in Burnsville, MN often concentrates at the third joint upstream of the cleanout.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55306.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Lineage note 820994: recirculation pump amp draw captured before Burnsville, MN branch isolation.
+
+Supply audit 820994: curb-stop orientation and hose-bib freeze flag reviewed for Burnsville, MN at coords 44.7600/-93.2800.
+
+Field routing: slab leak listening window paired with scale coupon sampling near ZIP 55306.
+
+On-site sector marker: Dakota County / coords 44.7600, -93.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55306-89623674

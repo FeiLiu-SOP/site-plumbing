@@ -12,24 +12,41 @@ lng: -122.1500
 zipSample: ["98009", "98005", "98015", "98007", "98006"]
 zipCodes: ["98004", "98008", "98005", "98015", "98006", "98007", "98009"]
 localPaths: ["King County / primary ZIP 98004", "King County / elevation 338 ft band", "King County / ZIP 98015 sector", "King County / ZIP 98005 sector", "King County / coords 47.6000, -122.1500"]
-zillowHomeValueUsd: 1988216
 ---
 
-**Engineering Notice for Bellevue:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Bellevue:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Bellevue, WA often concentrates at the third joint upstream of the cleanout.
 
-Our service coordination centers on Bellevue, WA coverage windows and verified intake details.
+Risk flag: Seasonal Bellevue, WA irrigation cross-connections can mask domestic pressure loss.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bellevue, WA, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bellevue, WA systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 98004/98007/98005.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98004.
 
-Dispatch sectors sampled: ZIP 98004, 98007, 98005, 98006, 98009 (county grid: King County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Hydrostatic holds in Bellevue, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Flow dossier 283026: branch wet-vent geometry and jetting nozzle envelope logged for Bellevue, WA county grid King County (ZIP 98004).
+
+Fixture roster 283026: toilet flange spacer kit and shower cartridge seat score queued for Bellevue, WA walk-through.
+
+On-site sector marker: King County / primary ZIP 98004 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98004-e398b303

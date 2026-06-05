@@ -12,27 +12,41 @@ lng: -81.5500
 zipSample: ["28151", "28152", "28150"]
 zipCodes: ["28152", "28150", "28151"]
 localPaths: ["Cleveland County / ZIP 28151 sector", "Cleveland County / elevation 883 ft band", "Cleveland County / primary ZIP 28150", "Cleveland County / coords 35.2900, -81.5500", "Cleveland County / ZIP 28150 sector"]
-zillowHomeValueUsd: 201084
 ---
 
-**Engineering Notice for Shelby:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Cleveland County.
+**Engineering Notice for Shelby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cleveland County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Across Shelby, NC, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: compare at least two estimates for scope and timeline.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 28150.
 
-Our service coordination centers on Shelby, NC coverage windows and verified intake details.
+Irrigation cross-connections in Shelby, NC can back-siphon domestic lines during main breaks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 28150.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 28150.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shelby, NC, but intake notes help reduce delays.
+Water heater T&P discharge paths in Shelby, NC must terminate safely before replacement quotes.
 
-Field note: Connection points spot-checked where accessible (ZIP 28152/28151/28150 zone).
+Polybutylene manifold tags in Shelby, NC basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28152/28151/28150.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 28152, 28151, 28150 (county grid: Cleveland County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Stack vent offsets in Shelby, NC older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When should sump battery backups be load-tested? In Shelby, NC, before spring thaw and hurricane remnants.
+
+Lineage note 265136: recirculation pump amp draw captured before Shelby, NC branch isolation.
+
+Pressure trace 265136: meter-pit clearance and dielectric union checklist staged for Shelby, NC near elevation 883 ft.
+
+Scope trace: PRV outlet curve plus cleanout riser height referenced in Cleveland County county grid review.
+
+On-site sector marker: Cleveland County / ZIP 28152 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28150-3a780357

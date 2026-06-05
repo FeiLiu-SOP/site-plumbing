@@ -12,25 +12,41 @@ lng: -98.2500
 zipSample: ["78154", "78132", "78108"]
 zipCodes: ["78108", "78154", "78132"]
 localPaths: ["Bexar County / ZIP 78108 sector", "Bexar County / ZIP 78154 sector", "Bexar County / primary ZIP 78108", "Bexar County / coords 29.5700, -98.2500", "Bexar County / elevation 699 ft band"]
-zillowHomeValueUsd: 330371
 ---
 
-**Engineering Notice for Schertz:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Schertz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near Schertz, TX require pit shoring notes when water tables are high.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 78108.
+Irrigation cross-connections in Schertz, TX can back-siphon domestic lines during main breaks.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Water heater anode type may change with Schertz, TX hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Schertz, TX often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Connection points spot-checked where accessible (ZIP 78132/78108/78154 zone).
+FAQ: When is cabling enough? In Schertz, TX, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 78132, 78108, 78154 (county grid: Bexar County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Schertz, TX systems need rebalancing.
+
+FAQ: When should sump battery backups be load-tested? In Schertz, TX, before spring thaw and hurricane remnants.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Schertz, TX.
+
+Basement floor drains in Schertz, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Stack vent offsets in Schertz, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Branch wet vents in Schertz, TX can mask gurgling as a main-line issue.
+
+Lineage note 642680: recirculation pump amp draw captured before Schertz, TX branch isolation.
+
+Field routing: hose bib freeze flag paired with scale coupon sampling near ZIP 78108.
+
+On-site sector marker: Bexar County / ZIP 78108 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78108-328da272

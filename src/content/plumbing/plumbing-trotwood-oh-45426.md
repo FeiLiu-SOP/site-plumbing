@@ -12,26 +12,39 @@ lng: -84.3200
 zipSample: ["45416", "45417", "45426"]
 zipCodes: ["45426", "45417", "45416"]
 localPaths: ["Montgomery County / ZIP 45426 sector", "Montgomery County / ZIP 45417 sector", "Montgomery County / coords 39.7900, -84.3200", "Montgomery County / primary ZIP 45426", "Montgomery County / ZIP 45416 sector"]
-zillowHomeValueUsd: 167527
 ---
 
-**Engineering Notice for Trotwood:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Trotwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Basement floor drains in Trotwood, OH should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal Trotwood, OH irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trotwood, OH, but intake notes help reduce delays.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our service coordination centers on Trotwood, OH coverage windows and verified intake details.
+Hydrostatic holds in Trotwood, OH slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 45416/45426/45417 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 45416/45426/45417 zone).
+Stack vent offsets in Trotwood, OH older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 45416, 45426, 45417 (county grid: Montgomery County).
+Cast-iron hub corrosion in Trotwood, OH often concentrates at the third joint upstream of the cleanout.
+
+Hydro-jetting in Trotwood, OH requires camera confirmation before nozzle pressure is raised.
+
+Polybutylene manifold tags in Trotwood, OH basements should be photographed before any wall chase opens.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Supply audit 811725: curb-stop orientation and hose-bib freeze flag reviewed for Trotwood, OH at coords 39.7900/-84.3200.
+
+On-site sector marker: Montgomery County / ZIP 45416 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45426-57bd96ea

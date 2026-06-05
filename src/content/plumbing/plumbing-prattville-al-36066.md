@@ -12,27 +12,41 @@ lng: -86.4600
 zipSample: ["36067", "36068", "36066"]
 zipCodes: ["36066", "36068", "36067"]
 localPaths: ["Autauga County / coords 32.4600, -86.4600", "Autauga County / primary ZIP 36066", "Autauga County / ZIP 36067 sector", "Autauga County / ZIP 36066 sector", "Autauga County / elevation 315 ft band"]
-zillowHomeValueUsd: 288236
 ---
 
-**Engineering Notice for Prattville:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Autauga County.
+**Engineering Notice for Prattville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Autauga County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Across Prattville, AL, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 36066.
 
-Our service coordination centers on Prattville, AL coverage windows and verified intake details.
+Hard water in Prattville, AL accelerates scale on PRV seats and heater elements.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 36066.
+Expansion tank pre-charge loss in Prattville, AL often tracks heater replacement deferrals.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Prattville, AL often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 36066/36067/36068 coverage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Connection points spot-checked where accessible (ZIP 36066/36067/36068 zone).
+Sewer gas odors in Prattville, AL should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 36066, 36067, 36068 (county grid: Autauga County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Basement floor drains in Prattville, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture roster 383386: toilet flange spacer kit and shower cartridge seat score queued for Prattville, AL walk-through.
+
+Regional mesh label Autauga County: moisture and logistics baselines are keyed to Prattville, AL before niche-specific work begins.
 
 Service reference: AL-36066-a34097b2

@@ -12,26 +12,43 @@ lng: -83.6900
 zipSample: ["48504", "48502", "48551", "48550", "48503"]
 zipCodes: ["48550", "48507", "48553", "48557", "48503", "48551", "48552", "48556", "48505", "48506", "48504", "48502"]
 localPaths: ["Genesee County / ZIP 48502 sector", "Genesee County / coords 43.0200, -83.6900", "Genesee County / elevation 732 ft band", "Genesee County / ZIP 48503 sector", "Genesee County / primary ZIP 48502"]
-zillowHomeValueUsd: 105691
 ---
 
-**Engineering Notice for Flint:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Genesee County.
+**Engineering Notice for Flint:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Main water line replacement in Flint, MI may require ROW restoration planning.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Flint, MI, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Our service coordination centers on Flint, MI coverage windows and verified intake details.
+Recirculation pump failures in Flint, MI can mimic fixture-specific clogs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Flint, MI, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Wind exposure category reviewed for ZIP sector 48557/48551/48504.
+Risk flag: In Flint, MI, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Moisture pathway inspection logged near ZIP 48557/48551/48504 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Flint, MI systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 48557, 48551, 48504, 48502, 48553 (county grid: Genesee County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 48502.
+
+Branch wet vents in Flint, MI can mask gurgling as a main-line issue.
+
+Galvanized segments in Flint, MI may restrict flow long before visible corrosion.
+
+Polybutylene manifold tags in Flint, MI basements should be photographed before any wall chase opens.
+
+Cast-iron hub corrosion in Flint, MI often concentrates at the third joint upstream of the cleanout.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Pressure trace 285176: meter-pit clearance and dielectric union checklist staged for Flint, MI near elevation 732 ft.
+
+plumbing brief: shower cartridge seat score and dielectric union checklist were cross-checked for the Flint intake packet.
+
+On-site sector marker: Genesee County / elevation 732 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48502-666dd5f5

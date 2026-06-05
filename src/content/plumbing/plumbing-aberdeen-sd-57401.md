@@ -12,24 +12,39 @@ lng: -98.4700
 zipSample: ["57401"]
 zipCodes: ["57401"]
 localPaths: ["Brown County / primary ZIP 57401", "Brown County / coords 45.4600, -98.4700", "Brown County / ZIP 57401 sector", "Brown County / elevation 1296 ft band"]
-zillowHomeValueUsd: 237133
 ---
 
-**Engineering Notice for Aberdeen:** Structural loading calculated based on 1296 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+CPVC solvent weld times shift with ambient humidity during Aberdeen, SD shoulder seasons.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Homeowners in Aberdeen, SD often face sudden plumbing problems that require fast action.
+Polybutylene manifold tags in Aberdeen, SD basements should be photographed before any wall chase opens.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Irrigation cross-connections in Aberdeen, SD can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 57401 zone).
+Water heater T&P discharge paths in Aberdeen, SD must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 57401 (county grid: Brown County).
+Stack vent offsets in Aberdeen, SD older duplexes can mask tub gurgle as a main-line failure.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Across Aberdeen, SD, main-line bellies can trap debris even when fixtures drain normally.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Galvanized segments in Aberdeen, SD may restrict flow long before visible corrosion.
+
+Risk flag: In Aberdeen, SD, slab leaks can misroute as foundation issues without listening equipment.
+
+Cast-iron hub corrosion in Aberdeen, SD often concentrates at the third joint upstream of the cleanout.
+
+Pressure trace 996152: meter-pit clearance and dielectric union checklist staged for Aberdeen, SD near elevation 1296 ft.
+
+On-site sector marker: Brown County / ZIP 57401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57401-f68db919

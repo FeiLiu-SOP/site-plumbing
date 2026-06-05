@@ -12,26 +12,39 @@ lng: -76.9200
 zipSample: ["20747", "20746", "20790", "20752"]
 zipCodes: ["20790", "20752", "20746", "20747"]
 localPaths: ["Prince George's County / ZIP 20746 sector", "Prince George's County / primary ZIP 20746", "Prince George's County / ZIP 20752 sector", "Prince George's County / coords 38.8500, -76.9200", "Prince George's County / ZIP 20747 sector"]
-zillowHomeValueUsd: 335917
 ---
 
-**Engineering Notice for Suitland:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Suitland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20746.
 
-Tip: avoid large upfront payments without milestones.
+Cast-iron hub corrosion in Suitland, MD often concentrates at the third joint upstream of the cleanout.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is hydro-jetting always appropriate? In Suitland, MD, pipe material and blockage type dictate method.
 
-We coordinate local dispatch coverage around Suitland, MD and nearby ZIP sectors.
+We coordinate Suitland, MD plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Suitland, MD, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 20790/20752/20747.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Suitland, MD.
 
-Field note: Access points and staging constraints recorded for ZIP 20790/20752/20747 coverage.
+Across Suitland, MD, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 20790, 20752, 20747, 20746 (county grid: Prince George's County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Permit note: Main water line replacement in Suitland, MD may require ROW restoration planning.
+
+Supply audit 935996: curb-stop orientation and hose-bib freeze flag reviewed for Suitland, MD at coords 38.8500/-76.9200.
+
+Field routing: fixture shutoff torque log paired with sewer cleanout cap thread near ZIP 20746.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to Suitland, MD before niche-specific work begins.
 
 Service reference: MD-20746-91f18ccc

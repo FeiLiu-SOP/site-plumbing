@@ -12,24 +12,39 @@ lng: -120.9600
 zipSample: ["95351", "95358", "95307"]
 zipCodes: ["95307", "95358", "95351"]
 localPaths: ["Stanislaus County / ZIP 95358 sector", "Stanislaus County / ZIP 95351 sector", "Stanislaus County / primary ZIP 95358", "Stanislaus County / coords 37.6000, -120.9600", "Stanislaus County / ZIP 95307 sector"]
-zillowHomeValueUsd: 434002
 ---
 
-**Engineering Notice for Ceres:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Ceres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanislaus County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Ceres, CA irrigation cross-connections can mask domestic pressure loss.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ceres, CA, but intake notes help reduce delays.
+FAQ: When is cabling enough? In Ceres, CA, pipe material and blockage type dictate method.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Ceres, CA may require ROW restoration planning.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Connection points spot-checked where accessible (ZIP 95307/95351/95358 zone).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ceres, CA.
 
-Dispatch sectors sampled: ZIP 95307, 95351, 95358 (county grid: Stanislaus County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydrostatic holds in Ceres, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Lineage note 142328: recirculation pump amp draw captured before Ceres, CA branch isolation.
+
+Scope trace: water heater T&P path plus slab penetration sleeve seal referenced in Stanislaus County county grid review.
+
+Coordinate-anchored dispatch note: center reference 37.6000, -120.9600 at elevation ~82 ft aligns with Stanislaus County intake staging.
 
 Service reference: CA-95358-d75e2c4f

@@ -12,27 +12,41 @@ lng: -81.8000
 zipSample: ["34135", "33929", "33967", "33928"]
 zipCodes: ["34135", "33929", "33967", "33928"]
 localPaths: ["Lee County / elevation 33 ft band", "Lee County / ZIP 34135 sector", "Lee County / coords 26.4300, -81.8000", "Lee County / ZIP 33929 sector", "Lee County / ZIP 33928 sector"]
-zillowHomeValueUsd: 359340
 ---
 
-**Engineering Notice for Estero:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Estero:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with Estero, FL hardness profiles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Basement floor drains in Estero, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33967.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 34135/33929/33928 zone).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34135/33929/33928.
+Across Estero, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 34135, 33929, 33928, 33967 (county grid: Lee County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+CPVC solvent weld times shift with ambient humidity during Estero, FL shoulder seasons.
+
+Sewer gas odors in Estero, FL should trigger trap seal and vent path review.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Dual-water-meter setups in Estero, FL irrigation zones need backflow logs before line replacement.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Fixture roster 781537: toilet flange spacer kit and shower cartridge seat score queued for Estero, FL walk-through.
+
+Lineage note 781537: recirculation pump amp draw captured before Estero, FL branch isolation.
+
+On-site sector marker: Lee County / ZIP 33967 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33967-5ac98a93

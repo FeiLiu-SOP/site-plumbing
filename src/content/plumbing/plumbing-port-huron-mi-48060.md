@@ -12,26 +12,39 @@ lng: -82.4400
 zipSample: ["48061", "48060"]
 zipCodes: ["48060", "48061"]
 localPaths: ["St. Clair County / elevation 597 ft band", "St. Clair County / primary ZIP 48060", "St. Clair County / coords 42.9800, -82.4400", "St. Clair County / ZIP 48061 sector", "St. Clair County / ZIP 48060 sector"]
-zillowHomeValueUsd: 170056
 ---
 
-**Engineering Notice for Port Huron:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Port Huron:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hose bib split patterns in Port Huron, MI often follow missed winterization.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Dispatch packets reference county grid St. Clair County near ZIP 48060.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in Port Huron, MI often tracks heater replacement deferrals.
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Port Huron, MI older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Port Huron, MI and nearby ZIP sectors.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Wind exposure category reviewed for ZIP sector 48061/48060.
+Step: map sump float travel and check-valve orientation for Port Huron, MI basements.
 
-Field note: Connection points spot-checked where accessible (ZIP 48061/48060 zone).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 48061, 48060 (county grid: St. Clair County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: In Port Huron, MI, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Drain map 112936: camera-pass priority and expansion-tank pre-charge noted for Port Huron, MI postal sector 48060.
+
+On-site sector marker: St. Clair County / coords 42.9800, -82.4400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48060-9aa883a0

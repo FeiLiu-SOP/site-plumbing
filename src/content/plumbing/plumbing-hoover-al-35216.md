@@ -12,26 +12,43 @@ lng: -86.8100
 zipSample: ["35236", "35226", "35260", "35216", "35242"]
 zipCodes: ["35226", "35260", "35216", "35242", "35236", "35244"]
 localPaths: ["Jefferson County / ZIP 35226 sector", "Jefferson County / elevation 492 ft band", "Jefferson County / primary ZIP 35216", "Jefferson County / ZIP 35216 sector", "Jefferson County / coords 33.3800, -86.8100"]
-zillowHomeValueUsd: 411517
 ---
 
-**Engineering Notice for Hoover:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Hoover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hoover, AL, but intake notes help reduce delays.
+Irrigation cross-connections in Hoover, AL can back-siphon domestic lines during main breaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cleanout access limits in Hoover, AL frequently extend drain cleaning duration.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cast-iron hub corrosion in Hoover, AL often concentrates at the third joint upstream of the cleanout.
 
-Our service coordination centers on Hoover, AL coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 35244/35216/35260 zone).
+FAQ: Is hydro-jetting always appropriate? In Hoover, AL, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35244/35216/35260.
+Hard water in Hoover, AL accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 35244, 35216, 35260, 35226, 35242 (county grid: Jefferson County).
+Permit note: Main water line replacement in Hoover, AL may require ROW restoration planning.
+
+Basement floor drains in Hoover, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Hoover, AL.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Trenchless pulls in Hoover, AL require pit dimensions verified against utility locate marks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Supply audit 396154: curb-stop orientation and hose-bib freeze flag reviewed for Hoover, AL at coords 33.3800/-86.8100.
+
+Field routing: dielectric union checklist paired with PRV outlet curve near ZIP 35216.
+
+On-site sector marker: Jefferson County / ZIP 35260 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35216-19307f39

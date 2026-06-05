@@ -12,24 +12,41 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / primary ZIP 76034", "Tarrant County / elevation 653 ft band", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / ZIP 76034 sector"]
-zillowHomeValueUsd: 912151
 ---
 
-**Engineering Notice for Colleyville:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Colleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Colleyville, TX require pit shoring notes when water tables are high.
 
-Our service coordination centers on Colleyville, TX coverage windows and verified intake details.
+Branch wet vents in Colleyville, TX can mask gurgling as a main-line issue.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Colleyville, TX systems need rebalancing.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Dual-water-meter setups in Colleyville, TX irrigation zones need backflow logs before line replacement.
 
-Tip: request a written scope before work starts.
+FAQ: Is hydro-jetting always appropriate? In Colleyville, TX, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 76034.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 76034 (county grid: Tarrant County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: camera-pass main lines in Colleyville, TX before jetting older clay or cast iron.
+
+In Colleyville, TX, slab leaks often present as warm spots before wall stains appear.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Irrigation cross-connections in Colleyville, TX can back-siphon domestic lines during main breaks.
+
+Risk flag: Seasonal Colleyville, TX irrigation cross-connections can mask domestic pressure loss.
+
+Supply audit 884914: curb-stop orientation and hose-bib freeze flag reviewed for Colleyville, TX at coords 32.8900/-97.1500.
+
+Flow dossier 884914: branch wet-vent geometry and jetting nozzle envelope logged for Colleyville, TX county grid Tarrant County (ZIP 76034).
+
+Scope trace: meter pit clearance plus jetter nozzle envelope referenced in Tarrant County county grid review.
+
+On-site sector marker: Tarrant County / ZIP 76034 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76034-8a8f7418

@@ -12,27 +12,41 @@ lng: -83.3700
 zipSample: ["48150", "48151", "48153", "48152", "48154"]
 zipCodes: ["48151", "48153", "48150", "48152", "48154"]
 localPaths: ["Wayne County / ZIP 48152 sector", "Wayne County / primary ZIP 48152", "Wayne County / ZIP 48154 sector", "Wayne County / elevation 669 ft band", "Wayne County / ZIP 48153 sector"]
-zillowHomeValueUsd: 323069
 ---
 
-**Engineering Notice for Livonia:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Livonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 48152.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 48152.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stack vent offsets in Livonia, MI older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: compare at least two estimates for scope and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 48153/48152/48150 coverage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 48153/48152/48150 intake.
+Fixture shutoff stiffness in Livonia, MI may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 48153, 48152, 48150, 48151, 48154 (county grid: Wayne County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Sump discharge freeze risk in Livonia, MI should be reviewed before spring thaw cycles.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Hydrostatic holds in Livonia, MI slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Fixture roster 629677: toilet flange spacer kit and shower cartridge seat score queued for Livonia, MI walk-through.
+
+Pressure trace 629677: meter-pit clearance and dielectric union checklist staged for Livonia, MI near elevation 669 ft.
+
+On-site sector marker: Wayne County / coords 42.4000, -83.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48152-ddf2f1ed

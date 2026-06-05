@@ -12,26 +12,39 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / ZIP 70817 sector", "East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / primary ZIP 70817", "East Baton Rouge Parish / coords 30.4000, -91.0000"]
-zillowHomeValueUsd: 303813
 ---
 
-**Engineering Notice for Shenandoah:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
+**Engineering Notice for Shenandoah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: East Baton Rouge Parish.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Shenandoah, LA irrigation zones need backflow logs before line replacement.
 
-In Shenandoah, LA, urgent plumbing issues can escalate quickly.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Shenandoah, LA may require ROW restoration planning.
 
-We coordinate local dispatch coverage around Shenandoah, LA and nearby ZIP sectors.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 70817.
+Risk flag: In Shenandoah, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 70817 zone).
+Hose bib split patterns in Shenandoah, LA often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 70817 (county grid: East Baton Rouge Parish).
+Trenchless pulls in Shenandoah, LA require pit dimensions verified against utility locate marks.
+
+Material note: Water heater anode type may change with Shenandoah, LA hardness profiles.
+
+Risk flag: Seasonal Shenandoah, LA irrigation cross-connections can mask domestic pressure loss.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Basement floor drains in Shenandoah, LA should be snaked only after trap arm geometry is confirmed on camera.
+
+Pressure trace 629541: meter-pit clearance and dielectric union checklist staged for Shenandoah, LA near elevation 56 ft.
+
+Scope trace: slab penetration sleeve seal plus slab leak listening window referenced in East Baton Rouge Parish county grid review.
+
+On-site sector marker: East Baton Rouge Parish / ZIP 70817 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70817-29c695f6

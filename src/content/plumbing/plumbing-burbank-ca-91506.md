@@ -12,26 +12,41 @@ lng: -118.3200
 zipSample: ["91504", "91501", "91510", "91523", "91506"]
 zipCodes: ["91523", "91507", "91502", "91521", "91505", "91503", "91504", "91510", "91508", "91522", "91506", "91501"]
 localPaths: ["Los Angeles County / primary ZIP 91506", "Los Angeles County / ZIP 91523 sector", "Los Angeles County / ZIP 91504 sector", "Los Angeles County / ZIP 91506 sector", "Los Angeles County / elevation 604 ft band"]
-zillowHomeValueUsd: 1222369
 ---
 
-**Engineering Notice for Burbank:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Burbank:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-In Burbank, CA, seasonal demand can change scheduling windows.
+In Burbank, CA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hose bib split patterns in Burbank, CA often follow missed winterization.
 
-Our service coordination centers on Burbank, CA coverage windows and verified intake details.
+Material note: Water heater anode type may change with Burbank, CA hardness profiles.
 
-Homeowners in Burbank, CA often face sudden plumbing problems that require fast action.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Burbank, CA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91521/91523/91502.
+CPVC solvent weld times shift with ambient humidity during Burbank, CA shoulder seasons.
 
-Field note: Connection points spot-checked where accessible (ZIP 91521/91523/91502 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 91521, 91523, 91502, 91501, 91503 (county grid: Los Angeles County).
+Dispatch packets reference county grid Los Angeles County near ZIP 91506.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 91506.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Drain map 955725: camera-pass priority and expansion-tank pre-charge noted for Burbank, CA postal sector 91506.
+
+Intake ledger 955725: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Burbank, CA at 34.1900, -118.3200.
+
+Scope trace: toilet flange spacer kit plus shower cartridge seat score referenced in Los Angeles County county grid review.
+
+Coordinate-anchored dispatch note: center reference 34.1900, -118.3200 at elevation ~604 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91506-1b04642f

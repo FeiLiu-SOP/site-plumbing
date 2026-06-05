@@ -12,24 +12,43 @@ lng: -80.1700
 zipSample: ["33418", "33403", "33412", "33410"]
 zipCodes: ["33412", "33410", "33418", "33403"]
 localPaths: ["Palm Beach County / primary ZIP 33418", "Palm Beach County / elevation 33 ft band", "Palm Beach County / ZIP 33410 sector", "Palm Beach County / coords 26.8500, -80.1700", "Palm Beach County / ZIP 33403 sector"]
-zillowHomeValueUsd: 712860
 ---
 
-**Engineering Notice for Palm Beach Gardens:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Palm Beach Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Seasonal Palm Beach Gardens, FL irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Structured milestones protect both sides when scheduling work.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palm Beach Gardens, FL, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 33412/33410/33403 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 33412, 33410, 33403, 33418 (county grid: Palm Beach County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33418.
+
+FAQ: Is hydro-jetting always appropriate? In Palm Beach Gardens, FL, pipe material and blockage type dictate method.
+
+CPVC solvent weld times shift with ambient humidity during Palm Beach Gardens, FL shoulder seasons.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Flow dossier 937956: branch wet-vent geometry and jetting nozzle envelope logged for Palm Beach Gardens, FL county grid Palm Beach County (ZIP 33418).
+
+Drain map 937956: camera-pass priority and expansion-tank pre-charge noted for Palm Beach Gardens, FL postal sector 33418.
+
+ZIP-corridor snapshot for Palm Beach Gardens, FL: sampled sectors include 33403, 33418, 33410, 33412; county routing grid remains Palm Beach County.
 
 Service reference: FL-33418-f20ca2ed

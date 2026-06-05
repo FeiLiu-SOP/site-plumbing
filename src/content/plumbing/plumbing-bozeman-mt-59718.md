@@ -12,26 +12,41 @@ lng: -111.0600
 zipSample: ["59719", "59718", "59715"]
 zipCodes: ["59719", "59715", "59718"]
 localPaths: ["Gallatin County / elevation 4803 ft band", "Gallatin County / ZIP 59715 sector", "Gallatin County / ZIP 59719 sector", "Gallatin County / primary ZIP 59718", "Gallatin County / ZIP 59718 sector"]
-zillowHomeValueUsd: 647326
 ---
 
-**Engineering Notice for Bozeman:** Structural loading calculated based on 4803 ft terrain assessment. Regional dispatch grid: Gallatin County.
+**Engineering Notice for Bozeman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gallatin County.
 
 
-Tip: request a written scope before work starts.
+Irrigation cross-connections in Bozeman, MT can back-siphon domestic lines during main breaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Main water line replacement in Bozeman, MT may require ROW restoration planning.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bozeman, MT, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-In Bozeman, MT, urgent plumbing issues can escalate quickly.
+Risk flag: Seasonal Bozeman, MT irrigation cross-connections can mask domestic pressure loss.
 
-Our service coordination centers on Bozeman, MT coverage windows and verified intake details.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 59719/59718/59715.
+Hose bib split patterns in Bozeman, MT often follow missed winterization.
 
-Field note: Connection points spot-checked where accessible (ZIP 59719/59718/59715 zone).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 59719, 59718, 59715 (county grid: Gallatin County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Basement floor drains in Bozeman, MT should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 59718.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 59718.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Polybutylene manifold tags in Bozeman, MT basements should be photographed before any wall chase opens.
+
+Flow dossier 503508: branch wet-vent geometry and jetting nozzle envelope logged for Bozeman, MT county grid Gallatin County (ZIP 59718).
+
+Coordinate-anchored dispatch note: center reference 45.6800, -111.0600 at elevation ~4803 ft aligns with Gallatin County intake staging.
 
 Service reference: MT-59718-7e891dbe

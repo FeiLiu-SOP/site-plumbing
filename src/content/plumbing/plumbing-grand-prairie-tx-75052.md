@@ -12,25 +12,41 @@ lng: -97.0200
 zipSample: ["75265", "75054", "75052", "75053", "75050"]
 zipCodes: ["75052", "75104", "75051", "75265", "75050", "75054", "75053"]
 localPaths: ["Dallas County / ZIP 75053 sector", "Dallas County / ZIP 75052 sector", "Dallas County / ZIP 75050 sector", "Dallas County / coords 32.6900, -97.0200", "Dallas County / elevation 535 ft band"]
-zillowHomeValueUsd: 324303
 ---
 
-**Engineering Notice for Grand Prairie:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Grand Prairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: log PRV inlet and outlet readings during intake.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: When should sump battery backups be load-tested? In Grand Prairie, TX, before spring thaw and hurricane remnants.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75052.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 75104/75050/75051.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 75104, 75050, 75051, 75053, 75054 (county grid: Dallas County).
+Risk flag: In Grand Prairie, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 75052.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Galvanized segments in Grand Prairie, TX may restrict flow long before visible corrosion.
+
+Trenchless sleeve pulls near Grand Prairie, TX require pit shoring notes when water tables are high.
+
+Fixture roster 959912: toilet flange spacer kit and shower cartridge seat score queued for Grand Prairie, TX walk-through.
+
+Lineage note 959912: recirculation pump amp draw captured before Grand Prairie, TX branch isolation.
+
+Coordinate-anchored dispatch note: center reference 32.6900, -97.0200 at elevation ~535 ft aligns with Dallas County intake staging.
 
 Service reference: TX-75052-96df3113

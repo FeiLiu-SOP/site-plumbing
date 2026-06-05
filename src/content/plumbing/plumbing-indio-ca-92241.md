@@ -12,24 +12,41 @@ lng: -116.2300
 zipSample: ["92203", "92201", "92241"]
 zipCodes: ["92241", "92203", "92201"]
 localPaths: ["Riverside County / coords 33.7300, -116.2300", "Riverside County / ZIP 92201 sector", "Riverside County / ZIP 92203 sector", "Riverside County / ZIP 92241 sector", "Riverside County / primary ZIP 92241"]
-zillowHomeValueUsd: 408002
 ---
 
-**Engineering Notice for Indio:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Indio:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sump discharge freeze risk in Indio, CA should be reviewed before spring thaw cycles.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is cabling enough? In Indio, CA, pipe material and blockage type dictate method.
 
-Tip: request a written scope before work starts.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our service coordination centers on Indio, CA coverage windows and verified intake details.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Moisture pathway inspection logged near ZIP 92241/92203/92201 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 92241, 92203, 92201 (county grid: Riverside County).
+Hydrostatic holds in Indio, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: Water heater anode type may change with Indio, CA hardness profiles.
+
+Trenchless sleeve pulls near Indio, CA require pit shoring notes when water tables are high.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Trenchless pulls in Indio, CA require pit dimensions verified against utility locate marks.
+
+Fixture roster 298021: toilet flange spacer kit and shower cartridge seat score queued for Indio, CA walk-through.
+
+plumbing brief: meter pit clearance and thermal expansion loop check were cross-checked for the Indio intake packet.
+
+On-site sector marker: Riverside County / ZIP 92241 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92241-f94dbc15

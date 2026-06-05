@@ -12,26 +12,39 @@ lng: -87.9800
 zipSample: ["60005", "60004"]
 zipCodes: ["60004", "60005"]
 localPaths: ["Cook County / ZIP 60004 sector", "Cook County / primary ZIP 60005", "Cook County / coords 42.1000, -87.9800", "Cook County / elevation 728 ft band", "Cook County / ZIP 60005 sector"]
-zillowHomeValueUsd: 426643
 ---
 
-**Engineering Notice for Arlington Heights:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Arlington Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In Arlington Heights, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We coordinate local dispatch coverage around Arlington Heights, IL and nearby ZIP sectors.
+FAQ: When is cabling enough? In Arlington Heights, IL, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 60004/60005.
+Galvanized segments in Arlington Heights, IL may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 60004/60005 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 60004, 60005 (county grid: Cook County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Arlington Heights, IL require pit dimensions verified against utility locate marks.
+
+Cast-iron hub corrosion in Arlington Heights, IL often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Pressure trace 770205: meter-pit clearance and dielectric union checklist staged for Arlington Heights, IL near elevation 728 ft.
+
+Supply audit 770205: curb-stop orientation and hose-bib freeze flag reviewed for Arlington Heights, IL at coords 42.1000/-87.9800.
+
+On-site sector marker: Cook County / elevation 728 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60005-73078938

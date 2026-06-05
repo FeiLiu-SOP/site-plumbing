@@ -12,26 +12,41 @@ lng: -73.5600
 zipSample: ["06911", "06912", "06902", "06905", "06927"]
 zipCodes: ["06911", "06906", "06901", "06927", "06926", "06912", "06904", "06902", "06905", "06910", "06903", "06913"]
 localPaths: ["Western Connecticut County / ZIP 06927 sector", "Western Connecticut County / primary ZIP 06906", "Western Connecticut County / ZIP 06902 sector", "Western Connecticut County / coords 41.1000, -73.5600", "Western Connecticut County / ZIP 06905 sector"]
-zillowHomeValueUsd: 630130
 ---
 
-**Engineering Notice for Stamford:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Western Connecticut County.
+**Engineering Notice for Stamford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Western Connecticut County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Stamford, CT often trace to interior shutoff seats, not exterior stems.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Seasonal Stamford, CT irrigation cross-connections can mask domestic pressure loss.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Stamford, CT may require ROW restoration planning.
 
-Our service coordination centers on Stamford, CT coverage windows and verified intake details.
+Across Stamford, CT, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 06905/06901/06910 coverage.
+Recirculation pump failures in Stamford, CT can mimic fixture-specific clogs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06905/06901/06910.
+Cleanout access limits in Stamford, CT frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 06905, 06901, 06910, 06906, 06904 (county grid: Western Connecticut County).
+Trenchless pulls in Stamford, CT require pit dimensions verified against utility locate marks.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stamford, CT systems need rebalancing.
+
+Basement floor drains in Stamford, CT should be snaked only after trap arm geometry is confirmed on camera.
+
+Flow dossier 431384: branch wet-vent geometry and jetting nozzle envelope logged for Stamford, CT county grid Western Connecticut County (ZIP 06906).
+
+Supply audit 431384: curb-stop orientation and hose-bib freeze flag reviewed for Stamford, CT at coords 41.1000/-73.5600.
+
+Scope trace: sump float travel plus sewer cleanout cap thread referenced in Western Connecticut County county grid review.
+
+On-site sector marker: Western Connecticut County / ZIP 06927 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06906-3d22615c

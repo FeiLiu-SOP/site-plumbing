@@ -12,24 +12,43 @@ lng: -102.5000
 zipSample: ["79764", "79760", "79763"]
 zipCodes: ["79760", "79764", "79763"]
 localPaths: ["Ector County / primary ZIP 79763", "Ector County / ZIP 79763 sector", "Ector County / elevation 2963 ft band", "Ector County / ZIP 79764 sector", "Ector County / coords 31.8400, -102.5000"]
-zillowHomeValueUsd: 215074
 ---
 
-**Engineering Notice for West Odessa:** Structural loading calculated based on 2963 ft terrain assessment. Regional dispatch grid: Ector County.
+**Engineering Notice for West Odessa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ector County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Trenchless sleeve pulls near West Odessa, TX require pit shoring notes when water tables are high.
 
-Our service coordination centers on West Odessa, TX coverage windows and verified intake details.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Seasonal West Odessa, TX irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Galvanized segments in West Odessa, TX may restrict flow long before visible corrosion.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Odessa, TX, but intake notes help reduce delays.
+Material note: Water heater anode type may change with West Odessa, TX hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 79764/79763/79760 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 79764, 79763, 79760 (county grid: Ector County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in West Odessa, TX systems need rebalancing.
+
+Fixture shutoff stiffness in West Odessa, TX may indicate mineral bridging behind stems.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Basement floor drains in West Odessa, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Supply audit 502113: curb-stop orientation and hose-bib freeze flag reviewed for West Odessa, TX at coords 31.8400/-102.5000.
+
+Field routing: meter pit clearance paired with scale coupon sampling near ZIP 79763.
+
+On-site sector marker: Ector County / primary ZIP 79763 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79763-f7610a96

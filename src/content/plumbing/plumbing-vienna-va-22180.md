@@ -12,25 +12,43 @@ lng: -77.2600
 zipSample: ["22180", "22185", "22183"]
 zipCodes: ["22183", "22185", "22180"]
 localPaths: ["Fairfax County / ZIP 22183 sector", "Fairfax County / ZIP 22185 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / primary ZIP 22180", "Fairfax County / coords 38.9000, -77.2600"]
-zillowHomeValueUsd: 1072222
 ---
 
-**Engineering Notice for Vienna:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Vienna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Vienna, VA, but intake notes help reduce delays.
+Sewer gas odors in Vienna, VA should trigger trap seal and vent path review.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22180.
+Dual-water-meter setups in Vienna, VA irrigation zones need backflow logs before line replacement.
 
-We coordinate local dispatch coverage around Vienna, VA and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: request a written scope before work starts.
+We coordinate Vienna, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Access points and staging constraints recorded for ZIP 22183/22185/22180 coverage.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 22183, 22185, 22180 (county grid: Fairfax County).
+CPVC solvent weld times shift with ambient humidity during Vienna, VA shoulder seasons.
+
+Cleanout access limits in Vienna, VA frequently extend drain cleaning duration.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Expansion tank pre-charge loss in Vienna, VA often tracks heater replacement deferrals.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hose bib split patterns in Vienna, VA often follow missed winterization.
+
+Supply audit 195966: curb-stop orientation and hose-bib freeze flag reviewed for Vienna, VA at coords 38.9000/-77.2600.
+
+Intake ledger 195966: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Vienna, VA at 38.9000, -77.2600.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~390 ft across the Fairfax County area. Coordinates: 38.9000, -77.2600. ZIP sample: 22183, 22180, 22185. Service perimeter note: Coverage extends through Fairfax County with dispatch centered near ZIP 22180.
 
 Service reference: VA-22180-2a42312d

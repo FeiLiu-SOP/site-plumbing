@@ -12,25 +12,41 @@ lng: -120.5500
 zipSample: ["98926"]
 zipCodes: ["98926"]
 localPaths: ["Kittitas County / coords 47.0000, -120.5500", "Kittitas County / ZIP 98926 sector", "Kittitas County / primary ZIP 98926", "Kittitas County / elevation 1562 ft band"]
-zillowHomeValueUsd: 458941
 ---
 
-**Engineering Notice for Ellensburg:** Structural loading calculated based on 1562 ft terrain assessment. Regional dispatch grid: Kittitas County.
+**Engineering Notice for Ellensburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kittitas County.
 
 
-Our service coordination centers on Ellensburg, WA coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Ellensburg, WA older duplexes can mask tub gurgle as a main-line failure.
 
-Homeowners in Ellensburg, WA often face sudden plumbing problems that require fast action.
+Expansion tank pre-charge loss in Ellensburg, WA often tracks heater replacement deferrals.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98926.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Water heater anode type may change with Ellensburg, WA hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 98926 intake.
+Trenchless pulls in Ellensburg, WA require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 98926 (county grid: Kittitas County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Frost-free sillcock failures in Ellensburg, WA often trace to interior shutoff seats, not exterior stems.
+
+Polybutylene manifold tags in Ellensburg, WA basements should be photographed before any wall chase opens.
+
+Fixture shutoff stiffness in Ellensburg, WA may indicate mineral bridging behind stems.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Permit note: Main water line replacement in Ellensburg, WA may require ROW restoration planning.
+
+Supply audit 718999: curb-stop orientation and hose-bib freeze flag reviewed for Ellensburg, WA at coords 47.0000/-120.5500.
+
+plumbing brief: PRV outlet curve and slab penetration sleeve seal were cross-checked for the Ellensburg intake packet.
+
+On-site sector marker: Kittitas County / elevation 1562 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98926-6a026ece

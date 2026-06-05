@@ -12,24 +12,45 @@ lng: -93.3600
 zipSample: ["70665", "70663"]
 zipCodes: ["70665", "70663"]
 localPaths: ["Calcasieu Parish / coords 30.2300, -93.3600", "Calcasieu Parish / elevation 43 ft band", "Calcasieu Parish / ZIP 70665 sector", "Calcasieu Parish / primary ZIP 70663", "Calcasieu Parish / ZIP 70663 sector"]
-zillowHomeValueUsd: 177417
 ---
 
-**Engineering Notice for Sulphur:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.
+**Engineering Notice for Sulphur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calcasieu Parish.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Sulphur, LA often trace to interior shutoff seats, not exterior stems.
 
-Tip: avoid large upfront payments without milestones.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+Hydro-jetting in Sulphur, LA requires camera confirmation before nozzle pressure is raised.
 
-Field note: Connection points spot-checked where accessible (ZIP 70665/70663 zone).
+Recirculation pump failures in Sulphur, LA can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 70665, 70663 (county grid: Calcasieu Parish).
+Hydrostatic holds in Sulphur, LA slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Irrigation cross-connections in Sulphur, LA can back-siphon domestic lines during main breaks.
+
+Permit note: Main water line replacement in Sulphur, LA may require ROW restoration planning.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 70663.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: Water heater anode type may change with Sulphur, LA hardness profiles.
+
+Lineage note 564606: recirculation pump amp draw captured before Sulphur, LA branch isolation.
+
+Fixture roster 564606: toilet flange spacer kit and shower cartridge seat score queued for Sulphur, LA walk-through.
+
+Scope trace: scale coupon sampling plus gas water heater draft hood gap referenced in Calcasieu Parish county grid review.
+
+On-site sector marker: Calcasieu Parish / ZIP 70665 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70663-c5e83a6f

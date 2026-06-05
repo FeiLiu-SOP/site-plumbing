@@ -12,24 +12,43 @@ lng: -80.2100
 zipSample: ["33137", "33127", "33255", "33130", "33149"]
 zipCodes: ["33138", "33137", "33109", "33139", "33222", "33145", "33231", "33144", "33299", "33149", "33129", "33132"]
 localPaths: ["Miami-Dade County / elevation 36 ft band", "Miami-Dade County / coords 25.7800, -80.2100", "Miami-Dade County / ZIP 33149 sector", "Miami-Dade County / primary ZIP 33128", "Miami-Dade County / ZIP 33255 sector"]
-zillowHomeValueUsd: 430574
 ---
 
-**Engineering Notice for Miami:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Miami:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hose bib split patterns in Miami, FL often follow missed winterization.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 33128.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Seasonal Miami, FL irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Miami, FL often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 33130/33128/33255.
+Irrigation cross-connections in Miami, FL can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 33130, 33128, 33255, 33222, 33138 (county grid: Miami-Dade County).
+Basement floor drains in Miami, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: In Miami, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Stack vent offsets in Miami, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33128.
+
+Pressure trace 761720: meter-pit clearance and dielectric union checklist staged for Miami, FL near elevation 36 ft.
+
+Scope trace: copper pinhole cluster plus cleanout riser height referenced in Miami-Dade County county grid review.
+
+On-site sector marker: Miami-Dade County / coords 25.7800, -80.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33128-b5f4fd8e

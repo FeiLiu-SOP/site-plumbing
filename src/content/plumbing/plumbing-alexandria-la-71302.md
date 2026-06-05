@@ -12,26 +12,39 @@ lng: -92.4700
 zipSample: ["71307", "71315", "71301", "71303", "71348"]
 zipCodes: ["71303", "71348", "71307", "71315", "71309", "71302", "71301"]
 localPaths: ["Rapides Parish / ZIP 71315 sector", "Rapides Parish / ZIP 71348 sector", "Rapides Parish / elevation 98 ft band", "Rapides Parish / ZIP 71307 sector", "Rapides Parish / ZIP 71303 sector"]
-zillowHomeValueUsd: 89910
 ---
 
-**Engineering Notice for Alexandria:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Rapides Parish.
+**Engineering Notice for Alexandria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rapides Parish.
 
 
-In Alexandria, LA, urgent plumbing issues can escalate quickly.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Alexandria, LA, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: request a written scope before work starts.
+Risk flag: Seasonal Alexandria, LA irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Branch wet vents in Alexandria, LA can mask gurgling as a main-line issue.
 
-Our service coordination centers on Alexandria, LA coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Connection points spot-checked where accessible (ZIP 71302/71309/71303 zone).
+CPVC solvent weld times shift with ambient humidity during Alexandria, LA shoulder seasons.
 
-Field note: Wind exposure category reviewed for ZIP sector 71302/71309/71303.
+Stack vent offsets in Alexandria, LA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 71302, 71309, 71303, 71348, 71307 (county grid: Rapides Parish).
+Step: photograph curb-stop and meter pit before trenching.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Irrigation cross-connections in Alexandria, LA can back-siphon domestic lines during main breaks.
+
+Trenchless sleeve pulls near Alexandria, LA require pit shoring notes when water tables are high.
+
+Trenchless pulls in Alexandria, LA require pit dimensions verified against utility locate marks.
+
+Supply audit 616926: curb-stop orientation and hose-bib freeze flag reviewed for Alexandria, LA at coords 31.2900/-92.4700.
+
+On-site sector marker: Rapides Parish / ZIP 71348 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71302-e4c51552

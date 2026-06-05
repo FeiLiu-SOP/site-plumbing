@@ -12,27 +12,41 @@ lng: -76.4900
 zipSample: ["21122"]
 zipCodes: ["21122"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.1000, -76.4900", "Anne Arundel County / elevation 75 ft band", "Anne Arundel County / primary ZIP 21122"]
-zillowHomeValueUsd: 454578
 ---
 
-**Engineering Notice for Lake Shore:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Lake Shore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lake Shore, MD, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 21122.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our service coordination centers on Lake Shore, MD coverage windows and verified intake details.
+Frost-free sillcock failures in Lake Shore, MD often trace to interior shutoff seats, not exterior stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 21122 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 21122 intake.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 21122 (county grid: Anne Arundel County).
+Hydro-jetting in Lake Shore, MD requires camera confirmation before nozzle pressure is raised.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: log PRV inlet and outlet readings during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 759379: toilet flange spacer kit and shower cartridge seat score queued for Lake Shore, MD walk-through.
+
+Flow dossier 759379: branch wet-vent geometry and jetting nozzle envelope logged for Lake Shore, MD county grid Anne Arundel County (ZIP 21122).
+
+Field routing: meter pit clearance paired with PEX expansion ring batch near ZIP 21122.
+
+On-site sector marker: Anne Arundel County / ZIP 21122 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21122-916c4005

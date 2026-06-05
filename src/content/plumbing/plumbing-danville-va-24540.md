@@ -12,27 +12,39 @@ lng: -79.4100
 zipSample: ["24541", "24540"]
 zipCodes: ["24541", "24540"]
 localPaths: ["Danville County / primary ZIP 24540", "Danville County / elevation 554 ft band", "Danville County / coords 36.5800, -79.4100", "Danville County / ZIP 24541 sector", "Danville County / ZIP 24540 sector"]
-zillowHomeValueUsd: 153080
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Danville County.
+**Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Danville County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 24540.
+We coordinate Danville, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Danville, VA irrigation zones need backflow logs before line replacement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 24540/24541 intake.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 24540/24541 coverage.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 24540, 24541 (county grid: Danville County).
+FAQ: When should sump battery backups be load-tested? In Danville, VA, before spring thaw and hurricane remnants.
+
+Permit note: Main water line replacement in Danville, VA may require ROW restoration planning.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Across Danville, VA, main-line bellies can trap debris even when fixtures drain normally.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Drain map 799841: camera-pass priority and expansion-tank pre-charge noted for Danville, VA postal sector 24540.
+
+Supply audit 799841: curb-stop orientation and hose-bib freeze flag reviewed for Danville, VA at coords 36.5800/-79.4100.
+
+ZIP-corridor snapshot for Danville, VA: sampled sectors include 24541, 24540; county routing grid remains Danville County.
 
 Service reference: VA-24540-c1a5f855

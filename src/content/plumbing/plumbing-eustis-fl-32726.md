@@ -12,26 +12,39 @@ lng: -81.6800
 zipSample: ["32726", "32736", "32727"]
 zipCodes: ["32726", "32736", "32727"]
 localPaths: ["Lake County / coords 28.8600, -81.6800", "Lake County / elevation 105 ft band", "Lake County / ZIP 32726 sector", "Lake County / ZIP 32727 sector", "Lake County / ZIP 32736 sector"]
-zillowHomeValueUsd: 286693
 ---
 
-**Engineering Notice for Eustis:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Eustis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Polybutylene manifold tags in Eustis, FL basements should be photographed before any wall chase opens.
 
-We coordinate local dispatch coverage around Eustis, FL and nearby ZIP sectors.
+Stack vent offsets in Eustis, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Eustis, FL shoulder seasons.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Eustis, FL hardness profiles.
 
-Field note: Wind exposure category reviewed for ZIP sector 32726/32736/32727.
+Recirculation pump failures in Eustis, FL can mimic fixture-specific clogs.
 
-Field note: Connection points spot-checked where accessible (ZIP 32726/32736/32727 zone).
+Hose bib split patterns in Eustis, FL often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 32726, 32736, 32727 (county grid: Lake County).
+Dual-water-meter setups in Eustis, FL irrigation zones need backflow logs before line replacement.
+
+Cast-iron hub corrosion in Eustis, FL often concentrates at the third joint upstream of the cleanout.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Basement floor drains in Eustis, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Lineage note 295505: recirculation pump amp draw captured before Eustis, FL branch isolation.
+
+Drain map 295505: camera-pass priority and expansion-tank pre-charge noted for Eustis, FL postal sector 32726.
+
+On-site sector marker: Lake County / ZIP 32736 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32726-74a5f65f

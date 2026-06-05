@@ -12,26 +12,41 @@ lng: -124.1600
 zipSample: ["95534", "95502", "95521", "95501", "95503"]
 zipCodes: ["95503", "95534", "95521", "95501", "95502"]
 localPaths: ["Humboldt County / ZIP 95501 sector", "Humboldt County / primary ZIP 95503", "Humboldt County / ZIP 95502 sector", "Humboldt County / ZIP 95503 sector", "Humboldt County / ZIP 95521 sector"]
-zillowHomeValueUsd: 426525
 ---
 
-**Engineering Notice for Eureka:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Eureka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Transparent pricing helps you compare like-for-like scope items.
+Dual-water-meter setups in Eureka, CA irrigation zones need backflow logs before line replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Trenchless pulls in Eureka, CA require pit dimensions verified against utility locate marks.
 
-Tip: avoid large upfront payments without milestones.
+CPVC solvent weld times shift with ambient humidity during Eureka, CA shoulder seasons.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eureka, CA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 95521/95503/95502 zone).
+Permit note: Main water line replacement in Eureka, CA may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 95521/95503/95502.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 95521, 95503, 95502, 95534, 95501 (county grid: Humboldt County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+In Eureka, CA, slab leaks often present as warm spots before wall stains appear.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Eureka, CA.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Pressure trace 230104: meter-pit clearance and dielectric union checklist staged for Eureka, CA near elevation 69 ft.
+
+Scope trace: water heater T&P path plus floor drain trap primer drip referenced in Humboldt County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~69 ft across the Humboldt County area. Coordinates: 40.7900, -124.1600. ZIP sample: 95521, 95503, 95501, 95534, 95502. Regional routing note: Humboldt County traffic flow is balanced around ZIP 95503 service demand.
 
 Service reference: CA-95503-71d23f94

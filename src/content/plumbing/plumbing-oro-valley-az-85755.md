@@ -12,25 +12,41 @@ lng: -110.9800
 zipSample: ["85737", "85704", "85755", "85742"]
 zipCodes: ["85755", "85742", "85737", "85704"]
 localPaths: ["Pima County / elevation 2740 ft band", "Pima County / primary ZIP 85755", "Pima County / ZIP 85704 sector", "Pima County / ZIP 85737 sector", "Pima County / coords 32.4200, -110.9800"]
-zillowHomeValueUsd: 513213
 ---
 
-**Engineering Notice for Oro Valley:** Structural loading calculated based on 2740 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Oro Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-Our service coordination centers on Oro Valley, AZ coverage windows and verified intake details.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+In Oro Valley, AZ, slab leaks often present as warm spots before wall stains appear.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85755.
+Risk flag: Seasonal Oro Valley, AZ irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oro Valley, AZ, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Transparent pricing helps you compare like-for-like scope items.
+Branch wet vents in Oro Valley, AZ can mask gurgling as a main-line issue.
 
-Field note: Moisture pathway inspection logged near ZIP 85737/85755/85742 intake.
+Fixture shutoff stiffness in Oro Valley, AZ may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 85737, 85755, 85742, 85704 (county grid: Pima County).
+Material note: Water heater anode type may change with Oro Valley, AZ hardness profiles.
+
+Polybutylene manifold tags in Oro Valley, AZ basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Recirculation pump failures in Oro Valley, AZ can mimic fixture-specific clogs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Hose bib split patterns in Oro Valley, AZ often follow missed winterization.
+
+Fixture roster 458514: toilet flange spacer kit and shower cartridge seat score queued for Oro Valley, AZ walk-through.
+
+On-site sector marker: Pima County / ZIP 85742 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85755-b9b24052

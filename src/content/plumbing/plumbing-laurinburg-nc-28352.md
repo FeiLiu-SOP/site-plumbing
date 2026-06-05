@@ -12,26 +12,41 @@ lng: -79.4800
 zipSample: ["28352", "28353"]
 zipCodes: ["28353", "28352"]
 localPaths: ["Scotland County / primary ZIP 28352", "Scotland County / ZIP 28353 sector", "Scotland County / ZIP 28352 sector", "Scotland County / coords 34.7600, -79.4800", "Scotland County / elevation 236 ft band"]
-zillowHomeValueUsd: 148982
 ---
 
-**Engineering Notice for Laurinburg:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Scotland County.
+**Engineering Notice for Laurinburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scotland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Laurinburg, NC, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-In Laurinburg, NC, urgent plumbing issues can escalate quickly.
+Trenchless sleeve pulls near Laurinburg, NC require pit shoring notes when water tables are high.
 
-Tip: avoid large upfront payments without milestones.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Laurinburg, NC.
 
-We coordinate local dispatch coverage around Laurinburg, NC and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28352/28353.
+FAQ: When should sump battery backups be load-tested? In Laurinburg, NC, before spring thaw and hurricane remnants.
 
-Field note: Wind exposure category reviewed for ZIP sector 28352/28353.
+Recirculation pump failures in Laurinburg, NC can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 28352, 28353 (county grid: Scotland County).
+FAQ: When is cabling enough? In Laurinburg, NC, pipe material and blockage type dictate method.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Cast-iron hub corrosion in Laurinburg, NC often concentrates at the third joint upstream of the cleanout.
+
+Drain map 217125: camera-pass priority and expansion-tank pre-charge noted for Laurinburg, NC postal sector 28352.
+
+Coordinate-anchored dispatch note: center reference 34.7600, -79.4800 at elevation ~236 ft aligns with Scotland County intake staging.
 
 Service reference: NC-28352-84ca1c6d

@@ -12,26 +12,39 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / ZIP 97062 sector", "Washington County / elevation 164 ft band", "Washington County / coords 45.3800, -122.7700", "Washington County / primary ZIP 97062"]
-zillowHomeValueUsd: 640353
 ---
 
-**Engineering Notice for Tualatin:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Tualatin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tualatin, OR, but intake notes help reduce delays.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97062.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tualatin, OR systems need rebalancing.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 97062 coverage.
+Sump discharge freeze risk in Tualatin, OR should be reviewed before spring thaw cycles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97062.
+Risk flag: In Tualatin, OR, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 97062 (county grid: Washington County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 97062.
+
+Step: camera-pass main lines in Tualatin, OR before jetting older clay or cast iron.
+
+Risk flag: Seasonal Tualatin, OR irrigation cross-connections can mask domestic pressure loss.
+
+Permit note: Main water line replacement in Tualatin, OR may require ROW restoration planning.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless sleeve pulls near Tualatin, OR require pit shoring notes when water tables are high.
+
+Fixture roster 389584: toilet flange spacer kit and shower cartridge seat score queued for Tualatin, OR walk-through.
+
+On-site sector marker: Washington County / coords 45.3800, -122.7700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97062-6f42f0eb

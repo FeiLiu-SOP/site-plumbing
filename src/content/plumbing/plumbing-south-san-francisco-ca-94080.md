@@ -12,26 +12,43 @@ lng: -122.4200
 zipSample: ["94083", "94080"]
 zipCodes: ["94080", "94083"]
 localPaths: ["San Mateo County / ZIP 94080 sector", "San Mateo County / primary ZIP 94080", "San Mateo County / coords 37.6500, -122.4200", "San Mateo County / ZIP 94083 sector", "San Mateo County / elevation 20 ft band"]
-zillowHomeValueUsd: 1239964
 ---
 
-**Engineering Notice for South San Francisco:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for South San Francisco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with South San Francisco, CA hardness profiles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South San Francisco, CA, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Polybutylene manifold tags in South San Francisco, CA basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94083/94080.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Connection points spot-checked where accessible (ZIP 94083/94080 zone).
+Dual-water-meter setups in South San Francisco, CA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 94083, 94080 (county grid: San Mateo County).
+Step: camera-pass main lines in South San Francisco, CA before jetting older clay or cast iron.
+
+FAQ: Is hydro-jetting always appropriate? In South San Francisco, CA, pipe material and blockage type dictate method.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Trenchless pulls in South San Francisco, CA require pit dimensions verified against utility locate marks.
+
+Branch wet vents in South San Francisco, CA can mask gurgling as a main-line issue.
+
+Intake ledger 958108: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South San Francisco, CA at 37.6500, -122.4200.
+
+Lineage note 958108: recirculation pump amp draw captured before South San Francisco, CA branch isolation.
+
+Field routing: sewer cleanout cap thread paired with gas water heater draft hood gap near ZIP 94080.
+
+On-site sector marker: San Mateo County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94080-1c71a48b

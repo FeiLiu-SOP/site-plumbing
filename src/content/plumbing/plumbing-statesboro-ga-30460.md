@@ -12,26 +12,41 @@ lng: -81.7800
 zipSample: ["30461", "30458", "30460", "30459"]
 zipCodes: ["30460", "30461", "30458", "30459"]
 localPaths: ["Bulloch County / ZIP 30460 sector", "Bulloch County / coords 32.4400, -81.7800", "Bulloch County / primary ZIP 30460", "Bulloch County / elevation 236 ft band", "Bulloch County / ZIP 30459 sector"]
-zillowHomeValueUsd: 259359
 ---
 
-**Engineering Notice for Statesboro:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Bulloch County.
+**Engineering Notice for Statesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bulloch County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should sump battery backups be load-tested? In Statesboro, GA, before spring thaw and hurricane remnants.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with Statesboro, GA hardness profiles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Statesboro, GA, but intake notes help reduce delays.
+Irrigation cross-connections in Statesboro, GA can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on Statesboro, GA coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30458/30461/30459.
+Sewer gas odors in Statesboro, GA should trigger trap seal and vent path review.
 
-Field note: Wind exposure category reviewed for ZIP sector 30458/30461/30459.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 30458, 30461, 30459, 30460 (county grid: Bulloch County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Statesboro, GA.
+
+Risk flag: Seasonal Statesboro, GA irrigation cross-connections can mask domestic pressure loss.
+
+Flow dossier 271389: branch wet-vent geometry and jetting nozzle envelope logged for Statesboro, GA county grid Bulloch County (ZIP 30460).
+
+Drain map 271389: camera-pass priority and expansion-tank pre-charge noted for Statesboro, GA postal sector 30460.
+
+Scope trace: hose bib freeze flag plus PEX expansion ring batch referenced in Bulloch County county grid review.
+
+On-site sector marker: Bulloch County / primary ZIP 30460 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30460-b3532b03

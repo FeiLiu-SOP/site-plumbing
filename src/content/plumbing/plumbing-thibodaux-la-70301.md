@@ -12,25 +12,39 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301", "Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector"]
-zillowHomeValueUsd: 224506
 ---
 
-**Engineering Notice for Thibodaux:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lafourche Parish.
+**Engineering Notice for Thibodaux:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafourche Parish.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 70301.
+Irrigation cross-connections in Thibodaux, LA can back-siphon domestic lines during main breaks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Thibodaux, LA and nearby ZIP sectors.
+Basement floor drains in Thibodaux, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Thibodaux, LA.
 
-Field note: Wind exposure category reviewed for ZIP sector 70310/70301.
+Permit note: Main water line replacement in Thibodaux, LA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 70310, 70301 (county grid: Lafourche Parish).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Sump discharge freeze risk in Thibodaux, LA should be reviewed before spring thaw cycles.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Cast-iron hub corrosion in Thibodaux, LA often concentrates at the third joint upstream of the cleanout.
+
+Flow dossier 740963: branch wet-vent geometry and jetting nozzle envelope logged for Thibodaux, LA county grid Lafourche Parish (ZIP 70301).
+
+On-site sector marker: Lafourche Parish / coords 29.7900, -90.8100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70301-da8ce9e9

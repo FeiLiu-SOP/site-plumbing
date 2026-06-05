@@ -12,26 +12,43 @@ lng: -110.8800
 zipSample: ["85751", "85713", "85732", "85748", "85714"]
 zipCodes: ["85725", "85734", "85723", "85754", "85724", "85732", "85756", "85726", "85748", "85716", "85711", "85721"]
 localPaths: ["Pima County / elevation 2677 ft band", "Pima County / ZIP 85714 sector", "Pima County / ZIP 85751 sector", "Pima County / ZIP 85713 sector", "Pima County / ZIP 85732 sector"]
-zillowHomeValueUsd: 254243
 ---
 
-**Engineering Notice for Tucson:** Structural loading calculated based on 2677 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Tucson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 85705.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Tucson, AZ often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 85745/85754/85747 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 85745/85754/85747 coverage.
+FAQ: Is hydro-jetting always appropriate? In Tucson, AZ, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 85745, 85754, 85747, 85748, 85717 (county grid: Pima County).
+Hose bib split patterns in Tucson, AZ often follow missed winterization.
+
+Cast-iron hub corrosion in Tucson, AZ often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Across Tucson, AZ, main-line bellies can trap debris even when fixtures drain normally.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 85705.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Pressure trace 843275: meter-pit clearance and dielectric union checklist staged for Tucson, AZ near elevation 2677 ft.
+
+plumbing brief: recirculation pump amp draw and water softener bypass lever were cross-checked for the Tucson intake packet.
+
+On-site sector marker: Pima County / coords 32.1500, -110.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85705-1d380e41

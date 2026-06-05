@@ -12,27 +12,41 @@ lng: -85.8800
 zipSample: ["42702", "42701"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / elevation 738 ft band", "Hardin County / ZIP 42701 sector", "Hardin County / ZIP 42702 sector"]
-zillowHomeValueUsd: 269218
 ---
 
-**Engineering Notice for Elizabethtown:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Hardin County.
+**Engineering Notice for Elizabethtown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hardin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: request a written scope before work starts.
+Tip: Save water heater serial plates for warranty traceability.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 42701.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elizabethtown, KY, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Our service coordination centers on Elizabethtown, KY coverage windows and verified intake details.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 42702/42701 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 42702/42701 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 42702, 42701 (county grid: Hardin County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Polybutylene manifold tags in Elizabethtown, KY basements should be photographed before any wall chase opens.
+
+FAQ: When is cabling enough? In Elizabethtown, KY, pipe material and blockage type dictate method.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Branch wet vents in Elizabethtown, KY can mask gurgling as a main-line issue.
+
+Hard water in Elizabethtown, KY accelerates scale on PRV seats and heater elements.
+
+Flow dossier 604118: branch wet-vent geometry and jetting nozzle envelope logged for Elizabethtown, KY county grid Hardin County (ZIP 42701).
+
+plumbing brief: gas water heater draft hood gap and recirculation pump amp draw were cross-checked for the Elizabethtown intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Hardin County. Reference elevation: 738 ft. Primary coordinates: 37.7000, -85.8800. ZIP sample: 42702, 42701. Service perimeter note: Coverage extends through Hardin County with dispatch centered near ZIP 42701.
 
 Service reference: KY-42701-3816d0b7

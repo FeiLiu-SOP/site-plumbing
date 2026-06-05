@@ -12,26 +12,41 @@ lng: -96.0500
 zipSample: ["68127", "68197", "68135", "68103", "68117"]
 zipCodes: ["68139", "68106", "68197", "68116", "68111", "68182", "68103", "68107", "68132", "68144", "68198", "68180"]
 localPaths: ["Douglas County / ZIP 68197 sector", "Douglas County / elevation 1152 ft band", "Douglas County / ZIP 68103 sector", "Douglas County / ZIP 68135 sector", "Douglas County / coords 41.2600, -96.0500"]
-zillowHomeValueUsd: 182161
 ---
 
-**Engineering Notice for Omaha:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Omaha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: request a written scope before work starts.
+Cast-iron hub corrosion in Omaha, NE often concentrates at the third joint upstream of the cleanout.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Omaha, NE irrigation cross-connections can mask domestic pressure loss.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Omaha, NE should trigger trap seal and vent path review.
 
-Field note: Access points and staging constraints recorded for ZIP 68022/68164/68101 coverage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 68022/68164/68101 intake.
+Hydrostatic holds in Omaha, NE slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 68022, 68164, 68101, 68139, 68108 (county grid: Douglas County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Omaha, NE systems need rebalancing.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Hydro-jetting in Omaha, NE requires camera confirmation before nozzle pressure is raised.
+
+Flow dossier 966428: branch wet-vent geometry and jetting nozzle envelope logged for Omaha, NE county grid Douglas County (ZIP 68112).
+
+Fixture roster 966428: toilet flange spacer kit and shower cartridge seat score queued for Omaha, NE walk-through.
+
+plumbing brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Omaha intake packet.
+
+ZIP-corridor snapshot for Omaha, NE: sampled sectors include 68179, 68105, 68176, 68178, 68144, 68180, 68145, 68111; county routing grid remains Douglas County.
 
 Service reference: NE-68112-be139048

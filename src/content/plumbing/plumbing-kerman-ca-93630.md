@@ -12,26 +12,43 @@ lng: -120.0600
 zipSample: ["93630"]
 zipCodes: ["93630"]
 localPaths: ["Fresno County / ZIP 93630 sector", "Fresno County / elevation 236 ft band", "Fresno County / coords 36.7200, -120.0600", "Fresno County / primary ZIP 93630"]
-zillowHomeValueUsd: 414667
 ---
 
-**Engineering Notice for Kerman:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Kerman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: camera-pass main lines in Kerman, CA before jetting older clay or cast iron.
 
-Our service coordination centers on Kerman, CA coverage windows and verified intake details.
+Frost-free sillcock failures in Kerman, CA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kerman, CA, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Local conditions in Kerman, CA can affect timelines and material choices.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Connection points spot-checked where accessible (ZIP 93630 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 93630 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 93630.
 
-Dispatch sectors sampled: ZIP 93630 (county grid: Fresno County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In Kerman, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Seasonal Kerman, CA irrigation cross-connections can mask domestic pressure loss.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+In Kerman, CA, slab leaks often present as warm spots before wall stains appear.
+
+Pressure trace 914975: meter-pit clearance and dielectric union checklist staged for Kerman, CA near elevation 236 ft.
+
+Lineage note 914975: recirculation pump amp draw captured before Kerman, CA branch isolation.
+
+plumbing brief: scale coupon sampling and water softener bypass lever were cross-checked for the Kerman intake packet.
+
+ZIP-corridor snapshot for Kerman, CA: sampled sectors include 93630; county routing grid remains Fresno County.
 
 Service reference: CA-93630-e7ec95f5

@@ -12,27 +12,37 @@ lng: -80.7200
 zipSample: ["29903", "29901", "29906", "29902", "29904"]
 zipCodes: ["29902", "29941", "29904", "29903", "29906", "29901"]
 localPaths: ["Beaufort County / primary ZIP 29902", "Beaufort County / ZIP 29901 sector", "Beaufort County / elevation 43 ft band", "Beaufort County / ZIP 29902 sector", "Beaufort County / ZIP 29904 sector"]
-zillowHomeValueUsd: 418921
 ---
 
-**Engineering Notice for Beaufort:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Beaufort County.
+**Engineering Notice for Beaufort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.
 
 
-We coordinate local dispatch coverage around Beaufort, SC and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Beaufort, SC, but intake notes help reduce delays.
+Recirculation pump failures in Beaufort, SC can mimic fixture-specific clogs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Beaufort, SC.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 29902.
+Permit note: Main water line replacement in Beaufort, SC may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 29906/29902/29941.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 29906/29902/29941 coverage.
+Risk flag: Seasonal Beaufort, SC irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 29906, 29902, 29941, 29904, 29901 (county grid: Beaufort County).
+Trenchless sleeve pulls near Beaufort, SC require pit shoring notes when water tables are high.
+
+CPVC solvent weld times shift with ambient humidity during Beaufort, SC shoulder seasons.
+
+Cast-iron hub corrosion in Beaufort, SC often concentrates at the third joint upstream of the cleanout.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hydrostatic holds in Beaufort, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Flow dossier 610855: branch wet-vent geometry and jetting nozzle envelope logged for Beaufort, SC county grid Beaufort County (ZIP 29902).
+
+On-site sector marker: Beaufort County / ZIP 29906 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29902-57bc6a5e

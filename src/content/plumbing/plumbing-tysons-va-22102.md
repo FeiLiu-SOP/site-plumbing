@@ -12,26 +12,39 @@ lng: -77.2300
 zipSample: ["22102", "22182"]
 zipCodes: ["22102", "22182"]
 localPaths: ["Fairfax County / ZIP 22102 sector", "Fairfax County / elevation 512 ft band", "Fairfax County / ZIP 22182 sector", "Fairfax County / primary ZIP 22102", "Fairfax County / coords 38.9200, -77.2300"]
-zillowHomeValueUsd: 841471
 ---
 
-**Engineering Notice for Tysons:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Tysons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Tysons, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tysons, VA, but intake notes help reduce delays.
+Fixture shutoff stiffness in Tysons, VA may indicate mineral bridging behind stems.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Main water line replacement in Tysons, VA may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 22102/22182.
+Trenchless pulls in Tysons, VA require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 22102/22182 intake.
+Irrigation cross-connections in Tysons, VA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 22102, 22182 (county grid: Fairfax County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 22102.
+
+Stack vent offsets in Tysons, VA older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: Water heater anode type may change with Tysons, VA hardness profiles.
+
+Polybutylene manifold tags in Tysons, VA basements should be photographed before any wall chase opens.
+
+Drain map 285459: camera-pass priority and expansion-tank pre-charge noted for Tysons, VA postal sector 22102.
+
+Scope trace: dielectric union checklist plus hose bib freeze flag referenced in Fairfax County county grid review.
+
+On-site sector marker: Fairfax County / coords 38.9200, -77.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22102-bd1ac675

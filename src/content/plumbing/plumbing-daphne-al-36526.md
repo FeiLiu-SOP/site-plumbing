@@ -12,26 +12,43 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / primary ZIP 36526", "Baldwin County / coords 30.6300, -87.8800", "Baldwin County / ZIP 36526 sector", "Baldwin County / elevation 125 ft band"]
-zillowHomeValueUsd: 326656
 ---
 
-**Engineering Notice for Daphne:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Daphne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
 
 
-Our service coordination centers on Daphne, AL coverage windows and verified intake details.
+Recirculation pump failures in Daphne, AL can mimic fixture-specific clogs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Irrigation cross-connections in Daphne, AL can back-siphon domestic lines during main breaks.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Daphne, AL hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36526.
+FAQ: Is hydro-jetting always appropriate? In Daphne, AL, pipe material and blockage type dictate method.
 
-Field note: Moisture pathway inspection logged near ZIP 36526 intake.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Daphne, AL.
 
-Dispatch sectors sampled: ZIP 36526 (county grid: Baldwin County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+In Daphne, AL, slab leaks often present as warm spots before wall stains appear.
+
+Galvanized segments in Daphne, AL may restrict flow long before visible corrosion.
+
+Polybutylene manifold tags in Daphne, AL basements should be photographed before any wall chase opens.
+
+Trenchless pulls in Daphne, AL require pit dimensions verified against utility locate marks.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Flow dossier 253497: branch wet-vent geometry and jetting nozzle envelope logged for Daphne, AL county grid Baldwin County (ZIP 36526).
+
+Lineage note 253497: recirculation pump amp draw captured before Daphne, AL branch isolation.
+
+plumbing brief: water heater T&P path and dielectric union checklist were cross-checked for the Daphne intake packet.
+
+On-site sector marker: Baldwin County / primary ZIP 36526 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36526-4f4ec675

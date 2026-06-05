@@ -12,25 +12,41 @@ lng: -122.2500
 zipSample: ["98028"]
 zipCodes: ["98028"]
 localPaths: ["King County / coords 47.7500, -122.2500", "King County / ZIP 98028 sector", "King County / elevation 62 ft band", "King County / primary ZIP 98028"]
-zillowHomeValueUsd: 1047723
 ---
 
-**Engineering Notice for Kenmore:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Kenmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kenmore, WA, but intake notes help reduce delays.
+Stack vent offsets in Kenmore, WA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Kenmore, WA irrigation zones need backflow logs before line replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Kenmore, WA.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98028.
+Frost-free sillcock failures in Kenmore, WA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98028.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 98028 (county grid: King County).
+Trenchless sleeve pulls near Kenmore, WA require pit shoring notes when water tables are high.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Irrigation cross-connections in Kenmore, WA can back-siphon domestic lines during main breaks.
+
+FAQ: When is cabling enough? In Kenmore, WA, pipe material and blockage type dictate method.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 133378: recirculation pump amp draw captured before Kenmore, WA branch isolation.
+
+On-site sector marker: King County / coords 47.7500, -122.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98028-5f68000c

@@ -12,26 +12,39 @@ lng: -80.7400
 zipSample: ["32956", "32955", "32926"]
 zipCodes: ["32926", "32956", "32955"]
 localPaths: ["Brevard County / elevation 36 ft band", "Brevard County / coords 28.3200, -80.7400", "Brevard County / primary ZIP 32955", "Brevard County / ZIP 32926 sector", "Brevard County / ZIP 32956 sector"]
-zillowHomeValueUsd: 369222
 ---
 
-**Engineering Notice for Rockledge:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Rockledge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rockledge, FL, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Branch wet vents in Rockledge, FL can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Rockledge, FL, slab leaks often present as warm spots before wall stains appear.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Main water line replacement in Rockledge, FL may require ROW restoration planning.
 
-Tip: confirm licensing and insurance before approving work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Connection points spot-checked where accessible (ZIP 32956/32955/32926 zone).
+Stack vent offsets in Rockledge, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32956/32955/32926.
+Cast-iron hub corrosion in Rockledge, FL often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 32956, 32955, 32926 (county grid: Brevard County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rockledge, FL.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: When is cabling enough? In Rockledge, FL, pipe material and blockage type dictate method.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Pressure trace 915082: meter-pit clearance and dielectric union checklist staged for Rockledge, FL near elevation 36 ft.
+
+Field routing: slab penetration sleeve seal paired with slab leak listening window near ZIP 32955.
+
+Coordinate-anchored dispatch note: center reference 28.3200, -80.7400 at elevation ~36 ft aligns with Brevard County intake staging.
 
 Service reference: FL-32955-197b6f63

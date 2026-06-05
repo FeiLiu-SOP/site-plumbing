@@ -12,24 +12,43 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / ZIP 47933 sector", "Montgomery County / elevation 764 ft band", "Montgomery County / coords 40.0400, -86.9000", "Montgomery County / primary ZIP 47933"]
-zillowHomeValueUsd: 223640
 ---
 
-**Engineering Notice for Crawfordsville:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Crawfordsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dispatch packets reference county grid Montgomery County near ZIP 47933.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Crawfordsville, IN, before spring thaw and hurricane remnants.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Crawfordsville, IN, but intake notes help reduce delays.
+Branch wet vents in Crawfordsville, IN can mask gurgling as a main-line issue.
 
-Field note: Connection points spot-checked where accessible (ZIP 47933 zone).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Crawfordsville, IN.
 
-Dispatch sectors sampled: ZIP 47933 (county grid: Montgomery County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Trenchless pulls in Crawfordsville, IN require pit dimensions verified against utility locate marks.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: camera-pass main lines in Crawfordsville, IN before jetting older clay or cast iron.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 47933.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Basement floor drains in Crawfordsville, IN should be snaked only after trap arm geometry is confirmed on camera.
+
+Supply audit 322824: curb-stop orientation and hose-bib freeze flag reviewed for Crawfordsville, IN at coords 40.0400/-86.9000.
+
+Field routing: water softener bypass lever paired with recirculation pump amp draw near ZIP 47933.
+
+On-site sector marker: Montgomery County / coords 40.0400, -86.9000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47933-d448f5a8

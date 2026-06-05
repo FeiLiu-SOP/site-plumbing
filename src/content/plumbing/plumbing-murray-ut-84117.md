@@ -12,27 +12,37 @@ lng: -111.8900
 zipSample: ["84123", "84157", "84107", "84121", "84117"]
 zipCodes: ["84107", "84121", "84123", "84157", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / ZIP 84157 sector", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / elevation 4354 ft band"]
-zillowHomeValueUsd: 694488
 ---
 
-**Engineering Notice for Murray:** Structural loading calculated based on 4354 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Murray:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84117.
 
-We coordinate local dispatch coverage around Murray, UT and nearby ZIP sectors.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84117.
+Stack vent offsets in Murray, UT older duplexes can mask tub gurgle as a main-line failure.
 
-Local conditions in Murray, UT can affect timelines and material choices.
+In Murray, UT, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 84123/84157/84107 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 84123/84157/84107.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 84123, 84157, 84107, 84121, 84117 (county grid: Salt Lake County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: When should sump battery backups be load-tested? In Murray, UT, before spring thaw and hurricane remnants.
+
+Step: camera-pass main lines in Murray, UT before jetting older clay or cast iron.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Drain map 517719: camera-pass priority and expansion-tank pre-charge noted for Murray, UT postal sector 84117.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~4354 ft across the Salt Lake County area. Coordinates: 40.6500, -111.8900. ZIP sample: 84123, 84117, 84107, 84121, 84157. Regional routing note: Salt Lake County traffic flow is balanced around ZIP 84117 service demand.
 
 Service reference: UT-84117-15a3672a

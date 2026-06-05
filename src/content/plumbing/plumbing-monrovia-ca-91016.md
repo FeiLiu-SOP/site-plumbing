@@ -12,24 +12,41 @@ lng: -117.9900
 zipSample: ["91017", "91016", "91185"]
 zipCodes: ["91016", "91017", "91185"]
 localPaths: ["Los Angeles County / primary ZIP 91016", "Los Angeles County / coords 34.1600, -117.9900", "Los Angeles County / ZIP 91016 sector", "Los Angeles County / ZIP 91017 sector", "Los Angeles County / elevation 945 ft band"]
-zillowHomeValueUsd: 990340
 ---
 
-**Engineering Notice for Monrovia:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Monrovia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Monrovia, CA older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Monrovia, CA and nearby ZIP sectors.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-In Monrovia, CA, seasonal demand can change scheduling windows.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91017/91185/91016.
+Galvanized segments in Monrovia, CA may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 91017, 91185, 91016 (county grid: Los Angeles County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 91016.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: camera-pass main lines in Monrovia, CA before jetting older clay or cast iron.
+
+Frost-free sillcock failures in Monrovia, CA often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Drain map 889453: camera-pass priority and expansion-tank pre-charge noted for Monrovia, CA postal sector 91016.
+
+Flow dossier 889453: branch wet-vent geometry and jetting nozzle envelope logged for Monrovia, CA county grid Los Angeles County (ZIP 91016).
+
+On-site sector marker: Los Angeles County / primary ZIP 91016 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91016-6cc25022

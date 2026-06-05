@@ -12,27 +12,41 @@ lng: -88.0300
 zipSample: ["53219", "53214", "53227"]
 zipCodes: ["53227", "53219", "53214"]
 localPaths: ["Milwaukee County / elevation 791 ft band", "Milwaukee County / primary ZIP 53219", "Milwaukee County / coords 43.0100, -88.0300", "Milwaukee County / ZIP 53214 sector", "Milwaukee County / ZIP 53227 sector"]
-zillowHomeValueUsd: 266966
 ---
 
-**Engineering Notice for West Allis:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Milwaukee County.
+**Engineering Notice for West Allis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Branch wet vents in West Allis, WI can mask gurgling as a main-line issue.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 53219.
+Water heater T&P discharge paths in West Allis, WI must terminate safely before replacement quotes.
 
-In West Allis, WI, seasonal demand can change scheduling windows.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 53219/53214/53227 intake.
+Risk flag: In West Allis, WI, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 53219/53214/53227 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 53219, 53214, 53227 (county grid: Milwaukee County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Dispatch packets reference county grid Milwaukee County near ZIP 53219.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in West Allis, WI.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in West Allis, WI.
+
+Pressure trace 102595: meter-pit clearance and dielectric union checklist staged for West Allis, WI near elevation 791 ft.
+
+Lineage note 102595: recirculation pump amp draw captured before West Allis, WI branch isolation.
+
+plumbing brief: hose bib freeze flag and PEX expansion ring batch were cross-checked for the West Allis intake packet.
+
+Coordinate-anchored dispatch note: center reference 43.0100, -88.0300 at elevation ~791 ft aligns with Milwaukee County intake staging.
 
 Service reference: WI-53219-29798d58

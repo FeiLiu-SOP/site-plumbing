@@ -12,24 +12,43 @@ lng: -74.0300
 zipSample: ["07030"]
 zipCodes: ["07030"]
 localPaths: ["Hudson County / primary ZIP 07030", "Hudson County / elevation 43 ft band", "Hudson County / coords 40.7500, -74.0300", "Hudson County / ZIP 07030 sector"]
-zillowHomeValueUsd: 854746
 ---
 
-**Engineering Notice for Hoboken:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Hoboken:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with Hoboken, NJ hardness profiles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fixture shutoff stiffness in Hoboken, NJ may indicate mineral bridging behind stems.
 
-Tip: confirm licensing and insurance before approving work.
+Galvanized segments in Hoboken, NJ may restrict flow long before visible corrosion.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07030.
+Risk flag: Seasonal Hoboken, NJ irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 07030 (county grid: Hudson County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Hose bib split patterns in Hoboken, NJ often follow missed winterization.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Branch wet vents in Hoboken, NJ can mask gurgling as a main-line issue.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Trenchless pulls in Hoboken, NJ require pit dimensions verified against utility locate marks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 339413: curb-stop orientation and hose-bib freeze flag reviewed for Hoboken, NJ at coords 40.7500/-74.0300.
+
+Drain map 339413: camera-pass priority and expansion-tank pre-charge noted for Hoboken, NJ postal sector 07030.
+
+Primary postal anchor 07030 with multi-ZIP overlap in Hoboken; field packets tag Hudson County for county-grid reconciliation.
 
 Service reference: NJ-07030-94298d15

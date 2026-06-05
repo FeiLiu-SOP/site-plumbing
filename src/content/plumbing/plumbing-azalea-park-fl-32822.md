@@ -12,26 +12,39 @@ lng: -81.3000
 zipSample: ["32807", "32857", "32822"]
 zipCodes: ["32807", "32857", "32822"]
 localPaths: ["Orange County / coords 28.5500, -81.3000", "Orange County / ZIP 32807 sector", "Orange County / ZIP 32822 sector", "Orange County / primary ZIP 32822", "Orange County / elevation 108 ft band"]
-zillowHomeValueUsd: 263040
 ---
 
-**Engineering Notice for Azalea Park:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Azalea Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Azalea Park, FL and nearby ZIP sectors.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-A written scope helps prevent rework and mismatched expectations.
+Hose bib split patterns in Azalea Park, FL often follow missed winterization.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Azalea Park, FL can mask gurgling as a main-line issue.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 32822/32807/32857 zone).
+Basement floor drains in Azalea Park, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32822/32807/32857.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 32822, 32807, 32857 (county grid: Orange County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Trenchless sleeve pulls near Azalea Park, FL require pit shoring notes when water tables are high.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Azalea Park, FL systems need rebalancing.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Fixture roster 730589: toilet flange spacer kit and shower cartridge seat score queued for Azalea Park, FL walk-through.
+
+Coordinate-anchored dispatch note: center reference 28.5500, -81.3000 at elevation ~108 ft aligns with Orange County intake staging.
 
 Service reference: FL-32822-70da880b

@@ -12,24 +12,43 @@ lng: -74.1500
 zipSample: ["07446"]
 zipCodes: ["07446"]
 localPaths: ["Bergen County / ZIP 07446 sector", "Bergen County / primary ZIP 07446", "Bergen County / elevation 371 ft band", "Bergen County / coords 41.0600, -74.1500"]
-zillowHomeValueUsd: 863415
 ---
 
-**Engineering Notice for Ramsey:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Ramsey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
 
 
-Tip: avoid large upfront payments without milestones.
+Dual-water-meter setups in Ramsey, NJ irrigation zones need backflow logs before line replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ramsey, NJ, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Ramsey, NJ and nearby ZIP sectors.
+Irrigation cross-connections in Ramsey, NJ can back-siphon domestic lines during main breaks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Main water line replacement in Ramsey, NJ may require ROW restoration planning.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Seasonal Ramsey, NJ irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Access points and staging constraints recorded for ZIP 07446 coverage.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 07446 (county grid: Bergen County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+In Ramsey, NJ, slab leaks often present as warm spots before wall stains appear.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ramsey, NJ systems need rebalancing.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Polybutylene manifold tags in Ramsey, NJ basements should be photographed before any wall chase opens.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 07446.
+
+Pressure trace 121135: meter-pit clearance and dielectric union checklist staged for Ramsey, NJ near elevation 371 ft.
+
+Lineage note 121135: recirculation pump amp draw captured before Ramsey, NJ branch isolation.
+
+Primary postal anchor 07446 with multi-ZIP overlap in Ramsey; field packets tag Bergen County for county-grid reconciliation.
 
 Service reference: NJ-07446-9709f18b

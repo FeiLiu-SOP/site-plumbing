@@ -12,25 +12,45 @@ lng: -84.4800
 zipSample: ["48824", "48826", "48823", "48825"]
 zipCodes: ["48824", "48826", "48825", "48823"]
 localPaths: ["Ingham County / ZIP 48825 sector", "Ingham County / coords 42.7500, -84.4800", "Ingham County / ZIP 48826 sector", "Ingham County / elevation 856 ft band", "Ingham County / ZIP 48823 sector"]
-zillowHomeValueUsd: 315912
 ---
 
-**Engineering Notice for East Lansing:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for East Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.
 
 
-In East Lansing, MI, seasonal demand can change scheduling windows.
+Polybutylene manifold tags in East Lansing, MI basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in East Lansing, MI often trace to interior shutoff seats, not exterior stems.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48823.
+Irrigation cross-connections in East Lansing, MI can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on East Lansing, MI coverage windows and verified intake details.
+Permit note: Main water line replacement in East Lansing, MI may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Connection points spot-checked where accessible (ZIP 48824/48826/48825 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 48824, 48826, 48825, 48823 (county grid: Ingham County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Recirculation pump failures in East Lansing, MI can mimic fixture-specific clogs.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in East Lansing, MI.
+
+Cast-iron hub corrosion in East Lansing, MI often concentrates at the third joint upstream of the cleanout.
+
+Trenchless sleeve pulls near East Lansing, MI require pit shoring notes when water tables are high.
+
+Dual-water-meter setups in East Lansing, MI irrigation zones need backflow logs before line replacement.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Drain map 206292: camera-pass priority and expansion-tank pre-charge noted for East Lansing, MI postal sector 48823.
+
+Lineage note 206292: recirculation pump amp draw captured before East Lansing, MI branch isolation.
+
+plumbing brief: meter pit clearance and PRV outlet curve were cross-checked for the East Lansing intake packet.
+
+On-site sector marker: Ingham County / ZIP 48825 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48823-35391d1a

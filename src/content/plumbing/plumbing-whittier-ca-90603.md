@@ -12,27 +12,43 @@ lng: -118.0200
 zipSample: ["90601", "90607", "90602", "90603", "90606"]
 zipCodes: ["90609", "90608", "90606", "90602", "90601", "90605", "90603", "90607"]
 localPaths: ["Los Angeles County / ZIP 90603 sector", "Los Angeles County / ZIP 90601 sector", "Los Angeles County / ZIP 90602 sector", "Los Angeles County / ZIP 90607 sector", "Los Angeles County / coords 33.9700, -118.0200"]
-zillowHomeValueUsd: 892749
 ---
 
-**Engineering Notice for Whittier:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Whittier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 90603.
+Cast-iron hub corrosion in Whittier, CA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Whittier, CA require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Step: log PRV inlet and outlet readings during intake.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Is hydro-jetting always appropriate? In Whittier, CA, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90603/90608/90606.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 90603/90608/90606.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 90603, 90608, 90606, 90602, 90601 (county grid: Los Angeles County).
+CPVC solvent weld times shift with ambient humidity during Whittier, CA shoulder seasons.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Seasonal Whittier, CA irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Permit note: Main water line replacement in Whittier, CA may require ROW restoration planning.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Drain map 727001: camera-pass priority and expansion-tank pre-charge noted for Whittier, CA postal sector 90603.
+
+Fixture roster 727001: toilet flange spacer kit and shower cartridge seat score queued for Whittier, CA walk-through.
+
+On-site sector marker: Los Angeles County / ZIP 90601 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90603-146ef7ff

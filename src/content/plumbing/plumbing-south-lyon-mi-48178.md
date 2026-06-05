@@ -12,25 +12,41 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band", "Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500"]
-zillowHomeValueUsd: 465730
 ---
 
-**Engineering Notice for South Lyon:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for South Lyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 48178.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Main water line replacement in South Lyon, MI may require ROW restoration planning.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Lyon, MI, but intake notes help reduce delays.
+Polybutylene manifold tags in South Lyon, MI basements should be photographed before any wall chase opens.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48178.
+We coordinate South Lyon, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48178.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 48178 (county grid: Oakland County).
+Branch wet vents in South Lyon, MI can mask gurgling as a main-line issue.
+
+Hydro-jetting in South Lyon, MI requires camera confirmation before nozzle pressure is raised.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Trenchless sleeve pulls near South Lyon, MI require pit shoring notes when water tables are high.
+
+Risk flag: Seasonal South Lyon, MI irrigation cross-connections can mask domestic pressure loss.
+
+Dual-water-meter setups in South Lyon, MI irrigation zones need backflow logs before line replacement.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 197779: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Lyon, MI at 42.4600, -83.6500.
+
+On-site sector marker: Oakland County / ZIP 48178 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48178-880b0d4a

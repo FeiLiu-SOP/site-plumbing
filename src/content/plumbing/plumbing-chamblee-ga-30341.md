@@ -12,26 +12,39 @@ lng: -84.3000
 zipSample: ["30345", "30366", "39901", "30341"]
 zipCodes: ["30366", "30345", "30341", "39901"]
 localPaths: ["DeKalb County / ZIP 30366 sector", "DeKalb County / ZIP 30341 sector", "DeKalb County / coords 33.8800, -84.3000", "DeKalb County / ZIP 39901 sector", "DeKalb County / primary ZIP 30341"]
-zillowHomeValueUsd: 510831
 ---
 
-**Engineering Notice for Chamblee:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Chamblee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Chamblee, GA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Chamblee, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-We coordinate local dispatch coverage around Chamblee, GA and nearby ZIP sectors.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39901/30366/30341.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 39901/30366/30341 intake.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 39901, 30366, 30341, 30345 (county grid: DeKalb County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Is hydro-jetting always appropriate? In Chamblee, GA, pipe material and blockage type dictate method.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: In Chamblee, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Flow dossier 136334: branch wet-vent geometry and jetting nozzle envelope logged for Chamblee, GA county grid DeKalb County (ZIP 30341).
+
+**Regional Infrastructure Brief:** Dispatch anchor set to DeKalb County. Reference elevation: 988 ft. Primary coordinates: 33.8800, -84.3000. ZIP sample: 30341, 30366, 39901, 30345. Regional routing note: DeKalb County traffic flow is balanced around ZIP 30341 service demand.
 
 Service reference: GA-30341-b8c4fcc2

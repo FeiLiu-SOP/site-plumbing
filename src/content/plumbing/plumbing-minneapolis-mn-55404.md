@@ -12,25 +12,39 @@ lng: -93.2700
 zipSample: ["55412", "55405", "55410", "55467", "55403"]
 zipCodes: ["55440", "55406", "55409", "55401", "55479", "55484", "55405", "55415", "55410", "55407", "55404", "55412"]
 localPaths: ["Hennepin County / ZIP 55410 sector", "Hennepin County / ZIP 55403 sector", "Hennepin County / coords 44.9600, -93.2700", "Hennepin County / ZIP 55412 sector", "Hennepin County / elevation 863 ft band"]
-zillowHomeValueUsd: 239906
 ---
 
-**Engineering Notice for Minneapolis:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Minneapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Recirculation pump failures in Minneapolis, MN can mimic fixture-specific clogs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55404.
+FAQ: When is cabling enough? In Minneapolis, MN, pipe material and blockage type dictate method.
 
-Our service coordination centers on Minneapolis, MN coverage windows and verified intake details.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55404.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Minneapolis, MN, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 55409/55403/55404 coverage.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Minneapolis, MN.
 
-Dispatch sectors sampled: ZIP 55409, 55403, 55404, 55411, 55474 (county grid: Hennepin County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: When should sump battery backups be load-tested? In Minneapolis, MN, before spring thaw and hurricane remnants.
+
+Trenchless pulls in Minneapolis, MN require pit dimensions verified against utility locate marks.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: map sump float travel and check-valve orientation for Minneapolis, MN basements.
+
+Risk flag: Seasonal Minneapolis, MN irrigation cross-connections can mask domestic pressure loss.
+
+Polybutylene manifold tags in Minneapolis, MN basements should be photographed before any wall chase opens.
+
+Fixture roster 637330: toilet flange spacer kit and shower cartridge seat score queued for Minneapolis, MN walk-through.
+
+On-site sector marker: Hennepin County / ZIP 55480 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55404-53c7a651

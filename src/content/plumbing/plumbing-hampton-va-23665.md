@@ -12,26 +12,37 @@ lng: -76.3600
 zipSample: ["23667", "23663", "23651", "23661", "23664"]
 zipCodes: ["23605", "23663", "23665", "23668", "23664", "23681", "23651", "23661", "23670", "23669", "23666", "23667"]
 localPaths: ["Hampton County / ZIP 23661 sector", "Hampton County / ZIP 23663 sector", "Hampton County / coords 37.0600, -76.3600", "Hampton County / primary ZIP 23665", "Hampton County / ZIP 23667 sector"]
-zillowHomeValueUsd: 290496
 ---
 
-**Engineering Notice for Hampton:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Hampton County.
+**Engineering Notice for Hampton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampton County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hampton, VA, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+Sewer gas odors in Hampton, VA should trigger trap seal and vent path review.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Hampton, VA basements should be photographed before any wall chase opens.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 23667/23651/23663 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 23667/23651/23663 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 23667, 23651, 23663, 23668, 23664 (county grid: Hampton County).
+Risk flag: Seasonal Hampton, VA irrigation cross-connections can mask domestic pressure loss.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Stack vent offsets in Hampton, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Step: map sump float travel and check-valve orientation for Hampton, VA basements.
+
+Basement floor drains in Hampton, VA should be snaked only after trap arm geometry is confirmed on camera.
+
+Drain map 541949: camera-pass priority and expansion-tank pre-charge noted for Hampton, VA postal sector 23665.
+
+On-site sector marker: Hampton County / ZIP 23666 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23665-87029c1c

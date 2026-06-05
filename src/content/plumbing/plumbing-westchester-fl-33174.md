@@ -12,26 +12,45 @@ lng: -80.3500
 zipSample: ["33144", "33199", "33155", "33174", "33165"]
 zipCodes: ["33144", "33155", "33199", "33174", "33165"]
 localPaths: ["Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / ZIP 33165 sector"]
-zillowHomeValueUsd: 442067
 ---
 
-**Engineering Notice for Westchester:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Westchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Westchester, FL basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Westchester, FL should trigger trap seal and vent path review.
 
-Our service coordination centers on Westchester, FL coverage windows and verified intake details.
+FAQ: Is hydro-jetting always appropriate? In Westchester, FL, pipe material and blockage type dictate method.
 
-Structured milestones protect both sides when scheduling work.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 33174/33144/33199 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 33174/33144/33199.
+Risk flag: Seasonal Westchester, FL irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 33174, 33144, 33199, 33165, 33155 (county grid: Miami-Dade County).
+Permit note: Main water line replacement in Westchester, FL may require ROW restoration planning.
+
+Dual-water-meter setups in Westchester, FL irrigation zones need backflow logs before line replacement.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Dispatch packets reference county grid Miami-Dade County near ZIP 33174.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+CPVC solvent weld times shift with ambient humidity during Westchester, FL shoulder seasons.
+
+Flow dossier 651629: branch wet-vent geometry and jetting nozzle envelope logged for Westchester, FL county grid Miami-Dade County (ZIP 33174).
+
+Intake ledger 651629: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Westchester, FL at 25.7500, -80.3500.
+
+Scope trace: PRV outlet curve plus slab leak listening window referenced in Miami-Dade County county grid review.
+
+ZIP-corridor snapshot for Westchester, FL: sampled sectors include 33144, 33155, 33199, 33174, 33165; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33174-764bded1

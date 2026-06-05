@@ -12,26 +12,43 @@ lng: -121.9400
 zipSample: ["94583", "94582"]
 zipCodes: ["94582", "94583"]
 localPaths: ["Contra Costa County / primary ZIP 94582", "Contra Costa County / ZIP 94583 sector", "Contra Costa County / coords 37.7600, -121.9400", "Contra Costa County / elevation 577 ft band", "Contra Costa County / ZIP 94582 sector"]
-zillowHomeValueUsd: 1765281
 ---
 
-**Engineering Notice for San Ramon:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for San Ramon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-Our service coordination centers on San Ramon, CA coverage windows and verified intake details.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dispatch packets reference county grid Contra Costa County near ZIP 94582.
 
-Tip: confirm licensing and insurance before approving work.
+Hydrostatic holds in San Ramon, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Cleanout access limits in San Ramon, CA frequently extend drain cleaning duration.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Water heater anode type may change with San Ramon, CA hardness profiles.
 
-Field note: Connection points spot-checked where accessible (ZIP 94582/94583 zone).
+Dual-water-meter setups in San Ramon, CA irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 94582/94583 intake.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 94582, 94583 (county grid: Contra Costa County).
+Risk flag: In San Ramon, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in San Ramon, CA.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Lineage note 199528: recirculation pump amp draw captured before San Ramon, CA branch isolation.
+
+Fixture roster 199528: toilet flange spacer kit and shower cartridge seat score queued for San Ramon, CA walk-through.
+
+On-site sector marker: Contra Costa County / ZIP 94582 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94582-e57d1961

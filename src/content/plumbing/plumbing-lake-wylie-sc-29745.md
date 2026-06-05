@@ -12,27 +12,43 @@ lng: -81.0700
 zipSample: ["29745", "29710"]
 zipCodes: ["29710", "29745"]
 localPaths: ["York County / elevation 594 ft band", "York County / primary ZIP 29745", "York County / ZIP 29745 sector", "York County / ZIP 29710 sector", "York County / coords 35.1000, -81.0700"]
-zillowHomeValueUsd: 353970
 ---
 
-**Engineering Notice for Lake Wylie:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Lake Wylie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is hydro-jetting always appropriate? In Lake Wylie, SC, pipe material and blockage type dictate method.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29745.
+Trenchless sleeve pulls near Lake Wylie, SC require pit shoring notes when water tables are high.
 
-In Lake Wylie, SC, urgent plumbing issues can escalate quickly.
+Irrigation cross-connections in Lake Wylie, SC can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on Lake Wylie, SC coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+Polybutylene manifold tags in Lake Wylie, SC basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29710/29745.
+Risk flag: Seasonal Lake Wylie, SC irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Connection points spot-checked where accessible (ZIP 29710/29745 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 29710, 29745 (county grid: York County).
+Frost-free sillcock failures in Lake Wylie, SC often trace to interior shutoff seats, not exterior stems.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Permit note: Main water line replacement in Lake Wylie, SC may require ROW restoration planning.
+
+Trenchless pulls in Lake Wylie, SC require pit dimensions verified against utility locate marks.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lake Wylie, SC.
+
+Supply audit 211577: curb-stop orientation and hose-bib freeze flag reviewed for Lake Wylie, SC at coords 35.1000/-81.0700.
+
+Scope trace: PRV outlet curve plus thermal expansion loop check referenced in York County county grid review.
+
+ZIP-corridor snapshot for Lake Wylie, SC: sampled sectors include 29745, 29710; county routing grid remains York County.
 
 Service reference: SC-29745-d37b05ae

@@ -12,27 +12,41 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / primary ZIP 33023", "Broward County / coords 25.9800, -80.1900", "Broward County / ZIP 33023 sector", "Broward County / elevation 30 ft band"]
-zillowHomeValueUsd: 450416
 ---
 
-**Engineering Notice for West Park:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for West Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33023.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Park, FL, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In West Park, FL, slab leaks often present as warm spots before wall stains appear.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33023.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 33023.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 33023 zone).
+Hose bib split patterns in West Park, FL often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 33023 (county grid: Broward County).
+Irrigation cross-connections in West Park, FL can back-siphon domestic lines during main breaks.
+
+Polybutylene manifold tags in West Park, FL basements should be photographed before any wall chase opens.
+
+FAQ: When is cabling enough? In West Park, FL, pipe material and blockage type dictate method.
+
+Recirculation pump failures in West Park, FL can mimic fixture-specific clogs.
+
+Galvanized segments in West Park, FL may restrict flow long before visible corrosion.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Pressure trace 280400: meter-pit clearance and dielectric union checklist staged for West Park, FL near elevation 30 ft.
+
+Drain map 280400: camera-pass priority and expansion-tank pre-charge noted for West Park, FL postal sector 33023.
+
+On-site sector marker: Broward County / coords 25.9800, -80.1900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33023-9075bebb

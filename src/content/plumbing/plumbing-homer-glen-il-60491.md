@@ -12,26 +12,41 @@ lng: -87.9500
 zipSample: ["60491"]
 zipCodes: ["60491"]
 localPaths: ["Will County / ZIP 60491 sector", "Will County / coords 41.6000, -87.9500", "Will County / elevation 764 ft band", "Will County / primary ZIP 60491"]
-zillowHomeValueUsd: 501810
 ---
 
-**Engineering Notice for Homer Glen:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Homer Glen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
 
 
-Our service coordination centers on Homer Glen, IL coverage windows and verified intake details.
+Risk flag: Seasonal Homer Glen, IL irrigation cross-connections can mask domestic pressure loss.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save water heater serial plates for warranty traceability.
 
-In Homer Glen, IL, urgent plumbing issues can escalate quickly.
+Hose bib split patterns in Homer Glen, IL often follow missed winterization.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60491.
+Branch wet vents in Homer Glen, IL can mask gurgling as a main-line issue.
 
-Field note: Wind exposure category reviewed for ZIP sector 60491.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 60491 (county grid: Will County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 60491.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture shutoff stiffness in Homer Glen, IL may indicate mineral bridging behind stems.
+
+Permit note: Main water line replacement in Homer Glen, IL may require ROW restoration planning.
+
+Drain map 395281: camera-pass priority and expansion-tank pre-charge noted for Homer Glen, IL postal sector 60491.
+
+Lineage note 395281: recirculation pump amp draw captured before Homer Glen, IL branch isolation.
+
+On-site sector marker: Will County / ZIP 60491 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60491-0d6bdebd

@@ -12,26 +12,41 @@ lng: -93.0600
 zipSample: ["55076", "55077"]
 zipCodes: ["55077", "55076"]
 localPaths: ["Dakota County / elevation 915 ft band", "Dakota County / primary ZIP 55077", "Dakota County / ZIP 55076 sector", "Dakota County / ZIP 55077 sector", "Dakota County / coords 44.8200, -93.0600"]
-zillowHomeValueUsd: 563381
 ---
 
-**Engineering Notice for Inver Grove Heights:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Inver Grove Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Inver Grove Heights, MN, but intake notes help reduce delays.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Expansion tank pre-charge loss in Inver Grove Heights, MN often tracks heater replacement deferrals.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Inver Grove Heights, MN, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 55077/55076 coverage.
+In Inver Grove Heights, MN, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Wind exposure category reviewed for ZIP sector 55077/55076.
+Cast-iron hub corrosion in Inver Grove Heights, MN often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 55077, 55076 (county grid: Dakota County).
+Hard water in Inver Grove Heights, MN accelerates scale on PRV seats and heater elements.
+
+Basement floor drains in Inver Grove Heights, MN should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Inver Grove Heights, MN.
+
+Trenchless pulls in Inver Grove Heights, MN require pit dimensions verified against utility locate marks.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55077.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Lineage note 699817: recirculation pump amp draw captured before Inver Grove Heights, MN branch isolation.
+
+Pressure trace 699817: meter-pit clearance and dielectric union checklist staged for Inver Grove Heights, MN near elevation 915 ft.
+
+On-site sector marker: Dakota County / ZIP 55076 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55077-d04e98a1

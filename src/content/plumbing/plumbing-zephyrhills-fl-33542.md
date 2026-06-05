@@ -12,26 +12,43 @@ lng: -82.1800
 zipSample: ["33540", "33542", "33541"]
 zipCodes: ["33542", "33540", "33541"]
 localPaths: ["Pasco County / ZIP 33542 sector", "Pasco County / ZIP 33541 sector", "Pasco County / ZIP 33540 sector", "Pasco County / coords 28.2400, -82.1800", "Pasco County / elevation 125 ft band"]
-zillowHomeValueUsd: 227167
 ---
 
-**Engineering Notice for Zephyrhills:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Zephyrhills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our service coordination centers on Zephyrhills, FL coverage windows and verified intake details.
+Hose bib split patterns in Zephyrhills, FL often follow missed winterization.
 
-A written scope helps prevent rework and mismatched expectations.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 33542.
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Zephyrhills, FL may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 33542/33541/33540 zone).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Moisture pathway inspection logged near ZIP 33542/33541/33540 intake.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 33542, 33541, 33540 (county grid: Pasco County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: Water heater anode type may change with Zephyrhills, FL hardness profiles.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: When should sump battery backups be load-tested? In Zephyrhills, FL, before spring thaw and hurricane remnants.
+
+Polybutylene manifold tags in Zephyrhills, FL basements should be photographed before any wall chase opens.
+
+Intake ledger 857355: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Zephyrhills, FL at 28.2400, -82.1800.
+
+Field routing: water softener bypass lever paired with PEX expansion ring batch near ZIP 33542.
+
+Regional mesh label Pasco County: moisture and logistics baselines are keyed to Zephyrhills, FL before niche-specific work begins.
 
 Service reference: FL-33542-8498a9c5

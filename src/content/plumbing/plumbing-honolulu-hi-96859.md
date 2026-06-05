@@ -12,24 +12,41 @@ lng: -157.8500
 zipSample: ["96836", "96813", "96809", "96846", "96802"]
 zipCodes: ["96803", "96816", "96809", "96859", "96817", "96836", "96820", "96837", "96846", "96811", "96805", "96828"]
 localPaths: ["Honolulu County / coords 21.3300, -157.8500", "Honolulu County / ZIP 96813 sector", "Honolulu County / ZIP 96846 sector", "Honolulu County / elevation 256 ft band", "Honolulu County / ZIP 96802 sector"]
-zillowHomeValueUsd: 530512
 ---
 
-**Engineering Notice for Honolulu:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Honolulu:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
 
 
-Tip: request a written scope before work starts.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Honolulu, HI coverage windows and verified intake details.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 96801/96843/96817 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 96801, 96843, 96817, 96819, 96837 (county grid: Honolulu County).
+Stack vent offsets in Honolulu, HI older duplexes can mask tub gurgle as a main-line failure.
+
+Sump discharge freeze risk in Honolulu, HI should be reviewed before spring thaw cycles.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless sleeve pulls near Honolulu, HI require pit shoring notes when water tables are high.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 96859.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Lineage note 663462: recirculation pump amp draw captured before Honolulu, HI branch isolation.
+
+On-site sector marker: Honolulu County / coords 21.3300, -157.8500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96859-2f600459

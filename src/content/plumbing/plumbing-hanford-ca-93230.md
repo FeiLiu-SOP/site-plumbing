@@ -12,26 +12,41 @@ lng: -119.6500
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / elevation 246 ft band", "Kings County / primary ZIP 93230", "Kings County / ZIP 93230 sector", "Kings County / coords 36.3300, -119.6500"]
-zillowHomeValueUsd: 382588
 ---
 
-**Engineering Notice for Hanford:** Structural loading calculated based on 246 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Hanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
 
 
-We coordinate local dispatch coverage around Hanford, CA and nearby ZIP sectors.
+FAQ: Is hydro-jetting always appropriate? In Hanford, CA, pipe material and blockage type dictate method.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: request a written scope before work starts.
+Polybutylene manifold tags in Hanford, CA basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 93230.
+Cast-iron hub corrosion in Hanford, CA often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93230.
+Water heater T&P discharge paths in Hanford, CA must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 93230 (county grid: Kings County).
+Frost-free sillcock failures in Hanford, CA often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hanford, CA systems need rebalancing.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Drain map 226830: camera-pass priority and expansion-tank pre-charge noted for Hanford, CA postal sector 93230.
+
+plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Hanford intake packet.
+
+Primary postal anchor 93230 with multi-ZIP overlap in Hanford; field packets tag Kings County for county-grid reconciliation.
 
 Service reference: CA-93230-53cd2374

@@ -12,26 +12,39 @@ lng: -104.8000
 zipSample: ["80601", "80603"]
 zipCodes: ["80601", "80603"]
 localPaths: ["Adams County / coords 39.9700, -104.8000", "Adams County / ZIP 80603 sector", "Adams County / primary ZIP 80603", "Adams County / elevation 5030 ft band", "Adams County / ZIP 80601 sector"]
-zillowHomeValueUsd: 502701
 ---
 
-**Engineering Notice for Brighton:** Structural loading calculated based on 5030 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Brighton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brighton, CO, but intake notes help reduce delays.
+Expansion tank pre-charge loss in Brighton, CO often tracks heater replacement deferrals.
 
-Tip: avoid large upfront payments without milestones.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Transparent pricing helps you compare like-for-like scope items.
+We coordinate Brighton, CO plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: request a written scope before work starts.
+Risk flag: Seasonal Brighton, CO irrigation cross-connections can mask domestic pressure loss.
 
-We coordinate local dispatch coverage around Brighton, CO and nearby ZIP sectors.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Brighton, CO systems need rebalancing.
 
-Field note: Connection points spot-checked where accessible (ZIP 80601/80603 zone).
+Cast-iron hub corrosion in Brighton, CO often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80601/80603.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 80601, 80603 (county grid: Adams County).
+Galvanized segments in Brighton, CO may restrict flow long before visible corrosion.
+
+Permit note: Main water line replacement in Brighton, CO may require ROW restoration planning.
+
+Trenchless pulls in Brighton, CO require pit dimensions verified against utility locate marks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Brighton, CO, slab leaks can misroute as foundation issues without listening equipment.
+
+Frost-free sillcock failures in Brighton, CO often trace to interior shutoff seats, not exterior stems.
+
+Pressure trace 858428: meter-pit clearance and dielectric union checklist staged for Brighton, CO near elevation 5030 ft.
+
+On-site sector marker: Adams County / elevation 5030 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80603-7418a797

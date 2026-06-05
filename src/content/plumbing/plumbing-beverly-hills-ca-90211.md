@@ -12,24 +12,39 @@ lng: -118.4000
 zipSample: ["90212", "90209", "90211", "90210"]
 zipCodes: ["90211", "90209", "90212", "90210"]
 localPaths: ["Los Angeles County / primary ZIP 90211", "Los Angeles County / ZIP 90211 sector", "Los Angeles County / ZIP 90212 sector", "Los Angeles County / elevation 318 ft band", "Los Angeles County / ZIP 90210 sector"]
-zillowHomeValueUsd: 2245370
 ---
 
-**Engineering Notice for Beverly Hills:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Beverly Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Tip: request a written scope before work starts.
+Polybutylene manifold tags in Beverly Hills, CA basements should be photographed before any wall chase opens.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 90211.
 
-We coordinate local dispatch coverage around Beverly Hills, CA and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Beverly Hills, CA often trace to interior shutoff seats, not exterior stems.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 90210/90211/90212 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 90210, 90211, 90212, 90209 (county grid: Los Angeles County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Material note: Water heater anode type may change with Beverly Hills, CA hardness profiles.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When should sump battery backups be load-tested? In Beverly Hills, CA, before spring thaw and hurricane remnants.
+
+Step: camera-pass main lines in Beverly Hills, CA before jetting older clay or cast iron.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Dual-water-meter setups in Beverly Hills, CA irrigation zones need backflow logs before line replacement.
+
+Pressure trace 146281: meter-pit clearance and dielectric union checklist staged for Beverly Hills, CA near elevation 318 ft.
+
+On-site sector marker: Los Angeles County / ZIP 90210 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90211-33f1ec37

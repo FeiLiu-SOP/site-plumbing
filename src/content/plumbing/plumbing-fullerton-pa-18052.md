@@ -12,26 +12,39 @@ lng: -75.4800
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / primary ZIP 18052", "Lehigh County / coords 40.6300, -75.4800", "Lehigh County / elevation 348 ft band", "Lehigh County / ZIP 18052 sector"]
-zillowHomeValueUsd: 335084
 ---
 
-**Engineering Notice for Fullerton:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Lehigh County.
+**Engineering Notice for Fullerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lehigh County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fullerton, PA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cleanout access limits in Fullerton, PA frequently extend drain cleaning duration.
 
-In Fullerton, PA, seasonal demand can change scheduling windows.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Fullerton, PA systems need rebalancing.
 
-We coordinate local dispatch coverage around Fullerton, PA and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Hydrostatic holds in Fullerton, PA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Connection points spot-checked where accessible (ZIP 18052 zone).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 18052.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 18052.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 18052 (county grid: Lehigh County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: In Fullerton, PA, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Dual-water-meter setups in Fullerton, PA irrigation zones need backflow logs before line replacement.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Drain map 506190: camera-pass priority and expansion-tank pre-charge noted for Fullerton, PA postal sector 18052.
+
+On-site sector marker: Lehigh County / primary ZIP 18052 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18052-d314ffbd

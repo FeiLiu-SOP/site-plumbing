@@ -12,27 +12,39 @@ lng: -84.6500
 zipSample: ["30122"]
 zipCodes: ["30122"]
 localPaths: ["Douglas County / coords 33.7800, -84.6500", "Douglas County / ZIP 30122 sector", "Douglas County / primary ZIP 30122", "Douglas County / elevation 988 ft band"]
-zillowHomeValueUsd: 275772
 ---
 
-**Engineering Notice for Lithia Springs:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Lithia Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-Tip: request a written scope before work starts.
+Across Lithia Springs, GA, main-line bellies can trap debris even when fixtures drain normally.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Lithia Springs, GA can mask gurgling as a main-line issue.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30122.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Wind exposure category reviewed for ZIP sector 30122.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 30122 coverage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 30122 (county grid: Douglas County).
+Polybutylene manifold tags in Lithia Springs, GA basements should be photographed before any wall chase opens.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lithia Springs, GA.
+
+Irrigation cross-connections in Lithia Springs, GA can back-siphon domestic lines during main breaks.
+
+Hydro-jetting in Lithia Springs, GA requires camera confirmation before nozzle pressure is raised.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Drain map 334002: camera-pass priority and expansion-tank pre-charge noted for Lithia Springs, GA postal sector 30122.
+
+On-site sector marker: Douglas County / primary ZIP 30122 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30122-7af1cdf3

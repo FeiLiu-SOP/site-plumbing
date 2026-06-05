@@ -12,27 +12,45 @@ lng: -70.8800
 zipSample: ["03821", "03820"]
 zipCodes: ["03820", "03821"]
 localPaths: ["Strafford County / ZIP 03821 sector", "Strafford County / elevation 125 ft band", "Strafford County / primary ZIP 03820", "Strafford County / ZIP 03820 sector", "Strafford County / coords 43.1900, -70.8800"]
-zillowHomeValueUsd: 537680
 ---
 
-**Engineering Notice for Dover:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Strafford County.
+**Engineering Notice for Dover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Strafford County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 03820.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: request a written scope before work starts.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 03820.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 03820/03821.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 03820/03821 coverage.
+Cast-iron hub corrosion in Dover, NH often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 03820, 03821 (county grid: Strafford County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: In Dover, NH, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 03820.
+
+Flow dossier 814952: branch wet-vent geometry and jetting nozzle envelope logged for Dover, NH county grid Strafford County (ZIP 03820).
+
+Drain map 814952: camera-pass priority and expansion-tank pre-charge noted for Dover, NH postal sector 03820.
+
+Field routing: dielectric union checklist paired with sump float travel near ZIP 03820.
+
+Regional mesh label Strafford County: moisture and logistics baselines are keyed to Dover, NH before niche-specific work begins.
 
 Service reference: NH-03820-e5c9fc15

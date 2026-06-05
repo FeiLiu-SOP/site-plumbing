@@ -12,26 +12,37 @@ lng: -97.4300
 zipSample: ["76574"]
 zipCodes: ["76574"]
 localPaths: ["Williamson County / ZIP 76574 sector", "Williamson County / coords 30.5700, -97.4300", "Williamson County / elevation 587 ft band", "Williamson County / primary ZIP 76574"]
-zillowHomeValueUsd: 285742
 ---
 
-**Engineering Notice for Taylor:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Taylor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
 
 
-In Taylor, TX, urgent plumbing issues can escalate quickly.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-In Taylor, TX, seasonal demand can change scheduling windows.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 76574.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In Taylor, TX, slab leaks often present as warm spots before wall stains appear.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Moisture pathway inspection logged near ZIP 76574 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Wind exposure category reviewed for ZIP sector 76574.
+Galvanized segments in Taylor, TX may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 76574 (county grid: Williamson County).
+Trenchless sleeve pulls near Taylor, TX require pit shoring notes when water tables are high.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 390692: toilet flange spacer kit and shower cartridge seat score queued for Taylor, TX walk-through.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~587 ft across the Williamson County area. Coordinates: 30.5700, -97.4300. ZIP sample: 76574. Logistics priority: Serving residential sectors across Williamson County and north-east ZIP 76574 grid.
 
 Service reference: TX-76574-9f67d76c

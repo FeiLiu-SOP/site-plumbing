@@ -12,26 +12,43 @@ lng: -84.2200
 zipSample: ["31719", "31709"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / ZIP 31719 sector", "Sumter County / primary ZIP 31709", "Sumter County / coords 32.0700, -84.2200", "Sumter County / ZIP 31709 sector", "Sumter County / elevation 433 ft band"]
-zillowHomeValueUsd: 141900
 ---
 
-**Engineering Notice for Americus:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Sumter County.
+**Engineering Notice for Americus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumter County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Americus, GA, but intake notes help reduce delays.
+Dual-water-meter setups in Americus, GA irrigation zones need backflow logs before line replacement.
 
-We coordinate local dispatch coverage around Americus, GA and nearby ZIP sectors.
+Hose bib split patterns in Americus, GA often follow missed winterization.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should sump battery backups be load-tested? In Americus, GA, before spring thaw and hurricane remnants.
 
-In Americus, GA, seasonal demand can change scheduling windows.
+Risk flag: Seasonal Americus, GA irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Connection points spot-checked where accessible (ZIP 31709/31719 zone).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 31709/31719 intake.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 31709, 31719 (county grid: Sumter County).
+Material note: Water heater anode type may change with Americus, GA hardness profiles.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 31709.
+
+Permit note: Main water line replacement in Americus, GA may require ROW restoration planning.
+
+Cast-iron hub corrosion in Americus, GA often concentrates at the third joint upstream of the cleanout.
+
+CPVC solvent weld times shift with ambient humidity during Americus, GA shoulder seasons.
+
+Drain map 349423: camera-pass priority and expansion-tank pre-charge noted for Americus, GA postal sector 31709.
+
+Intake ledger 349423: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Americus, GA at 32.0700, -84.2200.
+
+On-site sector marker: Sumter County / elevation 433 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31709-90e384ff

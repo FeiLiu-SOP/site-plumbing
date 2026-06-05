@@ -12,24 +12,41 @@ lng: -81.1200
 zipSample: ["44601"]
 zipCodes: ["44601"]
 localPaths: ["Stark County / ZIP 44601 sector", "Stark County / primary ZIP 44601", "Stark County / elevation 1198 ft band", "Stark County / coords 40.9100, -81.1200"]
-zillowHomeValueUsd: 157976
 ---
 
-**Engineering Notice for Alliance:** Structural loading calculated based on 1198 ft terrain assessment. Regional dispatch grid: Stark County.
+**Engineering Notice for Alliance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stark County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Water heater anode type may change with Alliance, OH hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Alliance, OH coverage windows and verified intake details.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 44601 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 44601 (county grid: Stark County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: In Alliance, OH, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless sleeve pulls near Alliance, OH require pit shoring notes when water tables are high.
+
+Frost-free sillcock failures in Alliance, OH often trace to interior shutoff seats, not exterior stems.
+
+FAQ: When should sump battery backups be load-tested? In Alliance, OH, before spring thaw and hurricane remnants.
+
+Pressure trace 281426: meter-pit clearance and dielectric union checklist staged for Alliance, OH near elevation 1198 ft.
+
+Lineage note 281426: recirculation pump amp draw captured before Alliance, OH branch isolation.
+
+Field routing: floor drain trap primer drip paired with PRV outlet curve near ZIP 44601.
+
+Coordinate-anchored dispatch note: center reference 40.9100, -81.1200 at elevation ~1198 ft aligns with Stark County intake staging.
 
 Service reference: OH-44601-a9cfedbf

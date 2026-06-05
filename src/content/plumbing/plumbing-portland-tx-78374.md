@@ -12,27 +12,43 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / elevation 52 ft band", "San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
-zillowHomeValueUsd: 267383
 ---
 
-**Engineering Notice for Portland:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: San Patricio County.
+**Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Patricio County.
 
 
-We coordinate local dispatch coverage around Portland, TX and nearby ZIP sectors.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 78374.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78374.
+Dual-water-meter setups in Portland, TX irrigation zones need backflow logs before line replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Portland, TX older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Portland, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 78374/78390 coverage.
+Irrigation cross-connections in Portland, TX can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 78374/78390 zone).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Portland, TX.
 
-Dispatch sectors sampled: ZIP 78374, 78390 (county grid: San Patricio County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Frost-free sillcock failures in Portland, TX often trace to interior shutoff seats, not exterior stems.
+
+FAQ: When should sump battery backups be load-tested? In Portland, TX, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When is cabling enough? In Portland, TX, pipe material and blockage type dictate method.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 881477: toilet flange spacer kit and shower cartridge seat score queued for Portland, TX walk-through.
+
+Drain map 881477: camera-pass priority and expansion-tank pre-charge noted for Portland, TX postal sector 78374.
+
+ZIP-corridor snapshot for Portland, TX: sampled sectors include 78374, 78390; county routing grid remains San Patricio County.
 
 Service reference: TX-78374-6e6bcc11

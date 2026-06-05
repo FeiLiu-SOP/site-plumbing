@@ -12,27 +12,41 @@ lng: -122.3500
 zipSample: ["98106", "98146", "98168"]
 zipCodes: ["98146", "98106", "98168"]
 localPaths: ["King County / primary ZIP 98106", "King County / coords 47.5100, -122.3500", "King County / ZIP 98106 sector", "King County / ZIP 98146 sector", "King County / elevation 381 ft band"]
-zillowHomeValueUsd: 673638
 ---
 
-**Engineering Notice for White Center:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for White Center:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in White Center, WA, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate local dispatch coverage around White Center, WA and nearby ZIP sectors.
+Branch wet vents in White Center, WA can mask gurgling as a main-line issue.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless pulls in White Center, WA require pit dimensions verified against utility locate marks.
 
-Tip: avoid large upfront payments without milestones.
+Dispatch packets reference county grid King County near ZIP 98106.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98106.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Moisture pathway inspection logged near ZIP 98106/98168/98146 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 98106/98168/98146 coverage.
+Irrigation cross-connections in White Center, WA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 98106, 98168, 98146 (county grid: King County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in White Center, WA systems need rebalancing.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: When is cabling enough? In White Center, WA, pipe material and blockage type dictate method.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Pressure trace 371929: meter-pit clearance and dielectric union checklist staged for White Center, WA near elevation 381 ft.
+
+On-site sector marker: King County / elevation 381 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98106-a4a5d254

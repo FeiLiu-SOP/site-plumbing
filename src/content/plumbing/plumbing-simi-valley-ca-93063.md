@@ -12,26 +12,43 @@ lng: -118.7500
 zipSample: ["93099", "93065", "93063", "93094", "93062"]
 zipCodes: ["93063", "93094", "93065", "93099", "93062"]
 localPaths: ["Ventura County / ZIP 93094 sector", "Ventura County / ZIP 93065 sector", "Ventura County / elevation 879 ft band", "Ventura County / primary ZIP 93063", "Ventura County / ZIP 93063 sector"]
-zillowHomeValueUsd: 843088
 ---
 
-**Engineering Notice for Simi Valley:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for Simi Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cast-iron hub corrosion in Simi Valley, CA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Simi Valley, CA, before spring thaw and hurricane remnants.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Simi Valley, CA and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 93062/93065/93063 coverage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 93062/93065/93063.
+Hard water in Simi Valley, CA accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 93062, 93065, 93063, 93094, 93099 (county grid: Ventura County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Trenchless sleeve pulls near Simi Valley, CA require pit shoring notes when water tables are high.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Recirculation pump failures in Simi Valley, CA can mimic fixture-specific clogs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Basement floor drains in Simi Valley, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Supply audit 300227: curb-stop orientation and hose-bib freeze flag reviewed for Simi Valley, CA at coords 34.2700/-118.7500.
+
+Fixture roster 300227: toilet flange spacer kit and shower cartridge seat score queued for Simi Valley, CA walk-through.
+
+Coordinate-anchored dispatch note: center reference 34.2700, -118.7500 at elevation ~879 ft aligns with Ventura County intake staging.
 
 Service reference: CA-93063-249a68e3

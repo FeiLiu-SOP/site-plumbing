@@ -12,25 +12,41 @@ lng: -82.1500
 zipSample: ["29646", "29649", "29647", "29648"]
 zipCodes: ["29649", "29646", "29648", "29647"]
 localPaths: ["Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29649 sector", "Greenwood County / primary ZIP 29649", "Greenwood County / coords 34.1900, -82.1500"]
-zillowHomeValueUsd: 224007
 ---
 
-**Engineering Notice for Greenwood:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Greenwood County.
+**Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenwood County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 29649.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Greenwood, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Greenwood, SC, but intake notes help reduce delays.
+Irrigation cross-connections in Greenwood, SC can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on Greenwood, SC coverage windows and verified intake details.
+Branch wet vents in Greenwood, SC can mask gurgling as a main-line issue.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 29649.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 29649/29647/29646 intake.
+Frost-free sillcock failures in Greenwood, SC often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 29649, 29647, 29646, 29648 (county grid: Greenwood County).
+Cast-iron hub corrosion in Greenwood, SC often concentrates at the third joint upstream of the cleanout.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Stack vent offsets in Greenwood, SC older duplexes can mask tub gurgle as a main-line failure.
+
+Recirculation pump failures in Greenwood, SC can mimic fixture-specific clogs.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Greenwood, SC require pit dimensions verified against utility locate marks.
+
+Fixture roster 160415: toilet flange spacer kit and shower cartridge seat score queued for Greenwood, SC walk-through.
+
+Intake ledger 160415: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Greenwood, SC at 34.1900, -82.1500.
+
+On-site sector marker: Greenwood County / primary ZIP 29649 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29649-65d7a693

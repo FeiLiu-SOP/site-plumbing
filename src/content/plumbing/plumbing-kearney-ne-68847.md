@@ -12,24 +12,43 @@ lng: -99.0800
 zipSample: ["68848", "68847", "68845", "68849"]
 zipCodes: ["68848", "68847", "68845", "68849"]
 localPaths: ["Buffalo County / ZIP 68847 sector", "Buffalo County / ZIP 68849 sector", "Buffalo County / ZIP 68845 sector", "Buffalo County / coords 40.7000, -99.0800", "Buffalo County / elevation 2165 ft band"]
-zillowHomeValueUsd: 281709
 ---
 
-**Engineering Notice for Kearney:** Structural loading calculated based on 2165 ft terrain assessment. Regional dispatch grid: Buffalo County.
+**Engineering Notice for Kearney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Buffalo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kearney, NE, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Kearney, NE shoulder seasons.
 
-Tip: request a written scope before work starts.
+Branch wet vents in Kearney, NE can mask gurgling as a main-line issue.
 
-Transparent pricing helps you compare like-for-like scope items.
+Dual-water-meter setups in Kearney, NE irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on Kearney, NE coverage windows and verified intake details.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 68845/68848/68847.
+Cast-iron hub corrosion in Kearney, NE often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 68845, 68848, 68847, 68849 (county grid: Buffalo County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+In Kearney, NE, slab leaks often present as warm spots before wall stains appear.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Permit note: Main water line replacement in Kearney, NE may require ROW restoration planning.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Kearney, NE.
+
+Trenchless pulls in Kearney, NE require pit dimensions verified against utility locate marks.
+
+Fixture roster 903217: toilet flange spacer kit and shower cartridge seat score queued for Kearney, NE walk-through.
+
+Scope trace: hose bib freeze flag plus shower cartridge seat score referenced in Buffalo County county grid review.
+
+On-site sector marker: Buffalo County / ZIP 68845 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68847-950d9a84

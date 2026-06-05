@@ -12,26 +12,39 @@ lng: -81.5700
 zipSample: ["32097", "32041"]
 zipCodes: ["32097", "32041"]
 localPaths: ["Nassau County / ZIP 32097 sector", "Nassau County / elevation 52 ft band", "Nassau County / ZIP 32041 sector", "Nassau County / coords 30.6400, -81.5700", "Nassau County / primary ZIP 32097"]
-zillowHomeValueUsd: 383683
 ---
 
-**Engineering Notice for Yulee:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Yulee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-We coordinate local dispatch coverage around Yulee, FL and nearby ZIP sectors.
+Fixture shutoff stiffness in Yulee, FL may indicate mineral bridging behind stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Yulee, FL, but intake notes help reduce delays.
+Stack vent offsets in Yulee, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Yulee, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32097/32041.
+Risk flag: In Yulee, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 32097/32041 coverage.
+Water heater T&P discharge paths in Yulee, FL must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 32097, 32041 (county grid: Nassau County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Yulee, FL.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 32097.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Supply audit 660175: curb-stop orientation and hose-bib freeze flag reviewed for Yulee, FL at coords 30.6400/-81.5700.
+
+Field routing: gas water heater draft hood gap paired with branch wet vent geometry near ZIP 32097.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~52 ft across the Nassau County area. Coordinates: 30.6400, -81.5700. ZIP sample: 32097, 32041. Service perimeter note: Coverage extends through Nassau County with dispatch centered near ZIP 32097.
 
 Service reference: FL-32097-6592a44d

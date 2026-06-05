@@ -12,25 +12,45 @@ lng: -78.8700
 zipSample: ["27523", "27539", "27502"]
 zipCodes: ["27539", "27502", "27523"]
 localPaths: ["Wake County / ZIP 27502 sector", "Wake County / primary ZIP 27502", "Wake County / coords 35.7200, -78.8700", "Wake County / elevation 436 ft band", "Wake County / ZIP 27539 sector"]
-zillowHomeValueUsd: 569705
 ---
 
-**Engineering Notice for Apex:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Apex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Apex, NC often trace to interior shutoff seats, not exterior stems.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27502.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Structured milestones protect both sides when scheduling work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Seasonal Apex, NC irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Connection points spot-checked where accessible (ZIP 27523/27539/27502 zone).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 27523, 27539, 27502 (county grid: Wake County).
+Permit note: Main water line replacement in Apex, NC may require ROW restoration planning.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Stack vent offsets in Apex, NC older duplexes can mask tub gurgle as a main-line failure.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 27502.
+
+Hard water in Apex, NC accelerates scale on PRV seats and heater elements.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Apex, NC.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture roster 193657: toilet flange spacer kit and shower cartridge seat score queued for Apex, NC walk-through.
+
+Supply audit 193657: curb-stop orientation and hose-bib freeze flag reviewed for Apex, NC at coords 35.7200/-78.8700.
+
+Scope trace: cleanout riser height plus branch wet vent geometry referenced in Wake County county grid review.
+
+On-site sector marker: Wake County / ZIP 27523 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27502-02422b93

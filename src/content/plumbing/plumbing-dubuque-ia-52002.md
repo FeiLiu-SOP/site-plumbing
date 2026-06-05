@@ -12,26 +12,39 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52003", "52004"]
 zipCodes: ["52002", "52099", "52003", "52004", "52001"]
 localPaths: ["Dubuque County / ZIP 52004 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
-zillowHomeValueUsd: 339213
 ---
 
-**Engineering Notice for Dubuque:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Dubuque County.
+**Engineering Notice for Dubuque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dubuque County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Dubuque, IA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Dubuque, IA often trace to interior shutoff seats, not exterior stems.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-In Dubuque, IA, seasonal demand can change scheduling windows.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate local dispatch coverage around Dubuque, IA and nearby ZIP sectors.
+FAQ: Is hydro-jetting always appropriate? In Dubuque, IA, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 52003/52099/52004.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 52003/52099/52004 zone).
+Basement floor drains in Dubuque, IA should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 52003, 52099, 52004, 52002, 52001 (county grid: Dubuque County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dubuque, IA.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 52002.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 52002.
+
+Sump discharge freeze risk in Dubuque, IA should be reviewed before spring thaw cycles.
+
+Material note: Water heater anode type may change with Dubuque, IA hardness profiles.
+
+Drain map 207348: camera-pass priority and expansion-tank pre-charge noted for Dubuque, IA postal sector 52002.
+
+Fixture roster 207348: toilet flange spacer kit and shower cartridge seat score queued for Dubuque, IA walk-through.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Dubuque County. Reference elevation: 820 ft. Primary coordinates: 42.5000, -90.7100. ZIP sample: 52003, 52001, 52002, 52099, 52004. Logistics priority: Serving residential sectors across Dubuque County and north-east ZIP 52002 grid.
 
 Service reference: IA-52002-50b52fd9

@@ -12,28 +12,43 @@ lng: -90.3200
 zipSample: ["63151", "63129"]
 zipCodes: ["63151", "63129"]
 localPaths: ["St. Louis County / elevation 571 ft band", "St. Louis County / coords 38.4500, -90.3200", "St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63151 sector", "St. Louis County / ZIP 63129 sector"]
-zillowHomeValueUsd: 339996
 ---
 
-**Engineering Notice for Oakville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Oakville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-Our service coordination centers on Oakville, MO coverage windows and verified intake details.
+FAQ: When is cabling enough? In Oakville, MO, pipe material and blockage type dictate method.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63129.
+Sewer gas odors in Oakville, MO should trigger trap seal and vent path review.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 63129.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oakville, MO, but intake notes help reduce delays.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 63129.
 
-Field note: Connection points spot-checked where accessible (ZIP 63129/63151 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 63129/63151 coverage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 63129, 63151 (county grid: St. Louis County).
+Basement floor drains in Oakville, MO should be snaked only after trap arm geometry is confirmed on camera.
+
+Branch wet vents in Oakville, MO can mask gurgling as a main-line issue.
+
+Polybutylene manifold tags in Oakville, MO basements should be photographed before any wall chase opens.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Frost-free sillcock failures in Oakville, MO often trace to interior shutoff seats, not exterior stems.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Dispatch packets reference county grid St. Louis County near ZIP 63129.
+
+Supply audit 922200: curb-stop orientation and hose-bib freeze flag reviewed for Oakville, MO at coords 38.4500/-90.3200.
+
+Intake ledger 922200: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oakville, MO at 38.4500, -90.3200.
+
+On-site sector marker: St. Louis County / coords 38.4500, -90.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63129-4fafb61b

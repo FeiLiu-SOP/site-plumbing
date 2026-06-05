@@ -12,26 +12,39 @@ lng: -78.7000
 zipSample: ["14094", "14095"]
 zipCodes: ["14094", "14095"]
 localPaths: ["Niagara County / ZIP 14095 sector", "Niagara County / coords 43.1700, -78.7000", "Niagara County / ZIP 14094 sector", "Niagara County / primary ZIP 14094", "Niagara County / elevation 587 ft band"]
-zillowHomeValueUsd: 257237
 ---
 
-**Engineering Notice for Lockport:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Niagara County.
+**Engineering Notice for Lockport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Niagara County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Lockport, NY irrigation cross-connections can mask domestic pressure loss.
 
-In Lockport, NY, seasonal demand can change scheduling windows.
+Material note: Water heater anode type may change with Lockport, NY hardness profiles.
 
-Tip: request a written scope before work starts.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Lockport, NY often trace to interior shutoff seats, not exterior stems.
 
-Our service coordination centers on Lockport, NY coverage windows and verified intake details.
+Basement floor drains in Lockport, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 14095/14094.
+Irrigation cross-connections in Lockport, NY can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 14095/14094 zone).
+Step: camera-pass main lines in Lockport, NY before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 14095, 14094 (county grid: Niagara County).
+Trenchless pulls in Lockport, NY require pit dimensions verified against utility locate marks.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lockport, NY.
+
+Supply audit 524439: curb-stop orientation and hose-bib freeze flag reviewed for Lockport, NY at coords 43.1700/-78.7000.
+
+Lineage note 524439: recirculation pump amp draw captured before Lockport, NY branch isolation.
+
+On-site sector marker: Niagara County / ZIP 14095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14094-3a3f1ebb

@@ -12,24 +12,37 @@ lng: -84.4600
 zipSample: ["30337", "30349"]
 zipCodes: ["30337", "30349"]
 localPaths: ["Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30337 sector", "Fulton County / coords 33.6400, -84.4600", "Fulton County / elevation 1050 ft band", "Fulton County / primary ZIP 30337"]
-zillowHomeValueUsd: 301864
 ---
 
-**Engineering Notice for College Park:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for College Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in College Park, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Clear documentation helps align materials, labor, and timeline.
+Trenchless sleeve pulls near College Park, GA require pit shoring notes when water tables are high.
 
-Our service coordination centers on College Park, GA coverage windows and verified intake details.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 30337.
 
-Field note: Wind exposure category reviewed for ZIP sector 30349/30337.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 30349, 30337 (county grid: Fulton County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Trenchless pulls in College Park, GA require pit dimensions verified against utility locate marks.
+
+Recirculation pump failures in College Park, GA can mimic fixture-specific clogs.
+
+Hydro-jetting in College Park, GA requires camera confirmation before nozzle pressure is raised.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+CPVC solvent weld times shift with ambient humidity during College Park, GA shoulder seasons.
+
+Flow dossier 323614: branch wet-vent geometry and jetting nozzle envelope logged for College Park, GA county grid Fulton County (ZIP 30337).
+
+On-site sector marker: Fulton County / primary ZIP 30337 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30337-b98d678b

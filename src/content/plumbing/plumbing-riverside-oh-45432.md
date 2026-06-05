@@ -12,26 +12,39 @@ lng: -84.1200
 zipSample: ["45432", "45424", "45431", "45404", "45437"]
 zipCodes: ["45404", "45437", "45432", "45424", "45431"]
 localPaths: ["Montgomery County / coords 39.7800, -84.1200", "Montgomery County / elevation 771 ft band", "Montgomery County / ZIP 45432 sector", "Montgomery County / ZIP 45404 sector", "Montgomery County / ZIP 45437 sector"]
-zillowHomeValueUsd: 224606
 ---
 
-**Engineering Notice for Riverside:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Riverside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Riverside, OH, but intake notes help reduce delays.
+Risk flag: In Riverside, OH, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Structured milestones protect both sides when scheduling work.
+Dual-water-meter setups in Riverside, OH irrigation zones need backflow logs before line replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Access points and staging constraints recorded for ZIP 45432/45404/45424 coverage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 45432.
 
-Field note: Wind exposure category reviewed for ZIP sector 45432/45404/45424.
+Cast-iron hub corrosion in Riverside, OH often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 45432, 45404, 45424, 45437, 45431 (county grid: Montgomery County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When is cabling enough? In Riverside, OH, pipe material and blockage type dictate method.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Fixture roster 872165: toilet flange spacer kit and shower cartridge seat score queued for Riverside, OH walk-through.
+
+Supply audit 872165: curb-stop orientation and hose-bib freeze flag reviewed for Riverside, OH at coords 39.7800/-84.1200.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Riverside, OH before niche-specific work begins.
 
 Service reference: OH-45432-37520d68

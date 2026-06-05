@@ -12,26 +12,41 @@ lng: -98.1900
 zipSample: ["78577"]
 zipCodes: ["78577"]
 localPaths: ["Hidalgo County / elevation 102 ft band", "Hidalgo County / coords 26.1700, -98.1900", "Hidalgo County / ZIP 78577 sector", "Hidalgo County / primary ZIP 78577"]
-zillowHomeValueUsd: 164009
 ---
 
-**Engineering Notice for Pharr:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Pharr:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pharr, TX, but intake notes help reduce delays.
+Risk flag: In Pharr, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Pharr, TX basements should be photographed before any wall chase opens.
 
-Our service coordination centers on Pharr, TX coverage windows and verified intake details.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 78577.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 78577 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 78577 (county grid: Hidalgo County).
+Risk flag: Seasonal Pharr, TX irrigation cross-connections can mask domestic pressure loss.
+
+CPVC solvent weld times shift with ambient humidity during Pharr, TX shoulder seasons.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Dual-water-meter setups in Pharr, TX irrigation zones need backflow logs before line replacement.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Pressure trace 726969: meter-pit clearance and dielectric union checklist staged for Pharr, TX near elevation 102 ft.
+
+Scope trace: shower cartridge seat score plus cleanout riser height referenced in Hidalgo County county grid review.
+
+Coordinate-anchored dispatch note: center reference 26.1700, -98.1900 at elevation ~102 ft aligns with Hidalgo County intake staging.
 
 Service reference: TX-78577-1e6194e8

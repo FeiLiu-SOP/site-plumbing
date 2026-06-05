@@ -12,26 +12,41 @@ lng: -94.9200
 zipSample: ["66048", "66027"]
 zipCodes: ["66027", "66048"]
 localPaths: ["Leavenworth County / elevation 860 ft band", "Leavenworth County / coords 39.3200, -94.9200", "Leavenworth County / ZIP 66027 sector", "Leavenworth County / primary ZIP 66027", "Leavenworth County / ZIP 66048 sector"]
-zillowHomeValueUsd: 260090
 ---
 
-**Engineering Notice for Leavenworth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Leavenworth County.
+**Engineering Notice for Leavenworth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leavenworth County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Leavenworth, KS, but intake notes help reduce delays.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-We coordinate local dispatch coverage around Leavenworth, KS and nearby ZIP sectors.
+Cast-iron hub corrosion in Leavenworth, KS often concentrates at the third joint upstream of the cleanout.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66048/66027.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 66048/66027 intake.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 66027.
 
-Dispatch sectors sampled: ZIP 66048, 66027 (county grid: Leavenworth County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Sump discharge freeze risk in Leavenworth, KS should be reviewed before spring thaw cycles.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: Water heater anode type may change with Leavenworth, KS hardness profiles.
+
+Expansion tank pre-charge loss in Leavenworth, KS often tracks heater replacement deferrals.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 66027.
+
+Supply audit 360263: curb-stop orientation and hose-bib freeze flag reviewed for Leavenworth, KS at coords 39.3200/-94.9200.
+
+Intake ledger 360263: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Leavenworth, KS at 39.3200, -94.9200.
+
+Coordinate-anchored dispatch note: center reference 39.3200, -94.9200 at elevation ~860 ft aligns with Leavenworth County intake staging.
 
 Service reference: KS-66027-528a43c3

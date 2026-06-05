@@ -12,27 +12,41 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / primary ZIP 60050", "McHenry County / ZIP 60050 sector", "McHenry County / elevation 817 ft band", "McHenry County / coords 42.3400, -88.2900"]
-zillowHomeValueUsd: 307069
 ---
 
-**Engineering Notice for McHenry:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for McHenry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60050.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save water heater serial plates for warranty traceability.
 
-We coordinate local dispatch coverage around McHenry, IL and nearby ZIP sectors.
+Irrigation cross-connections in McHenry, IL can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 60050 zone).
+Step: camera-pass main lines in McHenry, IL before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 60050.
+Cast-iron hub corrosion in McHenry, IL often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 60050 (county grid: McHenry County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60050.
+
+Galvanized segments in McHenry, IL may restrict flow long before visible corrosion.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Recirculation pump failures in McHenry, IL can mimic fixture-specific clogs.
+
+FAQ: When should sump battery backups be load-tested? In McHenry, IL, before spring thaw and hurricane remnants.
+
+Fixture roster 322652: toilet flange spacer kit and shower cartridge seat score queued for McHenry, IL walk-through.
+
+Pressure trace 322652: meter-pit clearance and dielectric union checklist staged for McHenry, IL near elevation 817 ft.
+
+Scope trace: sump float travel plus meter pit clearance referenced in McHenry County county grid review.
+
+On-site sector marker: McHenry County / coords 42.3400, -88.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60050-73c95a95

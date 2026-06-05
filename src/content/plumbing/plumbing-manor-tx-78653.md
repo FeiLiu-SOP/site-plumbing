@@ -12,25 +12,41 @@ lng: -97.5200
 zipSample: ["78653"]
 zipCodes: ["78653"]
 localPaths: ["Travis County / ZIP 78653 sector", "Travis County / coords 30.3600, -97.5200", "Travis County / primary ZIP 78653", "Travis County / elevation 568 ft band"]
-zillowHomeValueUsd: 324779
 ---
 
-**Engineering Notice for Manor:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Travis County.
+**Engineering Notice for Manor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stack vent offsets in Manor, TX older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: request a written scope before work starts.
+Step: photograph curb-stop and meter pit before trenching.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 78653.
+Sump discharge freeze risk in Manor, TX should be reviewed before spring thaw cycles.
 
-Our service coordination centers on Manor, TX coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Manor, TX systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 78653.
+Fixture shutoff stiffness in Manor, TX may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 78653 (county grid: Travis County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Expansion tank pre-charge loss in Manor, TX often tracks heater replacement deferrals.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78653.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Manor, TX.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 78653.
+
+Drain map 801444: camera-pass priority and expansion-tank pre-charge noted for Manor, TX postal sector 78653.
+
+Lineage note 801444: recirculation pump amp draw captured before Manor, TX branch isolation.
+
+Scope trace: water softener bypass lever plus PEX expansion ring batch referenced in Travis County county grid review.
+
+Coordinate-anchored dispatch note: center reference 30.3600, -97.5200 at elevation ~568 ft aligns with Travis County intake staging.
 
 Service reference: TX-78653-74025385

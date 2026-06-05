@@ -12,26 +12,45 @@ lng: -95.7700
 zipSample: ["74502", "74501"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74501 sector", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501", "Pittsburg County / elevation 758 ft band", "Pittsburg County / ZIP 74502 sector"]
-zillowHomeValueUsd: 152287
 ---
 
-**Engineering Notice for McAlester:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Pittsburg County.
+**Engineering Notice for McAlester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pittsburg County.
 
 
-We coordinate local dispatch coverage around McAlester, OK and nearby ZIP sectors.
+Risk flag: In McAlester, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: confirm licensing and insurance before approving work.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+CPVC solvent weld times shift with ambient humidity during McAlester, OK shoulder seasons.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across McAlester, OK, main-line bellies can trap debris even when fixtures drain normally.
 
-Local conditions in McAlester, OK can affect timelines and material choices.
+Frost-free sillcock failures in McAlester, OK often trace to interior shutoff seats, not exterior stems.
 
-Field note: Moisture pathway inspection logged near ZIP 74502/74501 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Connection points spot-checked where accessible (ZIP 74502/74501 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 74502, 74501 (county grid: Pittsburg County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Trenchless pulls in McAlester, OK require pit dimensions verified against utility locate marks.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Polybutylene manifold tags in McAlester, OK basements should be photographed before any wall chase opens.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Flow dossier 660846: branch wet-vent geometry and jetting nozzle envelope logged for McAlester, OK county grid Pittsburg County (ZIP 74501).
+
+Intake ledger 660846: sump amperage, PRV seat wear, and cleanout riser height cross-checked for McAlester, OK at 34.9300, -95.7700.
+
+Field routing: PRV outlet curve paired with sump float travel near ZIP 74501.
+
+Regional mesh label Pittsburg County: moisture and logistics baselines are keyed to McAlester, OK before niche-specific work begins.
 
 Service reference: OK-74501-c0a515bc

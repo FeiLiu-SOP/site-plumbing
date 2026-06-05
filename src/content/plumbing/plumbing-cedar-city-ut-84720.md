@@ -12,27 +12,37 @@ lng: -113.1000
 zipSample: ["84721", "84720"]
 zipCodes: ["84721", "84720"]
 localPaths: ["Iron County / ZIP 84720 sector", "Iron County / elevation 5682 ft band", "Iron County / primary ZIP 84720", "Iron County / coords 37.6800, -113.1000", "Iron County / ZIP 84721 sector"]
-zillowHomeValueUsd: 430512
 ---
 
-**Engineering Notice for Cedar City:** Structural loading calculated based on 5682 ft terrain assessment. Regional dispatch grid: Iron County.
+**Engineering Notice for Cedar City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iron County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 84720.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around Cedar City, UT and nearby ZIP sectors.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cedar City, UT, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-In Cedar City, UT, urgent plumbing issues can escalate quickly.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 84720/84721.
+Expansion tank pre-charge loss in Cedar City, UT often tracks heater replacement deferrals.
 
-Field note: Moisture pathway inspection logged near ZIP 84720/84721 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 84720, 84721 (county grid: Iron County).
+Permit note: Main water line replacement in Cedar City, UT may require ROW restoration planning.
+
+Water heater T&P discharge paths in Cedar City, UT must terminate safely before replacement quotes.
+
+Dual-water-meter setups in Cedar City, UT irrigation zones need backflow logs before line replacement.
+
+Dispatch packets reference county grid Iron County near ZIP 84720.
+
+Sump discharge freeze risk in Cedar City, UT should be reviewed before spring thaw cycles.
+
+Lineage note 473972: recirculation pump amp draw captured before Cedar City, UT branch isolation.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Iron County. Reference elevation: 5682 ft. Primary coordinates: 37.6800, -113.1000. ZIP sample: 84721, 84720. Regional routing note: Iron County traffic flow is balanced around ZIP 84720 service demand.
 
 Service reference: UT-84720-3d879849

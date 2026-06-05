@@ -12,25 +12,41 @@ lng: -122.2900
 zipSample: ["98375", "98373", "98374"]
 zipCodes: ["98375", "98374", "98373"]
 localPaths: ["Pierce County / primary ZIP 98374", "Pierce County / elevation 561 ft band", "Pierce County / ZIP 98375 sector", "Pierce County / coords 47.1200, -122.2900", "Pierce County / ZIP 98373 sector"]
-zillowHomeValueUsd: 584126
 ---
 
-**Engineering Notice for South Hill:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for South Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Irrigation cross-connections in South Hill, WA can back-siphon domestic lines during main breaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hydro-jetting in South Hill, WA requires camera confirmation before nozzle pressure is raised.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Hill, WA, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98374.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98374/98375/98373.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 98374, 98375, 98373 (county grid: Pierce County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in South Hill, WA systems need rebalancing.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in South Hill, WA.
+
+Basement floor drains in South Hill, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Trenchless pulls in South Hill, WA require pit dimensions verified against utility locate marks.
+
+Cast-iron hub corrosion in South Hill, WA often concentrates at the third joint upstream of the cleanout.
+
+Drain map 954102: camera-pass priority and expansion-tank pre-charge noted for South Hill, WA postal sector 98374.
+
+Fixture roster 954102: toilet flange spacer kit and shower cartridge seat score queued for South Hill, WA walk-through.
+
+Field routing: dielectric union checklist paired with PEX expansion ring batch near ZIP 98374.
+
+Coordinate-anchored dispatch note: center reference 47.1200, -122.2900 at elevation ~561 ft aligns with Pierce County intake staging.
 
 Service reference: WA-98374-b987ff6f

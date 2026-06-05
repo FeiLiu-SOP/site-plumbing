@@ -12,26 +12,39 @@ lng: -80.4900
 zipSample: ["28144", "28145", "28146", "28147"]
 zipCodes: ["28144", "28147", "28145", "28146"]
 localPaths: ["Rowan County / primary ZIP 28146", "Rowan County / ZIP 28146 sector", "Rowan County / ZIP 28144 sector", "Rowan County / elevation 715 ft band", "Rowan County / ZIP 28145 sector"]
-zillowHomeValueUsd: 302596
 ---
 
-**Engineering Notice for Salisbury:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Rowan County.
+**Engineering Notice for Salisbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rowan County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on Salisbury, NC coverage windows and verified intake details.
+Step: photograph curb-stop and meter pit before trenching.
 
-Local conditions in Salisbury, NC can affect timelines and material choices.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 28146.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Polybutylene manifold tags in Salisbury, NC basements should be photographed before any wall chase opens.
 
-Field note: Access points and staging constraints recorded for ZIP 28147/28144/28146 coverage.
+Risk flag: Seasonal Salisbury, NC irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Wind exposure category reviewed for ZIP sector 28147/28144/28146.
+Sewer gas odors in Salisbury, NC should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 28147, 28144, 28146, 28145 (county grid: Rowan County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+In Salisbury, NC, slab leaks often present as warm spots before wall stains appear.
+
+Dispatch packets reference county grid Rowan County near ZIP 28146.
+
+Dual-water-meter setups in Salisbury, NC irrigation zones need backflow logs before line replacement.
+
+FAQ: Is hydro-jetting always appropriate? In Salisbury, NC, pipe material and blockage type dictate method.
+
+Drain map 139648: camera-pass priority and expansion-tank pre-charge noted for Salisbury, NC postal sector 28146.
+
+On-site sector marker: Rowan County / ZIP 28145 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28146-4fb44020

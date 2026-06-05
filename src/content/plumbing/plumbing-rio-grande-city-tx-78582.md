@@ -12,26 +12,37 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 187 ft band", "Starr County / primary ZIP 78582", "Starr County / ZIP 78582 sector", "Starr County / coords 26.3800, -98.8200"]
-zillowHomeValueUsd: 146526
 ---
 
-**Engineering Notice for Rio Grande City:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Starr County.
+**Engineering Notice for Rio Grande City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Starr County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rio Grande City, TX, but intake notes help reduce delays.
+Dispatch packets reference county grid Starr County near ZIP 78582.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Structured milestones protect both sides when scheduling work.
+Hydrostatic holds in Rio Grande City, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in Rio Grande City, TX require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 78582.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 78582 intake.
+Risk flag: Seasonal Rio Grande City, TX irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 78582 (county grid: Starr County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Branch wet vents in Rio Grande City, TX can mask gurgling as a main-line issue.
+
+Recirculation pump failures in Rio Grande City, TX can mimic fixture-specific clogs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Lineage note 590578: recirculation pump amp draw captured before Rio Grande City, TX branch isolation.
+
+Regional mesh label Starr County: moisture and logistics baselines are keyed to Rio Grande City, TX before niche-specific work begins.
 
 Service reference: TX-78582-60ac2bbd

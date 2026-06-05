@@ -12,26 +12,37 @@ lng: -122.2300
 zipSample: ["98012", "98087", "98208", "98037"]
 zipCodes: ["98037", "98208", "98087", "98012"]
 localPaths: ["Snohomish County / ZIP 98208 sector", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 456 ft band", "Snohomish County / coords 47.8500, -122.2300", "Snohomish County / primary ZIP 98087"]
-zillowHomeValueUsd: 751081
 ---
 
-**Engineering Notice for Martha Lake:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Martha Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Martha Lake, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless pulls in Martha Lake, WA require pit dimensions verified against utility locate marks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Homeowners in Martha Lake, WA often face sudden plumbing problems that require fast action.
+Galvanized segments in Martha Lake, WA may restrict flow long before visible corrosion.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Martha Lake, WA, but intake notes help reduce delays.
+Hydro-jetting in Martha Lake, WA requires camera confirmation before nozzle pressure is raised.
 
-Field note: Wind exposure category reviewed for ZIP sector 98012/98087/98037.
+Cast-iron hub corrosion in Martha Lake, WA often concentrates at the third joint upstream of the cleanout.
 
-Field note: Moisture pathway inspection logged near ZIP 98012/98087/98037 intake.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 98012, 98087, 98037, 98208 (county grid: Snohomish County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Water heater T&P discharge paths in Martha Lake, WA must terminate safely before replacement quotes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Martha Lake, WA systems need rebalancing.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Lineage note 175464: recirculation pump amp draw captured before Martha Lake, WA branch isolation.
+
+On-site sector marker: Snohomish County / elevation 456 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98087-d5fe63df

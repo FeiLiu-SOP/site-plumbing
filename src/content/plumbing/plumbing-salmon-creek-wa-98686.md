@@ -12,26 +12,41 @@ lng: -122.6600
 zipSample: ["98686", "98685"]
 zipCodes: ["98685", "98686"]
 localPaths: ["Clark County / primary ZIP 98686", "Clark County / ZIP 98686 sector", "Clark County / elevation 92 ft band", "Clark County / coords 45.7100, -122.6600", "Clark County / ZIP 98685 sector"]
-zillowHomeValueUsd: 590600
 ---
 
-**Engineering Notice for Salmon Creek:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Salmon Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Salmon Creek, WA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near Salmon Creek, WA require pit shoring notes when water tables are high.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 98686.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Salmon Creek, WA, main-line bellies can trap debris even when fixtures drain normally.
 
-A written scope helps prevent rework and mismatched expectations.
+Polybutylene manifold tags in Salmon Creek, WA basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 98686/98685 zone).
+Step: camera-pass main lines in Salmon Creek, WA before jetting older clay or cast iron.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98686/98685.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 98686, 98685 (county grid: Clark County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: Seasonal Salmon Creek, WA irrigation cross-connections can mask domestic pressure loss.
+
+Basement floor drains in Salmon Creek, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Hydrostatic holds in Salmon Creek, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Salmon Creek, WA.
+
+Fixture roster 952761: toilet flange spacer kit and shower cartridge seat score queued for Salmon Creek, WA walk-through.
+
+Intake ledger 952761: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Salmon Creek, WA at 45.7100, -122.6600.
+
+On-site sector marker: Clark County / coords 45.7100, -122.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98686-d34f6f43

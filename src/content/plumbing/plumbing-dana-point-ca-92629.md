@@ -12,26 +12,41 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92629", "92624"]
 localPaths: ["Orange County / primary ZIP 92629", "Orange County / ZIP 92624 sector", "Orange County / coords 33.4700, -117.7000", "Orange County / ZIP 92629 sector", "Orange County / elevation 285 ft band"]
-zillowHomeValueUsd: 1753667
 ---
 
-**Engineering Notice for Dana Point:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Dana Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-In Dana Point, CA, urgent plumbing issues can escalate quickly.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: confirm licensing and insurance before approving work.
+Hydrostatic holds in Dana Point, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dana Point, CA, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Our service coordination centers on Dana Point, CA coverage windows and verified intake details.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Clear documentation helps align materials, labor, and timeline.
+Branch wet vents in Dana Point, CA can mask gurgling as a main-line issue.
 
-Field note: Moisture pathway inspection logged near ZIP 92624/92629 intake.
+Basement floor drains in Dana Point, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 92624/92629 coverage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 92624, 92629 (county grid: Orange County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture shutoff stiffness in Dana Point, CA may indicate mineral bridging behind stems.
+
+Material note: Water heater anode type may change with Dana Point, CA hardness profiles.
+
+CPVC solvent weld times shift with ambient humidity during Dana Point, CA shoulder seasons.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: map sump float travel and check-valve orientation for Dana Point, CA basements.
+
+Trenchless sleeve pulls near Dana Point, CA require pit shoring notes when water tables are high.
+
+Lineage note 955897: recirculation pump amp draw captured before Dana Point, CA branch isolation.
+
+On-site sector marker: Orange County / ZIP 92629 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92629-d7c379d3

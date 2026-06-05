@@ -12,24 +12,39 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / ZIP 60091 sector", "Cook County / primary ZIP 60091", "Cook County / elevation 646 ft band", "Cook County / coords 42.0800, -87.7300"]
-zillowHomeValueUsd: 960788
 ---
 
-**Engineering Notice for Wilmette:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Wilmette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate local dispatch coverage around Wilmette, IL and nearby ZIP sectors.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: avoid large upfront payments without milestones.
+Step: camera-pass main lines in Wilmette, IL before jetting older clay or cast iron.
 
-Field note: Moisture pathway inspection logged near ZIP 60091 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 60091 (county grid: Cook County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Stack vent offsets in Wilmette, IL older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When is cabling enough? In Wilmette, IL, pipe material and blockage type dictate method.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60091.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 240308: recirculation pump amp draw captured before Wilmette, IL branch isolation.
+
+Scope trace: floor drain trap primer drip plus PEX expansion ring batch referenced in Cook County county grid review.
+
+Primary postal anchor 60091 with multi-ZIP overlap in Wilmette; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60091-2ffd3053

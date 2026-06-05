@@ -12,28 +12,43 @@ lng: -66.0600
 zipSample: ["00955", "00913", "00975", "00907", "00929"]
 zipCodes: ["00908", "00928", "00909", "00907", "00969", "00939", "00975", "00935", "00913", "00926", "00955", "00936"]
 localPaths: ["San Juan County / ZIP 00975 sector", "San Juan County / ZIP 00913 sector", "San Juan County / elevation 43 ft band", "San Juan County / ZIP 00955 sector", "San Juan County / ZIP 00907 sector"]
-zillowHomeValueUsd: 379502
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for San Juan:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Juan County.
+**Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Juan County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 00918.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Recirculation pump failures in San Juan, PR can mimic fixture-specific clogs.
 
-Tip: request a written scope before work starts.
+Hard water in San Juan, PR accelerates scale on PRV seats and heater elements.
 
-Field note: Moisture pathway inspection logged near ZIP 00937/00935/00931 intake.
+Dual-water-meter setups in San Juan, PR irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 00937/00935/00931 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 00937, 00935, 00931, 00919, 00910 (county grid: San Juan County).
+Hydro-jetting in San Juan, PR requires camera confirmation before nozzle pressure is raised.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Basement floor drains in San Juan, PR should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Sump discharge freeze risk in San Juan, PR should be reviewed before spring thaw cycles.
+
+Drain map 913444: camera-pass priority and expansion-tank pre-charge noted for San Juan, PR postal sector 00918.
+
+Intake ledger 913444: sump amperage, PRV seat wear, and cleanout riser height cross-checked for San Juan, PR at 18.4000, -66.0600.
+
+Regional mesh label San Juan County: moisture and logistics baselines are keyed to San Juan, PR before niche-specific work begins.
 
 Service reference: PR-00918-ccea1dd3

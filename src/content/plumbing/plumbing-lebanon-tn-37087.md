@@ -12,24 +12,43 @@ lng: -86.3500
 zipSample: ["37136", "37071", "37087", "37088", "37090"]
 zipCodes: ["37087", "37136", "37088", "37090", "37071"]
 localPaths: ["Wilson County / coords 36.2000, -86.3500", "Wilson County / ZIP 37071 sector", "Wilson County / ZIP 37136 sector", "Wilson County / ZIP 37087 sector", "Wilson County / ZIP 37090 sector"]
-zillowHomeValueUsd: 439022
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wilson County.
+**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wilson County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Lebanon, TN may require ROW restoration planning.
 
-Tip: request a written scope before work starts.
+Cast-iron hub corrosion in Lebanon, TN often concentrates at the third joint upstream of the cleanout.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Our service coordination centers on Lebanon, TN coverage windows and verified intake details.
+In Lebanon, TN, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lebanon, TN, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lebanon, TN.
 
-Field note: Wind exposure category reviewed for ZIP sector 37136/37087/37088.
+Material note: Water heater anode type may change with Lebanon, TN hardness profiles.
 
-Dispatch sectors sampled: ZIP 37136, 37087, 37088, 37090, 37071 (county grid: Wilson County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lebanon, TN.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Basement floor drains in Lebanon, TN should be snaked only after trap arm geometry is confirmed on camera.
+
+Water heater T&P discharge paths in Lebanon, TN must terminate safely before replacement quotes.
+
+Dual-water-meter setups in Lebanon, TN irrigation zones need backflow logs before line replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Fixture roster 698465: toilet flange spacer kit and shower cartridge seat score queued for Lebanon, TN walk-through.
+
+plumbing brief: PEX expansion ring batch and meter pit clearance were cross-checked for the Lebanon intake packet.
+
+On-site sector marker: Wilson County / primary ZIP 37087 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37087-4b8900af

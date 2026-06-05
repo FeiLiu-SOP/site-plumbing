@@ -12,24 +12,39 @@ lng: -86.5100
 zipSample: ["37122", "37121"]
 zipCodes: ["37122", "37121"]
 localPaths: ["Wilson County / primary ZIP 37122", "Wilson County / coords 36.2000, -86.5100", "Wilson County / ZIP 37121 sector", "Wilson County / ZIP 37122 sector", "Wilson County / elevation 577 ft band"]
-zillowHomeValueUsd: 571581
 ---
 
-**Engineering Notice for Mount Juliet:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wilson County.
+**Engineering Notice for Mount Juliet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wilson County.
 
 
-In Mount Juliet, TN, seasonal demand can change scheduling windows.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mount Juliet, TN, but intake notes help reduce delays.
+Step: camera-pass main lines in Mount Juliet, TN before jetting older clay or cast iron.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dispatch packets reference county grid Wilson County near ZIP 37122.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mount Juliet, TN.
 
-Field note: Connection points spot-checked where accessible (ZIP 37122/37121 zone).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Mount Juliet, TN.
 
-Dispatch sectors sampled: ZIP 37122, 37121 (county grid: Wilson County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: map sump float travel and check-valve orientation for Mount Juliet, TN basements.
+
+Expansion tank pre-charge loss in Mount Juliet, TN often tracks heater replacement deferrals.
+
+FAQ: When should sump battery backups be load-tested? In Mount Juliet, TN, before spring thaw and hurricane remnants.
+
+Fixture shutoff stiffness in Mount Juliet, TN may indicate mineral bridging behind stems.
+
+Supply audit 667704: curb-stop orientation and hose-bib freeze flag reviewed for Mount Juliet, TN at coords 36.2000/-86.5100.
+
+Field routing: sewer cleanout cap thread paired with recirculation pump amp draw near ZIP 37122.
+
+On-site sector marker: Wilson County / coords 36.2000, -86.5100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37122-f29c442b

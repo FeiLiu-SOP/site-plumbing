@@ -12,24 +12,45 @@ lng: -77.5600
 zipSample: ["20105"]
 zipCodes: ["20105"]
 localPaths: ["Loudoun County / coords 38.9300, -77.5600", "Loudoun County / primary ZIP 20105", "Loudoun County / elevation 344 ft band", "Loudoun County / ZIP 20105 sector"]
-zillowHomeValueUsd: 1102685
 ---
 
-**Engineering Notice for Stone Ridge:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Stone Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Stone Ridge, VA.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Stone Ridge, VA, but intake notes help reduce delays.
+Irrigation cross-connections in Stone Ridge, VA can back-siphon domestic lines during main breaks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should sump battery backups be load-tested? In Stone Ridge, VA, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 20105 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 20105 (county grid: Loudoun County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 20105.
+
+Polybutylene manifold tags in Stone Ridge, VA basements should be photographed before any wall chase opens.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stone Ridge, VA systems need rebalancing.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Branch wet vents in Stone Ridge, VA can mask gurgling as a main-line issue.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Permit note: Main water line replacement in Stone Ridge, VA may require ROW restoration planning.
+
+Lineage note 791403: recirculation pump amp draw captured before Stone Ridge, VA branch isolation.
+
+Pressure trace 791403: meter-pit clearance and dielectric union checklist staged for Stone Ridge, VA near elevation 344 ft.
+
+plumbing brief: branch wet vent geometry and floor drain trap primer drip were cross-checked for the Stone Ridge intake packet.
+
+On-site sector marker: Loudoun County / ZIP 20105 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20105-eccfced9

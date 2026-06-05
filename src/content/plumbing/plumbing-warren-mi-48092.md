@@ -12,27 +12,37 @@ lng: -83.0300
 zipSample: ["48091", "48089", "48092", "48397", "48088"]
 zipCodes: ["48093", "48088", "48089", "48397", "48092", "48091"]
 localPaths: ["Macomb County / ZIP 48089 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / ZIP 48092 sector", "Macomb County / ZIP 48091 sector", "Macomb County / ZIP 48397 sector"]
-zillowHomeValueUsd: 241894
 ---
 
-**Engineering Notice for Warren:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for Warren:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
 
 
-Local conditions in Warren, MI can affect timelines and material choices.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48092.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Warren, MI, but intake notes help reduce delays.
+Permit note: Main water line replacement in Warren, MI may require ROW restoration planning.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: camera-pass main lines in Warren, MI before jetting older clay or cast iron.
 
-Field note: Access points and staging constraints recorded for ZIP 48091/48088/48093 coverage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Moisture pathway inspection logged near ZIP 48091/48088/48093 intake.
+Basement floor drains in Warren, MI should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 48091, 48088, 48093, 48092, 48089 (county grid: Macomb County).
+Step: map sump float travel and check-valve orientation for Warren, MI basements.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Stack vent offsets in Warren, MI older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Flow dossier 119663: branch wet-vent geometry and jetting nozzle envelope logged for Warren, MI county grid Macomb County (ZIP 48092).
+
+On-site sector marker: Macomb County / ZIP 48089 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48092-ae9fe75f

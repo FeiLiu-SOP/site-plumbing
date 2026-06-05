@@ -12,26 +12,39 @@ lng: -123.1000
 zipSample: ["97322", "97321"]
 zipCodes: ["97322", "97321"]
 localPaths: ["Linn County / coords 44.6300, -123.1000", "Linn County / elevation 230 ft band", "Linn County / primary ZIP 97321", "Linn County / ZIP 97322 sector", "Linn County / ZIP 97321 sector"]
-zillowHomeValueUsd: 508987
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Expansion tank pre-charge loss in Albany, OR often tracks heater replacement deferrals.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Albany, OR, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate local dispatch coverage around Albany, OR and nearby ZIP sectors.
+Galvanized segments in Albany, OR may restrict flow long before visible corrosion.
 
-Field note: Wind exposure category reviewed for ZIP sector 97321/97322.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 97321.
 
-Field note: Moisture pathway inspection logged near ZIP 97321/97322 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 97321, 97322 (county grid: Linn County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 97321.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Stack vent offsets in Albany, OR older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Albany, OR.
+
+Intake ledger 840279: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Albany, OR at 44.6300, -123.1000.
+
+Coordinate-anchored dispatch note: center reference 44.6300, -123.1000 at elevation ~230 ft aligns with Linn County intake staging.
 
 Service reference: OR-97321-5d3378e5

@@ -12,24 +12,41 @@ lng: -80.4100
 zipSample: ["33175", "33183"]
 zipCodes: ["33183", "33175"]
 localPaths: ["Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / coords 25.7100, -80.4100", "Miami-Dade County / ZIP 33183 sector"]
-zillowHomeValueUsd: 622030
 ---
 
-**Engineering Notice for Kendale Lakes:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendale Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Galvanized segments in Kendale Lakes, FL may restrict flow long before visible corrosion.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kendale Lakes, FL, but intake notes help reduce delays.
+Stack vent offsets in Kendale Lakes, FL older duplexes can mask tub gurgle as a main-line failure.
 
-In Kendale Lakes, FL, urgent plumbing issues can escalate quickly.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-We coordinate local dispatch coverage around Kendale Lakes, FL and nearby ZIP sectors.
+Basement floor drains in Kendale Lakes, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Moisture pathway inspection logged near ZIP 33175/33183 intake.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33175.
 
-Dispatch sectors sampled: ZIP 33175, 33183 (county grid: Miami-Dade County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Trenchless pulls in Kendale Lakes, FL require pit dimensions verified against utility locate marks.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: In Kendale Lakes, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 855737: toilet flange spacer kit and shower cartridge seat score queued for Kendale Lakes, FL walk-through.
+
+Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Miami-Dade County county grid review.
+
+Coordinate-anchored dispatch note: center reference 25.7100, -80.4100 at elevation ~33 ft aligns with Miami-Dade County intake staging.
 
 Service reference: FL-33175-dda00a17

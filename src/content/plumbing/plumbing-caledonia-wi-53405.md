@@ -12,24 +12,39 @@ lng: -87.8800
 zipSample: ["53404", "53126", "53108", "53405", "53406"]
 zipCodes: ["53402", "53406", "53108", "53404", "53126", "53405"]
 localPaths: ["Racine County / ZIP 53108 sector", "Racine County / ZIP 53126 sector", "Racine County / primary ZIP 53405", "Racine County / ZIP 53404 sector", "Racine County / elevation 702 ft band"]
-zillowHomeValueUsd: 227104
 ---
 
-**Engineering Notice for Caledonia:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Racine County.
+**Engineering Notice for Caledonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Racine County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Trenchless sleeve pulls near Caledonia, WI require pit shoring notes when water tables are high.
 
-A written scope helps prevent rework and mismatched expectations.
+Frost-free sillcock failures in Caledonia, WI often trace to interior shutoff seats, not exterior stems.
 
-We coordinate local dispatch coverage around Caledonia, WI and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Caledonia, WI, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 53406/53404/53405 intake.
+Material note: Water heater anode type may change with Caledonia, WI hardness profiles.
 
-Dispatch sectors sampled: ZIP 53406, 53404, 53405, 53108, 53402 (county grid: Racine County).
+Irrigation cross-connections in Caledonia, WI can back-siphon domestic lines during main breaks.
+
+Cast-iron hub corrosion in Caledonia, WI often concentrates at the third joint upstream of the cleanout.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Hard water in Caledonia, WI accelerates scale on PRV seats and heater elements.
+
+Step: camera-pass main lines in Caledonia, WI before jetting older clay or cast iron.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 917743: toilet flange spacer kit and shower cartridge seat score queued for Caledonia, WI walk-through.
+
+Pressure trace 917743: meter-pit clearance and dielectric union checklist staged for Caledonia, WI near elevation 702 ft.
+
+Coordinate-anchored dispatch note: center reference 42.8000, -87.8800 at elevation ~702 ft aligns with Racine County intake staging.
 
 Service reference: WI-53405-020ce022

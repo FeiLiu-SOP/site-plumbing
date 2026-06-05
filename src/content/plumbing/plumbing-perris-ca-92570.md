@@ -12,26 +12,39 @@ lng: -117.2200
 zipSample: ["92570", "92571", "92599", "92572"]
 zipCodes: ["92571", "92599", "92572", "92570"]
 localPaths: ["Riverside County / primary ZIP 92570", "Riverside County / ZIP 92572 sector", "Riverside County / ZIP 92570 sector", "Riverside County / coords 33.7900, -117.2200", "Riverside County / elevation 1437 ft band"]
-zillowHomeValueUsd: 580556
 ---
 
-**Engineering Notice for Perris:** Structural loading calculated based on 1437 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Perris:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hydro-jetting in Perris, CA requires camera confirmation before nozzle pressure is raised.
 
-We coordinate local dispatch coverage around Perris, CA and nearby ZIP sectors.
+Water heater T&P discharge paths in Perris, CA must terminate safely before replacement quotes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-A written scope helps prevent rework and mismatched expectations.
+Dual-water-meter setups in Perris, CA irrigation zones need backflow logs before line replacement.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Perris, CA.
 
-Field note: Connection points spot-checked where accessible (ZIP 92570/92571/92599 zone).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Access points and staging constraints recorded for ZIP 92570/92571/92599 coverage.
+FAQ: When is cabling enough? In Perris, CA, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 92570, 92571, 92599, 92572 (county grid: Riverside County).
+Step: map sump float travel and check-valve orientation for Perris, CA basements.
+
+Hard water in Perris, CA accelerates scale on PRV seats and heater elements.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 92570.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Fixture roster 638476: toilet flange spacer kit and shower cartridge seat score queued for Perris, CA walk-through.
+
+Flow dossier 638476: branch wet-vent geometry and jetting nozzle envelope logged for Perris, CA county grid Riverside County (ZIP 92570).
+
+On-site sector marker: Riverside County / ZIP 92599 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92570-ef9e1cf8

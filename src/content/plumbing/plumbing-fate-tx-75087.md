@@ -12,25 +12,41 @@ lng: -96.3900
 zipSample: ["75132", "75087", "75189"]
 zipCodes: ["75132", "75189", "75087"]
 localPaths: ["Rockwall County / ZIP 75189 sector", "Rockwall County / ZIP 75087 sector", "Rockwall County / ZIP 75132 sector", "Rockwall County / elevation 594 ft band", "Rockwall County / coords 32.9400, -96.3900"]
-zillowHomeValueUsd: 450378
 ---
 
-**Engineering Notice for Fate:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Rockwall County.
+**Engineering Notice for Fate:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockwall County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Water heater T&P discharge paths in Fate, TX must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75087.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 75189/75132/75087 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 75087.
 
-Dispatch sectors sampled: ZIP 75189, 75132, 75087 (county grid: Rockwall County).
+Trenchless pulls in Fate, TX require pit dimensions verified against utility locate marks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Permit note: Main water line replacement in Fate, TX may require ROW restoration planning.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Fate, TX.
+
+Cleanout access limits in Fate, TX frequently extend drain cleaning duration.
+
+Sump discharge freeze risk in Fate, TX should be reviewed before spring thaw cycles.
+
+Dual-water-meter setups in Fate, TX irrigation zones need backflow logs before line replacement.
+
+Supply audit 826301: curb-stop orientation and hose-bib freeze flag reviewed for Fate, TX at coords 32.9400/-96.3900.
+
+Field routing: meter pit clearance paired with branch wet vent geometry near ZIP 75087.
+
+Coordinate-anchored dispatch note: center reference 32.9400, -96.3900 at elevation ~594 ft aligns with Rockwall County intake staging.
 
 Service reference: TX-75087-410aebb2

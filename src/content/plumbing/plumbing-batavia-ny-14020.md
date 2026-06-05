@@ -12,26 +12,39 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / primary ZIP 14020", "Genesee County / elevation 906 ft band", "Genesee County / ZIP 14020 sector", "Genesee County / coords 43.0000, -78.1800"]
-zillowHomeValueUsd: 197626
 ---
 
-**Engineering Notice for Batavia:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Genesee County.
+**Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.
 
 
-In Batavia, NY, urgent plumbing issues can escalate quickly.
+Polybutylene manifold tags in Batavia, NY basements should be photographed before any wall chase opens.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-We coordinate local dispatch coverage around Batavia, NY and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 14020 intake.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 14020.
 
-Field note: Wind exposure category reviewed for ZIP sector 14020.
+Permit note: Main water line replacement in Batavia, NY may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 14020 (county grid: Genesee County).
+FAQ: When is cabling enough? In Batavia, NY, pipe material and blockage type dictate method.
+
+Branch wet vents in Batavia, NY can mask gurgling as a main-line issue.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Frost-free sillcock failures in Batavia, NY often trace to interior shutoff seats, not exterior stems.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Drain map 488896: camera-pass priority and expansion-tank pre-charge noted for Batavia, NY postal sector 14020.
+
+Fixture roster 488896: toilet flange spacer kit and shower cartridge seat score queued for Batavia, NY walk-through.
+
+On-site sector marker: Genesee County / coords 43.0000, -78.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14020-799e6666

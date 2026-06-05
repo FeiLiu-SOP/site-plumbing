@@ -12,26 +12,37 @@ lng: -70.7800
 zipSample: ["03802", "03801", "03803", "03804"]
 zipCodes: ["03801", "03802", "03804", "03803"]
 localPaths: ["Rockingham County / ZIP 03803 sector", "Rockingham County / ZIP 03802 sector", "Rockingham County / coords 43.0600, -70.7800", "Rockingham County / elevation 72 ft band", "Rockingham County / primary ZIP 03801"]
-zillowHomeValueUsd: 809402
 ---
 
-**Engineering Notice for Portsmouth:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Rockingham County.
+**Engineering Notice for Portsmouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockingham County.
 
 
-Our service coordination centers on Portsmouth, NH coverage windows and verified intake details.
+Hydrostatic holds in Portsmouth, NH slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Branch wet vents in Portsmouth, NH can mask gurgling as a main-line issue.
 
-Transparent pricing helps you compare like-for-like scope items.
+Hard water in Portsmouth, NH accelerates scale on PRV seats and heater elements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Expansion tank pre-charge loss in Portsmouth, NH often tracks heater replacement deferrals.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Portsmouth, NH, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Portsmouth, NH systems need rebalancing.
 
-Field note: Connection points spot-checked where accessible (ZIP 03802/03804/03801 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 03802/03804/03801 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 03802, 03804, 03801, 03803 (county grid: Rockingham County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: In Portsmouth, NH, slab leaks can misroute as foundation issues without listening equipment.
+
+Supply audit 657426: curb-stop orientation and hose-bib freeze flag reviewed for Portsmouth, NH at coords 43.0600/-70.7800.
+
+On-site sector marker: Rockingham County / ZIP 03802 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03801-39d8dc22

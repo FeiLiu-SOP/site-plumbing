@@ -12,26 +12,43 @@ lng: -96.9000
 zipSample: ["75056", "75036"]
 zipCodes: ["75036", "75056"]
 localPaths: ["Denton County / ZIP 75056 sector", "Denton County / primary ZIP 75036", "Denton County / elevation 551 ft band", "Denton County / coords 33.0900, -96.9000", "Denton County / ZIP 75036 sector"]
-zillowHomeValueUsd: 567498
 ---
 
-**Engineering Notice for The Colony:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Denton County.
+**Engineering Notice for The Colony:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denton County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: request a written scope before work starts.
+Hydrostatic holds in The Colony, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate local dispatch coverage around The Colony, TX and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Sump discharge freeze risk in The Colony, TX should be reviewed before spring thaw cycles.
 
-Field note: Moisture pathway inspection logged near ZIP 75056/75036 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Wind exposure category reviewed for ZIP sector 75056/75036.
+Risk flag: In The Colony, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 75056, 75036 (county grid: Denton County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Fixture shutoff stiffness in The Colony, TX may indicate mineral bridging behind stems.
+
+CPVC solvent weld times shift with ambient humidity during The Colony, TX shoulder seasons.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Lineage note 463254: recirculation pump amp draw captured before The Colony, TX branch isolation.
+
+Intake ledger 463254: sump amperage, PRV seat wear, and cleanout riser height cross-checked for The Colony, TX at 33.0900, -96.9000.
+
+Regional mesh label Denton County: moisture and logistics baselines are keyed to The Colony, TX before niche-specific work begins.
 
 Service reference: TX-75036-a914427d

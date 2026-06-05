@@ -12,24 +12,39 @@ lng: -156.4600
 zipSample: ["96733", "96732"]
 zipCodes: ["96732", "96733"]
 localPaths: ["Maui County / elevation 46 ft band", "Maui County / ZIP 96733 sector", "Maui County / primary ZIP 96732", "Maui County / coords 20.8700, -156.4600", "Maui County / ZIP 96732 sector"]
-zillowHomeValueUsd: 1034288
 ---
 
-**Engineering Notice for Kahului:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Maui County.
+**Engineering Notice for Kahului:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maui County.
 
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Our service coordination centers on Kahului, HI coverage windows and verified intake details.
+Dual-water-meter setups in Kahului, HI irrigation zones need backflow logs before line replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Clear documentation helps align materials, labor, and timeline.
+Recirculation pump failures in Kahului, HI can mimic fixture-specific clogs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Kahului, HI basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 96733/96732 intake.
+Risk flag: In Kahului, HI, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 96733, 96732 (county grid: Maui County).
+Across Kahului, HI, main-line bellies can trap debris even when fixtures drain normally.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: Water heater anode type may change with Kahului, HI hardness profiles.
+
+Irrigation cross-connections in Kahului, HI can back-siphon domestic lines during main breaks.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Kahului, HI.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Basement floor drains in Kahului, HI should be snaked only after trap arm geometry is confirmed on camera.
+
+Drain map 950285: camera-pass priority and expansion-tank pre-charge noted for Kahului, HI postal sector 96732.
+
+Coordinate-anchored dispatch note: center reference 20.8700, -156.4600 at elevation ~46 ft aligns with Maui County intake staging.
 
 Service reference: HI-96732-12e43b3d

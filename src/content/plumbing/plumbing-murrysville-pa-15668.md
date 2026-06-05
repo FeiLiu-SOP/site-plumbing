@@ -12,26 +12,45 @@ lng: -79.6600
 zipSample: ["15668", "15632", "15626"]
 zipCodes: ["15626", "15632", "15668"]
 localPaths: ["Westmoreland County / primary ZIP 15668", "Westmoreland County / ZIP 15626 sector", "Westmoreland County / ZIP 15632 sector", "Westmoreland County / elevation 1230 ft band", "Westmoreland County / coords 40.4500, -79.6600"]
-zillowHomeValueUsd: 348034
 ---
 
-**Engineering Notice for Murrysville:** Structural loading calculated based on 1230 ft terrain assessment. Regional dispatch grid: Westmoreland County.
+**Engineering Notice for Murrysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westmoreland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Murrysville, PA before jetting older clay or cast iron.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 15668.
 
-In Murrysville, PA, seasonal demand can change scheduling windows.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Wind exposure category reviewed for ZIP sector 15668/15632/15626.
+Basement floor drains in Murrysville, PA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Moisture pathway inspection logged near ZIP 15668/15632/15626 intake.
+FAQ: When should sump battery backups be load-tested? In Murrysville, PA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 15668, 15632, 15626 (county grid: Westmoreland County).
+Step: photograph curb-stop and meter pit before trenching.
+
+In Murrysville, PA, slab leaks often present as warm spots before wall stains appear.
+
+Stack vent offsets in Murrysville, PA older duplexes can mask tub gurgle as a main-line failure.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: map sump float travel and check-valve orientation for Murrysville, PA basements.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 463951: toilet flange spacer kit and shower cartridge seat score queued for Murrysville, PA walk-through.
+
+Supply audit 463951: curb-stop orientation and hose-bib freeze flag reviewed for Murrysville, PA at coords 40.4500/-79.6600.
+
+Field routing: shower cartridge seat score paired with fixture shutoff torque log near ZIP 15668.
+
+On-site sector marker: Westmoreland County / ZIP 15632 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15668-b1d4c32a

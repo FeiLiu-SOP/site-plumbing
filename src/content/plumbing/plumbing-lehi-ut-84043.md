@@ -12,26 +12,41 @@ lng: -111.8700
 zipSample: ["84048", "84043"]
 zipCodes: ["84048", "84043"]
 localPaths: ["Utah County / primary ZIP 84043", "Utah County / coords 40.4100, -111.8700", "Utah County / ZIP 84043 sector", "Utah County / elevation 4557 ft band", "Utah County / ZIP 84048 sector"]
-zillowHomeValueUsd: 573588
 ---
 
-**Engineering Notice for Lehi:** Structural loading calculated based on 4557 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Lehi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Sump discharge freeze risk in Lehi, UT should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate local dispatch coverage around Lehi, UT and nearby ZIP sectors.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: confirm licensing and insurance before approving work.
+Hydro-jetting in Lehi, UT requires camera confirmation before nozzle pressure is raised.
 
-Field note: Moisture pathway inspection logged near ZIP 84048/84043 intake.
+Expansion tank pre-charge loss in Lehi, UT often tracks heater replacement deferrals.
 
-Field note: Connection points spot-checked where accessible (ZIP 84048/84043 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 84048, 84043 (county grid: Utah County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Frost-free sillcock failures in Lehi, UT often trace to interior shutoff seats, not exterior stems.
+
+Dispatch packets reference county grid Utah County near ZIP 84043.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Drain map 131995: camera-pass priority and expansion-tank pre-charge noted for Lehi, UT postal sector 84043.
+
+Regional mesh label Utah County: moisture and logistics baselines are keyed to Lehi, UT before niche-specific work begins.
 
 Service reference: UT-84043-b6f79bfd

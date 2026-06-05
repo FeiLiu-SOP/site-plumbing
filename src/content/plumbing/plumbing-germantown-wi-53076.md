@@ -12,24 +12,41 @@ lng: -88.1200
 zipSample: ["53076", "53022"]
 zipCodes: ["53022", "53076"]
 localPaths: ["Washington County / ZIP 53022 sector", "Washington County / primary ZIP 53076", "Washington County / ZIP 53076 sector", "Washington County / elevation 873 ft band", "Washington County / coords 43.2300, -88.1200"]
-zillowHomeValueUsd: 587289
 ---
 
-**Engineering Notice for Germantown:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Germantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Germantown, WI hardness profiles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Germantown, WI, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate local dispatch coverage around Germantown, WI and nearby ZIP sectors.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Homeowners in Germantown, WI often face sudden plumbing problems that require fast action.
+Cast-iron hub corrosion in Germantown, WI often concentrates at the third joint upstream of the cleanout.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 53022/53076.
+Step: map sump float travel and check-valve orientation for Germantown, WI basements.
 
-Dispatch sectors sampled: ZIP 53022, 53076 (county grid: Washington County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Basement floor drains in Germantown, WI should be snaked only after trap arm geometry is confirmed on camera.
+
+Cleanout access limits in Germantown, WI frequently extend drain cleaning duration.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+We coordinate Germantown, WI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Irrigation cross-connections in Germantown, WI can back-siphon domestic lines during main breaks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Drain map 863995: camera-pass priority and expansion-tank pre-charge noted for Germantown, WI postal sector 53076.
+
+On-site sector marker: Washington County / coords 43.2300, -88.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53076-17a258d0

@@ -12,27 +12,43 @@ lng: -122.2000
 zipSample: ["98011", "98041", "98021"]
 zipCodes: ["98011", "98041", "98021"]
 localPaths: ["King County / coords 47.7700, -122.2000", "King County / primary ZIP 98021", "King County / ZIP 98011 sector", "King County / ZIP 98041 sector", "King County / ZIP 98021 sector"]
-zillowHomeValueUsd: 1146101
 ---
 
-**Engineering Notice for Bothell:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Bothell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-In Bothell, WA, seasonal demand can change scheduling windows.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should sump battery backups be load-tested? In Bothell, WA, before spring thaw and hurricane remnants.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98021.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 98041/98011/98021 intake.
+Trenchless pulls in Bothell, WA require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 98041/98011/98021 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98021.
 
-Dispatch sectors sampled: ZIP 98041, 98011, 98021 (county grid: King County).
+Cleanout access limits in Bothell, WA frequently extend drain cleaning duration.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Sewer gas odors in Bothell, WA should trigger trap seal and vent path review.
+
+CPVC solvent weld times shift with ambient humidity during Bothell, WA shoulder seasons.
+
+We coordinate Bothell, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Drain map 716991: camera-pass priority and expansion-tank pre-charge noted for Bothell, WA postal sector 98021.
+
+Lineage note 716991: recirculation pump amp draw captured before Bothell, WA branch isolation.
+
+Field routing: branch wet vent geometry paired with sump float travel near ZIP 98021.
+
+Coordinate-anchored dispatch note: center reference 47.7700, -122.2000 at elevation ~302 ft aligns with King County intake staging.
 
 Service reference: WA-98021-9fbea19f

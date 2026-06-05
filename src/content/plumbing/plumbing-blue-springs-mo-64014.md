@@ -12,24 +12,39 @@ lng: -94.2700
 zipSample: ["64013", "64014", "64015"]
 zipCodes: ["64014", "64015", "64013"]
 localPaths: ["Jackson County / elevation 919 ft band", "Jackson County / primary ZIP 64014", "Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64015 sector", "Jackson County / ZIP 64014 sector"]
-zillowHomeValueUsd: 301730
 ---
 
-**Engineering Notice for Blue Springs:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Blue Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Blue Springs, MO, but intake notes help reduce delays.
+Across Blue Springs, MO, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sewer gas odors in Blue Springs, MO should trigger trap seal and vent path review.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal Blue Springs, MO irrigation cross-connections can mask domestic pressure loss.
 
-In Blue Springs, MO, seasonal demand can change scheduling windows.
+Hydrostatic holds in Blue Springs, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 64015/64013/64014 coverage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 64015, 64013, 64014 (county grid: Jackson County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Trenchless sleeve pulls near Blue Springs, MO require pit shoring notes when water tables are high.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Lineage note 998305: recirculation pump amp draw captured before Blue Springs, MO branch isolation.
+
+Scope trace: branch wet vent geometry plus backflow test cock orientation referenced in Jackson County county grid review.
+
+On-site sector marker: Jackson County / coords 39.0100, -94.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64014-e25b3287

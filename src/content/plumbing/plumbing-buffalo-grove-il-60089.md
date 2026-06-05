@@ -12,26 +12,37 @@ lng: -87.9600
 zipSample: ["60089"]
 zipCodes: ["60089"]
 localPaths: ["Lake County / coords 42.1700, -87.9600", "Lake County / primary ZIP 60089", "Lake County / elevation 689 ft band", "Lake County / ZIP 60089 sector"]
-zillowHomeValueUsd: 437943
 ---
 
-**Engineering Notice for Buffalo Grove:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Buffalo Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-In Buffalo Grove, IL, seasonal demand can change scheduling windows.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Homeowners in Buffalo Grove, IL often face sudden plumbing problems that require fast action.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate local dispatch coverage around Buffalo Grove, IL and nearby ZIP sectors.
+Polybutylene manifold tags in Buffalo Grove, IL basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60089.
+CPVC solvent weld times shift with ambient humidity during Buffalo Grove, IL shoulder seasons.
 
-Field note: Moisture pathway inspection logged near ZIP 60089 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 60089 (county grid: Lake County).
+Basement floor drains in Buffalo Grove, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Sump discharge freeze risk in Buffalo Grove, IL should be reviewed before spring thaw cycles.
+
+Risk flag: In Buffalo Grove, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Dual-water-meter setups in Buffalo Grove, IL irrigation zones need backflow logs before line replacement.
+
+Pressure trace 568121: meter-pit clearance and dielectric union checklist staged for Buffalo Grove, IL near elevation 689 ft.
+
+On-site sector marker: Lake County / primary ZIP 60089 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60089-aa986024

@@ -12,24 +12,43 @@ lng: -96.5500
 zipSample: ["75089", "75088", "75030"]
 zipCodes: ["75089", "75088", "75030"]
 localPaths: ["Dallas County / primary ZIP 75089", "Dallas County / coords 32.9200, -96.5500", "Dallas County / ZIP 75030 sector", "Dallas County / ZIP 75088 sector", "Dallas County / elevation 469 ft band"]
-zillowHomeValueUsd: 379437
 ---
 
-**Engineering Notice for Rowlett:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Rowlett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Rowlett, TX, before spring thaw and hurricane remnants.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Local conditions in Rowlett, TX can affect timelines and material choices.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rowlett, TX, but intake notes help reduce delays.
+Material note: Water heater anode type may change with Rowlett, TX hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 75089.
 
-Field note: Access points and staging constraints recorded for ZIP 75030/75089/75088 coverage.
+FAQ: When is cabling enough? In Rowlett, TX, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 75030, 75089, 75088 (county grid: Dallas County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Dispatch packets reference county grid Dallas County near ZIP 75089.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+CPVC solvent weld times shift with ambient humidity during Rowlett, TX shoulder seasons.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Fixture shutoff stiffness in Rowlett, TX may indicate mineral bridging behind stems.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Pressure trace 286490: meter-pit clearance and dielectric union checklist staged for Rowlett, TX near elevation 469 ft.
+
+Fixture roster 286490: toilet flange spacer kit and shower cartridge seat score queued for Rowlett, TX walk-through.
+
+Scope trace: water softener bypass lever plus floor drain trap primer drip referenced in Dallas County county grid review.
+
+Regional mesh label Dallas County: moisture and logistics baselines are keyed to Rowlett, TX before niche-specific work begins.
 
 Service reference: TX-75089-ee259e0f

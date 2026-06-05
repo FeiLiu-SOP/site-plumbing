@@ -12,26 +12,43 @@ lng: -81.5200
 zipSample: ["28645", "28633"]
 zipCodes: ["28645", "28633"]
 localPaths: ["Caldwell County / ZIP 28633 sector", "Caldwell County / primary ZIP 28645", "Caldwell County / coords 35.9100, -81.5200", "Caldwell County / ZIP 28645 sector", "Caldwell County / elevation 1168 ft band"]
-zillowHomeValueUsd: 219149
 ---
 
-**Engineering Notice for Lenoir:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Caldwell County.
+**Engineering Notice for Lenoir:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.
 
 
-In Lenoir, NC, seasonal demand can change scheduling windows.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lenoir, NC, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Galvanized segments in Lenoir, NC may restrict flow long before visible corrosion.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sewer gas odors in Lenoir, NC should trigger trap seal and vent path review.
 
-We coordinate local dispatch coverage around Lenoir, NC and nearby ZIP sectors.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28633/28645.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Access points and staging constraints recorded for ZIP 28633/28645 coverage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 28645.
 
-Dispatch sectors sampled: ZIP 28633, 28645 (county grid: Caldwell County).
+Cast-iron hub corrosion in Lenoir, NC often concentrates at the third joint upstream of the cleanout.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Basement floor drains in Lenoir, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+CPVC solvent weld times shift with ambient humidity during Lenoir, NC shoulder seasons.
+
+FAQ: When is cabling enough? In Lenoir, NC, pipe material and blockage type dictate method.
+
+Intake ledger 624390: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lenoir, NC at 35.9100, -81.5200.
+
+Supply audit 624390: curb-stop orientation and hose-bib freeze flag reviewed for Lenoir, NC at coords 35.9100/-81.5200.
+
+Primary postal anchor 28645 with multi-ZIP overlap in Lenoir; field packets tag Caldwell County for county-grid reconciliation.
 
 Service reference: NC-28645-4955ff89

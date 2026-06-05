@@ -12,24 +12,41 @@ lng: -77.2000
 zipSample: ["22042", "22003"]
 zipCodes: ["22042", "22003"]
 localPaths: ["Fairfax County / elevation 361 ft band", "Fairfax County / primary ZIP 22003", "Fairfax County / coords 38.8300, -77.2000", "Fairfax County / ZIP 22003 sector", "Fairfax County / ZIP 22042 sector"]
-zillowHomeValueUsd: 763751
 ---
 
-**Engineering Notice for Annandale:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Annandale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-We coordinate local dispatch coverage around Annandale, VA and nearby ZIP sectors.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Annandale, VA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Annandale, VA, but intake notes help reduce delays.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22003/22042.
+Fixture shutoff stiffness in Annandale, VA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 22003, 22042 (county grid: Fairfax County).
+Frost-free sillcock failures in Annandale, VA often trace to interior shutoff seats, not exterior stems.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 22003.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Basement floor drains in Annandale, VA should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Irrigation cross-connections in Annandale, VA can back-siphon domestic lines during main breaks.
+
+Trenchless sleeve pulls near Annandale, VA require pit shoring notes when water tables are high.
+
+Lineage note 283243: recirculation pump amp draw captured before Annandale, VA branch isolation.
+
+Intake ledger 283243: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Annandale, VA at 38.8300, -77.2000.
+
+On-site sector marker: Fairfax County / primary ZIP 22003 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22003-35cc1a2b

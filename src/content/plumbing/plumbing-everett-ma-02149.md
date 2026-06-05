@@ -12,24 +12,37 @@ lng: -71.0500
 zipSample: ["02149"]
 zipCodes: ["02149"]
 localPaths: ["Middlesex County / ZIP 02149 sector", "Middlesex County / coords 42.4100, -71.0500", "Middlesex County / primary ZIP 02149", "Middlesex County / elevation 49 ft band"]
-zillowHomeValueUsd: 639350
 ---
 
-**Engineering Notice for Everett:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Everett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: avoid large upfront payments without milestones.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 02149.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Everett, MA should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02149.
+Dual-water-meter setups in Everett, MA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 02149 (county grid: Middlesex County).
+FAQ: Is hydro-jetting always appropriate? In Everett, MA, pipe material and blockage type dictate method.
+
+Dispatch packets reference county grid Middlesex County near ZIP 02149.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: In Everett, MA, slab leaks can misroute as foundation issues without listening equipment.
+
+Trenchless pulls in Everett, MA require pit dimensions verified against utility locate marks.
+
+Branch wet vents in Everett, MA can mask gurgling as a main-line issue.
+
+Drain map 590622: camera-pass priority and expansion-tank pre-charge noted for Everett, MA postal sector 02149.
+
+Primary postal anchor 02149 with multi-ZIP overlap in Everett; field packets tag Middlesex County for county-grid reconciliation.
 
 Service reference: MA-02149-9d40b01e

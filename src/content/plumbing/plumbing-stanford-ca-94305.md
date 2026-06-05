@@ -12,24 +12,39 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94305", "94304"]
 localPaths: ["Santa Clara County / ZIP 94309 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / ZIP 94305 sector"]
-zillowHomeValueUsd: 3346455
 ---
 
-**Engineering Notice for Stanford:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Stanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-In Stanford, CA, seasonal demand can change scheduling windows.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 94305.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-A written scope helps prevent rework and mismatched expectations.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Stanford, CA basements should be photographed before any wall chase opens.
 
-We coordinate local dispatch coverage around Stanford, CA and nearby ZIP sectors.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 94304/94305/94309 zone).
+Hydrostatic holds in Stanford, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 94304, 94305, 94309 (county grid: Santa Clara County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Permit note: Main water line replacement in Stanford, CA may require ROW restoration planning.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stanford, CA systems need rebalancing.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Drain map 375698: camera-pass priority and expansion-tank pre-charge noted for Stanford, CA postal sector 94305.
+
+On-site sector marker: Santa Clara County / primary ZIP 94305 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94305-3d73aff9

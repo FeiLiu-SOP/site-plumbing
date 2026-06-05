@@ -12,24 +12,43 @@ lng: -117.8100
 zipSample: ["92781", "92623", "92782", "92780"]
 zipCodes: ["92782", "92781", "92780", "92623"]
 localPaths: ["Orange County / coords 33.7300, -117.8100", "Orange County / primary ZIP 92780", "Orange County / elevation 105 ft band", "Orange County / ZIP 92782 sector", "Orange County / ZIP 92780 sector"]
-zillowHomeValueUsd: 1138548
 ---
 
-**Engineering Notice for Tustin:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Tustin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Cleanout access limits in Tustin, CA frequently extend drain cleaning duration.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tustin, CA, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Tustin, CA, before spring thaw and hurricane remnants.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in Tustin, CA accelerates scale on PRV seats and heater elements.
 
-Tip: request a written scope before work starts.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate local dispatch coverage around Tustin, CA and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Wind exposure category reviewed for ZIP sector 92781/92780/92623.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 92781, 92780, 92623, 92782 (county grid: Orange County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Tustin, CA.
+
+Basement floor drains in Tustin, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Stack vent offsets in Tustin, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Irrigation cross-connections in Tustin, CA can back-siphon domestic lines during main breaks.
+
+Polybutylene manifold tags in Tustin, CA basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Dual-water-meter setups in Tustin, CA irrigation zones need backflow logs before line replacement.
+
+Supply audit 959343: curb-stop orientation and hose-bib freeze flag reviewed for Tustin, CA at coords 33.7300/-117.8100.
+
+Intake ledger 959343: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Tustin, CA at 33.7300, -117.8100.
+
+Scope trace: gas water heater draft hood gap plus slab leak listening window referenced in Orange County county grid review.
+
+On-site sector marker: Orange County / ZIP 92623 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92780-960dd662

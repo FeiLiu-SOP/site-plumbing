@@ -12,26 +12,41 @@ lng: -71.1500
 zipSample: ["01815", "01801", "01888"]
 zipCodes: ["01815", "01888", "01801"]
 localPaths: ["Middlesex County / coords 42.4900, -71.1500", "Middlesex County / primary ZIP 01801", "Middlesex County / ZIP 01888 sector", "Middlesex County / ZIP 01815 sector", "Middlesex County / ZIP 01801 sector"]
-zillowHomeValueUsd: 758841
 ---
 
-**Engineering Notice for Woburn:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Woburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Cleanout access limits in Woburn, MA frequently extend drain cleaning duration.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Woburn, MA require pit dimensions verified against utility locate marks.
 
-We coordinate local dispatch coverage around Woburn, MA and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Woburn, MA, before spring thaw and hurricane remnants.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Woburn, MA, but intake notes help reduce delays.
+Recirculation pump failures in Woburn, MA can mimic fixture-specific clogs.
 
-Field note: Connection points spot-checked where accessible (ZIP 01888/01801/01815 zone).
+Water heater T&P discharge paths in Woburn, MA must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 01888/01801/01815.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 01888, 01801, 01815 (county grid: Middlesex County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Seasonal Woburn, MA irrigation cross-connections can mask domestic pressure loss.
+
+CPVC solvent weld times shift with ambient humidity during Woburn, MA shoulder seasons.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Flow dossier 962852: branch wet-vent geometry and jetting nozzle envelope logged for Woburn, MA county grid Middlesex County (ZIP 01801).
+
+Pressure trace 962852: meter-pit clearance and dielectric union checklist staged for Woburn, MA near elevation 121 ft.
+
+Coordinate-anchored dispatch note: center reference 42.4900, -71.1500 at elevation ~121 ft aligns with Middlesex County intake staging.
 
 Service reference: MA-01801-af11dc45

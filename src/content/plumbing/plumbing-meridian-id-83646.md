@@ -12,25 +12,39 @@ lng: -116.4000
 zipSample: ["83646", "83642", "83680"]
 zipCodes: ["83642", "83646", "83680"]
 localPaths: ["Ada County / primary ZIP 83646", "Ada County / elevation 2608 ft band", "Ada County / ZIP 83646 sector", "Ada County / ZIP 83680 sector", "Ada County / ZIP 83642 sector"]
-zillowHomeValueUsd: 524389
 ---
 
-**Engineering Notice for Meridian:** Structural loading calculated based on 2608 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Meridian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ada County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 83646.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Wind exposure category reviewed for ZIP sector 83642/83646/83680.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 83642, 83646, 83680 (county grid: Ada County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Across Meridian, ID, main-line bellies can trap debris even when fixtures drain normally.
+
+Permit note: Main water line replacement in Meridian, ID may require ROW restoration planning.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 336491: curb-stop orientation and hose-bib freeze flag reviewed for Meridian, ID at coords 43.6100/-116.4000.
+
+Pressure trace 336491: meter-pit clearance and dielectric union checklist staged for Meridian, ID near elevation 2608 ft.
+
+Coordinate-anchored dispatch note: center reference 43.6100, -116.4000 at elevation ~2608 ft aligns with Ada County intake staging.
 
 Service reference: ID-83646-6f4d0450

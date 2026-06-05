@@ -12,26 +12,41 @@ lng: -122.9000
 zipSample: ["98502", "98508", "98501", "98506", "98507"]
 zipCodes: ["98508", "98506", "98507", "98501", "98504", "98502"]
 localPaths: ["Thurston County / ZIP 98502 sector", "Thurston County / ZIP 98506 sector", "Thurston County / ZIP 98507 sector", "Thurston County / primary ZIP 98502", "Thurston County / elevation 30 ft band"]
-zillowHomeValueUsd: 574234
 ---
 
-**Engineering Notice for Olympia:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Olympia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Thurston County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Olympia, WA.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Olympia, WA, but intake notes help reduce delays.
+Recirculation pump failures in Olympia, WA can mimic fixture-specific clogs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log PRV inlet and outlet readings during intake.
 
-Our service coordination centers on Olympia, WA coverage windows and verified intake details.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 98502/98504/98501 coverage.
+Polybutylene manifold tags in Olympia, WA basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 98502/98504/98501 intake.
+Across Olympia, WA, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 98502, 98504, 98501, 98508, 98506 (county grid: Thurston County).
+Risk flag: In Olympia, WA, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hydro-jetting in Olympia, WA requires camera confirmation before nozzle pressure is raised.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Seasonal Olympia, WA irrigation cross-connections can mask domestic pressure loss.
+
+Trenchless sleeve pulls near Olympia, WA require pit shoring notes when water tables are high.
+
+Intake ledger 931649: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Olympia, WA at 47.0400, -122.9000.
+
+Lineage note 931649: recirculation pump amp draw captured before Olympia, WA branch isolation.
+
+Coordinate-anchored dispatch note: center reference 47.0400, -122.9000 at elevation ~30 ft aligns with Thurston County intake staging.
 
 Service reference: WA-98502-d6e56dbb

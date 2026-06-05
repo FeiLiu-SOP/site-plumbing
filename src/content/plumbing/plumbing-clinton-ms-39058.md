@@ -12,24 +12,41 @@ lng: -90.3400
 zipSample: ["39058", "39056"]
 zipCodes: ["39056", "39058"]
 localPaths: ["Hinds County / ZIP 39058 sector", "Hinds County / primary ZIP 39058", "Hinds County / ZIP 39056 sector", "Hinds County / coords 32.3500, -90.3400", "Hinds County / elevation 348 ft band"]
-zillowHomeValueUsd: 237848
 ---
 
-**Engineering Notice for Clinton:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Hinds County.
+**Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hinds County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 39058.
 
-In Clinton, MS, urgent plumbing issues can escalate quickly.
+Stack vent offsets in Clinton, MS older duplexes can mask tub gurgle as a main-line failure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in Clinton, MS often tracks heater replacement deferrals.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Clinton, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Moisture pathway inspection logged near ZIP 39058/39056 intake.
+Across Clinton, MS, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 39058, 39056 (county grid: Hinds County).
+Sump discharge freeze risk in Clinton, MS should be reviewed before spring thaw cycles.
+
+Hydrostatic holds in Clinton, MS slab circuits run overnight when listening mics show ambiguous hits.
+
+Fixture shutoff stiffness in Clinton, MS may indicate mineral bridging behind stems.
+
+Dispatch packets reference county grid Hinds County near ZIP 39058.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Drain map 865648: camera-pass priority and expansion-tank pre-charge noted for Clinton, MS postal sector 39058.
+
+Intake ledger 865648: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Clinton, MS at 32.3500, -90.3400.
+
+Field routing: shower cartridge seat score paired with gas water heater draft hood gap near ZIP 39058.
+
+On-site sector marker: Hinds County / coords 32.3500, -90.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39058-8397b094

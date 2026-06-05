@@ -12,26 +12,39 @@ lng: -77.2000
 zipSample: ["20872", "20882"]
 zipCodes: ["20882", "20872"]
 localPaths: ["Montgomery County / ZIP 20872 sector", "Montgomery County / elevation 699 ft band", "Montgomery County / ZIP 20882 sector", "Montgomery County / coords 39.2700, -77.2000", "Montgomery County / primary ZIP 20872"]
-zillowHomeValueUsd: 550642
 ---
 
-**Engineering Notice for Damascus:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Damascus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: confirm licensing and insurance before approving work.
+Galvanized segments in Damascus, MD may restrict flow long before visible corrosion.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 20872.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Access points and staging constraints recorded for ZIP 20882/20872 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Moisture pathway inspection logged near ZIP 20882/20872 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 20882, 20872 (county grid: Montgomery County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Step: camera-pass main lines in Damascus, MD before jetting older clay or cast iron.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: map sump float travel and check-valve orientation for Damascus, MD basements.
+
+Pressure trace 370652: meter-pit clearance and dielectric union checklist staged for Damascus, MD near elevation 699 ft.
+
+Fixture roster 370652: toilet flange spacer kit and shower cartridge seat score queued for Damascus, MD walk-through.
+
+On-site sector marker: Montgomery County / primary ZIP 20872 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20872-24bb0f90

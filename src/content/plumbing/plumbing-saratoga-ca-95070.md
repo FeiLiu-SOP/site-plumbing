@@ -12,27 +12,41 @@ lng: -122.0300
 zipSample: ["95071", "95070"]
 zipCodes: ["95071", "95070"]
 localPaths: ["Santa Clara County / ZIP 95070 sector", "Santa Clara County / elevation 417 ft band", "Santa Clara County / ZIP 95071 sector", "Santa Clara County / coords 37.2700, -122.0300", "Santa Clara County / primary ZIP 95070"]
-zillowHomeValueUsd: 4178205
 ---
 
-**Engineering Notice for Saratoga:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Saratoga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Saratoga, CA, but intake notes help reduce delays.
+Risk flag: Seasonal Saratoga, CA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cast-iron hub corrosion in Saratoga, CA often concentrates at the third joint upstream of the cleanout.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95070.
+Step: log PRV inlet and outlet readings during intake.
 
-Our service coordination centers on Saratoga, CA coverage windows and verified intake details.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: request a written scope before work starts.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Moisture pathway inspection logged near ZIP 95070/95071 intake.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 95070/95071 coverage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 95070.
 
-Dispatch sectors sampled: ZIP 95070, 95071 (county grid: Santa Clara County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Dispatch packets reference county grid Santa Clara County near ZIP 95070.
+
+Permit note: Main water line replacement in Saratoga, CA may require ROW restoration planning.
+
+Sump discharge freeze risk in Saratoga, CA should be reviewed before spring thaw cycles.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Lineage note 168595: recirculation pump amp draw captured before Saratoga, CA branch isolation.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Santa Clara County and primary ZIP 95070. Terrain reference: 417 ft. Center point: 37.2700, -122.0300. ZIP sample: 95071, 95070. Regional routing note: Santa Clara County traffic flow is balanced around ZIP 95070 service demand.
 
 Service reference: CA-95070-0907500e

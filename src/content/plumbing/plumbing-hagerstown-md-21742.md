@@ -12,26 +12,41 @@ lng: -77.7200
 zipSample: ["21740", "21742", "21741", "21749", "21747"]
 zipCodes: ["21741", "21747", "21740", "21742", "21749"]
 localPaths: ["Washington County / coords 39.6400, -77.7200", "Washington County / ZIP 21741 sector", "Washington County / ZIP 21740 sector", "Washington County / ZIP 21749 sector", "Washington County / ZIP 21747 sector"]
-zillowHomeValueUsd: 346225
 ---
 
-**Engineering Notice for Hagerstown:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hagerstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in Hagerstown, MD require pit dimensions verified against utility locate marks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hagerstown, MD, but intake notes help reduce delays.
+Sewer gas odors in Hagerstown, MD should trigger trap seal and vent path review.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Water heater T&P discharge paths in Hagerstown, MD must terminate safely before replacement quotes.
 
-Field note: Access points and staging constraints recorded for ZIP 21747/21749/21742 coverage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hagerstown, MD systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21747/21749/21742.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 21747, 21749, 21742, 21741, 21740 (county grid: Washington County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dual-water-meter setups in Hagerstown, MD irrigation zones need backflow logs before line replacement.
+
+Polybutylene manifold tags in Hagerstown, MD basements should be photographed before any wall chase opens.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 288640: meter-pit clearance and dielectric union checklist staged for Hagerstown, MD near elevation 561 ft.
+
+Lineage note 288640: recirculation pump amp draw captured before Hagerstown, MD branch isolation.
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Hagerstown, MD before niche-specific work begins.
 
 Service reference: MD-21742-3de7c10c

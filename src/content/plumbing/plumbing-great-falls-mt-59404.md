@@ -12,25 +12,39 @@ lng: -111.3000
 zipSample: ["59401", "59406", "59405", "59404"]
 zipCodes: ["59406", "59404", "59401", "59405"]
 localPaths: ["Cascade County / primary ZIP 59404", "Cascade County / ZIP 59404 sector", "Cascade County / elevation 3327 ft band", "Cascade County / ZIP 59401 sector", "Cascade County / ZIP 59406 sector"]
-zillowHomeValueUsd: 386899
 ---
 
-**Engineering Notice for Great Falls:** Structural loading calculated based on 3327 ft terrain assessment. Regional dispatch grid: Cascade County.
+**Engineering Notice for Great Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cascade County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydro-jetting in Great Falls, MT requires camera confirmation before nozzle pressure is raised.
 
-Tip: request a written scope before work starts.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Great Falls, MT systems need rebalancing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 59404.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 59401/59404/59405 zone).
+Risk flag: In Great Falls, MT, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 59401, 59404, 59405, 59406 (county grid: Cascade County).
+Cast-iron hub corrosion in Great Falls, MT often concentrates at the third joint upstream of the cleanout.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Basement floor drains in Great Falls, MT should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 59404.
+
+Fixture roster 177256: toilet flange spacer kit and shower cartridge seat score queued for Great Falls, MT walk-through.
+
+Field routing: cleanout riser height paired with PRV outlet curve near ZIP 59404.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~3327 ft across the Cascade County area. Coordinates: 47.5000, -111.3000. ZIP sample: 59405, 59406, 59404, 59401. Logistics priority: Serving residential sectors across Cascade County and north-east ZIP 59404 grid.
 
 Service reference: MT-59404-197168fb

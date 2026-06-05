@@ -12,28 +12,39 @@ lng: -97.6100
 zipSample: ["67401", "67402"]
 zipCodes: ["67402", "67401"]
 localPaths: ["Saline County / primary ZIP 67401", "Saline County / ZIP 67402 sector", "Saline County / coords 38.8100, -97.6100", "Saline County / elevation 1250 ft band", "Saline County / ZIP 67401 sector"]
-zillowHomeValueUsd: 172810
 ---
 
-**Engineering Notice for Salina:** Structural loading calculated based on 1250 ft terrain assessment. Regional dispatch grid: Saline County.
+**Engineering Notice for Salina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Saline County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 67401.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 67401.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 67401.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: request a written scope before work starts.
+Cast-iron hub corrosion in Salina, KS often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67401/67402.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Moisture pathway inspection logged near ZIP 67401/67402 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 67401, 67402 (county grid: Saline County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Basement floor drains in Salina, KS should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Trenchless pulls in Salina, KS require pit dimensions verified against utility locate marks.
+
+Hydro-jetting in Salina, KS requires camera confirmation before nozzle pressure is raised.
+
+Flow dossier 933288: branch wet-vent geometry and jetting nozzle envelope logged for Salina, KS county grid Saline County (ZIP 67401).
+
+On-site sector marker: Saline County / primary ZIP 67401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67401-13620582

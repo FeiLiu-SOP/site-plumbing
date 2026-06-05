@@ -12,26 +12,43 @@ lng: -93.1400
 zipSample: ["72802", "72811", "72801"]
 zipCodes: ["72802", "72811", "72801"]
 localPaths: ["Pope County / ZIP 72801 sector", "Pope County / primary ZIP 72802", "Pope County / ZIP 72802 sector", "Pope County / elevation 381 ft band", "Pope County / coords 35.2800, -93.1400"]
-zillowHomeValueUsd: 241295
 ---
 
-**Engineering Notice for Russellville:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Pope County.
+**Engineering Notice for Russellville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pope County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Water heater T&P discharge paths in Russellville, AR must terminate safely before replacement quotes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: request a written scope before work starts.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 72802.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map sump float travel and check-valve orientation for Russellville, AR basements.
 
-Field note: Access points and staging constraints recorded for ZIP 72802/72801/72811 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72802/72801/72811.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 72802.
 
-Dispatch sectors sampled: ZIP 72802, 72801, 72811 (county grid: Pope County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Trenchless sleeve pulls near Russellville, AR require pit shoring notes when water tables are high.
+
+Hard water in Russellville, AR accelerates scale on PRV seats and heater elements.
+
+Branch wet vents in Russellville, AR can mask gurgling as a main-line issue.
+
+Basement floor drains in Russellville, AR should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: camera-pass main lines in Russellville, AR before jetting older clay or cast iron.
+
+Pressure trace 581673: meter-pit clearance and dielectric union checklist staged for Russellville, AR near elevation 381 ft.
+
+Lineage note 581673: recirculation pump amp draw captured before Russellville, AR branch isolation.
+
+Regional mesh label Pope County: moisture and logistics baselines are keyed to Russellville, AR before niche-specific work begins.
 
 Service reference: AR-72802-6d8ddb06

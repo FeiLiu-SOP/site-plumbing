@@ -12,24 +12,41 @@ lng: -74.5000
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5100, -74.5000", "Somerset County / elevation 118 ft band", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector"]
-zillowHomeValueUsd: 567093
 ---
 
-**Engineering Notice for Somerset:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Somerset County.
+**Engineering Notice for Somerset:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Somerset County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hose bib split patterns in Somerset, NJ often follow missed winterization.
 
-Our service coordination centers on Somerset, NJ coverage windows and verified intake details.
+Hydrostatic holds in Somerset, NJ slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Somerset, NJ, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-In Somerset, NJ, urgent plumbing issues can escalate quickly.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 08873.
+Frost-free sillcock failures in Somerset, NJ often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 08873 (county grid: Somerset County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: When should sump battery backups be load-tested? In Somerset, NJ, before spring thaw and hurricane remnants.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture shutoff stiffness in Somerset, NJ may indicate mineral bridging behind stems.
+
+Step: camera-pass main lines in Somerset, NJ before jetting older clay or cast iron.
+
+Intake ledger 858115: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Somerset, NJ at 40.5100, -74.5000.
+
+plumbing brief: thermal expansion loop check and PEX expansion ring batch were cross-checked for the Somerset intake packet.
+
+On-site sector marker: Somerset County / ZIP 08873 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08873-b4bc16db

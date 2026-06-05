@@ -12,26 +12,41 @@ lng: -94.3000
 zipSample: ["72713", "72719"]
 zipCodes: ["72719", "72713"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / coords 36.3600, -94.3000", "Benton County / primary ZIP 72713", "Benton County / ZIP 72713 sector"]
-zillowHomeValueUsd: 454889
 ---
 
-**Engineering Notice for Centerton:** Structural loading calculated based on 1309 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Centerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Centerton, AR irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Centerton, AR, before spring thaw and hurricane remnants.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Hydro-jetting in Centerton, AR requires camera confirmation before nozzle pressure is raised.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72719/72713.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 72719/72713 intake.
+Branch wet vents in Centerton, AR can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 72719, 72713 (county grid: Benton County).
+Cast-iron hub corrosion in Centerton, AR often concentrates at the third joint upstream of the cleanout.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Flow dossier 733358: branch wet-vent geometry and jetting nozzle envelope logged for Centerton, AR county grid Benton County (ZIP 72713).
+
+Pressure trace 733358: meter-pit clearance and dielectric union checklist staged for Centerton, AR near elevation 1309 ft.
+
+Scope trace: slab penetration sleeve seal plus meter pit clearance referenced in Benton County county grid review.
+
+On-site sector marker: Benton County / ZIP 72713 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72713-b44edb29

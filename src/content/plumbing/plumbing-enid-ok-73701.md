@@ -12,27 +12,43 @@ lng: -97.8700
 zipSample: ["73706", "73701", "73702", "73703", "73705"]
 zipCodes: ["73706", "73705", "73701", "73702", "73703"]
 localPaths: ["Garfield County / elevation 1276 ft band", "Garfield County / coords 36.4100, -97.8700", "Garfield County / ZIP 73702 sector", "Garfield County / ZIP 73703 sector", "Garfield County / ZIP 73705 sector"]
-zillowHomeValueUsd: 78555
 ---
 
-**Engineering Notice for Enid:** Structural loading calculated based on 1276 ft terrain assessment. Regional dispatch grid: Garfield County.
+**Engineering Notice for Enid:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Garfield County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Enid, OK shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 73701.
+In Enid, OK, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Connection points spot-checked where accessible (ZIP 73702/73703/73706 zone).
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 73702/73703/73706.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 73702, 73703, 73706, 73705, 73701 (county grid: Garfield County).
+Water heater T&P discharge paths in Enid, OK must terminate safely before replacement quotes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Enid, OK systems need rebalancing.
+
+Cleanout access limits in Enid, OK frequently extend drain cleaning duration.
+
+Fixture shutoff stiffness in Enid, OK may indicate mineral bridging behind stems.
+
+Lineage note 810966: recirculation pump amp draw captured before Enid, OK branch isolation.
+
+Drain map 810966: camera-pass priority and expansion-tank pre-charge noted for Enid, OK postal sector 73701.
+
+Field routing: water heater T&P path paired with cleanout riser height near ZIP 73701.
+
+On-site sector marker: Garfield County / primary ZIP 73701 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73701-d413bea2

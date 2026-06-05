@@ -12,26 +12,39 @@ lng: -121.7800
 zipSample: ["97603", "97601"]
 zipCodes: ["97601", "97603"]
 localPaths: ["Klamath County / ZIP 97601 sector", "Klamath County / primary ZIP 97603", "Klamath County / coords 42.2200, -121.7800", "Klamath County / ZIP 97603 sector", "Klamath County / elevation 4091 ft band"]
-zillowHomeValueUsd: 325544
 ---
 
-**Engineering Notice for Klamath Falls:** Structural loading calculated based on 4091 ft terrain assessment. Regional dispatch grid: Klamath County.
+**Engineering Notice for Klamath Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Klamath County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Klamath Falls, OR, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Transparent pricing helps you compare like-for-like scope items.
+Expansion tank pre-charge loss in Klamath Falls, OR often tracks heater replacement deferrals.
 
-Tip: compare at least two estimates for scope and timeline.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 97601/97603.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97603.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97601/97603.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 97601, 97603 (county grid: Klamath County).
+Step: map sump float travel and check-valve orientation for Klamath Falls, OR basements.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Irrigation cross-connections in Klamath Falls, OR can back-siphon domestic lines during main breaks.
+
+Stack vent offsets in Klamath Falls, OR older duplexes can mask tub gurgle as a main-line failure.
+
+Basement floor drains in Klamath Falls, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Flow dossier 386156: branch wet-vent geometry and jetting nozzle envelope logged for Klamath Falls, OR county grid Klamath County (ZIP 97603).
+
+On-site sector marker: Klamath County / ZIP 97603 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97603-63ce3415

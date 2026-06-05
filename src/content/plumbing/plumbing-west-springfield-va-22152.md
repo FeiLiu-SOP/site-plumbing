@@ -12,27 +12,39 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / ZIP 22152 sector", "Fairfax County / elevation 295 ft band", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / primary ZIP 22152"]
-zillowHomeValueUsd: 697888
 ---
 
-**Engineering Notice for West Springfield:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for West Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Dual-water-meter setups in West Springfield, VA irrigation zones need backflow logs before line replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22152.
+Cleanout access limits in West Springfield, VA frequently extend drain cleaning duration.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Main water line replacement in West Springfield, VA may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 22152.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Connection points spot-checked where accessible (ZIP 22152 zone).
+Sewer gas odors in West Springfield, VA should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 22152 (county grid: Fairfax County).
+Trenchless pulls in West Springfield, VA require pit dimensions verified against utility locate marks.
+
+Risk flag: In West Springfield, VA, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+CPVC solvent weld times shift with ambient humidity during West Springfield, VA shoulder seasons.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Fixture roster 785158: toilet flange spacer kit and shower cartridge seat score queued for West Springfield, VA walk-through.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to West Springfield, VA before niche-specific work begins.
 
 Service reference: VA-22152-348a28ce

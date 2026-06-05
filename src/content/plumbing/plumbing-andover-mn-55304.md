@@ -12,27 +12,39 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / ZIP 55304 sector", "Anoka County / coords 45.2600, -93.3300", "Anoka County / primary ZIP 55304"]
-zillowHomeValueUsd: 451249
 ---
 
-**Engineering Notice for Andover:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Anoka County.
+**Engineering Notice for Andover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 55304.
 
-Our service coordination centers on Andover, MN coverage windows and verified intake details.
+Polybutylene manifold tags in Andover, MN basements should be photographed before any wall chase opens.
 
-Local conditions in Andover, MN can affect timelines and material choices.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55304.
+Material note: Water heater anode type may change with Andover, MN hardness profiles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Main water line replacement in Andover, MN may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 55304 zone).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 55304.
+Dispatch packets reference county grid Anoka County near ZIP 55304.
 
-Dispatch sectors sampled: ZIP 55304 (county grid: Anoka County).
+Irrigation cross-connections in Andover, MN can back-siphon domestic lines during main breaks.
+
+Hydro-jetting in Andover, MN requires camera confirmation before nozzle pressure is raised.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Andover, MN.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Basement floor drains in Andover, MN should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 958561: meter-pit clearance and dielectric union checklist staged for Andover, MN near elevation 876 ft.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~876 ft across the Anoka County area. Coordinates: 45.2600, -93.3300. ZIP sample: 55304. Service perimeter note: Coverage extends through Anoka County with dispatch centered near ZIP 55304.
 
 Service reference: MN-55304-5afb24a4

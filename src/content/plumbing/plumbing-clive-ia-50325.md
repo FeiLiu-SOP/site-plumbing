@@ -12,26 +12,37 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / elevation 883 ft band", "Polk County / primary ZIP 50325", "Polk County / ZIP 50325 sector", "Polk County / coords 41.6100, -93.8000"]
-zillowHomeValueUsd: 428778
 ---
 
-**Engineering Notice for Clive:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Clive:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Homeowners in Clive, IA often face sudden plumbing problems that require fast action.
+Trenchless pulls in Clive, IA require pit dimensions verified against utility locate marks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50325.
+Trenchless sleeve pulls near Clive, IA require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 50325 coverage.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 50325 (county grid: Polk County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Basement floor drains in Clive, IA should be snaked only after trap arm geometry is confirmed on camera.
+
+Frost-free sillcock failures in Clive, IA often trace to interior shutoff seats, not exterior stems.
+
+Material note: Water heater anode type may change with Clive, IA hardness profiles.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Flow dossier 875375: branch wet-vent geometry and jetting nozzle envelope logged for Clive, IA county grid Polk County (ZIP 50325).
+
+Coordinate-anchored dispatch note: center reference 41.6100, -93.8000 at elevation ~883 ft aligns with Polk County intake staging.
 
 Service reference: IA-50325-d421dd68

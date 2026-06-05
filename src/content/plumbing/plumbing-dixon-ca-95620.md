@@ -12,26 +12,41 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / ZIP 95620 sector", "Solano County / primary ZIP 95620", "Solano County / coords 38.4500, -121.8300", "Solano County / elevation 66 ft band"]
-zillowHomeValueUsd: 606796
 ---
 
-**Engineering Notice for Dixon:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
+**Engineering Notice for Dixon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Expansion tank pre-charge loss in Dixon, CA often tracks heater replacement deferrals.
 
-We coordinate local dispatch coverage around Dixon, CA and nearby ZIP sectors.
+Irrigation cross-connections in Dixon, CA can back-siphon domestic lines during main breaks.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Dixon, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95620.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Dixon, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Connection points spot-checked where accessible (ZIP 95620 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Wind exposure category reviewed for ZIP sector 95620.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 95620 (county grid: Solano County).
+Frost-free sillcock failures in Dixon, CA often trace to interior shutoff seats, not exterior stems.
+
+Basement floor drains in Dixon, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Dixon, CA.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Pressure trace 696372: meter-pit clearance and dielectric union checklist staged for Dixon, CA near elevation 66 ft.
+
+Lineage note 696372: recirculation pump amp draw captured before Dixon, CA branch isolation.
+
+On-site sector marker: Solano County / ZIP 95620 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95620-f0e099be

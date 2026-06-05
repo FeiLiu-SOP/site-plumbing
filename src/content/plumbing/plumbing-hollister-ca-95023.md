@@ -12,27 +12,43 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95024", "95023"]
 localPaths: ["San Benito County / ZIP 95024 sector", "San Benito County / ZIP 95023 sector", "San Benito County / elevation 282 ft band", "San Benito County / coords 36.8600, -121.4000", "San Benito County / primary ZIP 95023"]
-zillowHomeValueUsd: 763156
 ---
 
-**Engineering Notice for Hollister:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: San Benito County.
+**Engineering Notice for Hollister:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Benito County.
 
 
-Local conditions in Hollister, CA can affect timelines and material choices.
+Step: camera-pass main lines in Hollister, CA before jetting older clay or cast iron.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is hydro-jetting always appropriate? In Hollister, CA, pipe material and blockage type dictate method.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hollister, CA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Hollister, CA and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 95023.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 95023.
 
-Field note: Moisture pathway inspection logged near ZIP 95024/95023 intake.
+Trenchless sleeve pulls near Hollister, CA require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95024/95023.
+Trenchless pulls in Hollister, CA require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 95024, 95023 (county grid: San Benito County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Branch wet vents in Hollister, CA can mask gurgling as a main-line issue.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Dispatch packets reference county grid San Benito County near ZIP 95023.
+
+Permit note: Main water line replacement in Hollister, CA may require ROW restoration planning.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Drain map 189026: camera-pass priority and expansion-tank pre-charge noted for Hollister, CA postal sector 95023.
+
+plumbing brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the Hollister intake packet.
+
+On-site sector marker: San Benito County / ZIP 95024 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95023-9c881340

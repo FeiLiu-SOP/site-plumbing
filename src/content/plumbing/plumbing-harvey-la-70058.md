@@ -12,27 +12,41 @@ lng: -90.0700
 zipSample: ["70059", "70060", "70058"]
 zipCodes: ["70058", "70059", "70060"]
 localPaths: ["Jefferson Parish / ZIP 70058 sector", "Jefferson Parish / primary ZIP 70058", "Jefferson Parish / coords 29.8900, -90.0700", "Jefferson Parish / ZIP 70059 sector", "Jefferson Parish / ZIP 70060 sector"]
-zillowHomeValueUsd: 229262
 ---
 
-**Engineering Notice for Harvey:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Harvey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
 
 
-Our service coordination centers on Harvey, LA coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Harvey, LA systems need rebalancing.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 70058.
+Fixture shutoff stiffness in Harvey, LA may indicate mineral bridging behind stems.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hydrostatic holds in Harvey, LA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Wind exposure category reviewed for ZIP sector 70059/70060/70058.
+Basement floor drains in Harvey, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70059/70060/70058.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 70058.
 
-Dispatch sectors sampled: ZIP 70059, 70060, 70058 (county grid: Jefferson Parish).
+Frost-free sillcock failures in Harvey, LA often trace to interior shutoff seats, not exterior stems.
+
+Recirculation pump failures in Harvey, LA can mimic fixture-specific clogs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Hose bib split patterns in Harvey, LA often follow missed winterization.
+
+Hydro-jetting in Harvey, LA requires camera confirmation before nozzle pressure is raised.
+
+Supply audit 132902: curb-stop orientation and hose-bib freeze flag reviewed for Harvey, LA at coords 29.8900/-90.0700.
+
+plumbing brief: scale coupon sampling and hose bib freeze flag were cross-checked for the Harvey intake packet.
+
+Primary postal anchor 70058 with multi-ZIP overlap in Harvey; field packets tag Jefferson Parish for county-grid reconciliation.
 
 Service reference: LA-70058-0fbbfe41

@@ -12,24 +12,45 @@ lng: -76.5000
 zipSample: ["21411", "21401", "21404", "21403"]
 zipCodes: ["21401", "21411", "21404", "21403"]
 localPaths: ["Anne Arundel County / elevation 20 ft band", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21403 sector", "Anne Arundel County / ZIP 21411 sector", "Anne Arundel County / ZIP 21401 sector"]
-zillowHomeValueUsd: 625108
 ---
 
-**Engineering Notice for Annapolis:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Annapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Annapolis, MD, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Annapolis, MD systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: compare at least two estimates for scope and timeline.
+Recirculation pump failures in Annapolis, MD can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 21411/21403/21404 intake.
+Fixture shutoff stiffness in Annapolis, MD may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 21411, 21403, 21404, 21401 (county grid: Anne Arundel County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Basement floor drains in Annapolis, MD should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Water heater anode type may change with Annapolis, MD hardness profiles.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Annapolis, MD.
+
+Hose bib split patterns in Annapolis, MD often follow missed winterization.
+
+Branch wet vents in Annapolis, MD can mask gurgling as a main-line issue.
+
+Supply audit 998446: curb-stop orientation and hose-bib freeze flag reviewed for Annapolis, MD at coords 38.9700/-76.5000.
+
+Lineage note 998446: recirculation pump amp draw captured before Annapolis, MD branch isolation.
+
+Field routing: PRV outlet curve paired with meter pit clearance near ZIP 21401.
+
+On-site sector marker: Anne Arundel County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21401-0f989101

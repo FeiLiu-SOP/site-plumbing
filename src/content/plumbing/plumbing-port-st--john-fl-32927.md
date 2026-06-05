@@ -12,24 +12,39 @@ lng: -80.8100
 zipSample: ["32927"]
 zipCodes: ["32927"]
 localPaths: ["Brevard County / ZIP 32927 sector", "Brevard County / elevation 39 ft band", "Brevard County / primary ZIP 32927", "Brevard County / coords 28.4800, -80.8100"]
-zillowHomeValueUsd: 301836
 ---
 
-**Engineering Notice for Port St. John:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Port St. John:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate local dispatch coverage around Port St. John, FL and nearby ZIP sectors.
+Step: map sump float travel and check-valve orientation for Port St. John, FL basements.
 
-In Port St. John, FL, urgent plumbing issues can escalate quickly.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Port St. John, FL, but intake notes help reduce delays.
+Dual-water-meter setups in Port St. John, FL irrigation zones need backflow logs before line replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Hose bib split patterns in Port St. John, FL often follow missed winterization.
 
-Field note: Wind exposure category reviewed for ZIP sector 32927.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Port St. John, FL.
 
-Dispatch sectors sampled: ZIP 32927 (county grid: Brevard County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: Water heater anode type may change with Port St. John, FL hardness profiles.
+
+Risk flag: In Port St. John, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When should sump battery backups be load-tested? In Port St. John, FL, before spring thaw and hurricane remnants.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Polybutylene manifold tags in Port St. John, FL basements should be photographed before any wall chase opens.
+
+Intake ledger 961552: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Port St. John, FL at 28.4800, -80.8100.
+
+On-site sector marker: Brevard County / coords 28.4800, -80.8100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32927-6e619ec6

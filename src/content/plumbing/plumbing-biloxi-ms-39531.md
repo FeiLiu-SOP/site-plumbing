@@ -12,24 +12,39 @@ lng: -88.9500
 zipSample: ["39531", "39533", "39535", "39530", "39532"]
 zipCodes: ["39530", "39533", "39534", "39532", "39531", "39535"]
 localPaths: ["Harrison County / ZIP 39530 sector", "Harrison County / elevation 69 ft band", "Harrison County / ZIP 39535 sector", "Harrison County / ZIP 39533 sector", "Harrison County / coords 30.4400, -88.9500"]
-zillowHomeValueUsd: 204198
 ---
 
-**Engineering Notice for Biloxi:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harrison County.
+**Engineering Notice for Biloxi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Biloxi, MS, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Connection points spot-checked where accessible (ZIP 39531/39532/39534 zone).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 39531, 39532, 39534, 39535, 39530 (county grid: Harrison County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Biloxi, MS systems need rebalancing.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+We coordinate Biloxi, MS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Lineage note 773960: recirculation pump amp draw captured before Biloxi, MS branch isolation.
+
+Intake ledger 773960: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Biloxi, MS at 30.4400, -88.9500.
+
+On-site sector marker: Harrison County / ZIP 39534 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39531-92323768

@@ -12,26 +12,43 @@ lng: -82.7500
 zipSample: ["34683", "34682", "34681", "34660", "34684"]
 zipCodes: ["34660", "34681", "34684", "34683", "34682"]
 localPaths: ["Pinellas County / elevation 85 ft band", "Pinellas County / ZIP 34682 sector", "Pinellas County / ZIP 34681 sector", "Pinellas County / ZIP 34660 sector", "Pinellas County / coords 28.0800, -82.7500"]
-zillowHomeValueUsd: 324155
 ---
 
-**Engineering Notice for Palm Harbor:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Palm Harbor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: avoid large upfront payments without milestones.
+Galvanized segments in Palm Harbor, FL may restrict flow long before visible corrosion.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-In Palm Harbor, FL, urgent plumbing issues can escalate quickly.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 34681/34683/34682 coverage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 34681/34683/34682 intake.
+Polybutylene manifold tags in Palm Harbor, FL basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 34681, 34683, 34682, 34660, 34684 (county grid: Pinellas County).
+Stack vent offsets in Palm Harbor, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless pulls in Palm Harbor, FL require pit dimensions verified against utility locate marks.
+
+FAQ: When should sump battery backups be load-tested? In Palm Harbor, FL, before spring thaw and hurricane remnants.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Branch wet vents in Palm Harbor, FL can mask gurgling as a main-line issue.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Intake ledger 686043: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Palm Harbor, FL at 28.0800, -82.7500.
+
+Flow dossier 686043: branch wet-vent geometry and jetting nozzle envelope logged for Palm Harbor, FL county grid Pinellas County (ZIP 34684).
+
+Field routing: gas water heater draft hood gap paired with meter pit clearance near ZIP 34684.
+
+Coordinate-anchored dispatch note: center reference 28.0800, -82.7500 at elevation ~85 ft aligns with Pinellas County intake staging.
 
 Service reference: FL-34684-a60c2ab9

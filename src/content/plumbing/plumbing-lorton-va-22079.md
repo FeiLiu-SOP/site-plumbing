@@ -12,26 +12,43 @@ lng: -77.2200
 zipSample: ["22079", "22199"]
 zipCodes: ["22079", "22199"]
 localPaths: ["Fairfax County / ZIP 22079 sector", "Fairfax County / ZIP 22199 sector", "Fairfax County / elevation 112 ft band", "Fairfax County / coords 38.7000, -77.2200", "Fairfax County / primary ZIP 22079"]
-zillowHomeValueUsd: 684749
 ---
 
-**Engineering Notice for Lorton:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Lorton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lorton, VA, but intake notes help reduce delays.
+Risk flag: Seasonal Lorton, VA irrigation cross-connections can mask domestic pressure loss.
 
-Local conditions in Lorton, VA can affect timelines and material choices.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate local dispatch coverage around Lorton, VA and nearby ZIP sectors.
+Expansion tank pre-charge loss in Lorton, VA often tracks heater replacement deferrals.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Galvanized segments in Lorton, VA may restrict flow long before visible corrosion.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22199/22079.
+Hose bib split patterns in Lorton, VA often follow missed winterization.
 
-Field note: Connection points spot-checked where accessible (ZIP 22199/22079 zone).
+Step: map sump float travel and check-valve orientation for Lorton, VA basements.
 
-Dispatch sectors sampled: ZIP 22199, 22079 (county grid: Fairfax County).
+Hydrostatic holds in Lorton, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Permit note: Main water line replacement in Lorton, VA may require ROW restoration planning.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Flow dossier 995545: branch wet-vent geometry and jetting nozzle envelope logged for Lorton, VA county grid Fairfax County (ZIP 22079).
+
+Fixture roster 995545: toilet flange spacer kit and shower cartridge seat score queued for Lorton, VA walk-through.
+
+plumbing brief: hose bib freeze flag and cleanout riser height were cross-checked for the Lorton intake packet.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Lorton, VA before niche-specific work begins.
 
 Service reference: VA-22079-a1d7ea91

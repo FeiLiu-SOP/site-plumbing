@@ -12,26 +12,41 @@ lng: -114.5500
 zipSample: ["86429", "86430", "86442", "86439"]
 zipCodes: ["86442", "86439", "86429", "86430"]
 localPaths: ["Mohave County / ZIP 86442 sector", "Mohave County / primary ZIP 86442", "Mohave County / ZIP 86430 sector", "Mohave County / coords 35.1200, -114.5500", "Mohave County / elevation 935 ft band"]
-zillowHomeValueUsd: 270450
 ---
 
-**Engineering Notice for Bullhead City:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Mohave County.
+**Engineering Notice for Bullhead City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Bullhead City, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bullhead City, AZ, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 86429/86442/86430 intake.
+Permit note: Main water line replacement in Bullhead City, AZ may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 86429/86442/86430 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 86429, 86442, 86430, 86439 (county grid: Mohave County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: When should sump battery backups be load-tested? In Bullhead City, AZ, before spring thaw and hurricane remnants.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Basement floor drains in Bullhead City, AZ should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 696813: toilet flange spacer kit and shower cartridge seat score queued for Bullhead City, AZ walk-through.
+
+Drain map 696813: camera-pass priority and expansion-tank pre-charge noted for Bullhead City, AZ postal sector 86442.
+
+On-site sector marker: Mohave County / primary ZIP 86442 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86442-2a88cda0

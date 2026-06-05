@@ -12,27 +12,41 @@ lng: -78.8500
 zipSample: ["14216", "14205", "14208", "14276", "14220"]
 zipCodes: ["14220", "14216", "14264", "14214", "14272", "14201", "14204", "14215", "14263", "14276", "14270", "14280"]
 localPaths: ["Erie County / elevation 643 ft band", "Erie County / ZIP 14220 sector", "Erie County / coords 42.9000, -78.8500", "Erie County / primary ZIP 14208", "Erie County / ZIP 14205 sector"]
-zillowHomeValueUsd: 136046
 ---
 
-**Engineering Notice for Buffalo:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Buffalo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 14208.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Across Buffalo, NY, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 14213/14211/14215 coverage.
+Cleanout access limits in Buffalo, NY frequently extend drain cleaning duration.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 14213/14211/14215.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 14213, 14211, 14215, 14207, 14214 (county grid: Erie County).
+FAQ: When is cabling enough? In Buffalo, NY, pipe material and blockage type dictate method.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Branch wet vents in Buffalo, NY can mask gurgling as a main-line issue.
+
+Hydrostatic holds in Buffalo, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Lineage note 517737: recirculation pump amp draw captured before Buffalo, NY branch isolation.
+
+Scope trace: scale coupon sampling plus sump float travel referenced in Erie County county grid review.
+
+Primary postal anchor 14208 with multi-ZIP overlap in Buffalo; field packets tag Erie County for county-grid reconciliation.
 
 Service reference: NY-14208-0cd33d6f

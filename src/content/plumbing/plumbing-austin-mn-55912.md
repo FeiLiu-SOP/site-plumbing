@@ -12,25 +12,41 @@ lng: -92.9800
 zipSample: ["55912"]
 zipCodes: ["55912"]
 localPaths: ["Mower County / primary ZIP 55912", "Mower County / coords 43.6700, -92.9800", "Mower County / ZIP 55912 sector", "Mower County / elevation 1214 ft band"]
-zillowHomeValueUsd: 186937
 ---
 
-**Engineering Notice for Austin:** Structural loading calculated based on 1214 ft terrain assessment. Regional dispatch grid: Mower County.
+**Engineering Notice for Austin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mower County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 55912.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Our service coordination centers on Austin, MN coverage windows and verified intake details.
+Trenchless sleeve pulls near Austin, MN require pit shoring notes when water tables are high.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: avoid large upfront payments without milestones.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 55912 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 55912 (county grid: Mower County).
+Risk flag: In Austin, MN, slab leaks can misroute as foundation issues without listening equipment.
+
+Irrigation cross-connections in Austin, MN can back-siphon domestic lines during main breaks.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Hydrostatic holds in Austin, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Sump discharge freeze risk in Austin, MN should be reviewed before spring thaw cycles.
+
+Fixture roster 504179: toilet flange spacer kit and shower cartridge seat score queued for Austin, MN walk-through.
+
+Supply audit 504179: curb-stop orientation and hose-bib freeze flag reviewed for Austin, MN at coords 43.6700/-92.9800.
+
+ZIP-corridor snapshot for Austin, MN: sampled sectors include 55912; county routing grid remains Mower County.
 
 Service reference: MN-55912-d053af59

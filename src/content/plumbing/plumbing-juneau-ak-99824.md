@@ -12,26 +12,43 @@ lng: -134.1700
 zipSample: ["99811", "99821", "99812", "99803", "99824"]
 zipCodes: ["99812", "99802", "99821", "99811", "99801", "99803", "99824"]
 localPaths: ["Juneau County / elevation 1942 ft band", "Juneau County / ZIP 99821 sector", "Juneau County / ZIP 99824 sector", "Juneau County / ZIP 99812 sector", "Juneau County / ZIP 99803 sector"]
-zillowHomeValueUsd: 350360
 ---
 
-**Engineering Notice for Juneau:** Structural loading calculated based on 1942 ft terrain assessment. Regional dispatch grid: Juneau County.
+**Engineering Notice for Juneau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Juneau County.
 
 
-We coordinate local dispatch coverage around Juneau, AK and nearby ZIP sectors.
+Trenchless pulls in Juneau, AK require pit dimensions verified against utility locate marks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fixture shutoff stiffness in Juneau, AK may indicate mineral bridging behind stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Juneau, AK can back-siphon domestic lines during main breaks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Juneau, AK, but intake notes help reduce delays.
+Frost-free sillcock failures in Juneau, AK often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 99801/99824/99802.
+Across Juneau, AK, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Moisture pathway inspection logged near ZIP 99801/99824/99802 intake.
+Cast-iron hub corrosion in Juneau, AK often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 99801, 99824, 99802, 99803, 99812 (county grid: Juneau County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: When is cabling enough? In Juneau, AK, pipe material and blockage type dictate method.
+
+FAQ: When should sump battery backups be load-tested? In Juneau, AK, before spring thaw and hurricane remnants.
+
+Basement floor drains in Juneau, AK should be snaked only after trap arm geometry is confirmed on camera.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 99824.
+
+Supply audit 208524: curb-stop orientation and hose-bib freeze flag reviewed for Juneau, AK at coords 58.4500/-134.1700.
+
+Field routing: gas water heater draft hood gap paired with fixture shutoff torque log near ZIP 99824.
+
+On-site sector marker: Juneau County / elevation 1942 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AK-99824-33731eea

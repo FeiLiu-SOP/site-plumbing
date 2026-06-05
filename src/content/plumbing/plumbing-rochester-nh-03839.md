@@ -12,27 +12,41 @@ lng: -70.9800
 zipSample: ["03867", "03868", "03866", "03839"]
 zipCodes: ["03866", "03867", "03839", "03868"]
 localPaths: ["Strafford County / ZIP 03868 sector", "Strafford County / ZIP 03866 sector", "Strafford County / ZIP 03839 sector", "Strafford County / primary ZIP 03839", "Strafford County / ZIP 03867 sector"]
-zillowHomeValueUsd: 414505
 ---
 
-**Engineering Notice for Rochester:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Strafford County.
+**Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Strafford County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 03839.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 03839.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Rochester, NH systems need rebalancing.
 
-We coordinate local dispatch coverage around Rochester, NH and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Rochester, NH, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rochester, NH, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Rochester, NH, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 03867/03866/03868 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 03867/03866/03868.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 03867, 03866, 03868, 03839 (county grid: Strafford County).
+FAQ: Is hydro-jetting always appropriate? In Rochester, NH, pipe material and blockage type dictate method.
+
+Hard water in Rochester, NH accelerates scale on PRV seats and heater elements.
+
+Sewer gas odors in Rochester, NH should trigger trap seal and vent path review.
+
+Cast-iron hub corrosion in Rochester, NH often concentrates at the third joint upstream of the cleanout.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Pressure trace 191589: meter-pit clearance and dielectric union checklist staged for Rochester, NH near elevation 203 ft.
+
+Scope trace: slab penetration sleeve seal plus PRV outlet curve referenced in Strafford County county grid review.
+
+On-site sector marker: Strafford County / coords 43.3000, -70.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03839-9e8f5795

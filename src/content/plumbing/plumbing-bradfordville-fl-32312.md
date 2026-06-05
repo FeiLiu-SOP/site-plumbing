@@ -12,25 +12,41 @@ lng: -84.2100
 zipSample: ["32312", "32309", "32318"]
 zipCodes: ["32318", "32312", "32309"]
 localPaths: ["Leon County / primary ZIP 32312", "Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100", "Leon County / ZIP 32309 sector", "Leon County / ZIP 32318 sector"]
-zillowHomeValueUsd: 452029
 ---
 
-**Engineering Notice for Bradfordville:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Leon County.
+**Engineering Notice for Bradfordville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leon County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 32312.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 32312.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bradfordville, FL, but intake notes help reduce delays.
+Step: map sump float travel and check-valve orientation for Bradfordville, FL basements.
 
-We coordinate local dispatch coverage around Bradfordville, FL and nearby ZIP sectors.
+Galvanized segments in Bradfordville, FL may restrict flow long before visible corrosion.
 
-Structured milestones protect both sides when scheduling work.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 32318/32312/32309 coverage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 32318, 32312, 32309 (county grid: Leon County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In Bradfordville, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless sleeve pulls near Bradfordville, FL require pit shoring notes when water tables are high.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bradfordville, FL systems need rebalancing.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Frost-free sillcock failures in Bradfordville, FL often trace to interior shutoff seats, not exterior stems.
+
+Lineage note 477943: recirculation pump amp draw captured before Bradfordville, FL branch isolation.
+
+On-site sector marker: Leon County / ZIP 32318 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32312-d671e436

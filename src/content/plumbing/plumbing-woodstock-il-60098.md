@@ -12,24 +12,41 @@ lng: -88.4400
 zipSample: ["60098"]
 zipCodes: ["60098"]
 localPaths: ["McHenry County / coords 42.3100, -88.4400", "McHenry County / elevation 932 ft band", "McHenry County / ZIP 60098 sector", "McHenry County / primary ZIP 60098"]
-zillowHomeValueUsd: 332736
 ---
 
-**Engineering Notice for Woodstock:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Woodstock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
 
 
-Our service coordination centers on Woodstock, IL coverage windows and verified intake details.
+Risk flag: In Woodstock, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Woodstock, IL irrigation zones need backflow logs before line replacement.
 
-Tip: request a written scope before work starts.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Across Woodstock, IL, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Wind exposure category reviewed for ZIP sector 60098.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 60098 (county grid: McHenry County).
+Expansion tank pre-charge loss in Woodstock, IL often tracks heater replacement deferrals.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Woodstock, IL systems need rebalancing.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Irrigation cross-connections in Woodstock, IL can back-siphon domestic lines during main breaks.
+
+Supply audit 260939: curb-stop orientation and hose-bib freeze flag reviewed for Woodstock, IL at coords 42.3100/-88.4400.
+
+plumbing brief: shower cartridge seat score and hose bib freeze flag were cross-checked for the Woodstock intake packet.
+
+On-site sector marker: McHenry County / ZIP 60098 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60098-b25d30e5

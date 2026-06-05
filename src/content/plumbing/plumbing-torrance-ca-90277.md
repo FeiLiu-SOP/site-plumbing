@@ -12,24 +12,45 @@ lng: -118.3400
 zipSample: ["90504", "90503", "90507", "90508", "90501"]
 zipCodes: ["90503", "90501", "90505", "90510", "90508", "90509", "90504", "90277", "90507"]
 localPaths: ["Los Angeles County / ZIP 90503 sector", "Los Angeles County / elevation 95 ft band", "Los Angeles County / ZIP 90501 sector", "Los Angeles County / ZIP 90507 sector", "Los Angeles County / ZIP 90508 sector"]
-zillowHomeValueUsd: 1645168
 ---
 
-**Engineering Notice for Torrance:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Torrance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In Torrance, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 90277.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Torrance, CA, but intake notes help reduce delays.
+Fixture shutoff stiffness in Torrance, CA may indicate mineral bridging behind stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90505/90509/90501.
+Frost-free sillcock failures in Torrance, CA often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 90505, 90509, 90501, 90277, 90504 (county grid: Los Angeles County).
+Step: map sump float travel and check-valve orientation for Torrance, CA basements.
+
+Branch wet vents in Torrance, CA can mask gurgling as a main-line issue.
+
+Hose bib split patterns in Torrance, CA often follow missed winterization.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 90277.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Trenchless sleeve pulls near Torrance, CA require pit shoring notes when water tables are high.
+
+Expansion tank pre-charge loss in Torrance, CA often tracks heater replacement deferrals.
+
+Fixture roster 649001: toilet flange spacer kit and shower cartridge seat score queued for Torrance, CA walk-through.
+
+Pressure trace 649001: meter-pit clearance and dielectric union checklist staged for Torrance, CA near elevation 95 ft.
+
+Scope trace: slab leak listening window plus shower cartridge seat score referenced in Los Angeles County county grid review.
+
+Coordinate-anchored dispatch note: center reference 33.8300, -118.3400 at elevation ~95 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-90277-785641bf

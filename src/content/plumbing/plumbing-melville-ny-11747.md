@@ -12,26 +12,43 @@ lng: -73.4100
 zipSample: ["11775", "11747"]
 zipCodes: ["11747", "11775"]
 localPaths: ["Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / ZIP 11747 sector", "Suffolk County / coords 40.7800, -73.4100", "Suffolk County / elevation 135 ft band"]
-zillowHomeValueUsd: 870054
 ---
 
-**Engineering Notice for Melville:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Melville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Structured milestones protect both sides when scheduling work.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map sump float travel and check-valve orientation for Melville, NY basements.
 
-Our service coordination centers on Melville, NY coverage windows and verified intake details.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 11747.
 
-Tip: request a written scope before work starts.
+Permit note: Main water line replacement in Melville, NY may require ROW restoration planning.
 
-Field note: Moisture pathway inspection logged near ZIP 11775/11747 intake.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Wind exposure category reviewed for ZIP sector 11775/11747.
+Risk flag: Seasonal Melville, NY irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 11775, 11747 (county grid: Suffolk County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Irrigation cross-connections in Melville, NY can back-siphon domestic lines during main breaks.
+
+Hose bib split patterns in Melville, NY often follow missed winterization.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Lineage note 941835: recirculation pump amp draw captured before Melville, NY branch isolation.
+
+Field routing: sump float travel paired with backflow test cock orientation near ZIP 11747.
+
+Coordinate-anchored dispatch note: center reference 40.7800, -73.4100 at elevation ~135 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11747-006d975c

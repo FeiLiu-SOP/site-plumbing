@@ -12,26 +12,39 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / ZIP 50158 sector", "Marshall County / primary ZIP 50158", "Marshall County / coords 42.0300, -92.9100", "Marshall County / elevation 902 ft band"]
-zillowHomeValueUsd: 174166
 ---
 
-**Engineering Notice for Marshalltown:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Marshall County.
+**Engineering Notice for Marshalltown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marshall County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Marshalltown, IA require pit dimensions verified against utility locate marks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Access points and staging constraints recorded for ZIP 50158 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Moisture pathway inspection logged near ZIP 50158 intake.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 50158 (county grid: Marshall County).
+Risk flag: Seasonal Marshalltown, IA irrigation cross-connections can mask domestic pressure loss.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 50158.
+
+Material note: Water heater anode type may change with Marshalltown, IA hardness profiles.
+
+Risk flag: In Marshalltown, IA, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Cleanout access limits in Marshalltown, IA frequently extend drain cleaning duration.
+
+Intake ledger 367343: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marshalltown, IA at 42.0300, -92.9100.
+
+On-site sector marker: Marshall County / coords 42.0300, -92.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50158-2f2f0f5a

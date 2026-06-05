@@ -12,24 +12,41 @@ lng: -72.5700
 zipSample: ["01013", "01020", "01022", "01021", "01014"]
 zipCodes: ["01014", "01013", "01020", "01021", "01022"]
 localPaths: ["Hampden County / coords 42.1800, -72.5700", "Hampden County / primary ZIP 01020", "Hampden County / elevation 236 ft band", "Hampden County / ZIP 01013 sector", "Hampden County / ZIP 01021 sector"]
-zillowHomeValueUsd: 320664
 ---
 
-**Engineering Notice for Chicopee:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Hampden County.
+**Engineering Notice for Chicopee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampden County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 01020.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chicopee, MA, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: avoid large upfront payments without milestones.
+Recirculation pump failures in Chicopee, MA can mimic fixture-specific clogs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Chicopee, MA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Chicopee, MA can back-siphon domestic lines during main breaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01020/01013/01021.
+Risk flag: In Chicopee, MA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 01020, 01013, 01021, 01014, 01022 (county grid: Hampden County).
+Basement floor drains in Chicopee, MA should be snaked only after trap arm geometry is confirmed on camera.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Polybutylene manifold tags in Chicopee, MA basements should be photographed before any wall chase opens.
+
+Cleanout access limits in Chicopee, MA frequently extend drain cleaning duration.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Fixture roster 406929: toilet flange spacer kit and shower cartridge seat score queued for Chicopee, MA walk-through.
+
+Scope trace: slab penetration sleeve seal plus floor drain trap primer drip referenced in Hampden County county grid review.
+
+Coordinate-anchored dispatch note: center reference 42.1800, -72.5700 at elevation ~236 ft aligns with Hampden County intake staging.
 
 Service reference: MA-01020-9ba35d7d

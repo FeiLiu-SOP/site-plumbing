@@ -12,27 +12,37 @@ lng: -77.3900
 zipSample: ["28542", "28540", "28544", "28545", "28547"]
 zipCodes: ["28542", "28545", "28541", "28540", "28544", "28547", "28546", "28543"]
 localPaths: ["Onslow County / ZIP 28544 sector", "Onslow County / ZIP 28540 sector", "Onslow County / ZIP 28542 sector", "Onslow County / coords 34.7300, -77.3900", "Onslow County / ZIP 28547 sector"]
-zillowHomeValueUsd: 266882
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Onslow County.
+**Engineering Notice for Jacksonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Onslow County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Sewer gas odors in Jacksonville, NC should trigger trap seal and vent path review.
 
-Our service coordination centers on Jacksonville, NC coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should sump battery backups be load-tested? In Jacksonville, NC, before spring thaw and hurricane remnants.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 28546.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 28547/28540/28544 coverage.
+Trenchless pulls in Jacksonville, NC require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 28547/28540/28544.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 28547, 28540, 28544, 28543, 28542 (county grid: Onslow County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Jacksonville, NC.
+
+Dual-water-meter setups in Jacksonville, NC irrigation zones need backflow logs before line replacement.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Fixture roster 492033: toilet flange spacer kit and shower cartridge seat score queued for Jacksonville, NC walk-through.
+
+Coordinate-anchored dispatch note: center reference 34.7300, -77.3900 at elevation ~3 ft aligns with Onslow County intake staging.
 
 Service reference: NC-28546-d5431544

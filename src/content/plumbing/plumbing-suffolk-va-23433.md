@@ -12,25 +12,41 @@ lng: -76.6400
 zipSample: ["23433", "23439", "23432", "23435", "23434"]
 zipCodes: ["23434", "23433", "23436", "23438", "23439", "23435", "23437", "23432"]
 localPaths: ["Suffolk County / elevation 82 ft band", "Suffolk County / ZIP 23432 sector", "Suffolk County / coords 36.7000, -76.6400", "Suffolk County / primary ZIP 23433", "Suffolk County / ZIP 23433 sector"]
-zillowHomeValueUsd: 555305
 ---
 
-**Engineering Notice for Suffolk:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Suffolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 23433.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Suffolk, VA may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 23439/23432/23436 zone).
+Expansion tank pre-charge loss in Suffolk, VA often tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 23439, 23432, 23436, 23435, 23433 (county grid: Suffolk County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Suffolk, VA.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 23433.
+
+Fixture shutoff stiffness in Suffolk, VA may indicate mineral bridging behind stems.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Sump discharge freeze risk in Suffolk, VA should be reviewed before spring thaw cycles.
+
+Drain map 662125: camera-pass priority and expansion-tank pre-charge noted for Suffolk, VA postal sector 23433.
+
+Flow dossier 662125: branch wet-vent geometry and jetting nozzle envelope logged for Suffolk, VA county grid Suffolk County (ZIP 23433).
+
+ZIP-corridor snapshot for Suffolk, VA: sampled sectors include 23435, 23439, 23432, 23434, 23436, 23438, 23437, 23433; county routing grid remains Suffolk County.
 
 Service reference: VA-23433-50cf4ec4

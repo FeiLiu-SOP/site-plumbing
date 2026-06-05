@@ -12,25 +12,37 @@ lng: -71.3700
 zipSample: ["02860", "02862", "02861"]
 zipCodes: ["02862", "02860", "02861"]
 localPaths: ["Providence County / elevation 108 ft band", "Providence County / primary ZIP 02861", "Providence County / ZIP 02860 sector", "Providence County / ZIP 02862 sector", "Providence County / ZIP 02861 sector"]
-zillowHomeValueUsd: 395602
 ---
 
-**Engineering Notice for Pawtucket:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Providence County.
+**Engineering Notice for Pawtucket:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.
 
 
-Local conditions in Pawtucket, RI can affect timelines and material choices.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-We coordinate local dispatch coverage around Pawtucket, RI and nearby ZIP sectors.
+Dual-water-meter setups in Pawtucket, RI irrigation zones need backflow logs before line replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 02861.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: request a written scope before work starts.
+Water heater T&P discharge paths in Pawtucket, RI must terminate safely before replacement quotes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pawtucket, RI, but intake notes help reduce delays.
+Risk flag: Seasonal Pawtucket, RI irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Wind exposure category reviewed for ZIP sector 02862/02861/02860.
+Hydrostatic holds in Pawtucket, RI slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 02862, 02861, 02860 (county grid: Providence County).
+Permit note: Main water line replacement in Pawtucket, RI may require ROW restoration planning.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: camera-pass main lines in Pawtucket, RI before jetting older clay or cast iron.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: map sump float travel and check-valve orientation for Pawtucket, RI basements.
+
+Lineage note 704410: recirculation pump amp draw captured before Pawtucket, RI branch isolation.
+
+On-site sector marker: Providence County / elevation 108 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02861-c9d1ae3d

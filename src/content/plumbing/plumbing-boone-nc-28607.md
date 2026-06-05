@@ -12,24 +12,43 @@ lng: -81.6700
 zipSample: ["28608", "28607"]
 zipCodes: ["28608", "28607"]
 localPaths: ["Watauga County / coords 36.2100, -81.6700", "Watauga County / ZIP 28608 sector", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28607 sector", "Watauga County / primary ZIP 28607"]
-zillowHomeValueUsd: 491983
 ---
 
-**Engineering Notice for Boone:** Structural loading calculated based on 3235 ft terrain assessment. Regional dispatch grid: Watauga County.
+**Engineering Notice for Boone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Watauga County.
 
 
-Tip: request a written scope before work starts.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Transparent pricing helps you compare like-for-like scope items.
+Stack vent offsets in Boone, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our service coordination centers on Boone, NC coverage windows and verified intake details.
+Polybutylene manifold tags in Boone, NC basements should be photographed before any wall chase opens.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Boone, NC, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 28607/28608 intake.
+We coordinate Boone, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 28607, 28608 (county grid: Watauga County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Irrigation cross-connections in Boone, NC can back-siphon domestic lines during main breaks.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Expansion tank pre-charge loss in Boone, NC often tracks heater replacement deferrals.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 28607.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: When is cabling enough? In Boone, NC, pipe material and blockage type dictate method.
+
+Lineage note 281899: recirculation pump amp draw captured before Boone, NC branch isolation.
+
+Field routing: water heater T&P path paired with hose bib freeze flag near ZIP 28607.
+
+On-site sector marker: Watauga County / ZIP 28607 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28607-c8270668

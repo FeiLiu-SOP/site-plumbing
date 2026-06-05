@@ -12,26 +12,37 @@ lng: -122.0500
 zipSample: ["98029", "98027"]
 zipCodes: ["98029", "98027"]
 localPaths: ["King County / ZIP 98029 sector", "King County / elevation 62 ft band", "King County / coords 47.5400, -122.0500", "King County / primary ZIP 98029", "King County / ZIP 98027 sector"]
-zillowHomeValueUsd: 1195249
 ---
 
-**Engineering Notice for Issaquah:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Issaquah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Issaquah, WA, but intake notes help reduce delays.
+Material note: Water heater anode type may change with Issaquah, WA hardness profiles.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should sump battery backups be load-tested? In Issaquah, WA, before spring thaw and hurricane remnants.
 
-Transparent pricing helps you compare like-for-like scope items.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98029.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98027/98029.
+Trenchless sleeve pulls near Issaquah, WA require pit shoring notes when water tables are high.
 
-Field note: Connection points spot-checked where accessible (ZIP 98027/98029 zone).
+Risk flag: Seasonal Issaquah, WA irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 98027, 98029 (county grid: King County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+We coordinate Issaquah, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 870829: curb-stop orientation and hose-bib freeze flag reviewed for Issaquah, WA at coords 47.5400/-122.0500.
+
+Coordinate-anchored dispatch note: center reference 47.5400, -122.0500 at elevation ~62 ft aligns with King County intake staging.
 
 Service reference: WA-98029-b3b271c1

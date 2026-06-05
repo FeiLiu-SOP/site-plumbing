@@ -12,27 +12,45 @@ lng: -118.0800
 zipSample: ["90701", "90702"]
 zipCodes: ["90701", "90702"]
 localPaths: ["Los Angeles County / ZIP 90702 sector", "Los Angeles County / primary ZIP 90701", "Los Angeles County / ZIP 90701 sector", "Los Angeles County / coords 33.8700, -118.0800", "Los Angeles County / elevation 66 ft band"]
-zillowHomeValueUsd: 873719
 ---
 
-**Engineering Notice for Artesia:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Artesia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90701.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Artesia, CA, but intake notes help reduce delays.
+Water heater T&P discharge paths in Artesia, CA must terminate safely before replacement quotes.
 
-We coordinate local dispatch coverage around Artesia, CA and nearby ZIP sectors.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cleanout access limits in Artesia, CA frequently extend drain cleaning duration.
 
-Local conditions in Artesia, CA can affect timelines and material choices.
+Stack vent offsets in Artesia, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Moisture pathway inspection logged near ZIP 90702/90701 intake.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Wind exposure category reviewed for ZIP sector 90702/90701.
+Risk flag: In Artesia, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 90702, 90701 (county grid: Los Angeles County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Intake ledger 170521: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Artesia, CA at 33.8700, -118.0800.
+
+Lineage note 170521: recirculation pump amp draw captured before Artesia, CA branch isolation.
+
+Field routing: sump float travel paired with floor drain trap primer drip near ZIP 90701.
+
+On-site sector marker: Los Angeles County / coords 33.8700, -118.0800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90701-dbc8de69

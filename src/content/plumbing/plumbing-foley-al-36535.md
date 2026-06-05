@@ -12,25 +12,43 @@ lng: -87.6700
 zipSample: ["36535", "36536"]
 zipCodes: ["36536", "36535"]
 localPaths: ["Baldwin County / primary ZIP 36535", "Baldwin County / coords 30.4000, -87.6700", "Baldwin County / elevation 75 ft band", "Baldwin County / ZIP 36536 sector", "Baldwin County / ZIP 36535 sector"]
-zillowHomeValueUsd: 301606
 ---
 
-**Engineering Notice for Foley:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Foley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 36535.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Foley, AL, but intake notes help reduce delays.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 36535.
+Irrigation cross-connections in Foley, AL can back-siphon domestic lines during main breaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Foley, AL irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 36535/36536.
+Cleanout access limits in Foley, AL frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 36535, 36536 (county grid: Baldwin County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: When should sump battery backups be load-tested? In Foley, AL, before spring thaw and hurricane remnants.
+
+Expansion tank pre-charge loss in Foley, AL often tracks heater replacement deferrals.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sump discharge freeze risk in Foley, AL should be reviewed before spring thaw cycles.
+
+Fixture roster 182386: toilet flange spacer kit and shower cartridge seat score queued for Foley, AL walk-through.
+
+Lineage note 182386: recirculation pump amp draw captured before Foley, AL branch isolation.
+
+plumbing brief: slab leak listening window and floor drain trap primer drip were cross-checked for the Foley intake packet.
+
+On-site sector marker: Baldwin County / coords 30.4000, -87.6700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36535-6f116410

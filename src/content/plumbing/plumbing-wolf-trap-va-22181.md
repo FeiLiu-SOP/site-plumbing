@@ -12,24 +12,39 @@ lng: -77.2800
 zipSample: ["22181", "22182"]
 zipCodes: ["22182", "22181"]
 localPaths: ["Fairfax County / ZIP 22181 sector", "Fairfax County / elevation 328 ft band", "Fairfax County / coords 38.9400, -77.2800", "Fairfax County / primary ZIP 22181", "Fairfax County / ZIP 22182 sector"]
-zillowHomeValueUsd: 1126195
 ---
 
-**Engineering Notice for Wolf Trap:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Wolf Trap:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cast-iron hub corrosion in Wolf Trap, VA often concentrates at the third joint upstream of the cleanout.
 
-We coordinate local dispatch coverage around Wolf Trap, VA and nearby ZIP sectors.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: confirm licensing and insurance before approving work.
+Fixture shutoff stiffness in Wolf Trap, VA may indicate mineral bridging behind stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Connection points spot-checked where accessible (ZIP 22182/22181 zone).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 22182, 22181 (county grid: Fairfax County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Permit note: Main water line replacement in Wolf Trap, VA may require ROW restoration planning.
+
+FAQ: Is hydro-jetting always appropriate? In Wolf Trap, VA, pipe material and blockage type dictate method.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Stack vent offsets in Wolf Trap, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hydro-jetting in Wolf Trap, VA requires camera confirmation before nozzle pressure is raised.
+
+Supply audit 370918: curb-stop orientation and hose-bib freeze flag reviewed for Wolf Trap, VA at coords 38.9400/-77.2800.
+
+On-site sector marker: Fairfax County / ZIP 22181 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22181-515949d4

@@ -12,24 +12,37 @@ lng: -82.6400
 zipSample: ["41114", "41102", "41101"]
 zipCodes: ["41114", "41101", "41102"]
 localPaths: ["Boyd County / ZIP 41101 sector", "Boyd County / primary ZIP 41102", "Boyd County / coords 38.4600, -82.6400", "Boyd County / ZIP 41102 sector", "Boyd County / elevation 676 ft band"]
-zillowHomeValueUsd: 150169
 ---
 
-**Engineering Notice for Ashland:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Boyd County.
+**Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boyd County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Ashland, KY coverage windows and verified intake details.
+Basement floor drains in Ashland, KY should be snaked only after trap arm geometry is confirmed on camera.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: avoid large upfront payments without milestones.
+Cleanout access limits in Ashland, KY frequently extend drain cleaning duration.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 41102/41101/41114.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 41102, 41101, 41114 (county grid: Boyd County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ashland, KY systems need rebalancing.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When should sump battery backups be load-tested? In Ashland, KY, before spring thaw and hurricane remnants.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 41102.
+
+Trenchless pulls in Ashland, KY require pit dimensions verified against utility locate marks.
+
+Polybutylene manifold tags in Ashland, KY basements should be photographed before any wall chase opens.
+
+Supply audit 677888: curb-stop orientation and hose-bib freeze flag reviewed for Ashland, KY at coords 38.4600/-82.6400.
+
+Coordinate-anchored dispatch note: center reference 38.4600, -82.6400 at elevation ~676 ft aligns with Boyd County intake staging.
 
 Service reference: KY-41102-680d86d4

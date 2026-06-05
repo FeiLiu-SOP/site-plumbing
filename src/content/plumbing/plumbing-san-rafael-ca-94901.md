@@ -12,24 +12,39 @@ lng: -122.5200
 zipSample: ["94915", "94903", "94901", "94912"]
 zipCodes: ["94901", "94903", "94915", "94912"]
 localPaths: ["Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.5200", "Marin County / ZIP 94901 sector", "Marin County / ZIP 94903 sector", "Marin County / elevation 482 ft band"]
-zillowHomeValueUsd: 1408572
 ---
 
-**Engineering Notice for San Rafael:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Marin County.
+**Engineering Notice for San Rafael:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Fixture shutoff stiffness in San Rafael, CA may indicate mineral bridging behind stems.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Our service coordination centers on San Rafael, CA coverage windows and verified intake details.
+Hydrostatic holds in San Rafael, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Cast-iron hub corrosion in San Rafael, CA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94912/94915/94901.
+Irrigation cross-connections in San Rafael, CA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 94912, 94915, 94901, 94903 (county grid: Marin County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Intake ledger 139782: sump amperage, PRV seat wear, and cleanout riser height cross-checked for San Rafael, CA at 37.9900, -122.5200.
+
+Field routing: dielectric union checklist paired with jetter nozzle envelope near ZIP 94901.
+
+On-site sector marker: Marin County / ZIP 94901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94901-4abcc9eb

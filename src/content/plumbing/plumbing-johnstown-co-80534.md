@@ -12,25 +12,43 @@ lng: -104.9500
 zipSample: ["80534"]
 zipCodes: ["80534"]
 localPaths: ["Weld County / coords 40.3500, -104.9500", "Weld County / elevation 4908 ft band", "Weld County / ZIP 80534 sector", "Weld County / primary ZIP 80534"]
-zillowHomeValueUsd: 510440
 ---
 
-**Engineering Notice for Johnstown:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Johnstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80534.
+Recirculation pump failures in Johnstown, CO can mimic fixture-specific clogs.
 
-Our service coordination centers on Johnstown, CO coverage windows and verified intake details.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Johnstown, CO slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Water heater anode type may change with Johnstown, CO hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 80534.
 
-Field note: Wind exposure category reviewed for ZIP sector 80534.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 80534 (county grid: Weld County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cleanout access limits in Johnstown, CO frequently extend drain cleaning duration.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Seasonal Johnstown, CO irrigation cross-connections can mask domestic pressure loss.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Pressure trace 970175: meter-pit clearance and dielectric union checklist staged for Johnstown, CO near elevation 4908 ft.
+
+Supply audit 970175: curb-stop orientation and hose-bib freeze flag reviewed for Johnstown, CO at coords 40.3500/-104.9500.
+
+On-site sector marker: Weld County / primary ZIP 80534 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80534-d121ede6

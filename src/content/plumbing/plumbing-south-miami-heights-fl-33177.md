@@ -12,26 +12,41 @@ lng: -80.3900
 zipSample: ["33177", "33157"]
 zipCodes: ["33157", "33177"]
 localPaths: ["Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.5900, -80.3900", "Miami-Dade County / ZIP 33177 sector", "Miami-Dade County / primary ZIP 33177"]
-zillowHomeValueUsd: 571192
 ---
 
-**Engineering Notice for South Miami Heights:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for South Miami Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Stack vent offsets in South Miami Heights, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in South Miami Heights, FL.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33177.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Miami Heights, FL, but intake notes help reduce delays.
+Hose bib split patterns in South Miami Heights, FL often follow missed winterization.
 
-We coordinate local dispatch coverage around South Miami Heights, FL and nearby ZIP sectors.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Connection points spot-checked where accessible (ZIP 33157/33177 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 33157/33177 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 33157, 33177 (county grid: Miami-Dade County).
+Trenchless sleeve pulls near South Miami Heights, FL require pit shoring notes when water tables are high.
+
+We coordinate South Miami Heights, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Sump discharge freeze risk in South Miami Heights, FL should be reviewed before spring thaw cycles.
+
+Trenchless pulls in South Miami Heights, FL require pit dimensions verified against utility locate marks.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Drain map 799175: camera-pass priority and expansion-tank pre-charge noted for South Miami Heights, FL postal sector 33177.
+
+Intake ledger 799175: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Miami Heights, FL at 25.5900, -80.3900.
+
+Field routing: dielectric union checklist paired with backflow test cock orientation near ZIP 33177.
+
+On-site sector marker: Miami-Dade County / ZIP 33157 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33177-7eb4f99d

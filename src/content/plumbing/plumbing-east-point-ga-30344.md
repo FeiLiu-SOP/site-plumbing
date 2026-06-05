@@ -12,26 +12,45 @@ lng: -84.4700
 zipSample: ["30344", "30385", "30349", "30364"]
 zipCodes: ["30349", "30385", "30364", "30344"]
 localPaths: ["Fulton County / elevation 1001 ft band", "Fulton County / coords 33.6700, -84.4700", "Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30364 sector", "Fulton County / primary ZIP 30344"]
-zillowHomeValueUsd: 224686
 ---
 
-**Engineering Notice for East Point:** Structural loading calculated based on 1001 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for East Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in East Point, GA irrigation zones need backflow logs before line replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Structured milestones protect both sides when scheduling work.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 30344.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Point, GA, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Access points and staging constraints recorded for ZIP 30385/30364/30349 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 30385/30364/30349.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 30385, 30364, 30349, 30344 (county grid: Fulton County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Hydrostatic holds in East Point, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+CPVC solvent weld times shift with ambient humidity during East Point, GA shoulder seasons.
+
+FAQ: When is cabling enough? In East Point, GA, pipe material and blockage type dictate method.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: In East Point, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+Lineage note 723060: recirculation pump amp draw captured before East Point, GA branch isolation.
+
+Pressure trace 723060: meter-pit clearance and dielectric union checklist staged for East Point, GA near elevation 1001 ft.
+
+Scope trace: dielectric union checklist plus water softener bypass lever referenced in Fulton County county grid review.
+
+On-site sector marker: Fulton County / ZIP 30349 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30344-34d7fdce

@@ -12,24 +12,43 @@ lng: -80.1100
 zipSample: ["33433", "33499", "33481", "33427", "33432"]
 zipCodes: ["33481", "33434", "33487", "33496", "33433", "33427", "33432", "33431", "33499", "33486", "33429"]
 localPaths: ["Palm Beach County / ZIP 33433 sector", "Palm Beach County / ZIP 33427 sector", "Palm Beach County / ZIP 33499 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / ZIP 33481 sector"]
-zillowHomeValueUsd: 980317
 ---
 
-**Engineering Notice for Boca Raton:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Boca Raton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Boca Raton, FL.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Boca Raton, FL, but intake notes help reduce delays.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 33481/33499/33433 coverage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 33481, 33499, 33433, 33432, 33487 (county grid: Palm Beach County).
+Cleanout access limits in Boca Raton, FL frequently extend drain cleaning duration.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Branch wet vents in Boca Raton, FL can mask gurgling as a main-line issue.
+
+Trenchless sleeve pulls near Boca Raton, FL require pit shoring notes when water tables are high.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Irrigation cross-connections in Boca Raton, FL can back-siphon domestic lines during main breaks.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Drain map 833396: camera-pass priority and expansion-tank pre-charge noted for Boca Raton, FL postal sector 33496.
+
+Field routing: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 33496.
+
+Coordinate-anchored dispatch note: center reference 26.3800, -80.1100 at elevation ~20 ft aligns with Palm Beach County intake staging.
 
 Service reference: FL-33496-1ee169ae

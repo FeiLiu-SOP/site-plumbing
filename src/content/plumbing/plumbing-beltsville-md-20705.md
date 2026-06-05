@@ -12,26 +12,39 @@ lng: -76.9200
 zipSample: ["20740", "20705", "20697", "20704"]
 zipCodes: ["20740", "20705", "20704", "20697"]
 localPaths: ["Prince George's County / primary ZIP 20705", "Prince George's County / elevation 253 ft band", "Prince George's County / ZIP 20697 sector", "Prince George's County / ZIP 20740 sector", "Prince George's County / ZIP 20705 sector"]
-zillowHomeValueUsd: 460396
 ---
 
-**Engineering Notice for Beltsville:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Beltsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-We coordinate local dispatch coverage around Beltsville, MD and nearby ZIP sectors.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Beltsville, MD, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: request a written scope before work starts.
+Frost-free sillcock failures in Beltsville, MD often trace to interior shutoff seats, not exterior stems.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20704/20705/20740.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Moisture pathway inspection logged near ZIP 20704/20705/20740 intake.
+Polybutylene manifold tags in Beltsville, MD basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 20704, 20705, 20740, 20697 (county grid: Prince George's County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Beltsville, MD.
+
+Risk flag: In Beltsville, MD, slab leaks can misroute as foundation issues without listening equipment.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+CPVC solvent weld times shift with ambient humidity during Beltsville, MD shoulder seasons.
+
+Dual-water-meter setups in Beltsville, MD irrigation zones need backflow logs before line replacement.
+
+Drain map 896170: camera-pass priority and expansion-tank pre-charge noted for Beltsville, MD postal sector 20705.
+
+plumbing brief: meter pit clearance and dielectric union checklist were cross-checked for the Beltsville intake packet.
+
+Primary postal anchor 20705 with multi-ZIP overlap in Beltsville; field packets tag Prince George's County for county-grid reconciliation.
 
 Service reference: MD-20705-1c84a231

@@ -12,24 +12,41 @@ lng: -75.2200
 zipSample: ["18044", "18042", "18043", "18045"]
 zipCodes: ["18045", "18044", "18043", "18042"]
 localPaths: ["Northampton County / ZIP 18045 sector", "Northampton County / primary ZIP 18042", "Northampton County / ZIP 18044 sector", "Northampton County / ZIP 18042 sector", "Northampton County / ZIP 18043 sector"]
-zillowHomeValueUsd: 265653
 ---
 
-**Engineering Notice for Easton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Northampton County.
+**Engineering Notice for Easton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Northampton County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Our service coordination centers on Easton, PA coverage windows and verified intake details.
+Hydrostatic holds in Easton, PA slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Easton, PA require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 18042.
 
-Field note: Connection points spot-checked where accessible (ZIP 18042/18044/18043 zone).
+Fixture shutoff stiffness in Easton, PA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 18042, 18044, 18043, 18045 (county grid: Northampton County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Easton, PA systems need rebalancing.
+
+Galvanized segments in Easton, PA may restrict flow long before visible corrosion.
+
+Trenchless pulls in Easton, PA require pit dimensions verified against utility locate marks.
+
+Permit note: Main water line replacement in Easton, PA may require ROW restoration planning.
+
+Hydro-jetting in Easton, PA requires camera confirmation before nozzle pressure is raised.
+
+Flow dossier 684903: branch wet-vent geometry and jetting nozzle envelope logged for Easton, PA county grid Northampton County (ZIP 18042).
+
+Drain map 684903: camera-pass priority and expansion-tank pre-charge noted for Easton, PA postal sector 18042.
+
+Scope trace: scale coupon sampling plus thermal expansion loop check referenced in Northampton County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~367 ft across the Northampton County area. Coordinates: 40.6900, -75.2200. ZIP sample: 18043, 18044, 18045, 18042. Service perimeter note: Coverage extends through Northampton County with dispatch centered near ZIP 18042.
 
 Service reference: PA-18042-62452a67

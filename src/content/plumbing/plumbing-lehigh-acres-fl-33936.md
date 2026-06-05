@@ -12,24 +12,39 @@ lng: -81.6400
 zipSample: ["33972", "33976", "33973", "33974", "33971"]
 zipCodes: ["33936", "33976", "33970", "33971", "33973", "33972", "33974"]
 localPaths: ["Lee County / ZIP 33974 sector", "Lee County / ZIP 33972 sector", "Lee County / primary ZIP 33936", "Lee County / ZIP 33976 sector", "Lee County / ZIP 33973 sector"]
-zillowHomeValueUsd: 242989
 ---
 
-**Engineering Notice for Lehigh Acres:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Lehigh Acres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In Lehigh Acres, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Our service coordination centers on Lehigh Acres, FL coverage windows and verified intake details.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is hydro-jetting always appropriate? In Lehigh Acres, FL, pipe material and blockage type dictate method.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Structured milestones protect both sides when scheduling work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 33972/33976/33973 coverage.
+Frost-free sillcock failures in Lehigh Acres, FL often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 33972, 33976, 33973, 33936, 33971 (county grid: Lee County).
+Trenchless sleeve pulls near Lehigh Acres, FL require pit shoring notes when water tables are high.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydrostatic holds in Lehigh Acres, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+Permit note: Main water line replacement in Lehigh Acres, FL may require ROW restoration planning.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 507151: recirculation pump amp draw captured before Lehigh Acres, FL branch isolation.
+
+Field routing: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 33936.
+
+On-site sector marker: Lee County / coords 26.6100, -81.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33936-69e7f263

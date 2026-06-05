@@ -12,28 +12,39 @@ lng: -82.6800
 zipSample: ["33784", "33702", "33709", "33714"]
 zipCodes: ["33702", "33714", "33709", "33784"]
 localPaths: ["Pinellas County / coords 27.8200, -82.6800", "Pinellas County / elevation 59 ft band", "Pinellas County / ZIP 33702 sector", "Pinellas County / ZIP 33709 sector", "Pinellas County / primary ZIP 33702"]
-zillowHomeValueUsd: 298485
 ---
 
-**Engineering Notice for Lealman:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Lealman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
 
 
-Our service coordination centers on Lealman, FL coverage windows and verified intake details.
+Trenchless sleeve pulls near Lealman, FL require pit shoring notes when water tables are high.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Galvanized segments in Lealman, FL may restrict flow long before visible corrosion.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33702.
+Permit note: Main water line replacement in Lealman, FL may require ROW restoration planning.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33702.
+Trenchless pulls in Lealman, FL require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 33784/33702/33709.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 33784/33702/33709 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 33784, 33702, 33709, 33714 (county grid: Pinellas County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Dual-water-meter setups in Lealman, FL irrigation zones need backflow logs before line replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 33702.
+
+Supply audit 388069: curb-stop orientation and hose-bib freeze flag reviewed for Lealman, FL at coords 27.8200/-82.6800.
+
+Scope trace: PRV outlet curve plus slab penetration sleeve seal referenced in Pinellas County county grid review.
+
+On-site sector marker: Pinellas County / ZIP 33702 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33702-6b07dff5

@@ -12,24 +12,37 @@ lng: -111.0000
 zipSample: ["85614", "85622"]
 zipCodes: ["85622", "85614"]
 localPaths: ["Pima County / ZIP 85614 sector", "Pima County / primary ZIP 85622", "Pima County / coords 31.8400, -111.0000", "Pima County / ZIP 85622 sector", "Pima County / elevation 2930 ft band"]
-zillowHomeValueUsd: 346703
 ---
 
-**Engineering Notice for Green Valley:** Structural loading calculated based on 2930 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Green Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-We coordinate local dispatch coverage around Green Valley, AZ and nearby ZIP sectors.
+Hydrostatic holds in Green Valley, AZ slab circuits run overnight when listening mics show ambiguous hits.
 
-Transparent pricing helps you compare like-for-like scope items.
+Basement floor drains in Green Valley, AZ should be snaked only after trap arm geometry is confirmed on camera.
 
-In Green Valley, AZ, seasonal demand can change scheduling windows.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fixture shutoff stiffness in Green Valley, AZ may indicate mineral bridging behind stems.
 
-Field note: Moisture pathway inspection logged near ZIP 85622/85614 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 85622, 85614 (county grid: Pima County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Expansion tank pre-charge loss in Green Valley, AZ often tracks heater replacement deferrals.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Seasonal Green Valley, AZ irrigation cross-connections can mask domestic pressure loss.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Lineage note 101707: recirculation pump amp draw captured before Green Valley, AZ branch isolation.
+
+On-site sector marker: Pima County / primary ZIP 85622 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85622-44a07dde

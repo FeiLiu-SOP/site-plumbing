@@ -12,26 +12,39 @@ lng: -104.6800
 zipSample: ["80817"]
 zipCodes: ["80817"]
 localPaths: ["El Paso County / ZIP 80817 sector", "El Paso County / primary ZIP 80817", "El Paso County / coords 38.6900, -104.6800", "El Paso County / elevation 5564 ft band"]
-zillowHomeValueUsd: 395929
 ---
 
-**Engineering Notice for Fountain:** Structural loading calculated based on 5564 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Fountain:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cast-iron hub corrosion in Fountain, CO often concentrates at the third joint upstream of the cleanout.
 
-We coordinate local dispatch coverage around Fountain, CO and nearby ZIP sectors.
+Hydrostatic holds in Fountain, CO slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: request a written scope before work starts.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 80817.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Moisture pathway inspection logged near ZIP 80817 intake.
+Trenchless pulls in Fountain, CO require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 80817 (county grid: El Paso County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+CPVC solvent weld times shift with ambient humidity during Fountain, CO shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Fountain, CO systems need rebalancing.
+
+Galvanized segments in Fountain, CO may restrict flow long before visible corrosion.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Fixture roster 282738: toilet flange spacer kit and shower cartridge seat score queued for Fountain, CO walk-through.
+
+On-site sector marker: El Paso County / ZIP 80817 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80817-0c1797fa

@@ -12,24 +12,41 @@ lng: -88.9900
 zipSample: ["61761", "61790"]
 zipCodes: ["61790", "61761"]
 localPaths: ["McLean County / ZIP 61761 sector", "McLean County / primary ZIP 61761", "McLean County / ZIP 61790 sector", "McLean County / elevation 843 ft band", "McLean County / coords 40.5200, -88.9900"]
-zillowHomeValueUsd: 258684
 ---
 
-**Engineering Notice for Normal:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: McLean County.
+**Engineering Notice for Normal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLean County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Normal, IL, but intake notes help reduce delays.
+Hose bib split patterns in Normal, IL often follow missed winterization.
 
-Homeowners in Normal, IL often face sudden plumbing problems that require fast action.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate local dispatch coverage around Normal, IL and nearby ZIP sectors.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 61761.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-A written scope helps prevent rework and mismatched expectations.
+We coordinate Normal, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61761/61790.
+In Normal, IL, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 61761, 61790 (county grid: McLean County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Polybutylene manifold tags in Normal, IL basements should be photographed before any wall chase opens.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Normal, IL.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 61761.
+
+Galvanized segments in Normal, IL may restrict flow long before visible corrosion.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Seasonal Normal, IL irrigation cross-connections can mask domestic pressure loss.
+
+Fixture roster 423788: toilet flange spacer kit and shower cartridge seat score queued for Normal, IL walk-through.
+
+Field routing: sewer cleanout cap thread paired with hose bib freeze flag near ZIP 61761.
+
+On-site sector marker: McLean County / ZIP 61761 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61761-27e2329e

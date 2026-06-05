@@ -12,26 +12,41 @@ lng: -80.8300
 zipSample: ["28117", "28115"]
 zipCodes: ["28117", "28115"]
 localPaths: ["Iredell County / elevation 853 ft band", "Iredell County / coords 35.5800, -80.8300", "Iredell County / ZIP 28117 sector", "Iredell County / primary ZIP 28117", "Iredell County / ZIP 28115 sector"]
-zillowHomeValueUsd: 632037
 ---
 
-**Engineering Notice for Mooresville:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Iredell County.
+**Engineering Notice for Mooresville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iredell County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Water heater T&P discharge paths in Mooresville, NC must terminate safely before replacement quotes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mooresville, NC, but intake notes help reduce delays.
+Step: document dielectric unions before mixed-metal replacements.
 
-We coordinate local dispatch coverage around Mooresville, NC and nearby ZIP sectors.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 28115/28117.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28115/28117.
+Material note: Water heater anode type may change with Mooresville, NC hardness profiles.
 
-Dispatch sectors sampled: ZIP 28115, 28117 (county grid: Iredell County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Cleanout access limits in Mooresville, NC frequently extend drain cleaning duration.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless pulls in Mooresville, NC require pit dimensions verified against utility locate marks.
+
+Expansion tank pre-charge loss in Mooresville, NC often tracks heater replacement deferrals.
+
+Drain map 803964: camera-pass priority and expansion-tank pre-charge noted for Mooresville, NC postal sector 28117.
+
+On-site sector marker: Iredell County / ZIP 28117 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28117-ebd913cb

@@ -12,27 +12,41 @@ lng: -80.3500
 zipSample: ["33172", "33144", "33174", "33126"]
 zipCodes: ["33174", "33172", "33144", "33126"]
 localPaths: ["Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / coords 25.7700, -80.3500", "Miami-Dade County / ZIP 33172 sector"]
-zillowHomeValueUsd: 300851
 ---
 
-**Engineering Notice for Fountainebleau:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Fountainebleau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Fountainebleau, FL shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Water heater T&P discharge paths in Fountainebleau, FL must terminate safely before replacement quotes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33172.
+FAQ: Is hydro-jetting always appropriate? In Fountainebleau, FL, pipe material and blockage type dictate method.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Transparent pricing helps you compare like-for-like scope items.
+Trenchless sleeve pulls near Fountainebleau, FL require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 33174/33126/33144 coverage.
+Stack vent offsets in Fountainebleau, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Moisture pathway inspection logged near ZIP 33174/33126/33144 intake.
+Cleanout access limits in Fountainebleau, FL frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 33174, 33126, 33144, 33172 (county grid: Miami-Dade County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 33172.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Polybutylene manifold tags in Fountainebleau, FL basements should be photographed before any wall chase opens.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Drain map 468122: camera-pass priority and expansion-tank pre-charge noted for Fountainebleau, FL postal sector 33172.
+
+Scope trace: gas water heater draft hood gap plus copper pinhole cluster referenced in Miami-Dade County county grid review.
+
+On-site sector marker: Miami-Dade County / ZIP 33174 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33172-008ab6d1

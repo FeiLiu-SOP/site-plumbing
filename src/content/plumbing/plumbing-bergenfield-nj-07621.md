@@ -12,27 +12,45 @@ lng: -74.0000
 zipSample: ["07621"]
 zipCodes: ["07621"]
 localPaths: ["Bergen County / primary ZIP 07621", "Bergen County / elevation 75 ft band", "Bergen County / coords 40.9200, -74.0000", "Bergen County / ZIP 07621 sector"]
-zillowHomeValueUsd: 628203
 ---
 
-**Engineering Notice for Bergenfield:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Bergenfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
 
 
-We coordinate local dispatch coverage around Bergenfield, NJ and nearby ZIP sectors.
+Polybutylene manifold tags in Bergenfield, NJ basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 07621.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Moisture pathway inspection logged near ZIP 07621 intake.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 07621 coverage.
+FAQ: When should sump battery backups be load-tested? In Bergenfield, NJ, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 07621 (county grid: Bergen County).
+Stack vent offsets in Bergenfield, NJ older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Trenchless sleeve pulls near Bergenfield, NJ require pit shoring notes when water tables are high.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in Bergenfield, NJ often trace to interior shutoff seats, not exterior stems.
+
+Fixture roster 851631: toilet flange spacer kit and shower cartridge seat score queued for Bergenfield, NJ walk-through.
+
+Drain map 851631: camera-pass priority and expansion-tank pre-charge noted for Bergenfield, NJ postal sector 07621.
+
+Field routing: hose bib freeze flag paired with sump float travel near ZIP 07621.
+
+ZIP-corridor snapshot for Bergenfield, NJ: sampled sectors include 07621; county routing grid remains Bergen County.
 
 Service reference: NJ-07621-b8a1e20b

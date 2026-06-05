@@ -12,24 +12,43 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / primary ZIP 38654", "DeSoto County / elevation 358 ft band", "DeSoto County / ZIP 38654 sector", "DeSoto County / coords 34.9600, -89.8500"]
-zillowHomeValueUsd: 331921
 ---
 
-**Engineering Notice for Olive Branch:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Olive Branch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydro-jetting in Olive Branch, MS requires camera confirmation before nozzle pressure is raised.
 
-A written scope helps prevent rework and mismatched expectations.
+Basement floor drains in Olive Branch, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate local dispatch coverage around Olive Branch, MS and nearby ZIP sectors.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Connection points spot-checked where accessible (ZIP 38654 zone).
+Sewer gas odors in Olive Branch, MS should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 38654 (county grid: DeSoto County).
+Risk flag: Seasonal Olive Branch, MS irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Trenchless pulls in Olive Branch, MS require pit dimensions verified against utility locate marks.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: In Olive Branch, MS, slab leaks can misroute as foundation issues without listening equipment.
+
+Flow dossier 973443: branch wet-vent geometry and jetting nozzle envelope logged for Olive Branch, MS county grid DeSoto County (ZIP 38654).
+
+Supply audit 973443: curb-stop orientation and hose-bib freeze flag reviewed for Olive Branch, MS at coords 34.9600/-89.8500.
+
+Scope trace: scale coupon sampling plus sewer cleanout cap thread referenced in DeSoto County county grid review.
+
+On-site sector marker: DeSoto County / elevation 358 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38654-19140163

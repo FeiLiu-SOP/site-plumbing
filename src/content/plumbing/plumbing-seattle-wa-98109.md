@@ -12,26 +12,41 @@ lng: -122.3200
 zipSample: ["98145", "98108", "98170", "98111", "98112"]
 zipCodes: ["98174", "98170", "98178", "98102", "98119", "98145", "98116", "98115", "98177", "98117", "98175", "98133"]
 localPaths: ["King County / primary ZIP 98109", "King County / ZIP 98145 sector", "King County / ZIP 98112 sector", "King County / ZIP 98111 sector", "King County / elevation 305 ft band"]
-zillowHomeValueUsd: 758197
 ---
 
-**Engineering Notice for Seattle:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Seattle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Seattle, WA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Seattle, WA, but intake notes help reduce delays.
+Trenchless pulls in Seattle, WA require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on Seattle, WA coverage windows and verified intake details.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: avoid large upfront payments without milestones.
+Sewer gas odors in Seattle, WA should trigger trap seal and vent path review.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Wind exposure category reviewed for ZIP sector 98177/98178/98125.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 98177/98178/98125 coverage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 98109.
 
-Dispatch sectors sampled: ZIP 98177, 98178, 98125, 98134, 98103 (county grid: King County).
+Galvanized segments in Seattle, WA may restrict flow long before visible corrosion.
+
+Trenchless sleeve pulls near Seattle, WA require pit shoring notes when water tables are high.
+
+FAQ: When should sump battery backups be load-tested? In Seattle, WA, before spring thaw and hurricane remnants.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Seattle, WA.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Polybutylene manifold tags in Seattle, WA basements should be photographed before any wall chase opens.
+
+Supply audit 238605: curb-stop orientation and hose-bib freeze flag reviewed for Seattle, WA at coords 47.6200/-122.3200.
+
+On-site sector marker: King County / ZIP 98145 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98109-c2949ce5

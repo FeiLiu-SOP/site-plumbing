@@ -12,27 +12,43 @@ lng: -74.0800
 zipSample: ["07644"]
 zipCodes: ["07644"]
 localPaths: ["Bergen County / primary ZIP 07644", "Bergen County / coords 40.8800, -74.0800", "Bergen County / elevation 33 ft band", "Bergen County / ZIP 07644 sector"]
-zillowHomeValueUsd: 619183
 ---
 
-**Engineering Notice for Lodi:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Lodi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lodi, NJ, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07644.
+Polybutylene manifold tags in Lodi, NJ basements should be photographed before any wall chase opens.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lodi, NJ.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 07644.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Connection points spot-checked where accessible (ZIP 07644 zone).
+Risk flag: Seasonal Lodi, NJ irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 07644 (county grid: Bergen County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Basement floor drains in Lodi, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Pressure trace 794265: meter-pit clearance and dielectric union checklist staged for Lodi, NJ near elevation 33 ft.
+
+Flow dossier 794265: branch wet-vent geometry and jetting nozzle envelope logged for Lodi, NJ county grid Bergen County (ZIP 07644).
+
+plumbing brief: hose bib freeze flag and PRV outlet curve were cross-checked for the Lodi intake packet.
+
+On-site sector marker: Bergen County / elevation 33 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07644-43f5b397

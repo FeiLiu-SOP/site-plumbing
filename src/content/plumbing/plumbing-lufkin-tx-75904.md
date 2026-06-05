@@ -12,27 +12,41 @@ lng: -94.7300
 zipSample: ["75915", "75904", "75903", "75901"]
 zipCodes: ["75904", "75903", "75915", "75901"]
 localPaths: ["Angelina County / ZIP 75904 sector", "Angelina County / coords 31.3200, -94.7300", "Angelina County / ZIP 75915 sector", "Angelina County / elevation 282 ft band", "Angelina County / ZIP 75903 sector"]
-zillowHomeValueUsd: 207432
 ---
 
-**Engineering Notice for Lufkin:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Angelina County.
+**Engineering Notice for Lufkin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Angelina County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lufkin, TX, but intake notes help reduce delays.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate local dispatch coverage around Lufkin, TX and nearby ZIP sectors.
+Expansion tank pre-charge loss in Lufkin, TX often tracks heater replacement deferrals.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 75904.
+Dispatch packets reference county grid Angelina County near ZIP 75904.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75904/75915/75901.
+Sewer gas odors in Lufkin, TX should trigger trap seal and vent path review.
 
-Field note: Moisture pathway inspection logged near ZIP 75904/75915/75901 intake.
+Sump discharge freeze risk in Lufkin, TX should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 75904, 75915, 75901, 75903 (county grid: Angelina County).
+Irrigation cross-connections in Lufkin, TX can back-siphon domestic lines during main breaks.
+
+Basement floor drains in Lufkin, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: map sump float travel and check-valve orientation for Lufkin, TX basements.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Polybutylene manifold tags in Lufkin, TX basements should be photographed before any wall chase opens.
+
+Dual-water-meter setups in Lufkin, TX irrigation zones need backflow logs before line replacement.
+
+Drain map 571696: camera-pass priority and expansion-tank pre-charge noted for Lufkin, TX postal sector 75904.
+
+Field routing: floor drain trap primer drip paired with water heater T&P path near ZIP 75904.
+
+On-site sector marker: Angelina County / elevation 282 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75904-0a18943f

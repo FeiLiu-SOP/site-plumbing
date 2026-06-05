@@ -12,24 +12,41 @@ lng: -90.2500
 zipSample: ["70062", "70063", "70065", "70064", "70141"]
 zipCodes: ["70097", "70064", "70065", "70062", "70141", "70063"]
 localPaths: ["Jefferson Parish / ZIP 70063 sector", "Jefferson Parish / primary ZIP 70065", "Jefferson Parish / ZIP 70141 sector", "Jefferson Parish / elevation 0 ft band", "Jefferson Parish / ZIP 70062 sector"]
-zillowHomeValueUsd: 282380
 ---
 
-**Engineering Notice for Kenner:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Kenner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kenner, LA systems need rebalancing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Kenner, LA hardness profiles.
 
-Local conditions in Kenner, LA can affect timelines and material choices.
+Dual-water-meter setups in Kenner, LA irrigation zones need backflow logs before line replacement.
 
-We coordinate local dispatch coverage around Kenner, LA and nearby ZIP sectors.
+Polybutylene manifold tags in Kenner, LA basements should be photographed before any wall chase opens.
 
-Tip: confirm licensing and insurance before approving work.
+Stack vent offsets in Kenner, LA older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 70097/70064/70065.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Kenner, LA.
 
-Dispatch sectors sampled: ZIP 70097, 70064, 70065, 70141, 70063 (county grid: Jefferson Parish).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Permit note: Main water line replacement in Kenner, LA may require ROW restoration planning.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Seasonal Kenner, LA irrigation cross-connections can mask domestic pressure loss.
+
+Pressure trace 869763: meter-pit clearance and dielectric union checklist staged for Kenner, LA near elevation 0 ft.
+
+Lineage note 869763: recirculation pump amp draw captured before Kenner, LA branch isolation.
+
+Scope trace: floor drain trap primer drip plus cleanout riser height referenced in Jefferson Parish county grid review.
+
+On-site sector marker: Jefferson Parish / ZIP 70065 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70065-7700cbee

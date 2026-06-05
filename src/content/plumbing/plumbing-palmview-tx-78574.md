@@ -12,24 +12,43 @@ lng: -98.3800
 zipSample: ["78572", "78574"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / coords 26.2300, -98.3800", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / elevation 148 ft band"]
-zillowHomeValueUsd: 196725
 ---
 
-**Engineering Notice for Palmview:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Palmview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 78574.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Galvanized segments in Palmview, TX may restrict flow long before visible corrosion.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hydro-jetting in Palmview, TX requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Palmview, TX coverage windows and verified intake details.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78574/78572.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 78574, 78572 (county grid: Hidalgo County).
+Material note: Water heater anode type may change with Palmview, TX hardness profiles.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Palmview, TX.
+
+Across Palmview, TX, main-line bellies can trap debris even when fixtures drain normally.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Cast-iron hub corrosion in Palmview, TX often concentrates at the third joint upstream of the cleanout.
+
+Frost-free sillcock failures in Palmview, TX often trace to interior shutoff seats, not exterior stems.
+
+CPVC solvent weld times shift with ambient humidity during Palmview, TX shoulder seasons.
+
+Hydrostatic holds in Palmview, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Lineage note 725744: recirculation pump amp draw captured before Palmview, TX branch isolation.
+
+Flow dossier 725744: branch wet-vent geometry and jetting nozzle envelope logged for Palmview, TX county grid Hidalgo County (ZIP 78574).
+
+Primary postal anchor 78574 with multi-ZIP overlap in Palmview; field packets tag Hidalgo County for county-grid reconciliation.
 
 Service reference: TX-78574-cf3cc863

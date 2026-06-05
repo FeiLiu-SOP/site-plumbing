@@ -12,24 +12,41 @@ lng: -87.1900
 zipSample: ["32503", "32513", "32522", "32524", "32501"]
 zipCodes: ["32591", "32522", "32524", "32504", "32502", "32501", "32503", "32513"]
 localPaths: ["Escambia County / primary ZIP 32503", "Escambia County / ZIP 32503 sector", "Escambia County / ZIP 32513 sector", "Escambia County / coords 30.4400, -87.1900", "Escambia County / ZIP 32501 sector"]
-zillowHomeValueUsd: 294311
 ---
 
-**Engineering Notice for Pensacola:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Escambia County.
+**Engineering Notice for Pensacola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Pensacola, FL often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32501/32503/32513.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 32501, 32503, 32513, 32502, 32504 (county grid: Escambia County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 32503.
+
+Irrigation cross-connections in Pensacola, FL can back-siphon domestic lines during main breaks.
+
+FAQ: When should sump battery backups be load-tested? In Pensacola, FL, before spring thaw and hurricane remnants.
+
+Risk flag: Seasonal Pensacola, FL irrigation cross-connections can mask domestic pressure loss.
+
+Flow dossier 302833: branch wet-vent geometry and jetting nozzle envelope logged for Pensacola, FL county grid Escambia County (ZIP 32503).
+
+Pressure trace 302833: meter-pit clearance and dielectric union checklist staged for Pensacola, FL near elevation 56 ft.
+
+Field routing: toilet flange spacer kit paired with shower cartridge seat score near ZIP 32503.
+
+On-site sector marker: Escambia County / ZIP 32503 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32503-b9db5736

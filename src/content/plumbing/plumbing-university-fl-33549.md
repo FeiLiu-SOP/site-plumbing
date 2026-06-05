@@ -12,26 +12,41 @@ lng: -82.4300
 zipSample: ["33612", "33549", "33613", "33559"]
 zipCodes: ["33559", "33549", "33613", "33612"]
 localPaths: ["Hillsborough County / elevation 69 ft band", "Hillsborough County / ZIP 33612 sector", "Hillsborough County / ZIP 33549 sector", "Hillsborough County / ZIP 33613 sector", "Hillsborough County / coords 28.0800, -82.4300"]
-zillowHomeValueUsd: 436476
 ---
 
-**Engineering Notice for University:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for University:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
 
 
-Homeowners in University, FL often face sudden plumbing problems that require fast action.
+We coordinate University, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in University, FL, but intake notes help reduce delays.
+Fixture shutoff stiffness in University, FL may indicate mineral bridging behind stems.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on University, FL coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33612/33549/33559.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 33612/33549/33559.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33549.
 
-Dispatch sectors sampled: ZIP 33612, 33549, 33559, 33613 (county grid: Hillsborough County).
+FAQ: When should sump battery backups be load-tested? In University, FL, before spring thaw and hurricane remnants.
+
+Material note: Water heater anode type may change with University, FL hardness profiles.
+
+Irrigation cross-connections in University, FL can back-siphon domestic lines during main breaks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in University, FL systems need rebalancing.
+
+Risk flag: In University, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 33549.
+
+Lineage note 440352: recirculation pump amp draw captured before University, FL branch isolation.
+
+On-site sector marker: Hillsborough County / primary ZIP 33549 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33549-2d466b8a

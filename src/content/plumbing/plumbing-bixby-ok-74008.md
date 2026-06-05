@@ -12,25 +12,43 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / coords 35.9500, -95.8800", "Tulsa County / ZIP 74008 sector"]
-zillowHomeValueUsd: 349666
 ---
 
-**Engineering Notice for Bixby:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Bixby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 74008.
+Trenchless sleeve pulls near Bixby, OK require pit shoring notes when water tables are high.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bixby, OK, but intake notes help reduce delays.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 74008.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hard water in Bixby, OK accelerates scale on PRV seats and heater elements.
 
-In Bixby, OK, urgent plumbing issues can escalate quickly.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Bixby, OK irrigation zones need backflow logs before line replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 74008 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 74008 (county grid: Tulsa County).
+Frost-free sillcock failures in Bixby, OK often trace to interior shutoff seats, not exterior stems.
+
+Cast-iron hub corrosion in Bixby, OK often concentrates at the third joint upstream of the cleanout.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Flow dossier 548236: branch wet-vent geometry and jetting nozzle envelope logged for Bixby, OK county grid Tulsa County (ZIP 74008).
+
+Supply audit 548236: curb-stop orientation and hose-bib freeze flag reviewed for Bixby, OK at coords 35.9500/-95.8800.
+
+On-site sector marker: Tulsa County / primary ZIP 74008 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74008-9a303622

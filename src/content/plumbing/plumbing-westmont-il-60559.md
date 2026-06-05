@@ -12,27 +12,41 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.7900, -87.9700", "DuPage County / ZIP 60559 sector"]
-zillowHomeValueUsd: 398647
 ---
 
-**Engineering Notice for Westmont:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Westmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
 
 
-We coordinate local dispatch coverage around Westmont, IL and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60559.
+Material note: Water heater anode type may change with Westmont, IL hardness profiles.
 
-Field note: Access points and staging constraints recorded for ZIP 60559 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 60559 intake.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 60559 (county grid: DuPage County).
+Polybutylene manifold tags in Westmont, IL basements should be photographed before any wall chase opens.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Basement floor drains in Westmont, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Stack vent offsets in Westmont, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Branch wet vents in Westmont, IL can mask gurgling as a main-line issue.
+
+Lineage note 925727: recirculation pump amp draw captured before Westmont, IL branch isolation.
+
+Intake ledger 925727: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Westmont, IL at 41.7900, -87.9700.
+
+Scope trace: backflow test cock orientation plus recirculation pump amp draw referenced in DuPage County county grid review.
+
+On-site sector marker: DuPage County / ZIP 60559 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60559-534fc5e4

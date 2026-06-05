@@ -12,25 +12,39 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29687", "Greenville County / coords 34.9200, -82.3100", "Greenville County / elevation 925 ft band"]
-zillowHomeValueUsd: 311894
 ---
 
-**Engineering Notice for Taylors:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Taylors:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29687.
+Galvanized segments in Taylors, SC may restrict flow long before visible corrosion.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Taylors, SC, but intake notes help reduce delays.
+Trenchless sleeve pulls near Taylors, SC require pit shoring notes when water tables are high.
 
-We coordinate local dispatch coverage around Taylors, SC and nearby ZIP sectors.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is hydro-jetting always appropriate? In Taylors, SC, pipe material and blockage type dictate method.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 29687 intake.
+CPVC solvent weld times shift with ambient humidity during Taylors, SC shoulder seasons.
 
-Dispatch sectors sampled: ZIP 29687 (county grid: Greenville County).
+Step: log PRV inlet and outlet readings during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Basement floor drains in Taylors, SC should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 29687.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Taylors, SC.
+
+Supply audit 210256: curb-stop orientation and hose-bib freeze flag reviewed for Taylors, SC at coords 34.9200/-82.3100.
+
+On-site sector marker: Greenville County / coords 34.9200, -82.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29687-451e79e6

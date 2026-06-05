@@ -12,26 +12,41 @@ lng: -86.8100
 zipSample: ["35119", "35071"]
 zipCodes: ["35071", "35119"]
 localPaths: ["Jefferson County / ZIP 35119 sector", "Jefferson County / coords 33.6700, -86.8100", "Jefferson County / primary ZIP 35071", "Jefferson County / elevation 607 ft band", "Jefferson County / ZIP 35071 sector"]
-zillowHomeValueUsd: 271336
 ---
 
-**Engineering Notice for Gardendale:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Gardendale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Our service coordination centers on Gardendale, AL coverage windows and verified intake details.
+Trenchless pulls in Gardendale, AL require pit dimensions verified against utility locate marks.
 
-In Gardendale, AL, seasonal demand can change scheduling windows.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35119/35071.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 35119/35071 intake.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 35119, 35071 (county grid: Jefferson County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Gardendale, AL.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Hard water in Gardendale, AL accelerates scale on PRV seats and heater elements.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Drain map 693385: camera-pass priority and expansion-tank pre-charge noted for Gardendale, AL postal sector 35071.
+
+On-site sector marker: Jefferson County / primary ZIP 35071 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35071-ef8b3dc1

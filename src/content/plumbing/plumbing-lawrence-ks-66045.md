@@ -12,24 +12,41 @@ lng: -95.2600
 zipSample: ["66047", "66049", "66046", "66045", "66044"]
 zipCodes: ["66049", "66047", "66044", "66045", "66046"]
 localPaths: ["Douglas County / primary ZIP 66045", "Douglas County / ZIP 66044 sector", "Douglas County / ZIP 66047 sector", "Douglas County / ZIP 66045 sector", "Douglas County / coords 38.9600, -95.2600"]
-zillowHomeValueUsd: 391696
 ---
 
-**Engineering Notice for Lawrence:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-Tip: request a written scope before work starts.
+Hydrostatic holds in Lawrence, KS slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Our service coordination centers on Lawrence, KS coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lawrence, KS systems need rebalancing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Galvanized segments in Lawrence, KS may restrict flow long before visible corrosion.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Lawrence, KS can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 66044/66045/66046 zone).
+FAQ: Is hydro-jetting always appropriate? In Lawrence, KS, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 66044, 66045, 66046, 66047, 66049 (county grid: Douglas County).
+Cast-iron hub corrosion in Lawrence, KS often concentrates at the third joint upstream of the cleanout.
+
+Stack vent offsets in Lawrence, KS older duplexes can mask tub gurgle as a main-line failure.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Sewer gas odors in Lawrence, KS should trigger trap seal and vent path review.
+
+Sump discharge freeze risk in Lawrence, KS should be reviewed before spring thaw cycles.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 66045.
+
+Expansion tank pre-charge loss in Lawrence, KS often tracks heater replacement deferrals.
+
+Pressure trace 635703: meter-pit clearance and dielectric union checklist staged for Lawrence, KS near elevation 1004 ft.
+
+Flow dossier 635703: branch wet-vent geometry and jetting nozzle envelope logged for Lawrence, KS county grid Douglas County (ZIP 66045).
+
+On-site sector marker: Douglas County / ZIP 66046 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66045-829e51dc

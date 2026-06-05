@@ -12,24 +12,45 @@ lng: -83.8000
 zipSample: ["45506", "45505", "45501", "45503", "45504"]
 zipCodes: ["45504", "45501", "45503", "45506", "45505"]
 localPaths: ["Clark County / ZIP 45505 sector", "Clark County / ZIP 45501 sector", "Clark County / primary ZIP 45503", "Clark County / ZIP 45504 sector", "Clark County / elevation 925 ft band"]
-zillowHomeValueUsd: 192807
 ---
 
-**Engineering Notice for Springfield:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-We coordinate local dispatch coverage around Springfield, OH and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: avoid large upfront payments without milestones.
+CPVC solvent weld times shift with ambient humidity during Springfield, OH shoulder seasons.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Trenchless sleeve pulls near Springfield, OH require pit shoring notes when water tables are high.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Springfield, OH, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 45503.
 
-Field note: Connection points spot-checked where accessible (ZIP 45501/45506/45505 zone).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 45501, 45506, 45505, 45504, 45503 (county grid: Clark County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Hard water in Springfield, OH accelerates scale on PRV seats and heater elements.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Material note: Water heater anode type may change with Springfield, OH hardness profiles.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cast-iron hub corrosion in Springfield, OH often concentrates at the third joint upstream of the cleanout.
+
+Trenchless pulls in Springfield, OH require pit dimensions verified against utility locate marks.
+
+Frost-free sillcock failures in Springfield, OH often trace to interior shutoff seats, not exterior stems.
+
+Lineage note 513032: recirculation pump amp draw captured before Springfield, OH branch isolation.
+
+Flow dossier 513032: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, OH county grid Clark County (ZIP 45503).
+
+Scope trace: branch wet vent geometry plus sump float travel referenced in Clark County county grid review.
+
+On-site sector marker: Clark County / coords 39.9300, -83.8000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45503-d33f15c8

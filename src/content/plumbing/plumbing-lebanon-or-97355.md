@@ -12,26 +12,43 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / elevation 348 ft band", "Linn County / primary ZIP 97355", "Linn County / coords 44.5300, -122.9100", "Linn County / ZIP 97355 sector"]
-zillowHomeValueUsd: 390844
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is hydro-jetting always appropriate? In Lebanon, OR, pipe material and blockage type dictate method.
 
-Our service coordination centers on Lebanon, OR coverage windows and verified intake details.
+Trenchless pulls in Lebanon, OR require pit dimensions verified against utility locate marks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Structured milestones protect both sides when scheduling work.
+Dual-water-meter setups in Lebanon, OR irrigation zones need backflow logs before line replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 97355 zone).
+Expansion tank pre-charge loss in Lebanon, OR often tracks heater replacement deferrals.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97355.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 97355 (county grid: Linn County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Frost-free sillcock failures in Lebanon, OR often trace to interior shutoff seats, not exterior stems.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Cleanout access limits in Lebanon, OR frequently extend drain cleaning duration.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Pressure trace 681391: meter-pit clearance and dielectric union checklist staged for Lebanon, OR near elevation 348 ft.
+
+Fixture roster 681391: toilet flange spacer kit and shower cartridge seat score queued for Lebanon, OR walk-through.
+
+ZIP-corridor snapshot for Lebanon, OR: sampled sectors include 97355; county routing grid remains Linn County.
 
 Service reference: OR-97355-532520e4

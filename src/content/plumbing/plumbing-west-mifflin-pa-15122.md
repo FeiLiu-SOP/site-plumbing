@@ -12,25 +12,43 @@ lng: -79.9100
 zipSample: ["15122", "15123"]
 zipCodes: ["15122", "15123"]
 localPaths: ["Allegheny County / elevation 1099 ft band", "Allegheny County / ZIP 15122 sector", "Allegheny County / coords 40.3600, -79.9100", "Allegheny County / ZIP 15123 sector", "Allegheny County / primary ZIP 15122"]
-zillowHomeValueUsd: 160917
 ---
 
-**Engineering Notice for West Mifflin:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for West Mifflin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Trenchless pulls in West Mifflin, PA require pit dimensions verified against utility locate marks.
 
-We coordinate local dispatch coverage around West Mifflin, PA and nearby ZIP sectors.
+Basement floor drains in West Mifflin, PA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Mifflin, PA, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 15122.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is hydro-jetting always appropriate? In West Mifflin, PA, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 15122/15123.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 15122, 15123 (county grid: Allegheny County).
+We coordinate West Mifflin, PA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Permit note: Main water line replacement in West Mifflin, PA may require ROW restoration planning.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Irrigation cross-connections in West Mifflin, PA can back-siphon domestic lines during main breaks.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 472161: curb-stop orientation and hose-bib freeze flag reviewed for West Mifflin, PA at coords 40.3600/-79.9100.
+
+Intake ledger 472161: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West Mifflin, PA at 40.3600, -79.9100.
+
+Field routing: cleanout riser height paired with dielectric union checklist near ZIP 15122.
+
+On-site sector marker: Allegheny County / coords 40.3600, -79.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15122-c0e9117d

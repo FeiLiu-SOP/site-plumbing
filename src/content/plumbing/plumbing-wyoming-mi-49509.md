@@ -12,26 +12,43 @@ lng: -85.7100
 zipSample: ["49528", "49509", "49519", "49548", "49418"]
 zipCodes: ["49519", "49418", "49509", "49548", "49528"]
 localPaths: ["Kent County / ZIP 49528 sector", "Kent County / elevation 663 ft band", "Kent County / ZIP 49548 sector", "Kent County / ZIP 49509 sector", "Kent County / ZIP 49418 sector"]
-zillowHomeValueUsd: 257902
 ---
 
-**Engineering Notice for Wyoming:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Wyoming:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wyoming, MI, but intake notes help reduce delays.
+Dual-water-meter setups in Wyoming, MI irrigation zones need backflow logs before line replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: compare at least two estimates for scope and timeline.
+Hard water in Wyoming, MI accelerates scale on PRV seats and heater elements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Wyoming, MI.
 
-Tip: confirm licensing and insurance before approving work.
+Irrigation cross-connections in Wyoming, MI can back-siphon domestic lines during main breaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49548/49509/49418.
+Permit note: Main water line replacement in Wyoming, MI may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 49548/49509/49418.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 49548, 49509, 49418, 49519, 49528 (county grid: Kent County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Cast-iron hub corrosion in Wyoming, MI often concentrates at the third joint upstream of the cleanout.
+
+Material note: Water heater anode type may change with Wyoming, MI hardness profiles.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+We coordinate Wyoming, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 813317: recirculation pump amp draw captured before Wyoming, MI branch isolation.
+
+Scope trace: toilet flange spacer kit plus sewer cleanout cap thread referenced in Kent County county grid review.
+
+On-site sector marker: Kent County / ZIP 49509 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49509-2f48662a

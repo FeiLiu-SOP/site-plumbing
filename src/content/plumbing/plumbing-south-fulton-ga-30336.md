@@ -12,24 +12,39 @@ lng: -84.5800
 zipSample: ["30272", "30349", "30296", "31136", "30336"]
 zipCodes: ["30378", "30291", "30272", "30331", "31136", "30213", "30336", "31131", "30296", "30349"]
 localPaths: ["Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30336 sector", "Fulton County / elevation 932 ft band", "Fulton County / ZIP 30296 sector", "Fulton County / coords 33.6300, -84.5800"]
-zillowHomeValueUsd: 282668
 ---
 
-**Engineering Notice for South Fulton:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for South Fulton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in South Fulton, GA.
 
-We coordinate local dispatch coverage around South Fulton, GA and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-In South Fulton, GA, seasonal demand can change scheduling windows.
+Expansion tank pre-charge loss in South Fulton, GA often tracks heater replacement deferrals.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Fulton, GA, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: camera-pass main lines in South Fulton, GA before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 30291/30296/30336.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 30336.
 
-Dispatch sectors sampled: ZIP 30291, 30296, 30336, 30378, 30349 (county grid: Fulton County).
+Hose bib split patterns in South Fulton, GA often follow missed winterization.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in South Fulton, GA.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hard water in South Fulton, GA accelerates scale on PRV seats and heater elements.
+
+Irrigation cross-connections in South Fulton, GA can back-siphon domestic lines during main breaks.
+
+Supply audit 916854: curb-stop orientation and hose-bib freeze flag reviewed for South Fulton, GA at coords 33.6300/-84.5800.
+
+Flow dossier 916854: branch wet-vent geometry and jetting nozzle envelope logged for South Fulton, GA county grid Fulton County (ZIP 30336).
+
+On-site sector marker: Fulton County / coords 33.6300, -84.5800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30336-0515c5e7

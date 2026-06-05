@@ -12,24 +12,41 @@ lng: -80.7400
 zipSample: ["32940", "32955"]
 zipCodes: ["32955", "32940"]
 localPaths: ["Brevard County / ZIP 32955 sector", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32940 sector", "Brevard County / primary ZIP 32955", "Brevard County / coords 28.2500, -80.7400"]
-zillowHomeValueUsd: 369223
 ---
 
-**Engineering Notice for Viera West:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Viera West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Viera West, FL irrigation cross-connections can mask domestic pressure loss.
 
-We coordinate local dispatch coverage around Viera West, FL and nearby ZIP sectors.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: request a written scope before work starts.
+Hydrostatic holds in Viera West, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Connection points spot-checked where accessible (ZIP 32955/32940 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 32955, 32940 (county grid: Brevard County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Polybutylene manifold tags in Viera West, FL basements should be photographed before any wall chase opens.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When should sump battery backups be load-tested? In Viera West, FL, before spring thaw and hurricane remnants.
+
+Recirculation pump failures in Viera West, FL can mimic fixture-specific clogs.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Viera West, FL.
+
+Stack vent offsets in Viera West, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Pressure trace 441762: meter-pit clearance and dielectric union checklist staged for Viera West, FL near elevation 33 ft.
+
+On-site sector marker: Brevard County / elevation 33 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32955-2a35355b

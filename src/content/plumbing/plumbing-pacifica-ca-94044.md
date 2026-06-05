@@ -12,26 +12,39 @@ lng: -122.4800
 zipSample: ["94044"]
 zipCodes: ["94044"]
 localPaths: ["San Mateo County / coords 37.6100, -122.4800", "San Mateo County / ZIP 94044 sector", "San Mateo County / primary ZIP 94044", "San Mateo County / elevation 210 ft band"]
-zillowHomeValueUsd: 1284843
 ---
 
-**Engineering Notice for Pacifica:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Pacifica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Main water line replacement in Pacifica, CA may require ROW restoration planning.
 
-Our service coordination centers on Pacifica, CA coverage windows and verified intake details.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pacifica, CA, but intake notes help reduce delays.
+Risk flag: In Pacifica, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 94044 zone).
+Hydrostatic holds in Pacifica, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94044.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 94044 (county grid: San Mateo County).
+Tip: Save water heater serial plates for warranty traceability.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Trenchless pulls in Pacifica, CA require pit dimensions verified against utility locate marks.
+
+Water heater T&P discharge paths in Pacifica, CA must terminate safely before replacement quotes.
+
+Lineage note 420475: recirculation pump amp draw captured before Pacifica, CA branch isolation.
+
+Pressure trace 420475: meter-pit clearance and dielectric union checklist staged for Pacifica, CA near elevation 210 ft.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~210 ft across the San Mateo County area. Coordinates: 37.6100, -122.4800. ZIP sample: 94044. Service perimeter note: Coverage extends through San Mateo County with dispatch centered near ZIP 94044.
 
 Service reference: CA-94044-713f8e9f

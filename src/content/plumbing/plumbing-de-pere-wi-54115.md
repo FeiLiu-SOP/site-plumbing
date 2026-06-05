@@ -12,24 +12,39 @@ lng: -88.0800
 zipSample: ["54115", "54344"]
 zipCodes: ["54115", "54344"]
 localPaths: ["Brown County / coords 44.4300, -88.0800", "Brown County / ZIP 54115 sector", "Brown County / elevation 620 ft band", "Brown County / primary ZIP 54115", "Brown County / ZIP 54344 sector"]
-zillowHomeValueUsd: 417721
 ---
 
-**Engineering Notice for De Pere:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for De Pere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in De Pere, WI irrigation zones need backflow logs before line replacement.
 
-In De Pere, WI, seasonal demand can change scheduling windows.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate local dispatch coverage around De Pere, WI and nearby ZIP sectors.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Clear documentation helps align materials, labor, and timeline.
+Fixture shutoff stiffness in De Pere, WI may indicate mineral bridging behind stems.
 
-Tip: request a written scope before work starts.
+Frost-free sillcock failures in De Pere, WI often trace to interior shutoff seats, not exterior stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54115/54344.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 54115, 54344 (county grid: Brown County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Branch wet vents in De Pere, WI can mask gurgling as a main-line issue.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+CPVC solvent weld times shift with ambient humidity during De Pere, WI shoulder seasons.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 54115.
+
+Flow dossier 631287: branch wet-vent geometry and jetting nozzle envelope logged for De Pere, WI county grid Brown County (ZIP 54115).
+
+Lineage note 631287: recirculation pump amp draw captured before De Pere, WI branch isolation.
+
+ZIP-corridor snapshot for De Pere, WI: sampled sectors include 54115, 54344; county routing grid remains Brown County.
 
 Service reference: WI-54115-469faf14

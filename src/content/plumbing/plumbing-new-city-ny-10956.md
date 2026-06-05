@@ -12,24 +12,39 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / coords 41.1500, -73.9900", "Rockland County / elevation 200 ft band", "Rockland County / primary ZIP 10956", "Rockland County / ZIP 10956 sector"]
-zillowHomeValueUsd: 791523
 ---
 
-**Engineering Notice for New City:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for New City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate local dispatch coverage around New City, NY and nearby ZIP sectors.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in New City, NY irrigation zones need backflow logs before line replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in New City, NY can back-siphon domestic lines during main breaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 10956.
+In New City, NY, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 10956 (county grid: Rockland County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless pulls in New City, NY require pit dimensions verified against utility locate marks.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in New City, NY.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 467213: recirculation pump amp draw captured before New City, NY branch isolation.
+
+Flow dossier 467213: branch wet-vent geometry and jetting nozzle envelope logged for New City, NY county grid Rockland County (ZIP 10956).
+
+On-site sector marker: Rockland County / primary ZIP 10956 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10956-fb408229

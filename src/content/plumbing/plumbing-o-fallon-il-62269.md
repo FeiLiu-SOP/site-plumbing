@@ -12,26 +12,37 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / primary ZIP 62269", "St. Clair County / ZIP 62269 sector", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / elevation 548 ft band"]
-zillowHomeValueUsd: 306880
 ---
 
-**Engineering Notice for O'Fallon:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Expansion tank pre-charge loss in O'Fallon, IL often tracks heater replacement deferrals.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cleanout access limits in O'Fallon, IL frequently extend drain cleaning duration.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless pulls in O'Fallon, IL require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 62269 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62269.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 62269 (county grid: St. Clair County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Water heater T&P discharge paths in O'Fallon, IL must terminate safely before replacement quotes.
+
+Risk flag: Seasonal O'Fallon, IL irrigation cross-connections can mask domestic pressure loss.
+
+Stack vent offsets in O'Fallon, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Flow dossier 967526: branch wet-vent geometry and jetting nozzle envelope logged for O'Fallon, IL county grid St. Clair County (ZIP 62269).
+
+On-site sector marker: St. Clair County / primary ZIP 62269 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62269-dd6370df

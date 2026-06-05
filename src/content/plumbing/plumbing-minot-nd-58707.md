@@ -12,25 +12,43 @@ lng: -101.2800
 zipSample: ["58707", "58701", "58702", "58703"]
 zipCodes: ["58707", "58703", "58701", "58702"]
 localPaths: ["Ward County / coords 48.2400, -101.2800", "Ward County / primary ZIP 58707", "Ward County / ZIP 58707 sector", "Ward County / ZIP 58701 sector", "Ward County / elevation 1555 ft band"]
-zillowHomeValueUsd: 281819
 ---
 
-**Engineering Notice for Minot:** Structural loading calculated based on 1555 ft terrain assessment. Regional dispatch grid: Ward County.
+**Engineering Notice for Minot:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ward County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 58707.
+Hose bib split patterns in Minot, ND often follow missed winterization.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-In Minot, ND, seasonal demand can change scheduling windows.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydro-jetting in Minot, ND requires camera confirmation before nozzle pressure is raised.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Minot, ND slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 58703/58702/58701 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 58703, 58702, 58701, 58707 (county grid: Ward County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hard water in Minot, ND accelerates scale on PRV seats and heater elements.
+
+Irrigation cross-connections in Minot, ND can back-siphon domestic lines during main breaks.
+
+Across Minot, ND, main-line bellies can trap debris even when fixtures drain normally.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Minot, ND.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Supply audit 623174: curb-stop orientation and hose-bib freeze flag reviewed for Minot, ND at coords 48.2400/-101.2800.
+
+Fixture roster 623174: toilet flange spacer kit and shower cartridge seat score queued for Minot, ND walk-through.
+
+plumbing brief: toilet flange spacer kit and dielectric union checklist were cross-checked for the Minot intake packet.
+
+Regional mesh label Ward County: moisture and logistics baselines are keyed to Minot, ND before niche-specific work begins.
 
 Service reference: ND-58707-b9347492

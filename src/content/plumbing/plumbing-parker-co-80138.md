@@ -12,24 +12,41 @@ lng: -104.7800
 zipSample: ["80134", "80138"]
 zipCodes: ["80138", "80134"]
 localPaths: ["Douglas County / elevation 5840 ft band", "Douglas County / ZIP 80134 sector", "Douglas County / ZIP 80138 sector", "Douglas County / coords 39.5100, -104.7800", "Douglas County / primary ZIP 80138"]
-zillowHomeValueUsd: 723685
 ---
 
-**Engineering Notice for Parker:** Structural loading calculated based on 5840 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Parker:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: compare at least two estimates for scope and timeline.
+Cast-iron hub corrosion in Parker, CO often concentrates at the third joint upstream of the cleanout.
 
-We coordinate local dispatch coverage around Parker, CO and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hard water in Parker, CO accelerates scale on PRV seats and heater elements.
 
-Local conditions in Parker, CO can affect timelines and material choices.
+Hydrostatic holds in Parker, CO slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Connection points spot-checked where accessible (ZIP 80134/80138 zone).
+Risk flag: Seasonal Parker, CO irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 80134, 80138 (county grid: Douglas County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Dual-water-meter setups in Parker, CO irrigation zones need backflow logs before line replacement.
+
+In Parker, CO, slab leaks often present as warm spots before wall stains appear.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 80138.
+
+Flow dossier 878000: branch wet-vent geometry and jetting nozzle envelope logged for Parker, CO county grid Douglas County (ZIP 80138).
+
+Scope trace: thermal expansion loop check plus gas water heater draft hood gap referenced in Douglas County county grid review.
+
+On-site sector marker: Douglas County / ZIP 80138 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80138-97bbe67e

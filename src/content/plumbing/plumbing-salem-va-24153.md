@@ -12,28 +12,43 @@ lng: -80.0600
 zipSample: ["24153", "24157", "24155"]
 zipCodes: ["24153", "24155", "24157"]
 localPaths: ["Salem County / coords 37.2900, -80.0600", "Salem County / ZIP 24155 sector", "Salem County / elevation 1017 ft band", "Salem County / primary ZIP 24153", "Salem County / ZIP 24157 sector"]
-zillowHomeValueUsd: 305114
 ---
 
-**Engineering Notice for Salem:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: Salem County.
+**Engineering Notice for Salem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salem County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 24153.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Salem, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Salem, VA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Salem, VA hardness profiles.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 24153.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Access points and staging constraints recorded for ZIP 24155/24153/24157 coverage.
+FAQ: When should sump battery backups be load-tested? In Salem, VA, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24155/24153/24157.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 24155, 24153, 24157 (county grid: Salem County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Irrigation cross-connections in Salem, VA can back-siphon domestic lines during main breaks.
+
+Hydrostatic holds in Salem, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Seasonal Salem, VA irrigation cross-connections can mask domestic pressure loss.
+
+Permit note: Main water line replacement in Salem, VA may require ROW restoration planning.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Dispatch packets reference county grid Salem County near ZIP 24153.
+
+Flow dossier 409560: branch wet-vent geometry and jetting nozzle envelope logged for Salem, VA county grid Salem County (ZIP 24153).
+
+Lineage note 409560: recirculation pump amp draw captured before Salem, VA branch isolation.
+
+ZIP-corridor snapshot for Salem, VA: sampled sectors include 24155, 24157, 24153; county routing grid remains Salem County.
 
 Service reference: VA-24153-9e1264cd

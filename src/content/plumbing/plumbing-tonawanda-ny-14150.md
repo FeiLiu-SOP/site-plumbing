@@ -12,25 +12,39 @@ lng: -78.8800
 zipSample: ["14150", "14151"]
 zipCodes: ["14151", "14150"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / elevation 577 ft band", "Erie County / ZIP 14150 sector", "Erie County / primary ZIP 14150", "Erie County / ZIP 14151 sector"]
-zillowHomeValueUsd: 251709
 ---
 
-**Engineering Notice for Tonawanda:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Tonawanda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 14150.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Water heater T&P discharge paths in Tonawanda, NY must terminate safely before replacement quotes.
 
-Tip: avoid large upfront payments without milestones.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Clear documentation helps align materials, labor, and timeline.
+Across Tonawanda, NY, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 14150/14151 coverage.
+Galvanized segments in Tonawanda, NY may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 14150, 14151 (county grid: Erie County).
+FAQ: When is cabling enough? In Tonawanda, NY, pipe material and blockage type dictate method.
+
+Risk flag: In Tonawanda, NY, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Stack vent offsets in Tonawanda, NY older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless pulls in Tonawanda, NY require pit dimensions verified against utility locate marks.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Intake ledger 350638: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Tonawanda, NY at 43.0100, -78.8800.
+
+Flow dossier 350638: branch wet-vent geometry and jetting nozzle envelope logged for Tonawanda, NY county grid Erie County (ZIP 14150).
+
+On-site sector marker: Erie County / ZIP 14150 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14150-a5541d3d

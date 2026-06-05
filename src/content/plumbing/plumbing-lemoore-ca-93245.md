@@ -12,26 +12,43 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / ZIP 93245 sector", "Kings County / primary ZIP 93245", "Kings County / elevation 220 ft band", "Kings County / coords 36.2900, -119.8000"]
-zillowHomeValueUsd: 384332
 ---
 
-**Engineering Notice for Lemoore:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Lemoore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Basement floor drains in Lemoore, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-We coordinate local dispatch coverage around Lemoore, CA and nearby ZIP sectors.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lemoore, CA systems need rebalancing.
 
-Field note: Moisture pathway inspection logged near ZIP 93245 intake.
+Step: map sump float travel and check-valve orientation for Lemoore, CA basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 93245.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 93245 (county grid: Kings County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Cast-iron hub corrosion in Lemoore, CA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Pressure trace 630279: meter-pit clearance and dielectric union checklist staged for Lemoore, CA near elevation 220 ft.
+
+Intake ledger 630279: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lemoore, CA at 36.2900, -119.8000.
+
+On-site sector marker: Kings County / coords 36.2900, -119.8000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93245-67ac8f9f

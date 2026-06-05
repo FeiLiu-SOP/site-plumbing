@@ -12,25 +12,43 @@ lng: -73.8700
 zipSample: ["10466", "10451", "10462", "10457", "10459"]
 zipCodes: ["10453", "10468", "10464", "10456", "10460", "10462", "10454", "10474", "10471", "10465", "10451", "10469"]
 localPaths: ["Bronx County / elevation 62 ft band", "Bronx County / primary ZIP 10452", "Bronx County / ZIP 10466 sector", "Bronx County / ZIP 10459 sector", "Bronx County / ZIP 10457 sector"]
-zillowHomeValueUsd: 319066
 ---
 
-**Engineering Notice for Bronx:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Bronx County.
+**Engineering Notice for Bronx:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bronx County.
 
 
-Local conditions in Bronx, NY can affect timelines and material choices.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 10452.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bronx, NY.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Bronx, NY can mask gurgling as a main-line issue.
 
-Our service coordination centers on Bronx, NY coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 10464/10458/10473 intake.
+Hydro-jetting in Bronx, NY requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 10464, 10458, 10473, 10466, 10475 (county grid: Bronx County).
+Risk flag: Seasonal Bronx, NY irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When should sump battery backups be load-tested? In Bronx, NY, before spring thaw and hurricane remnants.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+In Bronx, NY, slab leaks often present as warm spots before wall stains appear.
+
+Irrigation cross-connections in Bronx, NY can back-siphon domestic lines during main breaks.
+
+Flow dossier 872915: branch wet-vent geometry and jetting nozzle envelope logged for Bronx, NY county grid Bronx County (ZIP 10452).
+
+Fixture roster 872915: toilet flange spacer kit and shower cartridge seat score queued for Bronx, NY walk-through.
+
+ZIP-corridor snapshot for Bronx, NY: sampled sectors include 10458, 10462, 10463, 10452, 10461, 10455, 10453, 10471; county routing grid remains Bronx County.
 
 Service reference: NY-10452-a756bfbc

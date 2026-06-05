@@ -12,24 +12,41 @@ lng: -77.2900
 zipSample: ["22191", "22026"]
 zipCodes: ["22026", "22191"]
 localPaths: ["Prince William County / ZIP 22191 sector", "Prince William County / elevation 220 ft band", "Prince William County / coords 38.5700, -77.2900", "Prince William County / primary ZIP 22191", "Prince William County / ZIP 22026 sector"]
-zillowHomeValueUsd: 489048
 ---
 
-**Engineering Notice for Cherry Hill:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Cherry Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-In Cherry Hill, VA, seasonal demand can change scheduling windows.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: request a written scope before work starts.
+Sewer gas odors in Cherry Hill, VA should trigger trap seal and vent path review.
 
-Structured milestones protect both sides when scheduling work.
+Hydro-jetting in Cherry Hill, VA requires camera confirmation before nozzle pressure is raised.
 
-Field note: Wind exposure category reviewed for ZIP sector 22026/22191.
+Dual-water-meter setups in Cherry Hill, VA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 22026, 22191 (county grid: Prince William County).
+Risk flag: Seasonal Cherry Hill, VA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Cherry Hill, VA systems need rebalancing.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Permit note: Main water line replacement in Cherry Hill, VA may require ROW restoration planning.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 22191.
+
+Step: log PRV inlet and outlet readings during intake.
+
+We coordinate Cherry Hill, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Drain map 110561: camera-pass priority and expansion-tank pre-charge noted for Cherry Hill, VA postal sector 22191.
+
+Supply audit 110561: curb-stop orientation and hose-bib freeze flag reviewed for Cherry Hill, VA at coords 38.5700/-77.2900.
+
+On-site sector marker: Prince William County / ZIP 22191 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22191-0a3c6db7

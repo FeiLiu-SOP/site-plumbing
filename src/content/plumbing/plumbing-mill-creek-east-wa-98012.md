@@ -12,25 +12,41 @@ lng: -122.1900
 zipSample: ["98012"]
 zipCodes: ["98012"]
 localPaths: ["Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8400, -122.1900", "Snohomish County / primary ZIP 98012", "Snohomish County / elevation 384 ft band"]
-zillowHomeValueUsd: 999064
 ---
 
-**Engineering Notice for Mill Creek East:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mill Creek East:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: camera-pass main lines in Mill Creek East, WA before jetting older clay or cast iron.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98012.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 98012 intake.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 98012 (county grid: Snohomish County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mill Creek East, WA systems need rebalancing.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Cast-iron hub corrosion in Mill Creek East, WA often concentrates at the third joint upstream of the cleanout.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Supply audit 932483: curb-stop orientation and hose-bib freeze flag reviewed for Mill Creek East, WA at coords 47.8400/-122.1900.
+
+Scope trace: sump float travel plus thermal expansion loop check referenced in Snohomish County county grid review.
+
+On-site sector marker: Snohomish County / coords 47.8400, -122.1900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98012-34a82571

@@ -12,26 +12,43 @@ lng: -77.0800
 zipSample: ["20897", "20916", "20906", "20908", "20853"]
 zipCodes: ["20906", "20853", "20897", "20908", "20916"]
 localPaths: ["Montgomery County / ZIP 20908 sector", "Montgomery County / primary ZIP 20853", "Montgomery County / ZIP 20916 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.0900, -77.0800"]
-zillowHomeValueUsd: 636783
 ---
 
-**Engineering Notice for Aspen Hill:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Aspen Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-We coordinate local dispatch coverage around Aspen Hill, MD and nearby ZIP sectors.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: request a written scope before work starts.
+Trenchless pulls in Aspen Hill, MD require pit dimensions verified against utility locate marks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Frost-free sillcock failures in Aspen Hill, MD often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Aspen Hill, MD.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near Aspen Hill, MD require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 20853/20908/20906 coverage.
+Sewer gas odors in Aspen Hill, MD should trigger trap seal and vent path review.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20853/20908/20906.
+Across Aspen Hill, MD, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 20853, 20908, 20906, 20916, 20897 (county grid: Montgomery County).
+FAQ: When should sump battery backups be load-tested? In Aspen Hill, MD, before spring thaw and hurricane remnants.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20853.
+
+Recirculation pump failures in Aspen Hill, MD can mimic fixture-specific clogs.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Lineage note 210617: recirculation pump amp draw captured before Aspen Hill, MD branch isolation.
+
+Intake ledger 210617: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Aspen Hill, MD at 39.0900, -77.0800.
+
+Field routing: cleanout riser height paired with slab leak listening window near ZIP 20853.
+
+Coordinate-anchored dispatch note: center reference 39.0900, -77.0800 at elevation ~440 ft aligns with Montgomery County intake staging.
 
 Service reference: MD-20853-dcb40427

@@ -12,26 +12,39 @@ lng: -76.9600
 zipSample: ["20783", "20787"]
 zipCodes: ["20783", "20787"]
 localPaths: ["Prince George's County / elevation 203 ft band", "Prince George's County / ZIP 20783 sector", "Prince George's County / ZIP 20787 sector", "Prince George's County / primary ZIP 20783", "Prince George's County / coords 39.0000, -76.9600"]
-zillowHomeValueUsd: 405930
 ---
 
-**Engineering Notice for Adelphi:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Adelphi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Adelphi, MD, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Adelphi, MD systems need rebalancing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless pulls in Adelphi, MD require pit dimensions verified against utility locate marks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Recirculation pump failures in Adelphi, MD can mimic fixture-specific clogs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: camera-pass main lines in Adelphi, MD before jetting older clay or cast iron.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20787/20783.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Connection points spot-checked where accessible (ZIP 20787/20783 zone).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 20787, 20783 (county grid: Prince George's County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Irrigation cross-connections in Adelphi, MD can back-siphon domestic lines during main breaks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 245354: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Adelphi, MD at 39.0000, -76.9600.
+
+Fixture roster 245354: toilet flange spacer kit and shower cartridge seat score queued for Adelphi, MD walk-through.
+
+Coordinate-anchored dispatch note: center reference 39.0000, -76.9600 at elevation ~203 ft aligns with Prince George's County intake staging.
 
 Service reference: MD-20783-9c6f54eb

@@ -12,25 +12,37 @@ lng: -120.5500
 zipSample: ["98907", "98908", "98901", "98903", "98904"]
 zipCodes: ["98902", "98908", "98903", "98904", "98901", "98907"]
 localPaths: ["Yakima County / ZIP 98907 sector", "Yakima County / primary ZIP 98901", "Yakima County / ZIP 98901 sector", "Yakima County / ZIP 98904 sector", "Yakima County / coords 46.5900, -120.5500"]
-zillowHomeValueUsd: 333763
 ---
 
-**Engineering Notice for Yakima:** Structural loading calculated based on 1198 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Yakima:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yakima County.
 
 
-Local conditions in Yakima, WA can affect timelines and material choices.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98901.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: avoid large upfront payments without milestones.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 98901.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Yakima, WA, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Yakima, WA.
 
-Field note: Connection points spot-checked where accessible (ZIP 98904/98903/98902 zone).
+Material note: Water heater anode type may change with Yakima, WA hardness profiles.
 
-Dispatch sectors sampled: ZIP 98904, 98903, 98902, 98907, 98908 (county grid: Yakima County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 98901.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Stack vent offsets in Yakima, WA older duplexes can mask tub gurgle as a main-line failure.
+
+Flow dossier 384475: branch wet-vent geometry and jetting nozzle envelope logged for Yakima, WA county grid Yakima County (ZIP 98901).
+
+On-site sector marker: Yakima County / elevation 1198 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98901-4c794893

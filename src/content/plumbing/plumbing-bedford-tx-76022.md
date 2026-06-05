@@ -12,25 +12,43 @@ lng: -97.1400
 zipSample: ["76022", "76021", "75064", "76095"]
 zipCodes: ["76095", "76021", "76022", "75064"]
 localPaths: ["Tarrant County / primary ZIP 76022", "Tarrant County / ZIP 76095 sector", "Tarrant County / elevation 617 ft band", "Tarrant County / ZIP 76022 sector", "Tarrant County / coords 32.8500, -97.1400"]
-zillowHomeValueUsd: 317271
 ---
 
-**Engineering Notice for Bedford:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Bedford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Expansion tank pre-charge loss in Bedford, TX often tracks heater replacement deferrals.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Bedford, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 76022.
+In Bedford, TX, slab leaks often present as warm spots before wall stains appear.
 
-Our service coordination centers on Bedford, TX coverage windows and verified intake details.
+Frost-free sillcock failures in Bedford, TX often trace to interior shutoff seats, not exterior stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 76095/76021/76022 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 76095, 76021, 76022, 75064 (county grid: Tarrant County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: camera-pass main lines in Bedford, TX before jetting older clay or cast iron.
+
+CPVC solvent weld times shift with ambient humidity during Bedford, TX shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bedford, TX systems need rebalancing.
+
+Drain map 796539: camera-pass priority and expansion-tank pre-charge noted for Bedford, TX postal sector 76022.
+
+Scope trace: toilet flange spacer kit plus PEX expansion ring batch referenced in Tarrant County county grid review.
+
+On-site sector marker: Tarrant County / coords 32.8500, -97.1400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76022-f119cd79

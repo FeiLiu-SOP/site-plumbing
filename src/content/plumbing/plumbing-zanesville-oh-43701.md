@@ -12,25 +12,41 @@ lng: -82.0100
 zipSample: ["43702", "43701"]
 zipCodes: ["43701", "43702"]
 localPaths: ["Muskingum County / coords 39.9600, -82.0100", "Muskingum County / ZIP 43701 sector", "Muskingum County / primary ZIP 43701", "Muskingum County / ZIP 43702 sector", "Muskingum County / elevation 774 ft band"]
-zillowHomeValueUsd: 197414
 ---
 
-**Engineering Notice for Zanesville:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Muskingum County.
+**Engineering Notice for Zanesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskingum County.
 
 
-Our service coordination centers on Zanesville, OH coverage windows and verified intake details.
+Stack vent offsets in Zanesville, OH older duplexes can mask tub gurgle as a main-line failure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Zanesville, OH.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hard water in Zanesville, OH accelerates scale on PRV seats and heater elements.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 43701.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43702/43701.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 43702, 43701 (county grid: Muskingum County).
+FAQ: Is hydro-jetting always appropriate? In Zanesville, OH, pipe material and blockage type dictate method.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Hydrostatic holds in Zanesville, OH slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Zanesville, OH systems need rebalancing.
+
+Flow dossier 268701: branch wet-vent geometry and jetting nozzle envelope logged for Zanesville, OH county grid Muskingum County (ZIP 43701).
+
+plumbing brief: branch wet vent geometry and sewer cleanout cap thread were cross-checked for the Zanesville intake packet.
+
+ZIP-corridor snapshot for Zanesville, OH: sampled sectors include 43701, 43702; county routing grid remains Muskingum County.
 
 Service reference: OH-43701-dcfedfea

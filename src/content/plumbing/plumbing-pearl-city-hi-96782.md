@@ -12,24 +12,45 @@ lng: -157.9600
 zipSample: ["96701", "96782"]
 zipCodes: ["96701", "96782"]
 localPaths: ["Honolulu County / primary ZIP 96782", "Honolulu County / ZIP 96782 sector", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / ZIP 96701 sector", "Honolulu County / elevation 230 ft band"]
-zillowHomeValueUsd: 945873
 ---
 
-**Engineering Notice for Pearl City:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Pearl City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
 
 
-Tip: request a written scope before work starts.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pearl City, HI, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+CPVC solvent weld times shift with ambient humidity during Pearl City, HI shoulder seasons.
 
-Our service coordination centers on Pearl City, HI coverage windows and verified intake details.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 96701/96782.
+Frost-free sillcock failures in Pearl City, HI often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 96701, 96782 (county grid: Honolulu County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Basement floor drains in Pearl City, HI should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When should sump battery backups be load-tested? In Pearl City, HI, before spring thaw and hurricane remnants.
+
+Step: map sump float travel and check-valve orientation for Pearl City, HI basements.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 614646: curb-stop orientation and hose-bib freeze flag reviewed for Pearl City, HI at coords 21.4000/-157.9600.
+
+Flow dossier 614646: branch wet-vent geometry and jetting nozzle envelope logged for Pearl City, HI county grid Honolulu County (ZIP 96782).
+
+Scope trace: slab penetration sleeve seal plus slab leak listening window referenced in Honolulu County county grid review.
+
+On-site sector marker: Honolulu County / ZIP 96782 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96782-10da6d65

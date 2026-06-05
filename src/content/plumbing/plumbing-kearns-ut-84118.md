@@ -12,26 +12,39 @@ lng: -112.0100
 zipSample: ["84118"]
 zipCodes: ["84118"]
 localPaths: ["Salt Lake County / coords 40.6500, -112.0100", "Salt Lake County / ZIP 84118 sector", "Salt Lake County / elevation 4692 ft band", "Salt Lake County / primary ZIP 84118"]
-zillowHomeValueUsd: 450855
 ---
 
-**Engineering Notice for Kearns:** Structural loading calculated based on 4692 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Kearns:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Seasonal Kearns, UT irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map sump float travel and check-valve orientation for Kearns, UT basements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Kearns, UT older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84118.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Wind exposure category reviewed for ZIP sector 84118.
+Hydrostatic holds in Kearns, UT slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 84118 (county grid: Salt Lake County).
+CPVC solvent weld times shift with ambient humidity during Kearns, UT shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kearns, UT systems need rebalancing.
+
+FAQ: When should sump battery backups be load-tested? In Kearns, UT, before spring thaw and hurricane remnants.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless sleeve pulls near Kearns, UT require pit shoring notes when water tables are high.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Fixture roster 150663: toilet flange spacer kit and shower cartridge seat score queued for Kearns, UT walk-through.
+
+On-site sector marker: Salt Lake County / ZIP 84118 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84118-e2a33a20

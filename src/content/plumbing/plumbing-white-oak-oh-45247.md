@@ -12,26 +12,41 @@ lng: -84.6100
 zipSample: ["45239", "45247"]
 zipCodes: ["45239", "45247"]
 localPaths: ["Hamilton County / elevation 883 ft band", "Hamilton County / primary ZIP 45247", "Hamilton County / ZIP 45247 sector", "Hamilton County / ZIP 45239 sector", "Hamilton County / coords 39.2100, -84.6100"]
-zillowHomeValueUsd: 323893
 ---
 
-**Engineering Notice for White Oak:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Hamilton County.
+**Engineering Notice for White Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in White Oak, OH, but intake notes help reduce delays.
+FAQ: Is hydro-jetting always appropriate? In White Oak, OH, pipe material and blockage type dictate method.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+Fixture shutoff stiffness in White Oak, OH may indicate mineral bridging behind stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 45239/45247.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 45239/45247.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 45239, 45247 (county grid: Hamilton County).
+Across White Oak, OH, main-line bellies can trap debris even when fixtures drain normally.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 45247.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Intake ledger 973237: sump amperage, PRV seat wear, and cleanout riser height cross-checked for White Oak, OH at 39.2100, -84.6100.
+
+Supply audit 973237: curb-stop orientation and hose-bib freeze flag reviewed for White Oak, OH at coords 39.2100/-84.6100.
+
+On-site sector marker: Hamilton County / ZIP 45247 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45247-73ec63b2

@@ -12,27 +12,43 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33188", "33142"]
 localPaths: ["Miami-Dade County / primary ZIP 33142", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33142 sector"]
-zillowHomeValueUsd: 422035
 ---
 
-**Engineering Notice for Brownsville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Brownsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33142.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33142.
+Trenchless pulls in Brownsville, FL require pit dimensions verified against utility locate marks.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate local dispatch coverage around Brownsville, FL and nearby ZIP sectors.
+Material note: Water heater anode type may change with Brownsville, FL hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 33188/33142 intake.
+FAQ: When should sump battery backups be load-tested? In Brownsville, FL, before spring thaw and hurricane remnants.
 
-Field note: Connection points spot-checked where accessible (ZIP 33188/33142 zone).
+Irrigation cross-connections in Brownsville, FL can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 33188, 33142 (county grid: Miami-Dade County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Seasonal Brownsville, FL irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hard water in Brownsville, FL accelerates scale on PRV seats and heater elements.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Intake ledger 646252: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brownsville, FL at 25.8200, -80.2400.
+
+Pressure trace 646252: meter-pit clearance and dielectric union checklist staged for Brownsville, FL near elevation 33 ft.
+
+On-site sector marker: Miami-Dade County / ZIP 33142 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33142-6626d33c

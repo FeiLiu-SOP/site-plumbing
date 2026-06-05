@@ -12,24 +12,39 @@ lng: -86.4100
 zipSample: ["37131", "37129", "37133", "37132", "37127"]
 zipCodes: ["37129", "37132", "37128", "37127", "37133", "37131", "37130"]
 localPaths: ["Rutherford County / ZIP 37129 sector", "Rutherford County / primary ZIP 37132", "Rutherford County / elevation 574 ft band", "Rutherford County / ZIP 37127 sector", "Rutherford County / ZIP 37132 sector"]
-zillowHomeValueUsd: 443859
 ---
 
-**Engineering Notice for Murfreesboro:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: Rutherford County.
+**Engineering Notice for Murfreesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutherford County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-In Murfreesboro, TN, seasonal demand can change scheduling windows.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 37132.
 
-Tip: address recurring issues early to prevent bigger damage.
+Water heater T&P discharge paths in Murfreesboro, TN must terminate safely before replacement quotes.
 
-Our service coordination centers on Murfreesboro, TN coverage windows and verified intake details.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+CPVC solvent weld times shift with ambient humidity during Murfreesboro, TN shoulder seasons.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37132/37130/37128.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 37132, 37130, 37128, 37127, 37133 (county grid: Rutherford County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Polybutylene manifold tags in Murfreesboro, TN basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Supply audit 601537: curb-stop orientation and hose-bib freeze flag reviewed for Murfreesboro, TN at coords 35.8500/-86.4100.
+
+Scope trace: jetter nozzle envelope plus backflow test cock orientation referenced in Rutherford County county grid review.
+
+On-site sector marker: Rutherford County / coords 35.8500, -86.4100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37132-c98710f4

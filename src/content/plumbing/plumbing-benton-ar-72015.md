@@ -12,26 +12,43 @@ lng: -92.5700
 zipSample: ["72019", "72015", "72158", "72018"]
 zipCodes: ["72015", "72158", "72018", "72019"]
 localPaths: ["Saline County / ZIP 72158 sector", "Saline County / ZIP 72019 sector", "Saline County / ZIP 72015 sector", "Saline County / elevation 509 ft band", "Saline County / coords 34.5800, -92.5700"]
-zillowHomeValueUsd: 205607
 ---
 
-**Engineering Notice for Benton:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Saline County.
+**Engineering Notice for Benton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Saline County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-In Benton, AR, urgent plumbing issues can escalate quickly.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 72015.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Benton, AR, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Benton, AR coverage windows and verified intake details.
+Permit note: Main water line replacement in Benton, AR may require ROW restoration planning.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Connection points spot-checked where accessible (ZIP 72015/72019/72018 zone).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72015/72019/72018.
+Water heater T&P discharge paths in Benton, AR must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 72015, 72019, 72018, 72158 (county grid: Saline County).
+Hydro-jetting in Benton, AR requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in Benton, AR require pit dimensions verified against utility locate marks.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Benton, AR systems need rebalancing.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Stack vent offsets in Benton, AR older duplexes can mask tub gurgle as a main-line failure.
+
+Expansion tank pre-charge loss in Benton, AR often tracks heater replacement deferrals.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Flow dossier 718537: branch wet-vent geometry and jetting nozzle envelope logged for Benton, AR county grid Saline County (ZIP 72015).
+
+Supply audit 718537: curb-stop orientation and hose-bib freeze flag reviewed for Benton, AR at coords 34.5800/-92.5700.
+
+ZIP-corridor snapshot for Benton, AR: sampled sectors include 72018, 72158, 72019, 72015; county routing grid remains Saline County.
 
 Service reference: AR-72015-60601002

@@ -12,26 +12,41 @@ lng: -93.4400
 zipSample: ["65619", "65738", "65802"]
 zipCodes: ["65619", "65738", "65802"]
 localPaths: ["Greene County / primary ZIP 65738", "Greene County / coords 37.1500, -93.4400", "Greene County / ZIP 65619 sector", "Greene County / elevation 1273 ft band", "Greene County / ZIP 65738 sector"]
-zillowHomeValueUsd: 266737
 ---
 
-**Engineering Notice for Republic:** Structural loading calculated based on 1273 ft terrain assessment. Regional dispatch grid: Greene County.
+**Engineering Notice for Republic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our service coordination centers on Republic, MO coverage windows and verified intake details.
+Risk flag: In Republic, MO, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydro-jetting in Republic, MO requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 65802/65738/65619.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 65802/65738/65619 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Republic, MO systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 65802, 65738, 65619 (county grid: Greene County).
+Across Republic, MO, main-line bellies can trap debris even when fixtures drain normally.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 65738.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Flow dossier 869353: branch wet-vent geometry and jetting nozzle envelope logged for Republic, MO county grid Greene County (ZIP 65738).
+
+Primary postal anchor 65738 with multi-ZIP overlap in Republic; field packets tag Greene County for county-grid reconciliation.
 
 Service reference: MO-65738-666f9101

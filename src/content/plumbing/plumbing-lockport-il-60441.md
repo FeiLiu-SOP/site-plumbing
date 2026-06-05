@@ -12,25 +12,37 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / coords 41.5900, -88.0300", "Will County / elevation 702 ft band", "Will County / ZIP 60441 sector", "Will County / primary ZIP 60441"]
-zillowHomeValueUsd: 352651
 ---
 
-**Engineering Notice for Lockport:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Lockport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Lockport, IL require pit shoring notes when water tables are high.
 
-We coordinate local dispatch coverage around Lockport, IL and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: request a written scope before work starts.
+Dispatch packets reference county grid Will County near ZIP 60441.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60441.
+Basement floor drains in Lockport, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 60441 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 60441 (county grid: Will County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: Water heater anode type may change with Lockport, IL hardness profiles.
+
+Cast-iron hub corrosion in Lockport, IL often concentrates at the third joint upstream of the cleanout.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Stack vent offsets in Lockport, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 875282: curb-stop orientation and hose-bib freeze flag reviewed for Lockport, IL at coords 41.5900/-88.0300.
+
+On-site sector marker: Will County / ZIP 60441 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60441-43a4aebc

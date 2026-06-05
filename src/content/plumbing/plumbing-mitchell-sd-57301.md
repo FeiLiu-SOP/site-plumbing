@@ -12,26 +12,39 @@ lng: -98.0300
 zipSample: ["57301"]
 zipCodes: ["57301"]
 localPaths: ["Davison County / ZIP 57301 sector", "Davison County / coords 43.7300, -98.0300", "Davison County / elevation 1289 ft band", "Davison County / primary ZIP 57301"]
-zillowHomeValueUsd: 247419
 ---
 
-**Engineering Notice for Mitchell:** Structural loading calculated based on 1289 ft terrain assessment. Regional dispatch grid: Davison County.
+**Engineering Notice for Mitchell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davison County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-We coordinate local dispatch coverage around Mitchell, SD and nearby ZIP sectors.
+Step: log PRV inlet and outlet readings during intake.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Trenchless sleeve pulls near Mitchell, SD require pit shoring notes when water tables are high.
 
-Tip: confirm licensing and insurance before approving work.
+Frost-free sillcock failures in Mitchell, SD often trace to interior shutoff seats, not exterior stems.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Mitchell, SD, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 57301.
+Polybutylene manifold tags in Mitchell, SD basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 57301.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 57301 (county grid: Davison County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Stack vent offsets in Mitchell, SD older duplexes can mask tub gurgle as a main-line failure.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Cast-iron hub corrosion in Mitchell, SD often concentrates at the third joint upstream of the cleanout.
+
+Flow dossier 461701: branch wet-vent geometry and jetting nozzle envelope logged for Mitchell, SD county grid Davison County (ZIP 57301).
+
+Drain map 461701: camera-pass priority and expansion-tank pre-charge noted for Mitchell, SD postal sector 57301.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Davison County and primary ZIP 57301. Terrain reference: 1289 ft. Center point: 43.7300, -98.0300. ZIP sample: 57301. Service perimeter note: Coverage extends through Davison County with dispatch centered near ZIP 57301.
 
 Service reference: SD-57301-1b97f2af

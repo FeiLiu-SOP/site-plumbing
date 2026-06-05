@@ -12,25 +12,41 @@ lng: -95.3200
 zipSample: ["77581", "77588", "77584", "77089", "77047"]
 zipCodes: ["77047", "77584", "77089", "77581", "77588"]
 localPaths: ["Brazoria County / primary ZIP 77047", "Brazoria County / ZIP 77588 sector", "Brazoria County / ZIP 77089 sector", "Brazoria County / ZIP 77581 sector", "Brazoria County / coords 29.5600, -95.3200"]
-zillowHomeValueUsd: 251978
 ---
 
-**Engineering Notice for Pearland:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Pearland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 77047.
+FAQ: When is cabling enough? In Pearland, TX, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pearland, TX, but intake notes help reduce delays.
+Hydrostatic holds in Pearland, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: request a written scope before work starts.
+Galvanized segments in Pearland, TX may restrict flow long before visible corrosion.
 
-A written scope helps prevent rework and mismatched expectations.
+We coordinate Pearland, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 77584/77089/77588.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 77584, 77089, 77588, 77047, 77581 (county grid: Brazoria County).
+Trenchless sleeve pulls near Pearland, TX require pit shoring notes when water tables are high.
+
+Hydro-jetting in Pearland, TX requires camera confirmation before nozzle pressure is raised.
+
+Permit note: Main water line replacement in Pearland, TX may require ROW restoration planning.
+
+Irrigation cross-connections in Pearland, TX can back-siphon domestic lines during main breaks.
+
+CPVC solvent weld times shift with ambient humidity during Pearland, TX shoulder seasons.
+
+Sump discharge freeze risk in Pearland, TX should be reviewed before spring thaw cycles.
+
+Intake ledger 876105: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Pearland, TX at 29.5600, -95.3200.
+
+Lineage note 876105: recirculation pump amp draw captured before Pearland, TX branch isolation.
+
+plumbing brief: meter pit clearance and recirculation pump amp draw were cross-checked for the Pearland intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Brazoria County and primary ZIP 77047. Terrain reference: 66 ft. Center point: 29.5600, -95.3200. ZIP sample: 77588, 77584, 77581, 77089, 77047. Logistics priority: Serving residential sectors across Brazoria County and north-east ZIP 77047 grid.
 
 Service reference: TX-77047-277a01bd

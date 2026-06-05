@@ -12,26 +12,39 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / primary ZIP 07067", "Middlesex County / coords 40.5900, -74.3100", "Middlesex County / elevation 92 ft band", "Middlesex County / ZIP 07067 sector"]
-zillowHomeValueUsd: 635404
 ---
 
-**Engineering Notice for Colonia:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Colonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is cabling enough? In Colonia, NJ, pipe material and blockage type dictate method.
 
-Our service coordination centers on Colonia, NJ coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Clear documentation helps align materials, labor, and timeline.
+Cleanout access limits in Colonia, NJ frequently extend drain cleaning duration.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Colonia, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Colonia, NJ, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 07067 coverage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07067.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 07067 (county grid: Middlesex County).
+Basement floor drains in Colonia, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Cast-iron hub corrosion in Colonia, NJ often concentrates at the third joint upstream of the cleanout.
+
+Hose bib split patterns in Colonia, NJ often follow missed winterization.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Lineage note 619307: recirculation pump amp draw captured before Colonia, NJ branch isolation.
+
+Field routing: scale coupon sampling paired with copper pinhole cluster near ZIP 07067.
+
+On-site sector marker: Middlesex County / coords 40.5900, -74.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07067-ec424f4a

@@ -12,26 +12,37 @@ lng: -97.1100
 zipSample: ["75027", "75022", "75028"]
 zipCodes: ["75027", "75028", "75022"]
 localPaths: ["Denton County / primary ZIP 75022", "Denton County / ZIP 75027 sector", "Denton County / coords 33.0300, -97.1100", "Denton County / elevation 636 ft band", "Denton County / ZIP 75028 sector"]
-zillowHomeValueUsd: 772856
 ---
 
-**Engineering Notice for Flower Mound:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Denton County.
+**Engineering Notice for Flower Mound:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denton County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydrostatic holds in Flower Mound, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Flower Mound, TX, but intake notes help reduce delays.
+Sump discharge freeze risk in Flower Mound, TX should be reviewed before spring thaw cycles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75027/75028/75022.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 75027/75028/75022 coverage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 75027, 75028, 75022 (county grid: Denton County).
+Dual-water-meter setups in Flower Mound, TX irrigation zones need backflow logs before line replacement.
+
+In Flower Mound, TX, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Flower Mound, TX systems need rebalancing.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Pressure trace 717425: meter-pit clearance and dielectric union checklist staged for Flower Mound, TX near elevation 636 ft.
+
+On-site sector marker: Denton County / coords 33.0300, -97.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75022-6699c4ac

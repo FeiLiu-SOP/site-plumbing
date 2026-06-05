@@ -12,24 +12,43 @@ lng: -84.2900
 zipSample: ["37830", "37831"]
 zipCodes: ["37830", "37831"]
 localPaths: ["Anderson County / primary ZIP 37830", "Anderson County / elevation 935 ft band", "Anderson County / coords 35.9600, -84.2900", "Anderson County / ZIP 37831 sector", "Anderson County / ZIP 37830 sector"]
-zillowHomeValueUsd: 324001
 ---
 
-**Engineering Notice for Oak Ridge:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Anderson County.
+**Engineering Notice for Oak Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anderson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydro-jetting in Oak Ridge, TN requires camera confirmation before nozzle pressure is raised.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Oak Ridge, TN can mask gurgling as a main-line issue.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Oak Ridge, TN hardness profiles.
 
-In Oak Ridge, TN, urgent plumbing issues can escalate quickly.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 37830/37831 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 37830, 37831 (county grid: Anderson County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Galvanized segments in Oak Ridge, TN may restrict flow long before visible corrosion.
+
+Permit note: Main water line replacement in Oak Ridge, TN may require ROW restoration planning.
+
+Lineage note 472935: recirculation pump amp draw captured before Oak Ridge, TN branch isolation.
+
+Field routing: fixture shutoff torque log paired with dielectric union checklist near ZIP 37830.
+
+On-site sector marker: Anderson County / coords 35.9600, -84.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37830-a482b499

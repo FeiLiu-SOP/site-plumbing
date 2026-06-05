@@ -12,24 +12,39 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / coords 33.1800, -96.5000", "Collin County / elevation 558 ft band", "Collin County / ZIP 75407 sector", "Collin County / primary ZIP 75407"]
-zillowHomeValueUsd: 293530
 ---
 
-**Engineering Notice for Princeton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
 
 
-We coordinate local dispatch coverage around Princeton, TX and nearby ZIP sectors.
+FAQ: When is cabling enough? In Princeton, TX, pipe material and blockage type dictate method.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Irrigation cross-connections in Princeton, TX can back-siphon domestic lines during main breaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 75407 zone).
+Basement floor drains in Princeton, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 75407 (county grid: Collin County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Princeton, TX systems need rebalancing.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Hydrostatic holds in Princeton, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Supply audit 913363: curb-stop orientation and hose-bib freeze flag reviewed for Princeton, TX at coords 33.1800/-96.5000.
+
+On-site sector marker: Collin County / primary ZIP 75407 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75407-58b91c95

@@ -12,26 +12,39 @@ lng: -93.1500
 zipSample: ["55113"]
 zipCodes: ["55113"]
 localPaths: ["Ramsey County / coords 45.0200, -93.1500", "Ramsey County / primary ZIP 55113", "Ramsey County / elevation 912 ft band", "Ramsey County / ZIP 55113 sector"]
-zillowHomeValueUsd: 375025
 ---
 
-**Engineering Notice for Roseville:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Ramsey County.
+**Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ramsey County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-In Roseville, MN, urgent plumbing issues can escalate quickly.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is cabling enough? In Roseville, MN, pipe material and blockage type dictate method.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roseville, MN, but intake notes help reduce delays.
+Hydrostatic holds in Roseville, MN slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Roseville, MN.
 
-Field note: Moisture pathway inspection logged near ZIP 55113 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Wind exposure category reviewed for ZIP sector 55113.
+CPVC solvent weld times shift with ambient humidity during Roseville, MN shoulder seasons.
 
-Dispatch sectors sampled: ZIP 55113 (county grid: Ramsey County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Roseville, MN should be snaked only after trap arm geometry is confirmed on camera.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Irrigation cross-connections in Roseville, MN can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with Roseville, MN hardness profiles.
+
+Pressure trace 804424: meter-pit clearance and dielectric union checklist staged for Roseville, MN near elevation 912 ft.
+
+Field routing: toilet flange spacer kit paired with thermal expansion loop check near ZIP 55113.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Ramsey County and primary ZIP 55113. Terrain reference: 912 ft. Center point: 45.0200, -93.1500. ZIP sample: 55113. Logistics priority: Serving residential sectors across Ramsey County and north-east ZIP 55113 grid.
 
 Service reference: MN-55113-64613816

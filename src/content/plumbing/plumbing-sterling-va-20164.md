@@ -12,27 +12,39 @@ lng: -77.4100
 zipSample: ["20164", "20167"]
 zipCodes: ["20164", "20167"]
 localPaths: ["Loudoun County / ZIP 20164 sector", "Loudoun County / ZIP 20167 sector", "Loudoun County / coords 39.0100, -77.4100", "Loudoun County / primary ZIP 20164", "Loudoun County / elevation 335 ft band"]
-zillowHomeValueUsd: 596599
 ---
 
-**Engineering Notice for Sterling:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Sterling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
 
 
-Tip: avoid large upfront payments without milestones.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20164.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20164.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Homeowners in Sterling, VA often face sudden plumbing problems that require fast action.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 20167/20164 coverage.
+We coordinate Sterling, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20167/20164.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 20167, 20164 (county grid: Loudoun County).
+Trenchless sleeve pulls near Sterling, VA require pit shoring notes when water tables are high.
+
+Polybutylene manifold tags in Sterling, VA basements should be photographed before any wall chase opens.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 691368: meter-pit clearance and dielectric union checklist staged for Sterling, VA near elevation 335 ft.
+
+Scope trace: PRV outlet curve plus water softener bypass lever referenced in Loudoun County county grid review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Loudoun County and primary ZIP 20164. Terrain reference: 335 ft. Center point: 39.0100, -77.4100. ZIP sample: 20167, 20164. Service perimeter note: Coverage extends through Loudoun County with dispatch centered near ZIP 20164.
 
 Service reference: VA-20164-db886d49

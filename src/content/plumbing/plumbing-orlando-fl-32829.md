@@ -12,26 +12,43 @@ lng: -81.3400
 zipSample: ["32807", "32808", "32832", "32839", "32861"]
 zipCodes: ["32805", "32835", "32822", "32804", "32807", "32801", "32806", "32824", "32802", "32872", "32891", "32827"]
 localPaths: ["Orange County / ZIP 32808 sector", "Orange County / elevation 108 ft band", "Orange County / ZIP 32807 sector", "Orange County / coords 28.4800, -81.3400", "Orange County / primary ZIP 32829"]
-zillowHomeValueUsd: 406885
 ---
 
-**Engineering Notice for Orlando:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Orlando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orlando, FL, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: avoid large upfront payments without milestones.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 32829.
 
-Our service coordination centers on Orlando, FL coverage windows and verified intake details.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Orlando, FL.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dual-water-meter setups in Orlando, FL irrigation zones need backflow logs before line replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Polybutylene manifold tags in Orlando, FL basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 32811/32829/32885 zone).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 32811/32829/32885.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 32811, 32829, 32885, 32819, 32805 (county grid: Orange County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Recirculation pump failures in Orlando, FL can mimic fixture-specific clogs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: camera-pass main lines in Orlando, FL before jetting older clay or cast iron.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: Water heater anode type may change with Orlando, FL hardness profiles.
+
+Stack vent offsets in Orlando, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Lineage note 894367: recirculation pump amp draw captured before Orlando, FL branch isolation.
+
+Flow dossier 894367: branch wet-vent geometry and jetting nozzle envelope logged for Orlando, FL county grid Orange County (ZIP 32829).
+
+On-site sector marker: Orange County / ZIP 32811 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32829-5d60863b

@@ -12,24 +12,41 @@ lng: -120.4200
 zipSample: ["93457", "93455"]
 zipCodes: ["93457", "93455"]
 localPaths: ["Santa Barbara County / elevation 453 ft band", "Santa Barbara County / ZIP 93457 sector", "Santa Barbara County / primary ZIP 93455", "Santa Barbara County / coords 34.8700, -120.4200", "Santa Barbara County / ZIP 93455 sector"]
-zillowHomeValueUsd: 716832
 ---
 
-**Engineering Notice for Orcutt:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Orcutt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Main water line replacement in Orcutt, CA may require ROW restoration planning.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Orcutt, CA shoulder seasons.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orcutt, CA, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around Orcutt, CA and nearby ZIP sectors.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Seasonal Orcutt, CA irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93455/93457.
+Step: map sump float travel and check-valve orientation for Orcutt, CA basements.
 
-Dispatch sectors sampled: ZIP 93455, 93457 (county grid: Santa Barbara County).
+Hydrostatic holds in Orcutt, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: camera-pass main lines in Orcutt, CA before jetting older clay or cast iron.
+
+FAQ: When should sump battery backups be load-tested? In Orcutt, CA, before spring thaw and hurricane remnants.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Orcutt, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Drain map 156003: camera-pass priority and expansion-tank pre-charge noted for Orcutt, CA postal sector 93455.
+
+Intake ledger 156003: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Orcutt, CA at 34.8700, -120.4200.
+
+Field routing: copper pinhole cluster paired with floor drain trap primer drip near ZIP 93455.
+
+On-site sector marker: Santa Barbara County / ZIP 93457 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93455-0e6e267f

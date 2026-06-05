@@ -12,26 +12,43 @@ lng: -122.6300
 zipSample: ["97268", "97222", "97267"]
 zipCodes: ["97268", "97222", "97267"]
 localPaths: ["Clackamas County / ZIP 97268 sector", "Clackamas County / coords 45.4200, -122.6300", "Clackamas County / elevation 210 ft band", "Clackamas County / ZIP 97267 sector", "Clackamas County / ZIP 97222 sector"]
-zillowHomeValueUsd: 495447
 ---
 
-**Engineering Notice for Oak Grove:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Oak Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Oak Grove, OR require pit shoring notes when water tables are high.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Oak Grove, OR irrigation zones need backflow logs before line replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Cast-iron hub corrosion in Oak Grove, OR often concentrates at the third joint upstream of the cleanout.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Connection points spot-checked where accessible (ZIP 97268/97222/97267 zone).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97268/97222/97267.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 97268, 97222, 97267 (county grid: Clackamas County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Polybutylene manifold tags in Oak Grove, OR basements should be photographed before any wall chase opens.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Frost-free sillcock failures in Oak Grove, OR often trace to interior shutoff seats, not exterior stems.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Hydro-jetting in Oak Grove, OR requires camera confirmation before nozzle pressure is raised.
+
+Supply audit 114377: curb-stop orientation and hose-bib freeze flag reviewed for Oak Grove, OR at coords 45.4200/-122.6300.
+
+Field routing: scale coupon sampling paired with slab leak listening window near ZIP 97222.
+
+On-site sector marker: Clackamas County / primary ZIP 97222 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97222-c23cb514

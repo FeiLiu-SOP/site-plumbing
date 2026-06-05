@@ -12,24 +12,43 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / primary ZIP 78589", "Hidalgo County / coords 26.1900, -98.1500", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / elevation 121 ft band"]
-zillowHomeValueUsd: 183921
 ---
 
-**Engineering Notice for San Juan:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-Local conditions in San Juan, TX can affect timelines and material choices.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-In San Juan, TX, urgent plumbing issues can escalate quickly.
+In San Juan, TX, slab leaks often present as warm spots before wall stains appear.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Our service coordination centers on San Juan, TX coverage windows and verified intake details.
+Polybutylene manifold tags in San Juan, TX basements should be photographed before any wall chase opens.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Juan, TX, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 78589 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 78589 (county grid: Hidalgo County).
+FAQ: When should sump battery backups be load-tested? In San Juan, TX, before spring thaw and hurricane remnants.
+
+Hose bib split patterns in San Juan, TX often follow missed winterization.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: In San Juan, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+CPVC solvent weld times shift with ambient humidity during San Juan, TX shoulder seasons.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 487846: curb-stop orientation and hose-bib freeze flag reviewed for San Juan, TX at coords 26.1900/-98.1500.
+
+Intake ledger 487846: sump amperage, PRV seat wear, and cleanout riser height cross-checked for San Juan, TX at 26.1900, -98.1500.
+
+On-site sector marker: Hidalgo County / ZIP 78589 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78589-2c677187

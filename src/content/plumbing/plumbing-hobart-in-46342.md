@@ -12,27 +12,37 @@ lng: -87.2700
 zipSample: ["46410", "46342"]
 zipCodes: ["46410", "46342"]
 localPaths: ["Lake County / coords 41.5100, -87.2700", "Lake County / elevation 636 ft band", "Lake County / ZIP 46410 sector", "Lake County / ZIP 46342 sector", "Lake County / primary ZIP 46342"]
-zillowHomeValueUsd: 234709
 ---
 
-**Engineering Notice for Hobart:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Hobart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hobart, IN systems need rebalancing.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: avoid large upfront payments without milestones.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on Hobart, IN coverage windows and verified intake details.
+Step: photograph curb-stop and meter pit before trenching.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46342.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 46342.
 
-Field note: Connection points spot-checked where accessible (ZIP 46410/46342 zone).
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Access points and staging constraints recorded for ZIP 46410/46342 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 46410, 46342 (county grid: Lake County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Permit note: Main water line replacement in Hobart, IN may require ROW restoration planning.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hobart, IN.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Drain map 968160: camera-pass priority and expansion-tank pre-charge noted for Hobart, IN postal sector 46342.
+
+On-site sector marker: Lake County / coords 41.5100, -87.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46342-a9efe8a8

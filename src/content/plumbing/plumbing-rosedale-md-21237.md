@@ -12,26 +12,37 @@ lng: -76.5100
 zipSample: ["21206", "21237"]
 zipCodes: ["21237", "21206"]
 localPaths: ["Baltimore County / coords 39.3300, -76.5100", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21237 sector", "Baltimore County / elevation 98 ft band", "Baltimore County / ZIP 21206 sector"]
-zillowHomeValueUsd: 316061
 ---
 
-**Engineering Notice for Rosedale:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Rosedale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Cleanout access limits in Rosedale, MD frequently extend drain cleaning duration.
 
-Tip: request a written scope before work starts.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rosedale, MD.
 
-Local conditions in Rosedale, MD can affect timelines and material choices.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Our service coordination centers on Rosedale, MD coverage windows and verified intake details.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 21206/21237 intake.
+Frost-free sillcock failures in Rosedale, MD often trace to interior shutoff seats, not exterior stems.
 
-Field note: Access points and staging constraints recorded for ZIP 21206/21237 coverage.
+FAQ: Is hydro-jetting always appropriate? In Rosedale, MD, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 21206, 21237 (county grid: Baltimore County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Dual-water-meter setups in Rosedale, MD irrigation zones need backflow logs before line replacement.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 21237.
+
+Recirculation pump failures in Rosedale, MD can mimic fixture-specific clogs.
+
+Pressure trace 242398: meter-pit clearance and dielectric union checklist staged for Rosedale, MD near elevation 98 ft.
+
+On-site sector marker: Baltimore County / primary ZIP 21237 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21237-71c5b972

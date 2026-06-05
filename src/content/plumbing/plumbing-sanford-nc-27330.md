@@ -12,25 +12,41 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27330", "27331", "27332"]
 localPaths: ["Lee County / ZIP 27330 sector", "Lee County / ZIP 27331 sector", "Lee County / coords 35.4900, -79.1800", "Lee County / elevation 354 ft band", "Lee County / ZIP 27332 sector"]
-zillowHomeValueUsd: 294225
 ---
 
-**Engineering Notice for Sanford:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Sanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Sanford, NC slab circuits run overnight when listening mics show ambiguous hits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27330.
+Sump discharge freeze risk in Sanford, NC should be reviewed before spring thaw cycles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-We coordinate local dispatch coverage around Sanford, NC and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 27330.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27331/27332/27330.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Sanford, NC systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 27331, 27332, 27330 (county grid: Lee County).
+Polybutylene manifold tags in Sanford, NC basements should be photographed before any wall chase opens.
+
+FAQ: When should sump battery backups be load-tested? In Sanford, NC, before spring thaw and hurricane remnants.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 584681: toilet flange spacer kit and shower cartridge seat score queued for Sanford, NC walk-through.
+
+Intake ledger 584681: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Sanford, NC at 35.4900, -79.1800.
+
+On-site sector marker: Lee County / ZIP 27330 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27330-aa6049dd

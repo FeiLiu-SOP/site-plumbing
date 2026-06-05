@@ -12,25 +12,39 @@ lng: -98.4800
 zipSample: ["78260"]
 zipCodes: ["78260"]
 localPaths: ["Bexar County / coords 29.7000, -98.4800", "Bexar County / primary ZIP 78260", "Bexar County / elevation 1250 ft band", "Bexar County / ZIP 78260 sector"]
-zillowHomeValueUsd: 517689
 ---
 
-**Engineering Notice for Timberwood Park:** Structural loading calculated based on 1250 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Timberwood Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Stack vent offsets in Timberwood Park, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 78260.
+Step: log PRV inlet and outlet readings during intake.
 
-We coordinate local dispatch coverage around Timberwood Park, TX and nearby ZIP sectors.
+Material note: Water heater anode type may change with Timberwood Park, TX hardness profiles.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 78260 intake.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 78260 (county grid: Bexar County).
+Basement floor drains in Timberwood Park, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Seasonal Timberwood Park, TX irrigation cross-connections can mask domestic pressure loss.
+
+Trenchless pulls in Timberwood Park, TX require pit dimensions verified against utility locate marks.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Dual-water-meter setups in Timberwood Park, TX irrigation zones need backflow logs before line replacement.
+
+Risk flag: In Timberwood Park, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Lineage note 879290: recirculation pump amp draw captured before Timberwood Park, TX branch isolation.
+
+Scope trace: thermal expansion loop check plus recirculation pump amp draw referenced in Bexar County county grid review.
+
+On-site sector marker: Bexar County / coords 29.7000, -98.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78260-68eb9c8e

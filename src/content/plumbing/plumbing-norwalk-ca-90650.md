@@ -12,26 +12,41 @@ lng: -118.0800
 zipSample: ["90650", "90651", "90652"]
 zipCodes: ["90651", "90650", "90652"]
 localPaths: ["Los Angeles County / ZIP 90651 sector", "Los Angeles County / primary ZIP 90650", "Los Angeles County / elevation 95 ft band", "Los Angeles County / coords 33.9100, -118.0800", "Los Angeles County / ZIP 90652 sector"]
-zillowHomeValueUsd: 763348
 ---
 
-**Engineering Notice for Norwalk:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Norwalk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map sump float travel and check-valve orientation for Norwalk, CA basements.
 
-In Norwalk, CA, seasonal demand can change scheduling windows.
+Galvanized segments in Norwalk, CA may restrict flow long before visible corrosion.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Norwalk, CA basements should be photographed before any wall chase opens.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Irrigation cross-connections in Norwalk, CA can back-siphon domestic lines during main breaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90652/90650/90651.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 90652/90650/90651 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 90652, 90650, 90651 (county grid: Los Angeles County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Basement floor drains in Norwalk, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Drain map 809991: camera-pass priority and expansion-tank pre-charge noted for Norwalk, CA postal sector 90650.
+
+plumbing brief: copper pinhole cluster and thermal expansion loop check were cross-checked for the Norwalk intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Los Angeles County. Reference elevation: 95 ft. Primary coordinates: 33.9100, -118.0800. ZIP sample: 90650, 90651, 90652. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 90650 grid.
 
 Service reference: CA-90650-b43b7355

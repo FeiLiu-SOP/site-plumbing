@@ -12,24 +12,37 @@ lng: -86.1300
 zipSample: ["46903", "46901", "46902", "46965"]
 zipCodes: ["46902", "46901", "46903", "46965"]
 localPaths: ["Howard County / ZIP 46903 sector", "Howard County / primary ZIP 46902", "Howard County / elevation 827 ft band", "Howard County / ZIP 46902 sector", "Howard County / ZIP 46965 sector"]
-zillowHomeValueUsd: 198892
 ---
 
-**Engineering Notice for Kokomo:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Kokomo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Homeowners in Kokomo, IN often face sudden plumbing problems that require fast action.
+Risk flag: Seasonal Kokomo, IN irrigation cross-connections can mask domestic pressure loss.
 
-Tip: request a written scope before work starts.
+Frost-free sillcock failures in Kokomo, IN often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 46901/46903/46965 zone).
+Hydro-jetting in Kokomo, IN requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 46901, 46903, 46965, 46902 (county grid: Howard County).
+Branch wet vents in Kokomo, IN can mask gurgling as a main-line issue.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Dual-water-meter setups in Kokomo, IN irrigation zones need backflow logs before line replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Trenchless sleeve pulls near Kokomo, IN require pit shoring notes when water tables are high.
+
+Drain map 309716: camera-pass priority and expansion-tank pre-charge noted for Kokomo, IN postal sector 46902.
+
+On-site sector marker: Howard County / elevation 827 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46902-ffc14335

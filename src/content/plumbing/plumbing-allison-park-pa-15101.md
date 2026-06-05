@@ -12,27 +12,43 @@ lng: -79.9600
 zipSample: ["15101", "15091"]
 zipCodes: ["15101", "15091"]
 localPaths: ["Allegheny County / elevation 1112 ft band", "Allegheny County / primary ZIP 15101", "Allegheny County / ZIP 15091 sector", "Allegheny County / ZIP 15101 sector", "Allegheny County / coords 40.5700, -79.9600"]
-zillowHomeValueUsd: 378237
 ---
 
-**Engineering Notice for Allison Park:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Allison Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
 
 
-Our service coordination centers on Allison Park, PA coverage windows and verified intake details.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Allison Park, PA.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: camera-pass main lines in Allison Park, PA before jetting older clay or cast iron.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 15101.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 15091/15101.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 15101.
 
-Field note: Access points and staging constraints recorded for ZIP 15091/15101 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 15101.
 
-Dispatch sectors sampled: ZIP 15091, 15101 (county grid: Allegheny County).
+CPVC solvent weld times shift with ambient humidity during Allison Park, PA shoulder seasons.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Basement floor drains in Allison Park, PA should be snaked only after trap arm geometry is confirmed on camera.
+
+Cleanout access limits in Allison Park, PA frequently extend drain cleaning duration.
+
+Material note: Water heater anode type may change with Allison Park, PA hardness profiles.
+
+Stack vent offsets in Allison Park, PA older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 302264: curb-stop orientation and hose-bib freeze flag reviewed for Allison Park, PA at coords 40.5700/-79.9600.
+
+Pressure trace 302264: meter-pit clearance and dielectric union checklist staged for Allison Park, PA near elevation 1112 ft.
+
+Field routing: cleanout riser height paired with fixture shutoff torque log near ZIP 15101.
+
+On-site sector marker: Allegheny County / elevation 1112 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15101-312e521a

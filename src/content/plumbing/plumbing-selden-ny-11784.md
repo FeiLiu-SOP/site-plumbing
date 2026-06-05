@@ -12,24 +12,39 @@ lng: -73.0500
 zipSample: ["11784"]
 zipCodes: ["11784"]
 localPaths: ["Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11784", "Suffolk County / coords 40.8700, -73.0500", "Suffolk County / elevation 121 ft band"]
-zillowHomeValueUsd: 585541
 ---
 
-**Engineering Notice for Selden:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Selden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our service coordination centers on Selden, NY coverage windows and verified intake details.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 11784.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Selden, NY systems need rebalancing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Selden, NY irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 11784.
+Hard water in Selden, NY accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 11784 (county grid: Suffolk County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: Seasonal Selden, NY irrigation cross-connections can mask domestic pressure loss.
+
+Permit note: Main water line replacement in Selden, NY may require ROW restoration planning.
+
+Step: map sump float travel and check-valve orientation for Selden, NY basements.
+
+Hose bib split patterns in Selden, NY often follow missed winterization.
+
+Fixture roster 303349: toilet flange spacer kit and shower cartridge seat score queued for Selden, NY walk-through.
+
+On-site sector marker: Suffolk County / coords 40.8700, -73.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11784-3031d8ad

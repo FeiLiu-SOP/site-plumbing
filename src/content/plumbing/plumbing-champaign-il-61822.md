@@ -12,24 +12,43 @@ lng: -88.2700
 zipSample: ["61821", "61826", "61820", "61822", "61825"]
 zipCodes: ["61826", "61821", "61825", "61824", "61820", "61822"]
 localPaths: ["Champaign County / ZIP 61821 sector", "Champaign County / coords 40.1100, -88.2700", "Champaign County / ZIP 61826 sector", "Champaign County / ZIP 61820 sector", "Champaign County / elevation 787 ft band"]
-zillowHomeValueUsd: 324850
 ---
 
-**Engineering Notice for Champaign:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Champaign County.
+**Engineering Notice for Champaign:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Champaign County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Frost-free sillcock failures in Champaign, IL often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Champaign, IL, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Our service coordination centers on Champaign, IL coverage windows and verified intake details.
+Risk flag: Seasonal Champaign, IL irrigation cross-connections can mask domestic pressure loss.
 
-Tip: request a written scope before work starts.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 61825/61820/61826.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 61825, 61820, 61826, 61824, 61821 (county grid: Champaign County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 61822.
+
+Across Champaign, IL, main-line bellies can trap debris even when fixtures drain normally.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Cast-iron hub corrosion in Champaign, IL often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: In Champaign, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When is cabling enough? In Champaign, IL, pipe material and blockage type dictate method.
+
+Basement floor drains in Champaign, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Polybutylene manifold tags in Champaign, IL basements should be photographed before any wall chase opens.
+
+Pressure trace 344776: meter-pit clearance and dielectric union checklist staged for Champaign, IL near elevation 787 ft.
+
+plumbing brief: PEX expansion ring batch and floor drain trap primer drip were cross-checked for the Champaign intake packet.
+
+ZIP-corridor snapshot for Champaign, IL: sampled sectors include 61826, 61825, 61821, 61820, 61822, 61824; county routing grid remains Champaign County.
 
 Service reference: IL-61822-bb7709c2

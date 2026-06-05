@@ -12,26 +12,37 @@ lng: -77.5900
 zipSample: ["23238", "23255", "23288", "23229"]
 zipCodes: ["23288", "23229", "23255", "23238"]
 localPaths: ["Henrico County / ZIP 23229 sector", "Henrico County / ZIP 23288 sector", "Henrico County / coords 37.5900, -77.5900", "Henrico County / ZIP 23238 sector", "Henrico County / elevation 262 ft band"]
-zillowHomeValueUsd: 514433
 ---
 
-**Engineering Notice for Tuckahoe:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for Tuckahoe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: confirm licensing and insurance before approving work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Tuckahoe, VA, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 23229.
 
-Our service coordination centers on Tuckahoe, VA coverage windows and verified intake details.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Moisture pathway inspection logged near ZIP 23229/23255/23288 intake.
+Material note: Water heater anode type may change with Tuckahoe, VA hardness profiles.
 
-Field note: Wind exposure category reviewed for ZIP sector 23229/23255/23288.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 23229, 23255, 23288, 23238 (county grid: Henrico County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Seasonal Tuckahoe, VA irrigation cross-connections can mask domestic pressure loss.
+
+Frost-free sillcock failures in Tuckahoe, VA often trace to interior shutoff seats, not exterior stems.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Tuckahoe, VA.
+
+Polybutylene manifold tags in Tuckahoe, VA basements should be photographed before any wall chase opens.
+
+Intake ledger 610696: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Tuckahoe, VA at 37.5900, -77.5900.
+
+On-site sector marker: Henrico County / ZIP 23255 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23229-80eb58ce

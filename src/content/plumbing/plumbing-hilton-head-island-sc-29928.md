@@ -12,26 +12,41 @@ lng: -80.7500
 zipSample: ["29925", "29928", "29926", "29938"]
 zipCodes: ["29925", "29938", "29928", "29926"]
 localPaths: ["Beaufort County / primary ZIP 29928", "Beaufort County / elevation 49 ft band", "Beaufort County / coords 32.1900, -80.7500", "Beaufort County / ZIP 29926 sector", "Beaufort County / ZIP 29938 sector"]
-zillowHomeValueUsd: 779798
 ---
 
-**Engineering Notice for Hilton Head Island:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Beaufort County.
+**Engineering Notice for Hilton Head Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should sump battery backups be load-tested? In Hilton Head Island, SC, before spring thaw and hurricane remnants.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Water heater T&P discharge paths in Hilton Head Island, SC must terminate safely before replacement quotes.
 
-Our service coordination centers on Hilton Head Island, SC coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 29925/29938/29926.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 29925/29938/29926 coverage.
+Galvanized segments in Hilton Head Island, SC may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 29925, 29938, 29926, 29928 (county grid: Beaufort County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+In Hilton Head Island, SC, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Hilton Head Island, SC.
+
+Hydrostatic holds in Hilton Head Island, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 339761: meter-pit clearance and dielectric union checklist staged for Hilton Head Island, SC near elevation 49 ft.
+
+plumbing brief: gas water heater draft hood gap and slab leak listening window were cross-checked for the Hilton Head Island intake packet.
+
+On-site sector marker: Beaufort County / ZIP 29938 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29928-84813cfa

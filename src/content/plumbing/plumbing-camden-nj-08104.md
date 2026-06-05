@@ -12,25 +12,37 @@ lng: -75.1100
 zipSample: ["08102", "08104", "08101", "08103", "08105"]
 zipCodes: ["08105", "08104", "08102", "08103", "08101"]
 localPaths: ["Camden County / ZIP 08101 sector", "Camden County / ZIP 08102 sector", "Camden County / coords 39.9400, -75.1100", "Camden County / ZIP 08103 sector", "Camden County / ZIP 08105 sector"]
-zillowHomeValueUsd: 131205
 ---
 
-**Engineering Notice for Camden:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for Camden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Expansion tank pre-charge loss in Camden, NJ often tracks heater replacement deferrals.
 
-Tip: address recurring issues early to prevent bigger damage.
+Cleanout access limits in Camden, NJ frequently extend drain cleaning duration.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Camden, NJ, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 08104.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Camden, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 08104.
+Dispatch packets reference county grid Camden County near ZIP 08104.
 
-Field note: Wind exposure category reviewed for ZIP sector 08104/08105/08102.
+Basement floor drains in Camden, NJ should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 08104, 08105, 08102, 08103, 08101 (county grid: Camden County).
+Material note: Water heater anode type may change with Camden, NJ hardness profiles.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When should sump battery backups be load-tested? In Camden, NJ, before spring thaw and hurricane remnants.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Camden, NJ.
+
+Fixture roster 389808: toilet flange spacer kit and shower cartridge seat score queued for Camden, NJ walk-through.
+
+ZIP-corridor snapshot for Camden, NJ: sampled sectors include 08101, 08104, 08103, 08105, 08102; county routing grid remains Camden County.
 
 Service reference: NJ-08104-1513e04f

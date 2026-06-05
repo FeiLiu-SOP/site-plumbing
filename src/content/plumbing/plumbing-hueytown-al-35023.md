@@ -12,25 +12,43 @@ lng: -87.0200
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / primary ZIP 35023", "Jefferson County / coords 33.4200, -87.0200", "Jefferson County / ZIP 35023 sector", "Jefferson County / elevation 591 ft band"]
-zillowHomeValueUsd: 170556
 ---
 
-**Engineering Notice for Hueytown:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Hueytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Hueytown, AL can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around Hueytown, AL and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35023.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: request a written scope before work starts.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 35023.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35023.
+Across Hueytown, AL, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 35023 (county grid: Jefferson County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: Is hydro-jetting always appropriate? In Hueytown, AL, pipe material and blockage type dictate method.
+
+Permit note: Main water line replacement in Hueytown, AL may require ROW restoration planning.
+
+Step: camera-pass main lines in Hueytown, AL before jetting older clay or cast iron.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Flow dossier 664702: branch wet-vent geometry and jetting nozzle envelope logged for Hueytown, AL county grid Jefferson County (ZIP 35023).
+
+Supply audit 664702: curb-stop orientation and hose-bib freeze flag reviewed for Hueytown, AL at coords 33.4200/-87.0200.
+
+plumbing brief: toilet flange spacer kit and copper pinhole cluster were cross-checked for the Hueytown intake packet.
+
+On-site sector marker: Jefferson County / elevation 591 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35023-a789315f

@@ -12,24 +12,45 @@ lng: -101.8300
 zipSample: ["79120", "79103", "79110", "79118", "79121"]
 zipCodes: ["79166", "79121", "79117", "79174", "79120", "79104", "79168", "79106", "79103", "79172", "79107", "79111"]
 localPaths: ["Potter County / ZIP 79120 sector", "Potter County / ZIP 79103 sector", "Potter County / ZIP 79118 sector", "Potter County / elevation 3675 ft band", "Potter County / ZIP 79121 sector"]
-zillowHomeValueUsd: 298026
 ---
 
-**Engineering Notice for Amarillo:** Structural loading calculated based on 3675 ft terrain assessment. Regional dispatch grid: Potter County.
+**Engineering Notice for Amarillo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Potter County.
 
 
-Our service coordination centers on Amarillo, TX coverage windows and verified intake details.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Amarillo, TX, but intake notes help reduce delays.
+Step: camera-pass main lines in Amarillo, TX before jetting older clay or cast iron.
 
-In Amarillo, TX, urgent plumbing issues can escalate quickly.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 79121.
 
-Transparent pricing helps you compare like-for-like scope items.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 79111/79120/79114 intake.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 79121.
 
-Dispatch sectors sampled: ZIP 79111, 79120, 79114, 79189, 79166 (county grid: Potter County).
+Risk flag: Seasonal Amarillo, TX irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Amarillo, TX, before spring thaw and hurricane remnants.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Hose bib split patterns in Amarillo, TX often follow missed winterization.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Fixture roster 358163: toilet flange spacer kit and shower cartridge seat score queued for Amarillo, TX walk-through.
+
+Flow dossier 358163: branch wet-vent geometry and jetting nozzle envelope logged for Amarillo, TX county grid Potter County (ZIP 79121).
+
+Scope trace: gas water heater draft hood gap plus slab leak listening window referenced in Potter County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~3675 ft across the Potter County area. Coordinates: 35.2000, -101.8300. ZIP sample: 79107, 79114, 79109, 79168, 79189. Service perimeter note: Coverage extends through Potter County with dispatch centered near ZIP 79121.
 
 Service reference: TX-79121-9b4711c9

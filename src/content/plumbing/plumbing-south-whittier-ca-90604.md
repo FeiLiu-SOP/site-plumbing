@@ -12,24 +12,41 @@ lng: -118.0300
 zipSample: ["90605", "90604"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / primary ZIP 90604", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / coords 33.9300, -118.0300"]
-zillowHomeValueUsd: 828652
 ---
 
-**Engineering Notice for South Whittier:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Whittier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Whittier, CA, but intake notes help reduce delays.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in South Whittier, CA require pit dimensions verified against utility locate marks.
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Our service coordination centers on South Whittier, CA coverage windows and verified intake details.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 90604/90605 zone).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 90604, 90605 (county grid: Los Angeles County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: In South Whittier, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Cleanout access limits in South Whittier, CA frequently extend drain cleaning duration.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Frost-free sillcock failures in South Whittier, CA often trace to interior shutoff seats, not exterior stems.
+
+Intake ledger 962355: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Whittier, CA at 33.9300, -118.0300.
+
+Field routing: shower cartridge seat score paired with backflow test cock orientation near ZIP 90604.
+
+ZIP-corridor snapshot for South Whittier, CA: sampled sectors include 90605, 90604; county routing grid remains Los Angeles County.
 
 Service reference: CA-90604-9012dc67

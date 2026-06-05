@@ -12,24 +12,39 @@ lng: -74.1600
 zipSample: ["07522", "07505", "07513", "07503", "07524"]
 zipCodes: ["07505", "07503", "07524", "07513", "07504", "07502", "07522", "07514", "07543", "07544", "07507", "07510"]
 localPaths: ["Passaic County / ZIP 07524 sector", "Passaic County / ZIP 07522 sector", "Passaic County / primary ZIP 07522", "Passaic County / ZIP 07513 sector", "Passaic County / ZIP 07505 sector"]
-zillowHomeValueUsd: 480765
 ---
 
-**Engineering Notice for Paterson:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Passaic County.
+**Engineering Notice for Paterson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Hydro-jetting in Paterson, NJ requires camera confirmation before nozzle pressure is raised.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate local dispatch coverage around Paterson, NJ and nearby ZIP sectors.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Paterson, NJ.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 07503/07502/07522 intake.
+Dual-water-meter setups in Paterson, NJ irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 07503, 07502, 07522, 07509, 07505 (county grid: Passaic County).
+Step: camera-pass main lines in Paterson, NJ before jetting older clay or cast iron.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: Water heater anode type may change with Paterson, NJ hardness profiles.
+
+In Paterson, NJ, slab leaks often present as warm spots before wall stains appear.
+
+Fixture shutoff stiffness in Paterson, NJ may indicate mineral bridging behind stems.
+
+Basement floor drains in Paterson, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Trenchless sleeve pulls near Paterson, NJ require pit shoring notes when water tables are high.
+
+Drain map 959545: camera-pass priority and expansion-tank pre-charge noted for Paterson, NJ postal sector 07522.
+
+Primary postal anchor 07522 with multi-ZIP overlap in Paterson; field packets tag Passaic County for county-grid reconciliation.
 
 Service reference: NJ-07522-709eb0e7

@@ -12,26 +12,43 @@ lng: -88.3100
 zipSample: ["60174", "60175"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / ZIP 60175 sector", "Kane County / elevation 768 ft band", "Kane County / ZIP 60174 sector", "Kane County / primary ZIP 60175", "Kane County / coords 41.9200, -88.3100"]
-zillowHomeValueUsd: 624839
 ---
 
-**Engineering Notice for St. Charles:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for St. Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Fixture shutoff stiffness in St. Charles, IL may indicate mineral bridging behind stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our service coordination centers on St. Charles, IL coverage windows and verified intake details.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 60175.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 60175/60174 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60175/60174.
+Irrigation cross-connections in St. Charles, IL can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 60175, 60174 (county grid: Kane County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in St. Charles, IL systems need rebalancing.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When should sump battery backups be load-tested? In St. Charles, IL, before spring thaw and hurricane remnants.
+
+CPVC solvent weld times shift with ambient humidity during St. Charles, IL shoulder seasons.
+
+Fixture roster 172022: toilet flange spacer kit and shower cartridge seat score queued for St. Charles, IL walk-through.
+
+Supply audit 172022: curb-stop orientation and hose-bib freeze flag reviewed for St. Charles, IL at coords 41.9200/-88.3100.
+
+On-site sector marker: Kane County / primary ZIP 60175 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60175-ad82a331

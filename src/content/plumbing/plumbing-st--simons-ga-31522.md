@@ -12,24 +12,37 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / primary ZIP 31522", "Glynn County / ZIP 31522 sector", "Glynn County / elevation 20 ft band", "Glynn County / coords 31.1800, -81.3900"]
-zillowHomeValueUsd: 688187
 ---
 
-**Engineering Notice for St. Simons:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Glynn County.
+**Engineering Notice for St. Simons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Glynn County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Galvanized segments in St. Simons, GA may restrict flow long before visible corrosion.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 31522.
 
-In St. Simons, GA, urgent plumbing issues can escalate quickly.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in St. Simons, GA require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 31522.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 31522 (county grid: Glynn County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydrostatic holds in St. Simons, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Stack vent offsets in St. Simons, GA older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Seasonal St. Simons, GA irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 222135: toilet flange spacer kit and shower cartridge seat score queued for St. Simons, GA walk-through.
+
+ZIP-corridor snapshot for St. Simons, GA: sampled sectors include 31522; county routing grid remains Glynn County.
 
 Service reference: GA-31522-b9ce8b7c

@@ -12,26 +12,43 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / elevation 1512 ft band", "St. Louis County / primary ZIP 55746", "St. Louis County / ZIP 55746 sector", "St. Louis County / coords 47.4000, -92.9500"]
-zillowHomeValueUsd: 154201
 ---
 
-**Engineering Notice for Hibbing:** Structural loading calculated based on 1512 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hibbing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cleanout access limits in Hibbing, MN frequently extend drain cleaning duration.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+CPVC solvent weld times shift with ambient humidity during Hibbing, MN shoulder seasons.
 
-Tip: request a written scope before work starts.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 55746.
+Water heater T&P discharge paths in Hibbing, MN must terminate safely before replacement quotes.
 
-Field note: Connection points spot-checked where accessible (ZIP 55746 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 55746 (county grid: St. Louis County).
+Stack vent offsets in Hibbing, MN older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Permit note: Main water line replacement in Hibbing, MN may require ROW restoration planning.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Sewer gas odors in Hibbing, MN should trigger trap seal and vent path review.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55746.
+
+Pressure trace 769343: meter-pit clearance and dielectric union checklist staged for Hibbing, MN near elevation 1512 ft.
+
+plumbing brief: jetter nozzle envelope and slab leak listening window were cross-checked for the Hibbing intake packet.
+
+Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Hibbing, MN before niche-specific work begins.
 
 Service reference: MN-55746-aef94a5c

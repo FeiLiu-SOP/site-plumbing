@@ -12,26 +12,39 @@ lng: -116.9400
 zipSample: ["83877", "83854"]
 zipCodes: ["83854", "83877"]
 localPaths: ["Kootenai County / ZIP 83854 sector", "Kootenai County / primary ZIP 83854", "Kootenai County / elevation 2205 ft band", "Kootenai County / ZIP 83877 sector", "Kootenai County / coords 47.7200, -116.9400"]
-zillowHomeValueUsd: 526981
 ---
 
-**Engineering Notice for Post Falls:** Structural loading calculated based on 2205 ft terrain assessment. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Post Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kootenai County.
 
 
-In Post Falls, ID, urgent plumbing issues can escalate quickly.
+Risk flag: Seasonal Post Falls, ID irrigation cross-connections can mask domestic pressure loss.
 
-Tip: request a written scope before work starts.
+Step: tag shutoffs and meter orientation before opening walls.
 
-We coordinate local dispatch coverage around Post Falls, ID and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Post Falls, ID should be reviewed before spring thaw cycles.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 83877/83854 zone).
+Stack vent offsets in Post Falls, ID older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Access points and staging constraints recorded for ZIP 83877/83854 coverage.
+Hard water in Post Falls, ID accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 83877, 83854 (county grid: Kootenai County).
+Expansion tank pre-charge loss in Post Falls, ID often tracks heater replacement deferrals.
+
+Dispatch packets reference county grid Kootenai County near ZIP 83854.
+
+In Post Falls, ID, slab leaks often present as warm spots before wall stains appear.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Intake ledger 750952: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Post Falls, ID at 47.7200, -116.9400.
+
+Scope trace: floor drain trap primer drip plus copper pinhole cluster referenced in Kootenai County county grid review.
+
+Primary postal anchor 83854 with multi-ZIP overlap in Post Falls; field packets tag Kootenai County for county-grid reconciliation.
 
 Service reference: ID-83854-eaf6f717

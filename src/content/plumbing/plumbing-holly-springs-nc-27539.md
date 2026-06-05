@@ -12,25 +12,37 @@ lng: -78.8400
 zipSample: ["27540", "27539"]
 zipCodes: ["27540", "27539"]
 localPaths: ["Wake County / coords 35.6500, -78.8400", "Wake County / elevation 420 ft band", "Wake County / primary ZIP 27539", "Wake County / ZIP 27539 sector", "Wake County / ZIP 27540 sector"]
-zillowHomeValueUsd: 604337
 ---
 
-**Engineering Notice for Holly Springs:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Holly Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stack vent offsets in Holly Springs, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 27539.
+FAQ: Is hydro-jetting always appropriate? In Holly Springs, NC, pipe material and blockage type dictate method.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Holly Springs, NC, but intake notes help reduce delays.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Homeowners in Holly Springs, NC often face sudden plumbing problems that require fast action.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Holly Springs, NC systems need rebalancing.
 
-Field note: Wind exposure category reviewed for ZIP sector 27539/27540.
+Material note: Water heater anode type may change with Holly Springs, NC hardness profiles.
 
-Dispatch sectors sampled: ZIP 27539, 27540 (county grid: Wake County).
+Basement floor drains in Holly Springs, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Hard water in Holly Springs, NC accelerates scale on PRV seats and heater elements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 582601: curb-stop orientation and hose-bib freeze flag reviewed for Holly Springs, NC at coords 35.6500/-78.8400.
+
+On-site sector marker: Wake County / ZIP 27540 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27539-ca1af65e

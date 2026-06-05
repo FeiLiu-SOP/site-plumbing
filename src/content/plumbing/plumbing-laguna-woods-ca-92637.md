@@ -12,24 +12,39 @@ lng: -117.7300
 zipSample: ["92654", "92637"]
 zipCodes: ["92637", "92654"]
 localPaths: ["Orange County / coords 33.6100, -117.7300", "Orange County / ZIP 92637 sector", "Orange County / primary ZIP 92637", "Orange County / ZIP 92654 sector", "Orange County / elevation 453 ft band"]
-zillowHomeValueUsd: 470900
 ---
 
-**Engineering Notice for Laguna Woods:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Our service coordination centers on Laguna Woods, CA coverage windows and verified intake details.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92637.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Laguna Woods, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Laguna Woods, CA irrigation zones need backflow logs before line replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Laguna Woods, CA, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Moisture pathway inspection logged near ZIP 92637/92654 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 92637, 92654 (county grid: Orange County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Laguna Woods, CA.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Cast-iron hub corrosion in Laguna Woods, CA often concentrates at the third joint upstream of the cleanout.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Drain map 694403: camera-pass priority and expansion-tank pre-charge noted for Laguna Woods, CA postal sector 92637.
+
+Field routing: backflow test cock orientation paired with PEX expansion ring batch near ZIP 92637.
+
+On-site sector marker: Orange County / primary ZIP 92637 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92637-744fd30c

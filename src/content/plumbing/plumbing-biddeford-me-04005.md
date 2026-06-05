@@ -12,24 +12,43 @@ lng: -70.4500
 zipSample: ["04006", "04007", "04005"]
 zipCodes: ["04007", "04006", "04005"]
 localPaths: ["York County / primary ZIP 04005", "York County / coords 43.4700, -70.4500", "York County / elevation 151 ft band", "York County / ZIP 04006 sector", "York County / ZIP 04007 sector"]
-zillowHomeValueUsd: 499637
 ---
 
-**Engineering Notice for Biddeford:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Biddeford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cleanout access limits in Biddeford, ME frequently extend drain cleaning duration.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Water heater anode type may change with Biddeford, ME hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is cabling enough? In Biddeford, ME, pipe material and blockage type dictate method.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Seasonal Biddeford, ME irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Wind exposure category reviewed for ZIP sector 04006/04007/04005.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 04006, 04007, 04005 (county grid: York County).
+Cast-iron hub corrosion in Biddeford, ME often concentrates at the third joint upstream of the cleanout.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Stack vent offsets in Biddeford, ME older duplexes can mask tub gurgle as a main-line failure.
+
+Irrigation cross-connections in Biddeford, ME can back-siphon domestic lines during main breaks.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Biddeford, ME systems need rebalancing.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Pressure trace 809307: meter-pit clearance and dielectric union checklist staged for Biddeford, ME near elevation 151 ft.
+
+Drain map 809307: camera-pass priority and expansion-tank pre-charge noted for Biddeford, ME postal sector 04005.
+
+On-site sector marker: York County / ZIP 04005 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04005-c6eea882

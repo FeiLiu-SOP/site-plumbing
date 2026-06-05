@@ -12,26 +12,41 @@ lng: -87.6300
 zipSample: ["60412", "60411"]
 zipCodes: ["60412", "60411"]
 localPaths: ["Cook County / primary ZIP 60411", "Cook County / ZIP 60412 sector", "Cook County / ZIP 60411 sector", "Cook County / elevation 663 ft band", "Cook County / coords 41.5100, -87.6300"]
-zillowHomeValueUsd: 168666
 ---
 
-**Engineering Notice for Chicago Heights:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Chicago Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-Homeowners in Chicago Heights, IL often face sudden plumbing problems that require fast action.
+Trenchless sleeve pulls near Chicago Heights, IL require pit shoring notes when water tables are high.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chicago Heights, IL, but intake notes help reduce delays.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: request a written scope before work starts.
+Basement floor drains in Chicago Heights, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Moisture pathway inspection logged near ZIP 60411/60412 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 60411/60412 zone).
+Expansion tank pre-charge loss in Chicago Heights, IL often tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 60411, 60412 (county grid: Cook County).
+Tip: Save water heater serial plates for warranty traceability.
+
+Hydrostatic holds in Chicago Heights, IL slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Trenchless pulls in Chicago Heights, IL require pit dimensions verified against utility locate marks.
+
+FAQ: When should sump battery backups be load-tested? In Chicago Heights, IL, before spring thaw and hurricane remnants.
+
+Drain map 798912: camera-pass priority and expansion-tank pre-charge noted for Chicago Heights, IL postal sector 60411.
+
+Fixture roster 798912: toilet flange spacer kit and shower cartridge seat score queued for Chicago Heights, IL walk-through.
+
+On-site sector marker: Cook County / ZIP 60412 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60411-8a803519

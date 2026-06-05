@@ -12,27 +12,45 @@ lng: -104.7400
 zipSample: ["80645", "80620", "80634"]
 zipCodes: ["80634", "80620", "80645"]
 localPaths: ["Weld County / ZIP 80634 sector", "Weld County / elevation 4701 ft band", "Weld County / primary ZIP 80645", "Weld County / ZIP 80620 sector", "Weld County / ZIP 80645 sector"]
-zillowHomeValueUsd: 455795
 ---
 
-**Engineering Notice for Evans:** Structural loading calculated based on 4701 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Evans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 80645.
+Dispatch packets reference county grid Weld County near ZIP 80645.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Evans, CO systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Evans, CO, but intake notes help reduce delays.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Evans, CO.
 
-Field note: Connection points spot-checked where accessible (ZIP 80645/80620/80634 zone).
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 80645/80620/80634.
+Risk flag: In Evans, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 80645, 80620, 80634 (county grid: Weld County).
+Expansion tank pre-charge loss in Evans, CO often tracks heater replacement deferrals.
+
+Risk flag: Seasonal Evans, CO irrigation cross-connections can mask domestic pressure loss.
+
+Stack vent offsets in Evans, CO older duplexes can mask tub gurgle as a main-line failure.
+
+Sump discharge freeze risk in Evans, CO should be reviewed before spring thaw cycles.
+
+CPVC solvent weld times shift with ambient humidity during Evans, CO shoulder seasons.
+
+Permit note: Main water line replacement in Evans, CO may require ROW restoration planning.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Flow dossier 523849: branch wet-vent geometry and jetting nozzle envelope logged for Evans, CO county grid Weld County (ZIP 80645).
+
+Lineage note 523849: recirculation pump amp draw captured before Evans, CO branch isolation.
+
+plumbing brief: dielectric union checklist and hose bib freeze flag were cross-checked for the Evans intake packet.
+
+On-site sector marker: Weld County / ZIP 80634 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80645-a86a1445

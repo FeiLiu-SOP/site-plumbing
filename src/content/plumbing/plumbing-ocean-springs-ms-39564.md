@@ -12,24 +12,41 @@ lng: -88.7900
 zipSample: ["39566", "39564"]
 zipCodes: ["39566", "39564"]
 localPaths: ["Jackson County / ZIP 39564 sector", "Jackson County / ZIP 39566 sector", "Jackson County / coords 30.4100, -88.7900", "Jackson County / primary ZIP 39564", "Jackson County / elevation 39 ft band"]
-zillowHomeValueUsd: 268061
 ---
 
-**Engineering Notice for Ocean Springs:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Ocean Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: confirm licensing and insurance before approving work.
+Dual-water-meter setups in Ocean Springs, MS irrigation zones need backflow logs before line replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ocean Springs, MS, but intake notes help reduce delays.
+Hydrostatic holds in Ocean Springs, MS slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 39564/39566 intake.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 39564.
 
-Dispatch sectors sampled: ZIP 39564, 39566 (county grid: Jackson County).
+We coordinate Ocean Springs, MS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: map sump float travel and check-valve orientation for Ocean Springs, MS basements.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: Water heater anode type may change with Ocean Springs, MS hardness profiles.
+
+Trenchless pulls in Ocean Springs, MS require pit dimensions verified against utility locate marks.
+
+Lineage note 697228: recirculation pump amp draw captured before Ocean Springs, MS branch isolation.
+
+Pressure trace 697228: meter-pit clearance and dielectric union checklist staged for Ocean Springs, MS near elevation 39 ft.
+
+Field routing: backflow test cock orientation paired with meter pit clearance near ZIP 39564.
+
+On-site sector marker: Jackson County / primary ZIP 39564 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39564-3b8358ec

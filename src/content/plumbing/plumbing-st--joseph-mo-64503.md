@@ -12,26 +12,41 @@ lng: -94.8200
 zipSample: ["64504", "64503", "64501", "64508", "64505"]
 zipCodes: ["64507", "64508", "64501", "64502", "64503", "64504", "64505", "64506"]
 localPaths: ["Buchanan County / ZIP 64503 sector", "Buchanan County / ZIP 64501 sector", "Buchanan County / primary ZIP 64503", "Buchanan County / ZIP 64504 sector", "Buchanan County / ZIP 64508 sector"]
-zillowHomeValueUsd: 172780
 ---
 
-**Engineering Notice for St. Joseph:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Buchanan County.
+**Engineering Notice for St. Joseph:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Buchanan County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Joseph, MO, but intake notes help reduce delays.
+Trenchless pulls in St. Joseph, MO require pit dimensions verified against utility locate marks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Homeowners in St. Joseph, MO often face sudden plumbing problems that require fast action.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Our service coordination centers on St. Joseph, MO coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: request a written scope before work starts.
+Trenchless sleeve pulls near St. Joseph, MO require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 64508/64506/64507.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Access points and staging constraints recorded for ZIP 64508/64506/64507 coverage.
+Hydrostatic holds in St. Joseph, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 64508, 64506, 64507, 64501, 64502 (county grid: Buchanan County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Water heater T&P discharge paths in St. Joseph, MO must terminate safely before replacement quotes.
+
+Sewer gas odors in St. Joseph, MO should trigger trap seal and vent path review.
+
+Drain map 870521: camera-pass priority and expansion-tank pre-charge noted for St. Joseph, MO postal sector 64503.
+
+Lineage note 870521: recirculation pump amp draw captured before St. Joseph, MO branch isolation.
+
+Field routing: PEX expansion ring batch paired with recirculation pump amp draw near ZIP 64503.
+
+On-site sector marker: Buchanan County / ZIP 64508 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64503-32d156a6

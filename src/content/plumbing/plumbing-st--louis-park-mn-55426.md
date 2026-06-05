@@ -12,27 +12,41 @@ lng: -93.3600
 zipSample: ["55416", "55426"]
 zipCodes: ["55426", "55416"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55416 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / primary ZIP 55426", "Hennepin County / coords 44.9500, -93.3600"]
-zillowHomeValueUsd: 370747
 ---
 
-**Engineering Notice for St. Louis Park:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for St. Louis Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should sump battery backups be load-tested? In St. Louis Park, MN, before spring thaw and hurricane remnants.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 55426.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Louis Park, MN, but intake notes help reduce delays.
+Branch wet vents in St. Louis Park, MN can mask gurgling as a main-line issue.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-In St. Louis Park, MN, urgent plumbing issues can escalate quickly.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 55426.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55416/55426.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 55416/55426.
+Basement floor drains in St. Louis Park, MN should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 55416, 55426 (county grid: Hennepin County).
+Hard water in St. Louis Park, MN accelerates scale on PRV seats and heater elements.
+
+Material note: Water heater anode type may change with St. Louis Park, MN hardness profiles.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Trenchless sleeve pulls near St. Louis Park, MN require pit shoring notes when water tables are high.
+
+Sewer gas odors in St. Louis Park, MN should trigger trap seal and vent path review.
+
+Pressure trace 611597: meter-pit clearance and dielectric union checklist staged for St. Louis Park, MN near elevation 909 ft.
+
+Supply audit 611597: curb-stop orientation and hose-bib freeze flag reviewed for St. Louis Park, MN at coords 44.9500/-93.3600.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Hennepin County. Reference elevation: 909 ft. Primary coordinates: 44.9500, -93.3600. ZIP sample: 55416, 55426. Service perimeter note: Coverage extends through Hennepin County with dispatch centered near ZIP 55426.
 
 Service reference: MN-55426-c0dd436a

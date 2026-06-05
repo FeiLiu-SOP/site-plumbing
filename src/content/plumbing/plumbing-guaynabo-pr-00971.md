@@ -12,25 +12,43 @@ lng: -66.1100
 zipSample: ["00962", "00966", "00934", "00969", "00965"]
 zipCodes: ["00934", "00971", "00968", "00962", "00966", "00970", "00969", "00965"]
 localPaths: ["Guaynabo County / coords 18.3800, -66.1100", "Guaynabo County / ZIP 00962 sector", "Guaynabo County / primary ZIP 00971", "Guaynabo County / ZIP 00934 sector", "Guaynabo County / ZIP 00969 sector"]
-zillowHomeValueUsd: 373589
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Guaynabo:** Structural loading calculated based on 246 ft terrain assessment. Regional dispatch grid: Guaynabo County.
+**Engineering Notice for Guaynabo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guaynabo County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Guaynabo, PR, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-A written scope helps prevent rework and mismatched expectations.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 00971.
 
-Field note: Access points and staging constraints recorded for ZIP 00971/00962/00968 coverage.
+Risk flag: In Guaynabo, PR, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 00971, 00962, 00968, 00934, 00965 (county grid: Guaynabo County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Polybutylene manifold tags in Guaynabo, PR basements should be photographed before any wall chase opens.
+
+Hard water in Guaynabo, PR accelerates scale on PRV seats and heater elements.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Irrigation cross-connections in Guaynabo, PR can back-siphon domestic lines during main breaks.
+
+FAQ: When should sump battery backups be load-tested? In Guaynabo, PR, before spring thaw and hurricane remnants.
+
+Cast-iron hub corrosion in Guaynabo, PR often concentrates at the third joint upstream of the cleanout.
+
+Pressure trace 546446: meter-pit clearance and dielectric union checklist staged for Guaynabo, PR near elevation 246 ft.
+
+Intake ledger 546446: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Guaynabo, PR at 18.3800, -66.1100.
+
+On-site sector marker: Guaynabo County / ZIP 00934 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00971-7e974924

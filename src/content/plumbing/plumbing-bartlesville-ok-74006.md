@@ -12,26 +12,39 @@ lng: -95.9500
 zipSample: ["74006", "74005", "74003", "74004"]
 zipCodes: ["74004", "74006", "74003", "74005"]
 localPaths: ["Washington County / ZIP 74006 sector", "Washington County / ZIP 74005 sector", "Washington County / primary ZIP 74006", "Washington County / ZIP 74004 sector", "Washington County / ZIP 74003 sector"]
-zillowHomeValueUsd: 216050
 ---
 
-**Engineering Notice for Bartlesville:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Bartlesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-We coordinate local dispatch coverage around Bartlesville, OK and nearby ZIP sectors.
+Cast-iron hub corrosion in Bartlesville, OK often concentrates at the third joint upstream of the cleanout.
 
-Local conditions in Bartlesville, OK can affect timelines and material choices.
+Hydrostatic holds in Bartlesville, OK slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bartlesville, OK, but intake notes help reduce delays.
+Hydro-jetting in Bartlesville, OK requires camera confirmation before nozzle pressure is raised.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Bartlesville, OK, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 74003/74004/74006 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 74003/74004/74006.
+Hard water in Bartlesville, OK accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 74003, 74004, 74006, 74005 (county grid: Washington County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Basement floor drains in Bartlesville, OK should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Drain map 341543: camera-pass priority and expansion-tank pre-charge noted for Bartlesville, OK postal sector 74006.
+
+Primary postal anchor 74006 with multi-ZIP overlap in Bartlesville; field packets tag Washington County for county-grid reconciliation.
 
 Service reference: OK-74006-386a282d

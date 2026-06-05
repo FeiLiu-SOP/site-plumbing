@@ -12,27 +12,39 @@ lng: -95.3600
 zipSample: ["77578"]
 zipCodes: ["77578"]
 localPaths: ["Brazoria County / primary ZIP 77578", "Brazoria County / elevation 59 ft band", "Brazoria County / coords 29.4800, -95.3600", "Brazoria County / ZIP 77578 sector"]
-zillowHomeValueUsd: 441269
 ---
 
-**Engineering Notice for Manvel:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Manvel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.
 
 
-We coordinate local dispatch coverage around Manvel, TX and nearby ZIP sectors.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77578.
+Step: map sump float travel and check-valve orientation for Manvel, TX basements.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Manvel, TX, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Water heater anode type may change with Manvel, TX hardness profiles.
 
-Tip: compare at least two estimates for scope and timeline.
+Irrigation cross-connections in Manvel, TX can back-siphon domestic lines during main breaks.
 
-Field note: Access points and staging constraints recorded for ZIP 77578 coverage.
+Hydro-jetting in Manvel, TX requires camera confirmation before nozzle pressure is raised.
 
-Field note: Moisture pathway inspection logged near ZIP 77578 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 77578 (county grid: Brazoria County).
+FAQ: Is hydro-jetting always appropriate? In Manvel, TX, pipe material and blockage type dictate method.
+
+Step: camera-pass main lines in Manvel, TX before jetting older clay or cast iron.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cast-iron hub corrosion in Manvel, TX often concentrates at the third joint upstream of the cleanout.
+
+Flow dossier 841817: branch wet-vent geometry and jetting nozzle envelope logged for Manvel, TX county grid Brazoria County (ZIP 77578).
+
+Drain map 841817: camera-pass priority and expansion-tank pre-charge noted for Manvel, TX postal sector 77578.
+
+Coordinate-anchored dispatch note: center reference 29.4800, -95.3600 at elevation ~59 ft aligns with Brazoria County intake staging.
 
 Service reference: TX-77578-5c5e6abc

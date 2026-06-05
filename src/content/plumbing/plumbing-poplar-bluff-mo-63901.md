@@ -12,24 +12,43 @@ lng: -90.4100
 zipSample: ["63902", "63901"]
 zipCodes: ["63901", "63902"]
 localPaths: ["Butler County / primary ZIP 63901", "Butler County / ZIP 63902 sector", "Butler County / elevation 354 ft band", "Butler County / ZIP 63901 sector", "Butler County / coords 36.7600, -90.4100"]
-zillowHomeValueUsd: 169487
 ---
 
-**Engineering Notice for Poplar Bluff:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Poplar Bluff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hose bib split patterns in Poplar Bluff, MO often follow missed winterization.
 
-Our service coordination centers on Poplar Bluff, MO coverage windows and verified intake details.
+Trenchless sleeve pulls near Poplar Bluff, MO require pit shoring notes when water tables are high.
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Poplar Bluff, MO older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Recirculation pump failures in Poplar Bluff, MO can mimic fixture-specific clogs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63902/63901.
+Risk flag: Seasonal Poplar Bluff, MO irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 63902, 63901 (county grid: Butler County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Poplar Bluff, MO systems need rebalancing.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Trenchless pulls in Poplar Bluff, MO require pit dimensions verified against utility locate marks.
+
+Risk flag: In Poplar Bluff, MO, slab leaks can misroute as foundation issues without listening equipment.
+
+In Poplar Bluff, MO, slab leaks often present as warm spots before wall stains appear.
+
+Sewer gas odors in Poplar Bluff, MO should trigger trap seal and vent path review.
+
+Hydrostatic holds in Poplar Bluff, MO slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 819502: meter-pit clearance and dielectric union checklist staged for Poplar Bluff, MO near elevation 354 ft.
+
+Lineage note 819502: recirculation pump amp draw captured before Poplar Bluff, MO branch isolation.
+
+On-site sector marker: Butler County / ZIP 63902 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63901-6e77ca54

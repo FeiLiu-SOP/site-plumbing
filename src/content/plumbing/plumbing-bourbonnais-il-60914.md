@@ -12,25 +12,43 @@ lng: -87.8800
 zipSample: ["60914"]
 zipCodes: ["60914"]
 localPaths: ["Kankakee County / coords 41.1800, -87.8800", "Kankakee County / ZIP 60914 sector", "Kankakee County / primary ZIP 60914", "Kankakee County / elevation 696 ft band"]
-zillowHomeValueUsd: 293380
 ---
 
-**Engineering Notice for Bourbonnais:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Kankakee County.
+**Engineering Notice for Bourbonnais:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kankakee County.
 
 
-We coordinate local dispatch coverage around Bourbonnais, IL and nearby ZIP sectors.
+Water heater T&P discharge paths in Bourbonnais, IL must terminate safely before replacement quotes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Stack vent offsets in Bourbonnais, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Polybutylene manifold tags in Bourbonnais, IL basements should be photographed before any wall chase opens.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60914.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60914.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60914.
+Permit note: Main water line replacement in Bourbonnais, IL may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 60914 (county grid: Kankakee County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Bourbonnais, IL.
+
+FAQ: When should sump battery backups be load-tested? In Bourbonnais, IL, before spring thaw and hurricane remnants.
+
+In Bourbonnais, IL, slab leaks often present as warm spots before wall stains appear.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bourbonnais, IL.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Cast-iron hub corrosion in Bourbonnais, IL often concentrates at the third joint upstream of the cleanout.
+
+Fixture roster 862019: toilet flange spacer kit and shower cartridge seat score queued for Bourbonnais, IL walk-through.
+
+Intake ledger 862019: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bourbonnais, IL at 41.1800, -87.8800.
+
+Primary postal anchor 60914 with multi-ZIP overlap in Bourbonnais; field packets tag Kankakee County for county-grid reconciliation.
 
 Service reference: IL-60914-52d2ab21

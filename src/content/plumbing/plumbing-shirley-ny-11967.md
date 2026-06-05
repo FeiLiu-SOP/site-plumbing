@@ -12,24 +12,43 @@ lng: -72.8700
 zipSample: ["11967"]
 zipCodes: ["11967"]
 localPaths: ["Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11967", "Suffolk County / ZIP 11967 sector", "Suffolk County / coords 40.7900, -72.8700"]
-zillowHomeValueUsd: 531110
 ---
 
-**Engineering Notice for Shirley:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Shirley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Expansion tank pre-charge loss in Shirley, NY often tracks heater replacement deferrals.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 11967.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Shirley, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 11967 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 11967 (county grid: Suffolk County).
+Frost-free sillcock failures in Shirley, NY often trace to interior shutoff seats, not exterior stems.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Cast-iron hub corrosion in Shirley, NY often concentrates at the third joint upstream of the cleanout.
+
+Step: map sump float travel and check-valve orientation for Shirley, NY basements.
+
+Stack vent offsets in Shirley, NY older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Shirley, NY.
+
+Flow dossier 589075: branch wet-vent geometry and jetting nozzle envelope logged for Shirley, NY county grid Suffolk County (ZIP 11967).
+
+Pressure trace 589075: meter-pit clearance and dielectric union checklist staged for Shirley, NY near elevation 59 ft.
+
+Coordinate-anchored dispatch note: center reference 40.7900, -72.8700 at elevation ~59 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11967-0ebbd89e

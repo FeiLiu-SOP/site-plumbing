@@ -12,25 +12,39 @@ lng: -122.4300
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / coords 45.6000, -122.4300", "Clark County / ZIP 98607 sector", "Clark County / primary ZIP 98607", "Clark County / elevation 699 ft band"]
-zillowHomeValueUsd: 751815
 ---
 
-**Engineering Notice for Camas:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Camas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+CPVC solvent weld times shift with ambient humidity during Camas, WA shoulder seasons.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Dual-water-meter setups in Camas, WA irrigation zones need backflow logs before line replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98607.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: compare at least two estimates for scope and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98607.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 98607 (county grid: Clark County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Cast-iron hub corrosion in Camas, WA often concentrates at the third joint upstream of the cleanout.
+
+Hydrostatic holds in Camas, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Water heater anode type may change with Camas, WA hardness profiles.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 98607.
+
+Intake ledger 101736: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Camas, WA at 45.6000, -122.4300.
+
+ZIP-corridor snapshot for Camas, WA: sampled sectors include 98607; county routing grid remains Clark County.
 
 Service reference: WA-98607-5e4577d0

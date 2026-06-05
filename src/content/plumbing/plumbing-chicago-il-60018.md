@@ -12,26 +12,39 @@ lng: -87.6900
 zipSample: ["60644", "60634", "60607", "60687", "60637"]
 zipCodes: ["60654", "60604", "60699", "60641", "60626", "60632", "60018", "60707", "60680", "60664", "60655", "60615"]
 localPaths: ["Cook County / ZIP 60637 sector", "Cook County / primary ZIP 60018", "Cook County / ZIP 60634 sector", "Cook County / ZIP 60687 sector", "Cook County / coords 41.8400, -87.6900"]
-zillowHomeValueUsd: 378004
 ---
 
-**Engineering Notice for Chicago:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Chicago:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Chicago, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: compare at least two estimates for scope and timeline.
+Basement floor drains in Chicago, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Local conditions in Chicago, IL can affect timelines and material choices.
+Hose bib split patterns in Chicago, IL often follow missed winterization.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 60601/60626/60613.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Moisture pathway inspection logged near ZIP 60601/60626/60613 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 60601, 60626, 60613, 60618, 60623 (county grid: Cook County).
+Sewer gas odors in Chicago, IL should trigger trap seal and vent path review.
+
+Dispatch packets reference county grid Cook County near ZIP 60018.
+
+Risk flag: Seasonal Chicago, IL irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 60018.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Flow dossier 663673: branch wet-vent geometry and jetting nozzle envelope logged for Chicago, IL county grid Cook County (ZIP 60018).
+
+Coordinate-anchored dispatch note: center reference 41.8400, -87.6900 at elevation ~594 ft aligns with Cook County intake staging.
 
 Service reference: IL-60018-ef49e91c

@@ -12,24 +12,39 @@ lng: -97.6800
 zipSample: ["78644"]
 zipCodes: ["78644"]
 localPaths: ["Caldwell County / primary ZIP 78644", "Caldwell County / ZIP 78644 sector", "Caldwell County / elevation 558 ft band", "Caldwell County / coords 29.8800, -97.6800"]
-zillowHomeValueUsd: 284167
 ---
 
-**Engineering Notice for Lockhart:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Caldwell County.
+**Engineering Notice for Lockhart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hose bib split patterns in Lockhart, TX often follow missed winterization.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lockhart, TX, but intake notes help reduce delays.
+Galvanized segments in Lockhart, TX may restrict flow long before visible corrosion.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 78644.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 78644.
+Branch wet vents in Lockhart, TX can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 78644 (county grid: Caldwell County).
+FAQ: Is hydro-jetting always appropriate? In Lockhart, TX, pipe material and blockage type dictate method.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lockhart, TX systems need rebalancing.
+
+Material note: Water heater anode type may change with Lockhart, TX hardness profiles.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Irrigation cross-connections in Lockhart, TX can back-siphon domestic lines during main breaks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Lineage note 497463: recirculation pump amp draw captured before Lockhart, TX branch isolation.
+
+plumbing brief: slab leak listening window and thermal expansion loop check were cross-checked for the Lockhart intake packet.
+
+On-site sector marker: Caldwell County / elevation 558 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78644-b52ff9d3

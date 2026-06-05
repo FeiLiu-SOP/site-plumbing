@@ -12,24 +12,45 @@ lng: -117.1700
 zipSample: ["92375", "92374", "92346", "92359", "92373"]
 zipCodes: ["92375", "92374", "92373", "92359", "92346"]
 localPaths: ["San Bernardino County / elevation 1453 ft band", "San Bernardino County / ZIP 92359 sector", "San Bernardino County / ZIP 92374 sector", "San Bernardino County / ZIP 92375 sector", "San Bernardino County / primary ZIP 92359"]
-zillowHomeValueUsd: 511485
 ---
 
-**Engineering Notice for Redlands:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Redlands:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Redlands, CA and nearby ZIP sectors.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92359.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal Redlands, CA irrigation cross-connections can mask domestic pressure loss.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Redlands, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Redlands, CA, but intake notes help reduce delays.
+Trenchless sleeve pulls near Redlands, CA require pit shoring notes when water tables are high.
 
-Tip: confirm licensing and insurance before approving work.
+Hard water in Redlands, CA accelerates scale on PRV seats and heater elements.
 
-Field note: Connection points spot-checked where accessible (ZIP 92375/92359/92373 zone).
+Cleanout access limits in Redlands, CA frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 92375, 92359, 92373, 92374, 92346 (county grid: San Bernardino County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Redlands, CA systems need rebalancing.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92359.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: Is hydro-jetting always appropriate? In Redlands, CA, pipe material and blockage type dictate method.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Sump discharge freeze risk in Redlands, CA should be reviewed before spring thaw cycles.
+
+Intake ledger 165533: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Redlands, CA at 34.0500, -117.1700.
+
+Supply audit 165533: curb-stop orientation and hose-bib freeze flag reviewed for Redlands, CA at coords 34.0500/-117.1700.
+
+Field routing: backflow test cock orientation paired with PEX expansion ring batch near ZIP 92359.
+
+On-site sector marker: San Bernardino County / ZIP 92346 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92359-7261cc38

@@ -12,26 +12,43 @@ lng: -85.4900
 zipSample: ["36831", "36849", "36830", "36832"]
 zipCodes: ["36849", "36830", "36831", "36832"]
 localPaths: ["Lee County / ZIP 36831 sector", "Lee County / coords 32.6100, -85.4900", "Lee County / ZIP 36832 sector", "Lee County / ZIP 36849 sector", "Lee County / ZIP 36830 sector"]
-zillowHomeValueUsd: 423689
 ---
 
-**Engineering Notice for Auburn:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
 
 
-Local conditions in Auburn, AL can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn, AL, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Auburn, AL coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+CPVC solvent weld times shift with ambient humidity during Auburn, AL shoulder seasons.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36849/36831/36832.
+Water heater T&P discharge paths in Auburn, AL must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 36849/36831/36832.
+Risk flag: In Auburn, AL, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 36849, 36831, 36832, 36830 (county grid: Lee County).
+Cast-iron hub corrosion in Auburn, AL often concentrates at the third joint upstream of the cleanout.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Fixture roster 930392: toilet flange spacer kit and shower cartridge seat score queued for Auburn, AL walk-through.
+
+Scope trace: slab leak listening window plus scale coupon sampling referenced in Lee County county grid review.
+
+On-site sector marker: Lee County / ZIP 36849 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36849-4b62df1d

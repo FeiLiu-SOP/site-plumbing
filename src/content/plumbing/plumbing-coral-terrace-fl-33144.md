@@ -12,25 +12,37 @@ lng: -80.3000
 zipSample: ["33245", "33155", "33144"]
 zipCodes: ["33155", "33144", "33245"]
 localPaths: ["Miami-Dade County / ZIP 33245 sector", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / coords 25.7500, -80.3000", "Miami-Dade County / elevation 30 ft band"]
-zillowHomeValueUsd: 621078
 ---
 
-**Engineering Notice for Coral Terrace:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Coral Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cast-iron hub corrosion in Coral Terrace, FL often concentrates at the third joint upstream of the cleanout.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33144.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Homeowners in Coral Terrace, FL often face sudden plumbing problems that require fast action.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 33155/33245/33144 coverage.
+Sump discharge freeze risk in Coral Terrace, FL should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 33155, 33245, 33144 (county grid: Miami-Dade County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Frost-free sillcock failures in Coral Terrace, FL often trace to interior shutoff seats, not exterior stems.
+
+Polybutylene manifold tags in Coral Terrace, FL basements should be photographed before any wall chase opens.
+
+Permit note: Main water line replacement in Coral Terrace, FL may require ROW restoration planning.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Hydrostatic holds in Coral Terrace, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 362278: meter-pit clearance and dielectric union checklist staged for Coral Terrace, FL near elevation 30 ft.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33144 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33144-b6ced390

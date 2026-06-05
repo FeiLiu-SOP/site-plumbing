@@ -12,25 +12,39 @@ lng: -116.9800
 zipSample: ["91977", "91979", "91978"]
 zipCodes: ["91977", "91979", "91978"]
 localPaths: ["San Diego County / ZIP 91978 sector", "San Diego County / ZIP 91977 sector", "San Diego County / coords 32.7300, -116.9800", "San Diego County / elevation 535 ft band", "San Diego County / primary ZIP 91977"]
-zillowHomeValueUsd: 768679
 ---
 
-**Engineering Notice for Spring Valley:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Spring Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Spring Valley, CA.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Spring Valley, CA.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91977.
+Irrigation cross-connections in Spring Valley, CA can back-siphon domestic lines during main breaks.
 
-Tip: confirm licensing and insurance before approving work.
+Trenchless sleeve pulls near Spring Valley, CA require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 91979/91977/91978 coverage.
+Sewer gas odors in Spring Valley, CA should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 91979, 91977, 91978 (county grid: San Diego County).
+Cleanout access limits in Spring Valley, CA frequently extend drain cleaning duration.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 91977.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Polybutylene manifold tags in Spring Valley, CA basements should be photographed before any wall chase opens.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Lineage note 925200: recirculation pump amp draw captured before Spring Valley, CA branch isolation.
+
+Field routing: cleanout riser height paired with water heater T&P path near ZIP 91977.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to San Diego County. Reference elevation: 535 ft. Primary coordinates: 32.7300, -116.9800. ZIP sample: 91978, 91979, 91977. Service perimeter note: Coverage extends through San Diego County with dispatch centered near ZIP 91977.
 
 Service reference: CA-91977-a728f8b2

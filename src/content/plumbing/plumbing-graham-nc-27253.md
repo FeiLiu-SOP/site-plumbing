@@ -12,26 +12,39 @@ lng: -79.3900
 zipSample: ["27258", "27216", "27253"]
 zipCodes: ["27216", "27253", "27258"]
 localPaths: ["Alamance County / primary ZIP 27253", "Alamance County / elevation 591 ft band", "Alamance County / ZIP 27253 sector", "Alamance County / ZIP 27216 sector", "Alamance County / coords 36.0600, -79.3900"]
-zillowHomeValueUsd: 301399
 ---
 
-**Engineering Notice for Graham:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Alamance County.
+**Engineering Notice for Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alamance County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Graham, NC coverage windows and verified intake details.
+Risk flag: Seasonal Graham, NC irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-In Graham, NC, urgent plumbing issues can escalate quickly.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Graham, NC.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27258/27216/27253.
+Cleanout access limits in Graham, NC frequently extend drain cleaning duration.
 
-Field note: Connection points spot-checked where accessible (ZIP 27258/27216/27253 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 27258, 27216, 27253 (county grid: Alamance County).
+Step: log PRV inlet and outlet readings during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+We coordinate Graham, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Expansion tank pre-charge loss in Graham, NC often tracks heater replacement deferrals.
+
+Risk flag: In Graham, NC, slab leaks can misroute as foundation issues without listening equipment.
+
+Lineage note 379613: recirculation pump amp draw captured before Graham, NC branch isolation.
+
+Intake ledger 379613: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Graham, NC at 36.0600, -79.3900.
+
+Coordinate-anchored dispatch note: center reference 36.0600, -79.3900 at elevation ~591 ft aligns with Alamance County intake staging.
 
 Service reference: NC-27253-907d7853

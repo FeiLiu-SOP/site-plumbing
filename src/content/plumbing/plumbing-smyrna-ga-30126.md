@@ -12,26 +12,43 @@ lng: -84.5200
 zipSample: ["30080", "30082", "30081", "30126"]
 zipCodes: ["30080", "30081", "30082", "30126"]
 localPaths: ["Cobb County / ZIP 30080 sector", "Cobb County / coords 33.8600, -84.5200", "Cobb County / primary ZIP 30126", "Cobb County / ZIP 30081 sector", "Cobb County / ZIP 30126 sector"]
-zillowHomeValueUsd: 372291
 ---
 
-**Engineering Notice for Smyrna:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Smyrna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: request a written scope before work starts.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Smyrna, GA.
 
-Structured milestones protect both sides when scheduling work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30082/30126/30080.
+Across Smyrna, GA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Wind exposure category reviewed for ZIP sector 30082/30126/30080.
+Trenchless pulls in Smyrna, GA require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 30082, 30126, 30080, 30081 (county grid: Cobb County).
+FAQ: When is cabling enough? In Smyrna, GA, pipe material and blockage type dictate method.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+CPVC solvent weld times shift with ambient humidity during Smyrna, GA shoulder seasons.
+
+Branch wet vents in Smyrna, GA can mask gurgling as a main-line issue.
+
+Hydro-jetting in Smyrna, GA requires camera confirmation before nozzle pressure is raised.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Drain map 288990: camera-pass priority and expansion-tank pre-charge noted for Smyrna, GA postal sector 30126.
+
+Pressure trace 288990: meter-pit clearance and dielectric union checklist staged for Smyrna, GA near elevation 1040 ft.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Cobb County and primary ZIP 30126. Terrain reference: 1040 ft. Center point: 33.8600, -84.5200. ZIP sample: 30080, 30082, 30126, 30081. Logistics priority: Serving residential sectors across Cobb County and north-east ZIP 30126 grid.
 
 Service reference: GA-30126-524a4db6

@@ -12,24 +12,41 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / primary ZIP 29410", "Berkeley County / elevation 26 ft band", "Berkeley County / ZIP 29410 sector", "Berkeley County / coords 32.9300, -80.0000"]
-zillowHomeValueUsd: 404427
 ---
 
-**Engineering Notice for Hanahan:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Hanahan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hanahan, SC, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: avoid large upfront payments without milestones.
+Cast-iron hub corrosion in Hanahan, SC often concentrates at the third joint upstream of the cleanout.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 29410.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 29410 (county grid: Berkeley County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 29410.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Across Hanahan, SC, main-line bellies can trap debris even when fixtures drain normally.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hanahan, SC systems need rebalancing.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Fixture roster 912696: toilet flange spacer kit and shower cartridge seat score queued for Hanahan, SC walk-through.
+
+Flow dossier 912696: branch wet-vent geometry and jetting nozzle envelope logged for Hanahan, SC county grid Berkeley County (ZIP 29410).
+
+plumbing brief: shower cartridge seat score and scale coupon sampling were cross-checked for the Hanahan intake packet.
+
+On-site sector marker: Berkeley County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29410-b1a08c6d

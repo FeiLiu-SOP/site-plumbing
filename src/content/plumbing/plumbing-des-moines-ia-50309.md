@@ -12,25 +12,43 @@ lng: -93.6100
 zipSample: ["50318", "50330", "50305", "50340", "50391"]
 zipCodes: ["50309", "50340", "50947", "50313", "50315", "50311", "50393", "50395", "50391", "50329", "50304", "50321"]
 localPaths: ["Polk County / ZIP 50318 sector", "Polk County / ZIP 50330 sector", "Polk County / coords 41.5700, -93.6100", "Polk County / elevation 787 ft band", "Polk County / primary ZIP 50309"]
-zillowHomeValueUsd: 247329
 ---
 
-**Engineering Notice for Des Moines:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Des Moines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 50309.
+Trenchless sleeve pulls near Des Moines, IA require pit shoring notes when water tables are high.
 
-Our service coordination centers on Des Moines, IA coverage windows and verified intake details.
+Branch wet vents in Des Moines, IA can mask gurgling as a main-line issue.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hydro-jetting in Des Moines, IA requires camera confirmation before nozzle pressure is raised.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Water heater anode type may change with Des Moines, IA hardness profiles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50936/50308/50331.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 50936, 50308, 50331, 50330, 50947 (county grid: Polk County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 50309.
+
+We coordinate Des Moines, IA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 330240: recirculation pump amp draw captured before Des Moines, IA branch isolation.
+
+Pressure trace 330240: meter-pit clearance and dielectric union checklist staged for Des Moines, IA near elevation 787 ft.
+
+On-site sector marker: Polk County / ZIP 50394 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50309-72fbc3f4

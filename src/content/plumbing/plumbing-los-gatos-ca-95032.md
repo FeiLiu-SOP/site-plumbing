@@ -12,27 +12,39 @@ lng: -121.9600
 zipSample: ["95036", "95032", "95030"]
 zipCodes: ["95036", "95032", "95030"]
 localPaths: ["Santa Clara County / ZIP 95030 sector", "Santa Clara County / ZIP 95032 sector", "Santa Clara County / ZIP 95036 sector", "Santa Clara County / coords 37.2300, -121.9600", "Santa Clara County / primary ZIP 95032"]
-zillowHomeValueUsd: 2648071
 ---
 
-**Engineering Notice for Los Gatos:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Los Gatos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-Tip: avoid large upfront payments without milestones.
+Trenchless sleeve pulls near Los Gatos, CA require pit shoring notes when water tables are high.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Los Gatos, CA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Los Gatos, CA, but intake notes help reduce delays.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Los Gatos, CA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Seasonal Los Gatos, CA irrigation cross-connections can mask domestic pressure loss.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95032.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 95036/95032/95030 zone).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 95036/95032/95030 coverage.
+FAQ: When should sump battery backups be load-tested? In Los Gatos, CA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 95036, 95032, 95030 (county grid: Santa Clara County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 95032.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Across Los Gatos, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Dual-water-meter setups in Los Gatos, CA irrigation zones need backflow logs before line replacement.
+
+Intake ledger 111460: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Los Gatos, CA at 37.2300, -121.9600.
+
+Field routing: recirculation pump amp draw paired with meter pit clearance near ZIP 95032.
+
+On-site sector marker: Santa Clara County / ZIP 95036 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95032-a5eff985

@@ -12,26 +12,41 @@ lng: -93.4100
 zipSample: ["55343", "55305"]
 zipCodes: ["55343", "55305"]
 localPaths: ["Hennepin County / ZIP 55305 sector", "Hennepin County / ZIP 55343 sector", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / elevation 919 ft band", "Hennepin County / primary ZIP 55343"]
-zillowHomeValueUsd: 344950
 ---
 
-**Engineering Notice for Hopkins:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Hopkins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-In Hopkins, MN, urgent plumbing issues can escalate quickly.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 55343.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Hopkins, MN often trace to interior shutoff seats, not exterior stems.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Hopkins, MN should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Connection points spot-checked where accessible (ZIP 55305/55343 zone).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55343.
 
-Field note: Access points and staging constraints recorded for ZIP 55305/55343 coverage.
+Polybutylene manifold tags in Hopkins, MN basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 55305, 55343 (county grid: Hennepin County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Irrigation cross-connections in Hopkins, MN can back-siphon domestic lines during main breaks.
+
+Stack vent offsets in Hopkins, MN older duplexes can mask tub gurgle as a main-line failure.
+
+Dual-water-meter setups in Hopkins, MN irrigation zones need backflow logs before line replacement.
+
+Hydro-jetting in Hopkins, MN requires camera confirmation before nozzle pressure is raised.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Flow dossier 803851: branch wet-vent geometry and jetting nozzle envelope logged for Hopkins, MN county grid Hennepin County (ZIP 55343).
+
+Coordinate-anchored dispatch note: center reference 44.9300, -93.4100 at elevation ~919 ft aligns with Hennepin County intake staging.
 
 Service reference: MN-55343-4e49cbbe

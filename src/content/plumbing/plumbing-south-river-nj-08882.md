@@ -12,25 +12,39 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / primary ZIP 08882", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / elevation 23 ft band", "Middlesex County / ZIP 08882 sector"]
-zillowHomeValueUsd: 528571
 ---
 
-**Engineering Notice for South River:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for South River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 08882.
+Water heater T&P discharge paths in South River, NJ must terminate safely before replacement quotes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in South River, NJ systems need rebalancing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dispatch packets reference county grid Middlesex County near ZIP 08882.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In South River, NJ, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 08882 coverage.
+Galvanized segments in South River, NJ may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 08882 (county grid: Middlesex County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 08882.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Irrigation cross-connections in South River, NJ can back-siphon domestic lines during main breaks.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in South River, NJ.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Supply audit 392876: curb-stop orientation and hose-bib freeze flag reviewed for South River, NJ at coords 40.4500/-74.3800.
+
+**Regional Infrastructure Brief:** Grid anchor set to Middlesex County. Reference elevation: 23 ft. Primary coordinates: 40.4500, -74.3800. ZIP sample: 08882. Logistics priority: Serving residential sectors across Middlesex County and north-east ZIP 08882 grid.
 
 Service reference: NJ-08882-6e6b2723

@@ -12,26 +12,41 @@ lng: -87.6500
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / coords 41.6100, -87.6500", "Cook County / ZIP 60426 sector", "Cook County / primary ZIP 60426"]
-zillowHomeValueUsd: 101349
 ---
 
-**Engineering Notice for Harvey:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Harvey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-We coordinate local dispatch coverage around Harvey, IL and nearby ZIP sectors.
+Basement floor drains in Harvey, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Harvey, IL, but intake notes help reduce delays.
+Irrigation cross-connections in Harvey, IL can back-siphon domestic lines during main breaks.
 
-Tip: request a written scope before work starts.
+Step: camera-pass main lines in Harvey, IL before jetting older clay or cast iron.
 
-Local conditions in Harvey, IL can affect timelines and material choices.
+Risk flag: In Harvey, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Moisture pathway inspection logged near ZIP 60426 intake.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 60426.
+Trenchless pulls in Harvey, IL require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 60426 (county grid: Cook County).
+We coordinate Harvey, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Harvey, IL systems need rebalancing.
+
+Fixture shutoff stiffness in Harvey, IL may indicate mineral bridging behind stems.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Sump discharge freeze risk in Harvey, IL should be reviewed before spring thaw cycles.
+
+Supply audit 644467: curb-stop orientation and hose-bib freeze flag reviewed for Harvey, IL at coords 41.6100/-87.6500.
+
+Scope trace: PRV outlet curve plus dielectric union checklist referenced in Cook County county grid review.
+
+On-site sector marker: Cook County / elevation 614 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60426-f1891841

@@ -12,27 +12,45 @@ lng: -96.9100
 zipSample: ["58078"]
 zipCodes: ["58078"]
 localPaths: ["Cass County / ZIP 58078 sector", "Cass County / primary ZIP 58078", "Cass County / coords 46.8600, -96.9100", "Cass County / elevation 896 ft band"]
-zillowHomeValueUsd: 349043
 ---
 
-**Engineering Notice for West Fargo:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for West Fargo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cass County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Water heater T&P discharge paths in West Fargo, ND must terminate safely before replacement quotes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In West Fargo, ND, slab leaks can misroute as foundation issues without listening equipment.
 
-Our service coordination centers on West Fargo, ND coverage windows and verified intake details.
+Hydrostatic holds in West Fargo, ND slab circuits run overnight when listening mics show ambiguous hits.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 58078.
+Stack vent offsets in West Fargo, ND older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 58078 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 58078 zone).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 58078.
 
-Dispatch sectors sampled: ZIP 58078 (county grid: Cass County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Frost-free sillcock failures in West Fargo, ND often trace to interior shutoff seats, not exterior stems.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 137643: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West Fargo, ND at 46.8600, -96.9100.
+
+Drain map 137643: camera-pass priority and expansion-tank pre-charge noted for West Fargo, ND postal sector 58078.
+
+Field routing: branch wet vent geometry paired with fixture shutoff torque log near ZIP 58078.
+
+Regional mesh label Cass County: moisture and logistics baselines are keyed to West Fargo, ND before niche-specific work begins.
 
 Service reference: ND-58078-1e01a3a6

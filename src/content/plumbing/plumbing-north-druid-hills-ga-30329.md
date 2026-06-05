@@ -12,26 +12,39 @@ lng: -84.3300
 zipSample: ["30033", "30359", "30324", "30329"]
 zipCodes: ["30329", "30324", "30359", "30033"]
 localPaths: ["DeKalb County / ZIP 30359 sector", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 30329 sector", "DeKalb County / coords 33.8200, -84.3300", "DeKalb County / elevation 1017 ft band"]
-zillowHomeValueUsd: 524005
 ---
 
-**Engineering Notice for North Druid Hills:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Druid Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When should sump battery backups be load-tested? In North Druid Hills, GA, before spring thaw and hurricane remnants.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in North Druid Hills, GA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Druid Hills, GA, but intake notes help reduce delays.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30324/30033/30359.
+Expansion tank pre-charge loss in North Druid Hills, GA often tracks heater replacement deferrals.
 
-Field note: Wind exposure category reviewed for ZIP sector 30324/30033/30359.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 30324, 30033, 30359, 30329 (county grid: DeKalb County).
+Risk flag: Seasonal North Druid Hills, GA irrigation cross-connections can mask domestic pressure loss.
+
+Hydrostatic holds in North Druid Hills, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+Across North Druid Hills, GA, main-line bellies can trap debris even when fixtures drain normally.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Irrigation cross-connections in North Druid Hills, GA can back-siphon domestic lines during main breaks.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 30329.
+
+Intake ledger 695685: sump amperage, PRV seat wear, and cleanout riser height cross-checked for North Druid Hills, GA at 33.8200, -84.3300.
+
+On-site sector marker: DeKalb County / ZIP 30033 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30329-3cdca703

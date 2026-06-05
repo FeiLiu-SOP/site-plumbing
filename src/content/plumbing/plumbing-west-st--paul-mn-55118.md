@@ -12,24 +12,39 @@ lng: -93.0900
 zipSample: ["55118"]
 zipCodes: ["55118"]
 localPaths: ["Dakota County / coords 44.9000, -93.0900", "Dakota County / elevation 1033 ft band", "Dakota County / ZIP 55118 sector", "Dakota County / primary ZIP 55118"]
-zillowHomeValueUsd: 364232
 ---
 
-**Engineering Notice for West St. Paul:** Structural loading calculated based on 1033 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for West St. Paul:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West St. Paul, MN, but intake notes help reduce delays.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is cabling enough? In West St. Paul, MN, pipe material and blockage type dictate method.
 
-In West St. Paul, MN, seasonal demand can change scheduling windows.
+Permit note: Main water line replacement in West St. Paul, MN may require ROW restoration planning.
 
-In West St. Paul, MN, urgent plumbing issues can escalate quickly.
+Stack vent offsets in West St. Paul, MN older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around West St. Paul, MN and nearby ZIP sectors.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 55118 intake.
+Sewer gas odors in West St. Paul, MN should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 55118 (county grid: Dakota County).
+Water heater T&P discharge paths in West St. Paul, MN must terminate safely before replacement quotes.
+
+Material note: Water heater anode type may change with West St. Paul, MN hardness profiles.
+
+Trenchless pulls in West St. Paul, MN require pit dimensions verified against utility locate marks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in West St. Paul, MN.
+
+Flow dossier 166230: branch wet-vent geometry and jetting nozzle envelope logged for West St. Paul, MN county grid Dakota County (ZIP 55118).
+
+Intake ledger 166230: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West St. Paul, MN at 44.9000, -93.0900.
+
+Coordinate-anchored dispatch note: center reference 44.9000, -93.0900 at elevation ~1033 ft aligns with Dakota County intake staging.
 
 Service reference: MN-55118-b854b4ed

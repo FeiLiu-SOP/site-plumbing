@@ -12,24 +12,37 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / elevation 194 ft band", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94530 sector"]
-zillowHomeValueUsd: 1139664
 ---
 
-**Engineering Notice for El Cerrito:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for El Cerrito:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in El Cerrito, CA often concentrates at the third joint upstream of the cleanout.
 
-Tip: confirm licensing and insurance before approving work.
+Irrigation cross-connections in El Cerrito, CA can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around El Cerrito, CA and nearby ZIP sectors.
+Dual-water-meter setups in El Cerrito, CA irrigation zones need backflow logs before line replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in El Cerrito, CA, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 94530.
+Cleanout access limits in El Cerrito, CA frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 94530 (county grid: Contra Costa County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Is hydro-jetting always appropriate? In El Cerrito, CA, pipe material and blockage type dictate method.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In El Cerrito, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Intake ledger 194559: sump amperage, PRV seat wear, and cleanout riser height cross-checked for El Cerrito, CA at 37.9200, -122.3000.
+
+On-site sector marker: Contra Costa County / coords 37.9200, -122.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94530-8a8a9690

@@ -12,24 +12,43 @@ lng: -80.0700
 zipSample: ["29485", "29405", "29418", "29420", "29404"]
 zipCodes: ["29404", "29418", "29419", "29416", "29485", "29405", "29420", "29456", "29406", "29423"]
 localPaths: ["Charleston County / ZIP 29405 sector", "Charleston County / ZIP 29485 sector", "Charleston County / ZIP 29418 sector", "Charleston County / coords 32.9100, -80.0700", "Charleston County / ZIP 29420 sector"]
-zillowHomeValueUsd: 331641
 ---
 
-**Engineering Notice for North Charleston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Charleston County.
+**Engineering Notice for North Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charleston County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Charleston, SC, but intake notes help reduce delays.
+In North Charleston, SC, slab leaks often present as warm spots before wall stains appear.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Trenchless sleeve pulls near North Charleston, SC require pit shoring notes when water tables are high.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in North Charleston, SC.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dispatch packets reference county grid Charleston County near ZIP 29420.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in North Charleston, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Access points and staging constraints recorded for ZIP 29456/29406/29416 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 29456, 29406, 29416, 29419, 29485 (county grid: Charleston County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Irrigation cross-connections in North Charleston, SC can back-siphon domestic lines during main breaks.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 29420.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 29420.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: When should sump battery backups be load-tested? In North Charleston, SC, before spring thaw and hurricane remnants.
+
+Flow dossier 401654: branch wet-vent geometry and jetting nozzle envelope logged for North Charleston, SC county grid Charleston County (ZIP 29420).
+
+Pressure trace 401654: meter-pit clearance and dielectric union checklist staged for North Charleston, SC near elevation 43 ft.
+
+On-site sector marker: Charleston County / ZIP 29416 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29420-f77c5c1d

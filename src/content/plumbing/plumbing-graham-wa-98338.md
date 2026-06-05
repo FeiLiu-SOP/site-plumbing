@@ -12,24 +12,39 @@ lng: -122.2800
 zipSample: ["98338"]
 zipCodes: ["98338"]
 localPaths: ["Pierce County / coords 47.0300, -122.2800", "Pierce County / primary ZIP 98338", "Pierce County / ZIP 98338 sector", "Pierce County / elevation 853 ft band"]
-zillowHomeValueUsd: 591869
 ---
 
-**Engineering Notice for Graham:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Graham, WA, but intake notes help reduce delays.
+Sump discharge freeze risk in Graham, WA should be reviewed before spring thaw cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98338.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: photograph curb-stop and meter pit before trenching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Graham, WA require pit dimensions verified against utility locate marks.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Graham, WA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98338.
+CPVC solvent weld times shift with ambient humidity during Graham, WA shoulder seasons.
 
-Dispatch sectors sampled: ZIP 98338 (county grid: Pierce County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Graham, WA.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydrostatic holds in Graham, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 725977: meter-pit clearance and dielectric union checklist staged for Graham, WA near elevation 853 ft.
+
+plumbing brief: toilet flange spacer kit and meter pit clearance were cross-checked for the Graham intake packet.
+
+On-site sector marker: Pierce County / elevation 853 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98338-df6dac38

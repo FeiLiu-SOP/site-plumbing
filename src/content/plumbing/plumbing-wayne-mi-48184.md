@@ -12,27 +12,41 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / primary ZIP 48184", "Wayne County / elevation 669 ft band", "Wayne County / coords 42.2800, -83.3900", "Wayne County / ZIP 48184 sector"]
-zillowHomeValueUsd: 172297
 ---
 
-**Engineering Notice for Wayne:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Wayne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wayne, MI, but intake notes help reduce delays.
+Sewer gas odors in Wayne, MI should trigger trap seal and vent path review.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Wayne, MI often trace to interior shutoff seats, not exterior stems.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48184.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-In Wayne, MI, seasonal demand can change scheduling windows.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is cabling enough? In Wayne, MI, pipe material and blockage type dictate method.
 
-Field note: Moisture pathway inspection logged near ZIP 48184 intake.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 48184.
+Cast-iron hub corrosion in Wayne, MI often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 48184 (county grid: Wayne County).
+Basement floor drains in Wayne, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: In Wayne, MI, slab leaks can misroute as foundation issues without listening equipment.
+
+Trenchless pulls in Wayne, MI require pit dimensions verified against utility locate marks.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 48184.
+
+Expansion tank pre-charge loss in Wayne, MI often tracks heater replacement deferrals.
+
+Stack vent offsets in Wayne, MI older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 865710: curb-stop orientation and hose-bib freeze flag reviewed for Wayne, MI at coords 42.2800/-83.3900.
+
+Flow dossier 865710: branch wet-vent geometry and jetting nozzle envelope logged for Wayne, MI county grid Wayne County (ZIP 48184).
+
+ZIP-corridor snapshot for Wayne, MI: sampled sectors include 48184; county routing grid remains Wayne County.
 
 Service reference: MI-48184-8b8ab76f

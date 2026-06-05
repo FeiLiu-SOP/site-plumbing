@@ -12,24 +12,43 @@ lng: -121.5400
 zipSample: ["95391"]
 zipCodes: ["95391"]
 localPaths: ["San Joaquin County / primary ZIP 95391", "San Joaquin County / elevation 75 ft band", "San Joaquin County / ZIP 95391 sector", "San Joaquin County / coords 37.7700, -121.5400"]
-zillowHomeValueUsd: 927568
 ---
 
-**Engineering Notice for Mountain House:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Mountain House:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Mountain House, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-In Mountain House, CA, urgent plumbing issues can escalate quickly.
+Risk flag: Seasonal Mountain House, CA irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Irrigation cross-connections in Mountain House, CA can back-siphon domestic lines during main breaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95391.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 95391 (county grid: San Joaquin County).
+Stack vent offsets in Mountain House, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Polybutylene manifold tags in Mountain House, CA basements should be photographed before any wall chase opens.
+
+Step: map sump float travel and check-valve orientation for Mountain House, CA basements.
+
+Lineage note 163691: recirculation pump amp draw captured before Mountain House, CA branch isolation.
+
+Supply audit 163691: curb-stop orientation and hose-bib freeze flag reviewed for Mountain House, CA at coords 37.7700/-121.5400.
+
+plumbing brief: fixture shutoff torque log and toilet flange spacer kit were cross-checked for the Mountain House intake packet.
+
+ZIP-corridor snapshot for Mountain House, CA: sampled sectors include 95391; county routing grid remains San Joaquin County.
 
 Service reference: CA-95391-c2429611

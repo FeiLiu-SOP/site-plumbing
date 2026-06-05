@@ -12,27 +12,41 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / coords 40.0800, -80.7000", "Ohio County / primary ZIP 26003", "Ohio County / elevation 679 ft band", "Ohio County / ZIP 26003 sector"]
-zillowHomeValueUsd: 156579
 ---
 
-**Engineering Notice for Wheeling:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Ohio County.
+**Engineering Notice for Wheeling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ohio County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Wheeling, WV coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Homeowners in Wheeling, WV often face sudden plumbing problems that require fast action.
+Cleanout access limits in Wheeling, WV frequently extend drain cleaning duration.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 26003.
+Recirculation pump failures in Wheeling, WV can mimic fixture-specific clogs.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 26003 zone).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 26003.
 
-Field note: Wind exposure category reviewed for ZIP sector 26003.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Wheeling, WV systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 26003 (county grid: Ohio County).
+Stack vent offsets in Wheeling, WV older duplexes can mask tub gurgle as a main-line failure.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 26003.
+
+Hose bib split patterns in Wheeling, WV often follow missed winterization.
+
+Drain map 106476: camera-pass priority and expansion-tank pre-charge noted for Wheeling, WV postal sector 26003.
+
+Fixture roster 106476: toilet flange spacer kit and shower cartridge seat score queued for Wheeling, WV walk-through.
+
+Scope trace: meter pit clearance plus hose bib freeze flag referenced in Ohio County county grid review.
+
+On-site sector marker: Ohio County / ZIP 26003 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26003-7ca573a1

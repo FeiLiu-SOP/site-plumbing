@@ -12,25 +12,39 @@ lng: -90.3300
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / ZIP 63123 sector", "St. Louis County / coords 38.5500, -90.3300", "St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63123"]
-zillowHomeValueUsd: 243538
 ---
 
-**Engineering Notice for Affton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Affton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: request a written scope before work starts.
+Stack vent offsets in Affton, MO older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Affton, MO and nearby ZIP sectors.
+Frost-free sillcock failures in Affton, MO often trace to interior shutoff seats, not exterior stems.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63123.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map sump float travel and check-valve orientation for Affton, MO basements.
 
-Field note: Access points and staging constraints recorded for ZIP 63123 coverage.
+Galvanized segments in Affton, MO may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 63123 (county grid: St. Louis County).
+Risk flag: In Affton, MO, slab leaks can misroute as foundation issues without listening equipment.
+
+Trenchless sleeve pulls near Affton, MO require pit shoring notes when water tables are high.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 63123.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Cast-iron hub corrosion in Affton, MO often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Drain map 856916: camera-pass priority and expansion-tank pre-charge noted for Affton, MO postal sector 63123.
+
+ZIP-corridor snapshot for Affton, MO: sampled sectors include 63123; county routing grid remains St. Louis County.
 
 Service reference: MO-63123-c613a50d

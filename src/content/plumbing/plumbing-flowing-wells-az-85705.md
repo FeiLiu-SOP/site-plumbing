@@ -12,26 +12,39 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / primary ZIP 85705", "Pima County / ZIP 85705 sector", "Pima County / coords 32.2900, -111.0100"]
-zillowHomeValueUsd: 254242
 ---
 
-**Engineering Notice for Flowing Wells:** Structural loading calculated based on 2270 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Flowing Wells:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Flowing Wells, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: request a written scope before work starts.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Flowing Wells, AZ, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In Flowing Wells, AZ, slab leaks often present as warm spots before wall stains appear.
 
-We coordinate local dispatch coverage around Flowing Wells, AZ and nearby ZIP sectors.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Access points and staging constraints recorded for ZIP 85705 coverage.
+Material note: Water heater anode type may change with Flowing Wells, AZ hardness profiles.
 
-Field note: Connection points spot-checked where accessible (ZIP 85705 zone).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 85705.
 
-Dispatch sectors sampled: ZIP 85705 (county grid: Pima County).
+Hard water in Flowing Wells, AZ accelerates scale on PRV seats and heater elements.
+
+Hydro-jetting in Flowing Wells, AZ requires camera confirmation before nozzle pressure is raised.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: camera-pass main lines in Flowing Wells, AZ before jetting older clay or cast iron.
+
+Step: map sump float travel and check-valve orientation for Flowing Wells, AZ basements.
+
+Fixture roster 555101: toilet flange spacer kit and shower cartridge seat score queued for Flowing Wells, AZ walk-through.
+
+Flow dossier 555101: branch wet-vent geometry and jetting nozzle envelope logged for Flowing Wells, AZ county grid Pima County (ZIP 85705).
+
+Regional mesh label Pima County: moisture and logistics baselines are keyed to Flowing Wells, AZ before niche-specific work begins.
 
 Service reference: AZ-85705-6c8bbde9

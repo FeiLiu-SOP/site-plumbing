@@ -12,24 +12,41 @@ lng: -95.3800
 zipSample: ["77039", "77037", "77060"]
 zipCodes: ["77060", "77039", "77037"]
 localPaths: ["Harris County / ZIP 77060 sector", "Harris County / coords 29.9100, -95.3800", "Harris County / ZIP 77039 sector", "Harris County / primary ZIP 77060", "Harris County / elevation 92 ft band"]
-zillowHomeValueUsd: 195931
 ---
 
-**Engineering Notice for Aldine:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Aldine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-Our service coordination centers on Aldine, TX coverage windows and verified intake details.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Aldine, TX require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+FAQ: When should sump battery backups be load-tested? In Aldine, TX, before spring thaw and hurricane remnants.
 
-Local conditions in Aldine, TX can affect timelines and material choices.
+Hydro-jetting in Aldine, TX requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 77039/77060/77037 coverage.
+Hydrostatic holds in Aldine, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 77039, 77060, 77037 (county grid: Harris County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Seasonal Aldine, TX irrigation cross-connections can mask domestic pressure loss.
+
+Stack vent offsets in Aldine, TX older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Branch wet vents in Aldine, TX can mask gurgling as a main-line issue.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Aldine, TX.
+
+Fixture roster 473915: toilet flange spacer kit and shower cartridge seat score queued for Aldine, TX walk-through.
+
+Coordinate-anchored dispatch note: center reference 29.9100, -95.3800 at elevation ~92 ft aligns with Harris County intake staging.
 
 Service reference: TX-77060-db25b3bd

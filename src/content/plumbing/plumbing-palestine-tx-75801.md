@@ -12,27 +12,39 @@ lng: -95.6500
 zipSample: ["75801", "75803", "75802", "75882"]
 zipCodes: ["75801", "75882", "75803", "75802"]
 localPaths: ["Anderson County / ZIP 75803 sector", "Anderson County / ZIP 75882 sector", "Anderson County / coords 31.7500, -95.6500", "Anderson County / ZIP 75801 sector", "Anderson County / primary ZIP 75801"]
-zillowHomeValueUsd: 182334
 ---
 
-**Engineering Notice for Palestine:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Anderson County.
+**Engineering Notice for Palestine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anderson County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Dual-water-meter setups in Palestine, TX irrigation zones need backflow logs before line replacement.
 
-Homeowners in Palestine, TX often face sudden plumbing problems that require fast action.
+Step: document dielectric unions before mixed-metal replacements.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75801.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palestine, TX, but intake notes help reduce delays.
+Risk flag: In Palestine, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Recirculation pump failures in Palestine, TX can mimic fixture-specific clogs.
 
-Field note: Access points and staging constraints recorded for ZIP 75882/75803/75802 coverage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 75882/75803/75802 zone).
+Stack vent offsets in Palestine, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 75882, 75803, 75802, 75801 (county grid: Anderson County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: camera-pass main lines in Palestine, TX before jetting older clay or cast iron.
+
+Sump discharge freeze risk in Palestine, TX should be reviewed before spring thaw cycles.
+
+Trenchless pulls in Palestine, TX require pit dimensions verified against utility locate marks.
+
+Hydrostatic holds in Palestine, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 217917: meter-pit clearance and dielectric union checklist staged for Palestine, TX near elevation 518 ft.
+
+Field routing: PRV outlet curve paired with slab leak listening window near ZIP 75801.
+
+Coordinate-anchored dispatch note: center reference 31.7500, -95.6500 at elevation ~518 ft aligns with Anderson County intake staging.
 
 Service reference: TX-75801-e52aaddd

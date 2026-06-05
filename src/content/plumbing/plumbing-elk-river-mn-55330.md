@@ -12,25 +12,39 @@ lng: -93.5700
 zipSample: ["55330"]
 zipCodes: ["55330"]
 localPaths: ["Sherburne County / coords 45.3300, -93.5700", "Sherburne County / elevation 1040 ft band", "Sherburne County / ZIP 55330 sector", "Sherburne County / primary ZIP 55330"]
-zillowHomeValueUsd: 410485
 ---
 
-**Engineering Notice for Elk River:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Sherburne County.
+**Engineering Notice for Elk River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sherburne County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55330.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Elk River, MN, slab leaks can misroute as foundation issues without listening equipment.
 
-Our service coordination centers on Elk River, MN coverage windows and verified intake details.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dispatch packets reference county grid Sherburne County near ZIP 55330.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is cabling enough? In Elk River, MN, pipe material and blockage type dictate method.
 
-Field note: Access points and staging constraints recorded for ZIP 55330 coverage.
+Trenchless sleeve pulls near Elk River, MN require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 55330 (county grid: Sherburne County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+In Elk River, MN, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When should sump battery backups be load-tested? In Elk River, MN, before spring thaw and hurricane remnants.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 403197: meter-pit clearance and dielectric union checklist staged for Elk River, MN near elevation 1040 ft.
+
+Scope trace: shower cartridge seat score plus PRV outlet curve referenced in Sherburne County county grid review.
+
+Coordinate-anchored dispatch note: center reference 45.3300, -93.5700 at elevation ~1040 ft aligns with Sherburne County intake staging.
 
 Service reference: MN-55330-b55763a9

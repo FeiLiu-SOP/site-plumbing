@@ -12,26 +12,41 @@ lng: -96.9600
 zipSample: ["74804", "74801", "74802"]
 zipCodes: ["74802", "74804", "74801"]
 localPaths: ["Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / primary ZIP 74804", "Pottawatomie County / elevation 1047 ft band", "Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74802 sector"]
-zillowHomeValueUsd: 226525
 ---
 
-**Engineering Notice for Shawnee:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Pottawatomie County.
+**Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pottawatomie County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Cast-iron hub corrosion in Shawnee, OK often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Shawnee, OK, before spring thaw and hurricane remnants.
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 74801/74804/74802.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Shawnee, OK.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74801/74804/74802.
+Step: map sump float travel and check-valve orientation for Shawnee, OK basements.
 
-Dispatch sectors sampled: ZIP 74801, 74804, 74802 (county grid: Pottawatomie County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hydrostatic holds in Shawnee, OK slab circuits run overnight when listening mics show ambiguous hits.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 74804.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Irrigation cross-connections in Shawnee, OK can back-siphon domestic lines during main breaks.
+
+Risk flag: Seasonal Shawnee, OK irrigation cross-connections can mask domestic pressure loss.
+
+Fixture roster 841027: toilet flange spacer kit and shower cartridge seat score queued for Shawnee, OK walk-through.
+
+On-site sector marker: Pottawatomie County / ZIP 74804 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74804-17afed72

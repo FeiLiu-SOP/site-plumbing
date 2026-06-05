@@ -12,24 +12,39 @@ lng: -88.1200
 zipSample: ["36610", "36601", "36606", "36602", "36615"]
 zipCodes: ["36633", "36609", "36605", "36618", "36619", "36644", "36606", "36695", "36660", "36691", "36601", "36582"]
 localPaths: ["Mobile County / ZIP 36606 sector", "Mobile County / primary ZIP 36652", "Mobile County / elevation 39 ft band", "Mobile County / coords 30.6800, -88.1200", "Mobile County / ZIP 36602 sector"]
-zillowHomeValueUsd: 275817
 ---
 
-**Engineering Notice for Mobile:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Mobile:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: log PRV inlet and outlet readings during intake.
 
-Our service coordination centers on Mobile, AL coverage windows and verified intake details.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Mobile, AL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 36607/36601/36615.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 36607, 36601, 36615, 36582, 36640 (county grid: Mobile County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Seasonal Mobile, AL irrigation cross-connections can mask domestic pressure loss.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Recirculation pump failures in Mobile, AL can mimic fixture-specific clogs.
+
+Across Mobile, AL, main-line bellies can trap debris even when fixtures drain normally.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 299613: branch wet-vent geometry and jetting nozzle envelope logged for Mobile, AL county grid Mobile County (ZIP 36652).
+
+Scope trace: slab leak listening window plus cleanout riser height referenced in Mobile County county grid review.
+
+Primary postal anchor 36652 with multi-ZIP overlap in Mobile; field packets tag Mobile County for county-grid reconciliation.
 
 Service reference: AL-36652-a55bf3d1

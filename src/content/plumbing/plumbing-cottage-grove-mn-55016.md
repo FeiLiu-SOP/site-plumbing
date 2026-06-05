@@ -12,28 +12,41 @@ lng: -92.9300
 zipSample: ["55016"]
 zipCodes: ["55016"]
 localPaths: ["Washington County / primary ZIP 55016", "Washington County / ZIP 55016 sector", "Washington County / elevation 807 ft band", "Washington County / coords 44.8200, -92.9300"]
-zillowHomeValueUsd: 396265
 ---
 
-**Engineering Notice for Cottage Grove:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Cottage Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 55016.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55016.
+Trenchless pulls in Cottage Grove, MN require pit dimensions verified against utility locate marks.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55016.
+Material note: Water heater anode type may change with Cottage Grove, MN hardness profiles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cottage Grove, MN, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55016.
+Recirculation pump failures in Cottage Grove, MN can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 55016 intake.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 55016.
 
-Dispatch sectors sampled: ZIP 55016 (county grid: Washington County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Dual-water-meter setups in Cottage Grove, MN irrigation zones need backflow logs before line replacement.
+
+FAQ: When should sump battery backups be load-tested? In Cottage Grove, MN, before spring thaw and hurricane remnants.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 728503: branch wet-vent geometry and jetting nozzle envelope logged for Cottage Grove, MN county grid Washington County (ZIP 55016).
+
+Supply audit 728503: curb-stop orientation and hose-bib freeze flag reviewed for Cottage Grove, MN at coords 44.8200/-92.9300.
+
+Scope trace: hose bib freeze flag plus sump float travel referenced in Washington County county grid review.
+
+On-site sector marker: Washington County / elevation 807 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55016-045a9967

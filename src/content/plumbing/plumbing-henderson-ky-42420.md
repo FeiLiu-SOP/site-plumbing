@@ -12,24 +12,41 @@ lng: -87.5800
 zipSample: ["42419", "42420"]
 zipCodes: ["42419", "42420"]
 localPaths: ["Henderson County / ZIP 42419 sector", "Henderson County / coords 37.8400, -87.5800", "Henderson County / elevation 390 ft band", "Henderson County / primary ZIP 42420", "Henderson County / ZIP 42420 sector"]
-zillowHomeValueUsd: 199585
 ---
 
-**Engineering Notice for Henderson:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Henderson County.
+**Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henderson County.
 
 
-Homeowners in Henderson, KY often face sudden plumbing problems that require fast action.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Structured milestones protect both sides when scheduling work.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Moisture pathway inspection logged near ZIP 42420/42419 intake.
+Permit note: Main water line replacement in Henderson, KY may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 42420, 42419 (county grid: Henderson County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Henderson, KY.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+CPVC solvent weld times shift with ambient humidity during Henderson, KY shoulder seasons.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Intake ledger 273778: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Henderson, KY at 37.8400, -87.5800.
+
+Pressure trace 273778: meter-pit clearance and dielectric union checklist staged for Henderson, KY near elevation 390 ft.
+
+plumbing brief: fixture shutoff torque log and slab penetration sleeve seal were cross-checked for the Henderson intake packet.
+
+On-site sector marker: Henderson County / primary ZIP 42420 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42420-50a26c81

@@ -12,27 +12,39 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
-zillowHomeValueUsd: 527490
 ---
 
-**Engineering Notice for Avenel:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Avenel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07001.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 07001.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is cabling enough? In Avenel, NJ, pipe material and blockage type dictate method.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Avenel, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Moisture pathway inspection logged near ZIP 07001 intake.
+Branch wet vents in Avenel, NJ can mask gurgling as a main-line issue.
 
-Field note: Access points and staging constraints recorded for ZIP 07001 coverage.
+Cast-iron hub corrosion in Avenel, NJ often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 07001 (county grid: Middlesex County).
+FAQ: When should sump battery backups be load-tested? In Avenel, NJ, before spring thaw and hurricane remnants.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Drain map 315068: camera-pass priority and expansion-tank pre-charge noted for Avenel, NJ postal sector 07001.
+
+Lineage note 315068: recirculation pump amp draw captured before Avenel, NJ branch isolation.
+
+Primary postal anchor 07001 with multi-ZIP overlap in Avenel; field packets tag Middlesex County for county-grid reconciliation.
 
 Service reference: NJ-07001-db6cab65

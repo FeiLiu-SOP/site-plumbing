@@ -12,26 +12,41 @@ lng: -79.8400
 zipSample: ["15134", "15132"]
 zipCodes: ["15134", "15132"]
 localPaths: ["Allegheny County / elevation 1001 ft band", "Allegheny County / ZIP 15134 sector", "Allegheny County / ZIP 15132 sector", "Allegheny County / primary ZIP 15132", "Allegheny County / coords 40.3400, -79.8400"]
-zillowHomeValueUsd: 73706
 ---
 
-**Engineering Notice for McKeesport:** Structural loading calculated based on 1001 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for McKeesport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
 
 
-In McKeesport, PA, seasonal demand can change scheduling windows.
+In McKeesport, PA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in McKeesport, PA, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our service coordination centers on McKeesport, PA coverage windows and verified intake details.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in McKeesport, PA slab circuits run overnight when listening mics show ambiguous hits.
 
-In McKeesport, PA, urgent plumbing issues can escalate quickly.
+Expansion tank pre-charge loss in McKeesport, PA often tracks heater replacement deferrals.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 15134/15132.
+Water heater T&P discharge paths in McKeesport, PA must terminate safely before replacement quotes.
 
-Field note: Moisture pathway inspection logged near ZIP 15134/15132 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 15134, 15132 (county grid: Allegheny County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 15132.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 569937: curb-stop orientation and hose-bib freeze flag reviewed for McKeesport, PA at coords 40.3400/-79.8400.
+
+Drain map 569937: camera-pass priority and expansion-tank pre-charge noted for McKeesport, PA postal sector 15132.
+
+plumbing brief: water softener bypass lever and PEX expansion ring batch were cross-checked for the McKeesport intake packet.
+
+On-site sector marker: Allegheny County / coords 40.3400, -79.8400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15132-5f7370f4

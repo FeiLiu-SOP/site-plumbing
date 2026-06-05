@@ -12,24 +12,39 @@ lng: -122.2900
 zipSample: ["98372", "98352", "98374", "98373", "98371"]
 zipCodes: ["98352", "98373", "98371", "98372", "98374"]
 localPaths: ["Pierce County / ZIP 98372 sector", "Pierce County / coords 47.1800, -122.2900", "Pierce County / ZIP 98373 sector", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98352 sector"]
-zillowHomeValueUsd: 584125
 ---
 
-**Engineering Notice for Puyallup:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Puyallup:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
 
 
-Tip: request a written scope before work starts.
+Trenchless pulls in Puyallup, WA require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on Puyallup, WA coverage windows and verified intake details.
+Trenchless sleeve pulls near Puyallup, WA require pit shoring notes when water tables are high.
 
-A written scope helps prevent rework and mismatched expectations.
+Basement floor drains in Puyallup, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Puyallup, WA, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Puyallup, WA.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Puyallup, WA.
 
-Field note: Connection points spot-checked where accessible (ZIP 98373/98374/98372 zone).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 98373, 98374, 98372, 98371, 98352 (county grid: Pierce County).
+Hard water in Puyallup, WA accelerates scale on PRV seats and heater elements.
+
+Water heater T&P discharge paths in Puyallup, WA must terminate safely before replacement quotes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98374.
+
+Fixture roster 720799: toilet flange spacer kit and shower cartridge seat score queued for Puyallup, WA walk-through.
+
+plumbing brief: fixture shutoff torque log and PEX expansion ring batch were cross-checked for the Puyallup intake packet.
+
+On-site sector marker: Pierce County / ZIP 98352 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98374-3024da6e

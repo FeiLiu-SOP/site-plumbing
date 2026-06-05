@@ -12,25 +12,41 @@ lng: -86.1500
 zipSample: ["46226", "46231", "46234", "46221", "46260"]
 zipCodes: ["46228", "46250", "46255", "46224", "46282", "46262", "46205", "46225", "46234", "46268", "46253", "46217"]
 localPaths: ["Marion County / ZIP 46221 sector", "Marion County / ZIP 46234 sector", "Marion County / ZIP 46231 sector", "Marion County / ZIP 46226 sector", "Marion County / primary ZIP 46234"]
-zillowHomeValueUsd: 279502
 ---
 
-**Engineering Notice for Indianapolis:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Indianapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Indianapolis, IN, main-line bellies can trap debris even when fixtures drain normally.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46234.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate local dispatch coverage around Indianapolis, IN and nearby ZIP sectors.
+Basement floor drains in Indianapolis, IN should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Connection points spot-checked where accessible (ZIP 46219/46218/46254 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 46219, 46218, 46254, 46214, 46277 (county grid: Marion County).
+Risk flag: Seasonal Indianapolis, IN irrigation cross-connections can mask domestic pressure loss.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: In Indianapolis, IN, slab leaks can misroute as foundation issues without listening equipment.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Flow dossier 802103: branch wet-vent geometry and jetting nozzle envelope logged for Indianapolis, IN county grid Marion County (ZIP 46234).
+
+Field routing: hose bib freeze flag paired with fixture shutoff torque log near ZIP 46234.
+
+On-site sector marker: Marion County / primary ZIP 46234 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46234-abf71a6f

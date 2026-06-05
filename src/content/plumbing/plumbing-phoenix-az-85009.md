@@ -12,26 +12,39 @@ lng: -112.0900
 zipSample: ["85079", "85063", "85029", "85307", "85005"]
 zipCodes: ["85037", "85054", "85008", "85050", "85308", "85031", "85067", "85061", "85045", "85254", "85003", "85310"]
 localPaths: ["Maricopa County / elevation 1243 ft band", "Maricopa County / ZIP 85063 sector", "Maricopa County / primary ZIP 85009", "Maricopa County / ZIP 85307 sector", "Maricopa County / ZIP 85005 sector"]
-zillowHomeValueUsd: 279049
 ---
 
-**Engineering Notice for Phoenix:** Structural loading calculated based on 1243 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Phoenix:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Phoenix, AZ, but intake notes help reduce delays.
+Risk flag: In Phoenix, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Our service coordination centers on Phoenix, AZ coverage windows and verified intake details.
+Dual-water-meter setups in Phoenix, AZ irrigation zones need backflow logs before line replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Water heater anode type may change with Phoenix, AZ hardness profiles.
 
-Tip: avoid large upfront payments without milestones.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 85009.
 
-Field note: Connection points spot-checked where accessible (ZIP 85306/85016/85071 zone).
+Basement floor drains in Phoenix, AZ should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 85306/85016/85071 coverage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 85306, 85016, 85071, 85254, 85307 (county grid: Maricopa County).
+Dispatch packets reference county grid Maricopa County near ZIP 85009.
+
+Recirculation pump failures in Phoenix, AZ can mimic fixture-specific clogs.
+
+Polybutylene manifold tags in Phoenix, AZ basements should be photographed before any wall chase opens.
+
+Hose bib split patterns in Phoenix, AZ often follow missed winterization.
+
+Trenchless pulls in Phoenix, AZ require pit dimensions verified against utility locate marks.
+
+Pressure trace 192638: meter-pit clearance and dielectric union checklist staged for Phoenix, AZ near elevation 1243 ft.
+
+Lineage note 192638: recirculation pump amp draw captured before Phoenix, AZ branch isolation.
+
+On-site sector marker: Maricopa County / coords 33.5700, -112.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85009-53d24dba

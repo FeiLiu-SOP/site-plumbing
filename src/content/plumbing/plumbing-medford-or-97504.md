@@ -12,24 +12,41 @@ lng: -122.8500
 zipSample: ["97504", "97501"]
 zipCodes: ["97501", "97504"]
 localPaths: ["Jackson County / ZIP 97504 sector", "Jackson County / ZIP 97501 sector", "Jackson County / elevation 1411 ft band", "Jackson County / primary ZIP 97504", "Jackson County / coords 42.3400, -122.8500"]
-zillowHomeValueUsd: 442639
 ---
 
-**Engineering Notice for Medford:** Structural loading calculated based on 1411 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Medford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Medford, OR, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Medford, OR should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Medford, OR coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 97504.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 97504/97501.
+Trenchless pulls in Medford, OR require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 97504, 97501 (county grid: Jackson County).
+Material note: Water heater anode type may change with Medford, OR hardness profiles.
+
+Stack vent offsets in Medford, OR older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: In Medford, OR, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Medford, OR.
+
+Dual-water-meter setups in Medford, OR irrigation zones need backflow logs before line replacement.
+
+Pressure trace 297770: meter-pit clearance and dielectric union checklist staged for Medford, OR near elevation 1411 ft.
+
+Drain map 297770: camera-pass priority and expansion-tank pre-charge noted for Medford, OR postal sector 97504.
+
+Regional mesh label Jackson County: moisture and logistics baselines are keyed to Medford, OR before niche-specific work begins.
 
 Service reference: OR-97504-c4734281

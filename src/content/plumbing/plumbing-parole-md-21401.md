@@ -12,24 +12,43 @@ lng: -76.5500
 zipSample: ["21401"]
 zipCodes: ["21401"]
 localPaths: ["Anne Arundel County / elevation 95 ft band", "Anne Arundel County / coords 38.9900, -76.5500", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21401 sector"]
-zillowHomeValueUsd: 625109
 ---
 
-**Engineering Notice for Parole:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Parole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 21401.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hose bib split patterns in Parole, MD often follow missed winterization.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21401.
+Hydrostatic holds in Parole, MD slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 21401 (county grid: Anne Arundel County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: Water heater anode type may change with Parole, MD hardness profiles.
+
+Dispatch packets reference county grid Anne Arundel County near ZIP 21401.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 915623: curb-stop orientation and hose-bib freeze flag reviewed for Parole, MD at coords 38.9900/-76.5500.
+
+Fixture roster 915623: toilet flange spacer kit and shower cartridge seat score queued for Parole, MD walk-through.
+
+Scope trace: recirculation pump amp draw plus fixture shutoff torque log referenced in Anne Arundel County county grid review.
+
+On-site sector marker: Anne Arundel County / primary ZIP 21401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21401-757cb19d

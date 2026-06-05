@@ -12,24 +12,41 @@ lng: -77.2400
 zipSample: ["20850", "20878"]
 zipCodes: ["20878", "20850"]
 localPaths: ["Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1000, -77.2400", "Montgomery County / elevation 394 ft band", "Montgomery County / ZIP 20850 sector"]
-zillowHomeValueUsd: 703118
 ---
 
-**Engineering Notice for North Potomac:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for North Potomac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless pulls in North Potomac, MD require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on North Potomac, MD coverage windows and verified intake details.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: compare at least two estimates for scope and timeline.
+Hard water in North Potomac, MD accelerates scale on PRV seats and heater elements.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Connection points spot-checked where accessible (ZIP 20850/20878 zone).
+Irrigation cross-connections in North Potomac, MD can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 20850, 20878 (county grid: Montgomery County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Basement floor drains in North Potomac, MD should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 20878.
+
+Supply audit 306473: curb-stop orientation and hose-bib freeze flag reviewed for North Potomac, MD at coords 39.1000/-77.2400.
+
+Flow dossier 306473: branch wet-vent geometry and jetting nozzle envelope logged for North Potomac, MD county grid Montgomery County (ZIP 20878).
+
+Field routing: floor drain trap primer drip paired with fixture shutoff torque log near ZIP 20878.
+
+On-site sector marker: Montgomery County / ZIP 20850 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20878-f9e42d43

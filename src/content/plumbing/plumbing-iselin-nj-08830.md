@@ -12,26 +12,39 @@ lng: -74.3200
 zipSample: ["08830"]
 zipCodes: ["08830"]
 localPaths: ["Middlesex County / primary ZIP 08830", "Middlesex County / ZIP 08830 sector", "Middlesex County / coords 40.5700, -74.3200", "Middlesex County / elevation 43 ft band"]
-zillowHomeValueUsd: 559722
 ---
 
-**Engineering Notice for Iselin:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Iselin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Irrigation cross-connections in Iselin, NJ can back-siphon domestic lines during main breaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate local dispatch coverage around Iselin, NJ and nearby ZIP sectors.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 08830.
+Sewer gas odors in Iselin, NJ should trigger trap seal and vent path review.
 
-Field note: Connection points spot-checked where accessible (ZIP 08830 zone).
+Recirculation pump failures in Iselin, NJ can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 08830 (county grid: Middlesex County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Water heater T&P discharge paths in Iselin, NJ must terminate safely before replacement quotes.
+
+Cleanout access limits in Iselin, NJ frequently extend drain cleaning duration.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Cast-iron hub corrosion in Iselin, NJ often concentrates at the third joint upstream of the cleanout.
+
+Drain map 625590: camera-pass priority and expansion-tank pre-charge noted for Iselin, NJ postal sector 08830.
+
+ZIP-corridor snapshot for Iselin, NJ: sampled sectors include 08830; county routing grid remains Middlesex County.
 
 Service reference: NJ-08830-0d128ce6

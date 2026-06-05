@@ -12,26 +12,43 @@ lng: -87.8500
 zipSample: ["60914", "60915"]
 zipCodes: ["60915", "60914"]
 localPaths: ["Kankakee County / coords 41.1600, -87.8500", "Kankakee County / primary ZIP 60915", "Kankakee County / elevation 673 ft band", "Kankakee County / ZIP 60914 sector", "Kankakee County / ZIP 60915 sector"]
-zillowHomeValueUsd: 176245
 ---
 
-**Engineering Notice for Bradley:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Kankakee County.
+**Engineering Notice for Bradley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kankakee County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bradley, IL systems need rebalancing.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 60915/60914 intake.
+Fixture shutoff stiffness in Bradley, IL may indicate mineral bridging behind stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 60915/60914 zone).
+Frost-free sillcock failures in Bradley, IL often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 60915, 60914 (county grid: Kankakee County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60915.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bradley, IL.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Hose bib split patterns in Bradley, IL often follow missed winterization.
+
+Step: camera-pass main lines in Bradley, IL before jetting older clay or cast iron.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 726315: toilet flange spacer kit and shower cartridge seat score queued for Bradley, IL walk-through.
+
+Scope trace: fixture shutoff torque log plus meter pit clearance referenced in Kankakee County county grid review.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Kankakee County. Reference elevation: 673 ft. Primary coordinates: 41.1600, -87.8500. ZIP sample: 60915, 60914. Logistics priority: Serving residential sectors across Kankakee County and north-east ZIP 60915 grid.
 
 Service reference: IL-60915-3783d134

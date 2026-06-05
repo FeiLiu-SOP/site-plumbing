@@ -12,26 +12,41 @@ lng: -81.7200
 zipSample: ["34713", "34712", "34711"]
 zipCodes: ["34712", "34713", "34711"]
 localPaths: ["Lake County / primary ZIP 34711", "Lake County / coords 28.5300, -81.7200", "Lake County / ZIP 34712 sector", "Lake County / ZIP 34713 sector", "Lake County / ZIP 34711 sector"]
-zillowHomeValueUsd: 428226
 ---
 
-**Engineering Notice for Clermont:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Clermont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Local conditions in Clermont, FL can affect timelines and material choices.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Clermont, FL require pit shoring notes when water tables are high.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-We coordinate local dispatch coverage around Clermont, FL and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34711/34712/34713.
+Step: map sump float travel and check-valve orientation for Clermont, FL basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 34711/34712/34713.
+Branch wet vents in Clermont, FL can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 34711, 34712, 34713 (county grid: Lake County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 34711.
+
+Lineage note 201035: recirculation pump amp draw captured before Clermont, FL branch isolation.
+
+Scope trace: cleanout riser height plus recirculation pump amp draw referenced in Lake County county grid review.
+
+Coordinate-anchored dispatch note: center reference 28.5300, -81.7200 at elevation ~141 ft aligns with Lake County intake staging.
 
 Service reference: FL-34711-a5509175

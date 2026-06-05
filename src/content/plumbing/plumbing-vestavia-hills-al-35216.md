@@ -12,24 +12,41 @@ lng: -86.7400
 zipSample: ["35242", "35296", "35243", "35216", "35266"]
 zipCodes: ["35288", "35296", "35242", "35216", "35266", "35243"]
 localPaths: ["Jefferson County / ZIP 35243 sector", "Jefferson County / ZIP 35216 sector", "Jefferson County / ZIP 35296 sector", "Jefferson County / elevation 709 ft band", "Jefferson County / primary ZIP 35216"]
-zillowHomeValueUsd: 411518
 ---
 
-**Engineering Notice for Vestavia Hills:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Vestavia Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in Vestavia Hills, AL slab circuits run overnight when listening mics show ambiguous hits.
 
-Our service coordination centers on Vestavia Hills, AL coverage windows and verified intake details.
+Polybutylene manifold tags in Vestavia Hills, AL basements should be photographed before any wall chase opens.
 
-Tip: confirm licensing and insurance before approving work.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Irrigation cross-connections in Vestavia Hills, AL can back-siphon domestic lines during main breaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydro-jetting in Vestavia Hills, AL requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35242/35266/35216.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 35242, 35266, 35216, 35288, 35296 (county grid: Jefferson County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+In Vestavia Hills, AL, slab leaks often present as warm spots before wall stains appear.
+
+Trenchless sleeve pulls near Vestavia Hills, AL require pit shoring notes when water tables are high.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 35216.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+CPVC solvent weld times shift with ambient humidity during Vestavia Hills, AL shoulder seasons.
+
+Pressure trace 694153: meter-pit clearance and dielectric union checklist staged for Vestavia Hills, AL near elevation 709 ft.
+
+Field routing: recirculation pump amp draw paired with thermal expansion loop check near ZIP 35216.
+
+On-site sector marker: Jefferson County / primary ZIP 35216 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35216-9ee20eff

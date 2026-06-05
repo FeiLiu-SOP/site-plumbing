@@ -12,26 +12,39 @@ lng: -92.8500
 zipSample: ["55033"]
 zipCodes: ["55033"]
 localPaths: ["Dakota County / primary ZIP 55033", "Dakota County / ZIP 55033 sector", "Dakota County / elevation 801 ft band", "Dakota County / coords 44.7300, -92.8500"]
-zillowHomeValueUsd: 380690
 ---
 
-**Engineering Notice for Hastings:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Hastings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Structured milestones protect both sides when scheduling work.
+Hydrostatic holds in Hastings, MN slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 55033 coverage.
+Cast-iron hub corrosion in Hastings, MN often concentrates at the third joint upstream of the cleanout.
 
-Field note: Connection points spot-checked where accessible (ZIP 55033 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 55033 (county grid: Dakota County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Dual-water-meter setups in Hastings, MN irrigation zones need backflow logs before line replacement.
+
+Water heater T&P discharge paths in Hastings, MN must terminate safely before replacement quotes.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Dispatch packets reference county grid Dakota County near ZIP 55033.
+
+Drain map 336957: camera-pass priority and expansion-tank pre-charge noted for Hastings, MN postal sector 55033.
+
+Coordinate-anchored dispatch note: center reference 44.7300, -92.8500 at elevation ~801 ft aligns with Dakota County intake staging.
 
 Service reference: MN-55033-849e1b34

@@ -12,25 +12,41 @@ lng: -85.7000
 zipSample: ["47131", "47130", "47132", "47199", "47133"]
 zipCodes: ["47130", "47131", "47199", "47133", "47132", "47134", "47190", "47144"]
 localPaths: ["Clark County / ZIP 47199 sector", "Clark County / coords 38.3400, -85.7000", "Clark County / ZIP 47133 sector", "Clark County / ZIP 47131 sector", "Clark County / ZIP 47130 sector"]
-zillowHomeValueUsd: 252844
 ---
 
-**Engineering Notice for Jeffersonville:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Jeffersonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 47130.
+Risk flag: In Jeffersonville, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Jeffersonville, IN slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Jeffersonville, IN systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jeffersonville, IN, but intake notes help reduce delays.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near Jeffersonville, IN require pit shoring notes when water tables are high.
 
-Field note: Connection points spot-checked where accessible (ZIP 47132/47199/47131 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 47132, 47199, 47131, 47130, 47190 (county grid: Clark County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Hard water in Jeffersonville, IN accelerates scale on PRV seats and heater elements.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 47130.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 47130.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Polybutylene manifold tags in Jeffersonville, IN basements should be photographed before any wall chase opens.
+
+Flow dossier 555982: branch wet-vent geometry and jetting nozzle envelope logged for Jeffersonville, IN county grid Clark County (ZIP 47130).
+
+Lineage note 555982: recirculation pump amp draw captured before Jeffersonville, IN branch isolation.
+
+ZIP-corridor snapshot for Jeffersonville, IN: sampled sectors include 47132, 47134, 47131, 47130, 47133, 47144, 47199, 47190; county routing grid remains Clark County.
 
 Service reference: IN-47130-5470a10e

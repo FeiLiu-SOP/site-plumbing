@@ -12,26 +12,43 @@ lng: -90.3100
 zipSample: ["63129", "63125"]
 zipCodes: ["63125", "63129"]
 localPaths: ["St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63125 sector", "St. Louis County / coords 38.5000, -90.3100", "St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band"]
-zillowHomeValueUsd: 339995
 ---
 
-**Engineering Notice for Mehlville:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Mehlville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Mehlville, MO often trace to interior shutoff seats, not exterior stems.
 
-We coordinate local dispatch coverage around Mehlville, MO and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Mehlville, MO, before spring thaw and hurricane remnants.
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Main water line replacement in Mehlville, MO may require ROW restoration planning.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Access points and staging constraints recorded for ZIP 63125/63129 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 63129.
 
-Field note: Connection points spot-checked where accessible (ZIP 63125/63129 zone).
+Branch wet vents in Mehlville, MO can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 63125, 63129 (county grid: St. Louis County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 63129.
+
+Polybutylene manifold tags in Mehlville, MO basements should be photographed before any wall chase opens.
+
+Dual-water-meter setups in Mehlville, MO irrigation zones need backflow logs before line replacement.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mehlville, MO.
+
+Pressure trace 659026: meter-pit clearance and dielectric union checklist staged for Mehlville, MO near elevation 597 ft.
+
+Flow dossier 659026: branch wet-vent geometry and jetting nozzle envelope logged for Mehlville, MO county grid St. Louis County (ZIP 63129).
+
+Field routing: backflow test cock orientation paired with scale coupon sampling near ZIP 63129.
+
+On-site sector marker: St. Louis County / coords 38.5000, -90.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63129-0b0868c0

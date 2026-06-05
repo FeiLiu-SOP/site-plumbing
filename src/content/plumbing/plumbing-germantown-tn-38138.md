@@ -12,26 +12,43 @@ lng: -89.7800
 zipSample: ["38139", "38138", "38183"]
 zipCodes: ["38183", "38139", "38138"]
 localPaths: ["Shelby County / ZIP 38139 sector", "Shelby County / coords 35.0800, -89.7800", "Shelby County / ZIP 38138 sector", "Shelby County / primary ZIP 38138", "Shelby County / ZIP 38183 sector"]
-zillowHomeValueUsd: 436254
 ---
 
-**Engineering Notice for Germantown:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Germantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 38138.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Germantown, TN irrigation zones need backflow logs before line replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: address recurring issues early to prevent bigger damage.
+Stack vent offsets in Germantown, TN older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Germantown, TN, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38183/38139/38138.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 38183/38139/38138 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 38183, 38139, 38138 (county grid: Shelby County).
+Polybutylene manifold tags in Germantown, TN basements should be photographed before any wall chase opens.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Seasonal Germantown, TN irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Irrigation cross-connections in Germantown, TN can back-siphon domestic lines during main breaks.
+
+Flow dossier 570027: branch wet-vent geometry and jetting nozzle envelope logged for Germantown, TN county grid Shelby County (ZIP 38138).
+
+Pressure trace 570027: meter-pit clearance and dielectric union checklist staged for Germantown, TN near elevation 335 ft.
+
+On-site sector marker: Shelby County / primary ZIP 38138 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38138-76a9ccbf

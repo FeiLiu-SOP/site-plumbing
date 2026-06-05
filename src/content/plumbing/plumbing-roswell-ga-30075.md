@@ -12,26 +12,41 @@ lng: -84.3500
 zipSample: ["30076", "30075", "30077"]
 zipCodes: ["30077", "30075", "30076"]
 localPaths: ["Fulton County / ZIP 30077 sector", "Fulton County / ZIP 30076 sector", "Fulton County / elevation 1060 ft band", "Fulton County / coords 34.0400, -84.3500", "Fulton County / ZIP 30075 sector"]
-zillowHomeValueUsd: 707514
 ---
 
-**Engineering Notice for Roswell:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-We coordinate local dispatch coverage around Roswell, GA and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 30075.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Roswell, GA.
 
-In Roswell, GA, seasonal demand can change scheduling windows.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Connection points spot-checked where accessible (ZIP 30076/30077/30075 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30076/30077/30075.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 30076, 30077, 30075 (county grid: Fulton County).
+Risk flag: Seasonal Roswell, GA irrigation cross-connections can mask domestic pressure loss.
+
+CPVC solvent weld times shift with ambient humidity during Roswell, GA shoulder seasons.
+
+Risk flag: In Roswell, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+Basement floor drains in Roswell, GA should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Pressure trace 917532: meter-pit clearance and dielectric union checklist staged for Roswell, GA near elevation 1060 ft.
+
+Fixture roster 917532: toilet flange spacer kit and shower cartridge seat score queued for Roswell, GA walk-through.
+
+Field routing: slab penetration sleeve seal paired with water heater T&P path near ZIP 30075.
+
+On-site sector marker: Fulton County / primary ZIP 30075 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30075-6b0fc392

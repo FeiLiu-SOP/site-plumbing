@@ -12,24 +12,41 @@ lng: -114.3300
 zipSample: ["59901", "59904"]
 zipCodes: ["59904", "59901"]
 localPaths: ["Flathead County / ZIP 59901 sector", "Flathead County / coords 48.2200, -114.3300", "Flathead County / ZIP 59904 sector", "Flathead County / elevation 3077 ft band", "Flathead County / primary ZIP 59901"]
-zillowHomeValueUsd: 549130
 ---
 
-**Engineering Notice for Kalispell:** Structural loading calculated based on 3077 ft terrain assessment. Regional dispatch grid: Flathead County.
+**Engineering Notice for Kalispell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flathead County.
 
 
-Tip: request a written scope before work starts.
+Step: camera-pass main lines in Kalispell, MT before jetting older clay or cast iron.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Clear documentation helps align materials, labor, and timeline.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Structured milestones protect both sides when scheduling work.
+Hydrostatic holds in Kalispell, MT slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kalispell, MT, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 59901.
 
-Field note: Moisture pathway inspection logged near ZIP 59901/59904 intake.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 59901, 59904 (county grid: Flathead County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: When is cabling enough? In Kalispell, MT, pipe material and blockage type dictate method.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Branch wet vents in Kalispell, MT can mask gurgling as a main-line issue.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 59901.
+
+Stack vent offsets in Kalispell, MT older duplexes can mask tub gurgle as a main-line failure.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 601152: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kalispell, MT at 48.2200, -114.3300.
+
+On-site sector marker: Flathead County / ZIP 59901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59901-b49bc42d

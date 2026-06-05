@@ -12,24 +12,41 @@ lng: -122.2700
 zipSample: ["94502", "94501"]
 zipCodes: ["94502", "94501"]
 localPaths: ["Alameda County / ZIP 94502 sector", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94501 sector", "Alameda County / elevation 16 ft band", "Alameda County / coords 37.7700, -122.2700"]
-zillowHomeValueUsd: 1146610
 ---
 
-**Engineering Notice for Alameda:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Alameda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate local dispatch coverage around Alameda, CA and nearby ZIP sectors.
+Risk flag: Seasonal Alameda, CA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Alameda, CA hardness profiles.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-A written scope helps prevent rework and mismatched expectations.
+Across Alameda, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Connection points spot-checked where accessible (ZIP 94502/94501 zone).
+Permit note: Main water line replacement in Alameda, CA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 94502, 94501 (county grid: Alameda County).
+Trenchless sleeve pulls near Alameda, CA require pit shoring notes when water tables are high.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: When should sump battery backups be load-tested? In Alameda, CA, before spring thaw and hurricane remnants.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Sump discharge freeze risk in Alameda, CA should be reviewed before spring thaw cycles.
+
+Supply audit 834547: curb-stop orientation and hose-bib freeze flag reviewed for Alameda, CA at coords 37.7700/-122.2700.
+
+Drain map 834547: camera-pass priority and expansion-tank pre-charge noted for Alameda, CA postal sector 94501.
+
+Field routing: PRV outlet curve paired with fixture shutoff torque log near ZIP 94501.
+
+ZIP-corridor snapshot for Alameda, CA: sampled sectors include 94502, 94501; county routing grid remains Alameda County.
 
 Service reference: CA-94501-b0be9dab

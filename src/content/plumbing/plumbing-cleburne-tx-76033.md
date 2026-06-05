@@ -12,26 +12,43 @@ lng: -97.4200
 zipSample: ["76033", "76031"]
 zipCodes: ["76031", "76033"]
 localPaths: ["Johnson County / ZIP 76033 sector", "Johnson County / elevation 817 ft band", "Johnson County / primary ZIP 76033", "Johnson County / coords 32.3600, -97.4200", "Johnson County / ZIP 76031 sector"]
-zillowHomeValueUsd: 272489
 ---
 
-**Engineering Notice for Cleburne:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Cleburne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate local dispatch coverage around Cleburne, TX and nearby ZIP sectors.
+Sewer gas odors in Cleburne, TX should trigger trap seal and vent path review.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cleburne, TX, but intake notes help reduce delays.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-In Cleburne, TX, urgent plumbing issues can escalate quickly.
+Trenchless sleeve pulls near Cleburne, TX require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 76033/76031.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Access points and staging constraints recorded for ZIP 76033/76031 coverage.
+Dual-water-meter setups in Cleburne, TX irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 76033, 76031 (county grid: Johnson County).
+Frost-free sillcock failures in Cleburne, TX often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Cleburne, TX systems need rebalancing.
+
+Water heater T&P discharge paths in Cleburne, TX must terminate safely before replacement quotes.
+
+FAQ: When is cabling enough? In Cleburne, TX, pipe material and blockage type dictate method.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: In Cleburne, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Supply audit 246736: curb-stop orientation and hose-bib freeze flag reviewed for Cleburne, TX at coords 32.3600/-97.4200.
+
+Drain map 246736: camera-pass priority and expansion-tank pre-charge noted for Cleburne, TX postal sector 76033.
+
+On-site sector marker: Johnson County / ZIP 76031 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76033-e11eb4a5

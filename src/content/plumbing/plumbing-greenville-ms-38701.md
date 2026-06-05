@@ -12,25 +12,39 @@ lng: -91.0500
 zipSample: ["38704", "38702", "38701", "38703"]
 zipCodes: ["38702", "38703", "38704", "38701"]
 localPaths: ["Washington County / ZIP 38702 sector", "Washington County / ZIP 38704 sector", "Washington County / coords 33.3800, -91.0500", "Washington County / ZIP 38701 sector", "Washington County / primary ZIP 38701"]
-zillowHomeValueUsd: 65684
 ---
 
-**Engineering Notice for Greenville:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Trenchless sleeve pulls near Greenville, MS require pit shoring notes when water tables are high.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should sump battery backups be load-tested? In Greenville, MS, before spring thaw and hurricane remnants.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 38701.
+Permit note: Main water line replacement in Greenville, MS may require ROW restoration planning.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 38701.
 
-Our service coordination centers on Greenville, MS coverage windows and verified intake details.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Connection points spot-checked where accessible (ZIP 38701/38703/38702 zone).
+Irrigation cross-connections in Greenville, MS can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 38701, 38703, 38702, 38704 (county grid: Washington County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Material note: Water heater anode type may change with Greenville, MS hardness profiles.
+
+Dual-water-meter setups in Greenville, MS irrigation zones need backflow logs before line replacement.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Greenville, MS systems need rebalancing.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Lineage note 179004: recirculation pump amp draw captured before Greenville, MS branch isolation.
+
+Flow dossier 179004: branch wet-vent geometry and jetting nozzle envelope logged for Greenville, MS county grid Washington County (ZIP 38701).
+
+On-site sector marker: Washington County / ZIP 38702 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38701-6f29fa84

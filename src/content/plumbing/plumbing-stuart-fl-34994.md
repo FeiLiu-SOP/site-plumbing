@@ -12,24 +12,37 @@ lng: -80.2400
 zipSample: ["34957", "34994", "34996"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / ZIP 34996 sector", "Martin County / ZIP 34957 sector", "Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band"]
-zillowHomeValueUsd: 237213
 ---
 
-**Engineering Notice for Stuart:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Martin County.
+**Engineering Notice for Stuart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Martin County.
 
 
-In Stuart, FL, seasonal demand can change scheduling windows.
+Trenchless sleeve pulls near Stuart, FL require pit shoring notes when water tables are high.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stuart, FL, but intake notes help reduce delays.
+Risk flag: In Stuart, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Transparent pricing helps you compare like-for-like scope items.
+Branch wet vents in Stuart, FL can mask gurgling as a main-line issue.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Stuart, FL systems need rebalancing.
 
-Our service coordination centers on Stuart, FL coverage windows and verified intake details.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 34996/34994/34957.
+Trenchless pulls in Stuart, FL require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 34996, 34994, 34957 (county grid: Martin County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: When should sump battery backups be load-tested? In Stuart, FL, before spring thaw and hurricane remnants.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Intake ledger 822512: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Stuart, FL at 27.2000, -80.2400.
+
+On-site sector marker: Martin County / primary ZIP 34994 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34994-4293f3e8

@@ -12,27 +12,39 @@ lng: -82.1200
 zipSample: ["33563", "33565", "33564", "33566"]
 zipCodes: ["33565", "33564", "33566", "33563"]
 localPaths: ["Hillsborough County / elevation 138 ft band", "Hillsborough County / ZIP 33563 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector"]
-zillowHomeValueUsd: 281104
 ---
 
-**Engineering Notice for Plant City:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Plant City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
 
 
-In Plant City, FL, seasonal demand can change scheduling windows.
+Stack vent offsets in Plant City, FL older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Plant City, FL and nearby ZIP sectors.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Plant City, FL.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33563.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33563/33564/33565.
+Cast-iron hub corrosion in Plant City, FL often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 33563/33564/33565 coverage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 33563, 33564, 33565, 33566 (county grid: Hillsborough County).
+Step: map sump float travel and check-valve orientation for Plant City, FL basements.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Trenchless sleeve pulls near Plant City, FL require pit shoring notes when water tables are high.
+
+Material note: Water heater anode type may change with Plant City, FL hardness profiles.
+
+Risk flag: Seasonal Plant City, FL irrigation cross-connections can mask domestic pressure loss.
+
+Supply audit 949773: curb-stop orientation and hose-bib freeze flag reviewed for Plant City, FL at coords 28.0100/-82.1200.
+
+Field routing: backflow test cock orientation paired with branch wet vent geometry near ZIP 33563.
+
+On-site sector marker: Hillsborough County / coords 28.0100, -82.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33563-22d20133

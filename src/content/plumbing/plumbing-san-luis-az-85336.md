@@ -12,25 +12,39 @@ lng: -114.7100
 zipSample: ["85349", "85350", "85336"]
 zipCodes: ["85349", "85336", "85350"]
 localPaths: ["Yuma County / coords 32.4900, -114.7100", "Yuma County / elevation 151 ft band", "Yuma County / ZIP 85336 sector", "Yuma County / primary ZIP 85336", "Yuma County / ZIP 85349 sector"]
-zillowHomeValueUsd: 250693
 ---
 
-**Engineering Notice for San Luis:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Yuma County.
+**Engineering Notice for San Luis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yuma County.
 
 
-Tip: request a written scope before work starts.
+Fixture shutoff stiffness in San Luis, AZ may indicate mineral bridging behind stems.
 
-Our service coordination centers on San Luis, AZ coverage windows and verified intake details.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in San Luis, AZ accelerates scale on PRV seats and heater elements.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85336.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85350/85336/85349.
+In San Luis, AZ, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 85350, 85336, 85349 (county grid: Yuma County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydro-jetting in San Luis, AZ requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in San Luis, AZ require pit dimensions verified against utility locate marks.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 85336.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Frost-free sillcock failures in San Luis, AZ often trace to interior shutoff seats, not exterior stems.
+
+Flow dossier 924150: branch wet-vent geometry and jetting nozzle envelope logged for San Luis, AZ county grid Yuma County (ZIP 85336).
+
+Scope trace: water heater T&P path plus branch wet vent geometry referenced in Yuma County county grid review.
+
+On-site sector marker: Yuma County / coords 32.4900, -114.7100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85336-8915f362

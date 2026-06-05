@@ -12,24 +12,43 @@ lng: -97.9200
 zipSample: ["73534", "73055", "73533"]
 zipCodes: ["73533", "73055", "73534"]
 localPaths: ["Stephens County / primary ZIP 73533", "Stephens County / coords 34.5400, -97.9200", "Stephens County / ZIP 73534 sector", "Stephens County / ZIP 73533 sector", "Stephens County / ZIP 73055 sector"]
-zillowHomeValueUsd: 134971
 ---
 
-**Engineering Notice for Duncan:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Stephens County.
+**Engineering Notice for Duncan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stephens County.
 
 
-Homeowners in Duncan, OK often face sudden plumbing problems that require fast action.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Our service coordination centers on Duncan, OK coverage windows and verified intake details.
+Recirculation pump failures in Duncan, OK can mimic fixture-specific clogs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Duncan, OK, but intake notes help reduce delays.
+Across Duncan, OK, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 73534/73055/73533 coverage.
+Frost-free sillcock failures in Duncan, OK often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 73534, 73055, 73533 (county grid: Stephens County).
+Stack vent offsets in Duncan, OK older duplexes can mask tub gurgle as a main-line failure.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 73533.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: In Duncan, OK, slab leaks can misroute as foundation issues without listening equipment.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Dispatch packets reference county grid Stephens County near ZIP 73533.
+
+Hard water in Duncan, OK accelerates scale on PRV seats and heater elements.
+
+Pressure trace 484146: meter-pit clearance and dielectric union checklist staged for Duncan, OK near elevation 1171 ft.
+
+plumbing brief: jetter nozzle envelope and sump float travel were cross-checked for the Duncan intake packet.
+
+Regional mesh label Stephens County: moisture and logistics baselines are keyed to Duncan, OK before niche-specific work begins.
 
 Service reference: OK-73533-670f4933

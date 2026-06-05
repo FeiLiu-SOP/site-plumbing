@@ -12,25 +12,37 @@ lng: -86.8200
 zipSample: ["35114", "35007"]
 zipCodes: ["35114", "35007"]
 localPaths: ["Shelby County / coords 33.2200, -86.8200", "Shelby County / ZIP 35007 sector", "Shelby County / primary ZIP 35114", "Shelby County / elevation 495 ft band", "Shelby County / ZIP 35114 sector"]
-zillowHomeValueUsd: 344554
 ---
 
-**Engineering Notice for Alabaster:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Alabaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-Our service coordination centers on Alabaster, AL coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Alabaster, AL systems need rebalancing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 35114.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: address recurring issues early to prevent bigger damage.
+CPVC solvent weld times shift with ambient humidity during Alabaster, AL shoulder seasons.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Alabaster, AL, but intake notes help reduce delays.
+Dual-water-meter setups in Alabaster, AL irrigation zones need backflow logs before line replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Alabaster, AL irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Connection points spot-checked where accessible (ZIP 35007/35114 zone).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 35007, 35114 (county grid: Shelby County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Cleanout access limits in Alabaster, AL frequently extend drain cleaning duration.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Trenchless pulls in Alabaster, AL require pit dimensions verified against utility locate marks.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 35114.
+
+Pressure trace 716881: meter-pit clearance and dielectric union checklist staged for Alabaster, AL near elevation 495 ft.
+
+ZIP-corridor snapshot for Alabaster, AL: sampled sectors include 35114, 35007; county routing grid remains Shelby County.
 
 Service reference: AL-35114-1198a063

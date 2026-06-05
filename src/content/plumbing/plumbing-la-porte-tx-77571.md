@@ -12,26 +12,41 @@ lng: -95.0500
 zipSample: ["77572", "77571"]
 zipCodes: ["77572", "77571"]
 localPaths: ["Harris County / ZIP 77572 sector", "Harris County / primary ZIP 77571", "Harris County / elevation 23 ft band", "Harris County / coords 29.6700, -95.0500", "Harris County / ZIP 77571 sector"]
-zillowHomeValueUsd: 257134
 ---
 
-**Engineering Notice for La Porte:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for La Porte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in La Porte, TX systems need rebalancing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in La Porte, TX, but intake notes help reduce delays.
+Cast-iron hub corrosion in La Porte, TX often concentrates at the third joint upstream of the cleanout.
 
-Homeowners in La Porte, TX often face sudden plumbing problems that require fast action.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in La Porte, TX should trigger trap seal and vent path review.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Moisture pathway inspection logged near ZIP 77571/77572 intake.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 77571/77572 zone).
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 77571, 77572 (county grid: Harris County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Expansion tank pre-charge loss in La Porte, TX often tracks heater replacement deferrals.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Trenchless sleeve pulls near La Porte, TX require pit shoring notes when water tables are high.
+
+Material note: Water heater anode type may change with La Porte, TX hardness profiles.
+
+Fixture roster 814732: toilet flange spacer kit and shower cartridge seat score queued for La Porte, TX walk-through.
+
+Drain map 814732: camera-pass priority and expansion-tank pre-charge noted for La Porte, TX postal sector 77571.
+
+On-site sector marker: Harris County / primary ZIP 77571 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77571-5eca6d4e

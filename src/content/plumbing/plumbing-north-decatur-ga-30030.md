@@ -12,25 +12,43 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / ZIP 30030 sector", "DeKalb County / coords 33.8100, -84.2900", "DeKalb County / elevation 955 ft band", "DeKalb County / ZIP 30033 sector", "DeKalb County / primary ZIP 30030"]
-zillowHomeValueUsd: 639013
 ---
 
-**Engineering Notice for North Decatur:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In North Decatur, GA, slab leaks can misroute as foundation issues without listening equipment.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 30030.
+Expansion tank pre-charge loss in North Decatur, GA often tracks heater replacement deferrals.
 
-We coordinate local dispatch coverage around North Decatur, GA and nearby ZIP sectors.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 30030/30033 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 30030, 30033 (county grid: DeKalb County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Hose bib split patterns in North Decatur, GA often follow missed winterization.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 30030.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: Is hydro-jetting always appropriate? In North Decatur, GA, pipe material and blockage type dictate method.
+
+Hydrostatic holds in North Decatur, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+Trenchless pulls in North Decatur, GA require pit dimensions verified against utility locate marks.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 718888: curb-stop orientation and hose-bib freeze flag reviewed for North Decatur, GA at coords 33.8100/-84.2900.
+
+Lineage note 718888: recirculation pump amp draw captured before North Decatur, GA branch isolation.
+
+On-site sector marker: DeKalb County / elevation 955 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30030-26dc5d8b

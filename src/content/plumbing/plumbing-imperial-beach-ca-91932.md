@@ -12,26 +12,39 @@ lng: -117.1200
 zipSample: ["91933", "91932"]
 zipCodes: ["91933", "91932"]
 localPaths: ["San Diego County / ZIP 91933 sector", "San Diego County / elevation 26 ft band", "San Diego County / primary ZIP 91932", "San Diego County / ZIP 91932 sector", "San Diego County / coords 32.5700, -117.1200"]
-zillowHomeValueUsd: 842102
 ---
 
-**Engineering Notice for Imperial Beach:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Imperial Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Imperial Beach, CA.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Imperial Beach, CA, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Moisture pathway inspection logged near ZIP 91933/91932 intake.
+Frost-free sillcock failures in Imperial Beach, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 91933/91932.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 91933, 91932 (county grid: San Diego County).
+Permit note: Main water line replacement in Imperial Beach, CA may require ROW restoration planning.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Cast-iron hub corrosion in Imperial Beach, CA often concentrates at the third joint upstream of the cleanout.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Flow dossier 764681: branch wet-vent geometry and jetting nozzle envelope logged for Imperial Beach, CA county grid San Diego County (ZIP 91932).
+
+Scope trace: PRV outlet curve plus sewer cleanout cap thread referenced in San Diego County county grid review.
+
+On-site sector marker: San Diego County / ZIP 91933 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91932-9aa2514d

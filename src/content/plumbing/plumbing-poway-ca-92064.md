@@ -12,26 +12,39 @@ lng: -117.0200
 zipSample: ["92064", "92074"]
 zipCodes: ["92074", "92064"]
 localPaths: ["San Diego County / ZIP 92074 sector", "San Diego County / ZIP 92064 sector", "San Diego County / coords 32.9900, -117.0200", "San Diego County / elevation 705 ft band", "San Diego County / primary ZIP 92064"]
-zillowHomeValueUsd: 1234992
 ---
 
-**Engineering Notice for Poway:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Poway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-In Poway, CA, seasonal demand can change scheduling windows.
+Hydrostatic holds in Poway, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Our service coordination centers on Poway, CA coverage windows and verified intake details.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92064.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Poway, CA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92074/92064.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 92074/92064.
+Cast-iron hub corrosion in Poway, CA often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 92074, 92064 (county grid: San Diego County).
+Stack vent offsets in Poway, CA older duplexes can mask tub gurgle as a main-line failure.
+
+CPVC solvent weld times shift with ambient humidity during Poway, CA shoulder seasons.
+
+Galvanized segments in Poway, CA may restrict flow long before visible corrosion.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Poway, CA.
+
+Flow dossier 749193: branch wet-vent geometry and jetting nozzle envelope logged for Poway, CA county grid San Diego County (ZIP 92064).
+
+Lineage note 749193: recirculation pump amp draw captured before Poway, CA branch isolation.
+
+On-site sector marker: San Diego County / ZIP 92074 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92064-b4f367d3

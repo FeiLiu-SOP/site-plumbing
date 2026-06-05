@@ -12,24 +12,37 @@ lng: -122.0400
 zipSample: ["98038"]
 zipCodes: ["98038"]
 localPaths: ["King County / ZIP 98038 sector", "King County / primary ZIP 98038", "King County / elevation 541 ft band", "King County / coords 47.3700, -122.0400"]
-zillowHomeValueUsd: 800418
 ---
 
-**Engineering Notice for Maple Valley:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Maple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-Our service coordination centers on Maple Valley, WA coverage windows and verified intake details.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cleanout access limits in Maple Valley, WA frequently extend drain cleaning duration.
 
-A written scope helps prevent rework and mismatched expectations.
+Dual-water-meter setups in Maple Valley, WA irrigation zones need backflow logs before line replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sump discharge freeze risk in Maple Valley, WA should be reviewed before spring thaw cycles.
 
-Tip: avoid large upfront payments without milestones.
+Basement floor drains in Maple Valley, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 98038 coverage.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98038.
 
-Dispatch sectors sampled: ZIP 98038 (county grid: King County).
+In Maple Valley, WA, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Is hydro-jetting always appropriate? In Maple Valley, WA, pipe material and blockage type dictate method.
+
+Fixture roster 847966: toilet flange spacer kit and shower cartridge seat score queued for Maple Valley, WA walk-through.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~541 ft across the King County area. Coordinates: 47.3700, -122.0400. ZIP sample: 98038. Logistics priority: Serving residential sectors across King County and north-east ZIP 98038 grid.
 
 Service reference: WA-98038-00214ce1

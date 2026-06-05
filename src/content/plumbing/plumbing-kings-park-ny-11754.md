@@ -12,24 +12,41 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / coords 40.8900, -73.2500", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band"]
-zillowHomeValueUsd: 737731
 ---
 
-**Engineering Notice for Kings Park:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Kings Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Basement floor drains in Kings Park, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Kings Park, NY coverage windows and verified intake details.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 11754.
 
-A written scope helps prevent rework and mismatched expectations.
+Hydrostatic holds in Kings Park, NY slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kings Park, NY, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Connection points spot-checked where accessible (ZIP 11754 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 11754 (county grid: Suffolk County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Dispatch packets reference county grid Suffolk County near ZIP 11754.
+
+Frost-free sillcock failures in Kings Park, NY often trace to interior shutoff seats, not exterior stems.
+
+Water heater T&P discharge paths in Kings Park, NY must terminate safely before replacement quotes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Expansion tank pre-charge loss in Kings Park, NY often tracks heater replacement deferrals.
+
+Supply audit 291090: curb-stop orientation and hose-bib freeze flag reviewed for Kings Park, NY at coords 40.8900/-73.2500.
+
+Flow dossier 291090: branch wet-vent geometry and jetting nozzle envelope logged for Kings Park, NY county grid Suffolk County (ZIP 11754).
+
+ZIP-corridor snapshot for Kings Park, NY: sampled sectors include 11754; county routing grid remains Suffolk County.
 
 Service reference: NY-11754-fceeb2e1

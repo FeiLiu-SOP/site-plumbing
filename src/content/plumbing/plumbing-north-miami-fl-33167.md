@@ -12,27 +12,39 @@ lng: -80.1700
 zipSample: ["33181", "33161", "33167", "33160", "33261"]
 zipCodes: ["33160", "33167", "33168", "33181", "33261", "33161"]
 localPaths: ["Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33181 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9000, -80.1700", "Miami-Dade County / ZIP 33167 sector"]
-zillowHomeValueUsd: 462261
 ---
 
-**Engineering Notice for North Miami:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for North Miami:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Miami, FL, but intake notes help reduce delays.
+Material note: Water heater anode type may change with North Miami, FL hardness profiles.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33167.
+Step: document dielectric unions before mixed-metal replacements.
 
-We coordinate local dispatch coverage around North Miami, FL and nearby ZIP sectors.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 33161/33181/33261 intake.
+Permit note: Main water line replacement in North Miami, FL may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 33161/33181/33261 zone).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 33161, 33181, 33261, 33167, 33160 (county grid: Miami-Dade County).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 33167.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33167.
+
+Basement floor drains in North Miami, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Trenchless sleeve pulls near North Miami, FL require pit shoring notes when water tables are high.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 776177: recirculation pump amp draw captured before North Miami, FL branch isolation.
+
+On-site sector marker: Miami-Dade County / ZIP 33160 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33167-caf7e0fc

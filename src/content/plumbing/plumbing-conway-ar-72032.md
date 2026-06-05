@@ -12,26 +12,45 @@ lng: -92.4700
 zipSample: ["72032", "72035", "72034"]
 zipCodes: ["72034", "72032", "72035"]
 localPaths: ["Faulkner County / ZIP 72035 sector", "Faulkner County / ZIP 72034 sector", "Faulkner County / coords 35.0800, -92.4700", "Faulkner County / primary ZIP 72032", "Faulkner County / ZIP 72032 sector"]
-zillowHomeValueUsd: 219037
 ---
 
-**Engineering Notice for Conway:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Faulkner County.
+**Engineering Notice for Conway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Faulkner County.
 
 
-In Conway, AR, seasonal demand can change scheduling windows.
+In Conway, AR, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Conway, AR, but intake notes help reduce delays.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Our service coordination centers on Conway, AR coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Irrigation cross-connections in Conway, AR can back-siphon domestic lines during main breaks.
 
-Tip: request a written scope before work starts.
+Galvanized segments in Conway, AR may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 72034/72032/72035 coverage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 72034/72032/72035 intake.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 72034, 72032, 72035 (county grid: Faulkner County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hydro-jetting in Conway, AR requires camera confirmation before nozzle pressure is raised.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 72032.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Seasonal Conway, AR irrigation cross-connections can mask domestic pressure loss.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 404548: toilet flange spacer kit and shower cartridge seat score queued for Conway, AR walk-through.
+
+Supply audit 404548: curb-stop orientation and hose-bib freeze flag reviewed for Conway, AR at coords 35.0800/-92.4700.
+
+Field routing: jetter nozzle envelope paired with PEX expansion ring batch near ZIP 72032.
+
+Coordinate-anchored dispatch note: center reference 35.0800, -92.4700 at elevation ~335 ft aligns with Faulkner County intake staging.
 
 Service reference: AR-72032-9628e79d

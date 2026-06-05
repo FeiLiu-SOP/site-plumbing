@@ -12,24 +12,45 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / ZIP 98662 sector", "Clark County / coords 45.6900, -122.5700", "Clark County / primary ZIP 98662", "Clark County / elevation 210 ft band"]
-zillowHomeValueUsd: 484372
 ---
 
-**Engineering Notice for Five Corners:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Five Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Our service coordination centers on Five Corners, WA coverage windows and verified intake details.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Water heater T&P discharge paths in Five Corners, WA must terminate safely before replacement quotes.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Five Corners, WA irrigation zones need backflow logs before line replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 98662 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 98662 (county grid: Clark County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98662.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: In Five Corners, WA, slab leaks can misroute as foundation issues without listening equipment.
+
+Trenchless sleeve pulls near Five Corners, WA require pit shoring notes when water tables are high.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+We coordinate Five Corners, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Fixture roster 761587: toilet flange spacer kit and shower cartridge seat score queued for Five Corners, WA walk-through.
+
+Intake ledger 761587: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Five Corners, WA at 45.6900, -122.5700.
+
+Field routing: gas water heater draft hood gap paired with thermal expansion loop check near ZIP 98662.
+
+On-site sector marker: Clark County / primary ZIP 98662 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98662-bc2cf7b4

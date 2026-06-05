@@ -12,24 +12,45 @@ lng: -72.2500
 zipSample: ["03784", "03756", "03766"]
 zipCodes: ["03784", "03756", "03766"]
 localPaths: ["Grafton County / ZIP 03766 sector", "Grafton County / elevation 607 ft band", "Grafton County / primary ZIP 03784", "Grafton County / ZIP 03756 sector", "Grafton County / ZIP 03784 sector"]
-zillowHomeValueUsd: 477920
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Grafton County.
+**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grafton County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Frost-free sillcock failures in Lebanon, NH often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Lebanon, NH, before spring thaw and hurricane remnants.
 
-Tip: request a written scope before work starts.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Lebanon, NH coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Main water line replacement in Lebanon, NH may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 03756/03784/03766 zone).
+Polybutylene manifold tags in Lebanon, NH basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 03756, 03784, 03766 (county grid: Grafton County).
+Cast-iron hub corrosion in Lebanon, NH often concentrates at the third joint upstream of the cleanout.
+
+Stack vent offsets in Lebanon, NH older duplexes can mask tub gurgle as a main-line failure.
+
+Dual-water-meter setups in Lebanon, NH irrigation zones need backflow logs before line replacement.
+
+Hydrostatic holds in Lebanon, NH slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: map sump float travel and check-valve orientation for Lebanon, NH basements.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Galvanized segments in Lebanon, NH may restrict flow long before visible corrosion.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lebanon, NH systems need rebalancing.
+
+Drain map 902331: camera-pass priority and expansion-tank pre-charge noted for Lebanon, NH postal sector 03784.
+
+Fixture roster 902331: toilet flange spacer kit and shower cartridge seat score queued for Lebanon, NH walk-through.
+
+Field routing: PEX expansion ring batch paired with slab leak listening window near ZIP 03784.
+
+On-site sector marker: Grafton County / ZIP 03766 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03784-56386f65

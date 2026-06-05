@@ -12,25 +12,41 @@ lng: -105.1200
 zipSample: ["80226", "80232", "80225", "80235", "80228"]
 zipCodes: ["80214", "80235", "80225", "80232", "80226", "80215", "80227", "80228", "80201"]
 localPaths: ["Jefferson County / ZIP 80226 sector", "Jefferson County / coords 39.7000, -105.1200", "Jefferson County / ZIP 80235 sector", "Jefferson County / ZIP 80228 sector", "Jefferson County / ZIP 80225 sector"]
-zillowHomeValueUsd: 535176
 ---
 
-**Engineering Notice for Lakewood:** Structural loading calculated based on 5666 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-We coordinate local dispatch coverage around Lakewood, CO and nearby ZIP sectors.
+FAQ: Is hydro-jetting always appropriate? In Lakewood, CO, pipe material and blockage type dictate method.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Lakewood, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80232.
+Water heater T&P discharge paths in Lakewood, CO must terminate safely before replacement quotes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Lakewood, CO should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 80226/80225/80201.
+Irrigation cross-connections in Lakewood, CO can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 80226, 80225, 80201, 80215, 80228 (county grid: Jefferson County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Seasonal Lakewood, CO irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 475875: toilet flange spacer kit and shower cartridge seat score queued for Lakewood, CO walk-through.
+
+Drain map 475875: camera-pass priority and expansion-tank pre-charge noted for Lakewood, CO postal sector 80232.
+
+Scope trace: dielectric union checklist plus fixture shutoff torque log referenced in Jefferson County county grid review.
+
+On-site sector marker: Jefferson County / ZIP 80227 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80232-62d49023

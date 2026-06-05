@@ -12,24 +12,43 @@ lng: -82.9900
 zipSample: ["43260", "43218", "43016", "43204", "43205"]
 zipCodes: ["43211", "43220", "43109", "43213", "43229", "43268", "43210", "43224", "43202", "43219", "43287", "43016"]
 localPaths: ["Franklin County / ZIP 43204 sector", "Franklin County / elevation 804 ft band", "Franklin County / primary ZIP 43109", "Franklin County / ZIP 43260 sector", "Franklin County / ZIP 43205 sector"]
-zillowHomeValueUsd: 274425
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Columbus, OH, but intake notes help reduce delays.
+Trenchless pulls in Columbus, OH require pit dimensions verified against utility locate marks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: confirm licensing and insurance before approving work.
+Sump discharge freeze risk in Columbus, OH should be reviewed before spring thaw cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 43085/43220/43291.
+Basement floor drains in Columbus, OH should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 43085, 43220, 43291, 43266, 43017 (county grid: Franklin County).
+FAQ: When should sump battery backups be load-tested? In Columbus, OH, before spring thaw and hurricane remnants.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 43109.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Cleanout access limits in Columbus, OH frequently extend drain cleaning duration.
+
+FAQ: Is hydro-jetting always appropriate? In Columbus, OH, pipe material and blockage type dictate method.
+
+Supply audit 140598: curb-stop orientation and hose-bib freeze flag reviewed for Columbus, OH at coords 39.9900/-82.9900.
+
+plumbing brief: dielectric union checklist and slab leak listening window were cross-checked for the Columbus intake packet.
+
+Coordinate-anchored dispatch note: center reference 39.9900, -82.9900 at elevation ~804 ft aligns with Franklin County intake staging.
 
 Service reference: OH-43109-58e1a41a

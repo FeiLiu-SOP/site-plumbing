@@ -12,26 +12,43 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / ZIP 53593 sector", "Dane County / coords 42.9900, -89.5400", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
-zillowHomeValueUsd: 593060
 ---
 
-**Engineering Notice for Verona:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Dane County.
+**Engineering Notice for Verona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: avoid large upfront payments without milestones.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-In Verona, WI, seasonal demand can change scheduling windows.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Fixture shutoff stiffness in Verona, WI may indicate mineral bridging behind stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 53593.
+Dual-water-meter setups in Verona, WI irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 53593 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 53593 (county grid: Dane County).
+Material note: Water heater anode type may change with Verona, WI hardness profiles.
+
+FAQ: When is cabling enough? In Verona, WI, pipe material and blockage type dictate method.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Verona, WI systems need rebalancing.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Verona, WI.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 198981: recirculation pump amp draw captured before Verona, WI branch isolation.
+
+plumbing brief: sewer cleanout cap thread and jetter nozzle envelope were cross-checked for the Verona intake packet.
+
+On-site sector marker: Dane County / primary ZIP 53593 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53593-b1cacea7

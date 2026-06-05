@@ -12,26 +12,39 @@ lng: -85.0800
 zipSample: ["30112", "30117", "30116", "30109", "30118"]
 zipCodes: ["30116", "30109", "30118", "30112", "30117"]
 localPaths: ["Carroll County / ZIP 30116 sector", "Carroll County / primary ZIP 30118", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30109 sector", "Carroll County / coords 33.5800, -85.0800"]
-zillowHomeValueUsd: 281219
 ---
 
-**Engineering Notice for Carrollton:** Structural loading calculated based on 1066 ft terrain assessment. Regional dispatch grid: Carroll County.
+**Engineering Notice for Carrollton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Basement floor drains in Carrollton, GA should be snaked only after trap arm geometry is confirmed on camera.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Our service coordination centers on Carrollton, GA coverage windows and verified intake details.
+Galvanized segments in Carrollton, GA may restrict flow long before visible corrosion.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: camera-pass main lines in Carrollton, GA before jetting older clay or cast iron.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carrollton, GA, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Carrollton, GA shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 30109/30117/30112 coverage.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Wind exposure category reviewed for ZIP sector 30109/30117/30112.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 30109, 30117, 30112, 30118, 30116 (county grid: Carroll County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 30118.
+
+Dual-water-meter setups in Carrollton, GA irrigation zones need backflow logs before line replacement.
+
+Permit note: Main water line replacement in Carrollton, GA may require ROW restoration planning.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 30118.
+
+Branch wet vents in Carrollton, GA can mask gurgling as a main-line issue.
+
+Fixture roster 745607: toilet flange spacer kit and shower cartridge seat score queued for Carrollton, GA walk-through.
+
+Drain map 745607: camera-pass priority and expansion-tank pre-charge noted for Carrollton, GA postal sector 30118.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~1066 ft across the Carroll County area. Coordinates: 33.5800, -85.0800. ZIP sample: 30117, 30118, 30116, 30109, 30112. Regional routing note: Carroll County traffic flow is balanced around ZIP 30118 service demand.
 
 Service reference: GA-30118-0bf3c4b3

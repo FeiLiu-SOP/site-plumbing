@@ -12,24 +12,43 @@ lng: -82.0700
 zipSample: ["30917", "30916", "30812", "30903", "30999"]
 zipCodes: ["30812", "30909", "30905", "30914", "30903", "30901", "30917", "30805", "30919", "30912", "30907", "30916"]
 localPaths: ["Richmond County / primary ZIP 30912", "Richmond County / ZIP 30903 sector", "Richmond County / ZIP 30999 sector", "Richmond County / ZIP 30917 sector", "Richmond County / ZIP 30916 sector"]
-zillowHomeValueUsd: 145458
 ---
 
-**Engineering Notice for Augusta:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Richmond County.
+**Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richmond County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Augusta, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: confirm licensing and insurance before approving work.
+In Augusta, GA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Augusta, GA, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Augusta, GA shoulder seasons.
 
-Field note: Connection points spot-checked where accessible (ZIP 30907/30901/30999 zone).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Augusta, GA.
 
-Dispatch sectors sampled: ZIP 30907, 30901, 30999, 30916, 30909 (county grid: Richmond County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Dual-water-meter setups in Augusta, GA irrigation zones need backflow logs before line replacement.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 30912.
+
+Sewer gas odors in Augusta, GA should trigger trap seal and vent path review.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Supply audit 611248: curb-stop orientation and hose-bib freeze flag reviewed for Augusta, GA at coords 33.3600/-82.0700.
+
+Fixture roster 611248: toilet flange spacer kit and shower cartridge seat score queued for Augusta, GA walk-through.
+
+On-site sector marker: Richmond County / ZIP 30805 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30912-5febc67a

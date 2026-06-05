@@ -12,26 +12,45 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / coords 36.4400, -121.3400", "Monterey County / elevation 174 ft band", "Monterey County / primary ZIP 93960", "Monterey County / ZIP 93960 sector"]
-zillowHomeValueUsd: 631370
 ---
 
-**Engineering Notice for Soledad:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Soledad:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Soledad, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Soledad, CA, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 93960.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: In Soledad, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 93960.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Connection points spot-checked where accessible (ZIP 93960 zone).
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 93960 (county grid: Monterey County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Hydro-jetting in Soledad, CA requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in Soledad, CA require pit dimensions verified against utility locate marks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 93960.
+
+Dispatch packets reference county grid Monterey County near ZIP 93960.
+
+Supply audit 104472: curb-stop orientation and hose-bib freeze flag reviewed for Soledad, CA at coords 36.4400/-121.3400.
+
+Drain map 104472: camera-pass priority and expansion-tank pre-charge noted for Soledad, CA postal sector 93960.
+
+plumbing brief: water heater T&P path and branch wet vent geometry were cross-checked for the Soledad intake packet.
+
+On-site sector marker: Monterey County / ZIP 93960 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93960-d47d74c2

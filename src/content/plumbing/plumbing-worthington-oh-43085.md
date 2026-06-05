@@ -12,24 +12,43 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / coords 40.0900, -83.0200", "Franklin County / primary ZIP 43085", "Franklin County / ZIP 43085 sector", "Franklin County / elevation 830 ft band"]
-zillowHomeValueUsd: 404667
 ---
 
-**Engineering Notice for Worthington:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Worthington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-Tip: request a written scope before work starts.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-We coordinate local dispatch coverage around Worthington, OH and nearby ZIP sectors.
+Risk flag: In Worthington, OH, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in Worthington, OH older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 43085.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 43085 (county grid: Franklin County).
+Hydrostatic holds in Worthington, OH slab circuits run overnight when listening mics show ambiguous hits.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Trenchless sleeve pulls near Worthington, OH require pit shoring notes when water tables are high.
+
+Expansion tank pre-charge loss in Worthington, OH often tracks heater replacement deferrals.
+
+Fixture roster 913377: toilet flange spacer kit and shower cartridge seat score queued for Worthington, OH walk-through.
+
+plumbing brief: water heater T&P path and cleanout riser height were cross-checked for the Worthington intake packet.
+
+ZIP-corridor snapshot for Worthington, OH: sampled sectors include 43085; county routing grid remains Franklin County.
 
 Service reference: OH-43085-77c085d9

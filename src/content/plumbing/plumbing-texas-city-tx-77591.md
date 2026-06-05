@@ -12,24 +12,41 @@ lng: -94.9700
 zipSample: ["77590", "77568", "77518", "77539", "77591"]
 zipCodes: ["77591", "77590", "77568", "77518", "77539"]
 localPaths: ["Galveston County / elevation 16 ft band", "Galveston County / coords 29.4200, -94.9700", "Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77591 sector", "Galveston County / ZIP 77568 sector"]
-zillowHomeValueUsd: 239771
 ---
 
-**Engineering Notice for Texas City:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Galveston County.
+**Engineering Notice for Texas City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Texas City, TX, but intake notes help reduce delays.
+Step: map sump float travel and check-valve orientation for Texas City, TX basements.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Texas City, TX often trace to interior shutoff seats, not exterior stems.
 
-We coordinate local dispatch coverage around Texas City, TX and nearby ZIP sectors.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hard water in Texas City, TX accelerates scale on PRV seats and heater elements.
 
-Field note: Connection points spot-checked where accessible (ZIP 77591/77539/77590 zone).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 77591.
 
-Dispatch sectors sampled: ZIP 77591, 77539, 77590, 77518, 77568 (county grid: Galveston County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Texas City, TX.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Fixture roster 436388: toilet flange spacer kit and shower cartridge seat score queued for Texas City, TX walk-through.
+
+Lineage note 436388: recirculation pump amp draw captured before Texas City, TX branch isolation.
+
+Field routing: slab leak listening window paired with dielectric union checklist near ZIP 77591.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~16 ft across the Galveston County area. Coordinates: 29.4200, -94.9700. ZIP sample: 77568, 77539, 77591, 77518, 77590. Regional routing note: Galveston County traffic flow is balanced around ZIP 77591 service demand.
 
 Service reference: TX-77591-be25bfac

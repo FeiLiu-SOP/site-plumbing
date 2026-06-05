@@ -12,27 +12,41 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / primary ZIP 66801", "Lyon County / coords 38.4000, -96.1900"]
-zillowHomeValueUsd: 168943
 ---
 
-**Engineering Notice for Emporia:** Structural loading calculated based on 1145 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Emporia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.
 
 
-We coordinate local dispatch coverage around Emporia, KS and nearby ZIP sectors.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: request a written scope before work starts.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 66801.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Wind exposure category reviewed for ZIP sector 66801.
+Material note: Water heater anode type may change with Emporia, KS hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 66801 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 66801 (county grid: Lyon County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Basement floor drains in Emporia, KS should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 66801.
+
+Permit note: Main water line replacement in Emporia, KS may require ROW restoration planning.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Lineage note 610031: recirculation pump amp draw captured before Emporia, KS branch isolation.
+
+Fixture roster 610031: toilet flange spacer kit and shower cartridge seat score queued for Emporia, KS walk-through.
+
+Regional mesh label Lyon County: moisture and logistics baselines are keyed to Emporia, KS before niche-specific work begins.
 
 Service reference: KS-66801-f901f2ce

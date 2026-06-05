@@ -12,26 +12,37 @@ lng: -85.5900
 zipSample: ["49548", "49518", "49512", "49560", "49546"]
 zipCodes: ["49560", "49518", "49548", "49512", "49546", "49508"]
 localPaths: ["Kent County / ZIP 49548 sector", "Kent County / ZIP 49546 sector", "Kent County / coords 42.8900, -85.5900", "Kent County / ZIP 49560 sector", "Kent County / ZIP 49518 sector"]
-zillowHomeValueUsd: 364959
 ---
 
-**Engineering Notice for Kentwood:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Kentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kentwood, MI, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Kentwood, MI older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We coordinate local dispatch coverage around Kentwood, MI and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Wind exposure category reviewed for ZIP sector 49508/49518/49548.
+FAQ: When should sump battery backups be load-tested? In Kentwood, MI, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49508/49518/49548.
+Hydrostatic holds in Kentwood, MI slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 49508, 49518, 49548, 49512, 49546 (county grid: Kent County).
+Risk flag: Seasonal Kentwood, MI irrigation cross-connections can mask domestic pressure loss.
+
+Cast-iron hub corrosion in Kentwood, MI often concentrates at the third joint upstream of the cleanout.
+
+Galvanized segments in Kentwood, MI may restrict flow long before visible corrosion.
+
+Polybutylene manifold tags in Kentwood, MI basements should be photographed before any wall chase opens.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Flow dossier 923459: branch wet-vent geometry and jetting nozzle envelope logged for Kentwood, MI county grid Kent County (ZIP 49512).
+
+On-site sector marker: Kent County / elevation 751 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49512-8883eea6

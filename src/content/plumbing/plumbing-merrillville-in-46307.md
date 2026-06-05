@@ -12,24 +12,37 @@ lng: -87.3200
 zipSample: ["46401", "46307", "46410", "46411"]
 zipCodes: ["46307", "46410", "46401", "46411"]
 localPaths: ["Lake County / elevation 679 ft band", "Lake County / coords 41.4700, -87.3200", "Lake County / ZIP 46307 sector", "Lake County / ZIP 46411 sector", "Lake County / ZIP 46401 sector"]
-zillowHomeValueUsd: 353870
 ---
 
-**Engineering Notice for Merrillville:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Merrillville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save water heater serial plates for warranty traceability.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Irrigation cross-connections in Merrillville, IN can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 46410/46411/46401.
+Step: camera-pass main lines in Merrillville, IN before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 46410, 46411, 46401, 46307 (county grid: Lake County).
+Risk flag: Seasonal Merrillville, IN irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Merrillville, IN, before spring thaw and hurricane remnants.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Cast-iron hub corrosion in Merrillville, IN often concentrates at the third joint upstream of the cleanout.
+
+Material note: Water heater anode type may change with Merrillville, IN hardness profiles.
+
+Pressure trace 332360: meter-pit clearance and dielectric union checklist staged for Merrillville, IN near elevation 679 ft.
+
+On-site sector marker: Lake County / ZIP 46411 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46307-43b3e785

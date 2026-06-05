@@ -12,26 +12,39 @@ lng: -117.9500
 zipSample: ["92708", "92728"]
 zipCodes: ["92708", "92728"]
 localPaths: ["Orange County / ZIP 92708 sector", "Orange County / ZIP 92728 sector", "Orange County / elevation 52 ft band", "Orange County / coords 33.7100, -117.9500", "Orange County / primary ZIP 92708"]
-zillowHomeValueUsd: 1395096
 ---
 
-**Engineering Notice for Fountain Valley:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Fountain Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph curb-stop and meter pit before trenching.
 
-Structured milestones protect both sides when scheduling work.
+Step: camera-pass main lines in Fountain Valley, CA before jetting older clay or cast iron.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Fountain Valley, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fountain Valley, CA, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92708.
 
-Field note: Access points and staging constraints recorded for ZIP 92708/92728 coverage.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92708.
 
-Field note: Moisture pathway inspection logged near ZIP 92708/92728 intake.
+Stack vent offsets in Fountain Valley, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 92708, 92728 (county grid: Orange County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Cast-iron hub corrosion in Fountain Valley, CA often concentrates at the third joint upstream of the cleanout.
+
+Expansion tank pre-charge loss in Fountain Valley, CA often tracks heater replacement deferrals.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Dispatch packets reference county grid Orange County near ZIP 92708.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 584588: meter-pit clearance and dielectric union checklist staged for Fountain Valley, CA near elevation 52 ft.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Fountain Valley, CA before niche-specific work begins.
 
 Service reference: CA-92708-fa352f97

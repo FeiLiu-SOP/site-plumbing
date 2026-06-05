@@ -12,26 +12,41 @@ lng: -78.6400
 zipSample: ["27628", "27602", "27613", "27614", "27697"]
 zipCodes: ["27607", "27676", "27604", "27628", "27602", "27698", "27603", "27675", "27624", "27668", "27609", "27650"]
 localPaths: ["Wake County / ZIP 27602 sector", "Wake County / elevation 344 ft band", "Wake County / ZIP 27613 sector", "Wake County / ZIP 27697 sector", "Wake County / primary ZIP 27617"]
-zillowHomeValueUsd: 443652
 ---
 
-**Engineering Notice for Raleigh:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Raleigh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Local conditions in Raleigh, NC can affect timelines and material choices.
+Risk flag: Seasonal Raleigh, NC irrigation cross-connections can mask domestic pressure loss.
 
-Our service coordination centers on Raleigh, NC coverage windows and verified intake details.
+Permit note: Main water line replacement in Raleigh, NC may require ROW restoration planning.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless pulls in Raleigh, NC require pit dimensions verified against utility locate marks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Raleigh, NC, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Raleigh, NC shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 27617/27609/27690 coverage.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Wind exposure category reviewed for ZIP sector 27617/27609/27690.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 27617, 27609, 27690, 27607, 27698 (county grid: Wake County).
+Expansion tank pre-charge loss in Raleigh, NC often tracks heater replacement deferrals.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Water heater T&P discharge paths in Raleigh, NC must terminate safely before replacement quotes.
+
+Irrigation cross-connections in Raleigh, NC can back-siphon domestic lines during main breaks.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Raleigh, NC systems need rebalancing.
+
+Step: camera-pass main lines in Raleigh, NC before jetting older clay or cast iron.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Drain map 448129: camera-pass priority and expansion-tank pre-charge noted for Raleigh, NC postal sector 27617.
+
+On-site sector marker: Wake County / ZIP 27605 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27617-9f8483f4

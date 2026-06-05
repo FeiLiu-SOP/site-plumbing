@@ -12,27 +12,45 @@ lng: -74.2700
 zipSample: ["08862", "08861"]
 zipCodes: ["08861", "08862"]
 localPaths: ["Middlesex County / coords 40.5200, -74.2700", "Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08861 sector", "Middlesex County / primary ZIP 08861", "Middlesex County / ZIP 08862 sector"]
-zillowHomeValueUsd: 495668
 ---
 
-**Engineering Notice for Perth Amboy:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Perth Amboy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Perth Amboy, NJ.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Perth Amboy, NJ often trace to interior shutoff seats, not exterior stems.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 08861.
+Step: photograph curb-stop and meter pit before trenching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Perth Amboy, NJ irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 08862/08861 coverage.
+Step: camera-pass main lines in Perth Amboy, NJ before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 08862/08861.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 08862, 08861 (county grid: Middlesex County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Seasonal Perth Amboy, NJ irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: When should sump battery backups be load-tested? In Perth Amboy, NJ, before spring thaw and hurricane remnants.
+
+Basement floor drains in Perth Amboy, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: map sump float travel and check-valve orientation for Perth Amboy, NJ basements.
+
+Cleanout access limits in Perth Amboy, NJ frequently extend drain cleaning duration.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Flow dossier 849881: branch wet-vent geometry and jetting nozzle envelope logged for Perth Amboy, NJ county grid Middlesex County (ZIP 08861).
+
+Intake ledger 849881: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Perth Amboy, NJ at 40.5200, -74.2700.
+
+Field routing: sump float travel paired with branch wet vent geometry near ZIP 08861.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Middlesex County and primary ZIP 08861. Terrain reference: 85 ft. Center point: 40.5200, -74.2700. ZIP sample: 08861, 08862. Regional routing note: Middlesex County traffic flow is balanced around ZIP 08861 service demand.
 
 Service reference: NJ-08861-24144d45

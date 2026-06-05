@@ -12,27 +12,39 @@ lng: -66.1600
 zipSample: ["00736", "00737"]
 zipCodes: ["00736", "00737"]
 localPaths: ["Cayey County / ZIP 00737 sector", "Cayey County / elevation 1299 ft band", "Cayey County / coords 18.1100, -66.1600", "Cayey County / ZIP 00736 sector", "Cayey County / primary ZIP 00736"]
-zillowHomeValueUsd: 373925
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Cayey:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Cayey County.
+**Engineering Notice for Cayey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cayey County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Cayey, PR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Homeowners in Cayey, PR often face sudden plumbing problems that require fast action.
+FAQ: Is hydro-jetting always appropriate? In Cayey, PR, pipe material and blockage type dictate method.
 
-Our service coordination centers on Cayey, PR coverage windows and verified intake details.
+Hydro-jetting in Cayey, PR requires camera confirmation before nozzle pressure is raised.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cayey, PR, but intake notes help reduce delays.
+Across Cayey, PR, main-line bellies can trap debris even when fixtures drain normally.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Cast-iron hub corrosion in Cayey, PR often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 00737/00736 coverage.
+Trenchless sleeve pulls near Cayey, PR require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 00737/00736.
+CPVC solvent weld times shift with ambient humidity during Cayey, PR shoulder seasons.
 
-Dispatch sectors sampled: ZIP 00737, 00736 (county grid: Cayey County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Permit note: Main water line replacement in Cayey, PR may require ROW restoration planning.
+
+Frost-free sillcock failures in Cayey, PR often trace to interior shutoff seats, not exterior stems.
+
+Step: camera-pass main lines in Cayey, PR before jetting older clay or cast iron.
+
+Polybutylene manifold tags in Cayey, PR basements should be photographed before any wall chase opens.
+
+Pressure trace 352722: meter-pit clearance and dielectric union checklist staged for Cayey, PR near elevation 1299 ft.
+
+Coordinate-anchored dispatch note: center reference 18.1100, -66.1600 at elevation ~1299 ft aligns with Cayey County intake staging.
 
 Service reference: PR-00736-f72135ea

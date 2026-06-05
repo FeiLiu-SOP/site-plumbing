@@ -12,27 +12,41 @@ lng: -73.9300
 zipSample: ["12345", "12305", "12304", "12309", "12301"]
 zipCodes: ["12304", "12345", "12309", "12301", "12325", "12305", "12307", "12308"]
 localPaths: ["Schenectady County / primary ZIP 12305", "Schenectady County / ZIP 12345 sector", "Schenectady County / coords 42.8000, -73.9300", "Schenectady County / elevation 348 ft band", "Schenectady County / ZIP 12309 sector"]
-zillowHomeValueUsd: 281378
 ---
 
-**Engineering Notice for Schenectady:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Schenectady County.
+**Engineering Notice for Schenectady:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Schenectady County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 12305.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Schenectady, NY, before spring thaw and hurricane remnants.
 
-We coordinate local dispatch coverage around Schenectady, NY and nearby ZIP sectors.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 12305/12304/12325 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 12305/12304/12325.
+Hydrostatic holds in Schenectady, NY slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 12305, 12304, 12325, 12345, 12301 (county grid: Schenectady County).
+Step: map sump float travel and check-valve orientation for Schenectady, NY basements.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 12305.
+
+Water heater T&P discharge paths in Schenectady, NY must terminate safely before replacement quotes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Trenchless pulls in Schenectady, NY require pit dimensions verified against utility locate marks.
+
+Intake ledger 684045: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Schenectady, NY at 42.8000, -73.9300.
+
+Supply audit 684045: curb-stop orientation and hose-bib freeze flag reviewed for Schenectady, NY at coords 42.8000/-73.9300.
+
+Field routing: cleanout riser height paired with sump float travel near ZIP 12305.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Schenectady County and primary ZIP 12305. Terrain reference: 348 ft. Center point: 42.8000, -73.9300. ZIP sample: 12325, 12309, 12305, 12308, 12345. Logistics priority: Serving residential sectors across Schenectady County and north-east ZIP 12305 grid.
 
 Service reference: NY-12305-d86fee44

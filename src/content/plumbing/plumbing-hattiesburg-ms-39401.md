@@ -12,28 +12,43 @@ lng: -89.3200
 zipSample: ["39401", "39406", "39403", "39407", "39402"]
 zipCodes: ["39406", "39403", "39407", "39401", "39402"]
 localPaths: ["Forrest County / primary ZIP 39401", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39401 sector", "Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39406 sector"]
-zillowHomeValueUsd: 145857
 ---
 
-**Engineering Notice for Hattiesburg:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Forrest County.
+**Engineering Notice for Hattiesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forrest County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 39401.
+FAQ: When is cabling enough? In Hattiesburg, MS, pipe material and blockage type dictate method.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hattiesburg, MS.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 39401.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Hattiesburg, MS coverage windows and verified intake details.
+Galvanized segments in Hattiesburg, MS may restrict flow long before visible corrosion.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Hattiesburg, MS often trace to interior shutoff seats, not exterior stems.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39407/39401/39406.
+Material note: Water heater anode type may change with Hattiesburg, MS hardness profiles.
 
-Field note: Connection points spot-checked where accessible (ZIP 39407/39401/39406 zone).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 39401.
 
-Dispatch sectors sampled: ZIP 39407, 39401, 39406, 39402, 39403 (county grid: Forrest County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hattiesburg, MS systems need rebalancing.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Drain map 379541: camera-pass priority and expansion-tank pre-charge noted for Hattiesburg, MS postal sector 39401.
+
+Lineage note 379541: recirculation pump amp draw captured before Hattiesburg, MS branch isolation.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Forrest County and primary ZIP 39401. Terrain reference: 223 ft. Center point: 31.3100, -89.3200. ZIP sample: 39407, 39402, 39401, 39406, 39403. Logistics priority: Serving residential sectors across Forrest County and north-east ZIP 39401 grid.
 
 Service reference: MS-39401-08fbdc99

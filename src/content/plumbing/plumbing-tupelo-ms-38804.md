@@ -12,26 +12,43 @@ lng: -88.7300
 zipSample: ["38803", "38802", "38804", "38801", "38826"]
 zipCodes: ["38802", "38804", "38826", "38803", "38801"]
 localPaths: ["Lee County / ZIP 38803 sector", "Lee County / elevation 285 ft band", "Lee County / coords 34.2700, -88.7300", "Lee County / ZIP 38802 sector", "Lee County / ZIP 38801 sector"]
-zillowHomeValueUsd: 193088
 ---
 
-**Engineering Notice for Tupelo:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Tupelo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Tupelo, MS coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tupelo, MS systems need rebalancing.
 
-In Tupelo, MS, urgent plumbing issues can escalate quickly.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 38803/38804/38802.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 38803/38804/38802 intake.
+Risk flag: In Tupelo, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 38803, 38804, 38802, 38826, 38801 (county grid: Lee County).
+CPVC solvent weld times shift with ambient humidity during Tupelo, MS shoulder seasons.
+
+Stack vent offsets in Tupelo, MS older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: Water heater anode type may change with Tupelo, MS hardness profiles.
+
+FAQ: Is hydro-jetting always appropriate? In Tupelo, MS, pipe material and blockage type dictate method.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 38804.
+
+Polybutylene manifold tags in Tupelo, MS basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Lineage note 822120: recirculation pump amp draw captured before Tupelo, MS branch isolation.
+
+Fixture roster 822120: toilet flange spacer kit and shower cartridge seat score queued for Tupelo, MS walk-through.
+
+On-site sector marker: Lee County / ZIP 38803 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38804-506863a4

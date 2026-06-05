@@ -12,26 +12,37 @@ lng: -104.6100
 zipSample: ["81008", "81001", "81003", "81004", "81002"]
 zipCodes: ["81005", "81004", "81010", "81011", "81003", "81008", "81001", "81012", "81002"]
 localPaths: ["Pueblo County / ZIP 81003 sector", "Pueblo County / ZIP 81004 sector", "Pueblo County / coords 38.2700, -104.6100", "Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81008 sector"]
-zillowHomeValueUsd: 195459
 ---
 
-**Engineering Notice for Pueblo:** Structural loading calculated based on 4669 ft terrain assessment. Regional dispatch grid: Pueblo County.
+**Engineering Notice for Pueblo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pueblo County.
 
 
-Our service coordination centers on Pueblo, CO coverage windows and verified intake details.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 81004.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 81004.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 81004.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pueblo, CO, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 81012/81004/81001.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 81012, 81004, 81001, 81003, 81010 (county grid: Pueblo County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Hose bib split patterns in Pueblo, CO often follow missed winterization.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pueblo, CO systems need rebalancing.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Polybutylene manifold tags in Pueblo, CO basements should be photographed before any wall chase opens.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Drain map 353147: camera-pass priority and expansion-tank pre-charge noted for Pueblo, CO postal sector 81004.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Pueblo County and primary ZIP 81004. Terrain reference: 4669 ft. Center point: 38.2700, -104.6100. ZIP sample: 81008, 81010, 81005, 81011, 81012. Regional routing note: Pueblo County traffic flow is balanced around ZIP 81004 service demand.
 
 Service reference: CO-81004-920c724f

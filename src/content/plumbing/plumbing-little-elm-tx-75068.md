@@ -12,25 +12,39 @@ lng: -96.9300
 zipSample: ["75068", "76227"]
 zipCodes: ["76227", "75068"]
 localPaths: ["Denton County / ZIP 76227 sector", "Denton County / ZIP 75068 sector", "Denton County / primary ZIP 75068", "Denton County / coords 33.1900, -96.9300", "Denton County / elevation 525 ft band"]
-zillowHomeValueUsd: 405184
 ---
 
-**Engineering Notice for Little Elm:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Denton County.
+**Engineering Notice for Little Elm:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denton County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Little Elm, TX irrigation zones need backflow logs before line replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75068.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-A written scope helps prevent rework and mismatched expectations.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 76227/75068.
+Material note: Water heater anode type may change with Little Elm, TX hardness profiles.
 
-Dispatch sectors sampled: ZIP 76227, 75068 (county grid: Denton County).
+Step: map sump float travel and check-valve orientation for Little Elm, TX basements.
+
+Irrigation cross-connections in Little Elm, TX can back-siphon domestic lines during main breaks.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Little Elm, TX.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Seasonal Little Elm, TX irrigation cross-connections can mask domestic pressure loss.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Fixture roster 823839: toilet flange spacer kit and shower cartridge seat score queued for Little Elm, TX walk-through.
+
+plumbing brief: slab leak listening window and jetter nozzle envelope were cross-checked for the Little Elm intake packet.
+
+On-site sector marker: Denton County / ZIP 76227 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75068-2cf85982

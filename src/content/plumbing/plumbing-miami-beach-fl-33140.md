@@ -12,26 +12,37 @@ lng: -80.1400
 zipSample: ["33141", "33119", "33109", "33239", "33140"]
 zipCodes: ["33109", "33139", "33141", "33119", "33140", "33239"]
 localPaths: ["Miami-Dade County / ZIP 33140 sector", "Miami-Dade County / ZIP 33109 sector", "Miami-Dade County / ZIP 33141 sector", "Miami-Dade County / ZIP 33239 sector", "Miami-Dade County / elevation 10 ft band"]
-zillowHomeValueUsd: 674404
 ---
 
-**Engineering Notice for Miami Beach:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Miami Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-In Miami Beach, FL, seasonal demand can change scheduling windows.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Miami Beach, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-We coordinate local dispatch coverage around Miami Beach, FL and nearby ZIP sectors.
+Across Miami Beach, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydro-jetting in Miami Beach, FL requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Connection points spot-checked where accessible (ZIP 33239/33141/33140 zone).
+FAQ: When should sump battery backups be load-tested? In Miami Beach, FL, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 33239/33141/33140 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 33239, 33141, 33140, 33119, 33139 (county grid: Miami-Dade County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Recirculation pump failures in Miami Beach, FL can mimic fixture-specific clogs.
+
+Basement floor drains in Miami Beach, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Hose bib split patterns in Miami Beach, FL often follow missed winterization.
+
+Sewer gas odors in Miami Beach, FL should trigger trap seal and vent path review.
+
+Pressure trace 114907: meter-pit clearance and dielectric union checklist staged for Miami Beach, FL near elevation 10 ft.
+
+On-site sector marker: Miami-Dade County / ZIP 33140 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33140-5de42ca0

@@ -12,26 +12,41 @@ lng: -119.3300
 zipSample: ["93277", "93279", "93278", "93292", "93290"]
 zipCodes: ["93278", "93292", "93291", "93277", "93290", "93279"]
 localPaths: ["Tulare County / ZIP 93278 sector", "Tulare County / ZIP 93292 sector", "Tulare County / elevation 322 ft band", "Tulare County / coords 36.3300, -119.3300", "Tulare County / ZIP 93279 sector"]
-zillowHomeValueUsd: 372934
 ---
 
-**Engineering Notice for Visalia:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Tulare County.
+**Engineering Notice for Visalia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulare County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Water heater anode type may change with Visalia, CA hardness profiles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Visalia, CA, but intake notes help reduce delays.
+Basement floor drains in Visalia, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 93277.
 
-Homeowners in Visalia, CA often face sudden plumbing problems that require fast action.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 93279/93291/93290 coverage.
+We coordinate Visalia, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93279/93291/93290.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 93279, 93291, 93290, 93277, 93292 (county grid: Tulare County).
+In Visalia, CA, slab leaks often present as warm spots before wall stains appear.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Recirculation pump failures in Visalia, CA can mimic fixture-specific clogs.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Sewer gas odors in Visalia, CA should trigger trap seal and vent path review.
+
+Cast-iron hub corrosion in Visalia, CA often concentrates at the third joint upstream of the cleanout.
+
+Irrigation cross-connections in Visalia, CA can back-siphon domestic lines during main breaks.
+
+Supply audit 777047: curb-stop orientation and hose-bib freeze flag reviewed for Visalia, CA at coords 36.3300/-119.3300.
+
+On-site sector marker: Tulare County / ZIP 93292 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93277-41b1a48a

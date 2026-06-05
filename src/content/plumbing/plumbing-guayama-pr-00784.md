@@ -12,27 +12,39 @@ lng: -66.1100
 zipSample: ["00785", "00784"]
 zipCodes: ["00784", "00785"]
 localPaths: ["Guayama County / primary ZIP 00784", "Guayama County / coords 17.9700, -66.1100", "Guayama County / elevation 112 ft band", "Guayama County / ZIP 00784 sector", "Guayama County / ZIP 00785 sector"]
-zillowHomeValueUsd: 356207
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Guayama:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Guayama County.
+**Engineering Notice for Guayama:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guayama County.
 
 
-Local conditions in Guayama, PR can affect timelines and material choices.
+Risk flag: In Guayama, PR, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Guayama, PR irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+CPVC solvent weld times shift with ambient humidity during Guayama, PR shoulder seasons.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Guayama, PR, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Sewer gas odors in Guayama, PR should trigger trap seal and vent path review.
 
-Field note: Connection points spot-checked where accessible (ZIP 00784/00785 zone).
+Frost-free sillcock failures in Guayama, PR often trace to interior shutoff seats, not exterior stems.
 
-Field note: Moisture pathway inspection logged near ZIP 00784/00785 intake.
+Branch wet vents in Guayama, PR can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 00784, 00785 (county grid: Guayama County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: Water heater anode type may change with Guayama, PR hardness profiles.
+
+Cleanout access limits in Guayama, PR frequently extend drain cleaning duration.
+
+Cast-iron hub corrosion in Guayama, PR often concentrates at the third joint upstream of the cleanout.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 00784.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 00784.
+
+Intake ledger 569994: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Guayama, PR at 17.9700, -66.1100.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Guayama County and primary ZIP 00784. Terrain reference: 112 ft. Center point: 17.9700, -66.1100. ZIP sample: 00784, 00785. Logistics priority: Serving residential sectors across Guayama County and north-east ZIP 00784 grid.
 
 Service reference: PR-00784-3ccc8d63

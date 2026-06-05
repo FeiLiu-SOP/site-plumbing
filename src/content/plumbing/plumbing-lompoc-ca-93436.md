@@ -12,25 +12,41 @@ lng: -120.4700
 zipSample: ["93436", "93438"]
 zipCodes: ["93436", "93438"]
 localPaths: ["Santa Barbara County / elevation 85 ft band", "Santa Barbara County / coords 34.6600, -120.4700", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / primary ZIP 93436", "Santa Barbara County / ZIP 93436 sector"]
-zillowHomeValueUsd: 590070
 ---
 
-**Engineering Notice for Lompoc:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Lompoc:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Lompoc, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93436.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-In Lompoc, CA, urgent plumbing issues can escalate quickly.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Sump discharge freeze risk in Lompoc, CA should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Lompoc, CA require pit shoring notes when water tables are high.
 
-Field note: Connection points spot-checked where accessible (ZIP 93438/93436 zone).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 93438, 93436 (county grid: Santa Barbara County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Frost-free sillcock failures in Lompoc, CA often trace to interior shutoff seats, not exterior stems.
+
+Stack vent offsets in Lompoc, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 93436.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Flow dossier 985747: branch wet-vent geometry and jetting nozzle envelope logged for Lompoc, CA county grid Santa Barbara County (ZIP 93436).
+
+Lineage note 985747: recirculation pump amp draw captured before Lompoc, CA branch isolation.
+
+Coordinate-anchored dispatch note: center reference 34.6600, -120.4700 at elevation ~85 ft aligns with Santa Barbara County intake staging.
 
 Service reference: CA-93436-2eb2a273

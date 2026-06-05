@@ -12,25 +12,45 @@ lng: -87.5300
 zipSample: ["35407", "35476", "35486", "35404", "35406"]
 zipCodes: ["35403", "35476", "35401", "35407", "35486", "35404", "35487", "35405", "35406", "35475"]
 localPaths: ["Tuscaloosa County / ZIP 35404 sector", "Tuscaloosa County / ZIP 35486 sector", "Tuscaloosa County / coords 33.2300, -87.5300", "Tuscaloosa County / elevation 253 ft band", "Tuscaloosa County / ZIP 35476 sector"]
-zillowHomeValueUsd: 299968
 ---
 
-**Engineering Notice for Tuscaloosa:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Tuscaloosa County.
+**Engineering Notice for Tuscaloosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscaloosa County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Seasonal Tuscaloosa, AL irrigation cross-connections can mask domestic pressure loss.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35475.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-We coordinate local dispatch coverage around Tuscaloosa, AL and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35401/35476/35406.
+Step: map sump float travel and check-valve orientation for Tuscaloosa, AL basements.
 
-Dispatch sectors sampled: ZIP 35401, 35476, 35406, 35475, 35403 (county grid: Tuscaloosa County).
+Material note: Water heater anode type may change with Tuscaloosa, AL hardness profiles.
+
+Basement floor drains in Tuscaloosa, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Hydrostatic holds in Tuscaloosa, AL slab circuits run overnight when listening mics show ambiguous hits.
+
+Polybutylene manifold tags in Tuscaloosa, AL basements should be photographed before any wall chase opens.
+
+Risk flag: In Tuscaloosa, AL, slab leaks can misroute as foundation issues without listening equipment.
+
+In Tuscaloosa, AL, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: When should sump battery backups be load-tested? In Tuscaloosa, AL, before spring thaw and hurricane remnants.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Tuscaloosa, AL.
+
+Drain map 617986: camera-pass priority and expansion-tank pre-charge noted for Tuscaloosa, AL postal sector 35475.
+
+Pressure trace 617986: meter-pit clearance and dielectric union checklist staged for Tuscaloosa, AL near elevation 253 ft.
+
+Scope trace: recirculation pump amp draw plus branch wet vent geometry referenced in Tuscaloosa County county grid review.
+
+ZIP-corridor snapshot for Tuscaloosa, AL: sampled sectors include 35401, 35406, 35476, 35405, 35403, 35407, 35475, 35486; county routing grid remains Tuscaloosa County.
 
 Service reference: AL-35475-fe16f47f

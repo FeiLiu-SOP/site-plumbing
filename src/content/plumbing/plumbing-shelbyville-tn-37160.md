@@ -12,27 +12,39 @@ lng: -86.4500
 zipSample: ["37160", "37162", "37161"]
 zipCodes: ["37161", "37160", "37162"]
 localPaths: ["Bedford County / ZIP 37162 sector", "Bedford County / elevation 778 ft band", "Bedford County / coords 35.5000, -86.4500", "Bedford County / ZIP 37161 sector", "Bedford County / primary ZIP 37160"]
-zillowHomeValueUsd: 312580
 ---
 
-**Engineering Notice for Shelbyville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Bedford County.
+**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bedford County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 37160.
+Dual-water-meter setups in Shelbyville, TN irrigation zones need backflow logs before line replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Irrigation cross-connections in Shelbyville, TN can back-siphon domestic lines during main breaks.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Shelbyville, TN, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Shelbyville, TN, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 37160/37162/37161 intake.
+Polybutylene manifold tags in Shelbyville, TN basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 37160/37162/37161.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 37160, 37162, 37161 (county grid: Bedford County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydro-jetting in Shelbyville, TN requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in Shelbyville, TN require pit dimensions verified against utility locate marks.
+
+FAQ: Is hydro-jetting always appropriate? In Shelbyville, TN, pipe material and blockage type dictate method.
+
+Pressure trace 241311: meter-pit clearance and dielectric union checklist staged for Shelbyville, TN near elevation 778 ft.
+
+Intake ledger 241311: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Shelbyville, TN at 35.5000, -86.4500.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Bedford County. Reference elevation: 778 ft. Primary coordinates: 35.5000, -86.4500. ZIP sample: 37160, 37162, 37161. Logistics priority: Serving residential sectors across Bedford County and north-east ZIP 37160 grid.
 
 Service reference: TN-37160-74472da3

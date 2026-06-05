@@ -12,28 +12,41 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / ZIP 97338 sector", "Polk County / elevation 322 ft band", "Polk County / coords 44.9200, -123.3100", "Polk County / primary ZIP 97338"]
-zillowHomeValueUsd: 473403
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Dallas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Recirculation pump failures in Dallas, OR can mimic fixture-specific clogs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97338.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Dallas, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-Our service coordination centers on Dallas, OR coverage windows and verified intake details.
+Dual-water-meter setups in Dallas, OR irrigation zones need backflow logs before line replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97338.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 97338 coverage.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 97338.
 
-Field note: Connection points spot-checked where accessible (ZIP 97338 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 97338 (county grid: Polk County).
+Permit note: Main water line replacement in Dallas, OR may require ROW restoration planning.
+
+Trenchless sleeve pulls near Dallas, OR require pit shoring notes when water tables are high.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Galvanized segments in Dallas, OR may restrict flow long before visible corrosion.
+
+Pressure trace 348099: meter-pit clearance and dielectric union checklist staged for Dallas, OR near elevation 322 ft.
+
+plumbing brief: cleanout riser height and toilet flange spacer kit were cross-checked for the Dallas intake packet.
+
+Primary postal anchor 97338 with multi-ZIP overlap in Dallas; field packets tag Polk County for county-grid reconciliation.
 
 Service reference: OR-97338-2fc03319

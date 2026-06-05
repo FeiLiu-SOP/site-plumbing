@@ -12,26 +12,41 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / coords 42.4700, -88.0700", "Lake County / ZIP 60002 sector", "Lake County / primary ZIP 60002", "Lake County / elevation 787 ft band"]
-zillowHomeValueUsd: 344702
 ---
 
-**Engineering Notice for Antioch:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Antioch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Tip: request a written scope before work starts.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Our service coordination centers on Antioch, IL coverage windows and verified intake details.
+Dual-water-meter setups in Antioch, IL irrigation zones need backflow logs before line replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Local conditions in Antioch, IL can affect timelines and material choices.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60002.
 
-Field note: Access points and staging constraints recorded for ZIP 60002 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 60002 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 60002 (county grid: Lake County).
+FAQ: Is hydro-jetting always appropriate? In Antioch, IL, pipe material and blockage type dictate method.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+CPVC solvent weld times shift with ambient humidity during Antioch, IL shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Antioch, IL systems need rebalancing.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Flow dossier 511785: branch wet-vent geometry and jetting nozzle envelope logged for Antioch, IL county grid Lake County (ZIP 60002).
+
+Scope trace: water heater T&P path plus shower cartridge seat score referenced in Lake County county grid review.
+
+ZIP-corridor snapshot for Antioch, IL: sampled sectors include 60002; county routing grid remains Lake County.
 
 Service reference: IL-60002-c55bfaf2

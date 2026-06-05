@@ -12,24 +12,39 @@ lng: -118.6300
 zipSample: ["91310", "91384"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / ZIP 91384 sector", "Los Angeles County / ZIP 91310 sector", "Los Angeles County / elevation 1699 ft band", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / primary ZIP 91384"]
-zillowHomeValueUsd: 805406
 ---
 
-**Engineering Notice for Castaic:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Castaic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Castaic, CA, but intake notes help reduce delays.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Moisture pathway inspection logged near ZIP 91384/91310 intake.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 91384.
 
-Dispatch sectors sampled: ZIP 91384, 91310 (county grid: Los Angeles County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Dual-water-meter setups in Castaic, CA irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 91384.
+
+Sewer gas odors in Castaic, CA should trigger trap seal and vent path review.
+
+Risk flag: Seasonal Castaic, CA irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Flow dossier 138629: branch wet-vent geometry and jetting nozzle envelope logged for Castaic, CA county grid Los Angeles County (ZIP 91384).
+
+On-site sector marker: Los Angeles County / ZIP 91384 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91384-a6d4cbf1

@@ -12,26 +12,39 @@ lng: -91.3900
 zipSample: ["63401"]
 zipCodes: ["63401"]
 localPaths: ["Marion County / coords 39.7100, -91.3900", "Marion County / elevation 650 ft band", "Marion County / primary ZIP 63401", "Marion County / ZIP 63401 sector"]
-zillowHomeValueUsd: 173693
 ---
 
-**Engineering Notice for Hannibal:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Hannibal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: avoid large upfront payments without milestones.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Hannibal, MO shoulder seasons.
 
-Field note: Connection points spot-checked where accessible (ZIP 63401 zone).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 63401.
 
-Field note: Moisture pathway inspection logged near ZIP 63401 intake.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 63401.
 
-Dispatch sectors sampled: ZIP 63401 (county grid: Marion County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Fixture shutoff stiffness in Hannibal, MO may indicate mineral bridging behind stems.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+In Hannibal, MO, slab leaks often present as warm spots before wall stains appear.
+
+Dual-water-meter setups in Hannibal, MO irrigation zones need backflow logs before line replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Flow dossier 512592: branch wet-vent geometry and jetting nozzle envelope logged for Hannibal, MO county grid Marion County (ZIP 63401).
+
+On-site sector marker: Marion County / primary ZIP 63401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63401-6994c9af

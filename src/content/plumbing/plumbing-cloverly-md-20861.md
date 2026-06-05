@@ -12,27 +12,41 @@ lng: -77.0000
 zipSample: ["20861", "20905"]
 zipCodes: ["20861", "20905"]
 localPaths: ["Montgomery County / ZIP 20861 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / primary ZIP 20861", "Montgomery County / elevation 522 ft band", "Montgomery County / coords 39.1100, -77.0000"]
-zillowHomeValueUsd: 981380
 ---
 
-**Engineering Notice for Cloverly:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Cloverly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20861.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: avoid large upfront payments without milestones.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cloverly, MD, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 20861/20905 zone).
+Galvanized segments in Cloverly, MD may restrict flow long before visible corrosion.
 
-Field note: Moisture pathway inspection logged near ZIP 20861/20905 intake.
+FAQ: When is cabling enough? In Cloverly, MD, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 20861, 20905 (county grid: Montgomery County).
+Dual-water-meter setups in Cloverly, MD irrigation zones need backflow logs before line replacement.
+
+Recirculation pump failures in Cloverly, MD can mimic fixture-specific clogs.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hydrostatic holds in Cloverly, MD slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Intake ledger 167578: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Cloverly, MD at 39.1100, -77.0000.
+
+Field routing: toilet flange spacer kit paired with PEX expansion ring batch near ZIP 20861.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Cloverly, MD before niche-specific work begins.
 
 Service reference: MD-20861-ea50d9d6

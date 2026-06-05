@@ -12,24 +12,43 @@ lng: -80.3900
 zipSample: ["27103", "27012"]
 zipCodes: ["27103", "27012"]
 localPaths: ["Forsyth County / primary ZIP 27012", "Forsyth County / ZIP 27012 sector", "Forsyth County / ZIP 27103 sector", "Forsyth County / coords 36.0300, -80.3900", "Forsyth County / elevation 814 ft band"]
-zillowHomeValueUsd: 388271
 ---
 
-**Engineering Notice for Clemmons:** Structural loading calculated based on 814 ft terrain assessment. Regional dispatch grid: Forsyth County.
+**Engineering Notice for Clemmons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forsyth County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Clemmons, NC should be reviewed before spring thaw cycles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless pulls in Clemmons, NC require pit dimensions verified against utility locate marks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Clemmons, NC, slab leaks often present as warm spots before wall stains appear.
 
-We coordinate local dispatch coverage around Clemmons, NC and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 27012/27103 coverage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 27012, 27103 (county grid: Forsyth County).
+Risk flag: In Clemmons, NC, slab leaks can misroute as foundation issues without listening equipment.
+
+CPVC solvent weld times shift with ambient humidity during Clemmons, NC shoulder seasons.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Basement floor drains in Clemmons, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Fixture roster 107064: toilet flange spacer kit and shower cartridge seat score queued for Clemmons, NC walk-through.
+
+Drain map 107064: camera-pass priority and expansion-tank pre-charge noted for Clemmons, NC postal sector 27012.
+
+ZIP-corridor snapshot for Clemmons, NC: sampled sectors include 27012, 27103; county routing grid remains Forsyth County.
 
 Service reference: NC-27012-b7edcf2f

@@ -12,26 +12,39 @@ lng: -81.8500
 zipSample: ["44116"]
 zipCodes: ["44116"]
 localPaths: ["Cuyahoga County / ZIP 44116 sector", "Cuyahoga County / coords 41.4700, -81.8500", "Cuyahoga County / elevation 699 ft band", "Cuyahoga County / primary ZIP 44116"]
-zillowHomeValueUsd: 393340
 ---
 
-**Engineering Notice for Rocky River:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Rocky River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dispatch packets reference county grid Cuyahoga County near ZIP 44116.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Rocky River, OH older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rocky River, OH, but intake notes help reduce delays.
+Frost-free sillcock failures in Rocky River, OH often trace to interior shutoff seats, not exterior stems.
 
-In Rocky River, OH, seasonal demand can change scheduling windows.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: compare at least two estimates for scope and timeline.
+CPVC solvent weld times shift with ambient humidity during Rocky River, OH shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 44116 coverage.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 44116.
+Cast-iron hub corrosion in Rocky River, OH often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 44116 (county grid: Cuyahoga County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Sump discharge freeze risk in Rocky River, OH should be reviewed before spring thaw cycles.
+
+Irrigation cross-connections in Rocky River, OH can back-siphon domestic lines during main breaks.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Supply audit 701680: curb-stop orientation and hose-bib freeze flag reviewed for Rocky River, OH at coords 41.4700/-81.8500.
+
+Fixture roster 701680: toilet flange spacer kit and shower cartridge seat score queued for Rocky River, OH walk-through.
+
+On-site sector marker: Cuyahoga County / ZIP 44116 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44116-d25478a5

@@ -12,24 +12,41 @@ lng: -122.3400
 zipSample: ["94530", "94802", "94807", "94806", "94804"]
 zipCodes: ["94802", "94804", "94801", "94806", "94803", "94530", "94805", "94807", "94850", "94808"]
 localPaths: ["Contra Costa County / ZIP 94802 sector", "Contra Costa County / primary ZIP 94530", "Contra Costa County / elevation 75 ft band", "Contra Costa County / ZIP 94804 sector", "Contra Costa County / ZIP 94530 sector"]
-zillowHomeValueUsd: 1139665
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Richmond, CA and nearby ZIP sectors.
+Step: map sump float travel and check-valve orientation for Richmond, CA basements.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dual-water-meter setups in Richmond, CA irrigation zones need backflow logs before line replacement.
 
-Structured milestones protect both sides when scheduling work.
+We coordinate Richmond, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Main water line replacement in Richmond, CA may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 94805/94808/94803 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 94805, 94808, 94803, 94807, 94802 (county grid: Contra Costa County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Water heater T&P discharge paths in Richmond, CA must terminate safely before replacement quotes.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Stack vent offsets in Richmond, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 94530.
+
+Flow dossier 726249: branch wet-vent geometry and jetting nozzle envelope logged for Richmond, CA county grid Contra Costa County (ZIP 94530).
+
+On-site sector marker: Contra Costa County / ZIP 94805 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94530-fb632b7c

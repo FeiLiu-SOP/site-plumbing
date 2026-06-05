@@ -12,26 +12,41 @@ lng: -105.0000
 zipSample: ["80263", "80221"]
 zipCodes: ["80263", "80221"]
 localPaths: ["Adams County / elevation 5302 ft band", "Adams County / ZIP 80221 sector", "Adams County / ZIP 80263 sector", "Adams County / primary ZIP 80221", "Adams County / coords 39.8400, -105.0000"]
-zillowHomeValueUsd: 456445
 ---
 
-**Engineering Notice for Sherrelwood:** Structural loading calculated based on 5302 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Sherrelwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.
 
 
-In Sherrelwood, CO, seasonal demand can change scheduling windows.
+Polybutylene manifold tags in Sherrelwood, CO basements should be photographed before any wall chase opens.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-We coordinate local dispatch coverage around Sherrelwood, CO and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 80221.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map sump float travel and check-valve orientation for Sherrelwood, CO basements.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sherrelwood, CO, but intake notes help reduce delays.
+Material note: Water heater anode type may change with Sherrelwood, CO hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80221/80263.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Wind exposure category reviewed for ZIP sector 80221/80263.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 80221, 80263 (county grid: Adams County).
+Hose bib split patterns in Sherrelwood, CO often follow missed winterization.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Stack vent offsets in Sherrelwood, CO older duplexes can mask tub gurgle as a main-line failure.
+
+CPVC solvent weld times shift with ambient humidity during Sherrelwood, CO shoulder seasons.
+
+Branch wet vents in Sherrelwood, CO can mask gurgling as a main-line issue.
+
+Supply audit 971849: curb-stop orientation and hose-bib freeze flag reviewed for Sherrelwood, CO at coords 39.8400/-105.0000.
+
+Primary postal anchor 80221 with multi-ZIP overlap in Sherrelwood; field packets tag Adams County for county-grid reconciliation.
 
 Service reference: CO-80221-736e68b9

@@ -12,24 +12,43 @@ lng: -105.2500
 zipSample: ["80305", "80304", "80302", "80301", "80309"]
 zipCodes: ["80309", "80307", "80301", "80303", "80302", "80310", "80304", "80314", "80305"]
 localPaths: ["Boulder County / ZIP 80309 sector", "Boulder County / ZIP 80301 sector", "Boulder County / ZIP 80302 sector", "Boulder County / ZIP 80305 sector", "Boulder County / elevation 5292 ft band"]
-zillowHomeValueUsd: 1119418
 ---
 
-**Engineering Notice for Boulder:** Structural loading calculated based on 5292 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Boulder:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boulder County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Boulder, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-We coordinate local dispatch coverage around Boulder, CO and nearby ZIP sectors.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 80310.
 
-Tip: address recurring issues early to prevent bigger damage.
+Expansion tank pre-charge loss in Boulder, CO often tracks heater replacement deferrals.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+We coordinate Boulder, CO plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 80314/80309/80305.
+Cast-iron hub corrosion in Boulder, CO often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 80314, 80309, 80305, 80303, 80301 (county grid: Boulder County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+In Boulder, CO, slab leaks often present as warm spots before wall stains appear.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hard water in Boulder, CO accelerates scale on PRV seats and heater elements.
+
+Intake ledger 535203: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Boulder, CO at 40.0200, -105.2500.
+
+Drain map 535203: camera-pass priority and expansion-tank pre-charge noted for Boulder, CO postal sector 80310.
+
+On-site sector marker: Boulder County / ZIP 80301 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80310-8c1e249e

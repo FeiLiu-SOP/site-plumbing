@@ -12,24 +12,41 @@ lng: -94.9700
 zipSample: ["77522", "77523", "77521", "77520"]
 zipCodes: ["77522", "77521", "77520", "77523"]
 localPaths: ["Harris County / coords 29.7600, -94.9700", "Harris County / ZIP 77522 sector", "Harris County / elevation 26 ft band", "Harris County / ZIP 77520 sector", "Harris County / ZIP 77523 sector"]
-zillowHomeValueUsd: 172933
 ---
 
-**Engineering Notice for Baytown:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Baytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Baytown, TX require pit shoring notes when water tables are high.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Basement floor drains in Baytown, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Baytown, TX coverage windows and verified intake details.
+FAQ: When is cabling enough? In Baytown, TX, pipe material and blockage type dictate method.
 
-Tip: compare at least two estimates for scope and timeline.
+Dual-water-meter setups in Baytown, TX irrigation zones need backflow logs before line replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Baytown, TX, but intake notes help reduce delays.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Connection points spot-checked where accessible (ZIP 77522/77523/77521 zone).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Baytown, TX systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 77522, 77523, 77521, 77520 (county grid: Harris County).
+Expansion tank pre-charge loss in Baytown, TX often tracks heater replacement deferrals.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Frost-free sillcock failures in Baytown, TX often trace to interior shutoff seats, not exterior stems.
+
+Irrigation cross-connections in Baytown, TX can back-siphon domestic lines during main breaks.
+
+In Baytown, TX, slab leaks often present as warm spots before wall stains appear.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 160781: meter-pit clearance and dielectric union checklist staged for Baytown, TX near elevation 26 ft.
+
+plumbing brief: water heater T&P path and toilet flange spacer kit were cross-checked for the Baytown intake packet.
+
+On-site sector marker: Harris County / primary ZIP 77520 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77520-880caa52

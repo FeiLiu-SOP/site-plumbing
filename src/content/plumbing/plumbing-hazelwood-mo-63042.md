@@ -12,26 +12,41 @@ lng: -90.3900
 zipSample: ["63031", "63044", "63042"]
 zipCodes: ["63031", "63044", "63042"]
 localPaths: ["St. Louis County / ZIP 63031 sector", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63044 sector", "St. Louis County / elevation 479 ft band", "St. Louis County / ZIP 63042 sector"]
-zillowHomeValueUsd: 164335
 ---
 
-**Engineering Notice for Hazelwood:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hazelwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-Local conditions in Hazelwood, MO can affect timelines and material choices.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hazelwood, MO.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Our service coordination centers on Hazelwood, MO coverage windows and verified intake details.
+Polybutylene manifold tags in Hazelwood, MO basements should be photographed before any wall chase opens.
 
-Tip: request a written scope before work starts.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 63044/63042/63031 coverage.
+Hydro-jetting in Hazelwood, MO requires camera confirmation before nozzle pressure is raised.
 
-Field note: Connection points spot-checked where accessible (ZIP 63044/63042/63031 zone).
+Basement floor drains in Hazelwood, MO should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 63044, 63042, 63031 (county grid: St. Louis County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Galvanized segments in Hazelwood, MO may restrict flow long before visible corrosion.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hazelwood, MO systems need rebalancing.
+
+Flow dossier 698611: branch wet-vent geometry and jetting nozzle envelope logged for Hazelwood, MO county grid St. Louis County (ZIP 63042).
+
+Field routing: slab leak listening window paired with toilet flange spacer kit near ZIP 63042.
+
+On-site sector marker: St. Louis County / coords 38.7900, -90.3900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63042-5b72ad45

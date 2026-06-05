@@ -12,27 +12,37 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21010", "21040"]
 localPaths: ["Harford County / coords 39.4200, -76.3000", "Harford County / ZIP 21040 sector", "Harford County / primary ZIP 21010", "Harford County / elevation 82 ft band", "Harford County / ZIP 21010 sector"]
-zillowHomeValueUsd: 264034
 ---
 
-**Engineering Notice for Edgewood:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Edgewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Edgewood, MD, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+CPVC solvent weld times shift with ambient humidity during Edgewood, MD shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: avoid large upfront payments without milestones.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 21010.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 21010.
+Hydro-jetting in Edgewood, MD requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21010/21040.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 21010/21040.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 21010, 21040 (county grid: Harford County).
+Polybutylene manifold tags in Edgewood, MD basements should be photographed before any wall chase opens.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Drain map 315468: camera-pass priority and expansion-tank pre-charge noted for Edgewood, MD postal sector 21010.
+
+Coordinate-anchored dispatch note: center reference 39.4200, -76.3000 at elevation ~82 ft aligns with Harford County intake staging.
 
 Service reference: MD-21010-63c1cb1d

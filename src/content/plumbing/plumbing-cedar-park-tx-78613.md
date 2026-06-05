@@ -12,24 +12,43 @@ lng: -97.8200
 zipSample: ["78630", "78613"]
 zipCodes: ["78613", "78630"]
 localPaths: ["Williamson County / coords 30.5100, -97.8200", "Williamson County / ZIP 78630 sector", "Williamson County / primary ZIP 78613", "Williamson County / ZIP 78613 sector", "Williamson County / elevation 951 ft band"]
-zillowHomeValueUsd: 466167
 ---
 
-**Engineering Notice for Cedar Park:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Cedar Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Cedar Park, TX hardness profiles.
 
-Our service coordination centers on Cedar Park, TX coverage windows and verified intake details.
+Hard water in Cedar Park, TX accelerates scale on PRV seats and heater elements.
 
-Tip: compare at least two estimates for scope and timeline.
+Sump discharge freeze risk in Cedar Park, TX should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Cedar Park, TX before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 78630/78613.
+Recirculation pump failures in Cedar Park, TX can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 78630, 78613 (county grid: Williamson County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When should sump battery backups be load-tested? In Cedar Park, TX, before spring thaw and hurricane remnants.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Water heater T&P discharge paths in Cedar Park, TX must terminate safely before replacement quotes.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Polybutylene manifold tags in Cedar Park, TX basements should be photographed before any wall chase opens.
+
+Fixture shutoff stiffness in Cedar Park, TX may indicate mineral bridging behind stems.
+
+Pressure trace 619031: meter-pit clearance and dielectric union checklist staged for Cedar Park, TX near elevation 951 ft.
+
+Drain map 619031: camera-pass priority and expansion-tank pre-charge noted for Cedar Park, TX postal sector 78613.
+
+On-site sector marker: Williamson County / ZIP 78630 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78613-e8beafd3

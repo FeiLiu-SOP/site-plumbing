@@ -12,26 +12,39 @@ lng: -81.3400
 zipSample: ["32746", "32795"]
 zipCodes: ["32746", "32795"]
 localPaths: ["Seminole County / coords 28.7600, -81.3400", "Seminole County / elevation 89 ft band", "Seminole County / ZIP 32746 sector", "Seminole County / ZIP 32795 sector", "Seminole County / primary ZIP 32746"]
-zillowHomeValueUsd: 467367
 ---
 
-**Engineering Notice for Lake Mary:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Seminole County.
+**Engineering Notice for Lake Mary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cleanout access limits in Lake Mary, FL frequently extend drain cleaning duration.
 
-We coordinate local dispatch coverage around Lake Mary, FL and nearby ZIP sectors.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: avoid large upfront payments without milestones.
+Step: map sump float travel and check-valve orientation for Lake Mary, FL basements.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Lake Mary, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Field note: Access points and staging constraints recorded for ZIP 32746/32795 coverage.
+FAQ: When should sump battery backups be load-tested? In Lake Mary, FL, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 32746/32795 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 32746, 32795 (county grid: Seminole County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lake Mary, FL systems need rebalancing.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Stack vent offsets in Lake Mary, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless sleeve pulls near Lake Mary, FL require pit shoring notes when water tables are high.
+
+In Lake Mary, FL, slab leaks often present as warm spots before wall stains appear.
+
+Drain map 733100: camera-pass priority and expansion-tank pre-charge noted for Lake Mary, FL postal sector 32746.
+
+Flow dossier 733100: branch wet-vent geometry and jetting nozzle envelope logged for Lake Mary, FL county grid Seminole County (ZIP 32746).
+
+Coordinate-anchored dispatch note: center reference 28.7600, -81.3400 at elevation ~89 ft aligns with Seminole County intake staging.
 
 Service reference: FL-32746-0384f99f

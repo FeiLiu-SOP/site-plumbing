@@ -12,24 +12,37 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76097", "76028"]
 localPaths: ["Johnson County / coords 32.5200, -97.3300", "Johnson County / ZIP 76097 sector", "Johnson County / primary ZIP 76028", "Johnson County / ZIP 76028 sector", "Johnson County / elevation 748 ft band"]
-zillowHomeValueUsd: 339894
 ---
 
-**Engineering Notice for Burleson:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Burleson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Burleson, TX, but intake notes help reduce delays.
+Risk flag: In Burleson, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When is cabling enough? In Burleson, TX, pipe material and blockage type dictate method.
 
-Tip: avoid large upfront payments without milestones.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cast-iron hub corrosion in Burleson, TX often concentrates at the third joint upstream of the cleanout.
 
-Transparent pricing helps you compare like-for-like scope items.
+Cleanout access limits in Burleson, TX frequently extend drain cleaning duration.
 
-Field note: Moisture pathway inspection logged near ZIP 76097/76028 intake.
+FAQ: When should sump battery backups be load-tested? In Burleson, TX, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 76097, 76028 (county grid: Johnson County).
+Recirculation pump failures in Burleson, TX can mimic fixture-specific clogs.
+
+Risk flag: Seasonal Burleson, TX irrigation cross-connections can mask domestic pressure loss.
+
+Trenchless pulls in Burleson, TX require pit dimensions verified against utility locate marks.
+
+Fixture shutoff stiffness in Burleson, TX may indicate mineral bridging behind stems.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Burleson, TX.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Drain map 786039: camera-pass priority and expansion-tank pre-charge noted for Burleson, TX postal sector 76028.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Johnson County. Reference elevation: 748 ft. Primary coordinates: 32.5200, -97.3300. ZIP sample: 76097, 76028. Logistics priority: Serving residential sectors across Johnson County and north-east ZIP 76028 grid.
 
 Service reference: TX-76028-15dbae06

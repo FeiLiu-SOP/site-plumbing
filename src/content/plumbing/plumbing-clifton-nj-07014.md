@@ -12,27 +12,39 @@ lng: -74.1600
 zipSample: ["07013", "07012", "07011", "07015", "07014"]
 zipCodes: ["07012", "07014", "07015", "07013", "07011"]
 localPaths: ["Passaic County / ZIP 07013 sector", "Passaic County / ZIP 07012 sector", "Passaic County / ZIP 07011 sector", "Passaic County / ZIP 07014 sector", "Passaic County / ZIP 07015 sector"]
-zillowHomeValueUsd: 577222
 ---
 
-**Engineering Notice for Clifton:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Passaic County.
+**Engineering Notice for Clifton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07014.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate local dispatch coverage around Clifton, NJ and nearby ZIP sectors.
+In Clifton, NJ, slab leaks often present as warm spots before wall stains appear.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clifton, NJ, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Clifton, NJ shoulder seasons.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07013/07012/07015.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 07013/07012/07015 coverage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 07013, 07012, 07015, 07014, 07011 (county grid: Passaic County).
+Hydrostatic holds in Clifton, NJ slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Water heater T&P discharge paths in Clifton, NJ must terminate safely before replacement quotes.
+
+Irrigation cross-connections in Clifton, NJ can back-siphon domestic lines during main breaks.
+
+FAQ: Is hydro-jetting always appropriate? In Clifton, NJ, pipe material and blockage type dictate method.
+
+Lineage note 106790: recirculation pump amp draw captured before Clifton, NJ branch isolation.
+
+Scope trace: water heater T&P path plus meter pit clearance referenced in Passaic County county grid review.
+
+On-site sector marker: Passaic County / ZIP 07015 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07014-f16a92ab

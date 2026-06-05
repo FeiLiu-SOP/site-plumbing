@@ -12,24 +12,41 @@ lng: -122.1200
 zipSample: ["94549"]
 zipCodes: ["94549"]
 localPaths: ["Contra Costa County / ZIP 94549 sector", "Contra Costa County / elevation 289 ft band", "Contra Costa County / coords 37.8900, -122.1200", "Contra Costa County / primary ZIP 94549"]
-zillowHomeValueUsd: 1940591
 ---
 
-**Engineering Notice for Lafayette:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in Lafayette, CA require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on Lafayette, CA coverage windows and verified intake details.
+Dual-water-meter setups in Lafayette, CA irrigation zones need backflow logs before line replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Lafayette, CA should be reviewed before spring thaw cycles.
 
-Tip: avoid large upfront payments without milestones.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lafayette, CA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94549.
+Fixture shutoff stiffness in Lafayette, CA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 94549 (county grid: Contra Costa County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: map sump float travel and check-valve orientation for Lafayette, CA basements.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: In Lafayette, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 94549.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Frost-free sillcock failures in Lafayette, CA often trace to interior shutoff seats, not exterior stems.
+
+Drain map 696653: camera-pass priority and expansion-tank pre-charge noted for Lafayette, CA postal sector 94549.
+
+Flow dossier 696653: branch wet-vent geometry and jetting nozzle envelope logged for Lafayette, CA county grid Contra Costa County (ZIP 94549).
+
+**Regional Infrastructure Brief:** Coverage anchor set to Contra Costa County. Reference elevation: 289 ft. Primary coordinates: 37.8900, -122.1200. ZIP sample: 94549. Logistics priority: Serving residential sectors across Contra Costa County and north-east ZIP 94549 grid.
 
 Service reference: CA-94549-f7d96240

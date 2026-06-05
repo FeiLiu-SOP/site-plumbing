@@ -12,24 +12,39 @@ lng: -84.4800
 zipSample: ["30114", "30115", "30142"]
 zipCodes: ["30114", "30115", "30142"]
 localPaths: ["Cherokee County / ZIP 30115 sector", "Cherokee County / coords 34.1700, -84.4800", "Cherokee County / ZIP 30114 sector", "Cherokee County / elevation 1070 ft band", "Cherokee County / primary ZIP 30114"]
-zillowHomeValueUsd: 470364
 ---
 
-**Engineering Notice for Holly Springs:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Holly Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Recirculation pump failures in Holly Springs, GA can mimic fixture-specific clogs.
 
-In Holly Springs, GA, seasonal demand can change scheduling windows.
+Stack vent offsets in Holly Springs, GA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Holly Springs, GA shoulder seasons.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 30142/30114/30115 zone).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 30142, 30114, 30115 (county grid: Cherokee County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Is hydro-jetting always appropriate? In Holly Springs, GA, pipe material and blockage type dictate method.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Trenchless pulls in Holly Springs, GA require pit dimensions verified against utility locate marks.
+
+Permit note: Main water line replacement in Holly Springs, GA may require ROW restoration planning.
+
+Flow dossier 693393: branch wet-vent geometry and jetting nozzle envelope logged for Holly Springs, GA county grid Cherokee County (ZIP 30114).
+
+plumbing brief: backflow test cock orientation and jetter nozzle envelope were cross-checked for the Holly Springs intake packet.
+
+On-site sector marker: Cherokee County / ZIP 30114 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30114-7681402b

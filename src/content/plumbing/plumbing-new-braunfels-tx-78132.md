@@ -12,24 +12,39 @@ lng: -98.1100
 zipSample: ["78132", "78131", "78135", "78130"]
 zipCodes: ["78132", "78131", "78135", "78130"]
 localPaths: ["Comal County / coords 29.7000, -98.1100", "Comal County / ZIP 78131 sector", "Comal County / ZIP 78130 sector", "Comal County / ZIP 78132 sector", "Comal County / primary ZIP 78132"]
-zillowHomeValueUsd: 561005
 ---
 
-**Engineering Notice for New Braunfels:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Comal County.
+**Engineering Notice for New Braunfels:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Comal County.
 
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during New Braunfels, TX shoulder seasons.
 
-We coordinate local dispatch coverage around New Braunfels, TX and nearby ZIP sectors.
+Sump discharge freeze risk in New Braunfels, TX should be reviewed before spring thaw cycles.
 
-In New Braunfels, TX, seasonal demand can change scheduling windows.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Braunfels, TX, but intake notes help reduce delays.
+Recirculation pump failures in New Braunfels, TX can mimic fixture-specific clogs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near New Braunfels, TX require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 78131/78135/78130 coverage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 78131, 78135, 78130, 78132 (county grid: Comal County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in New Braunfels, TX.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Irrigation cross-connections in New Braunfels, TX can back-siphon domestic lines during main breaks.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Fixture roster 246127: toilet flange spacer kit and shower cartridge seat score queued for New Braunfels, TX walk-through.
+
+plumbing brief: hose bib freeze flag and water softener bypass lever were cross-checked for the New Braunfels intake packet.
+
+Primary postal anchor 78132 with multi-ZIP overlap in New Braunfels; field packets tag Comal County for county-grid reconciliation.
 
 Service reference: TX-78132-0d849c76

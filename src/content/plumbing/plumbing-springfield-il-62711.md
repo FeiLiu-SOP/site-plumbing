@@ -12,26 +12,39 @@ lng: -89.6500
 zipSample: ["62726", "62776", "62756", "62757", "62781"]
 zipCodes: ["62707", "62769", "62777", "62786", "62763", "62776", "62712", "62736", "62722", "62781", "62705", "62629"]
 localPaths: ["Sangamon County / primary ZIP 62711", "Sangamon County / ZIP 62756 sector", "Sangamon County / ZIP 62781 sector", "Sangamon County / ZIP 62757 sector", "Sangamon County / ZIP 62726 sector"]
-zillowHomeValueUsd: 357433
 ---
 
-**Engineering Notice for Springfield:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Sangamon County.
+**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sangamon County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Main water line replacement in Springfield, IL may require ROW restoration planning.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Springfield, IL shoulder seasons.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Springfield, IL, but intake notes help reduce delays.
+Hydrostatic holds in Springfield, IL slab circuits run overnight when listening mics show ambiguous hits.
 
-Homeowners in Springfield, IL often face sudden plumbing problems that require fast action.
+Cast-iron hub corrosion in Springfield, IL often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62757/62703/62767.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 62757/62703/62767.
+In Springfield, IL, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 62757, 62703, 62767, 62726, 62704 (county grid: Sangamon County).
+Polybutylene manifold tags in Springfield, IL basements should be photographed before any wall chase opens.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Frost-free sillcock failures in Springfield, IL often trace to interior shutoff seats, not exterior stems.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Supply audit 410562: curb-stop orientation and hose-bib freeze flag reviewed for Springfield, IL at coords 39.7700/-89.6500.
+
+Flow dossier 410562: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, IL county grid Sangamon County (ZIP 62711).
+
+ZIP-corridor snapshot for Springfield, IL: sampled sectors include 62716, 62766, 62711, 62719, 62757, 62776, 62767, 62763; county routing grid remains Sangamon County.
 
 Service reference: IL-62711-7ae684bd

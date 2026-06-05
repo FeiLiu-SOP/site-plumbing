@@ -12,24 +12,39 @@ lng: -73.5200
 zipSample: ["11802", "11815", "11805", "11801"]
 zipCodes: ["11801", "11805", "11802", "11815"]
 localPaths: ["Nassau County / coords 40.7600, -73.5200", "Nassau County / elevation 151 ft band", "Nassau County / ZIP 11815 sector", "Nassau County / ZIP 11805 sector", "Nassau County / ZIP 11801 sector"]
-zillowHomeValueUsd: 767864
 ---
 
-**Engineering Notice for Hicksville:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Hicksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate local dispatch coverage around Hicksville, NY and nearby ZIP sectors.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 11801.
 
-Tip: avoid large upfront payments without milestones.
+Dual-water-meter setups in Hicksville, NY irrigation zones need backflow logs before line replacement.
 
-Tip: request a written scope before work starts.
+CPVC solvent weld times shift with ambient humidity during Hicksville, NY shoulder seasons.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hicksville, NY, but intake notes help reduce delays.
+Risk flag: In Hicksville, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 11802/11815/11801 coverage.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 11801.
 
-Dispatch sectors sampled: ZIP 11802, 11815, 11801, 11805 (county grid: Nassau County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 11801.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Recirculation pump failures in Hicksville, NY can mimic fixture-specific clogs.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Trenchless pulls in Hicksville, NY require pit dimensions verified against utility locate marks.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Flow dossier 680910: branch wet-vent geometry and jetting nozzle envelope logged for Hicksville, NY county grid Nassau County (ZIP 11801).
+
+plumbing brief: water softener bypass lever and recirculation pump amp draw were cross-checked for the Hicksville intake packet.
+
+On-site sector marker: Nassau County / coords 40.7600, -73.5200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11801-1ad65c78

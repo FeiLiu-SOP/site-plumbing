@@ -12,26 +12,41 @@ lng: -92.0300
 zipSample: ["72023"]
 zipCodes: ["72023"]
 localPaths: ["Lonoke County / ZIP 72023 sector", "Lonoke County / primary ZIP 72023", "Lonoke County / elevation 305 ft band", "Lonoke County / coords 34.9800, -92.0300"]
-zillowHomeValueUsd: 251911
 ---
 
-**Engineering Notice for Cabot:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Lonoke County.
+**Engineering Notice for Cabot:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lonoke County.
 
 
-Our service coordination centers on Cabot, AR coverage windows and verified intake details.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is hydro-jetting always appropriate? In Cabot, AR, pipe material and blockage type dictate method.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hose bib split patterns in Cabot, AR often follow missed winterization.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cabot, AR, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 72023 coverage.
+Trenchless sleeve pulls near Cabot, AR require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 72023.
+Sump discharge freeze risk in Cabot, AR should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 72023 (county grid: Lonoke County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Trenchless pulls in Cabot, AR require pit dimensions verified against utility locate marks.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 476179: recirculation pump amp draw captured before Cabot, AR branch isolation.
+
+Intake ledger 476179: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Cabot, AR at 34.9800, -92.0300.
+
+plumbing brief: slab leak listening window and PRV outlet curve were cross-checked for the Cabot intake packet.
+
+Coordinate-anchored dispatch note: center reference 34.9800, -92.0300 at elevation ~305 ft aligns with Lonoke County intake staging.
 
 Service reference: AR-72023-a138209d

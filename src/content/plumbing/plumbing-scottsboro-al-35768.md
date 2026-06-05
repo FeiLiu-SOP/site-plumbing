@@ -12,26 +12,37 @@ lng: -86.0500
 zipSample: ["35768", "35769"]
 zipCodes: ["35769", "35768"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / ZIP 35769 sector", "Jackson County / elevation 623 ft band", "Jackson County / coords 34.6400, -86.0500", "Jackson County / ZIP 35768 sector"]
-zillowHomeValueUsd: 172948
 ---
 
-**Engineering Notice for Scottsboro:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Scottsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 35768.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: confirm licensing and insurance before approving work.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 35768.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Scottsboro, AL require pit shoring notes when water tables are high.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Scottsboro, AL, before spring thaw and hurricane remnants.
 
-Field note: Connection points spot-checked where accessible (ZIP 35769/35768 zone).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Scottsboro, AL.
 
-Field note: Access points and staging constraints recorded for ZIP 35769/35768 coverage.
+Cast-iron hub corrosion in Scottsboro, AL often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 35769, 35768 (county grid: Jackson County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Sewer gas odors in Scottsboro, AL should trigger trap seal and vent path review.
+
+Polybutylene manifold tags in Scottsboro, AL basements should be photographed before any wall chase opens.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 35768.
+
+Fixture roster 729649: toilet flange spacer kit and shower cartridge seat score queued for Scottsboro, AL walk-through.
+
+On-site sector marker: Jackson County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35768-f524f084

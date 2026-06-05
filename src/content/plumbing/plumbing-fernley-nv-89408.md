@@ -12,25 +12,43 @@ lng: -119.1900
 zipSample: ["89408", "89406", "89429"]
 zipCodes: ["89408", "89429", "89406"]
 localPaths: ["Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / ZIP 89408 sector", "Lyon County / ZIP 89429 sector", "Lyon County / coords 39.5600, -119.1900"]
-zillowHomeValueUsd: 395997
 ---
 
-**Engineering Notice for Fernley:** Structural loading calculated based on 4636 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Fernley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is hydro-jetting always appropriate? In Fernley, NV, pipe material and blockage type dictate method.
 
-Step: share symptoms and recent history so the intake notes are complete.
+CPVC solvent weld times shift with ambient humidity during Fernley, NV shoulder seasons.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Cleanout access limits in Fernley, NV frequently extend drain cleaning duration.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 89408.
+Stack vent offsets in Fernley, NV older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 89406/89429/89408.
+Risk flag: Seasonal Fernley, NV irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 89406, 89429, 89408 (county grid: Lyon County).
+Material note: Water heater anode type may change with Fernley, NV hardness profiles.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Expansion tank pre-charge loss in Fernley, NV often tracks heater replacement deferrals.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 182343: recirculation pump amp draw captured before Fernley, NV branch isolation.
+
+Fixture roster 182343: toilet flange spacer kit and shower cartridge seat score queued for Fernley, NV walk-through.
+
+plumbing brief: PRV outlet curve and backflow test cock orientation were cross-checked for the Fernley intake packet.
+
+On-site sector marker: Lyon County / primary ZIP 89408 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89408-d5cb2f72

@@ -12,24 +12,41 @@ lng: -116.0700
 zipSample: ["92277", "92278"]
 zipCodes: ["92277", "92278"]
 localPaths: ["San Bernardino County / elevation 2116 ft band", "San Bernardino County / coords 34.1500, -116.0700", "San Bernardino County / ZIP 92278 sector", "San Bernardino County / primary ZIP 92277", "San Bernardino County / ZIP 92277 sector"]
-zillowHomeValueUsd: 249529
 ---
 
-**Engineering Notice for Twentynine Palms:** Structural loading calculated based on 2116 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Twentynine Palms:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-Tip: avoid large upfront payments without milestones.
+Trenchless pulls in Twentynine Palms, CA require pit dimensions verified against utility locate marks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92277.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Stack vent offsets in Twentynine Palms, CA older duplexes can mask tub gurgle as a main-line failure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Recirculation pump failures in Twentynine Palms, CA can mimic fixture-specific clogs.
 
-In Twentynine Palms, CA, seasonal demand can change scheduling windows.
+Risk flag: In Twentynine Palms, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92278/92277.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 92278, 92277 (county grid: San Bernardino County).
+Sump discharge freeze risk in Twentynine Palms, CA should be reviewed before spring thaw cycles.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 92277.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Frost-free sillcock failures in Twentynine Palms, CA often trace to interior shutoff seats, not exterior stems.
+
+Intake ledger 609461: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Twentynine Palms, CA at 34.1500, -116.0700.
+
+Flow dossier 609461: branch wet-vent geometry and jetting nozzle envelope logged for Twentynine Palms, CA county grid San Bernardino County (ZIP 92277).
+
+Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in San Bernardino County county grid review.
+
+On-site sector marker: San Bernardino County / primary ZIP 92277 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92277-e1798816

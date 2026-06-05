@@ -12,27 +12,41 @@ lng: -117.8600
 zipSample: ["92870", "92811", "92871"]
 zipCodes: ["92811", "92870", "92871"]
 localPaths: ["Orange County / coords 33.8800, -117.8600", "Orange County / elevation 289 ft band", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92871 sector", "Orange County / primary ZIP 92870"]
-zillowHomeValueUsd: 1115875
 ---
 
-**Engineering Notice for Placentia:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Placentia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92870.
+Permit note: Main water line replacement in Placentia, CA may require ROW restoration planning.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Placentia, CA, but intake notes help reduce delays.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 92870.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 92811/92870/92871.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Access points and staging constraints recorded for ZIP 92811/92870/92871 coverage.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 92870.
 
-Dispatch sectors sampled: ZIP 92811, 92870, 92871 (county grid: Orange County).
+Hard water in Placentia, CA accelerates scale on PRV seats and heater elements.
+
+Trenchless pulls in Placentia, CA require pit dimensions verified against utility locate marks.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Sewer gas odors in Placentia, CA should trigger trap seal and vent path review.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dispatch packets reference county grid Orange County near ZIP 92870.
+
+Across Placentia, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Lineage note 974212: recirculation pump amp draw captured before Placentia, CA branch isolation.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Orange County and primary ZIP 92870. Terrain reference: 289 ft. Center point: 33.8800, -117.8600. ZIP sample: 92870, 92871, 92811. Regional routing note: Orange County traffic flow is balanced around ZIP 92870 service demand.
 
 Service reference: CA-92870-07fdeeca

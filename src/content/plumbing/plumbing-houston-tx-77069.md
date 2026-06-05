@@ -12,26 +12,37 @@ lng: -95.3900
 zipSample: ["77234", "77073", "77245", "77064", "77325"]
 zipCodes: ["77235", "77222", "77085", "77242", "77062", "77024", "77007", "77092", "77040", "77407", "77098", "77450"]
 localPaths: ["Harris County / ZIP 77245 sector", "Harris County / elevation 69 ft band", "Harris County / ZIP 77073 sector", "Harris County / ZIP 77234 sector", "Harris County / primary ZIP 77069"]
-zillowHomeValueUsd: 330497
 ---
 
-**Engineering Notice for Houston:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Houston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
 
 
-We coordinate local dispatch coverage around Houston, TX and nearby ZIP sectors.
+Water heater T&P discharge paths in Houston, TX must terminate safely before replacement quotes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Houston, TX, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Houston, TX.
 
-Local conditions in Houston, TX can affect timelines and material choices.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 77063/77078/77571 coverage.
+Polybutylene manifold tags in Houston, TX basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 77063/77078/77571 zone).
+Across Houston, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 77063, 77078, 77571, 77084, 77045 (county grid: Harris County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When is cabling enough? In Houston, TX, pipe material and blockage type dictate method.
+
+FAQ: When should sump battery backups be load-tested? In Houston, TX, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Lineage note 920499: recirculation pump amp draw captured before Houston, TX branch isolation.
+
+On-site sector marker: Harris County / ZIP 77231 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77069-ba027b79

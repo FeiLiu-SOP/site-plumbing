@@ -12,26 +12,41 @@ lng: -97.7000
 zipSample: ["78628", "78626", "78633", "78627"]
 zipCodes: ["78626", "78628", "78633", "78627"]
 localPaths: ["Williamson County / ZIP 78626 sector", "Williamson County / elevation 797 ft band", "Williamson County / ZIP 78628 sector", "Williamson County / primary ZIP 78633", "Williamson County / coords 30.6700, -97.7000"]
-zillowHomeValueUsd: 442378
 ---
 
-**Engineering Notice for Georgetown:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Georgetown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Georgetown, TX, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Homeowners in Georgetown, TX often face sudden plumbing problems that require fast action.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 78633.
 
-Local conditions in Georgetown, TX can affect timelines and material choices.
+Galvanized segments in Georgetown, TX may restrict flow long before visible corrosion.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In Georgetown, TX, before spring thaw and hurricane remnants.
 
-We coordinate local dispatch coverage around Georgetown, TX and nearby ZIP sectors.
+Branch wet vents in Georgetown, TX can mask gurgling as a main-line issue.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78628/78633/78626.
+Stack vent offsets in Georgetown, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Connection points spot-checked where accessible (ZIP 78628/78633/78626 zone).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 78628, 78633, 78626, 78627 (county grid: Williamson County).
+Trenchless pulls in Georgetown, TX require pit dimensions verified against utility locate marks.
+
+Basement floor drains in Georgetown, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Irrigation cross-connections in Georgetown, TX can back-siphon domestic lines during main breaks.
+
+Fixture roster 155012: toilet flange spacer kit and shower cartridge seat score queued for Georgetown, TX walk-through.
+
+On-site sector marker: Williamson County / ZIP 78633 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78633-b45e97b1

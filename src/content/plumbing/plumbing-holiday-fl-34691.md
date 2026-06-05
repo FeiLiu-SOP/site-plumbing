@@ -12,27 +12,45 @@ lng: -82.7400
 zipSample: ["34690", "34691", "34692"]
 zipCodes: ["34691", "34690", "34692"]
 localPaths: ["Pasco County / elevation 26 ft band", "Pasco County / ZIP 34690 sector", "Pasco County / ZIP 34692 sector", "Pasco County / coords 28.1900, -82.7400", "Pasco County / primary ZIP 34691"]
-zillowHomeValueUsd: 225161
 ---
 
-**Engineering Notice for Holiday:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Holiday:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.
 
 
-We coordinate local dispatch coverage around Holiday, FL and nearby ZIP sectors.
+Risk flag: In Holiday, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Dispatch packets reference county grid Pasco County near ZIP 34691.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 34691.
+Trenchless pulls in Holiday, FL require pit dimensions verified against utility locate marks.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Holiday, FL, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Holiday, FL, before spring thaw and hurricane remnants.
 
-Field note: Wind exposure category reviewed for ZIP sector 34691/34692/34690.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34691/34692/34690.
+Across Holiday, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 34691, 34692, 34690 (county grid: Pasco County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Sump discharge freeze risk in Holiday, FL should be reviewed before spring thaw cycles.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Flow dossier 690413: branch wet-vent geometry and jetting nozzle envelope logged for Holiday, FL county grid Pasco County (ZIP 34691).
+
+Drain map 690413: camera-pass priority and expansion-tank pre-charge noted for Holiday, FL postal sector 34691.
+
+Field routing: water heater T&P path paired with PRV outlet curve near ZIP 34691.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Pasco County. Reference elevation: 26 ft. Primary coordinates: 28.1900, -82.7400. ZIP sample: 34690, 34692, 34691. Logistics priority: Serving residential sectors across Pasco County and north-east ZIP 34691 grid.
 
 Service reference: FL-34691-86ae2f37

@@ -12,27 +12,37 @@ lng: -111.0500
 zipSample: ["85746", "85757"]
 zipCodes: ["85757", "85746"]
 localPaths: ["Pima County / elevation 2664 ft band", "Pima County / primary ZIP 85757", "Pima County / ZIP 85757 sector", "Pima County / ZIP 85746 sector", "Pima County / coords 32.1500, -111.0500"]
-zillowHomeValueUsd: 324441
 ---
 
-**Engineering Notice for Drexel Heights:** Structural loading calculated based on 2664 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Drexel Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-In Drexel Heights, AZ, seasonal demand can change scheduling windows.
+Irrigation cross-connections in Drexel Heights, AZ can back-siphon domestic lines during main breaks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 85757.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-We coordinate local dispatch coverage around Drexel Heights, AZ and nearby ZIP sectors.
+Polybutylene manifold tags in Drexel Heights, AZ basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85746/85757.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 85746/85757 intake.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 85746, 85757 (county grid: Pima County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Sewer gas odors in Drexel Heights, AZ should trigger trap seal and vent path review.
+
+Risk flag: In Drexel Heights, AZ, slab leaks can misroute as foundation issues without listening equipment.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Intake ledger 140636: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Drexel Heights, AZ at 32.1500, -111.0500.
+
+On-site sector marker: Pima County / ZIP 85746 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85757-a9b37159

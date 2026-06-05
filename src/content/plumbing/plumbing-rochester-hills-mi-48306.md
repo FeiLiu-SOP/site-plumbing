@@ -12,26 +12,37 @@ lng: -83.1600
 zipSample: ["48309", "48306", "48307"]
 zipCodes: ["48307", "48306", "48309"]
 localPaths: ["Oakland County / ZIP 48306 sector", "Oakland County / primary ZIP 48306", "Oakland County / coords 42.6600, -83.1600", "Oakland County / ZIP 48307 sector", "Oakland County / ZIP 48309 sector"]
-zillowHomeValueUsd: 589492
 ---
 
-**Engineering Notice for Rochester Hills:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Rochester Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in Rochester Hills, MI often concentrates at the third joint upstream of the cleanout.
 
-Tip: request a written scope before work starts.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 48306.
 
-Our service coordination centers on Rochester Hills, MI coverage windows and verified intake details.
+Hydrostatic holds in Rochester Hills, MI slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rochester Hills, MI, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-In Rochester Hills, MI, seasonal demand can change scheduling windows.
+Dual-water-meter setups in Rochester Hills, MI irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 48306/48309/48307.
+Risk flag: In Rochester Hills, MI, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 48306/48309/48307 zone).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 48306, 48309, 48307 (county grid: Oakland County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When is cabling enough? In Rochester Hills, MI, pipe material and blockage type dictate method.
+
+Branch wet vents in Rochester Hills, MI can mask gurgling as a main-line issue.
+
+Sewer gas odors in Rochester Hills, MI should trigger trap seal and vent path review.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 391481: curb-stop orientation and hose-bib freeze flag reviewed for Rochester Hills, MI at coords 42.6600/-83.1600.
+
+Coordinate-anchored dispatch note: center reference 42.6600, -83.1600 at elevation ~784 ft aligns with Oakland County intake staging.
 
 Service reference: MI-48306-baad87b5

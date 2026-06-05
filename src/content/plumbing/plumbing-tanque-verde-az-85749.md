@@ -12,26 +12,41 @@ lng: -110.7400
 zipSample: ["85749", "85748"]
 zipCodes: ["85749", "85748"]
 localPaths: ["Pima County / coords 32.2700, -110.7400", "Pima County / primary ZIP 85749", "Pima County / ZIP 85748 sector", "Pima County / ZIP 85749 sector", "Pima County / elevation 2667 ft band"]
-zillowHomeValueUsd: 649159
 ---
 
-**Engineering Notice for Tanque Verde:** Structural loading calculated based on 2667 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Tanque Verde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: confirm licensing and insurance before approving work.
+Dual-water-meter setups in Tanque Verde, AZ irrigation zones need backflow logs before line replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 85748/85749 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85748/85749.
+Cast-iron hub corrosion in Tanque Verde, AZ often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 85748, 85749 (county grid: Pima County).
+Trenchless pulls in Tanque Verde, AZ require pit dimensions verified against utility locate marks.
+
+Fixture shutoff stiffness in Tanque Verde, AZ may indicate mineral bridging behind stems.
+
+Hard water in Tanque Verde, AZ accelerates scale on PRV seats and heater elements.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Polybutylene manifold tags in Tanque Verde, AZ basements should be photographed before any wall chase opens.
+
+Sump discharge freeze risk in Tanque Verde, AZ should be reviewed before spring thaw cycles.
+
+Supply audit 432219: curb-stop orientation and hose-bib freeze flag reviewed for Tanque Verde, AZ at coords 32.2700/-110.7400.
+
+Flow dossier 432219: branch wet-vent geometry and jetting nozzle envelope logged for Tanque Verde, AZ county grid Pima County (ZIP 85749).
+
+Coordinate-anchored dispatch note: center reference 32.2700, -110.7400 at elevation ~2667 ft aligns with Pima County intake staging.
 
 Service reference: AZ-85749-191c509a

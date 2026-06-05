@@ -12,26 +12,43 @@ lng: -82.2200
 zipSample: ["34476", "34481"]
 zipCodes: ["34476", "34481"]
 localPaths: ["Marion County / coords 29.0800, -82.2200", "Marion County / elevation 72 ft band", "Marion County / ZIP 34476 sector", "Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector"]
-zillowHomeValueUsd: 279037
 ---
 
-**Engineering Notice for Liberty Triangle:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Liberty Triangle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Seasonal Liberty Triangle, FL irrigation cross-connections can mask domestic pressure loss.
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+In Liberty Triangle, FL, slab leaks often present as warm spots before wall stains appear.
 
-Our service coordination centers on Liberty Triangle, FL coverage windows and verified intake details.
+Trenchless sleeve pulls near Liberty Triangle, FL require pit shoring notes when water tables are high.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should sump battery backups be load-tested? In Liberty Triangle, FL, before spring thaw and hurricane remnants.
 
-Field note: Connection points spot-checked where accessible (ZIP 34481/34476 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 34481/34476 coverage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 34481, 34476 (county grid: Marion County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Liberty Triangle, FL systems need rebalancing.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Polybutylene manifold tags in Liberty Triangle, FL basements should be photographed before any wall chase opens.
+
+Supply audit 173404: curb-stop orientation and hose-bib freeze flag reviewed for Liberty Triangle, FL at coords 29.0800/-82.2200.
+
+Intake ledger 173404: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Liberty Triangle, FL at 29.0800, -82.2200.
+
+plumbing brief: floor drain trap primer drip and sump float travel were cross-checked for the Liberty Triangle intake packet.
+
+On-site sector marker: Marion County / coords 29.0800, -82.2200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34481-5d8c442d

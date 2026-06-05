@@ -12,27 +12,43 @@ lng: -77.4800
 zipSample: ["20108", "20110"]
 zipCodes: ["20108", "20110"]
 localPaths: ["Manassas County / primary ZIP 20110", "Manassas County / elevation 279 ft band", "Manassas County / ZIP 20108 sector", "Manassas County / coords 38.7500, -77.4800", "Manassas County / ZIP 20110 sector"]
-zillowHomeValueUsd: 515138
 ---
 
-**Engineering Notice for Manassas:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Manassas County.
+**Engineering Notice for Manassas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manassas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Hydro-jetting in Manassas, VA requires camera confirmation before nozzle pressure is raised.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 20110.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Manassas, VA irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 20108/20110 coverage.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20108/20110.
+FAQ: When should sump battery backups be load-tested? In Manassas, VA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 20108, 20110 (county grid: Manassas County).
+Permit note: Main water line replacement in Manassas, VA may require ROW restoration planning.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20110.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Manassas, VA.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Seasonal Manassas, VA irrigation cross-connections can mask domestic pressure loss.
+
+Flow dossier 879993: branch wet-vent geometry and jetting nozzle envelope logged for Manassas, VA county grid Manassas County (ZIP 20110).
+
+Drain map 879993: camera-pass priority and expansion-tank pre-charge noted for Manassas, VA postal sector 20110.
+
+Regional mesh label Manassas County: moisture and logistics baselines are keyed to Manassas, VA before niche-specific work begins.
 
 Service reference: VA-20110-33b33756

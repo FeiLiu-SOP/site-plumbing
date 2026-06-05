@@ -12,24 +12,41 @@ lng: -108.5500
 zipSample: ["59117", "59107", "59115", "59104", "59101"]
 zipCodes: ["59117", "59104", "59102", "59116", "59115", "59101", "59106", "59105", "59108", "59107"]
 localPaths: ["Yellowstone County / ZIP 59104 sector", "Yellowstone County / elevation 3228 ft band", "Yellowstone County / ZIP 59115 sector", "Yellowstone County / ZIP 59101 sector", "Yellowstone County / coords 45.7900, -108.5500"]
-zillowHomeValueUsd: 536044
 ---
 
-**Engineering Notice for Billings:** Structural loading calculated based on 3228 ft terrain assessment. Regional dispatch grid: Yellowstone County.
+**Engineering Notice for Billings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yellowstone County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-In Billings, MT, seasonal demand can change scheduling windows.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 59106.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Billings, MT, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: avoid large upfront payments without milestones.
+Step: map sump float travel and check-valve orientation for Billings, MT basements.
 
-Field note: Moisture pathway inspection logged near ZIP 59105/59108/59116 intake.
+Cast-iron hub corrosion in Billings, MT often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 59105, 59108, 59116, 59117, 59107 (county grid: Yellowstone County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 59106.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cleanout access limits in Billings, MT frequently extend drain cleaning duration.
+
+Polybutylene manifold tags in Billings, MT basements should be photographed before any wall chase opens.
+
+Step: camera-pass main lines in Billings, MT before jetting older clay or cast iron.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Pressure trace 741585: meter-pit clearance and dielectric union checklist staged for Billings, MT near elevation 3228 ft.
+
+Regional mesh label Yellowstone County: moisture and logistics baselines are keyed to Billings, MT before niche-specific work begins.
 
 Service reference: MT-59106-7d1c63ad

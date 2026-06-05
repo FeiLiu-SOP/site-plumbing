@@ -12,24 +12,39 @@ lng: -83.1500
 zipSample: ["43017", "43016"]
 zipCodes: ["43016", "43017"]
 localPaths: ["Franklin County / ZIP 43017 sector", "Franklin County / ZIP 43016 sector", "Franklin County / coords 40.1100, -83.1500", "Franklin County / primary ZIP 43017", "Franklin County / elevation 902 ft band"]
-zillowHomeValueUsd: 575982
 ---
 
-**Engineering Notice for Dublin:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Dublin, OH plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Dublin, OH basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Dublin, OH irrigation zones need backflow logs before line replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 43016/43017 zone).
+Stack vent offsets in Dublin, OH older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 43016, 43017 (county grid: Franklin County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: camera-pass main lines in Dublin, OH before jetting older clay or cast iron.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Permit note: Main water line replacement in Dublin, OH may require ROW restoration planning.
+
+Flow dossier 563007: branch wet-vent geometry and jetting nozzle envelope logged for Dublin, OH county grid Franklin County (ZIP 43017).
+
+Drain map 563007: camera-pass priority and expansion-tank pre-charge noted for Dublin, OH postal sector 43017.
+
+On-site sector marker: Franklin County / ZIP 43017 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43017-0b296976

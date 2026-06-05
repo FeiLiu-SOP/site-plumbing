@@ -12,26 +12,41 @@ lng: -100.4500
 zipSample: ["76903", "76886", "76908", "76909", "76904"]
 zipCodes: ["76909", "76905", "76908", "76886", "76906", "76904", "76903", "76901"]
 localPaths: ["Tom Green County / ZIP 76909 sector", "Tom Green County / coords 31.4400, -100.4500", "Tom Green County / primary ZIP 76905", "Tom Green County / ZIP 76903 sector", "Tom Green County / ZIP 76904 sector"]
-zillowHomeValueUsd: 236371
 ---
 
-**Engineering Notice for San Angelo:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Tom Green County.
+**Engineering Notice for San Angelo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tom Green County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in San Angelo, TX systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Irrigation cross-connections in San Angelo, TX can back-siphon domestic lines during main breaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Angelo, TX, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in San Angelo, TX.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Water heater anode type may change with San Angelo, TX hardness profiles.
 
-We coordinate local dispatch coverage around San Angelo, TX and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Wind exposure category reviewed for ZIP sector 76906/76903/76908.
+Stack vent offsets in San Angelo, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Connection points spot-checked where accessible (ZIP 76906/76903/76908 zone).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 76905.
 
-Dispatch sectors sampled: ZIP 76906, 76903, 76908, 76886, 76904 (county grid: Tom Green County).
+Recirculation pump failures in San Angelo, TX can mimic fixture-specific clogs.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Trenchless pulls in San Angelo, TX require pit dimensions verified against utility locate marks.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in San Angelo, TX.
+
+Basement floor drains in San Angelo, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 76905.
+
+Fixture roster 226388: toilet flange spacer kit and shower cartridge seat score queued for San Angelo, TX walk-through.
+
+Supply audit 226388: curb-stop orientation and hose-bib freeze flag reviewed for San Angelo, TX at coords 31.4400/-100.4500.
+
+On-site sector marker: Tom Green County / ZIP 76909 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76905-36a0643f

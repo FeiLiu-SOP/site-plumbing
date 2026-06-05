@@ -12,26 +12,45 @@ lng: -122.2100
 zipSample: ["98030", "98064", "98042", "98089", "98035"]
 zipCodes: ["98032", "98031", "98089", "98042", "98035", "98030", "98064"]
 localPaths: ["King County / ZIP 98089 sector", "King County / ZIP 98035 sector", "King County / primary ZIP 98031", "King County / elevation 400 ft band", "King County / ZIP 98042 sector"]
-zillowHomeValueUsd: 679951
 ---
 
-**Engineering Notice for Kent:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Kent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-In Kent, WA, urgent plumbing issues can escalate quickly.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Kent, WA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Cast-iron hub corrosion in Kent, WA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kent, WA, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 98031/98042/98030 coverage.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Connection points spot-checked where accessible (ZIP 98031/98042/98030 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 98031, 98042, 98030, 98089, 98035 (county grid: King County).
+Sump discharge freeze risk in Kent, WA should be reviewed before spring thaw cycles.
+
+Fixture shutoff stiffness in Kent, WA may indicate mineral bridging behind stems.
+
+Step: map sump float travel and check-valve orientation for Kent, WA basements.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Expansion tank pre-charge loss in Kent, WA often tracks heater replacement deferrals.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Lineage note 591955: recirculation pump amp draw captured before Kent, WA branch isolation.
+
+Pressure trace 591955: meter-pit clearance and dielectric union checklist staged for Kent, WA near elevation 400 ft.
+
+plumbing brief: shower cartridge seat score and slab leak listening window were cross-checked for the Kent intake packet.
+
+On-site sector marker: King County / ZIP 98031 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98031-151ee0ca

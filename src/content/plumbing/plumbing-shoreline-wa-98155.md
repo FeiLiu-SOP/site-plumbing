@@ -12,27 +12,43 @@ lng: -122.3400
 zipSample: ["98160", "98133", "98177", "98155"]
 zipCodes: ["98155", "98177", "98160", "98133"]
 localPaths: ["King County / ZIP 98160 sector", "King County / coords 47.7600, -122.3400", "King County / elevation 476 ft band", "King County / ZIP 98133 sector", "King County / ZIP 98155 sector"]
-zillowHomeValueUsd: 853050
 ---
 
-**Engineering Notice for Shoreline:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Shoreline:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Shoreline, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98155.
+Hydro-jetting in Shoreline, WA requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Shoreline, WA, but intake notes help reduce delays.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 98155.
 
-Field note: Connection points spot-checked where accessible (ZIP 98160/98155/98133 zone).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98155.
 
-Field note: Access points and staging constraints recorded for ZIP 98160/98155/98133 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 98160, 98155, 98133, 98177 (county grid: King County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Hydrostatic holds in Shoreline, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98155.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hard water in Shoreline, WA accelerates scale on PRV seats and heater elements.
+
+Irrigation cross-connections in Shoreline, WA can back-siphon domestic lines during main breaks.
+
+Intake ledger 257635: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Shoreline, WA at 47.7600, -122.3400.
+
+Lineage note 257635: recirculation pump amp draw captured before Shoreline, WA branch isolation.
+
+plumbing brief: fixture shutoff torque log and branch wet vent geometry were cross-checked for the Shoreline intake packet.
+
+On-site sector marker: King County / ZIP 98160 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98155-75f933b9

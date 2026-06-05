@@ -12,24 +12,43 @@ lng: -74.4200
 zipSample: ["07062", "07060", "07061", "07063"]
 zipCodes: ["07062", "07061", "07063", "07060"]
 localPaths: ["Union County / coords 40.6200, -74.4200", "Union County / ZIP 07062 sector", "Union County / ZIP 07060 sector", "Union County / ZIP 07061 sector", "Union County / elevation 112 ft band"]
-zillowHomeValueUsd: 498004
 ---
 
-**Engineering Notice for Plainfield:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Expansion tank pre-charge loss in Plainfield, NJ often tracks heater replacement deferrals.
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around Plainfield, NJ and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Plainfield, NJ, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Access points and staging constraints recorded for ZIP 07061/07062/07063 coverage.
+FAQ: Is hydro-jetting always appropriate? In Plainfield, NJ, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 07061, 07062, 07063, 07060 (county grid: Union County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Irrigation cross-connections in Plainfield, NJ can back-siphon domestic lines during main breaks.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+In Plainfield, NJ, slab leaks often present as warm spots before wall stains appear.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Pressure trace 517762: meter-pit clearance and dielectric union checklist staged for Plainfield, NJ near elevation 112 ft.
+
+Drain map 517762: camera-pass priority and expansion-tank pre-charge noted for Plainfield, NJ postal sector 07062.
+
+Regional mesh label Union County: moisture and logistics baselines are keyed to Plainfield, NJ before niche-specific work begins.
 
 Service reference: NJ-07062-9ec0cd39

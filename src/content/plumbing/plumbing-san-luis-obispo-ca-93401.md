@@ -12,24 +12,45 @@ lng: -120.6700
 zipSample: ["93405", "93403", "93406", "93401"]
 zipCodes: ["93403", "93406", "93405", "93401"]
 localPaths: ["San Luis Obispo County / ZIP 93403 sector", "San Luis Obispo County / coords 35.2700, -120.6700", "San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector"]
-zillowHomeValueUsd: 1103778
 ---
 
-**Engineering Notice for San Luis Obispo:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for San Luis Obispo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Luis Obispo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in San Luis Obispo, CA systems need rebalancing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in San Luis Obispo, CA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Luis Obispo, CA, but intake notes help reduce delays.
+Trenchless sleeve pulls near San Luis Obispo, CA require pit shoring notes when water tables are high.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In San Luis Obispo, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 93403/93406/93401 zone).
+Branch wet vents in San Luis Obispo, CA can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 93403, 93406, 93401, 93405 (county grid: San Luis Obispo County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cleanout access limits in San Luis Obispo, CA frequently extend drain cleaning duration.
+
+Basement floor drains in San Luis Obispo, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: When should sump battery backups be load-tested? In San Luis Obispo, CA, before spring thaw and hurricane remnants.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Irrigation cross-connections in San Luis Obispo, CA can back-siphon domestic lines during main breaks.
+
+Hard water in San Luis Obispo, CA accelerates scale on PRV seats and heater elements.
+
+Fixture roster 886819: toilet flange spacer kit and shower cartridge seat score queued for San Luis Obispo, CA walk-through.
+
+Pressure trace 886819: meter-pit clearance and dielectric union checklist staged for San Luis Obispo, CA near elevation 167 ft.
+
+plumbing brief: shower cartridge seat score and dielectric union checklist were cross-checked for the San Luis Obispo intake packet.
+
+Regional mesh label San Luis Obispo County: moisture and logistics baselines are keyed to San Luis Obispo, CA before niche-specific work begins.
 
 Service reference: CA-93401-a06325bf

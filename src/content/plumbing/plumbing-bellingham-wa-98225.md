@@ -12,24 +12,45 @@ lng: -122.4700
 zipSample: ["98229", "98228", "98225", "98226"]
 zipCodes: ["98229", "98225", "98226", "98228"]
 localPaths: ["Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98228 sector", "Whatcom County / primary ZIP 98225", "Whatcom County / ZIP 98225 sector", "Whatcom County / ZIP 98226 sector"]
-zillowHomeValueUsd: 669588
 ---
 
-**Engineering Notice for Bellingham:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Whatcom County.
+**Engineering Notice for Bellingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.
 
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Bellingham, WA basements should be photographed before any wall chase opens.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Bellingham, WA, before spring thaw and hurricane remnants.
 
-Tip: request a written scope before work starts.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 98225.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bellingham, WA.
 
-Field note: Wind exposure category reviewed for ZIP sector 98228/98229/98226.
+Water heater T&P discharge paths in Bellingham, WA must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 98228, 98229, 98226, 98225 (county grid: Whatcom County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Trenchless pulls in Bellingham, WA require pit dimensions verified against utility locate marks.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture shutoff stiffness in Bellingham, WA may indicate mineral bridging behind stems.
+
+Fixture roster 204870: toilet flange spacer kit and shower cartridge seat score queued for Bellingham, WA walk-through.
+
+Pressure trace 204870: meter-pit clearance and dielectric union checklist staged for Bellingham, WA near elevation 66 ft.
+
+Scope trace: gas water heater draft hood gap plus toilet flange spacer kit referenced in Whatcom County county grid review.
+
+Regional mesh label Whatcom County: moisture and logistics baselines are keyed to Bellingham, WA before niche-specific work begins.
 
 Service reference: WA-98225-3cab911b

@@ -12,27 +12,43 @@ lng: -73.0400
 zipSample: ["06703", "06726", "06701", "06706", "06720"]
 zipCodes: ["06726", "06704", "06701", "06702", "06710", "06724", "06720", "06705", "06708", "06721", "06723", "06725"]
 localPaths: ["Naugatuck Valley County / ZIP 06720 sector", "Naugatuck Valley County / primary ZIP 06708", "Naugatuck Valley County / elevation 338 ft band", "Naugatuck Valley County / coords 41.5600, -73.0400", "Naugatuck Valley County / ZIP 06706 sector"]
-zillowHomeValueUsd: 297130
 ---
 
-**Engineering Notice for Waterbury:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
+**Engineering Notice for Waterbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Naugatuck Valley County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 06708.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: avoid large upfront payments without milestones.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 06708.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Galvanized segments in Waterbury, CT may restrict flow long before visible corrosion.
 
-In Waterbury, CT, urgent plumbing issues can escalate quickly.
+CPVC solvent weld times shift with ambient humidity during Waterbury, CT shoulder seasons.
 
-We coordinate local dispatch coverage around Waterbury, CT and nearby ZIP sectors.
+Polybutylene manifold tags in Waterbury, CT basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 06708/06723/06721 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 06708/06723/06721 intake.
+Stack vent offsets in Waterbury, CT older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 06708, 06723, 06721, 06725, 06703 (county grid: Naugatuck Valley County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Sewer gas odors in Waterbury, CT should trigger trap seal and vent path review.
+
+Risk flag: In Waterbury, CT, slab leaks can misroute as foundation issues without listening equipment.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Across Waterbury, CT, main-line bellies can trap debris even when fixtures drain normally.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Trenchless sleeve pulls near Waterbury, CT require pit shoring notes when water tables are high.
+
+Supply audit 469593: curb-stop orientation and hose-bib freeze flag reviewed for Waterbury, CT at coords 41.5600/-73.0400.
+
+Flow dossier 469593: branch wet-vent geometry and jetting nozzle envelope logged for Waterbury, CT county grid Naugatuck Valley County (ZIP 06708).
+
+On-site sector marker: Naugatuck Valley County / ZIP 06705 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06708-775598c8

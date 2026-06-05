@@ -12,24 +12,41 @@ lng: -90.7500
 zipSample: ["70360", "70364"]
 zipCodes: ["70364", "70360"]
 localPaths: ["Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / ZIP 70364 sector", "Terrebonne Parish / coords 29.6200, -90.7500", "Terrebonne Parish / primary ZIP 70360", "Terrebonne Parish / elevation 16 ft band"]
-zillowHomeValueUsd: 263199
 ---
 
-**Engineering Notice for Bayou Cane:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.
+**Engineering Notice for Bayou Cane:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Terrebonne Parish.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Irrigation cross-connections in Bayou Cane, LA can back-siphon domestic lines during main breaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Bayou Cane, LA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: confirm licensing and insurance before approving work.
+Dispatch packets reference county grid Terrebonne Parish near ZIP 70360.
 
-Step: share symptoms and recent history so the intake notes are complete.
+CPVC solvent weld times shift with ambient humidity during Bayou Cane, LA shoulder seasons.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 70364/70360 zone).
+Risk flag: In Bayou Cane, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 70364, 70360 (county grid: Terrebonne Parish).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Sump discharge freeze risk in Bayou Cane, LA should be reviewed before spring thaw cycles.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Bayou Cane, LA.
+
+Material note: Water heater anode type may change with Bayou Cane, LA hardness profiles.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bayou Cane, LA systems need rebalancing.
+
+Fixture roster 157436: toilet flange spacer kit and shower cartridge seat score queued for Bayou Cane, LA walk-through.
+
+plumbing brief: floor drain trap primer drip and backflow test cock orientation were cross-checked for the Bayou Cane intake packet.
+
+ZIP-corridor snapshot for Bayou Cane, LA: sampled sectors include 70364, 70360; county routing grid remains Terrebonne Parish.
 
 Service reference: LA-70360-eefe1c59

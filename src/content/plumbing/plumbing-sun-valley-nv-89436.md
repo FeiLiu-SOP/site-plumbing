@@ -12,25 +12,41 @@ lng: -119.7800
 zipSample: ["89433", "89436"]
 zipCodes: ["89436", "89433"]
 localPaths: ["Washoe County / elevation 4908 ft band", "Washoe County / ZIP 89433 sector", "Washoe County / coords 39.6100, -119.7800", "Washoe County / primary ZIP 89436", "Washoe County / ZIP 89436 sector"]
-zillowHomeValueUsd: 572019
 ---
 
-**Engineering Notice for Sun Valley:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Washoe County.
+**Engineering Notice for Sun Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washoe County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 89436.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Sun Valley, NV older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our service coordination centers on Sun Valley, NV coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 89433/89436 intake.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 89433, 89436 (county grid: Washoe County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Sun Valley, NV systems need rebalancing.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 89436.
+
+Frost-free sillcock failures in Sun Valley, NV often trace to interior shutoff seats, not exterior stems.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Sun Valley, NV.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Recirculation pump failures in Sun Valley, NV can mimic fixture-specific clogs.
+
+Supply audit 213005: curb-stop orientation and hose-bib freeze flag reviewed for Sun Valley, NV at coords 39.6100/-119.7800.
+
+On-site sector marker: Washoe County / ZIP 89436 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89436-da3173cb

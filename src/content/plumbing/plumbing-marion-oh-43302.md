@@ -12,24 +12,41 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / coords 40.6000, -83.1200", "Marion County / primary ZIP 43302", "Marion County / elevation 994 ft band", "Marion County / ZIP 43302 sector"]
-zillowHomeValueUsd: 165597
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: camera-pass main lines in Marion, OH before jetting older clay or cast iron.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our service coordination centers on Marion, OH coverage windows and verified intake details.
+Cast-iron hub corrosion in Marion, OH often concentrates at the third joint upstream of the cleanout.
 
-Tip: request a written scope before work starts.
+Sump discharge freeze risk in Marion, OH should be reviewed before spring thaw cycles.
 
-Field note: Wind exposure category reviewed for ZIP sector 43302.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 43302 (county grid: Marion County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Marion, OH.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 392473: curb-stop orientation and hose-bib freeze flag reviewed for Marion, OH at coords 40.6000/-83.1200.
+
+Field routing: hose bib freeze flag paired with shower cartridge seat score near ZIP 43302.
+
+On-site sector marker: Marion County / primary ZIP 43302 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43302-8e69e64c

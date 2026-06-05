@@ -12,26 +12,41 @@ lng: -117.9000
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / primary ZIP 91744", "Los Angeles County / elevation 420 ft band", "Los Angeles County / coords 34.0100, -117.9000", "Los Angeles County / ZIP 91744 sector"]
-zillowHomeValueUsd: 740936
 ---
 
-**Engineering Notice for South San Jose Hills:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South San Jose Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Homeowners in South San Jose Hills, CA often face sudden plumbing problems that require fast action.
+Irrigation cross-connections in South San Jose Hills, CA can back-siphon domestic lines during main breaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in South San Jose Hills, CA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate local dispatch coverage around South San Jose Hills, CA and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91744.
+Water heater T&P discharge paths in South San Jose Hills, CA must terminate safely before replacement quotes.
 
-Field note: Moisture pathway inspection logged near ZIP 91744 intake.
+Fixture shutoff stiffness in South San Jose Hills, CA may indicate mineral bridging behind stems.
 
-Dispatch sectors sampled: ZIP 91744 (county grid: Los Angeles County).
+CPVC solvent weld times shift with ambient humidity during South San Jose Hills, CA shoulder seasons.
+
+Risk flag: Seasonal South San Jose Hills, CA irrigation cross-connections can mask domestic pressure loss.
+
+Cast-iron hub corrosion in South San Jose Hills, CA often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Permit note: Main water line replacement in South San Jose Hills, CA may require ROW restoration planning.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Pressure trace 355387: meter-pit clearance and dielectric union checklist staged for South San Jose Hills, CA near elevation 420 ft.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to South San Jose Hills, CA before niche-specific work begins.
 
 Service reference: CA-91744-9e5c2102

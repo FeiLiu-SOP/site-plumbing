@@ -12,24 +12,37 @@ lng: -122.1800
 zipSample: ["94563"]
 zipCodes: ["94563"]
 localPaths: ["Contra Costa County / coords 37.8800, -122.1800", "Contra Costa County / elevation 571 ft band", "Contra Costa County / ZIP 94563 sector", "Contra Costa County / primary ZIP 94563"]
-zillowHomeValueUsd: 1986071
 ---
 
-**Engineering Notice for Orinda:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Orinda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in Orinda, CA accelerates scale on PRV seats and heater elements.
 
-Tip: request a written scope before work starts.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Orinda, CA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our service coordination centers on Orinda, CA coverage windows and verified intake details.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-In Orinda, CA, urgent plumbing issues can escalate quickly.
+Recirculation pump failures in Orinda, CA can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 94563 intake.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 94563 (county grid: Contra Costa County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Fixture shutoff stiffness in Orinda, CA may indicate mineral bridging behind stems.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 94563.
+
+Fixture roster 256879: toilet flange spacer kit and shower cartridge seat score queued for Orinda, CA walk-through.
+
+Coordinate-anchored dispatch note: center reference 37.8800, -122.1800 at elevation ~571 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94563-436cac40

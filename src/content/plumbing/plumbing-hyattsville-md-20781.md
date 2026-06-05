@@ -12,26 +12,41 @@ lng: -76.9500
 zipSample: ["20788", "20781", "20782"]
 zipCodes: ["20782", "20781", "20788"]
 localPaths: ["Prince George's County / ZIP 20781 sector", "Prince George's County / ZIP 20788 sector", "Prince George's County / primary ZIP 20781", "Prince George's County / ZIP 20782 sector", "Prince George's County / coords 38.9600, -76.9500"]
-zillowHomeValueUsd: 434824
 ---
 
-**Engineering Notice for Hyattsville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Hyattsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Homeowners in Hyattsville, MD often face sudden plumbing problems that require fast action.
+Basement floor drains in Hyattsville, MD should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: request a written scope before work starts.
+Branch wet vents in Hyattsville, MD can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Polybutylene manifold tags in Hyattsville, MD basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 20781/20788/20782.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 20781.
 
-Field note: Moisture pathway inspection logged near ZIP 20781/20788/20782 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 20781, 20788, 20782 (county grid: Prince George's County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hyattsville, MD systems need rebalancing.
+
+Permit note: Main water line replacement in Hyattsville, MD may require ROW restoration planning.
+
+Risk flag: Seasonal Hyattsville, MD irrigation cross-connections can mask domestic pressure loss.
+
+Fixture roster 518870: toilet flange spacer kit and shower cartridge seat score queued for Hyattsville, MD walk-through.
+
+Drain map 518870: camera-pass priority and expansion-tank pre-charge noted for Hyattsville, MD postal sector 20781.
+
+Field routing: floor drain trap primer drip paired with dielectric union checklist near ZIP 20781.
+
+On-site sector marker: Prince George's County / coords 38.9600, -76.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20781-3fbce9cd

@@ -12,26 +12,43 @@ lng: -90.6700
 zipSample: ["63040", "63069", "63025", "63038", "63021"]
 zipCodes: ["63005", "63021", "63025", "63040", "63038", "63069", "63011"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / ZIP 63040 sector", "St. Louis County / ZIP 63025 sector", "St. Louis County / coords 38.5800, -90.6700", "St. Louis County / ZIP 63069 sector"]
-zillowHomeValueUsd: 415528
 ---
 
-**Engineering Notice for Wildwood:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Wildwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 63025.
 
-Tip: request a written scope before work starts.
+FAQ: Is hydro-jetting always appropriate? In Wildwood, MO, pipe material and blockage type dictate method.
 
-Our service coordination centers on Wildwood, MO coverage windows and verified intake details.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: When should sump battery backups be load-tested? In Wildwood, MO, before spring thaw and hurricane remnants.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wildwood, MO, but intake notes help reduce delays.
+Trenchless pulls in Wildwood, MO require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 63005/63038/63069 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 63005/63038/63069 coverage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 63005, 63038, 63069, 63011, 63025 (county grid: St. Louis County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+We coordinate Wildwood, MO plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+CPVC solvent weld times shift with ambient humidity during Wildwood, MO shoulder seasons.
+
+Lineage note 908653: recirculation pump amp draw captured before Wildwood, MO branch isolation.
+
+Field routing: slab penetration sleeve seal paired with hose bib freeze flag near ZIP 63025.
+
+**Regional Infrastructure Brief:** Grid anchor set to St. Louis County. Reference elevation: 781 ft. Primary coordinates: 38.5800, -90.6700. ZIP sample: 63011, 63005, 63025, 63069, 63038. Logistics priority: Serving residential sectors across St. Louis County and north-east ZIP 63025 grid.
 
 Service reference: MO-63025-4d5efb03

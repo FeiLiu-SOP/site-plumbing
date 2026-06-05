@@ -12,25 +12,41 @@ lng: -99.3200
 zipSample: ["67601"]
 zipCodes: ["67601"]
 localPaths: ["Ellis County / ZIP 67601 sector", "Ellis County / elevation 2047 ft band", "Ellis County / coords 38.8800, -99.3200", "Ellis County / primary ZIP 67601"]
-zillowHomeValueUsd: 254480
 ---
 
-**Engineering Notice for Hays:** Structural loading calculated based on 2047 ft terrain assessment. Regional dispatch grid: Ellis County.
+**Engineering Notice for Hays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dual-water-meter setups in Hays, KS irrigation zones need backflow logs before line replacement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Water heater anode type may change with Hays, KS hardness profiles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 67601.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-We coordinate local dispatch coverage around Hays, KS and nearby ZIP sectors.
+Sump discharge freeze risk in Hays, KS should be reviewed before spring thaw cycles.
 
-Field note: Connection points spot-checked where accessible (ZIP 67601 zone).
+Water heater T&P discharge paths in Hays, KS must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 67601 (county grid: Ellis County).
+Irrigation cross-connections in Hays, KS can back-siphon domestic lines during main breaks.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Hays, KS should be snaked only after trap arm geometry is confirmed on camera.
+
+Hydrostatic holds in Hays, KS slab circuits run overnight when listening mics show ambiguous hits.
+
+Cast-iron hub corrosion in Hays, KS often concentrates at the third joint upstream of the cleanout.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Drain map 207363: camera-pass priority and expansion-tank pre-charge noted for Hays, KS postal sector 67601.
+
+Lineage note 207363: recirculation pump amp draw captured before Hays, KS branch isolation.
+
+Regional mesh label Ellis County: moisture and logistics baselines are keyed to Hays, KS before niche-specific work begins.
 
 Service reference: KS-67601-89e14cb6

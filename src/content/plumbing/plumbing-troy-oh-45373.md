@@ -12,24 +12,41 @@ lng: -84.2200
 zipSample: ["45373", "45374"]
 zipCodes: ["45374", "45373"]
 localPaths: ["Miami County / elevation 860 ft band", "Miami County / primary ZIP 45373", "Miami County / coords 40.0400, -84.2200", "Miami County / ZIP 45374 sector", "Miami County / ZIP 45373 sector"]
-zillowHomeValueUsd: 280667
 ---
 
-**Engineering Notice for Troy:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Miami County.
+**Engineering Notice for Troy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami County.
 
 
-Our service coordination centers on Troy, OH coverage windows and verified intake details.
+Fixture shutoff stiffness in Troy, OH may indicate mineral bridging behind stems.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 45373.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Troy, OH.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 45374/45373.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Troy, OH.
 
-Dispatch sectors sampled: ZIP 45374, 45373 (county grid: Miami County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Polybutylene manifold tags in Troy, OH basements should be photographed before any wall chase opens.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hose bib split patterns in Troy, OH often follow missed winterization.
+
+Material note: Water heater anode type may change with Troy, OH hardness profiles.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Intake ledger 850716: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Troy, OH at 40.0400, -84.2200.
+
+Drain map 850716: camera-pass priority and expansion-tank pre-charge noted for Troy, OH postal sector 45373.
+
+Coordinate-anchored dispatch note: center reference 40.0400, -84.2200 at elevation ~860 ft aligns with Miami County intake staging.
 
 Service reference: OH-45373-64fc62b9

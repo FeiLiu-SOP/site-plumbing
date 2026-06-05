@@ -12,26 +12,41 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55428", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55427", "Hennepin County / ZIP 55428 sector", "Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / elevation 922 ft band"]
-zillowHomeValueUsd: 367325
 ---
 
-**Engineering Notice for New Hope:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for New Hope:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Hope, MN, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: request a written scope before work starts.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in New Hope, MN.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in New Hope, MN slab circuits run overnight when listening mics show ambiguous hits.
 
-We coordinate local dispatch coverage around New Hope, MN and nearby ZIP sectors.
+Cleanout access limits in New Hope, MN frequently extend drain cleaning duration.
 
-Field note: Moisture pathway inspection logged near ZIP 55427/55428 intake.
+Trenchless sleeve pulls near New Hope, MN require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55427/55428.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 55427, 55428 (county grid: Hennepin County).
+Dual-water-meter setups in New Hope, MN irrigation zones need backflow logs before line replacement.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Seasonal New Hope, MN irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Pressure trace 861193: meter-pit clearance and dielectric union checklist staged for New Hope, MN near elevation 922 ft.
+
+Field routing: sump float travel paired with jetter nozzle envelope near ZIP 55427.
+
+Coordinate-anchored dispatch note: center reference 45.0400, -93.3900 at elevation ~922 ft aligns with Hennepin County intake staging.
 
 Service reference: MN-55427-acfc88b8

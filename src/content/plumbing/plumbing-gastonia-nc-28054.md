@@ -12,26 +12,43 @@ lng: -81.1900
 zipSample: ["28054", "28052", "28056"]
 zipCodes: ["28056", "28054", "28052"]
 localPaths: ["Gaston County / ZIP 28056 sector", "Gaston County / primary ZIP 28054", "Gaston County / coords 35.2500, -81.1900", "Gaston County / ZIP 28054 sector", "Gaston County / elevation 768 ft band"]
-zillowHomeValueUsd: 270914
 ---
 
-**Engineering Notice for Gastonia:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Gaston County.
+**Engineering Notice for Gastonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Gastonia, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Our service coordination centers on Gastonia, NC coverage windows and verified intake details.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Seasonal Gastonia, NC irrigation cross-connections can mask domestic pressure loss.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Gastonia, NC.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Gastonia, NC hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28056/28052/28054.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 28056/28052/28054 coverage.
+Trenchless sleeve pulls near Gastonia, NC require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 28056, 28052, 28054 (county grid: Gaston County).
+FAQ: Is hydro-jetting always appropriate? In Gastonia, NC, pipe material and blockage type dictate method.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 28054.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Irrigation cross-connections in Gastonia, NC can back-siphon domestic lines during main breaks.
+
+Supply audit 785561: curb-stop orientation and hose-bib freeze flag reviewed for Gastonia, NC at coords 35.2500/-81.1900.
+
+Pressure trace 785561: meter-pit clearance and dielectric union checklist staged for Gastonia, NC near elevation 768 ft.
+
+Scope trace: gas water heater draft hood gap plus recirculation pump amp draw referenced in Gaston County county grid review.
+
+On-site sector marker: Gaston County / elevation 768 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28054-36c25e00

@@ -12,26 +12,41 @@ lng: -98.1200
 zipSample: ["78516"]
 zipCodes: ["78516"]
 localPaths: ["Hidalgo County / ZIP 78516 sector", "Hidalgo County / primary ZIP 78516", "Hidalgo County / elevation 118 ft band", "Hidalgo County / coords 26.1800, -98.1200"]
-zillowHomeValueUsd: 169099
 ---
 
-**Engineering Notice for Alamo:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Alamo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
 
 
-Homeowners in Alamo, TX often face sudden plumbing problems that require fast action.
+Expansion tank pre-charge loss in Alamo, TX often tracks heater replacement deferrals.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Alamo, TX, but intake notes help reduce delays.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Alamo, TX.
 
-We coordinate local dispatch coverage around Alamo, TX and nearby ZIP sectors.
+In Alamo, TX, slab leaks often present as warm spots before wall stains appear.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Polybutylene manifold tags in Alamo, TX basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 78516 intake.
+Tip: Save water heater serial plates for warranty traceability.
 
-Field note: Connection points spot-checked where accessible (ZIP 78516 zone).
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 78516 (county grid: Hidalgo County).
+Hose bib split patterns in Alamo, TX often follow missed winterization.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Trenchless pulls in Alamo, TX require pit dimensions verified against utility locate marks.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 78516.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Fixture roster 376042: toilet flange spacer kit and shower cartridge seat score queued for Alamo, TX walk-through.
+
+Scope trace: gas water heater draft hood gap plus fixture shutoff torque log referenced in Hidalgo County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~118 ft across the Hidalgo County area. Coordinates: 26.1800, -98.1200. ZIP sample: 78516. Logistics priority: Serving residential sectors across Hidalgo County and north-east ZIP 78516 grid.
 
 Service reference: TX-78516-292cff9f

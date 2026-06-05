@@ -12,24 +12,43 @@ lng: -116.7600
 zipSample: ["91901", "91903"]
 zipCodes: ["91901", "91903"]
 localPaths: ["San Diego County / ZIP 91903 sector", "San Diego County / coords 32.8400, -116.7600", "San Diego County / elevation 2133 ft band", "San Diego County / ZIP 91901 sector", "San Diego County / primary ZIP 91901"]
-zillowHomeValueUsd: 966666
 ---
 
-**Engineering Notice for Alpine:** Structural loading calculated based on 2133 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Alpine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should sump battery backups be load-tested? In Alpine, CA, before spring thaw and hurricane remnants.
 
-We coordinate local dispatch coverage around Alpine, CA and nearby ZIP sectors.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Trenchless sleeve pulls near Alpine, CA require pit shoring notes when water tables are high.
 
-Tip: avoid large upfront payments without milestones.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 91901/91903.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 91901, 91903 (county grid: San Diego County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+In Alpine, CA, slab leaks often present as warm spots before wall stains appear.
+
+Basement floor drains in Alpine, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: Is hydro-jetting always appropriate? In Alpine, CA, pipe material and blockage type dictate method.
+
+We coordinate Alpine, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Drain map 451174: camera-pass priority and expansion-tank pre-charge noted for Alpine, CA postal sector 91901.
+
+plumbing brief: fixture shutoff torque log and water softener bypass lever were cross-checked for the Alpine intake packet.
+
+Primary postal anchor 91901 with multi-ZIP overlap in Alpine; field packets tag San Diego County for county-grid reconciliation.
 
 Service reference: CA-91901-fad489ac

@@ -12,26 +12,43 @@ lng: -118.1700
 zipSample: ["90807", "90853", "90803", "90846", "90810"]
 zipCodes: ["90815", "90822", "90847", "90807", "90844", "90846", "90809", "90802", "90840", "90848", "90853", "90814"]
 localPaths: ["Los Angeles County / ZIP 90807 sector", "Los Angeles County / ZIP 90803 sector", "Los Angeles County / ZIP 90846 sector", "Los Angeles County / ZIP 90810 sector", "Los Angeles County / primary ZIP 90822"]
-zillowHomeValueUsd: 714531
 ---
 
-**Engineering Notice for Long Beach:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Long Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Long Beach, CA coverage windows and verified intake details.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Long Beach, CA basements should be photographed before any wall chase opens.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is cabling enough? In Long Beach, CA, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Long Beach, CA, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 90846/90853/90804.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 90846/90853/90804 coverage.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 90846, 90853, 90804, 90807, 90842 (county grid: Los Angeles County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Long Beach, CA.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 90822.
+
+Across Long Beach, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Pressure trace 300850: meter-pit clearance and dielectric union checklist staged for Long Beach, CA near elevation 187 ft.
+
+Flow dossier 300850: branch wet-vent geometry and jetting nozzle envelope logged for Long Beach, CA county grid Los Angeles County (ZIP 90822).
+
+plumbing brief: floor drain trap primer drip and copper pinhole cluster were cross-checked for the Long Beach intake packet.
+
+On-site sector marker: Los Angeles County / ZIP 90808 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90822-5684690e

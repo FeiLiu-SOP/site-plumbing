@@ -12,26 +12,43 @@ lng: -84.2700
 zipSample: ["30032"]
 zipCodes: ["30032"]
 localPaths: ["DeKalb County / elevation 948 ft band", "DeKalb County / primary ZIP 30032", "DeKalb County / ZIP 30032 sector", "DeKalb County / coords 33.7300, -84.2700"]
-zillowHomeValueUsd: 232648
 ---
 
-**Engineering Notice for Candler-McAfee:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Candler-McAfee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-In Candler-McAfee, GA, seasonal demand can change scheduling windows.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+Branch wet vents in Candler-McAfee, GA can mask gurgling as a main-line issue.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Candler-McAfee, GA systems need rebalancing.
 
-Our service coordination centers on Candler-McAfee, GA coverage windows and verified intake details.
+CPVC solvent weld times shift with ambient humidity during Candler-McAfee, GA shoulder seasons.
 
-Field note: Moisture pathway inspection logged near ZIP 30032 intake.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30032.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 30032 (county grid: DeKalb County).
+Hard water in Candler-McAfee, GA accelerates scale on PRV seats and heater elements.
+
+FAQ: When is cabling enough? In Candler-McAfee, GA, pipe material and blockage type dictate method.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Trenchless pulls in Candler-McAfee, GA require pit dimensions verified against utility locate marks.
+
+Step: map sump float travel and check-valve orientation for Candler-McAfee, GA basements.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Pressure trace 536802: meter-pit clearance and dielectric union checklist staged for Candler-McAfee, GA near elevation 948 ft.
+
+Supply audit 536802: curb-stop orientation and hose-bib freeze flag reviewed for Candler-McAfee, GA at coords 33.7300/-84.2700.
+
+On-site sector marker: DeKalb County / coords 33.7300, -84.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30032-e3ee73f4

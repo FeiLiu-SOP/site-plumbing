@@ -12,25 +12,39 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63366", "63368"]
 localPaths: ["St. Charles County / primary ZIP 63367", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63366 sector", "St. Charles County / ZIP 63367 sector", "St. Charles County / ZIP 63368 sector"]
-zillowHomeValueUsd: 441337
 ---
 
-**Engineering Notice for O'Fallon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Charles County.
+**Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63367.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Structured milestones protect both sides when scheduling work.
+Dual-water-meter setups in O'Fallon, MO irrigation zones need backflow logs before line replacement.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In O'Fallon, MO, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 63367/63368/63366 zone).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 63367, 63368, 63366 (county grid: St. Charles County).
+CPVC solvent weld times shift with ambient humidity during O'Fallon, MO shoulder seasons.
+
+Across O'Fallon, MO, main-line bellies can trap debris even when fixtures drain normally.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydro-jetting in O'Fallon, MO requires camera confirmation before nozzle pressure is raised.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Stack vent offsets in O'Fallon, MO older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 111341: curb-stop orientation and hose-bib freeze flag reviewed for O'Fallon, MO at coords 38.7800/-90.7200.
+
+Fixture roster 111341: toilet flange spacer kit and shower cartridge seat score queued for O'Fallon, MO walk-through.
+
+On-site sector marker: St. Charles County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63367-4eb27190

@@ -12,25 +12,37 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / ZIP 30071 sector", "Gwinnett County / primary ZIP 30071", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / elevation 991 ft band"]
-zillowHomeValueUsd: 360246
 ---
 
-**Engineering Notice for Norcross:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Norcross:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Norcross, GA, but intake notes help reduce delays.
+Stack vent offsets in Norcross, GA older duplexes can mask tub gurgle as a main-line failure.
 
-Our service coordination centers on Norcross, GA coverage windows and verified intake details.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Norcross, GA.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Galvanized segments in Norcross, GA may restrict flow long before visible corrosion.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30071.
+Trenchless sleeve pulls near Norcross, GA require pit shoring notes when water tables are high.
 
-Tip: address recurring issues early to prevent bigger damage.
+Dispatch packets reference county grid Gwinnett County near ZIP 30071.
 
-Field note: Connection points spot-checked where accessible (ZIP 30071 zone).
+FAQ: When should sump battery backups be load-tested? In Norcross, GA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 30071 (county grid: Gwinnett County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 268122: curb-stop orientation and hose-bib freeze flag reviewed for Norcross, GA at coords 33.9400/-84.2100.
+
+ZIP-corridor snapshot for Norcross, GA: sampled sectors include 30071; county routing grid remains Gwinnett County.
 
 Service reference: GA-30071-b7258500

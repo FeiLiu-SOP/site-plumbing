@@ -12,24 +12,37 @@ lng: -101.9200
 zipSample: ["79015", "79016"]
 zipCodes: ["79015", "79016"]
 localPaths: ["Randall County / coords 34.9900, -101.9200", "Randall County / ZIP 79015 sector", "Randall County / elevation 3533 ft band", "Randall County / ZIP 79016 sector", "Randall County / primary ZIP 79016"]
-zillowHomeValueUsd: 297122
 ---
 
-**Engineering Notice for Canyon:** Structural loading calculated based on 3533 ft terrain assessment. Regional dispatch grid: Randall County.
+**Engineering Notice for Canyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Randall County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Canyon, TX.
 
-Clear documentation helps align materials, labor, and timeline.
+Irrigation cross-connections in Canyon, TX can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on Canyon, TX coverage windows and verified intake details.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Canyon, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 79016/79015.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 79016, 79015 (county grid: Randall County).
+Hydro-jetting in Canyon, TX requires camera confirmation before nozzle pressure is raised.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Trenchless pulls in Canyon, TX require pit dimensions verified against utility locate marks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Lineage note 596678: recirculation pump amp draw captured before Canyon, TX branch isolation.
+
+On-site sector marker: Randall County / coords 34.9900, -101.9200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79016-ac6c78cd

@@ -12,24 +12,39 @@ lng: -88.4100
 zipSample: ["39705", "39702", "39701"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / coords 33.5100, -88.4100", "Lowndes County / primary ZIP 39702", "Lowndes County / ZIP 39705 sector", "Lowndes County / ZIP 39702 sector", "Lowndes County / ZIP 39701 sector"]
-zillowHomeValueUsd: 173303
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Lowndes County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lowndes County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Water heater anode type may change with Columbus, MS hardness profiles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+CPVC solvent weld times shift with ambient humidity during Columbus, MS shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 39702.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Columbus, MS, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Wind exposure category reviewed for ZIP sector 39705/39702/39701.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 39705, 39702, 39701 (county grid: Lowndes County).
+Polybutylene manifold tags in Columbus, MS basements should be photographed before any wall chase opens.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dispatch packets reference county grid Lowndes County near ZIP 39702.
+
+Frost-free sillcock failures in Columbus, MS often trace to interior shutoff seats, not exterior stems.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Pressure trace 429616: meter-pit clearance and dielectric union checklist staged for Columbus, MS near elevation 180 ft.
+
+Lineage note 429616: recirculation pump amp draw captured before Columbus, MS branch isolation.
+
+On-site sector marker: Lowndes County / ZIP 39701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39702-93f0f175

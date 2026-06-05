@@ -12,24 +12,41 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / primary ZIP 28031", "Mecklenburg County / coords 35.4700, -80.8800", "Mecklenburg County / ZIP 28031 sector", "Mecklenburg County / elevation 768 ft band"]
-zillowHomeValueUsd: 544178
 ---
 
-**Engineering Notice for Cornelius:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Cornelius:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: compare at least two estimates for scope and timeline.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 28031.
 
-Transparent pricing helps you compare like-for-like scope items.
+Water heater T&P discharge paths in Cornelius, NC must terminate safely before replacement quotes.
 
-Field note: Connection points spot-checked where accessible (ZIP 28031 zone).
+Irrigation cross-connections in Cornelius, NC can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 28031 (county grid: Mecklenburg County).
+Tip: Save water heater serial plates for warranty traceability.
+
+Frost-free sillcock failures in Cornelius, NC often trace to interior shutoff seats, not exterior stems.
+
+We coordinate Cornelius, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Risk flag: In Cornelius, NC, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Trenchless sleeve pulls near Cornelius, NC require pit shoring notes when water tables are high.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Supply audit 286470: curb-stop orientation and hose-bib freeze flag reviewed for Cornelius, NC at coords 35.4700/-80.8800.
+
+Lineage note 286470: recirculation pump amp draw captured before Cornelius, NC branch isolation.
+
+Coordinate-anchored dispatch note: center reference 35.4700, -80.8800 at elevation ~768 ft aligns with Mecklenburg County intake staging.
 
 Service reference: NC-28031-cf24058b

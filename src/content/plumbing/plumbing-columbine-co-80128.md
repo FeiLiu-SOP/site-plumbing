@@ -12,26 +12,43 @@ lng: -105.0700
 zipSample: ["80123", "80128"]
 zipCodes: ["80123", "80128"]
 localPaths: ["Jefferson County / coords 39.5900, -105.0700", "Jefferson County / ZIP 80123 sector", "Jefferson County / ZIP 80128 sector", "Jefferson County / elevation 5554 ft band", "Jefferson County / primary ZIP 80128"]
-zillowHomeValueUsd: 602624
 ---
 
-**Engineering Notice for Columbine:** Structural loading calculated based on 5554 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Columbine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-We coordinate local dispatch coverage around Columbine, CO and nearby ZIP sectors.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should sump battery backups be load-tested? In Columbine, CO, before spring thaw and hurricane remnants.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in Columbine, CO often tracks heater replacement deferrals.
 
-Local conditions in Columbine, CO can affect timelines and material choices.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Connection points spot-checked where accessible (ZIP 80123/80128 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 80123/80128 intake.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 80128.
 
-Dispatch sectors sampled: ZIP 80123, 80128 (county grid: Jefferson County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Dispatch packets reference county grid Jefferson County near ZIP 80128.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Columbine, CO systems need rebalancing.
+
+Dual-water-meter setups in Columbine, CO irrigation zones need backflow logs before line replacement.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 80128.
+
+Sewer gas odors in Columbine, CO should trigger trap seal and vent path review.
+
+Supply audit 727864: curb-stop orientation and hose-bib freeze flag reviewed for Columbine, CO at coords 39.5900/-105.0700.
+
+Flow dossier 727864: branch wet-vent geometry and jetting nozzle envelope logged for Columbine, CO county grid Jefferson County (ZIP 80128).
+
+On-site sector marker: Jefferson County / coords 39.5900, -105.0700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80128-cac22f37

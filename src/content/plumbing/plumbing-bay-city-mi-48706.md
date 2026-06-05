@@ -12,24 +12,43 @@ lng: -83.8900
 zipSample: ["48708", "48706"]
 zipCodes: ["48708", "48706"]
 localPaths: ["Bay County / ZIP 48706 sector", "Bay County / elevation 600 ft band", "Bay County / primary ZIP 48706", "Bay County / coords 43.5900, -83.8900", "Bay County / ZIP 48708 sector"]
-zillowHomeValueUsd: 184973
 ---
 
-**Engineering Notice for Bay City:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Bay County.
+**Engineering Notice for Bay City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bay County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: confirm licensing and insurance before approving work.
+Basement floor drains in Bay City, MI should be snaked only after trap arm geometry is confirmed on camera.
 
-Clear documentation helps align materials, labor, and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Bay City, MI.
 
-Field note: Wind exposure category reviewed for ZIP sector 48706/48708.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 48706, 48708 (county grid: Bay County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 48706.
+
+FAQ: When should sump battery backups be load-tested? In Bay City, MI, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Cast-iron hub corrosion in Bay City, MI often concentrates at the third joint upstream of the cleanout.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Lineage note 921141: recirculation pump amp draw captured before Bay City, MI branch isolation.
+
+plumbing brief: water softener bypass lever and hose bib freeze flag were cross-checked for the Bay City intake packet.
+
+On-site sector marker: Bay County / ZIP 48706 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48706-3969c029

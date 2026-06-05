@@ -12,24 +12,39 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / primary ZIP 46041", "Clinton County / coords 40.2800, -86.5200", "Clinton County / elevation 866 ft band", "Clinton County / ZIP 46041 sector"]
-zillowHomeValueUsd: 209995
 ---
 
-**Engineering Notice for Frankfort:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Frankfort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Frankfort, IN, but intake notes help reduce delays.
+Galvanized segments in Frankfort, IN may restrict flow long before visible corrosion.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Access points and staging constraints recorded for ZIP 46041 coverage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Frankfort, IN systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 46041 (county grid: Clinton County).
+Trenchless sleeve pulls near Frankfort, IN require pit shoring notes when water tables are high.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Permit note: Main water line replacement in Frankfort, IN may require ROW restoration planning.
+
+Lineage note 101390: recirculation pump amp draw captured before Frankfort, IN branch isolation.
+
+On-site sector marker: Clinton County / elevation 866 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46041-0e2477d1

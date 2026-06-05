@@ -12,26 +12,39 @@ lng: -109.2200
 zipSample: ["82901", "82902"]
 zipCodes: ["82902", "82901"]
 localPaths: ["Sweetwater County / ZIP 82902 sector", "Sweetwater County / coords 41.5900, -109.2200", "Sweetwater County / ZIP 82901 sector", "Sweetwater County / primary ZIP 82901", "Sweetwater County / elevation 6283 ft band"]
-zillowHomeValueUsd: 289216
 ---
 
-**Engineering Notice for Rock Springs:** Structural loading calculated based on 6283 ft terrain assessment. Regional dispatch grid: Sweetwater County.
+**Engineering Notice for Rock Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sweetwater County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Rock Springs, WY systems need rebalancing.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Main water line replacement in Rock Springs, WY may require ROW restoration planning.
 
-Clear documentation helps align materials, labor, and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on Rock Springs, WY coverage windows and verified intake details.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Connection points spot-checked where accessible (ZIP 82902/82901 zone).
+Polybutylene manifold tags in Rock Springs, WY basements should be photographed before any wall chase opens.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 82902/82901.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 82902, 82901 (county grid: Sweetwater County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Irrigation cross-connections in Rock Springs, WY can back-siphon domestic lines during main breaks.
+
+Basement floor drains in Rock Springs, WY should be snaked only after trap arm geometry is confirmed on camera.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Lineage note 713161: recirculation pump amp draw captured before Rock Springs, WY branch isolation.
+
+Drain map 713161: camera-pass priority and expansion-tank pre-charge noted for Rock Springs, WY postal sector 82901.
+
+Primary postal anchor 82901 with multi-ZIP overlap in Rock Springs; field packets tag Sweetwater County for county-grid reconciliation.
 
 Service reference: WY-82901-3a22c5e6

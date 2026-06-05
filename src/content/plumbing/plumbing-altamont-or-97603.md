@@ -12,26 +12,41 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / primary ZIP 97603", "Klamath County / elevation 4140 ft band", "Klamath County / ZIP 97603 sector", "Klamath County / coords 42.2000, -121.7200"]
-zillowHomeValueUsd: 325543
 ---
 
-**Engineering Notice for Altamont:** Structural loading calculated based on 4140 ft terrain assessment. Regional dispatch grid: Klamath County.
+**Engineering Notice for Altamont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Klamath County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+We coordinate Altamont, OR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Local conditions in Altamont, OR can affect timelines and material choices.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: camera-pass main lines in Altamont, OR before jetting older clay or cast iron.
 
-Our service coordination centers on Altamont, OR coverage windows and verified intake details.
+Permit note: Main water line replacement in Altamont, OR may require ROW restoration planning.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless pulls in Altamont, OR require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 97603 coverage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Moisture pathway inspection logged near ZIP 97603 intake.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 97603 (county grid: Klamath County).
+Risk flag: Seasonal Altamont, OR irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Altamont, OR systems need rebalancing.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Irrigation cross-connections in Altamont, OR can back-siphon domestic lines during main breaks.
+
+Fixture roster 450985: toilet flange spacer kit and shower cartridge seat score queued for Altamont, OR walk-through.
+
+Intake ledger 450985: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Altamont, OR at 42.2000, -121.7200.
+
+Coordinate-anchored dispatch note: center reference 42.2000, -121.7200 at elevation ~4140 ft aligns with Klamath County intake staging.
 
 Service reference: OR-97603-2103fe26

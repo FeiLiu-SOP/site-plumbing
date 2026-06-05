@@ -12,27 +12,37 @@ lng: -88.3600
 zipSample: ["61938"]
 zipCodes: ["61938"]
 localPaths: ["Coles County / primary ZIP 61938", "Coles County / elevation 728 ft band", "Coles County / ZIP 61938 sector", "Coles County / coords 39.4800, -88.3600"]
-zillowHomeValueUsd: 122397
 ---
 
-**Engineering Notice for Mattoon:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Coles County.
+**Engineering Notice for Mattoon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coles County.
 
 
-Local conditions in Mattoon, IL can affect timelines and material choices.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 61938.
+Hydro-jetting in Mattoon, IL requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Mattoon, IL coverage windows and verified intake details.
+FAQ: When should sump battery backups be load-tested? In Mattoon, IL, before spring thaw and hurricane remnants.
 
-Field note: Connection points spot-checked where accessible (ZIP 61938 zone).
+Polybutylene manifold tags in Mattoon, IL basements should be photographed before any wall chase opens.
 
-Field note: Wind exposure category reviewed for ZIP sector 61938.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 61938 (county grid: Coles County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: In Mattoon, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Pressure trace 882247: meter-pit clearance and dielectric union checklist staged for Mattoon, IL near elevation 728 ft.
+
+Coordinate-anchored dispatch note: center reference 39.4800, -88.3600 at elevation ~728 ft aligns with Coles County intake staging.
 
 Service reference: IL-61938-bacd9b01

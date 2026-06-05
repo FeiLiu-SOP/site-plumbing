@@ -12,27 +12,41 @@ lng: -77.1900
 zipSample: ["22106", "22103", "22102", "22108", "22107"]
 zipCodes: ["22043", "22106", "22101", "22046", "22102", "22108", "22109", "22103", "22067", "22107"]
 localPaths: ["Fairfax County / ZIP 22102 sector", "Fairfax County / primary ZIP 22046", "Fairfax County / coords 38.9400, -77.1900", "Fairfax County / ZIP 22103 sector", "Fairfax County / ZIP 22106 sector"]
-zillowHomeValueUsd: 1052490
 ---
 
-**Engineering Notice for McLean:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for McLean:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal McLean, VA irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+CPVC solvent weld times shift with ambient humidity during McLean, VA shoulder seasons.
 
-Tip: avoid large upfront payments without milestones.
+Water heater T&P discharge paths in McLean, VA must terminate safely before replacement quotes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22046.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hydrostatic holds in McLean, VA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Connection points spot-checked where accessible (ZIP 22103/22102/22067 zone).
+Hydro-jetting in McLean, VA requires camera confirmation before nozzle pressure is raised.
 
-Field note: Access points and staging constraints recorded for ZIP 22103/22102/22067 coverage.
+Permit note: Main water line replacement in McLean, VA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 22103, 22102, 22067, 22046, 22108 (county grid: Fairfax County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 22046.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Stack vent offsets in McLean, VA older duplexes can mask tub gurgle as a main-line failure.
+
+We coordinate McLean, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Fixture shutoff stiffness in McLean, VA may indicate mineral bridging behind stems.
+
+Trenchless sleeve pulls near McLean, VA require pit shoring notes when water tables are high.
+
+Supply audit 695188: curb-stop orientation and hose-bib freeze flag reviewed for McLean, VA at coords 38.9400/-77.1900.
+
+Scope trace: dielectric union checklist plus sewer cleanout cap thread referenced in Fairfax County county grid review.
+
+ZIP-corridor snapshot for McLean, VA: sampled sectors include 22101, 22067, 22043, 22109, 22046, 22103, 22107, 22106; county routing grid remains Fairfax County.
 
 Service reference: VA-22046-e7e8e550

@@ -12,24 +12,43 @@ lng: -94.3700
 zipSample: ["72901", "72908", "72903", "72916", "72917"]
 zipCodes: ["72914", "72916", "72908", "72923", "72906", "72904", "72903", "72919", "72901", "72917", "72918", "72913"]
 localPaths: ["Sebastian County / ZIP 72908 sector", "Sebastian County / elevation 476 ft band", "Sebastian County / primary ZIP 72908", "Sebastian County / ZIP 72916 sector", "Sebastian County / ZIP 72903 sector"]
-zillowHomeValueUsd: 229104
 ---
 
-**Engineering Notice for Fort Smith:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Sebastian County.
+**Engineering Notice for Fort Smith:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sebastian County.
 
 
-In Fort Smith, AR, seasonal demand can change scheduling windows.
+Basement floor drains in Fort Smith, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+CPVC solvent weld times shift with ambient humidity during Fort Smith, AR shoulder seasons.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: request a written scope before work starts.
+Risk flag: In Fort Smith, AR, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 72908/72901/72917 zone).
+Risk flag: Seasonal Fort Smith, AR irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 72908, 72901, 72917, 72923, 72918 (county grid: Sebastian County).
+Trenchless sleeve pulls near Fort Smith, AR require pit shoring notes when water tables are high.
+
+Hydrostatic holds in Fort Smith, AR slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: Water heater anode type may change with Fort Smith, AR hardness profiles.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+In Fort Smith, AR, slab leaks often present as warm spots before wall stains appear.
+
+Polybutylene manifold tags in Fort Smith, AR basements should be photographed before any wall chase opens.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 936779: toilet flange spacer kit and shower cartridge seat score queued for Fort Smith, AR walk-through.
+
+Flow dossier 936779: branch wet-vent geometry and jetting nozzle envelope logged for Fort Smith, AR county grid Sebastian County (ZIP 72908).
+
+Coordinate-anchored dispatch note: center reference 35.3500, -94.3700 at elevation ~476 ft aligns with Sebastian County intake staging.
 
 Service reference: AR-72908-24e85945

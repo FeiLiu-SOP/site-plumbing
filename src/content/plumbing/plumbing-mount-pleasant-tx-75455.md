@@ -12,26 +12,41 @@ lng: -94.9700
 zipSample: ["75455", "75456"]
 zipCodes: ["75455", "75456"]
 localPaths: ["Titus County / ZIP 75456 sector", "Titus County / ZIP 75455 sector", "Titus County / elevation 410 ft band", "Titus County / primary ZIP 75455", "Titus County / coords 33.1600, -94.9700"]
-zillowHomeValueUsd: 227619
 ---
 
-**Engineering Notice for Mount Pleasant:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Titus County.
+**Engineering Notice for Mount Pleasant:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Titus County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 75455.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: request a written scope before work starts.
+Material note: Water heater anode type may change with Mount Pleasant, TX hardness profiles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Recirculation pump failures in Mount Pleasant, TX can mimic fixture-specific clogs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 75455/75456 coverage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 75455/75456 intake.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 75455, 75456 (county grid: Titus County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 75455.
+
+Supply audit 620080: curb-stop orientation and hose-bib freeze flag reviewed for Mount Pleasant, TX at coords 33.1600/-94.9700.
+
+On-site sector marker: Titus County / ZIP 75456 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75455-6c324792

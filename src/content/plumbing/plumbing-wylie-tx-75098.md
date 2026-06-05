@@ -12,24 +12,43 @@ lng: -96.5200
 zipSample: ["75166", "75098", "75173"]
 zipCodes: ["75166", "75098", "75173"]
 localPaths: ["Collin County / coords 33.0400, -96.5200", "Collin County / ZIP 75166 sector", "Collin County / primary ZIP 75098", "Collin County / ZIP 75098 sector", "Collin County / elevation 525 ft band"]
-zillowHomeValueUsd: 423157
 ---
 
-**Engineering Notice for Wylie:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Wylie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
 
 
-Tip: request a written scope before work starts.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 75098.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: avoid large upfront payments without milestones.
+Trenchless sleeve pulls near Wylie, TX require pit shoring notes when water tables are high.
 
-Field note: Moisture pathway inspection logged near ZIP 75098/75173/75166 intake.
+Stack vent offsets in Wylie, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 75098, 75173, 75166 (county grid: Collin County).
+Irrigation cross-connections in Wylie, TX can back-siphon domestic lines during main breaks.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Frost-free sillcock failures in Wylie, TX often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Seasonal Wylie, TX irrigation cross-connections can mask domestic pressure loss.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Fixture roster 506633: toilet flange spacer kit and shower cartridge seat score queued for Wylie, TX walk-through.
+
+Flow dossier 506633: branch wet-vent geometry and jetting nozzle envelope logged for Wylie, TX county grid Collin County (ZIP 75098).
+
+Scope trace: dielectric union checklist plus fixture shutoff torque log referenced in Collin County county grid review.
+
+Primary postal anchor 75098 with multi-ZIP overlap in Wylie; field packets tag Collin County for county-grid reconciliation.
 
 Service reference: TX-75098-f99740b1

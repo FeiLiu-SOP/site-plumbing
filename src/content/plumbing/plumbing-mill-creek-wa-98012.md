@@ -12,24 +12,39 @@ lng: -122.2000
 zipSample: ["98082", "98012"]
 zipCodes: ["98012", "98082"]
 localPaths: ["Snohomish County / coords 47.8600, -122.2000", "Snohomish County / ZIP 98012 sector", "Snohomish County / elevation 433 ft band", "Snohomish County / ZIP 98082 sector", "Snohomish County / primary ZIP 98012"]
-zillowHomeValueUsd: 999065
 ---
 
-**Engineering Notice for Mill Creek:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mill Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-Homeowners in Mill Creek, WA often face sudden plumbing problems that require fast action.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+Branch wet vents in Mill Creek, WA can mask gurgling as a main-line issue.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should sump battery backups be load-tested? In Mill Creek, WA, before spring thaw and hurricane remnants.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mill Creek, WA, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98012/98082.
+Trenchless sleeve pulls near Mill Creek, WA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 98012, 98082 (county grid: Snohomish County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Polybutylene manifold tags in Mill Creek, WA basements should be photographed before any wall chase opens.
+
+CPVC solvent weld times shift with ambient humidity during Mill Creek, WA shoulder seasons.
+
+Hard water in Mill Creek, WA accelerates scale on PRV seats and heater elements.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Basement floor drains in Mill Creek, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Lineage note 463000: recirculation pump amp draw captured before Mill Creek, WA branch isolation.
+
+Scope trace: sump float travel plus PEX expansion ring batch referenced in Snohomish County county grid review.
+
+On-site sector marker: Snohomish County / ZIP 98012 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98012-de0000f1

@@ -12,26 +12,43 @@ lng: -89.0000
 zipSample: ["61111", "61011", "61132", "61131", "61130"]
 zipCodes: ["61111", "61131", "61011", "61130", "61132"]
 localPaths: ["Winnebago County / elevation 866 ft band", "Winnebago County / primary ZIP 61111", "Winnebago County / ZIP 61011 sector", "Winnebago County / coords 42.3400, -89.0000", "Winnebago County / ZIP 61130 sector"]
-zillowHomeValueUsd: 198695
 ---
 
-**Engineering Notice for Loves Park:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Loves Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stack vent offsets in Loves Park, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: avoid large upfront payments without milestones.
+Hose bib split patterns in Loves Park, IL often follow missed winterization.
 
-In Loves Park, IL, seasonal demand can change scheduling windows.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 61130/61011/61132.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 61130/61011/61132 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 61130, 61011, 61132, 61131, 61111 (county grid: Winnebago County).
+Risk flag: Seasonal Loves Park, IL irrigation cross-connections can mask domestic pressure loss.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Basement floor drains in Loves Park, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Trenchless sleeve pulls near Loves Park, IL require pit shoring notes when water tables are high.
+
+Step: map sump float travel and check-valve orientation for Loves Park, IL basements.
+
+Risk flag: In Loves Park, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Intake ledger 525964: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Loves Park, IL at 42.3400, -89.0000.
+
+Lineage note 525964: recirculation pump amp draw captured before Loves Park, IL branch isolation.
+
+Primary postal anchor 61111 with multi-ZIP overlap in Loves Park; field packets tag Winnebago County for county-grid reconciliation.
 
 Service reference: IL-61111-ab662754

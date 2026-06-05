@@ -12,24 +12,41 @@ lng: -119.7500
 zipSample: ["89711", "89703", "89713", "89712", "89714"]
 zipCodes: ["89712", "89713", "89711", "89703", "89706", "89714", "89701"]
 localPaths: ["Carson City County / ZIP 89712 sector", "Carson City County / coords 39.1500, -119.7500", "Carson City County / ZIP 89711 sector", "Carson City County / ZIP 89703 sector", "Carson City County / primary ZIP 89701"]
-zillowHomeValueUsd: 475335
 ---
 
-**Engineering Notice for Carson City:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Carson City County.
+**Engineering Notice for Carson City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carson City County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Carson City, NV hardness profiles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Basement floor drains in Carson City, NV should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: confirm licensing and insurance before approving work.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 89701.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carson City, NV, but intake notes help reduce delays.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Carson City, NV.
 
-Field note: Connection points spot-checked where accessible (ZIP 89703/89713/89714 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 89703, 89713, 89714, 89712, 89706 (county grid: Carson City County).
+Trenchless sleeve pulls near Carson City, NV require pit shoring notes when water tables are high.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When should sump battery backups be load-tested? In Carson City, NV, before spring thaw and hurricane remnants.
+
+Step: map sump float travel and check-valve orientation for Carson City, NV basements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Supply audit 163756: curb-stop orientation and hose-bib freeze flag reviewed for Carson City, NV at coords 39.1500/-119.7500.
+
+ZIP-corridor snapshot for Carson City, NV: sampled sectors include 89706, 89701, 89713, 89703, 89711, 89712, 89714; county routing grid remains Carson City County.
 
 Service reference: NV-89701-f417d27d

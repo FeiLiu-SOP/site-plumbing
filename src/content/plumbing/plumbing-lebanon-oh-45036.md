@@ -12,24 +12,39 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / ZIP 45036 sector", "Warren County / primary ZIP 45036", "Warren County / elevation 764 ft band"]
-zillowHomeValueUsd: 405119
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
 
 
-Tip: request a written scope before work starts.
+Hose bib split patterns in Lebanon, OH often follow missed winterization.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Frost-free sillcock failures in Lebanon, OH often trace to interior shutoff seats, not exterior stems.
 
-In Lebanon, OH, seasonal demand can change scheduling windows.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 45036 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 45036 (county grid: Warren County).
+Step: log PRV inlet and outlet readings during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Lebanon, OH should be snaked only after trap arm geometry is confirmed on camera.
+
+Polybutylene manifold tags in Lebanon, OH basements should be photographed before any wall chase opens.
+
+Risk flag: Seasonal Lebanon, OH irrigation cross-connections can mask domestic pressure loss.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 45036.
+
+Flow dossier 342912: branch wet-vent geometry and jetting nozzle envelope logged for Lebanon, OH county grid Warren County (ZIP 45036).
+
+On-site sector marker: Warren County / ZIP 45036 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45036-97fe40e4

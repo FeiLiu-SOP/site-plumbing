@@ -12,26 +12,43 @@ lng: -77.5200
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / elevation 292 ft band", "Prince William County / ZIP 20109 sector", "Prince William County / coords 38.7800, -77.5200", "Prince William County / primary ZIP 20109"]
-zillowHomeValueUsd: 456327
 ---
 
-**Engineering Notice for Bull Run:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Bull Run:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-Tip: request a written scope before work starts.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Bull Run, VA basements should be photographed before any wall chase opens.
 
-Tip: avoid large upfront payments without milestones.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20109.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Bull Run, VA may require ROW restoration planning.
 
-Field note: Access points and staging constraints recorded for ZIP 20109 coverage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 20109 intake.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 20109 (county grid: Prince William County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Dual-water-meter setups in Bull Run, VA irrigation zones need backflow logs before line replacement.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+CPVC solvent weld times shift with ambient humidity during Bull Run, VA shoulder seasons.
+
+Hydrostatic holds in Bull Run, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Intake ledger 600319: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bull Run, VA at 38.7800, -77.5200.
+
+Fixture roster 600319: toilet flange spacer kit and shower cartridge seat score queued for Bull Run, VA walk-through.
+
+On-site sector marker: Prince William County / ZIP 20109 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20109-583dbd1e

@@ -12,24 +12,41 @@ lng: -76.8900
 zipSample: ["20768", "20770"]
 zipCodes: ["20768", "20770"]
 localPaths: ["Prince George's County / coords 39.0000, -76.8900", "Prince George's County / primary ZIP 20770", "Prince George's County / ZIP 20768 sector", "Prince George's County / ZIP 20770 sector", "Prince George's County / elevation 167 ft band"]
-zillowHomeValueUsd: 278905
 ---
 
-**Engineering Notice for Greenbelt:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Greenbelt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Greenbelt, MD, but intake notes help reduce delays.
+Recirculation pump failures in Greenbelt, MD can mimic fixture-specific clogs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 20770.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hose bib split patterns in Greenbelt, MD often follow missed winterization.
 
-Our service coordination centers on Greenbelt, MD coverage windows and verified intake details.
+Galvanized segments in Greenbelt, MD may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 20770/20768 coverage.
+Sewer gas odors in Greenbelt, MD should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 20770, 20768 (county grid: Prince George's County).
+Cast-iron hub corrosion in Greenbelt, MD often concentrates at the third joint upstream of the cleanout.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 20770.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Greenbelt, MD.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Hydrostatic holds in Greenbelt, MD slab circuits run overnight when listening mics show ambiguous hits.
+
+Trenchless sleeve pulls near Greenbelt, MD require pit shoring notes when water tables are high.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 930107: meter-pit clearance and dielectric union checklist staged for Greenbelt, MD near elevation 167 ft.
+
+plumbing brief: toilet flange spacer kit and sewer cleanout cap thread were cross-checked for the Greenbelt intake packet.
+
+On-site sector marker: Prince George's County / ZIP 20770 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20770-e39e841e

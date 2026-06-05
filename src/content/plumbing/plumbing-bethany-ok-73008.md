@@ -12,26 +12,41 @@ lng: -97.6400
 zipSample: ["73008"]
 zipCodes: ["73008"]
 localPaths: ["Oklahoma County / primary ZIP 73008", "Oklahoma County / ZIP 73008 sector", "Oklahoma County / elevation 1332 ft band", "Oklahoma County / coords 35.5100, -97.6400"]
-zillowHomeValueUsd: 178850
 ---
 
-**Engineering Notice for Bethany:** Structural loading calculated based on 1332 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Bethany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Main water line replacement in Bethany, OK may require ROW restoration planning.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map sump float travel and check-valve orientation for Bethany, OK basements.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Homeowners in Bethany, OK often face sudden plumbing problems that require fast action.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73008.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 73008.
+Polybutylene manifold tags in Bethany, OK basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 73008 (county grid: Oklahoma County).
+Frost-free sillcock failures in Bethany, OK often trace to interior shutoff seats, not exterior stems.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Hydrostatic holds in Bethany, OK slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Pressure trace 246529: meter-pit clearance and dielectric union checklist staged for Bethany, OK near elevation 1332 ft.
+
+Field routing: recirculation pump amp draw paired with water softener bypass lever near ZIP 73008.
+
+ZIP-corridor snapshot for Bethany, OK: sampled sectors include 73008; county routing grid remains Oklahoma County.
 
 Service reference: OK-73008-3668bf56

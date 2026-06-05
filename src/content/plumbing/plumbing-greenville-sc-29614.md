@@ -12,24 +12,39 @@ lng: -82.3600
 zipSample: ["29607", "29603", "29609", "29602", "29614"]
 zipCodes: ["29603", "29614", "29601", "29612", "29605", "29602", "29616", "29604", "29607", "29609"]
 localPaths: ["Greenville County / primary ZIP 29614", "Greenville County / elevation 958 ft band", "Greenville County / ZIP 29609 sector", "Greenville County / coords 34.8400, -82.3600", "Greenville County / ZIP 29603 sector"]
-zillowHomeValueUsd: 380733
 ---
 
-**Engineering Notice for Greenville:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Greenville, SC, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document dielectric unions before mixed-metal replacements.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 29612/29607/29609 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 29612, 29607, 29609, 29616, 29601 (county grid: Greenville County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Greenville, SC systems need rebalancing.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hard water in Greenville, SC accelerates scale on PRV seats and heater elements.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: map sump float travel and check-valve orientation for Greenville, SC basements.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 126053: recirculation pump amp draw captured before Greenville, SC branch isolation.
+
+On-site sector marker: Greenville County / ZIP 29603 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29614-7b7e4c36

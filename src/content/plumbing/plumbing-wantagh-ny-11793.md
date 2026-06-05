@@ -12,26 +12,43 @@ lng: -73.5100
 zipSample: ["11793"]
 zipCodes: ["11793"]
 localPaths: ["Nassau County / ZIP 11793 sector", "Nassau County / elevation 33 ft band", "Nassau County / coords 40.6700, -73.5100", "Nassau County / primary ZIP 11793"]
-zillowHomeValueUsd: 800268
 ---
 
-**Engineering Notice for Wantagh:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Wantagh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 11793.
 
-We coordinate local dispatch coverage around Wantagh, NY and nearby ZIP sectors.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: request a written scope before work starts.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wantagh, NY, but intake notes help reduce delays.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-In Wantagh, NY, urgent plumbing issues can escalate quickly.
+In Wantagh, NY, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Moisture pathway inspection logged near ZIP 11793 intake.
+Sewer gas odors in Wantagh, NY should trigger trap seal and vent path review.
 
-Field note: Connection points spot-checked where accessible (ZIP 11793 zone).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 11793 (county grid: Nassau County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydrostatic holds in Wantagh, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Galvanized segments in Wantagh, NY may restrict flow long before visible corrosion.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hose bib split patterns in Wantagh, NY often follow missed winterization.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Flow dossier 724250: branch wet-vent geometry and jetting nozzle envelope logged for Wantagh, NY county grid Nassau County (ZIP 11793).
+
+Lineage note 724250: recirculation pump amp draw captured before Wantagh, NY branch isolation.
+
+Field routing: water heater T&P path paired with sump float travel near ZIP 11793.
+
+**Regional Infrastructure Brief:** Grid anchor set to Nassau County. Reference elevation: 33 ft. Primary coordinates: 40.6700, -73.5100. ZIP sample: 11793. Regional routing note: Nassau County traffic flow is balanced around ZIP 11793 service demand.
 
 Service reference: NY-11793-c189da4c

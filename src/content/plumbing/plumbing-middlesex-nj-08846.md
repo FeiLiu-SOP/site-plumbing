@@ -12,26 +12,45 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / coords 40.5700, -74.5000", "Middlesex County / elevation 52 ft band", "Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846"]
-zillowHomeValueUsd: 537801
 ---
 
-**Engineering Notice for Middlesex:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Middlesex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 08846.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Middlesex, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in Middlesex, NJ slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Connection points spot-checked where accessible (ZIP 08846 zone).
+Irrigation cross-connections in Middlesex, NJ can back-siphon domestic lines during main breaks.
 
-Field note: Access points and staging constraints recorded for ZIP 08846 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 08846 (county grid: Middlesex County).
+CPVC solvent weld times shift with ambient humidity during Middlesex, NJ shoulder seasons.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Dispatch packets reference county grid Middlesex County near ZIP 08846.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Cleanout access limits in Middlesex, NJ frequently extend drain cleaning duration.
+
+FAQ: When should sump battery backups be load-tested? In Middlesex, NJ, before spring thaw and hurricane remnants.
+
+Flow dossier 510126: branch wet-vent geometry and jetting nozzle envelope logged for Middlesex, NJ county grid Middlesex County (ZIP 08846).
+
+Lineage note 510126: recirculation pump amp draw captured before Middlesex, NJ branch isolation.
+
+Scope trace: sewer cleanout cap thread plus PRV outlet curve referenced in Middlesex County county grid review.
+
+On-site sector marker: Middlesex County / coords 40.5700, -74.5000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08846-46c9eb4d

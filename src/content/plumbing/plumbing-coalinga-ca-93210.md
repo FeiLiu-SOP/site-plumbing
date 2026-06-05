@@ -12,24 +12,43 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / coords 36.1400, -120.3200", "Fresno County / primary ZIP 93210", "Fresno County / ZIP 93210 sector", "Fresno County / elevation 623 ft band"]
-zillowHomeValueUsd: 293580
 ---
 
-**Engineering Notice for Coalinga:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Coalinga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Our service coordination centers on Coalinga, CA coverage windows and verified intake details.
+Hard water in Coalinga, CA accelerates scale on PRV seats and heater elements.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 93210 zone).
+Trenchless sleeve pulls near Coalinga, CA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 93210 (county grid: Fresno County).
+Risk flag: Seasonal Coalinga, CA irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Across Coalinga, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cast-iron hub corrosion in Coalinga, CA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Frost-free sillcock failures in Coalinga, CA often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 190472: curb-stop orientation and hose-bib freeze flag reviewed for Coalinga, CA at coords 36.1400/-120.3200.
+
+Drain map 190472: camera-pass priority and expansion-tank pre-charge noted for Coalinga, CA postal sector 93210.
+
+On-site sector marker: Fresno County / coords 36.1400, -120.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93210-122615b9

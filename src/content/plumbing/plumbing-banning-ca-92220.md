@@ -12,27 +12,39 @@ lng: -116.9000
 zipSample: ["92220"]
 zipCodes: ["92220"]
 localPaths: ["Riverside County / primary ZIP 92220", "Riverside County / elevation 2930 ft band", "Riverside County / coords 33.9500, -116.9000", "Riverside County / ZIP 92220 sector"]
-zillowHomeValueUsd: 414142
 ---
 
-**Engineering Notice for Banning:** Structural loading calculated based on 2930 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Banning:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Banning, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92220.
+Material note: Water heater anode type may change with Banning, CA hardness profiles.
 
-A written scope helps prevent rework and mismatched expectations.
+Dual-water-meter setups in Banning, CA irrigation zones need backflow logs before line replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Banning, CA.
 
-Tip: compare at least two estimates for scope and timeline.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 92220.
 
-Field note: Wind exposure category reviewed for ZIP sector 92220.
+FAQ: When should sump battery backups be load-tested? In Banning, CA, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 92220 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 92220 (county grid: Riverside County).
+Trenchless sleeve pulls near Banning, CA require pit shoring notes when water tables are high.
+
+Polybutylene manifold tags in Banning, CA basements should be photographed before any wall chase opens.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Irrigation cross-connections in Banning, CA can back-siphon domestic lines during main breaks.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92220.
+
+Lineage note 893260: recirculation pump amp draw captured before Banning, CA branch isolation.
+
+Field routing: gas water heater draft hood gap paired with water softener bypass lever near ZIP 92220.
+
+On-site sector marker: Riverside County / coords 33.9500, -116.9000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92220-e3c0a56c

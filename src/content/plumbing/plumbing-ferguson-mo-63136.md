@@ -12,25 +12,39 @@ lng: -90.3000
 zipSample: ["63136", "63135"]
 zipCodes: ["63135", "63136"]
 localPaths: ["St. Louis County / primary ZIP 63136", "St. Louis County / coords 38.7500, -90.3000", "St. Louis County / ZIP 63136 sector", "St. Louis County / ZIP 63135 sector", "St. Louis County / elevation 574 ft band"]
-zillowHomeValueUsd: 85920
 ---
 
-**Engineering Notice for Ferguson:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Ferguson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-We coordinate local dispatch coverage around Ferguson, MO and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ferguson, MO, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Polybutylene manifold tags in Ferguson, MO basements should be photographed before any wall chase opens.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63136.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Connection points spot-checked where accessible (ZIP 63135/63136 zone).
+Cleanout access limits in Ferguson, MO frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 63135, 63136 (county grid: St. Louis County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Galvanized segments in Ferguson, MO may restrict flow long before visible corrosion.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ferguson, MO systems need rebalancing.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Pressure trace 865521: meter-pit clearance and dielectric union checklist staged for Ferguson, MO near elevation 574 ft.
+
+Drain map 865521: camera-pass priority and expansion-tank pre-charge noted for Ferguson, MO postal sector 63136.
+
+**Regional Infrastructure Brief:** Service coverage aligns with St. Louis County and primary ZIP 63136. Terrain reference: 574 ft. Center point: 38.7500, -90.3000. ZIP sample: 63135, 63136. Service perimeter note: Coverage extends through St. Louis County with dispatch centered near ZIP 63136.
 
 Service reference: MO-63136-cb111d86

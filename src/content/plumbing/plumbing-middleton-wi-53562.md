@@ -12,26 +12,45 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / primary ZIP 53562", "Dane County / coords 43.1100, -89.5100", "Dane County / ZIP 53562 sector", "Dane County / elevation 935 ft band"]
-zillowHomeValueUsd: 618454
 ---
 
-**Engineering Notice for Middleton:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Dane County.
+**Engineering Notice for Middleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Our service coordination centers on Middleton, WI coverage windows and verified intake details.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydrostatic holds in Middleton, WI slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Middleton, WI, but intake notes help reduce delays.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-In Middleton, WI, seasonal demand can change scheduling windows.
+Polybutylene manifold tags in Middleton, WI basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 53562 intake.
+Recirculation pump failures in Middleton, WI can mimic fixture-specific clogs.
 
-Field note: Access points and staging constraints recorded for ZIP 53562 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 53562 (county grid: Dane County).
+Irrigation cross-connections in Middleton, WI can back-siphon domestic lines during main breaks.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cast-iron hub corrosion in Middleton, WI often concentrates at the third joint upstream of the cleanout.
+
+We coordinate Middleton, WI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Supply audit 801764: curb-stop orientation and hose-bib freeze flag reviewed for Middleton, WI at coords 43.1100/-89.5100.
+
+Drain map 801764: camera-pass priority and expansion-tank pre-charge noted for Middleton, WI postal sector 53562.
+
+Field routing: dielectric union checklist paired with shower cartridge seat score near ZIP 53562.
+
+On-site sector marker: Dane County / elevation 935 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53562-0f7744b8

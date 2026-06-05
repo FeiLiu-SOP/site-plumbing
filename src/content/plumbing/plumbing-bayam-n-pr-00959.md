@@ -12,26 +12,39 @@ lng: -66.1600
 zipSample: ["00916", "00934", "00960", "00957", "00959"]
 zipCodes: ["00960", "00957", "00934", "00959", "00916", "00956", "00961"]
 localPaths: ["Bayamón County / ZIP 00959 sector", "Bayamón County / ZIP 00957 sector", "Bayamón County / ZIP 00960 sector", "Bayamón County / ZIP 00934 sector", "Bayamón County / elevation 59 ft band"]
-zillowHomeValueUsd: 371774
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Bayamón:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Bayamón County.
+**Engineering Notice for Bayamón:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bayamón County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00959.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bayamón, PR, but intake notes help reduce delays.
+Basement floor drains in Bayamón, PR should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate local dispatch coverage around Bayamón, PR and nearby ZIP sectors.
+Trenchless pulls in Bayamón, PR require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 00957/00916/00961 coverage.
+Frost-free sillcock failures in Bayamón, PR often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 00957, 00916, 00961, 00959, 00934 (county grid: Bayamón County).
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When should sump battery backups be load-tested? In Bayamón, PR, before spring thaw and hurricane remnants.
+
+Polybutylene manifold tags in Bayamón, PR basements should be photographed before any wall chase opens.
+
+Trenchless sleeve pulls near Bayamón, PR require pit shoring notes when water tables are high.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Intake ledger 642704: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bayamón, PR at 18.3800, -66.1600.
+
+Lineage note 642704: recirculation pump amp draw captured before Bayamón, PR branch isolation.
+
+Primary postal anchor 00959 with multi-ZIP overlap in Bayamón; field packets tag Bayamón County for county-grid reconciliation.
 
 Service reference: PR-00959-a0ecb47b

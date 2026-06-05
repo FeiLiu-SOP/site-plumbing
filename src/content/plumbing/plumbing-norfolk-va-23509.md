@@ -12,24 +12,41 @@ lng: -76.2600
 zipSample: ["23504", "23501", "23515", "23511", "23503"]
 zipCodes: ["23509", "23510", "23501", "23519", "23523", "23513", "23518", "23514", "23529", "23541", "23551", "23517"]
 localPaths: ["Norfolk County / ZIP 23515 sector", "Norfolk County / ZIP 23501 sector", "Norfolk County / ZIP 23511 sector", "Norfolk County / ZIP 23504 sector", "Norfolk County / primary ZIP 23509"]
-zillowHomeValueUsd: 279548
 ---
 
-**Engineering Notice for Norfolk:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Norfolk County.
+**Engineering Notice for Norfolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Norfolk County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should sump battery backups be load-tested? In Norfolk, VA, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Norfolk, VA coverage windows and verified intake details.
+Cleanout access limits in Norfolk, VA frequently extend drain cleaning duration.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Norfolk, VA, but intake notes help reduce delays.
+Sewer gas odors in Norfolk, VA should trigger trap seal and vent path review.
 
-Field note: Wind exposure category reviewed for ZIP sector 23513/23518/23511.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 23513, 23518, 23511, 23517, 23509 (county grid: Norfolk County).
+Irrigation cross-connections in Norfolk, VA can back-siphon domestic lines during main breaks.
+
+Stack vent offsets in Norfolk, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Sump discharge freeze risk in Norfolk, VA should be reviewed before spring thaw cycles.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Norfolk, VA.
+
+Risk flag: Seasonal Norfolk, VA irrigation cross-connections can mask domestic pressure loss.
+
+CPVC solvent weld times shift with ambient humidity during Norfolk, VA shoulder seasons.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Intake ledger 853270: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norfolk, VA at 36.8900, -76.2600.
+
+On-site sector marker: Norfolk County / coords 36.8900, -76.2600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23509-cb78343f

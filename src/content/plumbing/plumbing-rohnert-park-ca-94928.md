@@ -12,24 +12,39 @@ lng: -122.7000
 zipSample: ["94928", "94927"]
 zipCodes: ["94927", "94928"]
 localPaths: ["Sonoma County / elevation 108 ft band", "Sonoma County / ZIP 94927 sector", "Sonoma County / ZIP 94928 sector", "Sonoma County / coords 38.3500, -122.7000", "Sonoma County / primary ZIP 94928"]
-zillowHomeValueUsd: 713051
 ---
 
-**Engineering Notice for Rohnert Park:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Rohnert Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in Rohnert Park, CA accelerates scale on PRV seats and heater elements.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Rohnert Park, CA systems need rebalancing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Recirculation pump failures in Rohnert Park, CA can mimic fixture-specific clogs.
 
-Field note: Access points and staging constraints recorded for ZIP 94928/94927 coverage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 94928, 94927 (county grid: Sonoma County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Trenchless pulls in Rohnert Park, CA require pit dimensions verified against utility locate marks.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Rohnert Park, CA.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Across Rohnert Park, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Intake ledger 493635: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Rohnert Park, CA at 38.3500, -122.7000.
+
+Supply audit 493635: curb-stop orientation and hose-bib freeze flag reviewed for Rohnert Park, CA at coords 38.3500/-122.7000.
+
+Regional mesh label Sonoma County: moisture and logistics baselines are keyed to Rohnert Park, CA before niche-specific work begins.
 
 Service reference: CA-94928-2be4e639

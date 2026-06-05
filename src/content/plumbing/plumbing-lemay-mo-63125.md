@@ -12,27 +12,41 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / ZIP 63125 sector", "St. Louis County / elevation 492 ft band", "St. Louis County / primary ZIP 63125", "St. Louis County / coords 38.5300, -90.2800"]
-zillowHomeValueUsd: 203099
 ---
 
-**Engineering Notice for Lemay:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Lemay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63125.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lemay, MO.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Lemay, MO irrigation cross-connections can mask domestic pressure loss.
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Lemay, MO older duplexes can mask tub gurgle as a main-line failure.
 
-Structured milestones protect both sides when scheduling work.
+Cleanout access limits in Lemay, MO frequently extend drain cleaning duration.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lemay, MO, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 63125.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63125.
+Trenchless pulls in Lemay, MO require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 63125 (county grid: St. Louis County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lemay, MO systems need rebalancing.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 63125.
+
+Step: camera-pass main lines in Lemay, MO before jetting older clay or cast iron.
+
+Lineage note 787397: recirculation pump amp draw captured before Lemay, MO branch isolation.
+
+Fixture roster 787397: toilet flange spacer kit and shower cartridge seat score queued for Lemay, MO walk-through.
+
+Scope trace: PEX expansion ring batch plus dielectric union checklist referenced in St. Louis County county grid review.
+
+Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Lemay, MO before niche-specific work begins.
 
 Service reference: MO-63125-a3862f63

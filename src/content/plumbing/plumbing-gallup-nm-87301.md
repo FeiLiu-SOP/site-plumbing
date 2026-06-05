@@ -12,26 +12,45 @@ lng: -108.7400
 zipSample: ["87301"]
 zipCodes: ["87301"]
 localPaths: ["McKinley County / elevation 6647 ft band", "McKinley County / ZIP 87301 sector", "McKinley County / coords 35.5200, -108.7400", "McKinley County / primary ZIP 87301"]
-zillowHomeValueUsd: 222741
 ---
 
-**Engineering Notice for Gallup:** Structural loading calculated based on 6647 ft terrain assessment. Regional dispatch grid: McKinley County.
+**Engineering Notice for Gallup:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McKinley County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Gallup, NM plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Gallup, NM require pit shoring notes when water tables are high.
 
-Homeowners in Gallup, NM often face sudden plumbing problems that require fast action.
+Dual-water-meter setups in Gallup, NM irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 87301 coverage.
+FAQ: When should sump battery backups be load-tested? In Gallup, NM, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 87301.
+Stack vent offsets in Gallup, NM older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 87301 (county grid: McKinley County).
+Polybutylene manifold tags in Gallup, NM basements should be photographed before any wall chase opens.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Gallup, NM systems need rebalancing.
+
+Hose bib split patterns in Gallup, NM often follow missed winterization.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Permit note: Main water line replacement in Gallup, NM may require ROW restoration planning.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Gallup, NM.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Drain map 166231: camera-pass priority and expansion-tank pre-charge noted for Gallup, NM postal sector 87301.
+
+Supply audit 166231: curb-stop orientation and hose-bib freeze flag reviewed for Gallup, NM at coords 35.5200/-108.7400.
+
+plumbing brief: backflow test cock orientation and floor drain trap primer drip were cross-checked for the Gallup intake packet.
+
+On-site sector marker: McKinley County / coords 35.5200, -108.7400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87301-f6067c50

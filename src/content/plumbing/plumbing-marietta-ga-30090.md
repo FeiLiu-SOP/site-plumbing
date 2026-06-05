@@ -12,28 +12,45 @@ lng: -84.5400
 zipSample: ["30064", "30062", "30090", "30067", "30060"]
 zipCodes: ["30006", "30090", "30067", "30060", "30008", "30062", "30064", "30007"]
 localPaths: ["Cobb County / ZIP 30060 sector", "Cobb County / ZIP 30062 sector", "Cobb County / coords 33.9500, -84.5400", "Cobb County / ZIP 30090 sector", "Cobb County / ZIP 30067 sector"]
-zillowHomeValueUsd: 551662
 ---
 
-**Engineering Notice for Marietta:** Structural loading calculated based on 1119 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Marietta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Marietta, GA irrigation zones need backflow logs before line replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 30090.
+FAQ: When is cabling enough? In Marietta, GA, pipe material and blockage type dictate method.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Marietta, GA, slab leaks can misroute as foundation issues without listening equipment.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30090.
+Fixture shutoff stiffness in Marietta, GA may indicate mineral bridging behind stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Marietta, GA, but intake notes help reduce delays.
+Recirculation pump failures in Marietta, GA can mimic fixture-specific clogs.
 
-Field note: Moisture pathway inspection logged near ZIP 30006/30064/30090 intake.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 30090.
 
-Field note: Connection points spot-checked where accessible (ZIP 30006/30064/30090 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 30006, 30064, 30090, 30062, 30008 (county grid: Cobb County).
+Risk flag: Seasonal Marietta, GA irrigation cross-connections can mask domestic pressure loss.
+
+Trenchless sleeve pulls near Marietta, GA require pit shoring notes when water tables are high.
+
+FAQ: When should sump battery backups be load-tested? In Marietta, GA, before spring thaw and hurricane remnants.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Step: camera-pass main lines in Marietta, GA before jetting older clay or cast iron.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Lineage note 109753: recirculation pump amp draw captured before Marietta, GA branch isolation.
+
+Supply audit 109753: curb-stop orientation and hose-bib freeze flag reviewed for Marietta, GA at coords 33.9500/-84.5400.
+
+Scope trace: branch wet vent geometry plus dielectric union checklist referenced in Cobb County county grid review.
+
+ZIP-corridor snapshot for Marietta, GA: sampled sectors include 30064, 30060, 30062, 30090, 30006, 30008, 30067, 30007; county routing grid remains Cobb County.
 
 Service reference: GA-30090-8b8b32d2

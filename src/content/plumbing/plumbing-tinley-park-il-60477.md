@@ -12,25 +12,37 @@ lng: -87.8000
 zipSample: ["60477", "60487"]
 zipCodes: ["60477", "60487"]
 localPaths: ["Cook County / coords 41.5700, -87.8000", "Cook County / ZIP 60487 sector", "Cook County / ZIP 60477 sector", "Cook County / primary ZIP 60477", "Cook County / elevation 712 ft band"]
-zillowHomeValueUsd: 297927
 ---
 
-**Engineering Notice for Tinley Park:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Tinley Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Branch wet vents in Tinley Park, IL can mask gurgling as a main-line issue.
 
-Our service coordination centers on Tinley Park, IL coverage windows and verified intake details.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: confirm licensing and insurance before approving work.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60477.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 60477/60487 intake.
+CPVC solvent weld times shift with ambient humidity during Tinley Park, IL shoulder seasons.
 
-Dispatch sectors sampled: ZIP 60477, 60487 (county grid: Cook County).
+Basement floor drains in Tinley Park, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Galvanized segments in Tinley Park, IL may restrict flow long before visible corrosion.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Fixture roster 568296: toilet flange spacer kit and shower cartridge seat score queued for Tinley Park, IL walk-through.
+
+On-site sector marker: Cook County / elevation 712 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60477-a5d4ca01

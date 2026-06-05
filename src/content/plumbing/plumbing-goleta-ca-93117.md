@@ -12,27 +12,39 @@ lng: -119.8600
 zipSample: ["93118", "93117"]
 zipCodes: ["93117", "93118"]
 localPaths: ["Santa Barbara County / coords 34.4400, -119.8600", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / primary ZIP 93117", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / ZIP 93118 sector"]
-zillowHomeValueUsd: 1378724
 ---
 
-**Engineering Notice for Goleta:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Goleta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
 
 
-We coordinate local dispatch coverage around Goleta, CA and nearby ZIP sectors.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Goleta, CA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map sump float travel and check-valve orientation for Goleta, CA basements.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 93117.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Wind exposure category reviewed for ZIP sector 93117/93118.
+Expansion tank pre-charge loss in Goleta, CA often tracks heater replacement deferrals.
 
-Field note: Moisture pathway inspection logged near ZIP 93117/93118 intake.
+Risk flag: Seasonal Goleta, CA irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 93117, 93118 (county grid: Santa Barbara County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Trenchless sleeve pulls near Goleta, CA require pit shoring notes when water tables are high.
+
+FAQ: When is cabling enough? In Goleta, CA, pipe material and blockage type dictate method.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 93117.
+
+Galvanized segments in Goleta, CA may restrict flow long before visible corrosion.
+
+Fixture roster 219663: toilet flange spacer kit and shower cartridge seat score queued for Goleta, CA walk-through.
+
+Supply audit 219663: curb-stop orientation and hose-bib freeze flag reviewed for Goleta, CA at coords 34.4400/-119.8600.
+
+On-site sector marker: Santa Barbara County / coords 34.4400, -119.8600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93117-237f9a8b

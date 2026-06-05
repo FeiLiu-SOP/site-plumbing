@@ -12,26 +12,41 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / primary ZIP 97756", "Deschutes County / elevation 3005 ft band", "Deschutes County / coords 44.2600, -121.1800", "Deschutes County / ZIP 97756 sector"]
-zillowHomeValueUsd: 513426
 ---
 
-**Engineering Notice for Redmond:** Structural loading calculated based on 3005 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Deschutes County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in Redmond, OR often tracks heater replacement deferrals.
 
-Our service coordination centers on Redmond, OR coverage windows and verified intake details.
+Fixture shutoff stiffness in Redmond, OR may indicate mineral bridging behind stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Redmond, OR, but intake notes help reduce delays.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: request a written scope before work starts.
+Material note: Water heater anode type may change with Redmond, OR hardness profiles.
 
-Field note: Connection points spot-checked where accessible (ZIP 97756 zone).
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Access points and staging constraints recorded for ZIP 97756 coverage.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 97756 (county grid: Deschutes County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Dual-water-meter setups in Redmond, OR irrigation zones need backflow logs before line replacement.
+
+Trenchless sleeve pulls near Redmond, OR require pit shoring notes when water tables are high.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 929664: curb-stop orientation and hose-bib freeze flag reviewed for Redmond, OR at coords 44.2600/-121.1800.
+
+ZIP-corridor snapshot for Redmond, OR: sampled sectors include 97756; county routing grid remains Deschutes County.
 
 Service reference: OR-97756-80217525

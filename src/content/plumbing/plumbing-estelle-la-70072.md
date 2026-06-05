@@ -12,24 +12,41 @@ lng: -90.1000
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / ZIP 70072 sector", "Jefferson Parish / coords 29.8400, -90.1000", "Jefferson Parish / primary ZIP 70072", "Jefferson Parish / elevation 26 ft band"]
-zillowHomeValueUsd: 228735
 ---
 
-**Engineering Notice for Estelle:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Estelle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
 
 
-Structured milestones protect both sides when scheduling work.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 70072.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Sewer gas odors in Estelle, LA should trigger trap seal and vent path review.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Estelle, LA, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: address recurring issues early to prevent bigger damage.
+Expansion tank pre-charge loss in Estelle, LA often tracks heater replacement deferrals.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Estelle, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 70072 coverage.
+Dual-water-meter setups in Estelle, LA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 70072 (county grid: Jefferson Parish).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: Water heater anode type may change with Estelle, LA hardness profiles.
+
+Frost-free sillcock failures in Estelle, LA often trace to interior shutoff seats, not exterior stems.
+
+Permit note: Main water line replacement in Estelle, LA may require ROW restoration planning.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Drain map 427655: camera-pass priority and expansion-tank pre-charge noted for Estelle, LA postal sector 70072.
+
+Field routing: meter pit clearance paired with sump float travel near ZIP 70072.
+
+ZIP-corridor snapshot for Estelle, LA: sampled sectors include 70072; county routing grid remains Jefferson Parish.
 
 Service reference: LA-70072-fc159138

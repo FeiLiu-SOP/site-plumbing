@@ -12,26 +12,41 @@ lng: -96.8300
 zipSample: ["58124", "58102", "58105", "58106", "58107"]
 zipCodes: ["58103", "58104", "58121", "58125", "58109", "58126", "58105", "58102", "58122", "58124", "58107", "58106"]
 localPaths: ["Cass County / coords 46.8700, -96.8300", "Cass County / elevation 902 ft band", "Cass County / ZIP 58105 sector", "Cass County / ZIP 58102 sector", "Cass County / ZIP 58124 sector"]
-zillowHomeValueUsd: 267521
 ---
 
-**Engineering Notice for Fargo:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for Fargo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cass County.
 
 
-Local conditions in Fargo, ND can affect timelines and material choices.
+CPVC solvent weld times shift with ambient humidity during Fargo, ND shoulder seasons.
 
-Tip: request a written scope before work starts.
+Water heater T&P discharge paths in Fargo, ND must terminate safely before replacement quotes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Fargo, ND.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fargo, ND, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 58121/58102/58122 coverage.
+FAQ: When is cabling enough? In Fargo, ND, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 58121/58102/58122.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 58121, 58102, 58122, 58108, 58103 (county grid: Cass County).
+FAQ: When should sump battery backups be load-tested? In Fargo, ND, before spring thaw and hurricane remnants.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 58102.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 58102.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 58102.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Trenchless sleeve pulls near Fargo, ND require pit shoring notes when water tables are high.
+
+Flow dossier 729365: branch wet-vent geometry and jetting nozzle envelope logged for Fargo, ND county grid Cass County (ZIP 58102).
+
+plumbing brief: toilet flange spacer kit and sump float travel were cross-checked for the Fargo intake packet.
+
+On-site sector marker: Cass County / ZIP 58108 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58102-5453f99c

@@ -12,24 +12,39 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / elevation 16 ft band", "Middlesex County / ZIP 07008 sector"]
-zillowHomeValueUsd: 548065
 ---
 
-**Engineering Notice for Carteret:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Carteret:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We coordinate local dispatch coverage around Carteret, NJ and nearby ZIP sectors.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 07008.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless sleeve pulls near Carteret, NJ require pit shoring notes when water tables are high.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carteret, NJ, but intake notes help reduce delays.
+Water heater T&P discharge paths in Carteret, NJ must terminate safely before replacement quotes.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: map sump float travel and check-valve orientation for Carteret, NJ basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 07008.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 07008 (county grid: Middlesex County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Cleanout access limits in Carteret, NJ frequently extend drain cleaning duration.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Carteret, NJ require pit dimensions verified against utility locate marks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Intake ledger 694075: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Carteret, NJ at 40.5800, -74.2300.
+
+Drain map 694075: camera-pass priority and expansion-tank pre-charge noted for Carteret, NJ postal sector 07008.
+
+Primary postal anchor 07008 with multi-ZIP overlap in Carteret; field packets tag Middlesex County for county-grid reconciliation.
 
 Service reference: NJ-07008-15f2a3ad

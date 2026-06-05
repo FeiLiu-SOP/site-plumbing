@@ -12,24 +12,39 @@ lng: -96.7500
 zipSample: ["56560", "56563", "56562"]
 zipCodes: ["56560", "56563", "56562"]
 localPaths: ["Clay County / ZIP 56560 sector", "Clay County / ZIP 56562 sector", "Clay County / elevation 902 ft band", "Clay County / primary ZIP 56560", "Clay County / coords 46.8700, -96.7500"]
-zillowHomeValueUsd: 278536
 ---
 
-**Engineering Notice for Moorhead:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Moorhead:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Moorhead, MN slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In Moorhead, MN, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 56560.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Moorhead, MN, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 56560/56563/56562.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 56560, 56563, 56562 (county grid: Clay County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 56560.
+
+Polybutylene manifold tags in Moorhead, MN basements should be photographed before any wall chase opens.
+
+FAQ: When should sump battery backups be load-tested? In Moorhead, MN, before spring thaw and hurricane remnants.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Frost-free sillcock failures in Moorhead, MN often trace to interior shutoff seats, not exterior stems.
+
+Pressure trace 518855: meter-pit clearance and dielectric union checklist staged for Moorhead, MN near elevation 902 ft.
+
+Scope trace: fixture shutoff torque log plus backflow test cock orientation referenced in Clay County county grid review.
+
+On-site sector marker: Clay County / coords 46.8700, -96.7500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-56560-8e7a39fb

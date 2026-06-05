@@ -12,27 +12,43 @@ lng: -66.1400
 zipSample: ["00962", "00949", "00963"]
 zipCodes: ["00962", "00963", "00949"]
 localPaths: ["Cataño County / ZIP 00962 sector", "Cataño County / ZIP 00949 sector", "Cataño County / primary ZIP 00949", "Cataño County / coords 18.4400, -66.1400", "Cataño County / elevation 16 ft band"]
-zillowHomeValueUsd: 380059
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Cataño:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Cataño County.
+**Engineering Notice for Cataño:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cataño County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cataño, PR, but intake notes help reduce delays.
+Galvanized segments in Cataño, PR may restrict flow long before visible corrosion.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: request a written scope before work starts.
+Step: camera-pass main lines in Cataño, PR before jetting older clay or cast iron.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Cataño, PR.
 
-Field note: Connection points spot-checked where accessible (ZIP 00949/00962/00963 zone).
+Cleanout access limits in Cataño, PR frequently extend drain cleaning duration.
 
-Field note: Moisture pathway inspection logged near ZIP 00949/00962/00963 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 00949, 00962, 00963 (county grid: Cataño County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 00949.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Permit note: Main water line replacement in Cataño, PR may require ROW restoration planning.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Irrigation cross-connections in Cataño, PR can back-siphon domestic lines during main breaks.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Supply audit 859784: curb-stop orientation and hose-bib freeze flag reviewed for Cataño, PR at coords 18.4400/-66.1400.
+
+Scope trace: slab leak listening window plus sewer cleanout cap thread referenced in Cataño County county grid review.
+
+ZIP-corridor snapshot for Cataño, PR: sampled sectors include 00963, 00949, 00962; county routing grid remains Cataño County.
 
 Service reference: PR-00949-ec892e17

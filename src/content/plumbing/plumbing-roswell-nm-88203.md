@@ -12,24 +12,43 @@ lng: -104.5300
 zipSample: ["88203", "88201"]
 zipCodes: ["88201", "88203"]
 localPaths: ["Chaves County / coords 33.3700, -104.5300", "Chaves County / elevation 3629 ft band", "Chaves County / primary ZIP 88203", "Chaves County / ZIP 88203 sector", "Chaves County / ZIP 88201 sector"]
-zillowHomeValueUsd: 141994
 ---
 
-**Engineering Notice for Roswell:** Structural loading calculated based on 3629 ft terrain assessment. Regional dispatch grid: Chaves County.
+**Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chaves County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 88203.
 
-Tip: confirm licensing and insurance before approving work.
+Frost-free sillcock failures in Roswell, NM often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roswell, NM, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+Irrigation cross-connections in Roswell, NM can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 88201/88203.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 88201, 88203 (county grid: Chaves County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Roswell, NM systems need rebalancing.
+
+Galvanized segments in Roswell, NM may restrict flow long before visible corrosion.
+
+Stack vent offsets in Roswell, NM older duplexes can mask tub gurgle as a main-line failure.
+
+Fixture shutoff stiffness in Roswell, NM may indicate mineral bridging behind stems.
+
+Fixture roster 180007: toilet flange spacer kit and shower cartridge seat score queued for Roswell, NM walk-through.
+
+Intake ledger 180007: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roswell, NM at 33.3700, -104.5300.
+
+plumbing brief: toilet flange spacer kit and floor drain trap primer drip were cross-checked for the Roswell intake packet.
+
+On-site sector marker: Chaves County / coords 33.3700, -104.5300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88203-8985081b

@@ -12,26 +12,41 @@ lng: -104.7600
 zipSample: ["80995", "80924", "80938", "80923", "80917"]
 zipCodes: ["80962", "80938", "80910", "80977", "80947", "80951", "80941", "80934", "80829", "80924", "80914", "80904"]
 localPaths: ["El Paso County / ZIP 80995 sector", "El Paso County / ZIP 80938 sector", "El Paso County / elevation 6345 ft band", "El Paso County / ZIP 80917 sector", "El Paso County / coords 38.8700, -104.7600"]
-zillowHomeValueUsd: 429648
 ---
 
-**Engineering Notice for Colorado Springs:** Structural loading calculated based on 6345 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Colorado Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Colorado Springs, CO older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Expansion tank pre-charge loss in Colorado Springs, CO often tracks heater replacement deferrals.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Colorado Springs, CO, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 80903/80947/80921.
+Material note: Water heater anode type may change with Colorado Springs, CO hardness profiles.
 
-Field note: Moisture pathway inspection logged near ZIP 80903/80947/80921 intake.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Colorado Springs, CO.
 
-Dispatch sectors sampled: ZIP 80903, 80947, 80921, 80905, 80927 (county grid: El Paso County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Lineage note 505033: recirculation pump amp draw captured before Colorado Springs, CO branch isolation.
+
+Drain map 505033: camera-pass priority and expansion-tank pre-charge noted for Colorado Springs, CO postal sector 80951.
+
+Primary postal anchor 80951 with multi-ZIP overlap in Colorado Springs; field packets tag El Paso County for county-grid reconciliation.
 
 Service reference: CO-80951-57c15100

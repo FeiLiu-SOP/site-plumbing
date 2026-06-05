@@ -12,26 +12,43 @@ lng: -82.7600
 zipSample: ["34689"]
 zipCodes: ["34689"]
 localPaths: ["Pinellas County / coords 28.1500, -82.7600", "Pinellas County / primary ZIP 34689", "Pinellas County / elevation 23 ft band", "Pinellas County / ZIP 34689 sector"]
-zillowHomeValueUsd: 365433
 ---
 
-**Engineering Notice for Tarpon Springs:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Tarpon Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sewer gas odors in Tarpon Springs, FL should trigger trap seal and vent path review.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Tarpon Springs, FL may require ROW restoration planning.
 
-Tip: request a written scope before work starts.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Dual-water-meter setups in Tarpon Springs, FL irrigation zones need backflow logs before line replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Stack vent offsets in Tarpon Springs, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Moisture pathway inspection logged near ZIP 34689 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34689.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 34689 (county grid: Pinellas County).
+Basement floor drains in Tarpon Springs, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Water heater anode type may change with Tarpon Springs, FL hardness profiles.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Branch wet vents in Tarpon Springs, FL can mask gurgling as a main-line issue.
+
+Risk flag: In Tarpon Springs, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+CPVC solvent weld times shift with ambient humidity during Tarpon Springs, FL shoulder seasons.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Supply audit 526404: curb-stop orientation and hose-bib freeze flag reviewed for Tarpon Springs, FL at coords 28.1500/-82.7600.
+
+Pressure trace 526404: meter-pit clearance and dielectric union checklist staged for Tarpon Springs, FL near elevation 23 ft.
+
+On-site sector marker: Pinellas County / primary ZIP 34689 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34689-64610f5b

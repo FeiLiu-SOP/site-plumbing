@@ -12,26 +12,39 @@ lng: -88.6600
 zipSample: ["39564", "39553"]
 zipCodes: ["39553", "39564"]
 localPaths: ["Jackson County / ZIP 39553 sector", "Jackson County / primary ZIP 39553", "Jackson County / coords 30.4100, -88.6600", "Jackson County / ZIP 39564 sector", "Jackson County / elevation 30 ft band"]
-zillowHomeValueUsd: 186790
 ---
 
-**Engineering Notice for Gautier:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Gautier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
 
 
-In Gautier, MS, seasonal demand can change scheduling windows.
+Step: map sump float travel and check-valve orientation for Gautier, MS basements.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Dispatch packets reference county grid Jackson County near ZIP 39553.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Gautier, MS systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gautier, MS, but intake notes help reduce delays.
+Basement floor drains in Gautier, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate local dispatch coverage around Gautier, MS and nearby ZIP sectors.
+Risk flag: Seasonal Gautier, MS irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39553/39564.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Access points and staging constraints recorded for ZIP 39553/39564 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 39553, 39564 (county grid: Jackson County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Irrigation cross-connections in Gautier, MS can back-siphon domestic lines during main breaks.
+
+Hard water in Gautier, MS accelerates scale on PRV seats and heater elements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Polybutylene manifold tags in Gautier, MS basements should be photographed before any wall chase opens.
+
+Drain map 234755: camera-pass priority and expansion-tank pre-charge noted for Gautier, MS postal sector 39553.
+
+plumbing brief: backflow test cock orientation and copper pinhole cluster were cross-checked for the Gautier intake packet.
+
+Coordinate-anchored dispatch note: center reference 30.4100, -88.6600 at elevation ~30 ft aligns with Jackson County intake staging.
 
 Service reference: MS-39553-754b54ce

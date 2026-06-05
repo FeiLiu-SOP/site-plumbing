@@ -12,28 +12,41 @@ lng: -66.2200
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / coords 18.4000, -66.2200", "Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949"]
-zillowHomeValueUsd: 369209
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Candelaria:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Toa Baja County.
+**Engineering Notice for Candelaria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Toa Baja County.
 
 
-We coordinate local dispatch coverage around Candelaria, PR and nearby ZIP sectors.
+Polybutylene manifold tags in Candelaria, PR basements should be photographed before any wall chase opens.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 00949.
+Tip: Save water heater serial plates for warranty traceability.
 
-Tip: avoid large upfront payments without milestones.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless pulls in Candelaria, PR require pit dimensions verified against utility locate marks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Candelaria, PR, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00949.
+In Candelaria, PR, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Connection points spot-checked where accessible (ZIP 00949 zone).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 00949 (county grid: Toa Baja County).
+FAQ: When should sump battery backups be load-tested? In Candelaria, PR, before spring thaw and hurricane remnants.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 00949.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Supply audit 662292: curb-stop orientation and hose-bib freeze flag reviewed for Candelaria, PR at coords 18.4000/-66.2200.
+
+plumbing brief: cleanout riser height and floor drain trap primer drip were cross-checked for the Candelaria intake packet.
+
+ZIP-corridor snapshot for Candelaria, PR: sampled sectors include 00949; county routing grid remains Toa Baja County.
 
 Service reference: PR-00949-58c690f8

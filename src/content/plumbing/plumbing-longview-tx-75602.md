@@ -12,24 +12,41 @@ lng: -94.7600
 zipSample: ["75601", "75602", "75604", "75606", "75605"]
 zipCodes: ["75606", "75608", "75615", "75602", "75660", "75604", "75601", "75605"]
 localPaths: ["Gregg County / coords 32.5200, -94.7600", "Gregg County / primary ZIP 75602", "Gregg County / ZIP 75601 sector", "Gregg County / ZIP 75602 sector", "Gregg County / ZIP 75604 sector"]
-zillowHomeValueUsd: 140549
 ---
 
-**Engineering Notice for Longview:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Gregg County.
+**Engineering Notice for Longview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gregg County.
 
 
-Tip: request a written scope before work starts.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 75602.
 
-Our service coordination centers on Longview, TX coverage windows and verified intake details.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 75602.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Longview, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 75604/75605/75601 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 75604, 75605, 75601, 75660, 75602 (county grid: Gregg County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Cleanout access limits in Longview, TX frequently extend drain cleaning duration.
+
+FAQ: Is hydro-jetting always appropriate? In Longview, TX, pipe material and blockage type dictate method.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Irrigation cross-connections in Longview, TX can back-siphon domestic lines during main breaks.
+
+Hydrostatic holds in Longview, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Frost-free sillcock failures in Longview, TX often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 278882: curb-stop orientation and hose-bib freeze flag reviewed for Longview, TX at coords 32.5200/-94.7600.
+
+On-site sector marker: Gregg County / ZIP 75601 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75602-55b88fee

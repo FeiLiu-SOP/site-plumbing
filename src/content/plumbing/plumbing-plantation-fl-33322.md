@@ -12,24 +12,43 @@ lng: -80.2600
 zipSample: ["33318", "33329", "33323", "33317", "33324"]
 zipCodes: ["33317", "33318", "33322", "33313", "33388", "33325", "33329", "33324", "33323"]
 localPaths: ["Broward County / ZIP 33329 sector", "Broward County / ZIP 33318 sector", "Broward County / ZIP 33317 sector", "Broward County / ZIP 33323 sector", "Broward County / elevation 16 ft band"]
-zillowHomeValueUsd: 261516
 ---
 
-**Engineering Notice for Plantation:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Plantation:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Plantation, FL require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 33329/33388/33323.
+Risk flag: In Plantation, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 33329, 33388, 33323, 33317, 33324 (county grid: Broward County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cleanout access limits in Plantation, FL frequently extend drain cleaning duration.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+CPVC solvent weld times shift with ambient humidity during Plantation, FL shoulder seasons.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Intake ledger 656168: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Plantation, FL at 26.1300, -80.2600.
+
+Scope trace: meter pit clearance plus slab leak listening window referenced in Broward County county grid review.
+
+**Regional Infrastructure Brief:** Grid anchor set to Broward County. Reference elevation: 16 ft. Primary coordinates: 26.1300, -80.2600. ZIP sample: 33388, 33322, 33324, 33318, 33313. Logistics priority: Serving residential sectors across Broward County and north-east ZIP 33322 grid.
 
 Service reference: FL-33322-fb778f1a

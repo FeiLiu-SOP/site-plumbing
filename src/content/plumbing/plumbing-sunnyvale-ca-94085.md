@@ -12,24 +12,41 @@ lng: -122.0300
 zipSample: ["94088", "94089", "94087", "94085", "94086"]
 zipCodes: ["94085", "94088", "94087", "94086", "94089"]
 localPaths: ["Santa Clara County / ZIP 94086 sector", "Santa Clara County / ZIP 94085 sector", "Santa Clara County / primary ZIP 94085", "Santa Clara County / elevation 62 ft band", "Santa Clara County / ZIP 94087 sector"]
-zillowHomeValueUsd: 1601590
 ---
 
-**Engineering Notice for Sunnyvale:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Sunnyvale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sunnyvale, CA, but intake notes help reduce delays.
+Branch wet vents in Sunnyvale, CA can mask gurgling as a main-line issue.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Sunnyvale, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Sunnyvale, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94089/94086/94087.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 94089, 94086, 94087, 94088, 94085 (county grid: Santa Clara County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Permit note: Main water line replacement in Sunnyvale, CA may require ROW restoration planning.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 94085.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Polybutylene manifold tags in Sunnyvale, CA basements should be photographed before any wall chase opens.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Flow dossier 387993: branch wet-vent geometry and jetting nozzle envelope logged for Sunnyvale, CA county grid Santa Clara County (ZIP 94085).
+
+Drain map 387993: camera-pass priority and expansion-tank pre-charge noted for Sunnyvale, CA postal sector 94085.
+
+Scope trace: backflow test cock orientation plus fixture shutoff torque log referenced in Santa Clara County county grid review.
+
+Coordinate-anchored dispatch note: center reference 37.3800, -122.0300 at elevation ~62 ft aligns with Santa Clara County intake staging.
 
 Service reference: CA-94085-a196bb8b

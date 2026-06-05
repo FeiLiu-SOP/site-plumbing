@@ -12,27 +12,43 @@ lng: -103.1900
 zipSample: ["88102", "88101"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / elevation 4311 ft band", "Curry County / ZIP 88101 sector", "Curry County / coords 34.4400, -103.1900", "Curry County / ZIP 88102 sector", "Curry County / primary ZIP 88101"]
-zillowHomeValueUsd: 161586
 ---
 
-**Engineering Notice for Clovis:** Structural loading calculated based on 4311 ft terrain assessment. Regional dispatch grid: Curry County.
+**Engineering Notice for Clovis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Curry County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Water heater T&P discharge paths in Clovis, NM must terminate safely before replacement quotes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 88101.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Clovis, NM and nearby ZIP sectors.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clovis, NM, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 88101/88102 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 88101/88102.
+Frost-free sillcock failures in Clovis, NM often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 88101, 88102 (county grid: Curry County).
+Sump discharge freeze risk in Clovis, NM should be reviewed before spring thaw cycles.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Clovis, NM systems need rebalancing.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Flow dossier 438365: branch wet-vent geometry and jetting nozzle envelope logged for Clovis, NM county grid Curry County (ZIP 88101).
+
+Drain map 438365: camera-pass priority and expansion-tank pre-charge noted for Clovis, NM postal sector 88101.
+
+Field routing: water heater T&P path paired with branch wet vent geometry near ZIP 88101.
+
+On-site sector marker: Curry County / elevation 4311 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88101-af3bffe6

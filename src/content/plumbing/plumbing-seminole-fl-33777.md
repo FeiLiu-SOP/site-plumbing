@@ -12,25 +12,39 @@ lng: -82.7800
 zipSample: ["33775", "33772", "33778", "33777"]
 zipCodes: ["33778", "33777", "33775", "33772"]
 localPaths: ["Pinellas County / ZIP 33778 sector", "Pinellas County / elevation 20 ft band", "Pinellas County / ZIP 33772 sector", "Pinellas County / primary ZIP 33777", "Pinellas County / ZIP 33775 sector"]
-zillowHomeValueUsd: 325112
 ---
 
-**Engineering Notice for Seminole:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Seminole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
 
 
-Tip: request a written scope before work starts.
+FAQ: When is cabling enough? In Seminole, FL, pipe material and blockage type dictate method.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33777.
+Branch wet vents in Seminole, FL can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 33778/33775/33777.
+Material note: Water heater anode type may change with Seminole, FL hardness profiles.
 
-Dispatch sectors sampled: ZIP 33778, 33775, 33777, 33772 (county grid: Pinellas County).
+Sewer gas odors in Seminole, FL should trigger trap seal and vent path review.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Stack vent offsets in Seminole, FL older duplexes can mask tub gurgle as a main-line failure.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Lineage note 697998: recirculation pump amp draw captured before Seminole, FL branch isolation.
+
+Fixture roster 697998: toilet flange spacer kit and shower cartridge seat score queued for Seminole, FL walk-through.
+
+Primary postal anchor 33777 with multi-ZIP overlap in Seminole; field packets tag Pinellas County for county-grid reconciliation.
 
 Service reference: FL-33777-40c9095a

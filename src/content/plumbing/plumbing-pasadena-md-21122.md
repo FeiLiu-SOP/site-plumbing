@@ -12,26 +12,37 @@ lng: -76.5500
 zipSample: ["21412", "21226", "21060", "21122"]
 zipCodes: ["21412", "21060", "21226", "21122"]
 localPaths: ["Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / ZIP 21226 sector", "Anne Arundel County / ZIP 21060 sector", "Anne Arundel County / coords 39.1600, -76.5500"]
-zillowHomeValueUsd: 454579
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
 
 
-In Pasadena, MD, urgent plumbing issues can escalate quickly.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Our service coordination centers on Pasadena, MD coverage windows and verified intake details.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pasadena, MD, but intake notes help reduce delays.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Pasadena, MD.
 
-Tip: avoid large upfront payments without milestones.
+Dual-water-meter setups in Pasadena, MD irrigation zones need backflow logs before line replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Wind exposure category reviewed for ZIP sector 21226/21122/21412.
+Basement floor drains in Pasadena, MD should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 21226/21122/21412 coverage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pasadena, MD systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 21226, 21122, 21412, 21060 (county grid: Anne Arundel County).
+Material note: Water heater anode type may change with Pasadena, MD hardness profiles.
+
+Step: map sump float travel and check-valve orientation for Pasadena, MD basements.
+
+Branch wet vents in Pasadena, MD can mask gurgling as a main-line issue.
+
+Irrigation cross-connections in Pasadena, MD can back-siphon domestic lines during main breaks.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Flow dossier 117112: branch wet-vent geometry and jetting nozzle envelope logged for Pasadena, MD county grid Anne Arundel County (ZIP 21122).
+
+ZIP-corridor snapshot for Pasadena, MD: sampled sectors include 21226, 21122, 21412, 21060; county routing grid remains Anne Arundel County.
 
 Service reference: MD-21122-6660eaed

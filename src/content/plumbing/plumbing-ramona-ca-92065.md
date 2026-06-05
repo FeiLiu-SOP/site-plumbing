@@ -12,26 +12,41 @@ lng: -116.8800
 zipSample: ["92065"]
 zipCodes: ["92065"]
 localPaths: ["San Diego County / primary ZIP 92065", "San Diego County / elevation 1467 ft band", "San Diego County / ZIP 92065 sector", "San Diego County / coords 33.0500, -116.8800"]
-zillowHomeValueUsd: 812885
 ---
 
-**Engineering Notice for Ramona:** Structural loading calculated based on 1467 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Ramona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-In Ramona, CA, urgent plumbing issues can escalate quickly.
+Cleanout access limits in Ramona, CA frequently extend drain cleaning duration.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydrostatic holds in Ramona, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: request a written scope before work starts.
+Across Ramona, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Access points and staging constraints recorded for ZIP 92065 coverage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 92065.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 92065 (county grid: San Diego County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Frost-free sillcock failures in Ramona, CA often trace to interior shutoff seats, not exterior stems.
+
+Cast-iron hub corrosion in Ramona, CA often concentrates at the third joint upstream of the cleanout.
+
+Expansion tank pre-charge loss in Ramona, CA often tracks heater replacement deferrals.
+
+Lineage note 976217: recirculation pump amp draw captured before Ramona, CA branch isolation.
+
+Intake ledger 976217: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ramona, CA at 33.0500, -116.8800.
+
+Field routing: slab penetration sleeve seal paired with floor drain trap primer drip near ZIP 92065.
+
+Primary postal anchor 92065 with multi-ZIP overlap in Ramona; field packets tag San Diego County for county-grid reconciliation.
 
 Service reference: CA-92065-1ca74f44

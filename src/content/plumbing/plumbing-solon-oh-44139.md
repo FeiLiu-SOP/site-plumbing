@@ -12,25 +12,39 @@ lng: -81.4400
 zipSample: ["44139"]
 zipCodes: ["44139"]
 localPaths: ["Cuyahoga County / coords 41.3900, -81.4400", "Cuyahoga County / primary ZIP 44139", "Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / ZIP 44139 sector"]
-zillowHomeValueUsd: 453586
 ---
 
-**Engineering Notice for Solon:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Solon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44139.
+FAQ: Is hydro-jetting always appropriate? In Solon, OH, pipe material and blockage type dictate method.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Solon, OH, but intake notes help reduce delays.
+Cleanout access limits in Solon, OH frequently extend drain cleaning duration.
 
-Field note: Moisture pathway inspection logged near ZIP 44139 intake.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 44139 (county grid: Cuyahoga County).
+Irrigation cross-connections in Solon, OH can back-siphon domestic lines during main breaks.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 44139.
+
+Trenchless sleeve pulls near Solon, OH require pit shoring notes when water tables are high.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Dispatch packets reference county grid Cuyahoga County near ZIP 44139.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 44139.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Solon, OH.
+
+Supply audit 732648: curb-stop orientation and hose-bib freeze flag reviewed for Solon, OH at coords 41.3900/-81.4400.
+
+On-site sector marker: Cuyahoga County / coords 41.3900, -81.4400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44139-185fa292

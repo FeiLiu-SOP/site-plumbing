@@ -12,26 +12,41 @@ lng: -116.5400
 zipSample: ["92264", "92258", "92262", "92263", "92282"]
 zipCodes: ["92282", "92264", "92262", "92263", "92258"]
 localPaths: ["Riverside County / coords 33.8000, -116.5400", "Riverside County / ZIP 92263 sector", "Riverside County / ZIP 92262 sector", "Riverside County / primary ZIP 92262", "Riverside County / ZIP 92264 sector"]
-zillowHomeValueUsd: 645744
 ---
 
-**Engineering Notice for Palm Springs:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Palm Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Hydro-jetting in Palm Springs, CA requires camera confirmation before nozzle pressure is raised.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate local dispatch coverage around Palm Springs, CA and nearby ZIP sectors.
+CPVC solvent weld times shift with ambient humidity during Palm Springs, CA shoulder seasons.
 
-Homeowners in Palm Springs, CA often face sudden plumbing problems that require fast action.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92262/92258/92264.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 92262/92258/92264 coverage.
+Stack vent offsets in Palm Springs, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 92262, 92258, 92264, 92282, 92263 (county grid: Riverside County).
+Material note: Water heater anode type may change with Palm Springs, CA hardness profiles.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hydrostatic holds in Palm Springs, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Irrigation cross-connections in Palm Springs, CA can back-siphon domestic lines during main breaks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Lineage note 525123: recirculation pump amp draw captured before Palm Springs, CA branch isolation.
+
+Pressure trace 525123: meter-pit clearance and dielectric union checklist staged for Palm Springs, CA near elevation 430 ft.
+
+On-site sector marker: Riverside County / primary ZIP 92262 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92262-61cd6492

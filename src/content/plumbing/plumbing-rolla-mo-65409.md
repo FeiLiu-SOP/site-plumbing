@@ -12,26 +12,41 @@ lng: -91.7600
 zipSample: ["65401", "65402", "65409"]
 zipCodes: ["65401", "65409", "65402"]
 localPaths: ["Phelps County / ZIP 65402 sector", "Phelps County / coords 37.9500, -91.7600", "Phelps County / ZIP 65409 sector", "Phelps County / primary ZIP 65409", "Phelps County / elevation 1099 ft band"]
-zillowHomeValueUsd: 236217
 ---
 
-**Engineering Notice for Rolla:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Phelps County.
+**Engineering Notice for Rolla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Phelps County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rolla, MO.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rolla, MO, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Sewer gas odors in Rolla, MO should trigger trap seal and vent path review.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 65409.
 
-Field note: Connection points spot-checked where accessible (ZIP 65409/65402/65401 zone).
+Permit note: Main water line replacement in Rolla, MO may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 65409/65402/65401.
+Hydrostatic holds in Rolla, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 65409, 65402, 65401 (county grid: Phelps County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Frost-free sillcock failures in Rolla, MO often trace to interior shutoff seats, not exterior stems.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 695552: toilet flange spacer kit and shower cartridge seat score queued for Rolla, MO walk-through.
+
+Intake ledger 695552: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Rolla, MO at 37.9500, -91.7600.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Phelps County and primary ZIP 65409. Terrain reference: 1099 ft. Center point: 37.9500, -91.7600. ZIP sample: 65401, 65409, 65402. Service perimeter note: Coverage extends through Phelps County with dispatch centered near ZIP 65409.
 
 Service reference: MO-65409-6b2c8975

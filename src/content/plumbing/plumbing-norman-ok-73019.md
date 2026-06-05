@@ -12,24 +12,43 @@ lng: -97.3500
 zipSample: ["73019", "73072", "73070", "73026", "73069"]
 zipCodes: ["73026", "73068", "74857", "73070", "73071", "73019", "73072", "73069"]
 localPaths: ["Cleveland County / elevation 1152 ft band", "Cleveland County / primary ZIP 73019", "Cleveland County / ZIP 73070 sector", "Cleveland County / ZIP 73019 sector", "Cleveland County / ZIP 73026 sector"]
-zillowHomeValueUsd: 318821
 ---
 
-**Engineering Notice for Norman:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Cleveland County.
+**Engineering Notice for Norman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cleveland County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-A written scope helps prevent rework and mismatched expectations.
+Dual-water-meter setups in Norman, OK irrigation zones need backflow logs before line replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Norman, OK, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our service coordination centers on Norman, OK coverage windows and verified intake details.
+Hydrostatic holds in Norman, OK slab circuits run overnight when listening mics show ambiguous hits.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Galvanized segments in Norman, OK may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 73069/73026/73070 coverage.
+Stack vent offsets in Norman, OK older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 73069, 73026, 73070, 73019, 73071 (county grid: Cleveland County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Frost-free sillcock failures in Norman, OK often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Hydro-jetting in Norman, OK requires camera confirmation before nozzle pressure is raised.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Norman, OK systems need rebalancing.
+
+Drain map 906525: camera-pass priority and expansion-tank pre-charge noted for Norman, OK postal sector 73019.
+
+Pressure trace 906525: meter-pit clearance and dielectric union checklist staged for Norman, OK near elevation 1152 ft.
+
+On-site sector marker: Cleveland County / elevation 1152 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73019-15b2240a

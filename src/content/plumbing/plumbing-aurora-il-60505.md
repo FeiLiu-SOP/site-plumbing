@@ -12,26 +12,41 @@ lng: -88.2900
 zipSample: ["60505", "60507", "60568", "60503", "60519"]
 zipCodes: ["60598", "60507", "60502", "60506", "60569", "60503", "60519", "60599", "60505", "60572", "60504", "60568"]
 localPaths: ["Kane County / ZIP 60519 sector", "Kane County / elevation 728 ft band", "Kane County / ZIP 60503 sector", "Kane County / ZIP 60505 sector", "Kane County / primary ZIP 60505"]
-zillowHomeValueUsd: 243431
 ---
 
-**Engineering Notice for Aurora:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Aurora:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Aurora, IL.
 
-We coordinate local dispatch coverage around Aurora, IL and nearby ZIP sectors.
+CPVC solvent weld times shift with ambient humidity during Aurora, IL shoulder seasons.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Main water line replacement in Aurora, IL may require ROW restoration planning.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aurora, IL, but intake notes help reduce delays.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 60503/60568/60506 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 60503/60568/60506 intake.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 60503, 60568, 60506, 60598, 60505 (county grid: Kane County).
+Water heater T&P discharge paths in Aurora, IL must terminate safely before replacement quotes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Polybutylene manifold tags in Aurora, IL basements should be photographed before any wall chase opens.
+
+Irrigation cross-connections in Aurora, IL can back-siphon domestic lines during main breaks.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Lineage note 168048: recirculation pump amp draw captured before Aurora, IL branch isolation.
+
+Field routing: scale coupon sampling paired with PRV outlet curve near ZIP 60505.
+
+On-site sector marker: Kane County / ZIP 60569 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60505-8ee7bf0a

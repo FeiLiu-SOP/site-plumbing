@@ -12,24 +12,41 @@ lng: -96.8600
 zipSample: ["75123", "75115"]
 zipCodes: ["75115", "75123"]
 localPaths: ["Dallas County / elevation 633 ft band", "Dallas County / coords 32.6000, -96.8600", "Dallas County / primary ZIP 75115", "Dallas County / ZIP 75123 sector", "Dallas County / ZIP 75115 sector"]
-zillowHomeValueUsd: 326337
 ---
 
-**Engineering Notice for DeSoto:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for DeSoto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Homeowners in DeSoto, TX often face sudden plumbing problems that require fast action.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: request a written scope before work starts.
+FAQ: Is hydro-jetting always appropriate? In DeSoto, TX, pipe material and blockage type dictate method.
 
-Field note: Connection points spot-checked where accessible (ZIP 75115/75123 zone).
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 75115, 75123 (county grid: Dallas County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+We coordinate DeSoto, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+CPVC solvent weld times shift with ambient humidity during DeSoto, TX shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in DeSoto, TX systems need rebalancing.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 75115.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 704838: recirculation pump amp draw captured before DeSoto, TX branch isolation.
+
+Drain map 704838: camera-pass priority and expansion-tank pre-charge noted for DeSoto, TX postal sector 75115.
+
+Scope trace: copper pinhole cluster plus sewer cleanout cap thread referenced in Dallas County county grid review.
+
+ZIP-corridor snapshot for DeSoto, TX: sampled sectors include 75123, 75115; county routing grid remains Dallas County.
 
 Service reference: TX-75115-afc9b267

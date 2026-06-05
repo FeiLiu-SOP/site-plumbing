@@ -12,24 +12,39 @@ lng: -95.9700
 zipSample: ["74037", "74008"]
 zipCodes: ["74037", "74008"]
 localPaths: ["Tulsa County / ZIP 74008 sector", "Tulsa County / coords 36.0000, -95.9700", "Tulsa County / ZIP 74037 sector", "Tulsa County / elevation 696 ft band", "Tulsa County / primary ZIP 74008"]
-zillowHomeValueUsd: 349667
 ---
 
-**Engineering Notice for Jenks:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Jenks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
 
 
-We coordinate local dispatch coverage around Jenks, OK and nearby ZIP sectors.
+Trenchless sleeve pulls near Jenks, OK require pit shoring notes when water tables are high.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Jenks, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: request a written scope before work starts.
+Hose bib split patterns in Jenks, OK often follow missed winterization.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Jenks, OK, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Trenchless pulls in Jenks, OK require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 74008/74037 coverage.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 74008.
 
-Dispatch sectors sampled: ZIP 74008, 74037 (county grid: Tulsa County).
+Dual-water-meter setups in Jenks, OK irrigation zones need backflow logs before line replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Frost-free sillcock failures in Jenks, OK often trace to interior shutoff seats, not exterior stems.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Flow dossier 249185: branch wet-vent geometry and jetting nozzle envelope logged for Jenks, OK county grid Tulsa County (ZIP 74008).
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Tulsa County. Reference elevation: 696 ft. Primary coordinates: 36.0000, -95.9700. ZIP sample: 74008, 74037. Logistics priority: Serving residential sectors across Tulsa County and north-east ZIP 74008 grid.
 
 Service reference: OK-74008-e29a8dca

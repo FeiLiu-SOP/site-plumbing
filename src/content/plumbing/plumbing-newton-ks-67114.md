@@ -12,25 +12,39 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / primary ZIP 67114", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400", "Harvey County / ZIP 67114 sector"]
-zillowHomeValueUsd: 170186
 ---
 
-**Engineering Notice for Newton:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Harvey County.
+**Engineering Notice for Newton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harvey County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 67114.
+Hydrostatic holds in Newton, KS slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Newton, KS, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Newton, KS, before spring thaw and hurricane remnants.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: confirm licensing and insurance before approving work.
+Stack vent offsets in Newton, KS older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate local dispatch coverage around Newton, KS and nearby ZIP sectors.
+Trenchless sleeve pulls near Newton, KS require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67114.
+Hose bib split patterns in Newton, KS often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 67114 (county grid: Harvey County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Trenchless pulls in Newton, KS require pit dimensions verified against utility locate marks.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 67114.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 67114.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Flow dossier 669496: branch wet-vent geometry and jetting nozzle envelope logged for Newton, KS county grid Harvey County (ZIP 67114).
+
+Lineage note 669496: recirculation pump amp draw captured before Newton, KS branch isolation.
+
+On-site sector marker: Harvey County / elevation 1453 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67114-e097fd16

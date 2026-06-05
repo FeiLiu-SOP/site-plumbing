@@ -12,27 +12,43 @@ lng: -117.6600
 zipSample: ["91785", "91784", "91786"]
 zipCodes: ["91786", "91784", "91785"]
 localPaths: ["San Bernardino County / ZIP 91784 sector", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / elevation 1483 ft band", "San Bernardino County / ZIP 91785 sector", "San Bernardino County / ZIP 91786 sector"]
-zillowHomeValueUsd: 986159
 ---
 
-**Engineering Notice for Upland:** Structural loading calculated based on 1483 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Upland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-Our service coordination centers on Upland, CA coverage windows and verified intake details.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Stack vent offsets in Upland, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91784.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Upland, CA systems need rebalancing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Upland, CA, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Upland, CA shoulder seasons.
 
-Field note: Access points and staging constraints recorded for ZIP 91785/91784/91786 coverage.
+FAQ: Is hydro-jetting always appropriate? In Upland, CA, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 91785/91784/91786.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 91785, 91784, 91786 (county grid: San Bernardino County).
+Irrigation cross-connections in Upland, CA can back-siphon domestic lines during main breaks.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Basement floor drains in Upland, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hydro-jetting in Upland, CA requires camera confirmation before nozzle pressure is raised.
+
+Fixture shutoff stiffness in Upland, CA may indicate mineral bridging behind stems.
+
+Pressure trace 287327: meter-pit clearance and dielectric union checklist staged for Upland, CA near elevation 1483 ft.
+
+Drain map 287327: camera-pass priority and expansion-tank pre-charge noted for Upland, CA postal sector 91784.
+
+On-site sector marker: San Bernardino County / primary ZIP 91784 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91784-544677de

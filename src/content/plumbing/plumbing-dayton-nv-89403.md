@@ -12,24 +12,41 @@ lng: -119.5700
 zipSample: ["89403", "89428"]
 zipCodes: ["89403", "89428"]
 localPaths: ["Lyon County / primary ZIP 89403", "Lyon County / coords 39.2600, -119.5700", "Lyon County / ZIP 89428 sector", "Lyon County / ZIP 89403 sector", "Lyon County / elevation 4327 ft band"]
-zillowHomeValueUsd: 453611
 ---
 
-**Engineering Notice for Dayton:** Structural loading calculated based on 4327 ft terrain assessment. Regional dispatch grid: Lyon County.
+**Engineering Notice for Dayton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.
 
 
-Tip: request a written scope before work starts.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Dayton, NV systems need rebalancing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Dayton, NV plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 89403/89428 intake.
+In Dayton, NV, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 89403, 89428 (county grid: Lyon County).
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 89403.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When should sump battery backups be load-tested? In Dayton, NV, before spring thaw and hurricane remnants.
+
+Irrigation cross-connections in Dayton, NV can back-siphon domestic lines during main breaks.
+
+Water heater T&P discharge paths in Dayton, NV must terminate safely before replacement quotes.
+
+Branch wet vents in Dayton, NV can mask gurgling as a main-line issue.
+
+Dual-water-meter setups in Dayton, NV irrigation zones need backflow logs before line replacement.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 624347: meter-pit clearance and dielectric union checklist staged for Dayton, NV near elevation 4327 ft.
+
+Primary postal anchor 89403 with multi-ZIP overlap in Dayton; field packets tag Lyon County for county-grid reconciliation.
 
 Service reference: NV-89403-da5ac3d7

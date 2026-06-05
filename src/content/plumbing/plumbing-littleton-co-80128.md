@@ -12,26 +12,43 @@ lng: -105.0200
 zipSample: ["80128", "80160", "80166", "80122", "80120"]
 zipCodes: ["80165", "80166", "80120", "80123", "80128", "80122", "80160"]
 localPaths: ["Arapahoe County / elevation 5420 ft band", "Arapahoe County / ZIP 80160 sector", "Arapahoe County / primary ZIP 80128", "Arapahoe County / ZIP 80166 sector", "Arapahoe County / coords 39.5900, -105.0200"]
-zillowHomeValueUsd: 602626
 ---
 
-**Engineering Notice for Littleton:** Structural loading calculated based on 5420 ft terrain assessment. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Littleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.
 
 
-Tip: request a written scope before work starts.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 80128.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Littleton, CO, but intake notes help reduce delays.
+Trenchless pulls in Littleton, CO require pit dimensions verified against utility locate marks.
 
-Homeowners in Littleton, CO often face sudden plumbing problems that require fast action.
+Hose bib split patterns in Littleton, CO often follow missed winterization.
 
-We coordinate local dispatch coverage around Littleton, CO and nearby ZIP sectors.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Wind exposure category reviewed for ZIP sector 80160/80166/80128.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 80160/80166/80128 intake.
+Permit note: Main water line replacement in Littleton, CO may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 80160, 80166, 80128, 80123, 80122 (county grid: Arapahoe County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Hydro-jetting in Littleton, CO requires camera confirmation before nozzle pressure is raised.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: Is hydro-jetting always appropriate? In Littleton, CO, pipe material and blockage type dictate method.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Branch wet vents in Littleton, CO can mask gurgling as a main-line issue.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Pressure trace 207059: meter-pit clearance and dielectric union checklist staged for Littleton, CO near elevation 5420 ft.
+
+Fixture roster 207059: toilet flange spacer kit and shower cartridge seat score queued for Littleton, CO walk-through.
+
+ZIP-corridor snapshot for Littleton, CO: sampled sectors include 80166, 80120, 80160, 80123, 80165, 80128, 80122; county routing grid remains Arapahoe County.
 
 Service reference: CO-80128-af7a982d

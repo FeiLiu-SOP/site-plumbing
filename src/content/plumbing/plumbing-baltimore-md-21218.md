@@ -12,26 +12,41 @@ lng: -76.6100
 zipSample: ["21214", "21211", "21223", "21278", "21226"]
 zipCodes: ["21213", "21224", "21270", "21211", "21212", "21275", "21226", "21206", "21297", "21298", "21273", "21281"]
 localPaths: ["Baltimore County / coords 39.3100, -76.6100", "Baltimore County / elevation 118 ft band", "Baltimore County / primary ZIP 21218", "Baltimore County / ZIP 21211 sector", "Baltimore County / ZIP 21223 sector"]
-zillowHomeValueUsd: 185279
 ---
 
-**Engineering Notice for Baltimore:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Baltimore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Clear documentation helps align materials, labor, and timeline.
+Frost-free sillcock failures in Baltimore, MD often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Main water line replacement in Baltimore, MD may require ROW restoration planning.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Baltimore, MD, but intake notes help reduce delays.
+Dispatch packets reference county grid Baltimore County near ZIP 21218.
 
-Our service coordination centers on Baltimore, MD coverage windows and verified intake details.
+Irrigation cross-connections in Baltimore, MD can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 21281/21287/21230.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Connection points spot-checked where accessible (ZIP 21281/21287/21230 zone).
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 21281, 21287, 21230, 21215, 21270 (county grid: Baltimore County).
+Cleanout access limits in Baltimore, MD frequently extend drain cleaning duration.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 21218.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Baltimore, MD.
+
+Pressure trace 901079: meter-pit clearance and dielectric union checklist staged for Baltimore, MD near elevation 118 ft.
+
+Lineage note 901079: recirculation pump amp draw captured before Baltimore, MD branch isolation.
+
+Field routing: water softener bypass lever paired with fixture shutoff torque log near ZIP 21218.
+
+On-site sector marker: Baltimore County / ZIP 21206 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21218-d75ddae3

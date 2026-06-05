@@ -12,27 +12,43 @@ lng: -86.7600
 zipSample: ["35124"]
 zipCodes: ["35124"]
 localPaths: ["Shelby County / primary ZIP 35124", "Shelby County / ZIP 35124 sector", "Shelby County / coords 33.3100, -86.7600", "Shelby County / elevation 883 ft band"]
-zillowHomeValueUsd: 348407
 ---
 
-**Engineering Notice for Pelham:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Pelham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35124.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 35124.
 
-Our service coordination centers on Pelham, AL coverage windows and verified intake details.
+FAQ: When is cabling enough? In Pelham, AL, pipe material and blockage type dictate method.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35124.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Connection points spot-checked where accessible (ZIP 35124 zone).
+Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch sectors sampled: ZIP 35124 (county grid: Shelby County).
+FAQ: When should sump battery backups be load-tested? In Pelham, AL, before spring thaw and hurricane remnants.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Dispatch packets reference county grid Shelby County near ZIP 35124.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Stack vent offsets in Pelham, AL older duplexes can mask tub gurgle as a main-line failure.
+
+Fixture roster 663004: toilet flange spacer kit and shower cartridge seat score queued for Pelham, AL walk-through.
+
+Scope trace: scale coupon sampling plus gas water heater draft hood gap referenced in Shelby County county grid review.
+
+On-site sector marker: Shelby County / primary ZIP 35124 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35124-4bc6267b

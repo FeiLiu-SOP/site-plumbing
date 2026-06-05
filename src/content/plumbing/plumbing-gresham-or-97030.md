@@ -12,24 +12,41 @@ lng: -122.4400
 zipSample: ["97230", "97233", "97030", "97080"]
 zipCodes: ["97080", "97030", "97230", "97233"]
 localPaths: ["Multnomah County / elevation 381 ft band", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97233 sector", "Multnomah County / ZIP 97030 sector", "Multnomah County / coords 45.5000, -122.4400"]
-zillowHomeValueUsd: 439095
 ---
 
-**Engineering Notice for Gresham:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Gresham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Multnomah County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gresham, OR, but intake notes help reduce delays.
+Sump discharge freeze risk in Gresham, OR should be reviewed before spring thaw cycles.
 
-Tip: request a written scope before work starts.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 97030.
 
-Local conditions in Gresham, OR can affect timelines and material choices.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 97030.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97080/97030/97230.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 97080, 97030, 97230, 97233 (county grid: Multnomah County).
+Material note: Water heater anode type may change with Gresham, OR hardness profiles.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Gresham, OR systems need rebalancing.
+
+Step: camera-pass main lines in Gresham, OR before jetting older clay or cast iron.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: When should sump battery backups be load-tested? In Gresham, OR, before spring thaw and hurricane remnants.
+
+Flow dossier 638038: branch wet-vent geometry and jetting nozzle envelope logged for Gresham, OR county grid Multnomah County (ZIP 97030).
+
+Field routing: scale coupon sampling paired with water heater T&P path near ZIP 97030.
+
+**Regional Infrastructure Brief:** Grid anchor set to Multnomah County. Reference elevation: 381 ft. Primary coordinates: 45.5000, -122.4400. ZIP sample: 97030, 97080, 97233, 97230. Logistics priority: Serving residential sectors across Multnomah County and north-east ZIP 97030 grid.
 
 Service reference: OR-97030-e2cc0dfa

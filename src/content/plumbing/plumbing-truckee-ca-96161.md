@@ -12,24 +12,45 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96160", "96161"]
 localPaths: ["Nevada County / ZIP 96161 sector", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161", "Nevada County / ZIP 96160 sector", "Nevada County / coords 39.3500, -120.1800"]
-zillowHomeValueUsd: 1014753
 ---
 
-**Engineering Notice for Truckee:** Structural loading calculated based on 6201 ft terrain assessment. Regional dispatch grid: Nevada County.
+**Engineering Notice for Truckee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nevada County.
 
 
-Structured milestones protect both sides when scheduling work.
+Trenchless sleeve pulls near Truckee, CA require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 96161.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Truckee, CA, but intake notes help reduce delays.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is hydro-jetting always appropriate? In Truckee, CA, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96160/96161.
+Risk flag: Seasonal Truckee, CA irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 96160, 96161 (county grid: Nevada County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: Water heater anode type may change with Truckee, CA hardness profiles.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+CPVC solvent weld times shift with ambient humidity during Truckee, CA shoulder seasons.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+We coordinate Truckee, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Pressure trace 684356: meter-pit clearance and dielectric union checklist staged for Truckee, CA near elevation 6201 ft.
+
+Fixture roster 684356: toilet flange spacer kit and shower cartridge seat score queued for Truckee, CA walk-through.
+
+Scope trace: thermal expansion loop check plus jetter nozzle envelope referenced in Nevada County county grid review.
+
+On-site sector marker: Nevada County / coords 39.3500, -120.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-96161-fcc8312f

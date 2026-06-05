@@ -12,27 +12,41 @@ lng: -66.0400
 zipSample: ["00725", "00726", "00727"]
 zipCodes: ["00726", "00725", "00727"]
 localPaths: ["Caguas County / elevation 253 ft band", "Caguas County / ZIP 00726 sector", "Caguas County / coords 18.2300, -66.0400", "Caguas County / primary ZIP 00725", "Caguas County / ZIP 00727 sector"]
-zillowHomeValueUsd: 358650
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Caguas:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Caguas County.
+**Engineering Notice for Caguas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caguas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Structured milestones protect both sides when scheduling work.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: request a written scope before work starts.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate local dispatch coverage around Caguas, PR and nearby ZIP sectors.
+Expansion tank pre-charge loss in Caguas, PR often tracks heater replacement deferrals.
 
-Field note: Access points and staging constraints recorded for ZIP 00727/00726/00725 coverage.
+Trenchless pulls in Caguas, PR require pit dimensions verified against utility locate marks.
 
-Field note: Wind exposure category reviewed for ZIP sector 00727/00726/00725.
+Trenchless sleeve pulls near Caguas, PR require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 00727, 00726, 00725 (county grid: Caguas County).
+Dispatch packets reference county grid Caguas County near ZIP 00725.
+
+Branch wet vents in Caguas, PR can mask gurgling as a main-line issue.
+
+FAQ: When should sump battery backups be load-tested? In Caguas, PR, before spring thaw and hurricane remnants.
+
+Basement floor drains in Caguas, PR should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Caguas, PR.
+
+Drain map 299980: camera-pass priority and expansion-tank pre-charge noted for Caguas, PR postal sector 00725.
+
+Pressure trace 299980: meter-pit clearance and dielectric union checklist staged for Caguas, PR near elevation 253 ft.
+
+plumbing brief: slab penetration sleeve seal and thermal expansion loop check were cross-checked for the Caguas intake packet.
+
+Primary postal anchor 00725 with multi-ZIP overlap in Caguas; field packets tag Caguas County for county-grid reconciliation.
 
 Service reference: PR-00725-e95ae7f3

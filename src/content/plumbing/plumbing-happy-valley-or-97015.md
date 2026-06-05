@@ -12,27 +12,37 @@ lng: -122.5100
 zipSample: ["97015", "97089", "97086"]
 zipCodes: ["97086", "97015", "97089"]
 localPaths: ["Clackamas County / primary ZIP 97015", "Clackamas County / ZIP 97089 sector", "Clackamas County / ZIP 97086 sector", "Clackamas County / ZIP 97015 sector", "Clackamas County / coords 45.4400, -122.5100"]
-zillowHomeValueUsd: 587744
 ---
 
-**Engineering Notice for Happy Valley:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Happy Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97015.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Happy Valley, OR systems need rebalancing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Happy Valley, OR basements should be photographed before any wall chase opens.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Happy Valley, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 97089/97086/97015 intake.
+Water heater T&P discharge paths in Happy Valley, OR must terminate safely before replacement quotes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97089/97086/97015.
+Expansion tank pre-charge loss in Happy Valley, OR often tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 97089, 97086, 97015 (county grid: Clackamas County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Risk flag: Seasonal Happy Valley, OR irrigation cross-connections can mask domestic pressure loss.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Trenchless pulls in Happy Valley, OR require pit dimensions verified against utility locate marks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 335324: toilet flange spacer kit and shower cartridge seat score queued for Happy Valley, OR walk-through.
+
+Coordinate-anchored dispatch note: center reference 45.4400, -122.5100 at elevation ~659 ft aligns with Clackamas County intake staging.
 
 Service reference: OR-97015-54b3c0a8

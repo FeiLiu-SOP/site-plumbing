@@ -12,26 +12,41 @@ lng: -105.1000
 zipSample: ["80503", "80504", "80501"]
 zipCodes: ["80503", "80504", "80501"]
 localPaths: ["Boulder County / elevation 5003 ft band", "Boulder County / coords 40.1700, -105.1000", "Boulder County / ZIP 80501 sector", "Boulder County / primary ZIP 80501", "Boulder County / ZIP 80504 sector"]
-zillowHomeValueUsd: 492835
 ---
 
-**Engineering Notice for Longmont:** Structural loading calculated based on 5003 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Longmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boulder County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Longmont, CO.
 
-In Longmont, CO, urgent plumbing issues can escalate quickly.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Polybutylene manifold tags in Longmont, CO basements should be photographed before any wall chase opens.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Longmont, CO, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Dual-water-meter setups in Longmont, CO irrigation zones need backflow logs before line replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80504/80503/80501.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 80504/80503/80501 zone).
+Across Longmont, CO, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 80504, 80503, 80501 (county grid: Boulder County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Longmont, CO systems need rebalancing.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When should sump battery backups be load-tested? In Longmont, CO, before spring thaw and hurricane remnants.
+
+Fixture roster 908295: toilet flange spacer kit and shower cartridge seat score queued for Longmont, CO walk-through.
+
+Scope trace: meter pit clearance plus backflow test cock orientation referenced in Boulder County county grid review.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Boulder County. Reference elevation: 5003 ft. Primary coordinates: 40.1700, -105.1000. ZIP sample: 80504, 80503, 80501. Service perimeter note: Coverage extends through Boulder County with dispatch centered near ZIP 80501.
 
 Service reference: CO-80501-a586d14f

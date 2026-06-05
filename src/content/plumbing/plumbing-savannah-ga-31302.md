@@ -12,26 +12,43 @@ lng: -81.1800
 zipSample: ["31421", "31302", "31408", "31404", "31401"]
 zipCodes: ["31419", "31416", "31407", "31415", "31408", "31420", "31406", "31403", "31421", "31412", "31405", "31404"]
 localPaths: ["Chatham County / elevation 13 ft band", "Chatham County / ZIP 31404 sector", "Chatham County / ZIP 31421 sector", "Chatham County / ZIP 31302 sector", "Chatham County / primary ZIP 31302"]
-zillowHomeValueUsd: 334209
 ---
 
-**Engineering Notice for Savannah:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Chatham County.
+**Engineering Notice for Savannah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chatham County.
 
 
-Our service coordination centers on Savannah, GA coverage windows and verified intake details.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-In Savannah, GA, urgent plumbing issues can escalate quickly.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31302/31403/31406.
+Permit note: Main water line replacement in Savannah, GA may require ROW restoration planning.
 
-Field note: Access points and staging constraints recorded for ZIP 31302/31403/31406 coverage.
+FAQ: When should sump battery backups be load-tested? In Savannah, GA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 31302, 31403, 31406, 31421, 31405 (county grid: Chatham County).
+CPVC solvent weld times shift with ambient humidity during Savannah, GA shoulder seasons.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 31302.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Trenchless sleeve pulls near Savannah, GA require pit shoring notes when water tables are high.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In Savannah, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+Drain map 822592: camera-pass priority and expansion-tank pre-charge noted for Savannah, GA postal sector 31302.
+
+Flow dossier 822592: branch wet-vent geometry and jetting nozzle envelope logged for Savannah, GA county grid Chatham County (ZIP 31302).
+
+Scope trace: slab leak listening window plus PRV outlet curve referenced in Chatham County county grid review.
+
+On-site sector marker: Chatham County / ZIP 31416 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31302-913dbaef

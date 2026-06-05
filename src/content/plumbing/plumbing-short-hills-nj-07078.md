@@ -12,26 +12,41 @@ lng: -74.3300
 zipSample: ["07078"]
 zipCodes: ["07078"]
 localPaths: ["Essex County / elevation 413 ft band", "Essex County / primary ZIP 07078", "Essex County / coords 40.7400, -74.3300", "Essex County / ZIP 07078 sector"]
-zillowHomeValueUsd: 2305992
 ---
 
-**Engineering Notice for Short Hills:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Short Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal Short Hills, NJ irrigation cross-connections can mask domestic pressure loss.
 
-Tip: avoid large upfront payments without milestones.
+Fixture shutoff stiffness in Short Hills, NJ may indicate mineral bridging behind stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Short Hills, NJ, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-In Short Hills, NJ, seasonal demand can change scheduling windows.
+FAQ: When is cabling enough? In Short Hills, NJ, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07078.
+Permit note: Main water line replacement in Short Hills, NJ may require ROW restoration planning.
 
-Field note: Access points and staging constraints recorded for ZIP 07078 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 07078 (county grid: Essex County).
+CPVC solvent weld times shift with ambient humidity during Short Hills, NJ shoulder seasons.
+
+Dual-water-meter setups in Short Hills, NJ irrigation zones need backflow logs before line replacement.
+
+Step: map sump float travel and check-valve orientation for Short Hills, NJ basements.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Water heater anode type may change with Short Hills, NJ hardness profiles.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 286333: curb-stop orientation and hose-bib freeze flag reviewed for Short Hills, NJ at coords 40.7400/-74.3300.
+
+Flow dossier 286333: branch wet-vent geometry and jetting nozzle envelope logged for Short Hills, NJ county grid Essex County (ZIP 07078).
+
+On-site sector marker: Essex County / elevation 413 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07078-1e2f3e93

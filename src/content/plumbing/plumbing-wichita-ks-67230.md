@@ -12,26 +12,39 @@ lng: -97.3400
 zipSample: ["67218", "67278", "67214", "67209", "67217"]
 zipCodes: ["67277", "67276", "67208", "67275", "67202", "67211", "67204", "67201", "67212", "67209", "67219", "67260"]
 localPaths: ["Sedgwick County / primary ZIP 67230", "Sedgwick County / elevation 1329 ft band", "Sedgwick County / ZIP 67278 sector", "Sedgwick County / ZIP 67209 sector", "Sedgwick County / ZIP 67217 sector"]
-zillowHomeValueUsd: 436595
 ---
 
-**Engineering Notice for Wichita:** Structural loading calculated based on 1329 ft terrain assessment. Regional dispatch grid: Sedgwick County.
+**Engineering Notice for Wichita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sedgwick County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless pulls in Wichita, KS require pit dimensions verified against utility locate marks.
 
-Tip: request a written scope before work starts.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Wichita, KS.
 
-We coordinate local dispatch coverage around Wichita, KS and nearby ZIP sectors.
+Dispatch packets reference county grid Sedgwick County near ZIP 67230.
 
-Homeowners in Wichita, KS often face sudden plumbing problems that require fast action.
+Hard water in Wichita, KS accelerates scale on PRV seats and heater elements.
 
-Field note: Wind exposure category reviewed for ZIP sector 67213/67230/67201.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67213/67230/67201.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Wichita, KS.
 
-Dispatch sectors sampled: ZIP 67213, 67230, 67201, 67215, 67277 (county grid: Sedgwick County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: When should sump battery backups be load-tested? In Wichita, KS, before spring thaw and hurricane remnants.
+
+Hydrostatic holds in Wichita, KS slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 67230.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Intake ledger 238272: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wichita, KS at 37.6900, -97.3400.
+
+On-site sector marker: Sedgwick County / ZIP 67215 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67230-42fc57e8

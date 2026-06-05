@@ -12,26 +12,37 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46953", "46952"]
 localPaths: ["Grant County / primary ZIP 46953", "Grant County / elevation 817 ft band", "Grant County / ZIP 46953 sector", "Grant County / coords 40.5500, -85.6600", "Grant County / ZIP 46952 sector"]
-zillowHomeValueUsd: 107748
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Grant County.
+**Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grant County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is hydro-jetting always appropriate? In Marion, IN, pipe material and blockage type dictate method.
 
-A written scope helps prevent rework and mismatched expectations.
+Hydro-jetting in Marion, IN requires camera confirmation before nozzle pressure is raised.
 
-In Marion, IN, urgent plumbing issues can escalate quickly.
+Step: photograph curb-stop and meter pit before trenching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Marion, IN hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in Marion, IN slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 46953/46952 intake.
+Risk flag: In Marion, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 46953/46952 coverage.
+We coordinate Marion, IN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 46953, 46952 (county grid: Grant County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 46953.
+
+Polybutylene manifold tags in Marion, IN basements should be photographed before any wall chase opens.
+
+In Marion, IN, slab leaks often present as warm spots before wall stains appear.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 491460: meter-pit clearance and dielectric union checklist staged for Marion, IN near elevation 817 ft.
+
+On-site sector marker: Grant County / ZIP 46952 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46953-e841bb0f

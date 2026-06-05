@@ -12,26 +12,37 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / primary ZIP 20152", "Loudoun County / elevation 285 ft band", "Loudoun County / ZIP 20152 sector", "Loudoun County / coords 38.9100, -77.5100"]
-zillowHomeValueUsd: 853533
 ---
 
-**Engineering Notice for South Riding:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for South Riding:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in South Riding, VA irrigation zones need backflow logs before line replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 20152 zone).
+Irrigation cross-connections in South Riding, VA can back-siphon domestic lines during main breaks.
 
-Field note: Access points and staging constraints recorded for ZIP 20152 coverage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in South Riding, VA systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 20152 (county grid: Loudoun County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Branch wet vents in South Riding, VA can mask gurgling as a main-line issue.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: In South Riding, VA, slab leaks can misroute as foundation issues without listening equipment.
+
+Drain map 729897: camera-pass priority and expansion-tank pre-charge noted for South Riding, VA postal sector 20152.
+
+On-site sector marker: Loudoun County / primary ZIP 20152 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20152-383fd936

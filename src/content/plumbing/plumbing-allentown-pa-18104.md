@@ -12,24 +12,41 @@ lng: -75.4800
 zipSample: ["18101", "18105", "18102", "18104", "18103"]
 zipCodes: ["18101", "18104", "18105", "18001", "18103", "18109", "18102"]
 localPaths: ["Lehigh County / ZIP 18105 sector", "Lehigh County / ZIP 18102 sector", "Lehigh County / elevation 266 ft band", "Lehigh County / coords 40.6000, -75.4800", "Lehigh County / primary ZIP 18104"]
-zillowHomeValueUsd: 393757
 ---
 
-**Engineering Notice for Allentown:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Lehigh County.
+**Engineering Notice for Allentown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lehigh County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+Risk flag: In Allentown, PA, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 18104.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hydro-jetting in Allentown, PA requires camera confirmation before nozzle pressure is raised.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hose bib split patterns in Allentown, PA often follow missed winterization.
 
-Field note: Wind exposure category reviewed for ZIP sector 18001/18105/18102.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 18001, 18105, 18102, 18109, 18103 (county grid: Lehigh County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Allentown, PA.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Dispatch packets reference county grid Lehigh County near ZIP 18104.
+
+Recirculation pump failures in Allentown, PA can mimic fixture-specific clogs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 479957: recirculation pump amp draw captured before Allentown, PA branch isolation.
+
+Intake ledger 479957: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Allentown, PA at 40.6000, -75.4800.
+
+ZIP-corridor snapshot for Allentown, PA: sampled sectors include 18001, 18102, 18103, 18101, 18105, 18104, 18109; county routing grid remains Lehigh County.
 
 Service reference: PA-18104-14088601

@@ -12,26 +12,41 @@ lng: -114.0200
 zipSample: ["59812", "59802", "59803", "59808", "59801"]
 zipCodes: ["59802", "59808", "59801", "59812", "59803"]
 localPaths: ["Missoula County / ZIP 59801 sector", "Missoula County / primary ZIP 59812", "Missoula County / ZIP 59802 sector", "Missoula County / ZIP 59812 sector", "Missoula County / coords 46.8800, -114.0200"]
-zillowHomeValueUsd: 499191
 ---
 
-**Engineering Notice for Missoula:** Structural loading calculated based on 3166 ft terrain assessment. Regional dispatch grid: Missoula County.
+**Engineering Notice for Missoula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Missoula County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Fixture shutoff stiffness in Missoula, MT may indicate mineral bridging behind stems.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Missoula, MT, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Missoula, MT systems need rebalancing.
 
-Field note: Connection points spot-checked where accessible (ZIP 59812/59803/59801 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 59812/59803/59801.
+Material note: Water heater anode type may change with Missoula, MT hardness profiles.
 
-Dispatch sectors sampled: ZIP 59812, 59803, 59801, 59808, 59802 (county grid: Missoula County).
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Seasonal Missoula, MT irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Flow dossier 126134: branch wet-vent geometry and jetting nozzle envelope logged for Missoula, MT county grid Missoula County (ZIP 59812).
+
+Fixture roster 126134: toilet flange spacer kit and shower cartridge seat score queued for Missoula, MT walk-through.
+
+Scope trace: copper pinhole cluster plus dielectric union checklist referenced in Missoula County county grid review.
+
+On-site sector marker: Missoula County / primary ZIP 59812 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59812-cf20e874

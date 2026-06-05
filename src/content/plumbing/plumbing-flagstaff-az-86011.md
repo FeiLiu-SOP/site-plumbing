@@ -12,27 +12,43 @@ lng: -111.6200
 zipSample: ["86011", "86001", "86002", "86005", "86004"]
 zipCodes: ["86005", "86002", "86001", "86004", "86011"]
 localPaths: ["Coconino County / ZIP 86005 sector", "Coconino County / ZIP 86011 sector", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86002 sector", "Coconino County / ZIP 86004 sector"]
-zillowHomeValueUsd: 666872
 ---
 
-**Engineering Notice for Flagstaff:** Structural loading calculated based on 6837 ft terrain assessment. Regional dispatch grid: Coconino County.
+**Engineering Notice for Flagstaff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coconino County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Our service coordination centers on Flagstaff, AZ coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Flagstaff, AZ.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 86011.
+Hydrostatic holds in Flagstaff, AZ slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Wind exposure category reviewed for ZIP sector 86001/86004/86005.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 86001/86004/86005.
+In Flagstaff, AZ, slab leaks often present as warm spots before wall stains appear.
 
-Dispatch sectors sampled: ZIP 86001, 86004, 86005, 86002, 86011 (county grid: Coconino County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Trenchless sleeve pulls near Flagstaff, AZ require pit shoring notes when water tables are high.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+CPVC solvent weld times shift with ambient humidity during Flagstaff, AZ shoulder seasons.
+
+Supply audit 139865: curb-stop orientation and hose-bib freeze flag reviewed for Flagstaff, AZ at coords 35.1900/-111.6200.
+
+Flow dossier 139865: branch wet-vent geometry and jetting nozzle envelope logged for Flagstaff, AZ county grid Coconino County (ZIP 86011).
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~6837 ft across the Coconino County area. Coordinates: 35.1900, -111.6200. ZIP sample: 86004, 86005, 86002, 86011, 86001. Service perimeter note: Coverage extends through Coconino County with dispatch centered near ZIP 86011.
 
 Service reference: AZ-86011-6bb295e8

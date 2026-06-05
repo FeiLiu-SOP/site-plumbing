@@ -12,24 +12,43 @@ lng: -83.1500
 zipSample: ["48073", "48067", "48068"]
 zipCodes: ["48068", "48067", "48073"]
 localPaths: ["Oakland County / coords 42.5100, -83.1500", "Oakland County / ZIP 48068 sector", "Oakland County / ZIP 48073 sector", "Oakland County / ZIP 48067 sector", "Oakland County / primary ZIP 48067"]
-zillowHomeValueUsd: 341581
 ---
 
-**Engineering Notice for Royal Oak:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Royal Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Our service coordination centers on Royal Oak, MI coverage windows and verified intake details.
+Material note: Water heater anode type may change with Royal Oak, MI hardness profiles.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Clear documentation helps align materials, labor, and timeline.
+Trenchless sleeve pulls near Royal Oak, MI require pit shoring notes when water tables are high.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48068/48067/48073.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 48068, 48067, 48073 (county grid: Oakland County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 48067.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: In Royal Oak, MI, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Dual-water-meter setups in Royal Oak, MI irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Royal Oak, MI.
+
+Lineage note 576314: recirculation pump amp draw captured before Royal Oak, MI branch isolation.
+
+Scope trace: meter pit clearance plus scale coupon sampling referenced in Oakland County county grid review.
+
+Primary postal anchor 48067 with multi-ZIP overlap in Royal Oak; field packets tag Oakland County for county-grid reconciliation.
 
 Service reference: MI-48067-4b7dad9c

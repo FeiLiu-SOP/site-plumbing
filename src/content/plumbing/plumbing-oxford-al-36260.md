@@ -12,24 +12,43 @@ lng: -85.8700
 zipSample: ["36253", "36203", "36260"]
 zipCodes: ["36260", "36253", "36203"]
 localPaths: ["Calhoun County / ZIP 36203 sector", "Calhoun County / primary ZIP 36260", "Calhoun County / coords 33.6000, -85.8700", "Calhoun County / ZIP 36253 sector", "Calhoun County / elevation 646 ft band"]
-zillowHomeValueUsd: 186807
 ---
 
-**Engineering Notice for Oxford:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.
 
 
-We coordinate local dispatch coverage around Oxford, AL and nearby ZIP sectors.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 36260.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Irrigation cross-connections in Oxford, AL can back-siphon domestic lines during main breaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oxford, AL, but intake notes help reduce delays.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 36260/36253/36203 intake.
+Dual-water-meter setups in Oxford, AL irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 36260, 36253, 36203 (county grid: Calhoun County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: Is hydro-jetting always appropriate? In Oxford, AL, pipe material and blockage type dictate method.
+
+Trenchless pulls in Oxford, AL require pit dimensions verified against utility locate marks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Cast-iron hub corrosion in Oxford, AL often concentrates at the third joint upstream of the cleanout.
+
+Pressure trace 459837: meter-pit clearance and dielectric union checklist staged for Oxford, AL near elevation 646 ft.
+
+Fixture roster 459837: toilet flange spacer kit and shower cartridge seat score queued for Oxford, AL walk-through.
+
+Primary postal anchor 36260 with multi-ZIP overlap in Oxford; field packets tag Calhoun County for county-grid reconciliation.
 
 Service reference: AL-36260-581d9f0e

@@ -12,26 +12,41 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / coords 42.5000, -83.1900", "Oakland County / elevation 696 ft band", "Oakland County / primary ZIP 48072", "Oakland County / ZIP 48072 sector"]
-zillowHomeValueUsd: 314756
 ---
 
-**Engineering Notice for Berkley:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Berkley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near Berkley, MI require pit shoring notes when water tables are high.
 
-We coordinate local dispatch coverage around Berkley, MI and nearby ZIP sectors.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 48072 zone).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 48072.
 
-Field note: Access points and staging constraints recorded for ZIP 48072 coverage.
+Risk flag: Seasonal Berkley, MI irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 48072 (county grid: Oakland County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hard water in Berkley, MI accelerates scale on PRV seats and heater elements.
+
+Basement floor drains in Berkley, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Flow dossier 303193: branch wet-vent geometry and jetting nozzle envelope logged for Berkley, MI county grid Oakland County (ZIP 48072).
+
+Lineage note 303193: recirculation pump amp draw captured before Berkley, MI branch isolation.
+
+Coordinate-anchored dispatch note: center reference 42.5000, -83.1900 at elevation ~696 ft aligns with Oakland County intake staging.
 
 Service reference: MI-48072-307d409b

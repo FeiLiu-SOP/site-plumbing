@@ -12,24 +12,41 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / coords 36.1000, -115.0400", "Clark County / elevation 1667 ft band", "Clark County / ZIP 89122 sector", "Clark County / primary ZIP 89122"]
-zillowHomeValueUsd: 356246
 ---
 
-**Engineering Notice for Whitney:** Structural loading calculated based on 1667 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Whitney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-Our service coordination centers on Whitney, NV coverage windows and verified intake details.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Whitney, NV, but intake notes help reduce delays.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-In Whitney, NV, seasonal demand can change scheduling windows.
+Risk flag: Seasonal Whitney, NV irrigation cross-connections can mask domestic pressure loss.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 89122 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 89122 (county grid: Clark County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Whitney, NV, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When should sump battery backups be load-tested? In Whitney, NV, before spring thaw and hurricane remnants.
+
+Drain map 855328: camera-pass priority and expansion-tank pre-charge noted for Whitney, NV postal sector 89122.
+
+plumbing brief: toilet flange spacer kit and shower cartridge seat score were cross-checked for the Whitney intake packet.
+
+Coordinate-anchored dispatch note: center reference 36.1000, -115.0400 at elevation ~1667 ft aligns with Clark County intake staging.
 
 Service reference: NV-89122-d3b73d97

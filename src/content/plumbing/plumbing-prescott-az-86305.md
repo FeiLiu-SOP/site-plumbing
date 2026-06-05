@@ -12,25 +12,39 @@ lng: -112.4500
 zipSample: ["86302", "86313", "86305", "86301", "86303"]
 zipCodes: ["86305", "86302", "86303", "86313", "86301", "86304"]
 localPaths: ["Yavapai County / ZIP 86302 sector", "Yavapai County / coords 34.5800, -112.4500", "Yavapai County / ZIP 86301 sector", "Yavapai County / ZIP 86313 sector", "Yavapai County / primary ZIP 86305"]
-zillowHomeValueUsd: 714814
 ---
 
-**Engineering Notice for Prescott:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Yavapai County.
+**Engineering Notice for Prescott:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yavapai County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Prescott, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Homeowners in Prescott, AZ often face sudden plumbing problems that require fast action.
+Stack vent offsets in Prescott, AZ older duplexes can mask tub gurgle as a main-line failure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hydro-jetting in Prescott, AZ requires camera confirmation before nozzle pressure is raised.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 86305.
+Fixture shutoff stiffness in Prescott, AZ may indicate mineral bridging behind stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 86303/86313/86304.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 86303, 86313, 86304, 86305, 86302 (county grid: Yavapai County).
+Across Prescott, AZ, main-line bellies can trap debris even when fixtures drain normally.
+
+Cast-iron hub corrosion in Prescott, AZ often concentrates at the third joint upstream of the cleanout.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Hydrostatic holds in Prescott, AZ slab circuits run overnight when listening mics show ambiguous hits.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 199245: curb-stop orientation and hose-bib freeze flag reviewed for Prescott, AZ at coords 34.5800/-112.4500.
+
+Fixture roster 199245: toilet flange spacer kit and shower cartridge seat score queued for Prescott, AZ walk-through.
+
+On-site sector marker: Yavapai County / ZIP 86304 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86305-eb8999b6

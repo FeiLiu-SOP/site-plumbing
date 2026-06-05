@@ -12,26 +12,43 @@ lng: -92.1300
 zipSample: ["72076", "72099", "72078"]
 zipCodes: ["72099", "72078", "72076"]
 localPaths: ["Pulaski County / ZIP 72076 sector", "Pulaski County / elevation 308 ft band", "Pulaski County / coords 34.8800, -92.1300", "Pulaski County / primary ZIP 72099", "Pulaski County / ZIP 72099 sector"]
-zillowHomeValueUsd: 169039
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Jacksonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
 
 
-Our service coordination centers on Jacksonville, AR coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Jacksonville, AR often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 72078/72076/72099 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Connection points spot-checked where accessible (ZIP 72078/72076/72099 zone).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 72078, 72076, 72099 (county grid: Pulaski County).
+FAQ: When should sump battery backups be load-tested? In Jacksonville, AR, before spring thaw and hurricane remnants.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Jacksonville, AR systems need rebalancing.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Cast-iron hub corrosion in Jacksonville, AR often concentrates at the third joint upstream of the cleanout.
+
+Flow dossier 474700: branch wet-vent geometry and jetting nozzle envelope logged for Jacksonville, AR county grid Pulaski County (ZIP 72099).
+
+Supply audit 474700: curb-stop orientation and hose-bib freeze flag reviewed for Jacksonville, AR at coords 34.8800/-92.1300.
+
+plumbing brief: cleanout riser height and PEX expansion ring batch were cross-checked for the Jacksonville intake packet.
+
+Coordinate-anchored dispatch note: center reference 34.8800, -92.1300 at elevation ~308 ft aligns with Pulaski County intake staging.
 
 Service reference: AR-72099-d53e5ae3

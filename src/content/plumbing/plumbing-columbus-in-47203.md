@@ -12,27 +12,41 @@ lng: -85.9200
 zipSample: ["47202", "47203", "47201"]
 zipCodes: ["47203", "47202", "47201"]
 localPaths: ["Bartholomew County / ZIP 47201 sector", "Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / ZIP 47203 sector", "Bartholomew County / coords 39.2100, -85.9200"]
-zillowHomeValueUsd: 285720
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Bartholomew County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bartholomew County.
 
 
-Our service coordination centers on Columbus, IN coverage windows and verified intake details.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 47203.
+Hard water in Columbus, IN accelerates scale on PRV seats and heater elements.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Columbus, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Moisture pathway inspection logged near ZIP 47203/47202/47201 intake.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 47203/47202/47201.
+FAQ: When should sump battery backups be load-tested? In Columbus, IN, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 47203, 47202, 47201 (county grid: Bartholomew County).
+Frost-free sillcock failures in Columbus, IN often trace to interior shutoff seats, not exterior stems.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Cast-iron hub corrosion in Columbus, IN often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Flow dossier 325440: branch wet-vent geometry and jetting nozzle envelope logged for Columbus, IN county grid Bartholomew County (ZIP 47203).
+
+Coordinate-anchored dispatch note: center reference 39.2100, -85.9200 at elevation ~633 ft aligns with Bartholomew County intake staging.
 
 Service reference: IN-47203-9eb6d06d

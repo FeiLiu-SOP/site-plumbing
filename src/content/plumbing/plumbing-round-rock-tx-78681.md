@@ -12,27 +12,43 @@ lng: -97.6600
 zipSample: ["78664", "78665", "78681", "78683", "78682"]
 zipCodes: ["78681", "78665", "78682", "78683", "78664"]
 localPaths: ["Williamson County / coords 30.5300, -97.6600", "Williamson County / ZIP 78681 sector", "Williamson County / ZIP 78682 sector", "Williamson County / ZIP 78665 sector", "Williamson County / primary ZIP 78681"]
-zillowHomeValueUsd: 486094
 ---
 
-**Engineering Notice for Round Rock:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Round Rock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 78681.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Our service coordination centers on Round Rock, TX coverage windows and verified intake details.
+Basement floor drains in Round Rock, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Water heater anode type may change with Round Rock, TX hardness profiles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Round Rock, TX, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-A written scope helps prevent rework and mismatched expectations.
+Hose bib split patterns in Round Rock, TX often follow missed winterization.
 
-Field note: Wind exposure category reviewed for ZIP sector 78665/78682/78664.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78665/78682/78664.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 78681.
 
-Dispatch sectors sampled: ZIP 78665, 78682, 78664, 78681, 78683 (county grid: Williamson County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Round Rock, TX systems need rebalancing.
+
+Permit note: Main water line replacement in Round Rock, TX may require ROW restoration planning.
+
+Trenchless pulls in Round Rock, TX require pit dimensions verified against utility locate marks.
+
+Frost-free sillcock failures in Round Rock, TX often trace to interior shutoff seats, not exterior stems.
+
+Irrigation cross-connections in Round Rock, TX can back-siphon domestic lines during main breaks.
+
+Pressure trace 887753: meter-pit clearance and dielectric union checklist staged for Round Rock, TX near elevation 745 ft.
+
+Fixture roster 887753: toilet flange spacer kit and shower cartridge seat score queued for Round Rock, TX walk-through.
+
+Scope trace: fixture shutoff torque log plus meter pit clearance referenced in Williamson County county grid review.
+
+ZIP-corridor snapshot for Round Rock, TX: sampled sectors include 78664, 78665, 78681, 78683, 78682; county routing grid remains Williamson County.
 
 Service reference: TX-78681-0886c8f8

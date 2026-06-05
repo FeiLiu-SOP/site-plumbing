@@ -12,24 +12,41 @@ lng: -77.3000
 zipSample: ["22102", "22066"]
 zipCodes: ["22102", "22066"]
 localPaths: ["Fairfax County / coords 39.0100, -77.3000", "Fairfax County / ZIP 22102 sector", "Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22066 sector", "Fairfax County / primary ZIP 22066"]
-zillowHomeValueUsd: 1681467
 ---
 
-**Engineering Notice for Great Falls:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Great Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-Tip: avoid large upfront payments without milestones.
+Frost-free sillcock failures in Great Falls, VA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Great Falls, VA systems need rebalancing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Great Falls, VA, but intake notes help reduce delays.
+Dual-water-meter setups in Great Falls, VA irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on Great Falls, VA coverage windows and verified intake details.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 22066/22102.
+We coordinate Great Falls, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 22066, 22102 (county grid: Fairfax County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 22066.
+
+Polybutylene manifold tags in Great Falls, VA basements should be photographed before any wall chase opens.
+
+Hydrostatic holds in Great Falls, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When should sump battery backups be load-tested? In Great Falls, VA, before spring thaw and hurricane remnants.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Supply audit 365285: curb-stop orientation and hose-bib freeze flag reviewed for Great Falls, VA at coords 39.0100/-77.3000.
+
+Flow dossier 365285: branch wet-vent geometry and jetting nozzle envelope logged for Great Falls, VA county grid Fairfax County (ZIP 22066).
+
+On-site sector marker: Fairfax County / coords 39.0100, -77.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22066-425e0fa0

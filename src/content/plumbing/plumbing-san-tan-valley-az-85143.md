@@ -12,26 +12,39 @@ lng: -111.5600
 zipSample: ["85144", "85143", "85140", "85142"]
 zipCodes: ["85140", "85142", "85143", "85144"]
 localPaths: ["Pinal County / ZIP 85142 sector", "Pinal County / coords 33.1800, -111.5600", "Pinal County / ZIP 85143 sector", "Pinal County / elevation 1493 ft band", "Pinal County / primary ZIP 85143"]
-zillowHomeValueUsd: 376893
 ---
 
-**Engineering Notice for San Tan Valley:** Structural loading calculated based on 1493 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for San Tan Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save water heater serial plates for warranty traceability.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85143.
+Hard water in San Tan Valley, AZ accelerates scale on PRV seats and heater elements.
 
-Our service coordination centers on San Tan Valley, AZ coverage windows and verified intake details.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85143.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 85144/85142/85140 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 85144, 85142, 85140, 85143 (county grid: Pinal County).
+Branch wet vents in San Tan Valley, AZ can mask gurgling as a main-line issue.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Water heater T&P discharge paths in San Tan Valley, AZ must terminate safely before replacement quotes.
+
+Trenchless pulls in San Tan Valley, AZ require pit dimensions verified against utility locate marks.
+
+Basement floor drains in San Tan Valley, AZ should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 263976: toilet flange spacer kit and shower cartridge seat score queued for San Tan Valley, AZ walk-through.
+
+Drain map 263976: camera-pass priority and expansion-tank pre-charge noted for San Tan Valley, AZ postal sector 85143.
+
+On-site sector marker: Pinal County / coords 33.1800, -111.5600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85143-b0528592

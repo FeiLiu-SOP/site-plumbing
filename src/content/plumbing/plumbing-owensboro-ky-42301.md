@@ -12,24 +12,45 @@ lng: -87.1200
 zipSample: ["42301", "42304", "42303"]
 zipCodes: ["42303", "42304", "42301"]
 localPaths: ["Daviess County / elevation 433 ft band", "Daviess County / ZIP 42301 sector", "Daviess County / primary ZIP 42301", "Daviess County / coords 37.7600, -87.1200", "Daviess County / ZIP 42304 sector"]
-zillowHomeValueUsd: 205710
 ---
 
-**Engineering Notice for Owensboro:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Daviess County.
+**Engineering Notice for Owensboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Daviess County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-In Owensboro, KY, seasonal demand can change scheduling windows.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate local dispatch coverage around Owensboro, KY and nearby ZIP sectors.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 42301.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Owensboro, KY.
 
-Field note: Moisture pathway inspection logged near ZIP 42304/42301/42303 intake.
+Hose bib split patterns in Owensboro, KY often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 42304, 42301, 42303 (county grid: Daviess County).
+Trenchless sleeve pulls near Owensboro, KY require pit shoring notes when water tables are high.
+
+Basement floor drains in Owensboro, KY should be snaked only after trap arm geometry is confirmed on camera.
+
+Galvanized segments in Owensboro, KY may restrict flow long before visible corrosion.
+
+FAQ: When is cabling enough? In Owensboro, KY, pipe material and blockage type dictate method.
+
+Material note: Water heater anode type may change with Owensboro, KY hardness profiles.
+
+Dual-water-meter setups in Owensboro, KY irrigation zones need backflow logs before line replacement.
+
+Irrigation cross-connections in Owensboro, KY can back-siphon domestic lines during main breaks.
+
+Hydrostatic holds in Owensboro, KY slab circuits run overnight when listening mics show ambiguous hits.
+
+Fixture roster 574584: toilet flange spacer kit and shower cartridge seat score queued for Owensboro, KY walk-through.
+
+Flow dossier 574584: branch wet-vent geometry and jetting nozzle envelope logged for Owensboro, KY county grid Daviess County (ZIP 42301).
+
+plumbing brief: sewer cleanout cap thread and recirculation pump amp draw were cross-checked for the Owensboro intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Daviess County and primary ZIP 42301. Terrain reference: 433 ft. Center point: 37.7600, -87.1200. ZIP sample: 42303, 42304, 42301. Service perimeter note: Coverage extends through Daviess County with dispatch centered near ZIP 42301.
 
 Service reference: KY-42301-74867c3b

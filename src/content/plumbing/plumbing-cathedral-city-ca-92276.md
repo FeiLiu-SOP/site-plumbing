@@ -12,24 +12,39 @@ lng: -116.4600
 zipSample: ["92276", "92234", "92235"]
 zipCodes: ["92235", "92276", "92234"]
 localPaths: ["Riverside County / ZIP 92276 sector", "Riverside County / ZIP 92235 sector", "Riverside County / coords 33.8400, -116.4600", "Riverside County / primary ZIP 92276", "Riverside County / elevation 387 ft band"]
-zillowHomeValueUsd: 388788
 ---
 
-**Engineering Notice for Cathedral City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Cathedral City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Branch wet vents in Cathedral City, CA can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Connection points spot-checked where accessible (ZIP 92235/92276/92234 zone).
+Permit note: Main water line replacement in Cathedral City, CA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 92235, 92276, 92234 (county grid: Riverside County).
+Step: camera-pass main lines in Cathedral City, CA before jetting older clay or cast iron.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Dual-water-meter setups in Cathedral City, CA irrigation zones need backflow logs before line replacement.
+
+FAQ: When is cabling enough? In Cathedral City, CA, pipe material and blockage type dictate method.
+
+CPVC solvent weld times shift with ambient humidity during Cathedral City, CA shoulder seasons.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Cathedral City, CA systems need rebalancing.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Cathedral City, CA.
+
+Flow dossier 882248: branch wet-vent geometry and jetting nozzle envelope logged for Cathedral City, CA county grid Riverside County (ZIP 92276).
+
+**Regional Infrastructure Brief:** Coverage anchor set to Riverside County. Reference elevation: 387 ft. Primary coordinates: 33.8400, -116.4600. ZIP sample: 92235, 92234, 92276. Service perimeter note: Coverage extends through Riverside County with dispatch centered near ZIP 92276.
 
 Service reference: CA-92276-f8032328

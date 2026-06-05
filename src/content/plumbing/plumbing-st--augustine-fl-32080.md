@@ -12,24 +12,39 @@ lng: -81.3100
 zipSample: ["32095", "32084", "32080"]
 zipCodes: ["32080", "32084", "32095"]
 localPaths: ["St. Johns County / ZIP 32084 sector", "St. Johns County / elevation 0 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / coords 29.9000, -81.3100", "St. Johns County / ZIP 32080 sector"]
-zillowHomeValueUsd: 538461
 ---
 
-**Engineering Notice for St. Augustine:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: St. Johns County.
+**Engineering Notice for St. Augustine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Johns County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In St. Augustine, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our service coordination centers on St. Augustine, FL coverage windows and verified intake details.
+Stack vent offsets in St. Augustine, FL older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Augustine, FL, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In St. Augustine, FL, before spring thaw and hurricane remnants.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 32080/32095/32084 intake.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 32080.
 
-Dispatch sectors sampled: ZIP 32080, 32095, 32084 (county grid: St. Johns County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Water heater anode type may change with St. Augustine, FL hardness profiles.
+
+Irrigation cross-connections in St. Augustine, FL can back-siphon domestic lines during main breaks.
+
+Step: map sump float travel and check-valve orientation for St. Augustine, FL basements.
+
+Cleanout access limits in St. Augustine, FL frequently extend drain cleaning duration.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Pressure trace 634022: meter-pit clearance and dielectric union checklist staged for St. Augustine, FL near elevation 0 ft.
+
+On-site sector marker: St. Johns County / ZIP 32080 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32080-195e8feb

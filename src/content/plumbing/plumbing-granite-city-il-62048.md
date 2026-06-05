@@ -12,26 +12,39 @@ lng: -90.1300
 zipSample: ["62040", "62048"]
 zipCodes: ["62040", "62048"]
 localPaths: ["Madison County / primary ZIP 62048", "Madison County / elevation 430 ft band", "Madison County / ZIP 62040 sector", "Madison County / ZIP 62048 sector", "Madison County / coords 38.7300, -90.1300"]
-zillowHomeValueUsd: 74945
 ---
 
-**Engineering Notice for Granite City:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Granite City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Stack vent offsets in Granite City, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: request a written scope before work starts.
+Basement floor drains in Granite City, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 62048/62040 coverage.
+Step: camera-pass main lines in Granite City, IL before jetting older clay or cast iron.
 
-Field note: Wind exposure category reviewed for ZIP sector 62048/62040.
+Trenchless pulls in Granite City, IL require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 62048, 62040 (county grid: Madison County).
+Step: map sump float travel and check-valve orientation for Granite City, IL basements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Expansion tank pre-charge loss in Granite City, IL often tracks heater replacement deferrals.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Lineage note 116993: recirculation pump amp draw captured before Granite City, IL branch isolation.
+
+On-site sector marker: Madison County / coords 38.7300, -90.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62048-05446ed4

@@ -12,27 +12,37 @@ lng: -103.6400
 zipSample: ["58801", "58802", "58803"]
 zipCodes: ["58801", "58802", "58803"]
 localPaths: ["Williams County / elevation 1903 ft band", "Williams County / ZIP 58803 sector", "Williams County / coords 48.1800, -103.6400", "Williams County / ZIP 58801 sector", "Williams County / ZIP 58802 sector"]
-zillowHomeValueUsd: 364342
 ---
 
-**Engineering Notice for Williston:** Structural loading calculated based on 1903 ft terrain assessment. Regional dispatch grid: Williams County.
+**Engineering Notice for Williston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williams County.
 
 
-Our service coordination centers on Williston, ND coverage windows and verified intake details.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: confirm licensing and insurance before approving work.
+Across Williston, ND, main-line bellies can trap debris even when fixtures drain normally.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 58801.
+Step: map sump float travel and check-valve orientation for Williston, ND basements.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hose bib split patterns in Williston, ND often follow missed winterization.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Main water line replacement in Williston, ND may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 58801/58802/58803.
+Frost-free sillcock failures in Williston, ND often trace to interior shutoff seats, not exterior stems.
 
-Field note: Connection points spot-checked where accessible (ZIP 58801/58802/58803 zone).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 58801, 58802, 58803 (county grid: Williams County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Recirculation pump failures in Williston, ND can mimic fixture-specific clogs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Basement floor drains in Williston, ND should be snaked only after trap arm geometry is confirmed on camera.
+
+Intake ledger 812995: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Williston, ND at 48.1800, -103.6400.
+
+On-site sector marker: Williams County / ZIP 58802 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58801-f328c5f2

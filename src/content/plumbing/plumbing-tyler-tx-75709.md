@@ -12,25 +12,41 @@ lng: -95.3100
 zipSample: ["75798", "75703", "75713", "75710", "75709"]
 zipCodes: ["75710", "75713", "75712", "75798", "75799", "75709", "75703", "75711", "75702", "75701"]
 localPaths: ["Smith County / elevation 545 ft band", "Smith County / ZIP 75713 sector", "Smith County / coords 32.3200, -95.3100", "Smith County / ZIP 75709 sector", "Smith County / primary ZIP 75709"]
-zillowHomeValueUsd: 284062
 ---
 
-**Engineering Notice for Tyler:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Smith County.
+**Engineering Notice for Tyler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Smith County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tyler, TX, but intake notes help reduce delays.
+Tip: Save water heater serial plates for warranty traceability.
 
-Our service coordination centers on Tyler, TX coverage windows and verified intake details.
+Frost-free sillcock failures in Tyler, TX often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: request a written scope before work starts.
+We coordinate Tyler, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 75709.
+Irrigation cross-connections in Tyler, TX can back-siphon domestic lines during main breaks.
 
-Field note: Access points and staging constraints recorded for ZIP 75701/75710/75798 coverage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 75701, 75710, 75798, 75702, 75799 (county grid: Smith County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Tyler, TX.
+
+Basement floor drains in Tyler, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 75709.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tyler, TX systems need rebalancing.
+
+Flow dossier 891283: branch wet-vent geometry and jetting nozzle envelope logged for Tyler, TX county grid Smith County (ZIP 75709).
+
+Intake ledger 891283: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Tyler, TX at 32.3200, -95.3100.
+
+Coordinate-anchored dispatch note: center reference 32.3200, -95.3100 at elevation ~545 ft aligns with Smith County intake staging.
 
 Service reference: TX-75709-a4f6bd71

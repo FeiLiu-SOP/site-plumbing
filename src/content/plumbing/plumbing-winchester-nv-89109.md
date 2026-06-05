@@ -12,26 +12,39 @@ lng: -115.1400
 zipSample: ["89199", "89121", "89109", "89169"]
 zipCodes: ["89169", "89121", "89109", "89199"]
 localPaths: ["Clark County / coords 36.1400, -115.1400", "Clark County / ZIP 89199 sector", "Clark County / primary ZIP 89109", "Clark County / elevation 2014 ft band", "Clark County / ZIP 89109 sector"]
-zillowHomeValueUsd: 377730
 ---
 
-**Engineering Notice for Winchester:** Structural loading calculated based on 2014 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph curb-stop and meter pit before trenching.
 
-Transparent pricing helps you compare like-for-like scope items.
+Cast-iron hub corrosion in Winchester, NV often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Winchester, NV should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Winchester, NV require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 89169/89199/89109 coverage.
+Hydrostatic holds in Winchester, NV slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Moisture pathway inspection logged near ZIP 89169/89199/89109 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 89169, 89199, 89109, 89121 (county grid: Clark County).
+Stack vent offsets in Winchester, NV older duplexes can mask tub gurgle as a main-line failure.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 89109.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 89109.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Permit note: Main water line replacement in Winchester, NV may require ROW restoration planning.
+
+Lineage note 846565: recirculation pump amp draw captured before Winchester, NV branch isolation.
+
+On-site sector marker: Clark County / coords 36.1400, -115.1400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89109-e8bc1ad1

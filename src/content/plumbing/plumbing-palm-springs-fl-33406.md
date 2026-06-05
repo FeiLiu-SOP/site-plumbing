@@ -12,26 +12,43 @@ lng: -80.1000
 zipSample: ["33406", "33461"]
 zipCodes: ["33406", "33461"]
 localPaths: ["Palm Beach County / elevation 36 ft band", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33461 sector"]
-zillowHomeValueUsd: 422236
 ---
 
-**Engineering Notice for Palm Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Palm Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
 
 
-Tip: request a written scope before work starts.
+Trenchless sleeve pulls near Palm Springs, FL require pit shoring notes when water tables are high.
 
-Homeowners in Palm Springs, FL often face sudden plumbing problems that require fast action.
+Risk flag: Seasonal Palm Springs, FL irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Palm Springs, FL, but intake notes help reduce delays.
+Risk flag: In Palm Springs, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on Palm Springs, FL coverage windows and verified intake details.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 33461/33406 zone).
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33461/33406.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 33461, 33406 (county grid: Palm Beach County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Permit note: Main water line replacement in Palm Springs, FL may require ROW restoration planning.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Irrigation cross-connections in Palm Springs, FL can back-siphon domestic lines during main breaks.
+
+Pressure trace 727491: meter-pit clearance and dielectric union checklist staged for Palm Springs, FL near elevation 36 ft.
+
+plumbing brief: PEX expansion ring batch and gas water heater draft hood gap were cross-checked for the Palm Springs intake packet.
+
+On-site sector marker: Palm Beach County / primary ZIP 33406 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33406-767dce6e

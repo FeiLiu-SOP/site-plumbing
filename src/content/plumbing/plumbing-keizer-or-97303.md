@@ -12,24 +12,37 @@ lng: -123.0200
 zipSample: ["97307", "97303"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / elevation 138 ft band", "Marion County / ZIP 97307 sector", "Marion County / coords 45.0000, -123.0200", "Marion County / primary ZIP 97303", "Marion County / ZIP 97303 sector"]
-zillowHomeValueUsd: 450612
 ---
 
-**Engineering Notice for Keizer:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Keizer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sewer gas odors in Keizer, OR should trigger trap seal and vent path review.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Keizer, OR, but intake notes help reduce delays.
+Sump discharge freeze risk in Keizer, OR should be reviewed before spring thaw cycles.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-A written scope helps prevent rework and mismatched expectations.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 97303/97307 zone).
+Stack vent offsets in Keizer, OR older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 97303, 97307 (county grid: Marion County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 97303.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Irrigation cross-connections in Keizer, OR can back-siphon domestic lines during main breaks.
+
+FAQ: When is cabling enough? In Keizer, OR, pipe material and blockage type dictate method.
+
+Intake ledger 925635: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Keizer, OR at 45.0000, -123.0200.
+
+On-site sector marker: Marion County / ZIP 97307 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97303-e60e48a7

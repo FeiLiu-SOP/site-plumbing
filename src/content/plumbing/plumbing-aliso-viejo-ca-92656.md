@@ -12,24 +12,41 @@ lng: -117.7300
 zipSample: ["92656"]
 zipCodes: ["92656"]
 localPaths: ["Orange County / elevation 482 ft band", "Orange County / primary ZIP 92656", "Orange County / ZIP 92656 sector", "Orange County / coords 33.5800, -117.7300"]
-zillowHomeValueUsd: 1000823
 ---
 
-**Engineering Notice for Aliso Viejo:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Aliso Viejo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Aliso Viejo, CA basements should be photographed before any wall chase opens.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-In Aliso Viejo, CA, seasonal demand can change scheduling windows.
+Hard water in Aliso Viejo, CA accelerates scale on PRV seats and heater elements.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aliso Viejo, CA, but intake notes help reduce delays.
+Stack vent offsets in Aliso Viejo, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Aliso Viejo, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 92656.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 92656 (county grid: Orange County).
+Fixture shutoff stiffness in Aliso Viejo, CA may indicate mineral bridging behind stems.
+
+Dual-water-meter setups in Aliso Viejo, CA irrigation zones need backflow logs before line replacement.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: When is cabling enough? In Aliso Viejo, CA, pipe material and blockage type dictate method.
+
+Recirculation pump failures in Aliso Viejo, CA can mimic fixture-specific clogs.
+
+Material note: Water heater anode type may change with Aliso Viejo, CA hardness profiles.
+
+Fixture roster 641309: toilet flange spacer kit and shower cartridge seat score queued for Aliso Viejo, CA walk-through.
+
+Lineage note 641309: recirculation pump amp draw captured before Aliso Viejo, CA branch isolation.
+
+plumbing brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Aliso Viejo intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Orange County. Reference elevation: 482 ft. Primary coordinates: 33.5800, -117.7300. ZIP sample: 92656. Service perimeter note: Coverage extends through Orange County with dispatch centered near ZIP 92656.
 
 Service reference: CA-92656-2a567fbc

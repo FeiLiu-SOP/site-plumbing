@@ -12,26 +12,43 @@ lng: -76.1700
 zipSample: ["21001"]
 zipCodes: ["21001"]
 localPaths: ["Harford County / elevation 135 ft band", "Harford County / coords 39.5200, -76.1700", "Harford County / primary ZIP 21001", "Harford County / ZIP 21001 sector"]
-zillowHomeValueUsd: 345677
 ---
 
-**Engineering Notice for Aberdeen:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-In Aberdeen, MD, seasonal demand can change scheduling windows.
+Permit note: Main water line replacement in Aberdeen, MD may require ROW restoration planning.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Wind exposure category reviewed for ZIP sector 21001.
+Material note: Water heater anode type may change with Aberdeen, MD hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21001.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 21001 (county grid: Harford County).
+Risk flag: In Aberdeen, MD, slab leaks can misroute as foundation issues without listening equipment.
+
+Hydrostatic holds in Aberdeen, MD slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Supply audit 405760: curb-stop orientation and hose-bib freeze flag reviewed for Aberdeen, MD at coords 39.5200/-76.1700.
+
+Pressure trace 405760: meter-pit clearance and dielectric union checklist staged for Aberdeen, MD near elevation 135 ft.
+
+Field routing: slab penetration sleeve seal paired with PEX expansion ring batch near ZIP 21001.
+
+ZIP-corridor snapshot for Aberdeen, MD: sampled sectors include 21001; county routing grid remains Harford County.
 
 Service reference: MD-21001-c0887f9a

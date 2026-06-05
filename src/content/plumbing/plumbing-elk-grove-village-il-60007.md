@@ -12,27 +12,41 @@ lng: -87.9900
 zipSample: ["60009", "60007"]
 zipCodes: ["60009", "60007"]
 localPaths: ["Cook County / ZIP 60007 sector", "Cook County / elevation 689 ft band", "Cook County / ZIP 60009 sector", "Cook County / primary ZIP 60007", "Cook County / coords 42.0100, -87.9900"]
-zillowHomeValueUsd: 384385
 ---
 
-**Engineering Notice for Elk Grove Village:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Elk Grove Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 60007.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elk Grove Village, IL, but intake notes help reduce delays.
+Risk flag: Seasonal Elk Grove Village, IL irrigation cross-connections can mask domestic pressure loss.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60007.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Elk Grove Village, IL systems need rebalancing.
 
-Field note: Moisture pathway inspection logged near ZIP 60007/60009 intake.
+Risk flag: In Elk Grove Village, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 60007/60009 coverage.
+Hydrostatic holds in Elk Grove Village, IL slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 60007, 60009 (county grid: Cook County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Irrigation cross-connections in Elk Grove Village, IL can back-siphon domestic lines during main breaks.
+
+CPVC solvent weld times shift with ambient humidity during Elk Grove Village, IL shoulder seasons.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Flow dossier 469726: branch wet-vent geometry and jetting nozzle envelope logged for Elk Grove Village, IL county grid Cook County (ZIP 60007).
+
+Drain map 469726: camera-pass priority and expansion-tank pre-charge noted for Elk Grove Village, IL postal sector 60007.
+
+plumbing brief: scale coupon sampling and jetter nozzle envelope were cross-checked for the Elk Grove Village intake packet.
+
+On-site sector marker: Cook County / ZIP 60009 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60007-a5a91390

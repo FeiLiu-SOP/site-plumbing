@@ -12,26 +12,41 @@ lng: -117.6700
 zipSample: ["91708", "91710"]
 zipCodes: ["91710", "91708"]
 localPaths: ["San Bernardino County / primary ZIP 91708", "San Bernardino County / ZIP 91710 sector", "San Bernardino County / coords 33.9800, -117.6700", "San Bernardino County / ZIP 91708 sector", "San Bernardino County / elevation 620 ft band"]
-zillowHomeValueUsd: 726238
 ---
 
-**Engineering Notice for Chino:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Chino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Chino, CA can back-siphon domestic lines during main breaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Main water line replacement in Chino, CA may require ROW restoration planning.
 
-Tip: request a written scope before work starts.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate local dispatch coverage around Chino, CA and nearby ZIP sectors.
+Basement floor drains in Chino, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Connection points spot-checked where accessible (ZIP 91710/91708 zone).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 91710/91708 intake.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 91710, 91708 (county grid: San Bernardino County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 91708.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+In Chino, CA, slab leaks often present as warm spots before wall stains appear.
+
+Frost-free sillcock failures in Chino, CA often trace to interior shutoff seats, not exterior stems.
+
+Pressure trace 334316: meter-pit clearance and dielectric union checklist staged for Chino, CA near elevation 620 ft.
+
+ZIP-corridor snapshot for Chino, CA: sampled sectors include 91708, 91710; county routing grid remains San Bernardino County.
 
 Service reference: CA-91708-214f143e

@@ -12,26 +12,41 @@ lng: -96.9600
 zipSample: ["75104", "75106"]
 zipCodes: ["75104", "75106"]
 localPaths: ["Dallas County / elevation 810 ft band", "Dallas County / primary ZIP 75104", "Dallas County / coords 32.5800, -96.9600", "Dallas County / ZIP 75104 sector", "Dallas County / ZIP 75106 sector"]
-zillowHomeValueUsd: 310978
 ---
 
-**Engineering Notice for Cedar Hill:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Cedar Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 75104.
 
-Our service coordination centers on Cedar Hill, TX coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Cedar Hill, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Water heater anode type may change with Cedar Hill, TX hardness profiles.
 
-Tip: request a written scope before work starts.
+CPVC solvent weld times shift with ambient humidity during Cedar Hill, TX shoulder seasons.
 
-Field note: Connection points spot-checked where accessible (ZIP 75104/75106 zone).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 75104/75106 coverage.
+FAQ: When should sump battery backups be load-tested? In Cedar Hill, TX, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 75104, 75106 (county grid: Dallas County).
+Risk flag: In Cedar Hill, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Cast-iron hub corrosion in Cedar Hill, TX often concentrates at the third joint upstream of the cleanout.
+
+Stack vent offsets in Cedar Hill, TX older duplexes can mask tub gurgle as a main-line failure.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When is cabling enough? In Cedar Hill, TX, pipe material and blockage type dictate method.
+
+Expansion tank pre-charge loss in Cedar Hill, TX often tracks heater replacement deferrals.
+
+Fixture roster 857728: toilet flange spacer kit and shower cartridge seat score queued for Cedar Hill, TX walk-through.
+
+Supply audit 857728: curb-stop orientation and hose-bib freeze flag reviewed for Cedar Hill, TX at coords 32.5800/-96.9600.
+
+On-site sector marker: Dallas County / ZIP 75104 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75104-6d49f6d1

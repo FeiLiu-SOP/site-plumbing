@@ -12,25 +12,43 @@ lng: -96.5500
 zipSample: ["75159"]
 zipCodes: ["75159"]
 localPaths: ["Dallas County / ZIP 75159 sector", "Dallas County / elevation 456 ft band", "Dallas County / coords 32.6500, -96.5500", "Dallas County / primary ZIP 75159"]
-zillowHomeValueUsd: 281027
 ---
 
-**Engineering Notice for Seagoville:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Seagoville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Expansion tank pre-charge loss in Seagoville, TX often tracks heater replacement deferrals.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75159.
+We coordinate Seagoville, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Wind exposure category reviewed for ZIP sector 75159.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 75159 (county grid: Dallas County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Seagoville, TX systems need rebalancing.
+
+Risk flag: In Seagoville, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Fixture shutoff stiffness in Seagoville, TX may indicate mineral bridging behind stems.
+
+Cast-iron hub corrosion in Seagoville, TX often concentrates at the third joint upstream of the cleanout.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 406479: recirculation pump amp draw captured before Seagoville, TX branch isolation.
+
+Fixture roster 406479: toilet flange spacer kit and shower cartridge seat score queued for Seagoville, TX walk-through.
+
+Scope trace: meter pit clearance plus slab leak listening window referenced in Dallas County county grid review.
+
+On-site sector marker: Dallas County / primary ZIP 75159 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75159-6abe7fda

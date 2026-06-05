@@ -12,26 +12,41 @@ lng: -121.9000
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / primary ZIP 94565", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / coords 38.0200, -121.9000", "Contra Costa County / elevation 56 ft band"]
-zillowHomeValueUsd: 569596
 ---
 
-**Engineering Notice for Pittsburg:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Pittsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-We coordinate local dispatch coverage around Pittsburg, CA and nearby ZIP sectors.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Sump discharge freeze risk in Pittsburg, CA should be reviewed before spring thaw cycles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Galvanized segments in Pittsburg, CA may restrict flow long before visible corrosion.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 94565.
+Dispatch packets reference county grid Contra Costa County near ZIP 94565.
 
-Field note: Moisture pathway inspection logged near ZIP 94565 intake.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 94565 (county grid: Contra Costa County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+In Pittsburg, CA, slab leaks often present as warm spots before wall stains appear.
+
+FAQ: When should sump battery backups be load-tested? In Pittsburg, CA, before spring thaw and hurricane remnants.
+
+FAQ: Is hydro-jetting always appropriate? In Pittsburg, CA, pipe material and blockage type dictate method.
+
+Flow dossier 264426: branch wet-vent geometry and jetting nozzle envelope logged for Pittsburg, CA county grid Contra Costa County (ZIP 94565).
+
+Lineage note 264426: recirculation pump amp draw captured before Pittsburg, CA branch isolation.
+
+plumbing brief: dielectric union checklist and slab leak listening window were cross-checked for the Pittsburg intake packet.
+
+On-site sector marker: Contra Costa County / primary ZIP 94565 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94565-2a531a1f

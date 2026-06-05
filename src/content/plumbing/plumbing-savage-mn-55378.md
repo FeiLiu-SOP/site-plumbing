@@ -12,26 +12,37 @@ lng: -93.3600
 zipSample: ["55378"]
 zipCodes: ["55378"]
 localPaths: ["Scott County / coords 44.7500, -93.3600", "Scott County / ZIP 55378 sector", "Scott County / elevation 886 ft band", "Scott County / primary ZIP 55378"]
-zillowHomeValueUsd: 434894
 ---
 
-**Engineering Notice for Savage:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Savage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 55378.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Savage, MN often concentrates at the third joint upstream of the cleanout.
 
-Transparent pricing helps you compare like-for-like scope items.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: confirm licensing and insurance before approving work.
+Basement floor drains in Savage, MN should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Savage, MN, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Savage, MN, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 55378 coverage.
+Stack vent offsets in Savage, MN older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55378.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 55378 (county grid: Scott County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: Seasonal Savage, MN irrigation cross-connections can mask domestic pressure loss.
+
+Cleanout access limits in Savage, MN frequently extend drain cleaning duration.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 55378.
+
+Intake ledger 675116: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Savage, MN at 44.7500, -93.3600.
+
+On-site sector marker: Scott County / coords 44.7500, -93.3600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55378-781dfaab

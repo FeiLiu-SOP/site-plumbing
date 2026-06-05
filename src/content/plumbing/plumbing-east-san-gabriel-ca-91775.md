@@ -12,25 +12,41 @@ lng: -118.0800
 zipSample: ["91776", "91775"]
 zipCodes: ["91776", "91775"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / coords 34.1200, -118.0800", "Los Angeles County / ZIP 91776 sector", "Los Angeles County / elevation 495 ft band", "Los Angeles County / primary ZIP 91775"]
-zillowHomeValueUsd: 1282395
 ---
 
-**Engineering Notice for East San Gabriel:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for East San Gabriel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: request a written scope before work starts.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in East San Gabriel, CA.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91775.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in East San Gabriel, CA, but intake notes help reduce delays.
+Hard water in East San Gabriel, CA accelerates scale on PRV seats and heater elements.
 
-Field note: Wind exposure category reviewed for ZIP sector 91775/91776.
+Risk flag: In East San Gabriel, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 91775, 91776 (county grid: Los Angeles County).
+Material note: Water heater anode type may change with East San Gabriel, CA hardness profiles.
+
+Fixture shutoff stiffness in East San Gabriel, CA may indicate mineral bridging behind stems.
+
+Irrigation cross-connections in East San Gabriel, CA can back-siphon domestic lines during main breaks.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Cast-iron hub corrosion in East San Gabriel, CA often concentrates at the third joint upstream of the cleanout.
+
+Dual-water-meter setups in East San Gabriel, CA irrigation zones need backflow logs before line replacement.
+
+Supply audit 651651: curb-stop orientation and hose-bib freeze flag reviewed for East San Gabriel, CA at coords 34.1200/-118.0800.
+
+On-site sector marker: Los Angeles County / ZIP 91776 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91775-e5f654a4

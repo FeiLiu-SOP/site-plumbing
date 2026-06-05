@@ -12,24 +12,43 @@ lng: -76.3500
 zipSample: ["23707", "23703", "23705", "23708", "23701"]
 zipCodes: ["23702", "23709", "23701", "23708", "23704", "23703", "23707", "23705"]
 localPaths: ["Portsmouth County / coords 36.8500, -76.3500", "Portsmouth County / ZIP 23708 sector", "Portsmouth County / ZIP 23701 sector", "Portsmouth County / ZIP 23705 sector", "Portsmouth County / ZIP 23707 sector"]
-zillowHomeValueUsd: 315686
 ---
 
-**Engineering Notice for Portsmouth:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Portsmouth County.
+**Engineering Notice for Portsmouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Portsmouth County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Portsmouth, VA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Portsmouth, VA, but intake notes help reduce delays.
+Risk flag: In Portsmouth, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When is cabling enough? In Portsmouth, VA, pipe material and blockage type dictate method.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: When should sump battery backups be load-tested? In Portsmouth, VA, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Portsmouth, VA coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 23704/23708/23709 intake.
+Trenchless sleeve pulls near Portsmouth, VA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 23704, 23708, 23709, 23701, 23705 (county grid: Portsmouth County).
+Trenchless pulls in Portsmouth, VA require pit dimensions verified against utility locate marks.
+
+Sump discharge freeze risk in Portsmouth, VA should be reviewed before spring thaw cycles.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 23709.
+
+Basement floor drains in Portsmouth, VA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 23709.
+
+Frost-free sillcock failures in Portsmouth, VA often trace to interior shutoff seats, not exterior stems.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Supply audit 257745: curb-stop orientation and hose-bib freeze flag reviewed for Portsmouth, VA at coords 36.8500/-76.3500.
+
+Fixture roster 257745: toilet flange spacer kit and shower cartridge seat score queued for Portsmouth, VA walk-through.
+
+Field routing: water heater T&P path paired with hose bib freeze flag near ZIP 23709.
+
+On-site sector marker: Portsmouth County / ZIP 23703 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23709-750c9391

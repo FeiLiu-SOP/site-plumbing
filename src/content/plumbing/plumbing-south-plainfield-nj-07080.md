@@ -12,26 +12,43 @@ lng: -74.4200
 zipSample: ["07080"]
 zipCodes: ["07080"]
 localPaths: ["Middlesex County / elevation 89 ft band", "Middlesex County / coords 40.5700, -74.4200", "Middlesex County / ZIP 07080 sector", "Middlesex County / primary ZIP 07080"]
-zillowHomeValueUsd: 583434
 ---
 
-**Engineering Notice for South Plainfield:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for South Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Homeowners in South Plainfield, NJ often face sudden plumbing problems that require fast action.
+Stack vent offsets in South Plainfield, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 07080 zone).
+CPVC solvent weld times shift with ambient humidity during South Plainfield, NJ shoulder seasons.
 
-Field note: Wind exposure category reviewed for ZIP sector 07080.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 07080 (county grid: Middlesex County).
+Polybutylene manifold tags in South Plainfield, NJ basements should be photographed before any wall chase opens.
+
+Hard water in South Plainfield, NJ accelerates scale on PRV seats and heater elements.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 07080.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 07080.
+
+Risk flag: In South Plainfield, NJ, slab leaks can misroute as foundation issues without listening equipment.
+
+Pressure trace 266052: meter-pit clearance and dielectric union checklist staged for South Plainfield, NJ near elevation 89 ft.
+
+Scope trace: dielectric union checklist plus recirculation pump amp draw referenced in Middlesex County county grid review.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Middlesex County and primary ZIP 07080. Terrain reference: 89 ft. Center point: 40.5700, -74.4200. ZIP sample: 07080. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 07080.
 
 Service reference: NJ-07080-92bcba5a

@@ -12,26 +12,41 @@ lng: -94.8100
 zipSample: ["66226", "66227", "66203", "66217", "66286"]
 zipCodes: ["66203", "66286", "66226", "66217", "66227", "66218", "66214", "66216"]
 localPaths: ["Johnson County / ZIP 66203 sector", "Johnson County / primary ZIP 66214", "Johnson County / coords 39.0200, -94.8100", "Johnson County / ZIP 66226 sector", "Johnson County / elevation 850 ft band"]
-zillowHomeValueUsd: 389019
 ---
 
-**Engineering Notice for Shawnee:** Structural loading calculated based on 850 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Frost-free sillcock failures in Shawnee, KS often trace to interior shutoff seats, not exterior stems.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our service coordination centers on Shawnee, KS coverage windows and verified intake details.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When is cabling enough? In Shawnee, KS, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 66216/66226/66214.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66216/66226/66214.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 66216, 66226, 66214, 66217, 66203 (county grid: Johnson County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Galvanized segments in Shawnee, KS may restrict flow long before visible corrosion.
+
+Basement floor drains in Shawnee, KS should be snaked only after trap arm geometry is confirmed on camera.
+
+Irrigation cross-connections in Shawnee, KS can back-siphon domestic lines during main breaks.
+
+Sump discharge freeze risk in Shawnee, KS should be reviewed before spring thaw cycles.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Lineage note 301994: recirculation pump amp draw captured before Shawnee, KS branch isolation.
+
+Fixture roster 301994: toilet flange spacer kit and shower cartridge seat score queued for Shawnee, KS walk-through.
+
+Coordinate-anchored dispatch note: center reference 39.0200, -94.8100 at elevation ~850 ft aligns with Johnson County intake staging.
 
 Service reference: KS-66214-8f7b766a

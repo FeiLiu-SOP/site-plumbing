@@ -12,25 +12,43 @@ lng: -97.9900
 zipSample: ["78734", "78738"]
 zipCodes: ["78738", "78734"]
 localPaths: ["Travis County / ZIP 78738 sector", "Travis County / elevation 843 ft band", "Travis County / ZIP 78734 sector", "Travis County / primary ZIP 78738", "Travis County / coords 30.3500, -97.9900"]
-zillowHomeValueUsd: 840145
 ---
 
-**Engineering Notice for Lakeway:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Travis County.
+**Engineering Notice for Lakeway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Lakeway, TX can mask gurgling as a main-line issue.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 78738.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Lakeway, TX systems need rebalancing.
 
-Local conditions in Lakeway, TX can affect timelines and material choices.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78738/78734.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 78738, 78734 (county grid: Travis County).
+Polybutylene manifold tags in Lakeway, TX basements should be photographed before any wall chase opens.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Lakeway, TX require pit dimensions verified against utility locate marks.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lakeway, TX.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Expansion tank pre-charge loss in Lakeway, TX often tracks heater replacement deferrals.
+
+Intake ledger 462229: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lakeway, TX at 30.3500, -97.9900.
+
+Fixture roster 462229: toilet flange spacer kit and shower cartridge seat score queued for Lakeway, TX walk-through.
+
+Scope trace: sewer cleanout cap thread plus scale coupon sampling referenced in Travis County county grid review.
+
+On-site sector marker: Travis County / ZIP 78734 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78738-0c89ba2e

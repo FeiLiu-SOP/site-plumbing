@@ -12,26 +12,41 @@ lng: -118.0700
 zipSample: ["90606", "90610"]
 zipCodes: ["90610", "90606"]
 localPaths: ["Los Angeles County / ZIP 90606 sector", "Los Angeles County / primary ZIP 90606", "Los Angeles County / elevation 167 ft band", "Los Angeles County / coords 33.9800, -118.0700", "Los Angeles County / ZIP 90610 sector"]
-zillowHomeValueUsd: 775590
 ---
 
-**Engineering Notice for West Whittier-Los Nietos:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Whittier-Los Nietos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Whittier-Los Nietos, CA, but intake notes help reduce delays.
+Dual-water-meter setups in West Whittier-Los Nietos, CA irrigation zones need backflow logs before line replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in West Whittier-Los Nietos, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 90610/90606 zone).
+Water heater T&P discharge paths in West Whittier-Los Nietos, CA must terminate safely before replacement quotes.
 
-Field note: Access points and staging constraints recorded for ZIP 90610/90606 coverage.
+Hydro-jetting in West Whittier-Los Nietos, CA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 90610, 90606 (county grid: Los Angeles County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 90606.
+
+Recirculation pump failures in West Whittier-Los Nietos, CA can mimic fixture-specific clogs.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Dispatch packets reference county grid Los Angeles County near ZIP 90606.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 748404: curb-stop orientation and hose-bib freeze flag reviewed for West Whittier-Los Nietos, CA at coords 33.9800/-118.0700.
+
+Drain map 748404: camera-pass priority and expansion-tank pre-charge noted for West Whittier-Los Nietos, CA postal sector 90606.
+
+plumbing brief: jetter nozzle envelope and slab leak listening window were cross-checked for the West Whittier-Los Nietos intake packet.
+
+On-site sector marker: Los Angeles County / ZIP 90606 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90606-02259805

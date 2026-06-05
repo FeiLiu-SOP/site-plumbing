@@ -12,24 +12,41 @@ lng: -117.1000
 zipSample: ["91950", "91951", "92136"]
 zipCodes: ["91951", "91950", "92136"]
 localPaths: ["San Diego County / primary ZIP 92136", "San Diego County / coords 32.6700, -117.1000", "San Diego County / ZIP 91950 sector", "San Diego County / ZIP 92136 sector", "San Diego County / ZIP 91951 sector"]
-zillowHomeValueUsd: 690260
 ---
 
-**Engineering Notice for National City:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for National City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
 
 
-Our service coordination centers on National City, CA coverage windows and verified intake details.
+Step: camera-pass main lines in National City, CA before jetting older clay or cast iron.
 
-Tip: request a written scope before work starts.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in National City, CA can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dispatch packets reference county grid San Diego County near ZIP 92136.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Access points and staging constraints recorded for ZIP 92136/91951/91950 coverage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 92136, 91951, 91950 (county grid: San Diego County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Permit note: Main water line replacement in National City, CA may require ROW restoration planning.
+
+Hydrostatic holds in National City, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Basement floor drains in National City, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Polybutylene manifold tags in National City, CA basements should be photographed before any wall chase opens.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Flow dossier 736647: branch wet-vent geometry and jetting nozzle envelope logged for National City, CA county grid San Diego County (ZIP 92136).
+
+On-site sector marker: San Diego County / primary ZIP 92136 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92136-d7db0957

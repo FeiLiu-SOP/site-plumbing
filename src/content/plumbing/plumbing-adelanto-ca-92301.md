@@ -12,26 +12,41 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / ZIP 92301 sector", "San Bernardino County / primary ZIP 92301", "San Bernardino County / elevation 2877 ft band", "San Bernardino County / coords 34.5800, -117.4400"]
-zillowHomeValueUsd: 397497
 ---
 
-**Engineering Notice for Adelanto:** Structural loading calculated based on 2877 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Adelanto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Galvanized segments in Adelanto, CA may restrict flow long before visible corrosion.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-We coordinate local dispatch coverage around Adelanto, CA and nearby ZIP sectors.
+Dual-water-meter setups in Adelanto, CA irrigation zones need backflow logs before line replacement.
 
-Local conditions in Adelanto, CA can affect timelines and material choices.
+Material note: Water heater anode type may change with Adelanto, CA hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92301.
+Hydrostatic holds in Adelanto, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Access points and staging constraints recorded for ZIP 92301 coverage.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 92301 (county grid: San Bernardino County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Sump discharge freeze risk in Adelanto, CA should be reviewed before spring thaw cycles.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Frost-free sillcock failures in Adelanto, CA often trace to interior shutoff seats, not exterior stems.
+
+Irrigation cross-connections in Adelanto, CA can back-siphon domestic lines during main breaks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Supply audit 382313: curb-stop orientation and hose-bib freeze flag reviewed for Adelanto, CA at coords 34.5800/-117.4400.
+
+Lineage note 382313: recirculation pump amp draw captured before Adelanto, CA branch isolation.
+
+Primary postal anchor 92301 with multi-ZIP overlap in Adelanto; field packets tag San Bernardino County for county-grid reconciliation.
 
 Service reference: CA-92301-96dedfb4

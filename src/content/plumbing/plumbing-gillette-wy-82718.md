@@ -12,26 +12,39 @@ lng: -105.5000
 zipSample: ["82718", "82716"]
 zipCodes: ["82716", "82718"]
 localPaths: ["Campbell County / ZIP 82718 sector", "Campbell County / primary ZIP 82718", "Campbell County / elevation 4534 ft band", "Campbell County / coords 44.2800, -105.5000", "Campbell County / ZIP 82716 sector"]
-zillowHomeValueUsd: 361111
 ---
 
-**Engineering Notice for Gillette:** Structural loading calculated based on 4534 ft terrain assessment. Regional dispatch grid: Campbell County.
+**Engineering Notice for Gillette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Campbell County.
 
 
-We coordinate local dispatch coverage around Gillette, WY and nearby ZIP sectors.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is cabling enough? In Gillette, WY, pipe material and blockage type dictate method.
 
-Structured milestones protect both sides when scheduling work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Frost-free sillcock failures in Gillette, WY often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 82718/82716.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Access points and staging constraints recorded for ZIP 82718/82716 coverage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 82718, 82716 (county grid: Campbell County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Gillette, WY.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Trenchless pulls in Gillette, WY require pit dimensions verified against utility locate marks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 436947: curb-stop orientation and hose-bib freeze flag reviewed for Gillette, WY at coords 44.2800/-105.5000.
+
+Fixture roster 436947: toilet flange spacer kit and shower cartridge seat score queued for Gillette, WY walk-through.
+
+ZIP-corridor snapshot for Gillette, WY: sampled sectors include 82716, 82718; county routing grid remains Campbell County.
 
 Service reference: WY-82718-35992603

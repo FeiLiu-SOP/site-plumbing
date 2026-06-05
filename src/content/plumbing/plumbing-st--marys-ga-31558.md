@@ -12,25 +12,39 @@ lng: -81.5700
 zipSample: ["31558"]
 zipCodes: ["31558"]
 localPaths: ["Camden County / elevation 39 ft band", "Camden County / ZIP 31558 sector", "Camden County / coords 30.7600, -81.5700", "Camden County / primary ZIP 31558"]
-zillowHomeValueUsd: 309027
 ---
 
-**Engineering Notice for St. Marys:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for St. Marys:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Hose bib split patterns in St. Marys, GA often follow missed winterization.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 31558.
+Cleanout access limits in St. Marys, GA frequently extend drain cleaning duration.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Seasonal St. Marys, GA irrigation cross-connections can mask domestic pressure loss.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Access points and staging constraints recorded for ZIP 31558 coverage.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in St. Marys, GA.
 
-Dispatch sectors sampled: ZIP 31558 (county grid: Camden County).
+Dispatch packets reference county grid Camden County near ZIP 31558.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Hard water in St. Marys, GA accelerates scale on PRV seats and heater elements.
+
+Pressure trace 937603: meter-pit clearance and dielectric union checklist staged for St. Marys, GA near elevation 39 ft.
+
+plumbing brief: meter pit clearance and water softener bypass lever were cross-checked for the St. Marys intake packet.
+
+On-site sector marker: Camden County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31558-efb4c641

@@ -12,27 +12,39 @@ lng: -85.0400
 zipSample: ["30240", "30241"]
 zipCodes: ["30240", "30241"]
 localPaths: ["Troup County / ZIP 30241 sector", "Troup County / elevation 751 ft band", "Troup County / primary ZIP 30240", "Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector"]
-zillowHomeValueUsd: 249637
 ---
 
-**Engineering Notice for LaGrange:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Troup County.
+**Engineering Notice for LaGrange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Troup County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Basement floor drains in LaGrange, GA should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: request a written scope before work starts.
+FAQ: When is cabling enough? In LaGrange, GA, pipe material and blockage type dictate method.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in LaGrange, GA, but intake notes help reduce delays.
+Polybutylene manifold tags in LaGrange, GA basements should be photographed before any wall chase opens.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30240.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: avoid large upfront payments without milestones.
+In LaGrange, GA, slab leaks often present as warm spots before wall stains appear.
 
-Field note: Wind exposure category reviewed for ZIP sector 30240/30241.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Access points and staging constraints recorded for ZIP 30240/30241 coverage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 30240, 30241 (county grid: Troup County).
+Galvanized segments in LaGrange, GA may restrict flow long before visible corrosion.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+We coordinate LaGrange, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+Hydrostatic holds in LaGrange, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 554987: curb-stop orientation and hose-bib freeze flag reviewed for LaGrange, GA at coords 33.0300/-85.0400.
+
+Field routing: hose bib freeze flag paired with fixture shutoff torque log near ZIP 30240.
+
+On-site sector marker: Troup County / ZIP 30241 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30240-335818e3

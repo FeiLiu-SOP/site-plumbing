@@ -12,26 +12,45 @@ lng: -77.4400
 zipSample: ["20121", "20120", "20124"]
 zipCodes: ["20120", "20124", "20121"]
 localPaths: ["Fairfax County / primary ZIP 20120", "Fairfax County / ZIP 20124 sector", "Fairfax County / coords 38.8400, -77.4400", "Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 20121 sector"]
-zillowHomeValueUsd: 702183
 ---
 
-**Engineering Notice for Centreville:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Centreville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-A written scope helps prevent rework and mismatched expectations.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: address recurring issues early to prevent bigger damage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Centreville, VA, slab leaks often present as warm spots before wall stains appear.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Centreville, VA, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Centreville, VA systems need rebalancing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20124/20120/20121.
+Dual-water-meter setups in Centreville, VA irrigation zones need backflow logs before line replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 20124/20120/20121.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 20124, 20120, 20121 (county grid: Fairfax County).
+CPVC solvent weld times shift with ambient humidity during Centreville, VA shoulder seasons.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Material note: Water heater anode type may change with Centreville, VA hardness profiles.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 20120.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Centreville, VA.
+
+Lineage note 714796: recirculation pump amp draw captured before Centreville, VA branch isolation.
+
+Fixture roster 714796: toilet flange spacer kit and shower cartridge seat score queued for Centreville, VA walk-through.
+
+Field routing: water heater T&P path paired with toilet flange spacer kit near ZIP 20120.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Centreville, VA before niche-specific work begins.
 
 Service reference: VA-20120-7fe24ce2

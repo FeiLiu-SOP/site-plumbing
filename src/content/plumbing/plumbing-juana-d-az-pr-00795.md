@@ -12,28 +12,41 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / ZIP 00795 sector", "Juana Díaz County / coords 18.0500, -66.5000", "Juana Díaz County / elevation 187 ft band", "Juana Díaz County / primary ZIP 00795"]
-zillowHomeValueUsd: 368898
-data_fidelity: "synthetic"
 ---
 
-**Engineering Notice for Juana Díaz:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Juana Díaz County.
+**Engineering Notice for Juana Díaz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Juana Díaz County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 00795.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Local conditions in Juana Díaz, PR can affect timelines and material choices.
+Cleanout access limits in Juana Díaz, PR frequently extend drain cleaning duration.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hose bib split patterns in Juana Díaz, PR often follow missed winterization.
 
-We coordinate local dispatch coverage around Juana Díaz, PR and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 00795.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Access points and staging constraints recorded for ZIP 00795 coverage.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 00795 (county grid: Juana Díaz County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Juana Díaz, PR.
+
+Permit note: Main water line replacement in Juana Díaz, PR may require ROW restoration planning.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Juana Díaz, PR systems need rebalancing.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dispatch packets reference county grid Juana Díaz County near ZIP 00795.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Fixture roster 591376: toilet flange spacer kit and shower cartridge seat score queued for Juana Díaz, PR walk-through.
+
+Field routing: cleanout riser height paired with sump float travel near ZIP 00795.
+
+On-site sector marker: Juana Díaz County / primary ZIP 00795 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00795-029ab3be

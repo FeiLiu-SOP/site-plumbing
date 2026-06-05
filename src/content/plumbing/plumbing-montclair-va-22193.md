@@ -12,26 +12,41 @@ lng: -77.3400
 zipSample: ["22025", "22193"]
 zipCodes: ["22193", "22025"]
 localPaths: ["Prince William County / ZIP 22193 sector", "Prince William County / ZIP 22025 sector", "Prince William County / elevation 154 ft band", "Prince William County / primary ZIP 22193", "Prince William County / coords 38.6100, -77.3400"]
-zillowHomeValueUsd: 508667
 ---
 
-**Engineering Notice for Montclair:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Our service coordination centers on Montclair, VA coverage windows and verified intake details.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Montclair, VA, but intake notes help reduce delays.
+Frost-free sillcock failures in Montclair, VA often trace to interior shutoff seats, not exterior stems.
 
-Tip: request a written scope before work starts.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 22193/22025 coverage.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22193/22025.
+Risk flag: In Montclair, VA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 22193, 22025 (county grid: Prince William County).
+Stack vent offsets in Montclair, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: Water heater anode type may change with Montclair, VA hardness profiles.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 22193.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Lineage note 872109: recirculation pump amp draw captured before Montclair, VA branch isolation.
+
+Pressure trace 872109: meter-pit clearance and dielectric union checklist staged for Montclair, VA near elevation 154 ft.
+
+Scope trace: branch wet vent geometry plus copper pinhole cluster referenced in Prince William County county grid review.
+
+On-site sector marker: Prince William County / ZIP 22025 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22193-56d983a5

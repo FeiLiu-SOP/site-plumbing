@@ -12,24 +12,39 @@ lng: -117.2000
 zipSample: ["92554", "92556", "92555", "92553", "92557"]
 zipCodes: ["92552", "92553", "92554", "92557", "92556", "92555", "92551"]
 localPaths: ["Riverside County / ZIP 92556 sector", "Riverside County / ZIP 92553 sector", "Riverside County / elevation 1634 ft band", "Riverside County / primary ZIP 92551", "Riverside County / ZIP 92557 sector"]
-zillowHomeValueUsd: 532057
 ---
 
-**Engineering Notice for Moreno Valley:** Structural loading calculated based on 1634 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Moreno Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Moreno Valley, CA, but intake notes help reduce delays.
+Risk flag: Seasonal Moreno Valley, CA irrigation cross-connections can mask domestic pressure loss.
 
-Our service coordination centers on Moreno Valley, CA coverage windows and verified intake details.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Moreno Valley, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Polybutylene manifold tags in Moreno Valley, CA basements should be photographed before any wall chase opens.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should sump battery backups be load-tested? In Moreno Valley, CA, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 92553/92557/92554 coverage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 92553, 92557, 92554, 92552, 92551 (county grid: Riverside County).
+Stack vent offsets in Moreno Valley, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Basement floor drains in Moreno Valley, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Trenchless pulls in Moreno Valley, CA require pit dimensions verified against utility locate marks.
+
+Dual-water-meter setups in Moreno Valley, CA irrigation zones need backflow logs before line replacement.
+
+Fixture shutoff stiffness in Moreno Valley, CA may indicate mineral bridging behind stems.
+
+Fixture roster 537343: toilet flange spacer kit and shower cartridge seat score queued for Moreno Valley, CA walk-through.
+
+Supply audit 537343: curb-stop orientation and hose-bib freeze flag reviewed for Moreno Valley, CA at coords 33.9200/-117.2000.
+
+Coordinate-anchored dispatch note: center reference 33.9200, -117.2000 at elevation ~1634 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92551-21aa7324

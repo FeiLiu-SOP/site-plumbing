@@ -12,26 +12,43 @@ lng: -80.7100
 zipSample: ["28105", "28106"]
 zipCodes: ["28105", "28106"]
 localPaths: ["Mecklenburg County / coords 35.1200, -80.7100", "Mecklenburg County / elevation 745 ft band", "Mecklenburg County / ZIP 28105 sector", "Mecklenburg County / ZIP 28106 sector", "Mecklenburg County / primary ZIP 28105"]
-zillowHomeValueUsd: 490608
 ---
 
-**Engineering Notice for Matthews:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Matthews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Matthews, NC often trace to interior shutoff seats, not exterior stems.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Matthews, NC require pit shoring notes when water tables are high.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Water heater anode type may change with Matthews, NC hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28106/28105.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Wind exposure category reviewed for ZIP sector 28106/28105.
+Cleanout access limits in Matthews, NC frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 28106, 28105 (county grid: Mecklenburg County).
+Basement floor drains in Matthews, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+We coordinate Matthews, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+FAQ: When should sump battery backups be load-tested? In Matthews, NC, before spring thaw and hurricane remnants.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Is hydro-jetting always appropriate? In Matthews, NC, pipe material and blockage type dictate method.
+
+Intake ledger 595019: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Matthews, NC at 35.1200, -80.7100.
+
+Supply audit 595019: curb-stop orientation and hose-bib freeze flag reviewed for Matthews, NC at coords 35.1200/-80.7100.
+
+Primary postal anchor 28105 with multi-ZIP overlap in Matthews; field packets tag Mecklenburg County for county-grid reconciliation.
 
 Service reference: NC-28105-14d3b86e

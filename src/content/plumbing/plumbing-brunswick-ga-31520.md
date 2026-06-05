@@ -12,26 +12,39 @@ lng: -81.4700
 zipSample: ["31521", "31520"]
 zipCodes: ["31521", "31520"]
 localPaths: ["Glynn County / coords 31.1400, -81.4700", "Glynn County / ZIP 31520 sector", "Glynn County / ZIP 31521 sector", "Glynn County / elevation 3 ft band", "Glynn County / primary ZIP 31520"]
-zillowHomeValueUsd: 148441
 ---
 
-**Engineering Notice for Brunswick:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Glynn County.
+**Engineering Notice for Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Glynn County.
 
 
-We coordinate local dispatch coverage around Brunswick, GA and nearby ZIP sectors.
+Frost-free sillcock failures in Brunswick, GA often trace to interior shutoff seats, not exterior stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brunswick, GA, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Basement floor drains in Brunswick, GA should be snaked only after trap arm geometry is confirmed on camera.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Hydrostatic holds in Brunswick, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 31521/31520 zone).
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 31520.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31521/31520.
+Irrigation cross-connections in Brunswick, GA can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 31521, 31520 (county grid: Glynn County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: When should sump battery backups be load-tested? In Brunswick, GA, before spring thaw and hurricane remnants.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Supply audit 617925: curb-stop orientation and hose-bib freeze flag reviewed for Brunswick, GA at coords 31.1400/-81.4700.
+
+Field routing: PRV outlet curve paired with thermal expansion loop check near ZIP 31520.
+
+ZIP-corridor snapshot for Brunswick, GA: sampled sectors include 31521, 31520; county routing grid remains Glynn County.
 
 Service reference: GA-31520-35158127

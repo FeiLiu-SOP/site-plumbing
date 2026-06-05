@@ -12,24 +12,41 @@ lng: -76.8900
 zipSample: ["20784", "20785"]
 zipCodes: ["20784", "20785"]
 localPaths: ["Prince George's County / ZIP 20784 sector", "Prince George's County / primary ZIP 20784", "Prince George's County / coords 38.9200, -76.8900", "Prince George's County / elevation 59 ft band", "Prince George's County / ZIP 20785 sector"]
-zillowHomeValueUsd: 374897
 ---
 
-**Engineering Notice for Landover:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Landover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Main water line replacement in Landover, MD may require ROW restoration planning.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Dual-water-meter setups in Landover, MD irrigation zones need backflow logs before line replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Local conditions in Landover, MD can affect timelines and material choices.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Our service coordination centers on Landover, MD coverage windows and verified intake details.
+Material note: Water heater anode type may change with Landover, MD hardness profiles.
 
-Field note: Wind exposure category reviewed for ZIP sector 20785/20784.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 20785, 20784 (county grid: Prince George's County).
+Basement floor drains in Landover, MD should be snaked only after trap arm geometry is confirmed on camera.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Landover, MD.
+
+Stack vent offsets in Landover, MD older duplexes can mask tub gurgle as a main-line failure.
+
+Flow dossier 286361: branch wet-vent geometry and jetting nozzle envelope logged for Landover, MD county grid Prince George's County (ZIP 20784).
+
+Lineage note 286361: recirculation pump amp draw captured before Landover, MD branch isolation.
+
+Field routing: scale coupon sampling paired with PRV outlet curve near ZIP 20784.
+
+On-site sector marker: Prince George's County / ZIP 20785 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20784-60d8f0b7

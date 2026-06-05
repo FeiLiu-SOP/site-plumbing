@@ -12,24 +12,43 @@ lng: -84.5600
 zipSample: ["48929", "48937", "48909", "48922", "48919"]
 zipCodes: ["48924", "48937", "48919", "48901", "48929", "48906", "48922", "48951", "48956", "48910", "48915", "48912"]
 localPaths: ["Ingham County / primary ZIP 48912", "Ingham County / ZIP 48929 sector", "Ingham County / ZIP 48937 sector", "Ingham County / ZIP 48922 sector", "Ingham County / ZIP 48909 sector"]
-zillowHomeValueUsd: 136532
 ---
 
-**Engineering Notice for Lansing:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lansing, MI.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Lansing, MI coverage windows and verified intake details.
+Galvanized segments in Lansing, MI may restrict flow long before visible corrosion.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lansing, MI, but intake notes help reduce delays.
+FAQ: When should sump battery backups be load-tested? In Lansing, MI, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 48924/48922/48956 intake.
+Stack vent offsets in Lansing, MI older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 48924, 48922, 48956, 48910, 48912 (county grid: Ingham County).
+Polybutylene manifold tags in Lansing, MI basements should be photographed before any wall chase opens.
+
+Material note: Water heater anode type may change with Lansing, MI hardness profiles.
+
+FAQ: When is cabling enough? In Lansing, MI, pipe material and blockage type dictate method.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Basement floor drains in Lansing, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Recirculation pump failures in Lansing, MI can mimic fixture-specific clogs.
+
+In Lansing, MI, slab leaks often present as warm spots before wall stains appear.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Intake ledger 604216: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lansing, MI at 42.7100, -84.5600.
+
+Scope trace: floor drain trap primer drip plus slab penetration sleeve seal referenced in Ingham County county grid review.
+
+Coordinate-anchored dispatch note: center reference 42.7100, -84.5600 at elevation ~863 ft aligns with Ingham County intake staging.
 
 Service reference: MI-48912-62a7bd76

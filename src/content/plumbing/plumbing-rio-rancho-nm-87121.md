@@ -12,24 +12,45 @@ lng: -106.7000
 zipSample: ["87144", "87121", "87174", "87124"]
 zipCodes: ["87124", "87174", "87121", "87144"]
 localPaths: ["Sandoval County / coords 35.2900, -106.7000", "Sandoval County / ZIP 87144 sector", "Sandoval County / elevation 5505 ft band", "Sandoval County / ZIP 87121 sector", "Sandoval County / ZIP 87174 sector"]
-zillowHomeValueUsd: 289287
 ---
 
-**Engineering Notice for Rio Rancho:** Structural loading calculated based on 5505 ft terrain assessment. Regional dispatch grid: Sandoval County.
+**Engineering Notice for Rio Rancho:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sandoval County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dual-water-meter setups in Rio Rancho, NM irrigation zones need backflow logs before line replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Rio Rancho, NM.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dispatch packets reference county grid Sandoval County near ZIP 87121.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: avoid large upfront payments without milestones.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Moisture pathway inspection logged near ZIP 87144/87174/87124 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Rio Rancho, NM systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 87144, 87174, 87124, 87121 (county grid: Sandoval County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: log PRV inlet and outlet readings during intake.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Frost-free sillcock failures in Rio Rancho, NM often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is cabling enough? In Rio Rancho, NM, pipe material and blockage type dictate method.
+
+Pressure trace 902112: meter-pit clearance and dielectric union checklist staged for Rio Rancho, NM near elevation 5505 ft.
+
+Flow dossier 902112: branch wet-vent geometry and jetting nozzle envelope logged for Rio Rancho, NM county grid Sandoval County (ZIP 87121).
+
+plumbing brief: dielectric union checklist and slab penetration sleeve seal were cross-checked for the Rio Rancho intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Sandoval County and primary ZIP 87121. Terrain reference: 5505 ft. Center point: 35.2900, -106.7000. ZIP sample: 87121, 87174, 87124, 87144. Logistics priority: Serving residential sectors across Sandoval County and north-east ZIP 87121 grid.
 
 Service reference: NM-87121-744cc501

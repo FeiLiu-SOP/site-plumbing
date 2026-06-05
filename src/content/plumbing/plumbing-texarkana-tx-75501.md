@@ -12,26 +12,43 @@ lng: -94.0800
 zipSample: ["75599", "75503", "75501"]
 zipCodes: ["75503", "75599", "75501"]
 localPaths: ["Bowie County / ZIP 75599 sector", "Bowie County / elevation 348 ft band", "Bowie County / ZIP 75501 sector", "Bowie County / coords 33.4500, -94.0800", "Bowie County / ZIP 75503 sector"]
-zillowHomeValueUsd: 154015
 ---
 
-**Engineering Notice for Texarkana:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Bowie County.
+**Engineering Notice for Texarkana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bowie County.
 
 
-Our service coordination centers on Texarkana, TX coverage windows and verified intake details.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Texarkana, TX, but intake notes help reduce delays.
+Hose bib split patterns in Texarkana, TX often follow missed winterization.
 
-Tip: request a written scope before work starts.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 75501.
 
-Field note: Moisture pathway inspection logged near ZIP 75501/75599/75503 intake.
+Cast-iron hub corrosion in Texarkana, TX often concentrates at the third joint upstream of the cleanout.
 
-Field note: Access points and staging constraints recorded for ZIP 75501/75599/75503 coverage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 75501, 75599, 75503 (county grid: Bowie County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: When should sump battery backups be load-tested? In Texarkana, TX, before spring thaw and hurricane remnants.
+
+Material note: Water heater anode type may change with Texarkana, TX hardness profiles.
+
+Drain map 486278: camera-pass priority and expansion-tank pre-charge noted for Texarkana, TX postal sector 75501.
+
+Intake ledger 486278: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Texarkana, TX at 33.4500, -94.0800.
+
+On-site sector marker: Bowie County / elevation 348 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75501-f8a399ed

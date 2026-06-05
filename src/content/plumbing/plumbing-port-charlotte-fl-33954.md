@@ -12,26 +12,41 @@ lng: -82.1100
 zipSample: ["33954", "33949", "33952", "33980", "33948"]
 zipCodes: ["33954", "33948", "33980", "33949", "33952"]
 localPaths: ["Charlotte County / ZIP 33948 sector", "Charlotte County / ZIP 33954 sector", "Charlotte County / ZIP 33949 sector", "Charlotte County / primary ZIP 33954", "Charlotte County / ZIP 33952 sector"]
-zillowHomeValueUsd: 298470
 ---
 
-**Engineering Notice for Port Charlotte:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Charlotte County.
+**Engineering Notice for Port Charlotte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlotte County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Port Charlotte, FL, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Trenchless sleeve pulls near Port Charlotte, FL require pit shoring notes when water tables are high.
 
-We coordinate local dispatch coverage around Port Charlotte, FL and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Port Charlotte, FL, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33954/33952/33949.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Moisture pathway inspection logged near ZIP 33954/33952/33949 intake.
+Permit note: Main water line replacement in Port Charlotte, FL may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 33954, 33952, 33949, 33980, 33948 (county grid: Charlotte County).
+Across Port Charlotte, FL, main-line bellies can trap debris even when fixtures drain normally.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Stack vent offsets in Port Charlotte, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Dispatch packets reference county grid Charlotte County near ZIP 33954.
+
+Fixture roster 567462: toilet flange spacer kit and shower cartridge seat score queued for Port Charlotte, FL walk-through.
+
+Scope trace: slab penetration sleeve seal plus toilet flange spacer kit referenced in Charlotte County county grid review.
+
+On-site sector marker: Charlotte County / ZIP 33980 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33954-9e57d42a

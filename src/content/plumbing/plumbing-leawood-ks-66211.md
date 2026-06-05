@@ -12,26 +12,43 @@ lng: -94.6300
 zipSample: ["66209", "66206", "66224", "66211"]
 zipCodes: ["66224", "66206", "66211", "66209"]
 localPaths: ["Johnson County / coords 38.9100, -94.6300", "Johnson County / primary ZIP 66211", "Johnson County / ZIP 66224 sector", "Johnson County / ZIP 66206 sector", "Johnson County / ZIP 66211 sector"]
-zillowHomeValueUsd: 790081
 ---
 
-**Engineering Notice for Leawood:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Leawood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-In Leawood, KS, seasonal demand can change scheduling windows.
+Across Leawood, KS, main-line bellies can trap debris even when fixtures drain normally.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Leawood, KS, but intake notes help reduce delays.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Frost-free sillcock failures in Leawood, KS often trace to interior shutoff seats, not exterior stems.
 
-Field note: Access points and staging constraints recorded for ZIP 66224/66211/66209 coverage.
+Cast-iron hub corrosion in Leawood, KS often concentrates at the third joint upstream of the cleanout.
 
-Field note: Connection points spot-checked where accessible (ZIP 66224/66211/66209 zone).
+Risk flag: In Leawood, KS, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 66224, 66211, 66209, 66206 (county grid: Johnson County).
+Branch wet vents in Leawood, KS can mask gurgling as a main-line issue.
+
+Risk flag: Seasonal Leawood, KS irrigation cross-connections can mask domestic pressure loss.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hydrostatic holds in Leawood, KS slab circuits run overnight when listening mics show ambiguous hits.
+
+Dual-water-meter setups in Leawood, KS irrigation zones need backflow logs before line replacement.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Fixture roster 707067: toilet flange spacer kit and shower cartridge seat score queued for Leawood, KS walk-through.
+
+Scope trace: water softener bypass lever plus cleanout riser height referenced in Johnson County county grid review.
+
+On-site sector marker: Johnson County / ZIP 66224 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66211-c336d2b1

@@ -12,26 +12,43 @@ lng: -106.2600
 zipSample: ["79927"]
 zipCodes: ["79927"]
 localPaths: ["El Paso County / ZIP 79927 sector", "El Paso County / coords 31.6400, -106.2600", "El Paso County / primary ZIP 79927", "El Paso County / elevation 3632 ft band"]
-zillowHomeValueUsd: 204003
 ---
 
-**Engineering Notice for Socorro:** Structural loading calculated based on 3632 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Socorro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
 
 
-We coordinate local dispatch coverage around Socorro, TX and nearby ZIP sectors.
+Cast-iron hub corrosion in Socorro, TX often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: request a written scope before work starts.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Sewer gas odors in Socorro, TX should trigger trap seal and vent path review.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 79927 zone).
+Recirculation pump failures in Socorro, TX can mimic fixture-specific clogs.
 
-Field note: Wind exposure category reviewed for ZIP sector 79927.
+Trenchless sleeve pulls near Socorro, TX require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 79927 (county grid: El Paso County).
+Hydrostatic holds in Socorro, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+We coordinate Socorro, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 79927.
+
+Frost-free sillcock failures in Socorro, TX often trace to interior shutoff seats, not exterior stems.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 79927.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Intake ledger 242999: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Socorro, TX at 31.6400, -106.2600.
+
+Pressure trace 242999: meter-pit clearance and dielectric union checklist staged for Socorro, TX near elevation 3632 ft.
+
+Primary postal anchor 79927 with multi-ZIP overlap in Socorro; field packets tag El Paso County for county-grid reconciliation.
 
 Service reference: TX-79927-989d2cad

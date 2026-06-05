@@ -12,25 +12,41 @@ lng: -84.8600
 zipSample: ["40622", "40603", "40601", "40620", "40619"]
 zipCodes: ["40601", "40619", "40622", "40618", "40621", "40603", "40620"]
 localPaths: ["Franklin County / primary ZIP 40601", "Franklin County / elevation 722 ft band", "Franklin County / ZIP 40620 sector", "Franklin County / ZIP 40619 sector", "Franklin County / ZIP 40601 sector"]
-zillowHomeValueUsd: 240478
 ---
 
-**Engineering Notice for Frankfort:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Frankfort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 40601.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Water heater anode type may change with Frankfort, KY hardness profiles.
 
-Our service coordination centers on Frankfort, KY coverage windows and verified intake details.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Fixture shutoff stiffness in Frankfort, KY may indicate mineral bridging behind stems.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Wind exposure category reviewed for ZIP sector 40601/40620/40603.
+Across Frankfort, KY, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 40601, 40620, 40603, 40621, 40622 (county grid: Franklin County).
+Trenchless pulls in Frankfort, KY require pit dimensions verified against utility locate marks.
+
+Hydro-jetting in Frankfort, KY requires camera confirmation before nozzle pressure is raised.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Frankfort, KY.
+
+Frost-free sillcock failures in Frankfort, KY often trace to interior shutoff seats, not exterior stems.
+
+Permit note: Main water line replacement in Frankfort, KY may require ROW restoration planning.
+
+Galvanized segments in Frankfort, KY may restrict flow long before visible corrosion.
+
+Flow dossier 625482: branch wet-vent geometry and jetting nozzle envelope logged for Frankfort, KY county grid Franklin County (ZIP 40601).
+
+Field routing: meter pit clearance paired with dielectric union checklist near ZIP 40601.
+
+On-site sector marker: Franklin County / elevation 722 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40601-0a67866e

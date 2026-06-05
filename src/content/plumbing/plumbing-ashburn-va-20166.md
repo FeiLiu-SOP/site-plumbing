@@ -12,27 +12,39 @@ lng: -77.4700
 zipSample: ["20146", "20166", "20103", "20104", "20149"]
 zipCodes: ["20166", "20147", "20104", "20146", "20103", "20149"]
 localPaths: ["Loudoun County / coords 39.0300, -77.4700", "Loudoun County / ZIP 20103 sector", "Loudoun County / primary ZIP 20166", "Loudoun County / ZIP 20149 sector", "Loudoun County / elevation 240 ft band"]
-zillowHomeValueUsd: 630857
 ---
 
-**Engineering Notice for Ashburn:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Ashburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ashburn, VA, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 20166.
+FAQ: When is cabling enough? In Ashburn, VA, pipe material and blockage type dictate method.
 
-In Ashburn, VA, seasonal demand can change scheduling windows.
+Hose bib split patterns in Ashburn, VA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 20104/20103/20146 coverage.
+Fixture shutoff stiffness in Ashburn, VA may indicate mineral bridging behind stems.
 
-Field note: Moisture pathway inspection logged near ZIP 20104/20103/20146 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 20104, 20103, 20146, 20147, 20149 (county grid: Loudoun County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ashburn, VA.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Dispatch packets reference county grid Loudoun County near ZIP 20166.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 20166.
+
+Lineage note 177581: recirculation pump amp draw captured before Ashburn, VA branch isolation.
+
+Fixture roster 177581: toilet flange spacer kit and shower cartridge seat score queued for Ashburn, VA walk-through.
+
+Regional mesh label Loudoun County: moisture and logistics baselines are keyed to Ashburn, VA before niche-specific work begins.
 
 Service reference: VA-20166-34fb9a1e

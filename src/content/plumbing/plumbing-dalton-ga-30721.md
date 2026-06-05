@@ -12,24 +12,41 @@ lng: -84.9700
 zipSample: ["30720", "30722", "30721", "30719"]
 zipCodes: ["30722", "30719", "30721", "30720"]
 localPaths: ["Whitfield County / ZIP 30720 sector", "Whitfield County / ZIP 30722 sector", "Whitfield County / coords 34.7700, -84.9700", "Whitfield County / primary ZIP 30721", "Whitfield County / elevation 771 ft band"]
-zillowHomeValueUsd: 235160
 ---
 
-**Engineering Notice for Dalton:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Whitfield County.
+**Engineering Notice for Dalton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whitfield County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Dalton, GA systems need rebalancing.
 
-We coordinate local dispatch coverage around Dalton, GA and nearby ZIP sectors.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dalton, GA, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 30721.
 
-Field note: Access points and staging constraints recorded for ZIP 30720/30721/30719 coverage.
+Sewer gas odors in Dalton, GA should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 30720, 30721, 30719, 30722 (county grid: Whitfield County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Polybutylene manifold tags in Dalton, GA basements should be photographed before any wall chase opens.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+In Dalton, GA, slab leaks often present as warm spots before wall stains appear.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Flow dossier 504479: branch wet-vent geometry and jetting nozzle envelope logged for Dalton, GA county grid Whitfield County (ZIP 30721).
+
+Fixture roster 504479: toilet flange spacer kit and shower cartridge seat score queued for Dalton, GA walk-through.
+
+Scope trace: floor drain trap primer drip plus water softener bypass lever referenced in Whitfield County county grid review.
+
+On-site sector marker: Whitfield County / ZIP 30720 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30721-9577c657

@@ -12,26 +12,41 @@ lng: -118.0100
 zipSample: ["90637", "90638", "90639"]
 zipCodes: ["90638", "90637", "90639"]
 localPaths: ["Los Angeles County / ZIP 90638 sector", "Los Angeles County / ZIP 90639 sector", "Los Angeles County / coords 33.9000, -118.0100", "Los Angeles County / primary ZIP 90638", "Los Angeles County / ZIP 90637 sector"]
-zillowHomeValueUsd: 887400
 ---
 
-**Engineering Notice for La Mirada:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Mirada:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on La Mirada, CA coverage windows and verified intake details.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Seasonal La Mirada, CA irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 90638.
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 90637/90638/90639 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 90637/90638/90639.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 90637, 90638, 90639 (county grid: Los Angeles County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Across La Mirada, CA, main-line bellies can trap debris even when fixtures drain normally.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in La Mirada, CA.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Intake ledger 818902: sump amperage, PRV seat wear, and cleanout riser height cross-checked for La Mirada, CA at 33.9000, -118.0100.
+
+Fixture roster 818902: toilet flange spacer kit and shower cartridge seat score queued for La Mirada, CA walk-through.
+
+On-site sector marker: Los Angeles County / ZIP 90638 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90638-e89ee810

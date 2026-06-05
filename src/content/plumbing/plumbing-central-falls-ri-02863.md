@@ -12,27 +12,43 @@ lng: -71.3900
 zipSample: ["02863"]
 zipCodes: ["02863"]
 localPaths: ["Providence County / elevation 102 ft band", "Providence County / coords 41.8900, -71.3900", "Providence County / ZIP 02863 sector", "Providence County / primary ZIP 02863"]
-zillowHomeValueUsd: 377661
 ---
 
-**Engineering Notice for Central Falls:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Providence County.
+**Engineering Notice for Central Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Frost-free sillcock failures in Central Falls, RI often trace to interior shutoff seats, not exterior stems.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 02863.
+Cleanout access limits in Central Falls, RI frequently extend drain cleaning duration.
 
-We coordinate local dispatch coverage around Central Falls, RI and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Central Falls, RI, before spring thaw and hurricane remnants.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Access points and staging constraints recorded for ZIP 02863 coverage.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02863.
+Galvanized segments in Central Falls, RI may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 02863 (county grid: Providence County).
+Step: log PRV inlet and outlet readings during intake.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: In Central Falls, RI, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Stack vent offsets in Central Falls, RI older duplexes can mask tub gurgle as a main-line failure.
+
+Polybutylene manifold tags in Central Falls, RI basements should be photographed before any wall chase opens.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Lineage note 507894: recirculation pump amp draw captured before Central Falls, RI branch isolation.
+
+Scope trace: scale coupon sampling plus toilet flange spacer kit referenced in Providence County county grid review.
+
+On-site sector marker: Providence County / ZIP 02863 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02863-67e28a06

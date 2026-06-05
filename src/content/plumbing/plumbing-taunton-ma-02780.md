@@ -12,24 +12,41 @@ lng: -71.0900
 zipSample: ["02718", "02767", "02780"]
 zipCodes: ["02718", "02767", "02780"]
 localPaths: ["Bristol County / ZIP 02780 sector", "Bristol County / ZIP 02718 sector", "Bristol County / coords 41.9000, -71.0900", "Bristol County / primary ZIP 02780", "Bristol County / ZIP 02767 sector"]
-zillowHomeValueUsd: 512318
 ---
 
-**Engineering Notice for Taunton:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Bristol County.
+**Engineering Notice for Taunton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bristol County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: request a written scope before work starts.
+Risk flag: In Taunton, MA, slab leaks can misroute as foundation issues without listening equipment.
 
-Our service coordination centers on Taunton, MA coverage windows and verified intake details.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-In Taunton, MA, seasonal demand can change scheduling windows.
+Step: camera-pass main lines in Taunton, MA before jetting older clay or cast iron.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Taunton, MA, but intake notes help reduce delays.
+Hose bib split patterns in Taunton, MA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 02718/02767/02780 coverage.
+Risk flag: Seasonal Taunton, MA irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 02718, 02767, 02780 (county grid: Bristol County).
+Cast-iron hub corrosion in Taunton, MA often concentrates at the third joint upstream of the cleanout.
+
+FAQ: When should sump battery backups be load-tested? In Taunton, MA, before spring thaw and hurricane remnants.
+
+Branch wet vents in Taunton, MA can mask gurgling as a main-line issue.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Drain map 653196: camera-pass priority and expansion-tank pre-charge noted for Taunton, MA postal sector 02780.
+
+Lineage note 653196: recirculation pump amp draw captured before Taunton, MA branch isolation.
+
+Scope trace: meter pit clearance plus branch wet vent geometry referenced in Bristol County county grid review.
+
+On-site sector marker: Bristol County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02780-53055103

@@ -12,27 +12,39 @@ lng: -122.4500
 zipSample: ["98465", "98416", "98444", "98403", "98405"]
 zipCodes: ["98422", "98402", "98411", "98416", "98401", "98403", "98448", "98406", "98418", "98490", "98421", "98466"]
 localPaths: ["Pierce County / ZIP 98465 sector", "Pierce County / ZIP 98444 sector", "Pierce County / ZIP 98403 sector", "Pierce County / coords 47.2400, -122.4500", "Pierce County / ZIP 98416 sector"]
-zillowHomeValueUsd: 676434
 ---
 
-**Engineering Notice for Tacoma:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Tacoma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Hydrostatic holds in Tacoma, WA slab circuits run overnight when listening mics show ambiguous hits.
 
-We coordinate local dispatch coverage around Tacoma, WA and nearby ZIP sectors.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: request a written scope before work starts.
+Trenchless pulls in Tacoma, WA require pit dimensions verified against utility locate marks.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98422.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98407/98415/98421.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 98407/98415/98421 intake.
+Polybutylene manifold tags in Tacoma, WA basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 98407, 98415, 98421, 98465, 98402 (county grid: Pierce County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 98422.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: map sump float travel and check-valve orientation for Tacoma, WA basements.
+
+Stack vent offsets in Tacoma, WA older duplexes can mask tub gurgle as a main-line failure.
+
+Flow dossier 324736: branch wet-vent geometry and jetting nozzle envelope logged for Tacoma, WA county grid Pierce County (ZIP 98422).
+
+Pressure trace 324736: meter-pit clearance and dielectric union checklist staged for Tacoma, WA near elevation 358 ft.
+
+On-site sector marker: Pierce County / ZIP 98403 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98422-64e952e3

@@ -12,25 +12,39 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / primary ZIP 84067", "Weber County / ZIP 84067 sector", "Weber County / elevation 4383 ft band", "Weber County / coords 41.1700, -112.0500"]
-zillowHomeValueUsd: 436566
 ---
 
-**Engineering Notice for Roy:** Structural loading calculated based on 4383 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for Roy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roy, UT, but intake notes help reduce delays.
+Sump discharge freeze risk in Roy, UT should be reviewed before spring thaw cycles.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Roy, UT before jetting older clay or cast iron.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 84067.
+Cleanout access limits in Roy, UT frequently extend drain cleaning duration.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Recirculation pump failures in Roy, UT can mimic fixture-specific clogs.
 
-We coordinate local dispatch coverage around Roy, UT and nearby ZIP sectors.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Moisture pathway inspection logged near ZIP 84067 intake.
+Material note: Water heater anode type may change with Roy, UT hardness profiles.
 
-Dispatch sectors sampled: ZIP 84067 (county grid: Weber County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 84067.
+
+Step: map sump float travel and check-valve orientation for Roy, UT basements.
+
+Polybutylene manifold tags in Roy, UT basements should be photographed before any wall chase opens.
+
+FAQ: When should sump battery backups be load-tested? In Roy, UT, before spring thaw and hurricane remnants.
+
+In Roy, UT, slab leaks often present as warm spots before wall stains appear.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Supply audit 634524: curb-stop orientation and hose-bib freeze flag reviewed for Roy, UT at coords 41.1700/-112.0500.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Weber County and primary ZIP 84067. Terrain reference: 4383 ft. Center point: 41.1700, -112.0500. ZIP sample: 84067. Regional routing note: Weber County traffic flow is balanced around ZIP 84067 service demand.
 
 Service reference: UT-84067-511446eb

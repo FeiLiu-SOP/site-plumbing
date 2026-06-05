@@ -12,24 +12,39 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75225", "75205", "75275"]
 localPaths: ["Dallas County / primary ZIP 75225", "Dallas County / coords 32.8500, -96.7900", "Dallas County / ZIP 75275 sector", "Dallas County / elevation 571 ft band", "Dallas County / ZIP 75205 sector"]
-zillowHomeValueUsd: 2057934
 ---
 
-**Engineering Notice for University Park:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for University Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in University Park, TX systems need rebalancing.
 
-Local conditions in University Park, TX can affect timelines and material choices.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 75225.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across University Park, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Field note: Connection points spot-checked where accessible (ZIP 75205/75275/75225 zone).
+Basement floor drains in University Park, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 75205, 75275, 75225 (county grid: Dallas County).
+FAQ: When is cabling enough? In University Park, TX, pipe material and blockage type dictate method.
+
+Risk flag: In University Park, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Fixture shutoff stiffness in University Park, TX may indicate mineral bridging behind stems.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Polybutylene manifold tags in University Park, TX basements should be photographed before any wall chase opens.
+
+Pressure trace 912890: meter-pit clearance and dielectric union checklist staged for University Park, TX near elevation 571 ft.
+
+Fixture roster 912890: toilet flange spacer kit and shower cartridge seat score queued for University Park, TX walk-through.
+
+Coordinate-anchored dispatch note: center reference 32.8500, -96.7900 at elevation ~571 ft aligns with Dallas County intake staging.
 
 Service reference: TX-75225-f940021a

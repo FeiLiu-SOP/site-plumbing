@@ -12,25 +12,43 @@ lng: -85.8500
 zipSample: ["46582", "46580", "46581"]
 zipCodes: ["46582", "46581", "46580"]
 localPaths: ["Kosciusko County / ZIP 46582 sector", "Kosciusko County / ZIP 46581 sector", "Kosciusko County / ZIP 46580 sector", "Kosciusko County / coords 41.2400, -85.8500", "Kosciusko County / elevation 817 ft band"]
-zillowHomeValueUsd: 304455
 ---
 
-**Engineering Notice for Warsaw:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Kosciusko County.
+**Engineering Notice for Warsaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kosciusko County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46582.
+Stack vent offsets in Warsaw, IN older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Warsaw, IN, but intake notes help reduce delays.
+Irrigation cross-connections in Warsaw, IN can back-siphon domestic lines during main breaks.
 
-We coordinate local dispatch coverage around Warsaw, IN and nearby ZIP sectors.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Frost-free sillcock failures in Warsaw, IN often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 46580/46581/46582.
+Water heater T&P discharge paths in Warsaw, IN must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 46580, 46581, 46582 (county grid: Kosciusko County).
+Confirm cleanout locations during the same visit. Serving ZIP Code: 46582.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Warsaw, IN.
+
+Permit note: Main water line replacement in Warsaw, IN may require ROW restoration planning.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Basement floor drains in Warsaw, IN should be snaked only after trap arm geometry is confirmed on camera.
+
+Dual-water-meter setups in Warsaw, IN irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Supply audit 146539: curb-stop orientation and hose-bib freeze flag reviewed for Warsaw, IN at coords 41.2400/-85.8500.
+
+Pressure trace 146539: meter-pit clearance and dielectric union checklist staged for Warsaw, IN near elevation 817 ft.
+
+Field routing: branch wet vent geometry paired with toilet flange spacer kit near ZIP 46582.
+
+On-site sector marker: Kosciusko County / elevation 817 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46582-08e0ef77

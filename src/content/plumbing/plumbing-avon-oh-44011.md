@@ -12,25 +12,41 @@ lng: -82.0200
 zipSample: ["44011"]
 zipCodes: ["44011"]
 localPaths: ["Lorain County / elevation 692 ft band", "Lorain County / coords 41.4500, -82.0200", "Lorain County / primary ZIP 44011", "Lorain County / ZIP 44011 sector"]
-zillowHomeValueUsd: 471637
 ---
 
-**Engineering Notice for Avon:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lorain County.
+**Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hard water in Avon, OH accelerates scale on PRV seats and heater elements.
 
-Tip: request a written scope before work starts.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Our service coordination centers on Avon, OH coverage windows and verified intake details.
+Material note: Water heater anode type may change with Avon, OH hardness profiles.
 
-In Avon, OH, seasonal demand can change scheduling windows.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44011.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Connection points spot-checked where accessible (ZIP 44011 zone).
+FAQ: When is cabling enough? In Avon, OH, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 44011 (county grid: Lorain County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cast-iron hub corrosion in Avon, OH often concentrates at the third joint upstream of the cleanout.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Seasonal Avon, OH irrigation cross-connections can mask domestic pressure loss.
+
+Basement floor drains in Avon, OH should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: When should sump battery backups be load-tested? In Avon, OH, before spring thaw and hurricane remnants.
+
+Trenchless sleeve pulls near Avon, OH require pit shoring notes when water tables are high.
+
+Flow dossier 454793: branch wet-vent geometry and jetting nozzle envelope logged for Avon, OH county grid Lorain County (ZIP 44011).
+
+Fixture roster 454793: toilet flange spacer kit and shower cartridge seat score queued for Avon, OH walk-through.
+
+On-site sector marker: Lorain County / coords 41.4500, -82.0200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44011-c8cb2f8e

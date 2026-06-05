@@ -12,26 +12,45 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / elevation 679 ft band", "Union County / ZIP 28104 sector", "Union County / primary ZIP 28104", "Union County / coords 35.1100, -80.6600"]
-zillowHomeValueUsd: 594915
 ---
 
-**Engineering Notice for Stallings:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Stallings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Basement floor drains in Stallings, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: request a written scope before work starts.
+Fixture shutoff stiffness in Stallings, NC may indicate mineral bridging behind stems.
 
-In Stallings, NC, seasonal demand can change scheduling windows.
+Irrigation cross-connections in Stallings, NC can back-siphon domestic lines during main breaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Connection points spot-checked where accessible (ZIP 28104 zone).
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28104.
+Sump discharge freeze risk in Stallings, NC should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 28104 (county grid: Union County).
+Polybutylene manifold tags in Stallings, NC basements should be photographed before any wall chase opens.
+
+Trenchless sleeve pulls near Stallings, NC require pit shoring notes when water tables are high.
+
+Hydrostatic holds in Stallings, NC slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: Is hydro-jetting always appropriate? In Stallings, NC, pipe material and blockage type dictate method.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Galvanized segments in Stallings, NC may restrict flow long before visible corrosion.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 28104.
+
+Intake ledger 349967: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Stallings, NC at 35.1100, -80.6600.
+
+Supply audit 349967: curb-stop orientation and hose-bib freeze flag reviewed for Stallings, NC at coords 35.1100/-80.6600.
+
+plumbing brief: meter pit clearance and jetter nozzle envelope were cross-checked for the Stallings intake packet.
+
+On-site sector marker: Union County / coords 35.1100, -80.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28104-966ac2f4

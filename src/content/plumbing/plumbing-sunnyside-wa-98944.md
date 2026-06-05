@@ -12,25 +12,41 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / primary ZIP 98944", "Yakima County / coords 46.3200, -120.0100", "Yakima County / ZIP 98944 sector", "Yakima County / elevation 732 ft band"]
-zillowHomeValueUsd: 323243
 ---
 
-**Engineering Notice for Sunnyside:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Sunnyside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yakima County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98944.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Sunnyside, WA hardness profiles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sunnyside, WA, but intake notes help reduce delays.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate local dispatch coverage around Sunnyside, WA and nearby ZIP sectors.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 98944 zone).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 98944 (county grid: Yakima County).
+Cast-iron hub corrosion in Sunnyside, WA often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Sunnyside, WA systems need rebalancing.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Across Sunnyside, WA, main-line bellies can trap debris even when fixtures drain normally.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Polybutylene manifold tags in Sunnyside, WA basements should be photographed before any wall chase opens.
+
+Irrigation cross-connections in Sunnyside, WA can back-siphon domestic lines during main breaks.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Pressure trace 814541: meter-pit clearance and dielectric union checklist staged for Sunnyside, WA near elevation 732 ft.
+
+On-site sector marker: Yakima County / primary ZIP 98944 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98944-bda2c656

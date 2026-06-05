@@ -12,26 +12,43 @@ lng: -81.5200
 zipSample: ["44314", "44398", "44312", "44310", "44396"]
 zipCodes: ["44319", "44315", "44313", "44308", "44305", "44307", "44312", "44314", "44304", "44326", "44325", "44306"]
 localPaths: ["Summit County / ZIP 44398 sector", "Summit County / elevation 958 ft band", "Summit County / primary ZIP 44306", "Summit County / ZIP 44310 sector", "Summit County / ZIP 44396 sector"]
-zillowHomeValueUsd: 89588
 ---
 
-**Engineering Notice for Akron:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Summit County.
+**Engineering Notice for Akron:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dispatch packets reference county grid Summit County near ZIP 44306.
 
-Our service coordination centers on Akron, OH coverage windows and verified intake details.
+CPVC solvent weld times shift with ambient humidity during Akron, OH shoulder seasons.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 44320/44328/44326 zone).
+Branch wet vents in Akron, OH can mask gurgling as a main-line issue.
 
-Field note: Moisture pathway inspection logged near ZIP 44320/44328/44326 intake.
+Trenchless sleeve pulls near Akron, OH require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 44320, 44328, 44326, 44317, 44310 (county grid: Summit County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Akron, OH.
+
+Expansion tank pre-charge loss in Akron, OH often tracks heater replacement deferrals.
+
+Trenchless pulls in Akron, OH require pit dimensions verified against utility locate marks.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Pressure trace 492165: meter-pit clearance and dielectric union checklist staged for Akron, OH near elevation 958 ft.
+
+Intake ledger 492165: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Akron, OH at 41.0800, -81.5200.
+
+Field routing: backflow test cock orientation paired with shower cartridge seat score near ZIP 44306.
+
+On-site sector marker: Summit County / primary ZIP 44306 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44306-657f227a

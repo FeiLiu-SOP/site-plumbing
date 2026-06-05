@@ -12,24 +12,43 @@ lng: -122.1500
 zipSample: ["98208", "98296", "98012"]
 zipCodes: ["98208", "98012", "98296"]
 localPaths: ["Snohomish County / primary ZIP 98296", "Snohomish County / elevation 522 ft band", "Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8600, -122.1500", "Snohomish County / ZIP 98208 sector"]
-zillowHomeValueUsd: 1058969
 ---
 
-**Engineering Notice for Silver Firs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Silver Firs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
 
 
-Tip: request a written scope before work starts.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our service coordination centers on Silver Firs, WA coverage windows and verified intake details.
+Step: camera-pass main lines in Silver Firs, WA before jetting older clay or cast iron.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Water heater T&P discharge paths in Silver Firs, WA must terminate safely before replacement quotes.
 
-Field note: Access points and staging constraints recorded for ZIP 98208/98012/98296 coverage.
+Polybutylene manifold tags in Silver Firs, WA basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 98208, 98012, 98296 (county grid: Snohomish County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Dual-water-meter setups in Silver Firs, WA irrigation zones need backflow logs before line replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Stack vent offsets in Silver Firs, WA older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: Is hydro-jetting always appropriate? In Silver Firs, WA, pipe material and blockage type dictate method.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Basement floor drains in Silver Firs, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Permit note: Main water line replacement in Silver Firs, WA may require ROW restoration planning.
+
+Intake ledger 527755: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Silver Firs, WA at 47.8600, -122.1500.
+
+plumbing brief: floor drain trap primer drip and meter pit clearance were cross-checked for the Silver Firs intake packet.
+
+Primary postal anchor 98296 with multi-ZIP overlap in Silver Firs; field packets tag Snohomish County for county-grid reconciliation.
 
 Service reference: WA-98296-bea404d1

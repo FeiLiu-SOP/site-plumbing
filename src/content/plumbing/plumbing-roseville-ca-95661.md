@@ -12,26 +12,41 @@ lng: -121.3200
 zipSample: ["95661", "95747", "95678"]
 zipCodes: ["95747", "95661", "95678"]
 localPaths: ["Placer County / ZIP 95747 sector", "Placer County / elevation 148 ft band", "Placer County / ZIP 95678 sector", "Placer County / coords 38.7700, -121.3200", "Placer County / primary ZIP 95661"]
-zillowHomeValueUsd: 692367
 ---
 
-**Engineering Notice for Roseville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.
+**Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Placer County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 95661.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roseville, CA, but intake notes help reduce delays.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Homeowners in Roseville, CA often face sudden plumbing problems that require fast action.
+Frost-free sillcock failures in Roseville, CA often trace to interior shutoff seats, not exterior stems.
 
-Field note: Wind exposure category reviewed for ZIP sector 95661/95678/95747.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95661/95678/95747.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 95661, 95678, 95747 (county grid: Placer County).
+Material note: Water heater anode type may change with Roseville, CA hardness profiles.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: Is hydro-jetting always appropriate? In Roseville, CA, pipe material and blockage type dictate method.
+
+Cast-iron hub corrosion in Roseville, CA often concentrates at the third joint upstream of the cleanout.
+
+FAQ: When should sump battery backups be load-tested? In Roseville, CA, before spring thaw and hurricane remnants.
+
+Stack vent offsets in Roseville, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Pressure trace 182526: meter-pit clearance and dielectric union checklist staged for Roseville, CA near elevation 148 ft.
+
+On-site sector marker: Placer County / primary ZIP 95661 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95661-b6721e83

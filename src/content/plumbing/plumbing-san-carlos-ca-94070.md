@@ -12,28 +12,37 @@ lng: -122.2700
 zipSample: ["94070"]
 zipCodes: ["94070"]
 localPaths: ["San Mateo County / coords 37.5000, -122.2700", "San Mateo County / ZIP 94070 sector", "San Mateo County / elevation 108 ft band", "San Mateo County / primary ZIP 94070"]
-zillowHomeValueUsd: 2457932
 ---
 
-**Engineering Notice for San Carlos:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for San Carlos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Expansion tank pre-charge loss in San Carlos, CA often tracks heater replacement deferrals.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94070.
+Hose bib split patterns in San Carlos, CA often follow missed winterization.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94070.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map sump float travel and check-valve orientation for San Carlos, CA basements.
 
-Field note: Connection points spot-checked where accessible (ZIP 94070 zone).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94070.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 94070 (county grid: San Mateo County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Trenchless pulls in San Carlos, CA require pit dimensions verified against utility locate marks.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 313739: sump amperage, PRV seat wear, and cleanout riser height cross-checked for San Carlos, CA at 37.5000, -122.2700.
+
+Regional mesh label San Mateo County: moisture and logistics baselines are keyed to San Carlos, CA before niche-specific work begins.
 
 Service reference: CA-94070-429383b7

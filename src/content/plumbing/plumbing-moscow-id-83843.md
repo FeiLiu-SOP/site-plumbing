@@ -12,24 +12,39 @@ lng: -117.0000
 zipSample: ["83844", "83843"]
 zipCodes: ["83843", "83844"]
 localPaths: ["Latah County / ZIP 83843 sector", "Latah County / ZIP 83844 sector", "Latah County / coords 46.7300, -117.0000", "Latah County / elevation 2589 ft band", "Latah County / primary ZIP 83843"]
-zillowHomeValueUsd: 468167
 ---
 
-**Engineering Notice for Moscow:** Structural loading calculated based on 2589 ft terrain assessment. Regional dispatch grid: Latah County.
+**Engineering Notice for Moscow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Latah County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save water heater serial plates for warranty traceability.
 
-We coordinate local dispatch coverage around Moscow, ID and nearby ZIP sectors.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Access points and staging constraints recorded for ZIP 83843/83844 coverage.
+Cleanout access limits in Moscow, ID frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 83843, 83844 (county grid: Latah County).
+Dual-water-meter setups in Moscow, ID irrigation zones need backflow logs before line replacement.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Branch wet vents in Moscow, ID can mask gurgling as a main-line issue.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 83843.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Moscow, ID systems need rebalancing.
+
+Trenchless sleeve pulls near Moscow, ID require pit shoring notes when water tables are high.
+
+Flow dossier 335167: branch wet-vent geometry and jetting nozzle envelope logged for Moscow, ID county grid Latah County (ZIP 83843).
+
+Supply audit 335167: curb-stop orientation and hose-bib freeze flag reviewed for Moscow, ID at coords 46.7300/-117.0000.
+
+On-site sector marker: Latah County / coords 46.7300, -117.0000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83843-2e45bb0b

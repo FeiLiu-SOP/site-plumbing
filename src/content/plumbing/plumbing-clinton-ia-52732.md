@@ -12,26 +12,41 @@ lng: -90.2400
 zipSample: ["52734", "52732", "52733", "52736"]
 zipCodes: ["52732", "52734", "52733", "52736"]
 localPaths: ["Clinton County / ZIP 52732 sector", "Clinton County / ZIP 52734 sector", "Clinton County / coords 41.8400, -90.2400", "Clinton County / ZIP 52733 sector", "Clinton County / primary ZIP 52732"]
-zillowHomeValueUsd: 127177
 ---
 
-**Engineering Notice for Clinton:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Trenchless sleeve pulls near Clinton, IA require pit shoring notes when water tables are high.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clinton, IA, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is cabling enough? In Clinton, IA, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52736/52733/52732.
+Risk flag: In Clinton, IA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Moisture pathway inspection logged near ZIP 52736/52733/52732 intake.
+Expansion tank pre-charge loss in Clinton, IA often tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 52736, 52733, 52732, 52734 (county grid: Clinton County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Frost-free sillcock failures in Clinton, IA often trace to interior shutoff seats, not exterior stems.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Fixture roster 311743: toilet flange spacer kit and shower cartridge seat score queued for Clinton, IA walk-through.
+
+Lineage note 311743: recirculation pump amp draw captured before Clinton, IA branch isolation.
+
+plumbing brief: water softener bypass lever and jetter nozzle envelope were cross-checked for the Clinton intake packet.
+
+On-site sector marker: Clinton County / primary ZIP 52732 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52732-3dbb25ad

@@ -12,26 +12,41 @@ lng: -93.3600
 zipSample: ["55436", "55439", "55424", "55435", "55410"]
 zipCodes: ["55439", "55435", "55436", "55410", "55424"]
 localPaths: ["Hennepin County / ZIP 55436 sector", "Hennepin County / coords 44.8900, -93.3600", "Hennepin County / primary ZIP 55424", "Hennepin County / ZIP 55424 sector", "Hennepin County / ZIP 55439 sector"]
-zillowHomeValueUsd: 1012387
 ---
 
-**Engineering Notice for Edina:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Edina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Edina, MN slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 55424.
 
-Tip: compare at least two estimates for scope and timeline.
+Hydro-jetting in Edina, MN requires camera confirmation before nozzle pressure is raised.
 
-Homeowners in Edina, MN often face sudden plumbing problems that require fast action.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55424/55436/55435.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Moisture pathway inspection logged near ZIP 55424/55436/55435 intake.
+CPVC solvent weld times shift with ambient humidity during Edina, MN shoulder seasons.
 
-Dispatch sectors sampled: ZIP 55424, 55436, 55435, 55410, 55439 (county grid: Hennepin County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Edina, MN.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Dual-water-meter setups in Edina, MN irrigation zones need backflow logs before line replacement.
+
+Material note: Water heater anode type may change with Edina, MN hardness profiles.
+
+Fixture roster 864727: toilet flange spacer kit and shower cartridge seat score queued for Edina, MN walk-through.
+
+Drain map 864727: camera-pass priority and expansion-tank pre-charge noted for Edina, MN postal sector 55424.
+
+On-site sector marker: Hennepin County / primary ZIP 55424 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55424-6242bf4b

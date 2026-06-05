@@ -12,26 +12,41 @@ lng: -157.7400
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / elevation 23 ft band", "Honolulu County / coords 21.3900, -157.7400", "Honolulu County / ZIP 96734 sector", "Honolulu County / primary ZIP 96734"]
-zillowHomeValueUsd: 1523547
 ---
 
-**Engineering Notice for Kailua:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Kailua:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Water heater anode type may change with Kailua, HI hardness profiles.
 
-We coordinate local dispatch coverage around Kailua, HI and nearby ZIP sectors.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 96734.
 
-Tip: request a written scope before work starts.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Main water line replacement in Kailua, HI may require ROW restoration planning.
 
-Field note: Access points and staging constraints recorded for ZIP 96734 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96734.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 96734 (county grid: Honolulu County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: When should sump battery backups be load-tested? In Kailua, HI, before spring thaw and hurricane remnants.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 96734.
+
+Recirculation pump failures in Kailua, HI can mimic fixture-specific clogs.
+
+Fixture roster 644430: toilet flange spacer kit and shower cartridge seat score queued for Kailua, HI walk-through.
+
+Pressure trace 644430: meter-pit clearance and dielectric union checklist staged for Kailua, HI near elevation 23 ft.
+
+ZIP-corridor snapshot for Kailua, HI: sampled sectors include 96734; county routing grid remains Honolulu County.
 
 Service reference: HI-96734-cfccc511

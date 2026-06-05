@@ -12,27 +12,43 @@ lng: -118.1400
 zipSample: ["91803", "91802", "91896", "91801", "91899"]
 zipCodes: ["91804", "91803", "91801", "91802", "91899", "91896"]
 localPaths: ["Los Angeles County / ZIP 91896 sector", "Los Angeles County / ZIP 91801 sector", "Los Angeles County / ZIP 91802 sector", "Los Angeles County / elevation 456 ft band", "Los Angeles County / primary ZIP 91803"]
-zillowHomeValueUsd: 960747
 ---
 
-**Engineering Notice for Alhambra:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Alhambra:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 91803.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 91899/91896/91801 intake.
+CPVC solvent weld times shift with ambient humidity during Alhambra, CA shoulder seasons.
 
-Field note: Wind exposure category reviewed for ZIP sector 91899/91896/91801.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 91899, 91896, 91801, 91803, 91804 (county grid: Los Angeles County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 91803.
+
+Dual-water-meter setups in Alhambra, CA irrigation zones need backflow logs before line replacement.
+
+Hydrostatic holds in Alhambra, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Dispatch packets reference county grid Los Angeles County near ZIP 91803.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture shutoff stiffness in Alhambra, CA may indicate mineral bridging behind stems.
+
+Polybutylene manifold tags in Alhambra, CA basements should be photographed before any wall chase opens.
+
+Pressure trace 600515: meter-pit clearance and dielectric union checklist staged for Alhambra, CA near elevation 456 ft.
+
+Supply audit 600515: curb-stop orientation and hose-bib freeze flag reviewed for Alhambra, CA at coords 34.0800/-118.1400.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Alhambra, CA before niche-specific work begins.
 
 Service reference: CA-91803-e3f2afd3

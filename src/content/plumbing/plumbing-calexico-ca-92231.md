@@ -12,24 +12,41 @@ lng: -115.4900
 zipSample: ["92231", "92232"]
 zipCodes: ["92231", "92232"]
 localPaths: ["Imperial County / primary ZIP 92231", "Imperial County / ZIP 92231 sector", "Imperial County / elevation 0 ft band", "Imperial County / coords 32.6800, -115.4900", "Imperial County / ZIP 92232 sector"]
-zillowHomeValueUsd: 391747
 ---
 
-**Engineering Notice for Calexico:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for Calexico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Calexico, CA, but intake notes help reduce delays.
+Stack vent offsets in Calexico, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: request a written scope before work starts.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Main water line replacement in Calexico, CA may require ROW restoration planning.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Moisture pathway inspection logged near ZIP 92231/92232 intake.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Calexico, CA systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 92231, 92232 (county grid: Imperial County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Dual-water-meter setups in Calexico, CA irrigation zones need backflow logs before line replacement.
+
+Water heater T&P discharge paths in Calexico, CA must terminate safely before replacement quotes.
+
+Cast-iron hub corrosion in Calexico, CA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Seasonal Calexico, CA irrigation cross-connections can mask domestic pressure loss.
+
+Hydrostatic holds in Calexico, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Drain map 208356: camera-pass priority and expansion-tank pre-charge noted for Calexico, CA postal sector 92231.
+
+Supply audit 208356: curb-stop orientation and hose-bib freeze flag reviewed for Calexico, CA at coords 32.6800/-115.4900.
+
+Primary postal anchor 92231 with multi-ZIP overlap in Calexico; field packets tag Imperial County for county-grid reconciliation.
 
 Service reference: CA-92231-be71d9bf

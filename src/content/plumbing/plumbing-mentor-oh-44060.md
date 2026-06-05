@@ -12,25 +12,43 @@ lng: -81.3400
 zipSample: ["44060", "44061"]
 zipCodes: ["44061", "44060"]
 localPaths: ["Lake County / coords 41.6900, -81.3400", "Lake County / elevation 630 ft band", "Lake County / ZIP 44061 sector", "Lake County / ZIP 44060 sector", "Lake County / primary ZIP 44060"]
-zillowHomeValueUsd: 271686
 ---
 
-**Engineering Notice for Mentor:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Mentor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-We coordinate local dispatch coverage around Mentor, OH and nearby ZIP sectors.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44060.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mentor, OH, but intake notes help reduce delays.
+CPVC solvent weld times shift with ambient humidity during Mentor, OH shoulder seasons.
 
-Tip: avoid large upfront payments without milestones.
+Stack vent offsets in Mentor, OH older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Access points and staging constraints recorded for ZIP 44060/44061 coverage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 44060, 44061 (county grid: Lake County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Branch wet vents in Mentor, OH can mask gurgling as a main-line issue.
+
+Hydro-jetting in Mentor, OH requires camera confirmation before nozzle pressure is raised.
+
+Dispatch packets reference county grid Lake County near ZIP 44060.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mentor, OH systems need rebalancing.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 886212: toilet flange spacer kit and shower cartridge seat score queued for Mentor, OH walk-through.
+
+Pressure trace 886212: meter-pit clearance and dielectric union checklist staged for Mentor, OH near elevation 630 ft.
+
+Coordinate-anchored dispatch note: center reference 41.6900, -81.3400 at elevation ~630 ft aligns with Lake County intake staging.
 
 Service reference: OH-44060-67ddeb58

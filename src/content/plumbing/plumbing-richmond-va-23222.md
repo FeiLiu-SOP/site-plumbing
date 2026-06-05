@@ -12,26 +12,39 @@ lng: -77.4800
 zipSample: ["23219", "23221", "23298", "23227", "23223"]
 zipCodes: ["23278", "23218", "23222", "23292", "23221", "23295", "23260", "23289", "23284", "23282", "23298", "23234"]
 localPaths: ["Richmond County / ZIP 23298 sector", "Richmond County / primary ZIP 23222", "Richmond County / ZIP 23219 sector", "Richmond County / ZIP 23223 sector", "Richmond County / elevation 52 ft band"]
-zillowHomeValueUsd: 276033
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Richmond County.
+**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richmond County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Structured milestones protect both sides when scheduling work.
+Cast-iron hub corrosion in Richmond, VA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Richmond, VA, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 23261/23227/23220 zone).
+FAQ: When is cabling enough? In Richmond, VA, pipe material and blockage type dictate method.
 
-Field note: Access points and staging constraints recorded for ZIP 23261/23227/23220 coverage.
+Recirculation pump failures in Richmond, VA can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 23261, 23227, 23220, 23249, 23278 (county grid: Richmond County).
+Branch wet vents in Richmond, VA can mask gurgling as a main-line issue.
+
+Water heater T&P discharge paths in Richmond, VA must terminate safely before replacement quotes.
+
+Step: camera-pass main lines in Richmond, VA before jetting older clay or cast iron.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Drain map 645726: camera-pass priority and expansion-tank pre-charge noted for Richmond, VA postal sector 23222.
+
+Field routing: jetter nozzle envelope paired with backflow test cock orientation near ZIP 23222.
+
+On-site sector marker: Richmond County / ZIP 23220 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23222-b648ec5a

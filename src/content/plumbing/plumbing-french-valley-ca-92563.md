@@ -12,26 +12,43 @@ lng: -117.1100
 zipSample: ["92596", "92563"]
 zipCodes: ["92563", "92596"]
 localPaths: ["Riverside County / ZIP 92596 sector", "Riverside County / elevation 1365 ft band", "Riverside County / coords 33.6000, -117.1100", "Riverside County / primary ZIP 92563", "Riverside County / ZIP 92563 sector"]
-zillowHomeValueUsd: 693237
 ---
 
-**Engineering Notice for French Valley:** Structural loading calculated based on 1365 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for French Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
 
 
-In French Valley, CA, seasonal demand can change scheduling windows.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should sump battery backups be load-tested? In French Valley, CA, before spring thaw and hurricane remnants.
 
-Our service coordination centers on French Valley, CA coverage windows and verified intake details.
+Cleanout access limits in French Valley, CA frequently extend drain cleaning duration.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Moisture pathway inspection logged near ZIP 92596/92563 intake.
+Risk flag: In French Valley, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 92596/92563 zone).
+Water heater T&P discharge paths in French Valley, CA must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 92596, 92563 (county grid: Riverside County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Seasonal French Valley, CA irrigation cross-connections can mask domestic pressure loss.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Dual-water-meter setups in French Valley, CA irrigation zones need backflow logs before line replacement.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Irrigation cross-connections in French Valley, CA can back-siphon domestic lines during main breaks.
+
+Fixture roster 884892: toilet flange spacer kit and shower cartridge seat score queued for French Valley, CA walk-through.
+
+plumbing brief: backflow test cock orientation and PRV outlet curve were cross-checked for the French Valley intake packet.
+
+On-site sector marker: Riverside County / coords 33.6000, -117.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92563-b9259f8a

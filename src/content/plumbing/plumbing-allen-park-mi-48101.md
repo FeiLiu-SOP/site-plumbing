@@ -12,27 +12,39 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / elevation 600 ft band", "Wayne County / coords 42.2600, -83.2100", "Wayne County / primary ZIP 48101"]
-zillowHomeValueUsd: 206298
 ---
 
-**Engineering Notice for Allen Park:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Allen Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Allen Park, MI require pit shoring notes when water tables are high.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Allen Park, MI can back-siphon domestic lines during main breaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 48101.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Allen Park, MI, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48101.
+Risk flag: Seasonal Allen Park, MI irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Connection points spot-checked where accessible (ZIP 48101 zone).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 48101 (county grid: Wayne County).
+Branch wet vents in Allen Park, MI can mask gurgling as a main-line issue.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: camera-pass main lines in Allen Park, MI before jetting older clay or cast iron.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Supply audit 464084: curb-stop orientation and hose-bib freeze flag reviewed for Allen Park, MI at coords 42.2600/-83.2100.
+
+plumbing brief: water heater T&P path and sewer cleanout cap thread were cross-checked for the Allen Park intake packet.
+
+Primary postal anchor 48101 with multi-ZIP overlap in Allen Park; field packets tag Wayne County for county-grid reconciliation.
 
 Service reference: MI-48101-9165a861

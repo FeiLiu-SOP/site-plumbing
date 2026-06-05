@@ -12,25 +12,39 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / ZIP 94513 sector", "Contra Costa County / primary ZIP 94513", "Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / elevation 85 ft band"]
-zillowHomeValueUsd: 805372
 ---
 
-**Engineering Notice for Brentwood:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
 
 
-Tip: request a written scope before work starts.
+Across Brentwood, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Seasonal Brentwood, CA irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brentwood, CA, but intake notes help reduce delays.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Brentwood, CA systems need rebalancing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Brentwood, CA, before spring thaw and hurricane remnants.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94513.
+Material note: Water heater anode type may change with Brentwood, CA hardness profiles.
 
-Field note: Wind exposure category reviewed for ZIP sector 94513.
+Trenchless pulls in Brentwood, CA require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 94513 (county grid: Contra Costa County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hydrostatic holds in Brentwood, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Permit note: Main water line replacement in Brentwood, CA may require ROW restoration planning.
+
+Pressure trace 724863: meter-pit clearance and dielectric union checklist staged for Brentwood, CA near elevation 85 ft.
+
+Coordinate-anchored dispatch note: center reference 37.9400, -121.7200 at elevation ~85 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94513-ed940a2e

@@ -12,24 +12,41 @@ lng: -116.0000
 zipSample: ["89061", "89048", "89041", "89060"]
 zipCodes: ["89061", "89041", "89060", "89048"]
 localPaths: ["Nye County / coords 36.2200, -116.0000", "Nye County / ZIP 89060 sector", "Nye County / ZIP 89041 sector", "Nye County / primary ZIP 89048", "Nye County / ZIP 89061 sector"]
-zillowHomeValueUsd: 371882
 ---
 
-**Engineering Notice for Pahrump:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: Nye County.
+**Engineering Notice for Pahrump:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nye County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save water heater serial plates for warranty traceability.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pahrump, NV, but intake notes help reduce delays.
+Trenchless sleeve pulls near Pahrump, NV require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Permit note: Main water line replacement in Pahrump, NV may require ROW restoration planning.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89048/89041/89060.
+Frost-free sillcock failures in Pahrump, NV often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 89048, 89041, 89060, 89061 (county grid: Nye County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Expansion tank pre-charge loss in Pahrump, NV often tracks heater replacement deferrals.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pahrump, NV systems need rebalancing.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Drain map 957926: camera-pass priority and expansion-tank pre-charge noted for Pahrump, NV postal sector 89048.
+
+Pressure trace 957926: meter-pit clearance and dielectric union checklist staged for Pahrump, NV near elevation 2628 ft.
+
+On-site sector marker: Nye County / elevation 2628 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89048-05125899

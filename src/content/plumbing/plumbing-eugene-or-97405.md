@@ -12,25 +12,39 @@ lng: -123.1200
 zipSample: ["97440", "97404", "97402", "97405", "97401"]
 zipCodes: ["97401", "97404", "97440", "97402", "97403", "97405"]
 localPaths: ["Lane County / ZIP 97401 sector", "Lane County / ZIP 97404 sector", "Lane County / coords 44.0600, -123.1200", "Lane County / primary ZIP 97405", "Lane County / elevation 413 ft band"]
-zillowHomeValueUsd: 527565
 ---
 
-**Engineering Notice for Eugene:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Lane County.
+**Engineering Notice for Eugene:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lane County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eugene, OR, but intake notes help reduce delays.
+Fixture shutoff stiffness in Eugene, OR may indicate mineral bridging behind stems.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should sump battery backups be load-tested? In Eugene, OR, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Eugene, OR coverage windows and verified intake details.
+Trenchless pulls in Eugene, OR require pit dimensions verified against utility locate marks.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97405.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 97403/97404/97440 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 97403, 97404, 97440, 97405, 97401 (county grid: Lane County).
+Polybutylene manifold tags in Eugene, OR basements should be photographed before any wall chase opens.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Frost-free sillcock failures in Eugene, OR often trace to interior shutoff seats, not exterior stems.
+
+Cast-iron hub corrosion in Eugene, OR often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Is hydro-jetting always appropriate? In Eugene, OR, pipe material and blockage type dictate method.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Supply audit 916321: curb-stop orientation and hose-bib freeze flag reviewed for Eugene, OR at coords 44.0600/-123.1200.
+
+Field routing: PEX expansion ring batch paired with fixture shutoff torque log near ZIP 97405.
+
+Primary postal anchor 97405 with multi-ZIP overlap in Eugene; field packets tag Lane County for county-grid reconciliation.
 
 Service reference: OR-97405-526f7238

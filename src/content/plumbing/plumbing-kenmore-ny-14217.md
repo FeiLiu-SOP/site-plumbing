@@ -12,27 +12,39 @@ lng: -78.8700
 zipSample: ["14217"]
 zipCodes: ["14217"]
 localPaths: ["Erie County / elevation 617 ft band", "Erie County / coords 42.9600, -78.8700", "Erie County / ZIP 14217 sector", "Erie County / primary ZIP 14217"]
-zillowHomeValueUsd: 254492
 ---
 
-**Engineering Notice for Kenmore:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Kenmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Kenmore, NY require pit shoring notes when water tables are high.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 14217.
+Polybutylene manifold tags in Kenmore, NY basements should be photographed before any wall chase opens.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kenmore, NY, but intake notes help reduce delays.
+Expansion tank pre-charge loss in Kenmore, NY often tracks heater replacement deferrals.
 
-We coordinate local dispatch coverage around Kenmore, NY and nearby ZIP sectors.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 14217.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Moisture pathway inspection logged near ZIP 14217 intake.
+Trenchless pulls in Kenmore, NY require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 14217 (county grid: Erie County).
+Risk flag: In Kenmore, NY, slab leaks can misroute as foundation issues without listening equipment.
+
+Dual-water-meter setups in Kenmore, NY irrigation zones need backflow logs before line replacement.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kenmore, NY systems need rebalancing.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Hydro-jetting in Kenmore, NY requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 316037: recirculation pump amp draw captured before Kenmore, NY branch isolation.
+
+On-site sector marker: Erie County / primary ZIP 14217 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14217-f9114c12

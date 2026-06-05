@@ -12,24 +12,39 @@ lng: -74.6700
 zipSample: ["08540", "08542", "08541", "08544"]
 zipCodes: ["08541", "08542", "08540", "08544"]
 localPaths: ["Mercer County / ZIP 08540 sector", "Mercer County / ZIP 08542 sector", "Mercer County / primary ZIP 08544", "Mercer County / ZIP 08541 sector", "Mercer County / coords 40.3600, -74.6700"]
-zillowHomeValueUsd: 969732
 ---
 
-**Engineering Notice for Princeton:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Mercer County.
+**Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mercer County.
 
 
-Our service coordination centers on Princeton, NJ coverage windows and verified intake details.
+In Princeton, NJ, slab leaks often present as warm spots before wall stains appear.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 08544.
 
-A written scope helps prevent rework and mismatched expectations.
+Galvanized segments in Princeton, NJ may restrict flow long before visible corrosion.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Moisture pathway inspection logged near ZIP 08542/08544/08540 intake.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 08542, 08544, 08540, 08541 (county grid: Mercer County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Frost-free sillcock failures in Princeton, NJ often trace to interior shutoff seats, not exterior stems.
+
+Sump discharge freeze risk in Princeton, NJ should be reviewed before spring thaw cycles.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Pressure trace 959990: meter-pit clearance and dielectric union checklist staged for Princeton, NJ near elevation 148 ft.
+
+Intake ledger 959990: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Princeton, NJ at 40.3600, -74.6700.
+
+Coordinate-anchored dispatch note: center reference 40.3600, -74.6700 at elevation ~148 ft aligns with Mercer County intake staging.
 
 Service reference: NJ-08544-c8e77c97

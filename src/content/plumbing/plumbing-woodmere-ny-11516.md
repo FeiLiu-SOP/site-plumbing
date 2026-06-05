@@ -12,27 +12,41 @@ lng: -73.7200
 zipSample: ["11598", "11516", "11581"]
 zipCodes: ["11598", "11516", "11581"]
 localPaths: ["Nassau County / primary ZIP 11516", "Nassau County / ZIP 11598 sector", "Nassau County / ZIP 11581 sector", "Nassau County / elevation 3 ft band", "Nassau County / coords 40.6400, -73.7200"]
-zillowHomeValueUsd: 1210473
 ---
 
-**Engineering Notice for Woodmere:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Woodmere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Woodmere, NY, but intake notes help reduce delays.
+Hydrostatic holds in Woodmere, NY slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: address recurring issues early to prevent bigger damage.
+Irrigation cross-connections in Woodmere, NY can back-siphon domestic lines during main breaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11516.
+Basement floor drains in Woodmere, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Hard water in Woodmere, NY accelerates scale on PRV seats and heater elements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11598/11581/11516.
+Risk flag: Seasonal Woodmere, NY irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Moisture pathway inspection logged near ZIP 11598/11581/11516 intake.
+Cast-iron hub corrosion in Woodmere, NY often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 11598, 11581, 11516 (county grid: Nassau County).
+Frost-free sillcock failures in Woodmere, NY often trace to interior shutoff seats, not exterior stems.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 11516.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Drain map 636259: camera-pass priority and expansion-tank pre-charge noted for Woodmere, NY postal sector 11516.
+
+Fixture roster 636259: toilet flange spacer kit and shower cartridge seat score queued for Woodmere, NY walk-through.
+
+Scope trace: hose bib freeze flag plus cleanout riser height referenced in Nassau County county grid review.
+
+On-site sector marker: Nassau County / coords 40.6400, -73.7200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11516-91fff0b6

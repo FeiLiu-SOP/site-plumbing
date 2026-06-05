@@ -12,24 +12,37 @@ lng: -104.7200
 zipSample: ["80045", "80014", "80046", "80013", "80040"]
 zipCodes: ["80047", "80013", "80042", "80137", "80017", "80018", "80041", "80015", "80019", "80014", "80011", "80046"]
 localPaths: ["Arapahoe County / ZIP 80013 sector", "Arapahoe County / coords 39.7100, -104.7200", "Arapahoe County / ZIP 80046 sector", "Arapahoe County / ZIP 80045 sector", "Arapahoe County / ZIP 80014 sector"]
-zillowHomeValueUsd: 262381
 ---
 
-**Engineering Notice for Aurora:** Structural loading calculated based on 5574 ft terrain assessment. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Aurora:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aurora, CO, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: compare at least two estimates for scope and timeline.
+Sewer gas odors in Aurora, CO should trigger trap seal and vent path review.
 
-Field note: Wind exposure category reviewed for ZIP sector 80016/80010/80013.
+Stack vent offsets in Aurora, CO older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 80016, 80010, 80013, 80017, 80137 (county grid: Arapahoe County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Hydro-jetting in Aurora, CO requires camera confirmation before nozzle pressure is raised.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+In Aurora, CO, slab leaks often present as warm spots before wall stains appear.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Fixture roster 407969: toilet flange spacer kit and shower cartridge seat score queued for Aurora, CO walk-through.
+
+On-site sector marker: Arapahoe County / ZIP 80045 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80247-1e47e0a3

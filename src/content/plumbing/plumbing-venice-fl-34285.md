@@ -12,26 +12,39 @@ lng: -82.4100
 zipSample: ["34292", "34285", "34275"]
 zipCodes: ["34292", "34285", "34275"]
 localPaths: ["Sarasota County / ZIP 34292 sector", "Sarasota County / ZIP 34285 sector", "Sarasota County / elevation 20 ft band", "Sarasota County / primary ZIP 34285", "Sarasota County / coords 27.1200, -82.4100"]
-zillowHomeValueUsd: 373409
 ---
 
-**Engineering Notice for Venice:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Sarasota County.
+**Engineering Notice for Venice:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.
 
 
-We coordinate local dispatch coverage around Venice, FL and nearby ZIP sectors.
+FAQ: When should sump battery backups be load-tested? In Venice, FL, before spring thaw and hurricane remnants.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Venice, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Venice, FL, but intake notes help reduce delays.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Homeowners in Venice, FL often face sudden plumbing problems that require fast action.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Venice, FL.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34285/34292/34275.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Wind exposure category reviewed for ZIP sector 34285/34292/34275.
+Polybutylene manifold tags in Venice, FL basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 34285, 34292, 34275 (county grid: Sarasota County).
+Step: log PRV inlet and outlet readings during intake.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 34285.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Venice, FL systems need rebalancing.
+
+Stack vent offsets in Venice, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Recirculation pump failures in Venice, FL can mimic fixture-specific clogs.
+
+Sump discharge freeze risk in Venice, FL should be reviewed before spring thaw cycles.
+
+Supply audit 836912: curb-stop orientation and hose-bib freeze flag reviewed for Venice, FL at coords 27.1200/-82.4100.
+
+On-site sector marker: Sarasota County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34285-6f6e6a67

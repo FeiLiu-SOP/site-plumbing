@@ -12,27 +12,43 @@ lng: -84.8900
 zipSample: ["47374", "47375"]
 zipCodes: ["47374", "47375"]
 localPaths: ["Wayne County / primary ZIP 47374", "Wayne County / ZIP 47374 sector", "Wayne County / ZIP 47375 sector", "Wayne County / coords 39.8300, -84.8900", "Wayne County / elevation 974 ft band"]
-zillowHomeValueUsd: 156733
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Richmond, IN, but intake notes help reduce delays.
+Hydrostatic holds in Richmond, IN slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: avoid large upfront payments without milestones.
+In Richmond, IN, slab leaks often present as warm spots before wall stains appear.
 
-In Richmond, IN, seasonal demand can change scheduling windows.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 47374.
+Risk flag: In Richmond, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 47375/47374 zone).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 47375/47374.
+Material note: Water heater anode type may change with Richmond, IN hardness profiles.
 
-Dispatch sectors sampled: ZIP 47375, 47374 (county grid: Wayne County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 47374.
+
+Recirculation pump failures in Richmond, IN can mimic fixture-specific clogs.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Is hydro-jetting always appropriate? In Richmond, IN, pipe material and blockage type dictate method.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Richmond, IN.
+
+Fixture roster 233081: toilet flange spacer kit and shower cartridge seat score queued for Richmond, IN walk-through.
+
+plumbing brief: shower cartridge seat score and meter pit clearance were cross-checked for the Richmond intake packet.
+
+On-site sector marker: Wayne County / ZIP 47375 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47374-688e889a

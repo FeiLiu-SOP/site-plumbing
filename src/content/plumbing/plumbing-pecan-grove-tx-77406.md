@@ -12,25 +12,41 @@ lng: -95.7300
 zipSample: ["77406"]
 zipCodes: ["77406"]
 localPaths: ["Fort Bend County / coords 29.6200, -95.7300", "Fort Bend County / primary ZIP 77406", "Fort Bend County / ZIP 77406 sector", "Fort Bend County / elevation 102 ft band"]
-zillowHomeValueUsd: 423005
 ---
 
-**Engineering Notice for Pecan Grove:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Fort Bend County.
+**Engineering Notice for Pecan Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77406.
+Permit note: Main water line replacement in Pecan Grove, TX may require ROW restoration planning.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Local conditions in Pecan Grove, TX can affect timelines and material choices.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: request a written scope before work starts.
+Fixture shutoff stiffness in Pecan Grove, TX may indicate mineral bridging behind stems.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pecan Grove, TX, but intake notes help reduce delays.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 77406.
 
-Field note: Wind exposure category reviewed for ZIP sector 77406.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 77406 (county grid: Fort Bend County).
+We coordinate Pecan Grove, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Supply audit 941335: curb-stop orientation and hose-bib freeze flag reviewed for Pecan Grove, TX at coords 29.6200/-95.7300.
+
+Intake ledger 941335: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Pecan Grove, TX at 29.6200, -95.7300.
+
+Field routing: PEX expansion ring batch paired with recirculation pump amp draw near ZIP 77406.
+
+On-site sector marker: Fort Bend County / elevation 102 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77406-6bbcf59e

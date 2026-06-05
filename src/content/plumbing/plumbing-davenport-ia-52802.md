@@ -12,26 +12,39 @@ lng: -90.6100
 zipSample: ["52809", "52806", "52802", "52805", "52804"]
 zipCodes: ["52806", "52807", "52808", "52805", "52801", "52804", "52803", "52802", "52809"]
 localPaths: ["Scott County / coords 41.5600, -90.6100", "Scott County / primary ZIP 52802", "Scott County / ZIP 52809 sector", "Scott County / ZIP 52804 sector", "Scott County / ZIP 52802 sector"]
-zillowHomeValueUsd: 107013
 ---
 
-**Engineering Notice for Davenport:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Davenport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Davenport, IA basements should be photographed before any wall chase opens.
 
-In Davenport, IA, seasonal demand can change scheduling windows.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 52802.
 
-Tip: avoid large upfront payments without milestones.
+Step: camera-pass main lines in Davenport, IA before jetting older clay or cast iron.
 
-Our service coordination centers on Davenport, IA coverage windows and verified intake details.
+Trenchless sleeve pulls near Davenport, IA require pit shoring notes when water tables are high.
 
-Field note: Access points and staging constraints recorded for ZIP 52805/52807/52809 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52805/52807/52809.
+Hard water in Davenport, IA accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 52805, 52807, 52809, 52808, 52803 (county grid: Scott County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Sump discharge freeze risk in Davenport, IA should be reviewed before spring thaw cycles.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 52802.
+
+Sewer gas odors in Davenport, IA should trigger trap seal and vent path review.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Davenport, IA.
+
+Intake ledger 895065: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Davenport, IA at 41.5600, -90.6100.
+
+Scope trace: sewer cleanout cap thread plus recirculation pump amp draw referenced in Scott County county grid review.
+
+ZIP-corridor snapshot for Davenport, IA: sampled sectors include 52807, 52809, 52806, 52802, 52804, 52808, 52803, 52805; county routing grid remains Scott County.
 
 Service reference: IA-52802-73c3cbbe

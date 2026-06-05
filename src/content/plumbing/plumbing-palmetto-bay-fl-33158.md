@@ -12,26 +12,39 @@ lng: -80.3200
 zipSample: ["33257", "33158", "33157"]
 zipCodes: ["33158", "33257", "33157"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / ZIP 33257 sector", "Miami-Dade County / elevation 36 ft band"]
-zillowHomeValueUsd: 1346469
 ---
 
-**Engineering Notice for Palmetto Bay:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Palmetto Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless sleeve pulls near Palmetto Bay, FL require pit shoring notes when water tables are high.
 
-Local conditions in Palmetto Bay, FL can affect timelines and material choices.
+Hydrostatic holds in Palmetto Bay, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-We coordinate local dispatch coverage around Palmetto Bay, FL and nearby ZIP sectors.
+Across Palmetto Bay, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Connection points spot-checked where accessible (ZIP 33157/33257/33158 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33157/33257/33158.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Palmetto Bay, FL.
 
-Dispatch sectors sampled: ZIP 33157, 33257, 33158 (county grid: Miami-Dade County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: map sump float travel and check-valve orientation for Palmetto Bay, FL basements.
+
+Polybutylene manifold tags in Palmetto Bay, FL basements should be photographed before any wall chase opens.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture shutoff stiffness in Palmetto Bay, FL may indicate mineral bridging behind stems.
+
+Flow dossier 409537: branch wet-vent geometry and jetting nozzle envelope logged for Palmetto Bay, FL county grid Miami-Dade County (ZIP 33158).
+
+On-site sector marker: Miami-Dade County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33158-01800d0c

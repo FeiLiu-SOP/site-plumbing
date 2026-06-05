@@ -12,24 +12,39 @@ lng: -119.8500
 zipSample: ["89507", "89533", "89599", "89523", "89505"]
 zipCodes: ["89595", "89523", "89599", "89509", "89508", "89505", "89439", "89506", "89502", "89521", "89512", "89519"]
 localPaths: ["Washoe County / ZIP 89505 sector", "Washoe County / ZIP 89533 sector", "Washoe County / ZIP 89523 sector", "Washoe County / ZIP 89507 sector", "Washoe County / coords 39.5500, -119.8500"]
-zillowHomeValueUsd: 701977
 ---
 
-**Engineering Notice for Reno:** Structural loading calculated based on 4892 ft terrain assessment. Regional dispatch grid: Washoe County.
+**Engineering Notice for Reno:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washoe County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Reno, NV plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Reno, NV, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: avoid large upfront payments without milestones.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Basement floor drains in Reno, NV should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Wind exposure category reviewed for ZIP sector 89509/89557/89501.
+Irrigation cross-connections in Reno, NV can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 89509, 89557, 89501, 89521, 89523 (county grid: Washoe County).
+CPVC solvent weld times shift with ambient humidity during Reno, NV shoulder seasons.
+
+Material note: Water heater anode type may change with Reno, NV hardness profiles.
+
+Risk flag: Seasonal Reno, NV irrigation cross-connections can mask domestic pressure loss.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Reno, NV systems need rebalancing.
+
+Fixture roster 624122: toilet flange spacer kit and shower cartridge seat score queued for Reno, NV walk-through.
+
+Field routing: dielectric union checklist paired with meter pit clearance near ZIP 89521.
+
+On-site sector marker: Washoe County / ZIP 89502 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89521-a3bfa7c1

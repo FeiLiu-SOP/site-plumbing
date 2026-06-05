@@ -12,26 +12,37 @@ lng: -97.1800
 zipSample: ["76053", "76054"]
 zipCodes: ["76054", "76053"]
 localPaths: ["Tarrant County / coords 32.8400, -97.1800", "Tarrant County / ZIP 76053 sector", "Tarrant County / elevation 591 ft band", "Tarrant County / primary ZIP 76054", "Tarrant County / ZIP 76054 sector"]
-zillowHomeValueUsd: 420967
 ---
 
-**Engineering Notice for Hurst:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Hurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Hurst, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hurst, TX, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hurst, TX systems need rebalancing.
 
-Our service coordination centers on Hurst, TX coverage windows and verified intake details.
+Trenchless sleeve pulls near Hurst, TX require pit shoring notes when water tables are high.
 
-Tip: request a written scope before work starts.
+Polybutylene manifold tags in Hurst, TX basements should be photographed before any wall chase opens.
 
-Field note: Access points and staging constraints recorded for ZIP 76053/76054 coverage.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Moisture pathway inspection logged near ZIP 76053/76054 intake.
+Cast-iron hub corrosion in Hurst, TX often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 76053, 76054 (county grid: Tarrant County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 76054.
+
+Galvanized segments in Hurst, TX may restrict flow long before visible corrosion.
+
+CPVC solvent weld times shift with ambient humidity during Hurst, TX shoulder seasons.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Flow dossier 475137: branch wet-vent geometry and jetting nozzle envelope logged for Hurst, TX county grid Tarrant County (ZIP 76054).
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~591 ft across the Tarrant County area. Coordinates: 32.8400, -97.1800. ZIP sample: 76053, 76054. Service perimeter note: Coverage extends through Tarrant County with dispatch centered near ZIP 76054.
 
 Service reference: TX-76054-a0ec1149

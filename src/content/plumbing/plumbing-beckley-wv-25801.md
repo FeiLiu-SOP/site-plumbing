@@ -12,26 +12,41 @@ lng: -81.1800
 zipSample: ["25801"]
 zipCodes: ["25801"]
 localPaths: ["Raleigh County / ZIP 25801 sector", "Raleigh County / elevation 2310 ft band", "Raleigh County / coords 37.7900, -81.1800", "Raleigh County / primary ZIP 25801"]
-zillowHomeValueUsd: 143987
 ---
 
-**Engineering Notice for Beckley:** Structural loading calculated based on 2310 ft terrain assessment. Regional dispatch grid: Raleigh County.
+**Engineering Notice for Beckley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Raleigh County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Seasonal Beckley, WV irrigation cross-connections can mask domestic pressure loss.
 
-Local conditions in Beckley, WV can affect timelines and material choices.
+Sewer gas odors in Beckley, WV should trigger trap seal and vent path review.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Beckley, WV, but intake notes help reduce delays.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: compare at least two estimates for scope and timeline.
+Hard water in Beckley, WV accelerates scale on PRV seats and heater elements.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 25801.
+Cleanout access limits in Beckley, WV frequently extend drain cleaning duration.
 
-Field note: Access points and staging constraints recorded for ZIP 25801 coverage.
+Irrigation cross-connections in Beckley, WV can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 25801 (county grid: Raleigh County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Stack vent offsets in Beckley, WV older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Beckley, WV.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Polybutylene manifold tags in Beckley, WV basements should be photographed before any wall chase opens.
+
+Permit note: Main water line replacement in Beckley, WV may require ROW restoration planning.
+
+Intake ledger 533481: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Beckley, WV at 37.7900, -81.1800.
+
+plumbing brief: thermal expansion loop check and cleanout riser height were cross-checked for the Beckley intake packet.
+
+On-site sector marker: Raleigh County / primary ZIP 25801 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25801-83500d97

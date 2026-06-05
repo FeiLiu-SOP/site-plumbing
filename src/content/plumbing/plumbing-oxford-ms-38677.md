@@ -12,27 +12,41 @@ lng: -89.5300
 zipSample: ["38655", "38677"]
 zipCodes: ["38677", "38655"]
 localPaths: ["Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300", "Lafayette County / elevation 486 ft band", "Lafayette County / primary ZIP 38677", "Lafayette County / ZIP 38677 sector"]
-zillowHomeValueUsd: 413630
 ---
 
-**Engineering Notice for Oxford:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Lafayette County.
+**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafayette County.
 
 
-Tip: avoid large upfront payments without milestones.
+Polybutylene manifold tags in Oxford, MS basements should be photographed before any wall chase opens.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-A written scope helps prevent rework and mismatched expectations.
+Frost-free sillcock failures in Oxford, MS often trace to interior shutoff seats, not exterior stems.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 38677.
+Risk flag: Seasonal Oxford, MS irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should sump battery backups be load-tested? In Oxford, MS, before spring thaw and hurricane remnants.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38655/38677.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 38655/38677 zone).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 38655, 38677 (county grid: Lafayette County).
+Dispatch packets reference county grid Lafayette County near ZIP 38677.
+
+FAQ: When is cabling enough? In Oxford, MS, pipe material and blockage type dictate method.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+In Oxford, MS, slab leaks often present as warm spots before wall stains appear.
+
+CPVC solvent weld times shift with ambient humidity during Oxford, MS shoulder seasons.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Flow dossier 198981: branch wet-vent geometry and jetting nozzle envelope logged for Oxford, MS county grid Lafayette County (ZIP 38677).
+
+Field routing: water heater T&P path paired with water softener bypass lever near ZIP 38677.
+
+On-site sector marker: Lafayette County / primary ZIP 38677 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38677-bf0c7a97

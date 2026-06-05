@@ -12,27 +12,41 @@ lng: -86.9500
 zipSample: ["35613", "35611", "35612"]
 zipCodes: ["35612", "35611", "35613"]
 localPaths: ["Limestone County / ZIP 35612 sector", "Limestone County / coords 34.7800, -86.9500", "Limestone County / elevation 659 ft band", "Limestone County / ZIP 35611 sector", "Limestone County / ZIP 35613 sector"]
-zillowHomeValueUsd: 251128
 ---
 
-**Engineering Notice for Athens:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Limestone County.
+**Engineering Notice for Athens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Limestone County.
 
 
-We coordinate local dispatch coverage around Athens, AL and nearby ZIP sectors.
+Cast-iron hub corrosion in Athens, AL often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Athens, AL can back-siphon domestic lines during main breaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: confirm licensing and insurance before approving work.
+Hydrostatic holds in Athens, AL slab circuits run overnight when listening mics show ambiguous hits.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 35611.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Athens, AL.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35612/35613/35611.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Field note: Wind exposure category reviewed for ZIP sector 35612/35613/35611.
+Trenchless sleeve pulls near Athens, AL require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 35612, 35613, 35611 (county grid: Limestone County).
+Permit note: Main water line replacement in Athens, AL may require ROW restoration planning.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: In Athens, AL, slab leaks can misroute as foundation issues without listening equipment.
+
+Drain map 606991: camera-pass priority and expansion-tank pre-charge noted for Athens, AL postal sector 35611.
+
+Flow dossier 606991: branch wet-vent geometry and jetting nozzle envelope logged for Athens, AL county grid Limestone County (ZIP 35611).
+
+On-site sector marker: Limestone County / elevation 659 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35611-d79d58b9

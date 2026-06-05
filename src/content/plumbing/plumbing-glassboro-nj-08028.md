@@ -12,26 +12,41 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / ZIP 08028 sector", "Gloucester County / primary ZIP 08028", "Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100"]
-zillowHomeValueUsd: 366249
 ---
 
-**Engineering Notice for Glassboro:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Gloucester County.
+**Engineering Notice for Glassboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gloucester County.
 
 
-Local conditions in Glassboro, NJ can affect timelines and material choices.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 08028.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Glassboro, NJ systems need rebalancing.
 
-Tip: compare at least two estimates for scope and timeline.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 08028.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08028.
+Galvanized segments in Glassboro, NJ may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 08028 (county grid: Gloucester County).
+FAQ: When is cabling enough? In Glassboro, NJ, pipe material and blockage type dictate method.
+
+Cleanout access limits in Glassboro, NJ frequently extend drain cleaning duration.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Glassboro, NJ.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: In Glassboro, NJ, slab leaks can misroute as foundation issues without listening equipment.
+
+Drain map 878223: camera-pass priority and expansion-tank pre-charge noted for Glassboro, NJ postal sector 08028.
+
+Intake ledger 878223: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Glassboro, NJ at 39.7000, -75.1100.
+
+Scope trace: jetter nozzle envelope plus hose bib freeze flag referenced in Gloucester County county grid review.
+
+**Regional Infrastructure Brief:** Grid anchor set to Gloucester County. Reference elevation: 148 ft. Primary coordinates: 39.7000, -75.1100. ZIP sample: 08028. Logistics priority: Serving residential sectors across Gloucester County and north-east ZIP 08028 grid.
 
 Service reference: NJ-08028-cc49fdac

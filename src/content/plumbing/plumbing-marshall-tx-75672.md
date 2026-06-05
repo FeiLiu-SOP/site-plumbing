@@ -12,27 +12,41 @@ lng: -94.3500
 zipSample: ["75672", "75670"]
 zipCodes: ["75670", "75672"]
 localPaths: ["Harrison County / ZIP 75672 sector", "Harrison County / elevation 354 ft band", "Harrison County / ZIP 75670 sector", "Harrison County / primary ZIP 75672", "Harrison County / coords 32.5400, -94.3500"]
-zillowHomeValueUsd: 209915
 ---
 
-**Engineering Notice for Marshall:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Harrison County.
+**Engineering Notice for Marshall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 75672.
+Stack vent offsets in Marshall, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: confirm licensing and insurance before approving work.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Connection points spot-checked where accessible (ZIP 75672/75670 zone).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Access points and staging constraints recorded for ZIP 75672/75670 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 75672, 75670 (county grid: Harrison County).
+Risk flag: Seasonal Marshall, TX irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Hose bib split patterns in Marshall, TX often follow missed winterization.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Intake ledger 113366: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marshall, TX at 32.5400, -94.3500.
+
+Drain map 113366: camera-pass priority and expansion-tank pre-charge noted for Marshall, TX postal sector 75672.
+
+plumbing brief: slab leak listening window and sewer cleanout cap thread were cross-checked for the Marshall intake packet.
+
+On-site sector marker: Harrison County / primary ZIP 75672 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75672-c4ad3366

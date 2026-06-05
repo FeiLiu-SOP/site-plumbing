@@ -12,24 +12,39 @@ lng: -80.3100
 zipSample: ["33017", "33015"]
 zipCodes: ["33015", "33017"]
 localPaths: ["Miami-Dade County / primary ZIP 33015", "Miami-Dade County / ZIP 33015 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33017 sector", "Miami-Dade County / coords 25.9400, -80.3100"]
-zillowHomeValueUsd: 396289
 ---
 
-**Engineering Notice for Country Club:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Country Club:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-We coordinate local dispatch coverage around Country Club, FL and nearby ZIP sectors.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Recirculation pump failures in Country Club, FL can mimic fixture-specific clogs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Main water line replacement in Country Club, FL may require ROW restoration planning.
 
-Tip: compare at least two estimates for scope and timeline.
+Polybutylene manifold tags in Country Club, FL basements should be photographed before any wall chase opens.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 33015/33017.
+Hydrostatic holds in Country Club, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 33015, 33017 (county grid: Miami-Dade County).
+Frost-free sillcock failures in Country Club, FL often trace to interior shutoff seats, not exterior stems.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dual-water-meter setups in Country Club, FL irrigation zones need backflow logs before line replacement.
+
+FAQ: Is hydro-jetting always appropriate? In Country Club, FL, pipe material and blockage type dictate method.
+
+Risk flag: Seasonal Country Club, FL irrigation cross-connections can mask domestic pressure loss.
+
+Stack vent offsets in Country Club, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Hard water in Country Club, FL accelerates scale on PRV seats and heater elements.
+
+Drain map 501207: camera-pass priority and expansion-tank pre-charge noted for Country Club, FL postal sector 33015.
+
+ZIP-corridor snapshot for Country Club, FL: sampled sectors include 33017, 33015; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33015-1df9235c

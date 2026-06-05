@@ -12,24 +12,41 @@ lng: -111.9500
 zipSample: ["84129", "84184", "84123"]
 zipCodes: ["84129", "84184", "84123"]
 localPaths: ["Salt Lake County / ZIP 84184 sector", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / elevation 4360 ft band", "Salt Lake County / ZIP 84129 sector", "Salt Lake County / coords 40.6600, -111.9500"]
-zillowHomeValueUsd: 537842
 ---
 
-**Engineering Notice for Taylorsville:** Structural loading calculated based on 4360 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Taylorsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our service coordination centers on Taylorsville, UT coverage windows and verified intake details.
+Hard water in Taylorsville, UT accelerates scale on PRV seats and heater elements.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Taylorsville, UT.
 
-Tip: confirm licensing and insurance before approving work.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 84123.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Access points and staging constraints recorded for ZIP 84123/84129/84184 coverage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 84123, 84129, 84184 (county grid: Salt Lake County).
+Polybutylene manifold tags in Taylorsville, UT basements should be photographed before any wall chase opens.
+
+CPVC solvent weld times shift with ambient humidity during Taylorsville, UT shoulder seasons.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hydro-jetting in Taylorsville, UT requires camera confirmation before nozzle pressure is raised.
+
+Frost-free sillcock failures in Taylorsville, UT often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Intake ledger 456534: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Taylorsville, UT at 40.6600, -111.9500.
+
+Lineage note 456534: recirculation pump amp draw captured before Taylorsville, UT branch isolation.
+
+Coordinate-anchored dispatch note: center reference 40.6600, -111.9500 at elevation ~4360 ft aligns with Salt Lake County intake staging.
 
 Service reference: UT-84123-e9d6c861

@@ -12,28 +12,39 @@ lng: -76.9800
 zipSample: ["20745"]
 zipCodes: ["20745"]
 localPaths: ["Prince George's County / ZIP 20745 sector", "Prince George's County / primary ZIP 20745", "Prince George's County / elevation 177 ft band", "Prince George's County / coords 38.8200, -76.9800"]
-zillowHomeValueUsd: 361924
 ---
 
-**Engineering Notice for Glassmanor:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Glassmanor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20745.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Our service coordination centers on Glassmanor, MD coverage windows and verified intake details.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Glassmanor, MD.
 
-Tip: compare at least two estimates for scope and timeline.
+Frost-free sillcock failures in Glassmanor, MD often trace to interior shutoff seats, not exterior stems.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Trenchless sleeve pulls near Glassmanor, MD require pit shoring notes when water tables are high.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 20745.
+Stack vent offsets in Glassmanor, MD older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 20745.
+Permit note: Main water line replacement in Glassmanor, MD may require ROW restoration planning.
 
-Field note: Connection points spot-checked where accessible (ZIP 20745 zone).
+Water heater T&P discharge paths in Glassmanor, MD must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 20745 (county grid: Prince George's County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Risk flag: Seasonal Glassmanor, MD irrigation cross-connections can mask domestic pressure loss.
+
+Irrigation cross-connections in Glassmanor, MD can back-siphon domestic lines during main breaks.
+
+Drain map 800043: camera-pass priority and expansion-tank pre-charge noted for Glassmanor, MD postal sector 20745.
+
+Field routing: jetter nozzle envelope paired with thermal expansion loop check near ZIP 20745.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Prince George's County. Reference elevation: 177 ft. Primary coordinates: 38.8200, -76.9800. ZIP sample: 20745. Logistics priority: Serving residential sectors across Prince George's County and north-east ZIP 20745 grid.
 
 Service reference: MD-20745-245933cf

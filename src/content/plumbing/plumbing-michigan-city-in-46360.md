@@ -12,27 +12,41 @@ lng: -86.8700
 zipSample: ["46360", "46361"]
 zipCodes: ["46361", "46360"]
 localPaths: ["LaPorte County / ZIP 46360 sector", "LaPorte County / primary ZIP 46360", "LaPorte County / coords 41.7100, -86.8700", "LaPorte County / ZIP 46361 sector", "LaPorte County / elevation 643 ft band"]
-zillowHomeValueUsd: 229430
 ---
 
-**Engineering Notice for Michigan City:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: LaPorte County.
+**Engineering Notice for Michigan City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: LaPorte County.
 
 
-Structured milestones protect both sides when scheduling work.
+Trenchless sleeve pulls near Michigan City, IN require pit shoring notes when water tables are high.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46360.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-We coordinate local dispatch coverage around Michigan City, IN and nearby ZIP sectors.
+Risk flag: Seasonal Michigan City, IN irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Michigan City, IN, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Access points and staging constraints recorded for ZIP 46361/46360 coverage.
+Irrigation cross-connections in Michigan City, IN can back-siphon domestic lines during main breaks.
 
-Field note: Moisture pathway inspection logged near ZIP 46361/46360 intake.
+Galvanized segments in Michigan City, IN may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 46361, 46360 (county grid: LaPorte County).
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Hose bib split patterns in Michigan City, IN often follow missed winterization.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+CPVC solvent weld times shift with ambient humidity during Michigan City, IN shoulder seasons.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture roster 565051: toilet flange spacer kit and shower cartridge seat score queued for Michigan City, IN walk-through.
+
+Pressure trace 565051: meter-pit clearance and dielectric union checklist staged for Michigan City, IN near elevation 643 ft.
+
+Scope trace: backflow test cock orientation plus water softener bypass lever referenced in LaPorte County county grid review.
+
+Regional mesh label LaPorte County: moisture and logistics baselines are keyed to Michigan City, IN before niche-specific work begins.
 
 Service reference: IN-46360-cdb1a183

@@ -12,26 +12,41 @@ lng: -85.8100
 zipSample: ["36201", "36204", "36206", "36207", "36205"]
 zipCodes: ["36204", "36207", "36205", "36201", "36206"]
 localPaths: ["Calhoun County / ZIP 36206 sector", "Calhoun County / ZIP 36201 sector", "Calhoun County / ZIP 36207 sector", "Calhoun County / ZIP 36205 sector", "Calhoun County / coords 33.6700, -85.8100"]
-zillowHomeValueUsd: 69351
 ---
 
-**Engineering Notice for Anniston:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Anniston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: avoid large upfront payments without milestones.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hose bib split patterns in Anniston, AL often follow missed winterization.
 
-Field note: Connection points spot-checked where accessible (ZIP 36207/36201/36205 zone).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Access points and staging constraints recorded for ZIP 36207/36201/36205 coverage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 36207, 36201, 36205, 36204, 36206 (county grid: Calhoun County).
+Tip: Save water heater serial plates for warranty traceability.
+
+Trenchless pulls in Anniston, AL require pit dimensions verified against utility locate marks.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Dual-water-meter setups in Anniston, AL irrigation zones need backflow logs before line replacement.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Anniston, AL.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Anniston, AL systems need rebalancing.
+
+Supply audit 694761: curb-stop orientation and hose-bib freeze flag reviewed for Anniston, AL at coords 33.6700/-85.8100.
+
+On-site sector marker: Calhoun County / ZIP 36207 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36201-249a946d

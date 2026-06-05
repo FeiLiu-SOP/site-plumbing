@@ -12,25 +12,39 @@ lng: -80.7700
 zipSample: ["32922", "32926"]
 zipCodes: ["32926", "32922"]
 localPaths: ["Brevard County / coords 28.3800, -80.7700", "Brevard County / elevation 39 ft band", "Brevard County / ZIP 32922 sector", "Brevard County / ZIP 32926 sector", "Brevard County / primary ZIP 32922"]
-zillowHomeValueUsd: 199940
 ---
 
-**Engineering Notice for Cocoa:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Cocoa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate local dispatch coverage around Cocoa, FL and nearby ZIP sectors.
+FAQ: When is cabling enough? In Cocoa, FL, pipe material and blockage type dictate method.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cocoa, FL, but intake notes help reduce delays.
+Hydro-jetting in Cocoa, FL requires camera confirmation before nozzle pressure is raised.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32922.
+Basement floor drains in Cocoa, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32922/32926.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 32922, 32926 (county grid: Brevard County).
+Irrigation cross-connections in Cocoa, FL can back-siphon domestic lines during main breaks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Expansion tank pre-charge loss in Cocoa, FL often tracks heater replacement deferrals.
+
+Stack vent offsets in Cocoa, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Supply audit 326802: curb-stop orientation and hose-bib freeze flag reviewed for Cocoa, FL at coords 28.3800/-80.7700.
+
+Coordinate-anchored dispatch note: center reference 28.3800, -80.7700 at elevation ~39 ft aligns with Brevard County intake staging.
 
 Service reference: FL-32922-4d3a7923

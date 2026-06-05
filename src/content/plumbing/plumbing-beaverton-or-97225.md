@@ -12,25 +12,41 @@ lng: -122.8200
 zipSample: ["97005", "97075", "97007", "97008", "97225"]
 zipCodes: ["97076", "97005", "97225", "97007", "97003", "97079", "97006", "97008", "97075", "97077"]
 localPaths: ["Washington County / coords 45.4800, -122.8200", "Washington County / ZIP 97225 sector", "Washington County / ZIP 97005 sector", "Washington County / ZIP 97007 sector", "Washington County / primary ZIP 97225"]
-zillowHomeValueUsd: 743419
 ---
 
-**Engineering Notice for Beaverton:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Beaverton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97225.
+Material note: Water heater anode type may change with Beaverton, OR hardness profiles.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Sump discharge freeze risk in Beaverton, OR should be reviewed before spring thaw cycles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Field note: Wind exposure category reviewed for ZIP sector 97005/97225/97075.
+Permit note: Main water line replacement in Beaverton, OR may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 97005, 97225, 97075, 97003, 97008 (county grid: Washington County).
+Step: map sump float travel and check-valve orientation for Beaverton, OR basements.
+
+FAQ: Is hydro-jetting always appropriate? In Beaverton, OR, pipe material and blockage type dictate method.
+
+Water heater T&P discharge paths in Beaverton, OR must terminate safely before replacement quotes.
+
+FAQ: When should sump battery backups be load-tested? In Beaverton, OR, before spring thaw and hurricane remnants.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 97225.
+
+Cast-iron hub corrosion in Beaverton, OR often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Intake ledger 470030: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Beaverton, OR at 45.4800, -122.8200.
+
+plumbing brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Beaverton intake packet.
+
+On-site sector marker: Washington County / ZIP 97007 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97225-497efa7f

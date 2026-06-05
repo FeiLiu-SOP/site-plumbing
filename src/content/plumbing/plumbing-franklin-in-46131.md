@@ -12,27 +12,43 @@ lng: -86.0500
 zipSample: ["46131"]
 zipCodes: ["46131"]
 localPaths: ["Johnson County / elevation 748 ft band", "Johnson County / coords 39.4900, -86.0500", "Johnson County / ZIP 46131 sector", "Johnson County / primary ZIP 46131"]
-zillowHomeValueUsd: 279581
 ---
 
-**Engineering Notice for Franklin:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Franklin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
 
 
-Our service coordination centers on Franklin, IN coverage windows and verified intake details.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46131.
+Dual-water-meter setups in Franklin, IN irrigation zones need backflow logs before line replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Franklin, IN can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 46131 zone).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 46131.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 46131 (county grid: Johnson County).
+Trenchless pulls in Franklin, IN require pit dimensions verified against utility locate marks.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Cleanout access limits in Franklin, IN frequently extend drain cleaning duration.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Fixture shutoff stiffness in Franklin, IN may indicate mineral bridging behind stems.
+
+Supply audit 106816: curb-stop orientation and hose-bib freeze flag reviewed for Franklin, IN at coords 39.4900/-86.0500.
+
+Fixture roster 106816: toilet flange spacer kit and shower cartridge seat score queued for Franklin, IN walk-through.
+
+plumbing brief: toilet flange spacer kit and dielectric union checklist were cross-checked for the Franklin intake packet.
+
+Primary postal anchor 46131 with multi-ZIP overlap in Franklin; field packets tag Johnson County for county-grid reconciliation.
 
 Service reference: IN-46131-d3d10afb

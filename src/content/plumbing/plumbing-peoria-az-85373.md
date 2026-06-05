@@ -12,25 +12,41 @@ lng: -112.3000
 zipSample: ["85373", "85324", "85383", "85380", "85381"]
 zipCodes: ["85382", "85385", "85383", "85303", "85373", "85381", "85324", "85345", "85380"]
 localPaths: ["Maricopa County / elevation 1568 ft band", "Maricopa County / ZIP 85381 sector", "Maricopa County / ZIP 85373 sector", "Maricopa County / ZIP 85324 sector", "Maricopa County / coords 33.7800, -112.3000"]
-zillowHomeValueUsd: 366451
 ---
 
-**Engineering Notice for Peoria:** Structural loading calculated based on 1568 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Peoria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
 
 
-We coordinate local dispatch coverage around Peoria, AZ and nearby ZIP sectors.
+Branch wet vents in Peoria, AZ can mask gurgling as a main-line issue.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Peoria, AZ, but intake notes help reduce delays.
+Dual-water-meter setups in Peoria, AZ irrigation zones need backflow logs before line replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85373.
+Risk flag: In Peoria, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Water heater T&P discharge paths in Peoria, AZ must terminate safely before replacement quotes.
 
-Tip: compare at least two estimates for scope and timeline.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Moisture pathway inspection logged near ZIP 85345/85324/85303 intake.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Peoria, AZ.
 
-Dispatch sectors sampled: ZIP 85345, 85324, 85303, 85380, 85385 (county grid: Maricopa County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Peoria, AZ.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Permit note: Main water line replacement in Peoria, AZ may require ROW restoration planning.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Lineage note 771731: recirculation pump amp draw captured before Peoria, AZ branch isolation.
+
+Drain map 771731: camera-pass priority and expansion-tank pre-charge noted for Peoria, AZ postal sector 85373.
+
+On-site sector marker: Maricopa County / ZIP 85382 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85373-56d119c1

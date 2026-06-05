@@ -12,26 +12,41 @@ lng: -76.5000
 zipSample: ["14851", "14853", "14850"]
 zipCodes: ["14850", "14851", "14853"]
 localPaths: ["Tompkins County / coords 42.4400, -76.5000", "Tompkins County / elevation 404 ft band", "Tompkins County / primary ZIP 14853", "Tompkins County / ZIP 14850 sector", "Tompkins County / ZIP 14853 sector"]
-zillowHomeValueUsd: 404532
 ---
 
-**Engineering Notice for Ithaca:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Tompkins County.
+**Engineering Notice for Ithaca:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tompkins County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Seasonal Ithaca, NY irrigation cross-connections can mask domestic pressure loss.
 
-Our service coordination centers on Ithaca, NY coverage windows and verified intake details.
+Water heater T&P discharge paths in Ithaca, NY must terminate safely before replacement quotes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ithaca, NY, but intake notes help reduce delays.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 14853.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: compare at least two estimates for scope and timeline.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 14853.
 
-Field note: Moisture pathway inspection logged near ZIP 14853/14850/14851 intake.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 14853/14850/14851 zone).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 14853, 14850, 14851 (county grid: Tompkins County).
+Cast-iron hub corrosion in Ithaca, NY often concentrates at the third joint upstream of the cleanout.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Sewer gas odors in Ithaca, NY should trigger trap seal and vent path review.
+
+In Ithaca, NY, slab leaks often present as warm spots before wall stains appear.
+
+Pressure trace 346397: meter-pit clearance and dielectric union checklist staged for Ithaca, NY near elevation 404 ft.
+
+Scope trace: recirculation pump amp draw plus branch wet vent geometry referenced in Tompkins County county grid review.
+
+On-site sector marker: Tompkins County / ZIP 14851 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14853-bb609e2b

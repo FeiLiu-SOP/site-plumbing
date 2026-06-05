@@ -12,26 +12,39 @@ lng: -84.3100
 zipSample: ["30009", "30004"]
 zipCodes: ["30009", "30004"]
 localPaths: ["Fulton County / ZIP 30009 sector", "Fulton County / coords 34.1400, -84.3100", "Fulton County / ZIP 30004 sector", "Fulton County / elevation 978 ft band", "Fulton County / primary ZIP 30004"]
-zillowHomeValueUsd: 760985
 ---
 
-**Engineering Notice for Milton:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Milton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Milton, GA, slab leaks often present as warm spots before wall stains appear.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Recirculation pump failures in Milton, GA can mimic fixture-specific clogs.
 
-In Milton, GA, seasonal demand can change scheduling windows.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-In Milton, GA, urgent plumbing issues can escalate quickly.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Wind exposure category reviewed for ZIP sector 30004/30009.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Access points and staging constraints recorded for ZIP 30004/30009 coverage.
+Hose bib split patterns in Milton, GA often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 30004, 30009 (county grid: Fulton County).
+Cast-iron hub corrosion in Milton, GA often concentrates at the third joint upstream of the cleanout.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Cleanout access limits in Milton, GA frequently extend drain cleaning duration.
+
+Basement floor drains in Milton, GA should be snaked only after trap arm geometry is confirmed on camera.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 30004.
+
+Fixture roster 875055: toilet flange spacer kit and shower cartridge seat score queued for Milton, GA walk-through.
+
+On-site sector marker: Fulton County / elevation 978 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30004-3eafa21d

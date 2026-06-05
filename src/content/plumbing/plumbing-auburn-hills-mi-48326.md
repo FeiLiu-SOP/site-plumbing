@@ -12,26 +12,41 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / primary ZIP 48326", "Oakland County / coords 42.6700, -83.2400", "Oakland County / ZIP 48321 sector", "Oakland County / ZIP 48326 sector", "Oakland County / elevation 965 ft band"]
-zillowHomeValueUsd: 280654
 ---
 
-**Engineering Notice for Auburn Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Auburn Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn Hills, MI, but intake notes help reduce delays.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate local dispatch coverage around Auburn Hills, MI and nearby ZIP sectors.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Auburn Hills, MI systems need rebalancing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Cast-iron hub corrosion in Auburn Hills, MI often concentrates at the third joint upstream of the cleanout.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Auburn Hills, MI, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: request a written scope before work starts.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Wind exposure category reviewed for ZIP sector 48326/48321.
+FAQ: When should sump battery backups be load-tested? In Auburn Hills, MI, before spring thaw and hurricane remnants.
 
-Field note: Connection points spot-checked where accessible (ZIP 48326/48321 zone).
+Polybutylene manifold tags in Auburn Hills, MI basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 48326, 48321 (county grid: Oakland County).
+Galvanized segments in Auburn Hills, MI may restrict flow long before visible corrosion.
+
+Stack vent offsets in Auburn Hills, MI older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When is cabling enough? In Auburn Hills, MI, pipe material and blockage type dictate method.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Flow dossier 400883: branch wet-vent geometry and jetting nozzle envelope logged for Auburn Hills, MI county grid Oakland County (ZIP 48326).
+
+Drain map 400883: camera-pass priority and expansion-tank pre-charge noted for Auburn Hills, MI postal sector 48326.
+
+Field routing: sump float travel paired with gas water heater draft hood gap near ZIP 48326.
+
+On-site sector marker: Oakland County / coords 42.6700, -83.2400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48326-03106988

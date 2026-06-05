@@ -12,24 +12,39 @@ lng: -121.6600
 zipSample: ["95012", "93907", "95076", "95004"]
 zipCodes: ["93907", "95012", "95076", "95004"]
 localPaths: ["Monterey County / ZIP 95012 sector", "Monterey County / ZIP 95004 sector", "Monterey County / coords 36.8100, -121.6600", "Monterey County / primary ZIP 95076", "Monterey County / ZIP 95076 sector"]
-zillowHomeValueUsd: 839541
 ---
 
-**Engineering Notice for Prunedale:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Prunedale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
 
 
-Homeowners in Prunedale, CA often face sudden plumbing problems that require fast action.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prunedale, CA, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-In Prunedale, CA, seasonal demand can change scheduling windows.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95076/95004/93907.
+CPVC solvent weld times shift with ambient humidity during Prunedale, CA shoulder seasons.
 
-Dispatch sectors sampled: ZIP 95076, 95004, 93907, 95012 (county grid: Monterey County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Trenchless pulls in Prunedale, CA require pit dimensions verified against utility locate marks.
+
+Basement floor drains in Prunedale, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 95076.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Flow dossier 618153: branch wet-vent geometry and jetting nozzle envelope logged for Prunedale, CA county grid Monterey County (ZIP 95076).
+
+**Regional Infrastructure Brief:** Response coverage aligns with Monterey County and primary ZIP 95076. Terrain reference: 387 ft. Center point: 36.8100, -121.6600. ZIP sample: 95012, 95004, 93907, 95076. Service perimeter note: Coverage extends through Monterey County with dispatch centered near ZIP 95076.
 
 Service reference: CA-95076-bdcc7cb3

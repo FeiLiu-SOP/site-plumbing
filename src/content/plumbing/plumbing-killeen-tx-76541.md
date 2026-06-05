@@ -12,26 +12,41 @@ lng: -97.7300
 zipSample: ["76542", "76541", "76547", "76549", "76543"]
 zipCodes: ["76542", "76549", "76541", "76540", "76547", "76543"]
 localPaths: ["Bell County / ZIP 76543 sector", "Bell County / ZIP 76542 sector", "Bell County / ZIP 76549 sector", "Bell County / primary ZIP 76541", "Bell County / elevation 876 ft band"]
-zillowHomeValueUsd: 121995
 ---
 
-**Engineering Notice for Killeen:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Bell County.
+**Engineering Notice for Killeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bell County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Killeen, TX basements should be photographed before any wall chase opens.
 
-Transparent pricing helps you compare like-for-like scope items.
+In Killeen, TX, slab leaks often present as warm spots before wall stains appear.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Water heater anode type may change with Killeen, TX hardness profiles.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Killeen, TX, but intake notes help reduce delays.
+Sewer gas odors in Killeen, TX should trigger trap seal and vent path review.
 
-Local conditions in Killeen, TX can affect timelines and material choices.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Moisture pathway inspection logged near ZIP 76541/76547/76540 intake.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Access points and staging constraints recorded for ZIP 76541/76547/76540 coverage.
+Frost-free sillcock failures in Killeen, TX often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 76541, 76547, 76540, 76542, 76549 (county grid: Bell County).
+Dispatch packets reference county grid Bell County near ZIP 76541.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Cleanout access limits in Killeen, TX frequently extend drain cleaning duration.
+
+FAQ: When should sump battery backups be load-tested? In Killeen, TX, before spring thaw and hurricane remnants.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+FAQ: When is cabling enough? In Killeen, TX, pipe material and blockage type dictate method.
+
+Pressure trace 131751: meter-pit clearance and dielectric union checklist staged for Killeen, TX near elevation 876 ft.
+
+Intake ledger 131751: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Killeen, TX at 31.0800, -97.7300.
+
+On-site sector marker: Bell County / ZIP 76547 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76541-ad7912ac

@@ -12,24 +12,45 @@ lng: -96.9800
 zipSample: ["77904", "77902", "77903", "77901", "77905"]
 zipCodes: ["77901", "77903", "77902", "77905", "77904"]
 localPaths: ["Victoria County / ZIP 77903 sector", "Victoria County / ZIP 77905 sector", "Victoria County / ZIP 77902 sector", "Victoria County / ZIP 77901 sector", "Victoria County / elevation 118 ft band"]
-zillowHomeValueUsd: 142806
 ---
 
-**Engineering Notice for Victoria:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Victoria County.
+**Engineering Notice for Victoria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Victoria County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our service coordination centers on Victoria, TX coverage windows and verified intake details.
+Fixture shutoff stiffness in Victoria, TX may indicate mineral bridging behind stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Victoria, TX, but intake notes help reduce delays.
+Branch wet vents in Victoria, TX can mask gurgling as a main-line issue.
 
-Local conditions in Victoria, TX can affect timelines and material choices.
+Cast-iron hub corrosion in Victoria, TX often concentrates at the third joint upstream of the cleanout.
 
-Tip: avoid large upfront payments without milestones.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Connection points spot-checked where accessible (ZIP 77905/77901/77902 zone).
+Polybutylene manifold tags in Victoria, TX basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 77905, 77901, 77902, 77904, 77903 (county grid: Victoria County).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 77901.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 77901.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Recirculation pump failures in Victoria, TX can mimic fixture-specific clogs.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Victoria, TX.
+
+Frost-free sillcock failures in Victoria, TX often trace to interior shutoff seats, not exterior stems.
+
+Stack vent offsets in Victoria, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Flow dossier 649026: branch wet-vent geometry and jetting nozzle envelope logged for Victoria, TX county grid Victoria County (ZIP 77901).
+
+Fixture roster 649026: toilet flange spacer kit and shower cartridge seat score queued for Victoria, TX walk-through.
+
+plumbing brief: toilet flange spacer kit and meter pit clearance were cross-checked for the Victoria intake packet.
+
+On-site sector marker: Victoria County / ZIP 77903 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77901-f2d9fcd8

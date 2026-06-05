@@ -12,26 +12,43 @@ lng: -87.9700
 zipSample: ["60451"]
 zipCodes: ["60451"]
 localPaths: ["Will County / ZIP 60451 sector", "Will County / coords 41.5100, -87.9700", "Will County / primary ZIP 60451", "Will County / elevation 692 ft band"]
-zillowHomeValueUsd: 439901
 ---
 
-**Engineering Notice for New Lenox:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for New Lenox:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 60451.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: compare at least two estimates for scope and timeline.
+Irrigation cross-connections in New Lenox, IL can back-siphon domestic lines during main breaks.
 
-Tip: request a written scope before work starts.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 60451 zone).
+Basement floor drains in New Lenox, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60451.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 60451 (county grid: Will County).
+Frost-free sillcock failures in New Lenox, IL often trace to interior shutoff seats, not exterior stems.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: Water heater anode type may change with New Lenox, IL hardness profiles.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: In New Lenox, IL, slab leaks can misroute as foundation issues without listening equipment.
+
+Across New Lenox, IL, main-line bellies can trap debris even when fixtures drain normally.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Drain map 322649: camera-pass priority and expansion-tank pre-charge noted for New Lenox, IL postal sector 60451.
+
+Supply audit 322649: curb-stop orientation and hose-bib freeze flag reviewed for New Lenox, IL at coords 41.5100/-87.9700.
+
+On-site sector marker: Will County / elevation 692 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60451-7993346b

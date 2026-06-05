@@ -12,26 +12,41 @@ lng: -96.8400
 zipSample: ["75254", "75391", "75001"]
 zipCodes: ["75001", "75391", "75254"]
 localPaths: ["Dallas County / coords 32.9600, -96.8400", "Dallas County / ZIP 75391 sector", "Dallas County / ZIP 75254 sector", "Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254"]
-zillowHomeValueUsd: 299676
 ---
 
-**Engineering Notice for Addison:** Structural loading calculated based on 637 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Addison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-In Addison, TX, seasonal demand can change scheduling windows.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Structured milestones protect both sides when scheduling work.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 75254.
 
-We coordinate local dispatch coverage around Addison, TX and nearby ZIP sectors.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 75254.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 75001/75254/75391 intake.
+Risk flag: In Addison, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75001/75254/75391.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Addison, TX systems need rebalancing.
 
-Dispatch sectors sampled: ZIP 75001, 75254, 75391 (county grid: Dallas County).
+Permit note: Main water line replacement in Addison, TX may require ROW restoration planning.
+
+Cast-iron hub corrosion in Addison, TX often concentrates at the third joint upstream of the cleanout.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 185928: curb-stop orientation and hose-bib freeze flag reviewed for Addison, TX at coords 32.9600/-96.8400.
+
+plumbing brief: slab leak listening window and fixture shutoff torque log were cross-checked for the Addison intake packet.
+
+On-site sector marker: Dallas County / primary ZIP 75254 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75254-768bc6fb

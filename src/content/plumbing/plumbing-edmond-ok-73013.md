@@ -12,24 +12,41 @@ lng: -97.4200
 zipSample: ["73003", "73013", "73007", "73034"]
 zipCodes: ["73013", "73003", "73007", "73034"]
 localPaths: ["Oklahoma County / ZIP 73034 sector", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73013 sector", "Oklahoma County / primary ZIP 73013", "Oklahoma County / ZIP 73007 sector"]
-zillowHomeValueUsd: 326231
 ---
 
-**Engineering Notice for Edmond:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Edmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-We coordinate local dispatch coverage around Edmond, OK and nearby ZIP sectors.
+Step: photograph curb-stop and meter pit before trenching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73034/73003/73013.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 73034, 73003, 73013, 73007 (county grid: Oklahoma County).
+Trenchless pulls in Edmond, OK require pit dimensions verified against utility locate marks.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Edmond, OK.
+
+Fixture shutoff stiffness in Edmond, OK may indicate mineral bridging behind stems.
+
+Hose bib split patterns in Edmond, OK often follow missed winterization.
+
+In Edmond, OK, slab leaks often present as warm spots before wall stains appear.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 73013.
+
+Hard water in Edmond, OK accelerates scale on PRV seats and heater elements.
+
+Step: camera-pass main lines in Edmond, OK before jetting older clay or cast iron.
+
+Supply audit 827048: curb-stop orientation and hose-bib freeze flag reviewed for Edmond, OK at coords 35.6700/-97.4200.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Oklahoma County. Reference elevation: 1148 ft. Primary coordinates: 35.6700, -97.4200. ZIP sample: 73034, 73007, 73013, 73003. Logistics priority: Serving residential sectors across Oklahoma County and north-east ZIP 73013 grid.
 
 Service reference: OK-73013-aeb4e302

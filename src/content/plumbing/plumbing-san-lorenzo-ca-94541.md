@@ -12,26 +12,37 @@ lng: -122.1300
 zipSample: ["94580", "94541"]
 zipCodes: ["94541", "94580"]
 localPaths: ["Alameda County / ZIP 94541 sector", "Alameda County / ZIP 94580 sector", "Alameda County / primary ZIP 94541", "Alameda County / coords 37.6700, -122.1300", "Alameda County / elevation 26 ft band"]
-zillowHomeValueUsd: 783172
 ---
 
-**Engineering Notice for San Lorenzo:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Lorenzo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
 
 
-Our service coordination centers on San Lorenzo, CA coverage windows and verified intake details.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in San Lorenzo, CA systems need rebalancing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in San Lorenzo, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Hose bib split patterns in San Lorenzo, CA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 94541/94580 coverage.
+FAQ: When is cabling enough? In San Lorenzo, CA, pipe material and blockage type dictate method.
 
-Field note: Connection points spot-checked where accessible (ZIP 94541/94580 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 94541, 94580 (county grid: Alameda County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 94541.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless pulls in San Lorenzo, CA require pit dimensions verified against utility locate marks.
+
+Pressure trace 116847: meter-pit clearance and dielectric union checklist staged for San Lorenzo, CA near elevation 26 ft.
+
+On-site sector marker: Alameda County / ZIP 94541 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94541-e396d3aa

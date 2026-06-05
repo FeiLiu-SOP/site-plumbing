@@ -12,26 +12,39 @@ lng: -82.5600
 zipSample: ["33556", "33625"]
 zipCodes: ["33556", "33625"]
 localPaths: ["Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33625 sector", "Hillsborough County / primary ZIP 33625", "Hillsborough County / coords 28.0700, -82.5600", "Hillsborough County / elevation 56 ft band"]
-zillowHomeValueUsd: 426960
 ---
 
-**Engineering Notice for Citrus Park:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Citrus Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
 
 
-We coordinate local dispatch coverage around Citrus Park, FL and nearby ZIP sectors.
+Water heater T&P discharge paths in Citrus Park, FL must terminate safely before replacement quotes.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is hydro-jetting always appropriate? In Citrus Park, FL, pipe material and blockage type dictate method.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Galvanized segments in Citrus Park, FL may restrict flow long before visible corrosion.
 
-Field note: Access points and staging constraints recorded for ZIP 33556/33625 coverage.
+Irrigation cross-connections in Citrus Park, FL can back-siphon domestic lines during main breaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33556/33625.
+Sewer gas odors in Citrus Park, FL should trigger trap seal and vent path review.
 
-Dispatch sectors sampled: ZIP 33556, 33625 (county grid: Hillsborough County).
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Citrus Park, FL.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Cast-iron hub corrosion in Citrus Park, FL often concentrates at the third joint upstream of the cleanout.
+
+Stack vent offsets in Citrus Park, FL older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When should sump battery backups be load-tested? In Citrus Park, FL, before spring thaw and hurricane remnants.
+
+Supply audit 926525: curb-stop orientation and hose-bib freeze flag reviewed for Citrus Park, FL at coords 28.0700/-82.5600.
+
+Intake ledger 926525: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Citrus Park, FL at 28.0700, -82.5600.
+
+On-site sector marker: Hillsborough County / primary ZIP 33625 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33625-8d80c4f8

@@ -12,24 +12,39 @@ lng: -84.1800
 zipSample: ["31706", "31701", "31702", "31703", "31721"]
 zipCodes: ["31707", "31702", "31703", "31706", "31721", "31708", "31701", "31705"]
 localPaths: ["Dougherty County / ZIP 31702 sector", "Dougherty County / primary ZIP 31705", "Dougherty County / ZIP 31701 sector", "Dougherty County / ZIP 31706 sector", "Dougherty County / ZIP 31703 sector"]
-zillowHomeValueUsd: 91143
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Dougherty County.
+**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dougherty County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Our service coordination centers on Albany, GA coverage windows and verified intake details.
+Stack vent offsets in Albany, GA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Albany, GA, but intake notes help reduce delays.
+Sewer gas odors in Albany, GA should trigger trap seal and vent path review.
 
-Tip: compare at least two estimates for scope and timeline.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31707/31708/31721.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 31705.
 
-Dispatch sectors sampled: ZIP 31707, 31708, 31721, 31703, 31706 (county grid: Dougherty County).
+Frost-free sillcock failures in Albany, GA often trace to interior shutoff seats, not exterior stems.
+
+Risk flag: Seasonal Albany, GA irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hydro-jetting in Albany, GA requires camera confirmation before nozzle pressure is raised.
+
+Expansion tank pre-charge loss in Albany, GA often tracks heater replacement deferrals.
+
+Fixture roster 515320: toilet flange spacer kit and shower cartridge seat score queued for Albany, GA walk-through.
+
+Flow dossier 515320: branch wet-vent geometry and jetting nozzle envelope logged for Albany, GA county grid Dougherty County (ZIP 31705).
+
+Coordinate-anchored dispatch note: center reference 31.5800, -84.1800 at elevation ~220 ft aligns with Dougherty County intake staging.
 
 Service reference: GA-31705-cdbb0b8c

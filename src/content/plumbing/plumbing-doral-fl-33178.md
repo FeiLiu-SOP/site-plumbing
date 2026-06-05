@@ -12,25 +12,39 @@ lng: -80.3600
 zipSample: ["33191", "33178", "33122", "33172", "33126"]
 zipCodes: ["33178", "33126", "33191", "33166", "33172", "33122"]
 localPaths: ["Miami-Dade County / primary ZIP 33178", "Miami-Dade County / coords 25.8200, -80.3600", "Miami-Dade County / ZIP 33122 sector", "Miami-Dade County / ZIP 33178 sector", "Miami-Dade County / elevation 36 ft band"]
-zillowHomeValueUsd: 559308
 ---
 
-**Engineering Notice for Doral:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Doral:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Doral, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-Our service coordination centers on Doral, FL coverage windows and verified intake details.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33178.
+Hydrostatic holds in Doral, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Doral, FL, but intake notes help reduce delays.
+FAQ: When is cabling enough? In Doral, FL, pipe material and blockage type dictate method.
 
-Tip: request a written scope before work starts.
+Dual-water-meter setups in Doral, FL irrigation zones need backflow logs before line replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 33178/33122/33126 zone).
+Risk flag: Seasonal Doral, FL irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch sectors sampled: ZIP 33178, 33122, 33126, 33191, 33166 (county grid: Miami-Dade County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Polybutylene manifold tags in Doral, FL basements should be photographed before any wall chase opens.
+
+Basement floor drains in Doral, FL should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Sump discharge freeze risk in Doral, FL should be reviewed before spring thaw cycles.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 992914: curb-stop orientation and hose-bib freeze flag reviewed for Doral, FL at coords 25.8200/-80.3600.
+
+Fixture roster 992914: toilet flange spacer kit and shower cartridge seat score queued for Doral, FL walk-through.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33178 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33178-df16a8ce

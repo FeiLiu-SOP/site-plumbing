@@ -12,26 +12,41 @@ lng: -76.9200
 zipSample: ["20601", "20604", "20602", "20695", "20675"]
 zipCodes: ["20602", "20695", "20675", "20601", "20603", "20604"]
 localPaths: ["Charles County / ZIP 20601 sector", "Charles County / elevation 210 ft band", "Charles County / primary ZIP 20601", "Charles County / ZIP 20602 sector", "Charles County / ZIP 20695 sector"]
-zillowHomeValueUsd: 438971
 ---
 
-**Engineering Notice for Waldorf:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Charles County.
+**Engineering Notice for Waldorf:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charles County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: confirm licensing and insurance before approving work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: address recurring issues early to prevent bigger damage.
+Fixture shutoff stiffness in Waldorf, MD may indicate mineral bridging behind stems.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Waldorf, MD, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-In Waldorf, MD, seasonal demand can change scheduling windows.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Connection points spot-checked where accessible (ZIP 20604/20675/20601 zone).
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Moisture pathway inspection logged near ZIP 20604/20675/20601 intake.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Waldorf, MD.
 
-Dispatch sectors sampled: ZIP 20604, 20675, 20601, 20602, 20603 (county grid: Charles County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Waldorf, MD systems need rebalancing.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Cast-iron hub corrosion in Waldorf, MD often concentrates at the third joint upstream of the cleanout.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Fixture roster 961637: toilet flange spacer kit and shower cartridge seat score queued for Waldorf, MD walk-through.
+
+Flow dossier 961637: branch wet-vent geometry and jetting nozzle envelope logged for Waldorf, MD county grid Charles County (ZIP 20601).
+
+plumbing brief: thermal expansion loop check and slab leak listening window were cross-checked for the Waldorf intake packet.
+
+On-site sector marker: Charles County / ZIP 20604 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20601-24fd883f

@@ -12,24 +12,41 @@ lng: -117.8600
 zipSample: ["91788", "91789"]
 zipCodes: ["91788", "91789"]
 localPaths: ["Los Angeles County / primary ZIP 91789", "Los Angeles County / ZIP 91788 sector", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 689 ft band", "Los Angeles County / coords 34.0300, -117.8600"]
-zillowHomeValueUsd: 1156339
 ---
 
-**Engineering Notice for Walnut:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Walnut:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dispatch packets reference county grid Los Angeles County near ZIP 91789.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate local dispatch coverage around Walnut, CA and nearby ZIP sectors.
+CPVC solvent weld times shift with ambient humidity during Walnut, CA shoulder seasons.
 
-Clear documentation helps align materials, labor, and timeline.
+Hydro-jetting in Walnut, CA requires camera confirmation before nozzle pressure is raised.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map sump float travel and check-valve orientation for Walnut, CA basements.
 
-Field note: Wind exposure category reviewed for ZIP sector 91789/91788.
+FAQ: When should sump battery backups be load-tested? In Walnut, CA, before spring thaw and hurricane remnants.
 
-Dispatch sectors sampled: ZIP 91789, 91788 (county grid: Los Angeles County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Trenchless sleeve pulls near Walnut, CA require pit shoring notes when water tables are high.
+
+Hydrostatic holds in Walnut, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Permit note: Main water line replacement in Walnut, CA may require ROW restoration planning.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Supply audit 811389: curb-stop orientation and hose-bib freeze flag reviewed for Walnut, CA at coords 34.0300/-117.8600.
+
+Field routing: backflow test cock orientation paired with sump float travel near ZIP 91789.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Walnut, CA before niche-specific work begins.
 
 Service reference: CA-91789-b096ca40

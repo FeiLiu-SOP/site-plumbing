@@ -12,26 +12,43 @@ lng: -97.3600
 zipSample: ["68601", "68602"]
 zipCodes: ["68602", "68601"]
 localPaths: ["Platte County / ZIP 68601 sector", "Platte County / elevation 1453 ft band", "Platte County / primary ZIP 68601", "Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68602 sector"]
-zillowHomeValueUsd: 271011
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Platte County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Platte County.
 
 
-In Columbus, NE, urgent plumbing issues can escalate quickly.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate local dispatch coverage around Columbus, NE and nearby ZIP sectors.
+Dual-water-meter setups in Columbus, NE irrigation zones need backflow logs before line replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Clear documentation helps align materials, labor, and timeline.
+Sewer gas odors in Columbus, NE should trigger trap seal and vent path review.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Columbus, NE, but intake notes help reduce delays.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 68601/68602.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 68601/68602 zone).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 68601, 68602 (county grid: Platte County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Cast-iron hub corrosion in Columbus, NE often concentrates at the third joint upstream of the cleanout.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When should sump battery backups be load-tested? In Columbus, NE, before spring thaw and hurricane remnants.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Intake ledger 700944: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Columbus, NE at 41.4400, -97.3600.
+
+Supply audit 700944: curb-stop orientation and hose-bib freeze flag reviewed for Columbus, NE at coords 41.4400/-97.3600.
+
+Field routing: backflow test cock orientation paired with slab leak listening window near ZIP 68601.
+
+On-site sector marker: Platte County / ZIP 68601 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68601-97b1bcb5

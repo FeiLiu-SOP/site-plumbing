@@ -12,26 +12,45 @@ lng: -119.4000
 zipSample: ["99320", "99353"]
 zipCodes: ["99353", "99320"]
 localPaths: ["Benton County / primary ZIP 99320", "Benton County / ZIP 99320 sector", "Benton County / coords 46.3100, -119.4000", "Benton County / elevation 446 ft band", "Benton County / ZIP 99353 sector"]
-zillowHomeValueUsd: 427990
 ---
 
-**Engineering Notice for West Richland:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for West Richland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Branch wet vents in West Richland, WA can mask gurgling as a main-line issue.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in West Richland, WA systems need rebalancing.
 
-We coordinate local dispatch coverage around West Richland, WA and nearby ZIP sectors.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: confirm licensing and insurance before approving work.
+Cleanout access limits in West Richland, WA frequently extend drain cleaning duration.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99353/99320.
+Risk flag: In West Richland, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 99353/99320 zone).
+Trenchless sleeve pulls near West Richland, WA require pit shoring notes when water tables are high.
 
-Dispatch sectors sampled: ZIP 99353, 99320 (county grid: Benton County).
+Across West Richland, WA, main-line bellies can trap debris even when fixtures drain normally.
+
+FAQ: When is cabling enough? In West Richland, WA, pipe material and blockage type dictate method.
+
+Material note: Water heater anode type may change with West Richland, WA hardness profiles.
+
+Recirculation pump failures in West Richland, WA can mimic fixture-specific clogs.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Lineage note 977177: recirculation pump amp draw captured before West Richland, WA branch isolation.
+
+Intake ledger 977177: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West Richland, WA at 46.3100, -119.4000.
+
+Scope trace: cleanout riser height plus PEX expansion ring batch referenced in Benton County county grid review.
+
+On-site sector marker: Benton County / ZIP 99353 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99320-ddff2aa6

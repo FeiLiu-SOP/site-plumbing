@@ -12,24 +12,39 @@ lng: -74.5700
 zipSample: ["08512", "08536"]
 zipCodes: ["08536", "08512"]
 localPaths: ["Middlesex County / ZIP 08536 sector", "Middlesex County / primary ZIP 08536", "Middlesex County / coords 40.3300, -74.5700", "Middlesex County / ZIP 08512 sector", "Middlesex County / elevation 98 ft band"]
-zillowHomeValueUsd: 670436
 ---
 
-**Engineering Notice for Princeton Meadows:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Princeton Meadows:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Sewer gas odors in Princeton Meadows, NJ should trigger trap seal and vent path review.
 
-We coordinate local dispatch coverage around Princeton Meadows, NJ and nearby ZIP sectors.
+Cast-iron hub corrosion in Princeton Meadows, NJ often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Princeton Meadows, NJ can mask gurgling as a main-line issue.
 
-Structured milestones protect both sides when scheduling work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08512/08536.
+Hydrostatic holds in Princeton Meadows, NJ slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 08512, 08536 (county grid: Middlesex County).
+FAQ: When should sump battery backups be load-tested? In Princeton Meadows, NJ, before spring thaw and hurricane remnants.
+
+Risk flag: Seasonal Princeton Meadows, NJ irrigation cross-connections can mask domestic pressure loss.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Polybutylene manifold tags in Princeton Meadows, NJ basements should be photographed before any wall chase opens.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+FAQ: When is cabling enough? In Princeton Meadows, NJ, pipe material and blockage type dictate method.
+
+Pressure trace 394677: meter-pit clearance and dielectric union checklist staged for Princeton Meadows, NJ near elevation 98 ft.
+
+Scope trace: floor drain trap primer drip plus backflow test cock orientation referenced in Middlesex County county grid review.
+
+On-site sector marker: Middlesex County / coords 40.3300, -74.5700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08536-7551528f

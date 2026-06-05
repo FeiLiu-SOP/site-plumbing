@@ -12,26 +12,43 @@ lng: -105.0700
 zipSample: ["80525", "80528", "80553", "80523", "80527"]
 zipCodes: ["80524", "80523", "80525", "80553", "80527", "80521", "80526", "80528"]
 localPaths: ["Larimer County / ZIP 80527 sector", "Larimer County / coords 40.5500, -105.0700", "Larimer County / ZIP 80528 sector", "Larimer County / ZIP 80523 sector", "Larimer County / primary ZIP 80528"]
-zillowHomeValueUsd: 648740
 ---
 
-**Engineering Notice for Fort Collins:** Structural loading calculated based on 5007 ft terrain assessment. Regional dispatch grid: Larimer County.
+**Engineering Notice for Fort Collins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Larimer County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fort Collins, CO, but intake notes help reduce delays.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Transparent pricing helps you compare like-for-like scope items.
+Trenchless sleeve pulls near Fort Collins, CO require pit shoring notes when water tables are high.
 
-Tip: avoid large upfront payments without milestones.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 80528.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is hydro-jetting always appropriate? In Fort Collins, CO, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 80527/80526/80528.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Moisture pathway inspection logged near ZIP 80527/80526/80528 intake.
+Across Fort Collins, CO, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 80527, 80526, 80528, 80553, 80523 (county grid: Larimer County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Water heater T&P discharge paths in Fort Collins, CO must terminate safely before replacement quotes.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Polybutylene manifold tags in Fort Collins, CO basements should be photographed before any wall chase opens.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Intake ledger 169980: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fort Collins, CO at 40.5500, -105.0700.
+
+Supply audit 169980: curb-stop orientation and hose-bib freeze flag reviewed for Fort Collins, CO at coords 40.5500/-105.0700.
+
+Field routing: dielectric union checklist paired with cleanout riser height near ZIP 80528.
+
+Regional mesh label Larimer County: moisture and logistics baselines are keyed to Fort Collins, CO before niche-specific work begins.
 
 Service reference: CO-80528-0f886214

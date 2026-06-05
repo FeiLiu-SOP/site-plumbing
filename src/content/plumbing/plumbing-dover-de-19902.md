@@ -12,25 +12,41 @@ lng: -75.5200
 zipSample: ["19902", "19906", "19905", "19901", "19904"]
 zipCodes: ["19904", "19905", "19901", "19906", "19902"]
 localPaths: ["Kent County / ZIP 19902 sector", "Kent County / elevation 13 ft band", "Kent County / ZIP 19906 sector", "Kent County / ZIP 19904 sector", "Kent County / ZIP 19901 sector"]
-zillowHomeValueUsd: 341230
 ---
 
-**Engineering Notice for Dover:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Dover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 19902.
+Basement floor drains in Dover, DE should be snaked only after trap arm geometry is confirmed on camera.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Stack vent offsets in Dover, DE older duplexes can mask tub gurgle as a main-line failure.
 
-Our service coordination centers on Dover, DE coverage windows and verified intake details.
+Risk flag: In Dover, DE, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Wind exposure category reviewed for ZIP sector 19902/19904/19901.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dover, DE.
 
-Dispatch sectors sampled: ZIP 19902, 19904, 19901, 19905, 19906 (county grid: Kent County).
+Expansion tank pre-charge loss in Dover, DE often tracks heater replacement deferrals.
+
+Cast-iron hub corrosion in Dover, DE often concentrates at the third joint upstream of the cleanout.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+In Dover, DE, slab leaks often present as warm spots before wall stains appear.
+
+Sewer gas odors in Dover, DE should trigger trap seal and vent path review.
+
+Irrigation cross-connections in Dover, DE can back-siphon domestic lines during main breaks.
+
+Dual-water-meter setups in Dover, DE irrigation zones need backflow logs before line replacement.
+
+Pressure trace 981813: meter-pit clearance and dielectric union checklist staged for Dover, DE near elevation 13 ft.
+
+Field routing: shower cartridge seat score paired with jetter nozzle envelope near ZIP 19902.
+
+Coordinate-anchored dispatch note: center reference 39.1600, -75.5200 at elevation ~13 ft aligns with Kent County intake staging.
 
 Service reference: DE-19902-3d74f44c

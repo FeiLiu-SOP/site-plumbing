@@ -12,24 +12,45 @@ lng: -122.9400
 zipSample: ["97124", "97006", "97123", "97129"]
 zipCodes: ["97123", "97129", "97124", "97006"]
 localPaths: ["Washington County / elevation 167 ft band", "Washington County / ZIP 97006 sector", "Washington County / ZIP 97124 sector", "Washington County / primary ZIP 97006", "Washington County / ZIP 97129 sector"]
-zillowHomeValueUsd: 500867
 ---
 
-**Engineering Notice for Hillsboro:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hillsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
 
 
-We coordinate local dispatch coverage around Hillsboro, OR and nearby ZIP sectors.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97006.
 
-In Hillsboro, OR, urgent plumbing issues can escalate quickly.
+Polybutylene manifold tags in Hillsboro, OR basements should be photographed before any wall chase opens.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hillsboro, OR, but intake notes help reduce delays.
+Sump discharge freeze risk in Hillsboro, OR should be reviewed before spring thaw cycles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hillsboro, OR systems need rebalancing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Access points and staging constraints recorded for ZIP 97124/97006/97123 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 97124, 97006, 97123, 97129 (county grid: Washington County).
+Basement floor drains in Hillsboro, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless pulls in Hillsboro, OR require pit dimensions verified against utility locate marks.
+
+In Hillsboro, OR, slab leaks often present as warm spots before wall stains appear.
+
+Fixture shutoff stiffness in Hillsboro, OR may indicate mineral bridging behind stems.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Supply audit 229994: curb-stop orientation and hose-bib freeze flag reviewed for Hillsboro, OR at coords 45.5300/-122.9400.
+
+Drain map 229994: camera-pass priority and expansion-tank pre-charge noted for Hillsboro, OR postal sector 97006.
+
+Field routing: thermal expansion loop check paired with fixture shutoff torque log near ZIP 97006.
+
+Primary postal anchor 97006 with multi-ZIP overlap in Hillsboro; field packets tag Washington County for county-grid reconciliation.
 
 Service reference: OR-97006-4d282ba1

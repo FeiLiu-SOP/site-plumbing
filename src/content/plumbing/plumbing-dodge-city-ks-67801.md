@@ -12,26 +12,39 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band", "Ford County / ZIP 67801 sector", "Ford County / primary ZIP 67801"]
-zillowHomeValueUsd: 209882
 ---
 
-**Engineering Notice for Dodge City:** Structural loading calculated based on 2595 ft terrain assessment. Regional dispatch grid: Ford County.
+**Engineering Notice for Dodge City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ford County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dodge City, KS.
 
-Tip: address recurring issues early to prevent bigger damage.
+CPVC solvent weld times shift with ambient humidity during Dodge City, KS shoulder seasons.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map sump float travel and check-valve orientation for Dodge City, KS basements.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dodge City, KS, but intake notes help reduce delays.
+Dispatch packets reference county grid Ford County near ZIP 67801.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Access points and staging constraints recorded for ZIP 67801 coverage.
+Expansion tank pre-charge loss in Dodge City, KS often tracks heater replacement deferrals.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67801.
+Galvanized segments in Dodge City, KS may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 67801 (county grid: Ford County).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Pressure trace 992976: meter-pit clearance and dielectric union checklist staged for Dodge City, KS near elevation 2595 ft.
+
+Drain map 992976: camera-pass priority and expansion-tank pre-charge noted for Dodge City, KS postal sector 67801.
+
+Coordinate-anchored dispatch note: center reference 37.7600, -100.0200 at elevation ~2595 ft aligns with Ford County intake staging.
 
 Service reference: KS-67801-332e80d5

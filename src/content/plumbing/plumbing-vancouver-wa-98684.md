@@ -12,26 +12,41 @@ lng: -122.6000
 zipSample: ["98664", "98683", "98660", "98665", "98662"]
 zipCodes: ["98662", "98683", "98687", "98661", "98684", "98664", "98660", "98663", "98682", "98665"]
 localPaths: ["Clark County / ZIP 98665 sector", "Clark County / coords 45.6400, -122.6000", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98684", "Clark County / ZIP 98683 sector"]
-zillowHomeValueUsd: 491634
 ---
 
-**Engineering Notice for Vancouver:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Vancouver:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Branch wet vents in Vancouver, WA can mask gurgling as a main-line issue.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-We coordinate local dispatch coverage around Vancouver, WA and nearby ZIP sectors.
+Polybutylene manifold tags in Vancouver, WA basements should be photographed before any wall chase opens.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Vancouver, WA.
 
-Field note: Wind exposure category reviewed for ZIP sector 98662/98663/98660.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 98662/98663/98660 intake.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 98662, 98663, 98660, 98683, 98665 (county grid: Clark County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 98684.
+
+In Vancouver, WA, slab leaks often present as warm spots before wall stains appear.
+
+Galvanized segments in Vancouver, WA may restrict flow long before visible corrosion.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 278126: recirculation pump amp draw captured before Vancouver, WA branch isolation.
+
+Pressure trace 278126: meter-pit clearance and dielectric union checklist staged for Vancouver, WA near elevation 180 ft.
+
+plumbing brief: slab penetration sleeve seal and copper pinhole cluster were cross-checked for the Vancouver intake packet.
+
+Primary postal anchor 98684 with multi-ZIP overlap in Vancouver; field packets tag Clark County for county-grid reconciliation.
 
 Service reference: WA-98684-1aebb129

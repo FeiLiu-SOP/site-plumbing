@@ -12,26 +12,43 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2000, -88.0900", "Lake County / elevation 892 ft band", "Lake County / primary ZIP 60047", "Lake County / ZIP 60047 sector"]
-zillowHomeValueUsd: 638897
 ---
 
-**Engineering Notice for Lake Zurich:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Lake Zurich:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-Our service coordination centers on Lake Zurich, IL coverage windows and verified intake details.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Irrigation cross-connections in Lake Zurich, IL can back-siphon domestic lines during main breaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Structured milestones protect both sides when scheduling work.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60047.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Wind exposure category reviewed for ZIP sector 60047.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 60047 (county grid: Lake County).
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Trenchless pulls in Lake Zurich, IL require pit dimensions verified against utility locate marks.
+
+Basement floor drains in Lake Zurich, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lake Zurich, IL.
+
+Permit note: Main water line replacement in Lake Zurich, IL may require ROW restoration planning.
+
+Lineage note 264122: recirculation pump amp draw captured before Lake Zurich, IL branch isolation.
+
+Pressure trace 264122: meter-pit clearance and dielectric union checklist staged for Lake Zurich, IL near elevation 892 ft.
+
+Scope trace: cleanout riser height plus water heater T&P path referenced in Lake County county grid review.
+
+On-site sector marker: Lake County / elevation 892 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60047-7445e82c

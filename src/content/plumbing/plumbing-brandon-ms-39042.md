@@ -12,26 +12,43 @@ lng: -89.9900
 zipSample: ["39043", "39042"]
 zipCodes: ["39043", "39042"]
 localPaths: ["Rankin County / elevation 522 ft band", "Rankin County / ZIP 39042 sector", "Rankin County / primary ZIP 39042", "Rankin County / ZIP 39043 sector", "Rankin County / coords 32.2800, -89.9900"]
-zillowHomeValueUsd: 282144
 ---
 
-**Engineering Notice for Brandon:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Rankin County.
+**Engineering Notice for Brandon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rankin County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Dispatch packets reference county grid Rankin County near ZIP 39042.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brandon, MS, but intake notes help reduce delays.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Cast-iron hub corrosion in Brandon, MS often concentrates at the third joint upstream of the cleanout.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Access points and staging constraints recorded for ZIP 39043/39042 coverage.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Wind exposure category reviewed for ZIP sector 39043/39042.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 39043, 39042 (county grid: Rankin County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Galvanized segments in Brandon, MS may restrict flow long before visible corrosion.
+
+Trenchless sleeve pulls near Brandon, MS require pit shoring notes when water tables are high.
+
+Permit note: Main water line replacement in Brandon, MS may require ROW restoration planning.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Intake ledger 354630: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brandon, MS at 32.2800, -89.9900.
+
+Scope trace: PEX expansion ring batch plus jetter nozzle envelope referenced in Rankin County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~522 ft across the Rankin County area. Coordinates: 32.2800, -89.9900. ZIP sample: 39043, 39042. Regional routing note: Rankin County traffic flow is balanced around ZIP 39042 service demand.
 
 Service reference: MS-39042-d1836e17

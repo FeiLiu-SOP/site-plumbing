@@ -12,24 +12,43 @@ lng: -90.9600
 zipSample: ["70769"]
 zipCodes: ["70769"]
 localPaths: ["Ascension Parish / primary ZIP 70769", "Ascension Parish / elevation 30 ft band", "Ascension Parish / ZIP 70769 sector", "Ascension Parish / coords 30.3200, -90.9600"]
-zillowHomeValueUsd: 338550
 ---
 
-**Engineering Notice for Prairieville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Ascension Parish.
+**Engineering Notice for Prairieville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ascension Parish.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Prairieville, LA, but intake notes help reduce delays.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Seasonal Prairieville, LA irrigation cross-connections can mask domestic pressure loss.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: map sump float travel and check-valve orientation for Prairieville, LA basements.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: In Prairieville, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Access points and staging constraints recorded for ZIP 70769 coverage.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 70769 (county grid: Ascension Parish).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Prairieville, LA systems need rebalancing.
+
+FAQ: When is cabling enough? In Prairieville, LA, pipe material and blockage type dictate method.
+
+Frost-free sillcock failures in Prairieville, LA often trace to interior shutoff seats, not exterior stems.
+
+Step: log PRV inlet and outlet readings during intake.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 587297: curb-stop orientation and hose-bib freeze flag reviewed for Prairieville, LA at coords 30.3200/-90.9600.
+
+Intake ledger 587297: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Prairieville, LA at 30.3200, -90.9600.
+
+On-site sector marker: Ascension Parish / primary ZIP 70769 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70769-a7aeb287

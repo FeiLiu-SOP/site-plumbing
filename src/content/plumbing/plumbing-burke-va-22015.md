@@ -12,24 +12,41 @@ lng: -77.2600
 zipSample: ["22015", "22152", "22009", "22153"]
 zipCodes: ["22152", "22009", "22153", "22015"]
 localPaths: ["Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / elevation 348 ft band", "Fairfax County / ZIP 22152 sector", "Fairfax County / coords 38.7800, -77.2600"]
-zillowHomeValueUsd: 733841
 ---
 
-**Engineering Notice for Burke:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Burke:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 22015.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burke, VA, but intake notes help reduce delays.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our service coordination centers on Burke, VA coverage windows and verified intake details.
+Expansion tank pre-charge loss in Burke, VA often tracks heater replacement deferrals.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Access points and staging constraints recorded for ZIP 22152/22015/22153 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 22152, 22015, 22153, 22009 (county grid: Fairfax County).
+Stack vent offsets in Burke, VA older duplexes can mask tub gurgle as a main-line failure.
+
+Dispatch packets reference county grid Fairfax County near ZIP 22015.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Dual-water-meter setups in Burke, VA irrigation zones need backflow logs before line replacement.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Irrigation cross-connections in Burke, VA can back-siphon domestic lines during main breaks.
+
+Fixture roster 155061: toilet flange spacer kit and shower cartridge seat score queued for Burke, VA walk-through.
+
+ZIP-corridor snapshot for Burke, VA: sampled sectors include 22015, 22009, 22153, 22152; county routing grid remains Fairfax County.
 
 Service reference: VA-22015-c10d328e

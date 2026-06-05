@@ -12,26 +12,45 @@ lng: -85.5900
 zipSample: ["49008", "49005", "49007", "49006", "49019"]
 zipCodes: ["49019", "49005", "49001", "49074", "49007", "49008", "49006"]
 localPaths: ["Kalamazoo County / ZIP 49006 sector", "Kalamazoo County / ZIP 49005 sector", "Kalamazoo County / primary ZIP 49001", "Kalamazoo County / elevation 784 ft band", "Kalamazoo County / coords 42.2700, -85.5900"]
-zillowHomeValueUsd: 163344
 ---
 
-**Engineering Notice for Kalamazoo:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Kalamazoo County.
+**Engineering Notice for Kalamazoo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kalamazoo County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kalamazoo, MI, but intake notes help reduce delays.
+Book sump and supply-line checks in one written scope. Serving ZIP Code: 49001.
 
-Tip: confirm licensing and insurance before approving work.
+Irrigation cross-connections in Kalamazoo, MI can back-siphon domestic lines during main breaks.
 
-Our service coordination centers on Kalamazoo, MI coverage windows and verified intake details.
+Step: log PRV inlet and outlet readings during intake.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Polybutylene manifold tags in Kalamazoo, MI basements should be photographed before any wall chase opens.
 
-Field note: Access points and staging constraints recorded for ZIP 49019/49008/49006 coverage.
+Branch wet vents in Kalamazoo, MI can mask gurgling as a main-line issue.
 
-Field note: Connection points spot-checked where accessible (ZIP 49019/49008/49006 zone).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 49019, 49008, 49006, 49007, 49001 (county grid: Kalamazoo County).
+Dual-water-meter setups in Kalamazoo, MI irrigation zones need backflow logs before line replacement.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is cabling enough? In Kalamazoo, MI, pipe material and blockage type dictate method.
+
+Basement floor drains in Kalamazoo, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Hydrostatic holds in Kalamazoo, MI slab circuits run overnight when listening mics show ambiguous hits.
+
+Pressure trace 188457: meter-pit clearance and dielectric union checklist staged for Kalamazoo, MI near elevation 784 ft.
+
+Lineage note 188457: recirculation pump amp draw captured before Kalamazoo, MI branch isolation.
+
+plumbing brief: jetter nozzle envelope and recirculation pump amp draw were cross-checked for the Kalamazoo intake packet.
+
+Primary postal anchor 49001 with multi-ZIP overlap in Kalamazoo; field packets tag Kalamazoo County for county-grid reconciliation.
 
 Service reference: MI-49001-a48bf37c

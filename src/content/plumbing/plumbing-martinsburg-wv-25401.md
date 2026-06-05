@@ -12,26 +12,39 @@ lng: -77.9800
 zipSample: ["25404", "25402", "25403", "25401"]
 zipCodes: ["25401", "25403", "25402", "25404"]
 localPaths: ["Berkeley County / ZIP 25402 sector", "Berkeley County / ZIP 25403 sector", "Berkeley County / ZIP 25404 sector", "Berkeley County / primary ZIP 25401", "Berkeley County / ZIP 25401 sector"]
-zillowHomeValueUsd: 252579
 ---
 
-**Engineering Notice for Martinsburg:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Martinsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hydrostatic holds in Martinsburg, WV slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: confirm licensing and insurance before approving work.
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 25401.
 
-We coordinate local dispatch coverage around Martinsburg, WV and nearby ZIP sectors.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Martinsburg, WV.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log PRV inlet and outlet readings during intake.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: When should sump battery backups be load-tested? In Martinsburg, WV, before spring thaw and hurricane remnants.
 
-Field note: Wind exposure category reviewed for ZIP sector 25403/25401/25402.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Connection points spot-checked where accessible (ZIP 25403/25401/25402 zone).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch sectors sampled: ZIP 25403, 25401, 25402, 25404 (county grid: Berkeley County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+CPVC solvent weld times shift with ambient humidity during Martinsburg, WV shoulder seasons.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Lineage note 866354: recirculation pump amp draw captured before Martinsburg, WV branch isolation.
+
+plumbing brief: dielectric union checklist and scale coupon sampling were cross-checked for the Martinsburg intake packet.
+
+ZIP-corridor snapshot for Martinsburg, WV: sampled sectors include 25403, 25402, 25404, 25401; county routing grid remains Berkeley County.
 
 Service reference: WV-25401-e0c2ed92

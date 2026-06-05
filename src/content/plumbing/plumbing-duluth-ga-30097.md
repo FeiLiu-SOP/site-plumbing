@@ -12,27 +12,41 @@ lng: -84.1500
 zipSample: ["30098", "30096", "30097"]
 zipCodes: ["30097", "30096", "30098"]
 localPaths: ["Gwinnett County / ZIP 30097 sector", "Gwinnett County / primary ZIP 30097", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / ZIP 30098 sector", "Gwinnett County / elevation 1083 ft band"]
-zillowHomeValueUsd: 720351
 ---
 
-**Engineering Notice for Duluth:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Duluth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30097.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 30097.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Main water line replacement in Duluth, GA may require ROW restoration planning.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Duluth, GA can back-siphon domestic lines during main breaks.
 
-Tip: request a written scope before work starts.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Duluth, GA, but intake notes help reduce delays.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Duluth, GA.
 
-Field note: Access points and staging constraints recorded for ZIP 30096/30098/30097 coverage.
+CPVC solvent weld times shift with ambient humidity during Duluth, GA shoulder seasons.
 
-Field note: Moisture pathway inspection logged near ZIP 30096/30098/30097 intake.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 30096, 30098, 30097 (county grid: Gwinnett County).
+Hydro-jetting in Duluth, GA requires camera confirmation before nozzle pressure is raised.
+
+Polybutylene manifold tags in Duluth, GA basements should be photographed before any wall chase opens.
+
+Risk flag: In Duluth, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Duluth, GA systems need rebalancing.
+
+Drain map 441218: camera-pass priority and expansion-tank pre-charge noted for Duluth, GA postal sector 30097.
+
+Flow dossier 441218: branch wet-vent geometry and jetting nozzle envelope logged for Duluth, GA county grid Gwinnett County (ZIP 30097).
+
+Primary postal anchor 30097 with multi-ZIP overlap in Duluth; field packets tag Gwinnett County for county-grid reconciliation.
 
 Service reference: GA-30097-ae1100d0

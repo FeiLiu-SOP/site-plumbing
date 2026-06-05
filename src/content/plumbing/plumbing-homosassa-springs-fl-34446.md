@@ -12,24 +12,39 @@ lng: -82.5400
 zipSample: ["34447", "34446", "34448"]
 zipCodes: ["34446", "34447", "34448"]
 localPaths: ["Citrus County / primary ZIP 34446", "Citrus County / coords 28.8100, -82.5400", "Citrus County / elevation 43 ft band", "Citrus County / ZIP 34447 sector", "Citrus County / ZIP 34446 sector"]
-zillowHomeValueUsd: 319379
 ---
 
-**Engineering Notice for Homosassa Springs:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Citrus County.
+**Engineering Notice for Homosassa Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Citrus County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Polybutylene manifold tags in Homosassa Springs, FL basements should be photographed before any wall chase opens.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Across Homosassa Springs, FL, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Wind exposure category reviewed for ZIP sector 34447/34446/34448.
+Risk flag: In Homosassa Springs, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 34447, 34446, 34448 (county grid: Citrus County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Irrigation cross-connections in Homosassa Springs, FL can back-siphon domestic lines during main breaks.
+
+Step: camera-pass main lines in Homosassa Springs, FL before jetting older clay or cast iron.
+
+Hydro-jetting in Homosassa Springs, FL requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Supply audit 934384: curb-stop orientation and hose-bib freeze flag reviewed for Homosassa Springs, FL at coords 28.8100/-82.5400.
+
+Drain map 934384: camera-pass priority and expansion-tank pre-charge noted for Homosassa Springs, FL postal sector 34446.
+
+On-site sector marker: Citrus County / coords 28.8100, -82.5400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34446-547e4ee7

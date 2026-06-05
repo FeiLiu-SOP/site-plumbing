@@ -12,27 +12,39 @@ lng: -87.8500
 zipSample: ["60099"]
 zipCodes: ["60099"]
 localPaths: ["Lake County / primary ZIP 60099", "Lake County / elevation 699 ft band", "Lake County / coords 42.4600, -87.8500", "Lake County / ZIP 60099 sector"]
-zillowHomeValueUsd: 256983
 ---
 
-**Engineering Notice for Zion:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Zion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Zion, IL, but intake notes help reduce delays.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate local dispatch coverage around Zion, IL and nearby ZIP sectors.
+Stack vent offsets in Zion, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Water heater anode type may change with Zion, IL hardness profiles.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60099.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Access points and staging constraints recorded for ZIP 60099 coverage.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Moisture pathway inspection logged near ZIP 60099 intake.
+Hydrostatic holds in Zion, IL slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 60099 (county grid: Lake County).
+Irrigation cross-connections in Zion, IL can back-siphon domestic lines during main breaks.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+CPVC solvent weld times shift with ambient humidity during Zion, IL shoulder seasons.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Flow dossier 115245: branch wet-vent geometry and jetting nozzle envelope logged for Zion, IL county grid Lake County (ZIP 60099).
+
+Fixture roster 115245: toilet flange spacer kit and shower cartridge seat score queued for Zion, IL walk-through.
+
+On-site sector marker: Lake County / ZIP 60099 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60099-bba2662f

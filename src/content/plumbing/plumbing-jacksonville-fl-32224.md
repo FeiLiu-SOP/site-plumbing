@@ -12,26 +12,41 @@ lng: -81.6700
 zipSample: ["32214", "32247", "32255", "32232", "32206"]
 zipCodes: ["32226", "32225", "32277", "32227", "32202", "32255", "32245", "32257", "32218", "32241", "32217", "32228"]
 localPaths: ["Duval County / ZIP 32214 sector", "Duval County / ZIP 32247 sector", "Duval County / ZIP 32255 sector", "Duval County / elevation 46 ft band", "Duval County / primary ZIP 32224"]
-zillowHomeValueUsd: 454170
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Duval County.
+**Engineering Notice for Jacksonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Duval County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dispatch packets reference county grid Duval County near ZIP 32224.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Connection points spot-checked where accessible (ZIP 32250/32246/32209 zone).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 32250/32246/32209.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 32250, 32246, 32209, 32257, 32225 (county grid: Duval County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Across Jacksonville, FL, main-line bellies can trap debris even when fixtures drain normally.
+
+Risk flag: In Jacksonville, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Trenchless pulls in Jacksonville, FL require pit dimensions verified against utility locate marks.
+
+Supply audit 719414: curb-stop orientation and hose-bib freeze flag reviewed for Jacksonville, FL at coords 30.3300/-81.6700.
+
+plumbing brief: thermal expansion loop check and water heater T&P path were cross-checked for the Jacksonville intake packet.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Duval County and primary ZIP 32224. Terrain reference: 46 ft. Center point: 30.3300, -81.6700. ZIP sample: 32204, 32211, 32228, 32255, 32231. Logistics priority: Serving residential sectors across Duval County and north-east ZIP 32224 grid.
 
 Service reference: FL-32224-397bb9a5

@@ -12,27 +12,41 @@ lng: -74.2400
 zipSample: ["07036"]
 zipCodes: ["07036"]
 localPaths: ["Union County / ZIP 07036 sector", "Union County / coords 40.6300, -74.2400", "Union County / primary ZIP 07036", "Union County / elevation 7 ft band"]
-zillowHomeValueUsd: 537184
 ---
 
-**Engineering Notice for Linden:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Linden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 07036.
+Dual-water-meter setups in Linden, NJ irrigation zones need backflow logs before line replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Branch wet vents in Linden, NJ can mask gurgling as a main-line issue.
 
-Our service coordination centers on Linden, NJ coverage windows and verified intake details.
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Linden, NJ systems need rebalancing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Linden, NJ, but intake notes help reduce delays.
+Risk flag: In Linden, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Connection points spot-checked where accessible (ZIP 07036 zone).
+Stack vent offsets in Linden, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07036.
+Galvanized segments in Linden, NJ may restrict flow long before visible corrosion.
 
-Dispatch sectors sampled: ZIP 07036 (county grid: Union County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Basement floor drains in Linden, NJ should be snaked only after trap arm geometry is confirmed on camera.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Dispatch packets reference county grid Union County near ZIP 07036.
+
+Sewer gas odors in Linden, NJ should trigger trap seal and vent path review.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Drain map 443980: camera-pass priority and expansion-tank pre-charge noted for Linden, NJ postal sector 07036.
+
+Supply audit 443980: curb-stop orientation and hose-bib freeze flag reviewed for Linden, NJ at coords 40.6300/-74.2400.
+
+On-site sector marker: Union County / ZIP 07036 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07036-2f5d1832

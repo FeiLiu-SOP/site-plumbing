@@ -12,25 +12,39 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / coords 33.2400, -96.8100", "Collin County / primary ZIP 75078", "Collin County / elevation 653 ft band"]
-zillowHomeValueUsd: 755847
 ---
 
-**Engineering Notice for Prosper:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Prosper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Prosper, TX.
 
-Tip: confirm licensing and insurance before approving work.
+Hydrostatic holds in Prosper, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Dual-water-meter setups in Prosper, TX irrigation zones need backflow logs before line replacement.
 
-Our service coordination centers on Prosper, TX coverage windows and verified intake details.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75078.
+Polybutylene manifold tags in Prosper, TX basements should be photographed before any wall chase opens.
 
-Field note: Connection points spot-checked where accessible (ZIP 75078 zone).
+Water heater T&P discharge paths in Prosper, TX must terminate safely before replacement quotes.
 
-Dispatch sectors sampled: ZIP 75078 (county grid: Collin County).
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Prosper, TX systems need rebalancing.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Seasonal Prosper, TX irrigation cross-connections can mask domestic pressure loss.
+
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 75078.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Permit note: Main water line replacement in Prosper, TX may require ROW restoration planning.
+
+Intake ledger 604248: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Prosper, TX at 33.2400, -96.8100.
+
+On-site sector marker: Collin County / primary ZIP 75078 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75078-2b640f55

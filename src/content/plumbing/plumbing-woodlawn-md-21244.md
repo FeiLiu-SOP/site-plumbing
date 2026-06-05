@@ -12,27 +12,39 @@ lng: -76.7500
 zipSample: ["21235", "21244", "21289", "21228", "21207"]
 zipCodes: ["21235", "21207", "21228", "21289", "21241", "21244"]
 localPaths: ["Baltimore County / ZIP 21289 sector", "Baltimore County / primary ZIP 21244", "Baltimore County / ZIP 21244 sector", "Baltimore County / elevation 413 ft band", "Baltimore County / ZIP 21207 sector"]
-zillowHomeValueUsd: 322122
 ---
 
-**Engineering Notice for Woodlawn:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Woodlawn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate local dispatch coverage around Woodlawn, MD and nearby ZIP sectors.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Local conditions in Woodlawn, MD can affect timelines and material choices.
+Irrigation cross-connections in Woodlawn, MD can back-siphon domestic lines during main breaks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 21244.
+Branch wet vents in Woodlawn, MD can mask gurgling as a main-line issue.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Woodlawn, MD, but intake notes help reduce delays.
+Stack vent offsets in Woodlawn, MD older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Wind exposure category reviewed for ZIP sector 21228/21235/21289.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Access points and staging constraints recorded for ZIP 21228/21235/21289 coverage.
+Frost-free sillcock failures in Woodlawn, MD often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 21228, 21235, 21289, 21244, 21207 (county grid: Baltimore County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Water heater anode type may change with Woodlawn, MD hardness profiles.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Trenchless sleeve pulls near Woodlawn, MD require pit shoring notes when water tables are high.
+
+Pressure trace 334259: meter-pit clearance and dielectric union checklist staged for Woodlawn, MD near elevation 413 ft.
+
+Supply audit 334259: curb-stop orientation and hose-bib freeze flag reviewed for Woodlawn, MD at coords 39.3100/-76.7500.
+
+On-site sector marker: Baltimore County / ZIP 21241 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21244-dadc97a7

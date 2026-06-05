@@ -12,25 +12,39 @@ lng: -111.5300
 zipSample: ["85119", "85117", "85120", "85178"]
 zipCodes: ["85178", "85117", "85120", "85119"]
 localPaths: ["Pinal County / ZIP 85178 sector", "Pinal County / ZIP 85119 sector", "Pinal County / coords 33.4000, -111.5300", "Pinal County / elevation 1699 ft band", "Pinal County / ZIP 85117 sector"]
-zillowHomeValueUsd: 398022
 ---
 
-**Engineering Notice for Apache Junction:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Apache Junction:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Apache Junction, AZ, but intake notes help reduce delays.
+Polybutylene manifold tags in Apache Junction, AZ basements should be photographed before any wall chase opens.
 
-In Apache Junction, AZ, urgent plumbing issues can escalate quickly.
+Irrigation cross-connections in Apache Junction, AZ can back-siphon domestic lines during main breaks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 85119.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85117/85178/85120.
+Frost-free sillcock failures in Apache Junction, AZ often trace to interior shutoff seats, not exterior stems.
 
-Dispatch sectors sampled: ZIP 85117, 85178, 85120, 85119 (county grid: Pinal County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Galvanized segments in Apache Junction, AZ may restrict flow long before visible corrosion.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hydrostatic holds in Apache Junction, AZ slab circuits run overnight when listening mics show ambiguous hits.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Apache Junction, AZ, slab leaks can misroute as foundation issues without listening equipment.
+
+Flow dossier 870218: branch wet-vent geometry and jetting nozzle envelope logged for Apache Junction, AZ county grid Pinal County (ZIP 85119).
+
+Fixture roster 870218: toilet flange spacer kit and shower cartridge seat score queued for Apache Junction, AZ walk-through.
+
+On-site sector marker: Pinal County / primary ZIP 85119 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85119-b7337d78

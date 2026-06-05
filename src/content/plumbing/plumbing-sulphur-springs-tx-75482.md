@@ -12,26 +12,41 @@ lng: -95.6100
 zipSample: ["75483", "75482"]
 zipCodes: ["75483", "75482"]
 localPaths: ["Hopkins County / coords 33.1400, -95.6100", "Hopkins County / elevation 522 ft band", "Hopkins County / ZIP 75483 sector", "Hopkins County / ZIP 75482 sector", "Hopkins County / primary ZIP 75482"]
-zillowHomeValueUsd: 243082
 ---
 
-**Engineering Notice for Sulphur Springs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Hopkins County.
+**Engineering Notice for Sulphur Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hopkins County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Basement floor drains in Sulphur Springs, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: avoid large upfront payments without milestones.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log PRV inlet and outlet readings during intake.
 
-Local conditions in Sulphur Springs, TX can affect timelines and material choices.
+Cast-iron hub corrosion in Sulphur Springs, TX often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75483/75482.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Wind exposure category reviewed for ZIP sector 75483/75482.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 75483, 75482 (county grid: Hopkins County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Permit note: Main water line replacement in Sulphur Springs, TX may require ROW restoration planning.
+
+Stack vent offsets in Sulphur Springs, TX older duplexes can mask tub gurgle as a main-line failure.
+
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
+
+Intake ledger 958769: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Sulphur Springs, TX at 33.1400, -95.6100.
+
+On-site sector marker: Hopkins County / ZIP 75483 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75482-9c59c316

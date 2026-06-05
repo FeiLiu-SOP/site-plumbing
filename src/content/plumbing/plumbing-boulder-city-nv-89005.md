@@ -12,24 +12,39 @@ lng: -114.9300
 zipSample: ["89006", "89005"]
 zipCodes: ["89005", "89006"]
 localPaths: ["Clark County / coords 35.8400, -114.9300", "Clark County / ZIP 89006 sector", "Clark County / elevation 1854 ft band", "Clark County / ZIP 89005 sector", "Clark County / primary ZIP 89005"]
-zillowHomeValueUsd: 470990
 ---
 
-**Engineering Notice for Boulder City:** Structural loading calculated based on 1854 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Boulder City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Boulder City, NV.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Dispatch packets reference county grid Clark County near ZIP 89005.
 
-Tip: confirm licensing and insurance before approving work.
+CPVC solvent weld times shift with ambient humidity during Boulder City, NV shoulder seasons.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: In Boulder City, NV, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89005/89006.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Boulder City, NV.
 
-Dispatch sectors sampled: ZIP 89005, 89006 (county grid: Clark County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Cleanout access limits in Boulder City, NV frequently extend drain cleaning duration.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Polybutylene manifold tags in Boulder City, NV basements should be photographed before any wall chase opens.
+
+Hydrostatic holds in Boulder City, NV slab circuits run overnight when listening mics show ambiguous hits.
+
+Recirculation pump failures in Boulder City, NV can mimic fixture-specific clogs.
+
+Intake ledger 169560: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Boulder City, NV at 35.8400, -114.9300.
+
+Coordinate-anchored dispatch note: center reference 35.8400, -114.9300 at elevation ~1854 ft aligns with Clark County intake staging.
 
 Service reference: NV-89005-f600a257

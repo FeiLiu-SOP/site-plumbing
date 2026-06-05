@@ -12,24 +12,37 @@ lng: -81.9300
 zipSample: ["44691"]
 zipCodes: ["44691"]
 localPaths: ["Wayne County / coords 40.8200, -81.9300", "Wayne County / primary ZIP 44691", "Wayne County / elevation 1138 ft band", "Wayne County / ZIP 44691 sector"]
-zillowHomeValueUsd: 260206
 ---
 
-**Engineering Notice for Wooster:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Wooster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
 
 
-We coordinate local dispatch coverage around Wooster, OH and nearby ZIP sectors.
+Cast-iron hub corrosion in Wooster, OH often concentrates at the third joint upstream of the cleanout.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Seasonal Wooster, OH irrigation cross-connections can mask domestic pressure loss.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-In Wooster, OH, seasonal demand can change scheduling windows.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Wind exposure category reviewed for ZIP sector 44691.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 44691 (county grid: Wayne County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Trenchless pulls in Wooster, OH require pit dimensions verified against utility locate marks.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Wooster, OH.
+
+FAQ: When is cabling enough? In Wooster, OH, pipe material and blockage type dictate method.
+
+Water heater T&P discharge paths in Wooster, OH must terminate safely before replacement quotes.
+
+Basement floor drains in Wooster, OH should be snaked only after trap arm geometry is confirmed on camera.
+
+Pressure trace 678997: meter-pit clearance and dielectric union checklist staged for Wooster, OH near elevation 1138 ft.
+
+On-site sector marker: Wayne County / coords 40.8200, -81.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44691-14850776

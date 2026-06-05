@@ -12,24 +12,41 @@ lng: -81.4300
 zipSample: ["44097", "44095"]
 zipCodes: ["44095", "44097"]
 localPaths: ["Lake County / primary ZIP 44095", "Lake County / ZIP 44097 sector", "Lake County / elevation 627 ft band", "Lake County / coords 41.6600, -81.4300", "Lake County / ZIP 44095 sector"]
-zillowHomeValueUsd: 197704
 ---
 
-**Engineering Notice for Eastlake:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Eastlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate local dispatch coverage around Eastlake, OH and nearby ZIP sectors.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Homeowners in Eastlake, OH often face sudden plumbing problems that require fast action.
+Confirm cleanout locations during the same visit. Serving ZIP Code: 44095.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should sump battery backups be load-tested? In Eastlake, OH, before spring thaw and hurricane remnants.
 
-Field note: Access points and staging constraints recorded for ZIP 44095/44097 coverage.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 44095, 44097 (county grid: Lake County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cast-iron hub corrosion in Eastlake, OH often concentrates at the third joint upstream of the cleanout.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Permit note: Main water line replacement in Eastlake, OH may require ROW restoration planning.
+
+Hose bib split patterns in Eastlake, OH often follow missed winterization.
+
+Lineage note 472320: recirculation pump amp draw captured before Eastlake, OH branch isolation.
+
+Pressure trace 472320: meter-pit clearance and dielectric union checklist staged for Eastlake, OH near elevation 627 ft.
+
+On-site sector marker: Lake County / ZIP 44095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44095-7c2cbb96

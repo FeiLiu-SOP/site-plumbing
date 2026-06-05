@@ -12,26 +12,37 @@ lng: -93.9300
 zipSample: ["77643", "77642", "77640", "77641", "77655"]
 zipCodes: ["77641", "77642", "77655", "77640", "77643"]
 localPaths: ["Jefferson County / ZIP 77643 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / primary ZIP 77655", "Jefferson County / coords 29.8600, -93.9300", "Jefferson County / ZIP 77655 sector"]
-zillowHomeValueUsd: 120453
 ---
 
-**Engineering Notice for Port Arthur:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Port Arthur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-Our service coordination centers on Port Arthur, TX coverage windows and verified intake details.
+Polybutylene manifold tags in Port Arthur, TX basements should be photographed before any wall chase opens.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In Port Arthur, TX, slab leaks often present as warm spots before wall stains appear.
 
-In Port Arthur, TX, urgent plumbing issues can escalate quickly.
+Branch wet vents in Port Arthur, TX can mask gurgling as a main-line issue.
 
-Field note: Wind exposure category reviewed for ZIP sector 77640/77641/77642.
+Fixture shutoff stiffness in Port Arthur, TX may indicate mineral bridging behind stems.
 
-Field note: Moisture pathway inspection logged near ZIP 77640/77641/77642 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 77640, 77641, 77642, 77643, 77655 (county grid: Jefferson County).
+Permit note: Main water line replacement in Port Arthur, TX may require ROW restoration planning.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Cast-iron hub corrosion in Port Arthur, TX often concentrates at the third joint upstream of the cleanout.
+
+Stack vent offsets in Port Arthur, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless sleeve pulls near Port Arthur, TX require pit shoring notes when water tables are high.
+
+Lineage note 132748: recirculation pump amp draw captured before Port Arthur, TX branch isolation.
+
+Coordinate-anchored dispatch note: center reference 29.8600, -93.9300 at elevation ~0 ft aligns with Jefferson County intake staging.
 
 Service reference: TX-77655-ff6a482f

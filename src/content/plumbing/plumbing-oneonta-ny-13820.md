@@ -12,26 +12,37 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / ZIP 13820 sector", "Otsego County / primary ZIP 13820", "Otsego County / elevation 1155 ft band", "Otsego County / coords 42.4600, -75.0700"]
-zillowHomeValueUsd: 211567
 ---
 
-**Engineering Notice for Oneonta:** Structural loading calculated based on 1155 ft terrain assessment. Regional dispatch grid: Otsego County.
+**Engineering Notice for Oneonta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Otsego County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Stack vent offsets in Oneonta, NY older duplexes can mask tub gurgle as a main-line failure.
 
-Structured milestones protect both sides when scheduling work.
+Across Oneonta, NY, main-line bellies can trap debris even when fixtures drain normally.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-In Oneonta, NY, seasonal demand can change scheduling windows.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-We coordinate local dispatch coverage around Oneonta, NY and nearby ZIP sectors.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Moisture pathway inspection logged near ZIP 13820 intake.
+Permit note: Main water line replacement in Oneonta, NY may require ROW restoration planning.
 
-Field note: Wind exposure category reviewed for ZIP sector 13820.
+CPVC solvent weld times shift with ambient humidity during Oneonta, NY shoulder seasons.
 
-Dispatch sectors sampled: ZIP 13820 (county grid: Otsego County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Dual-water-meter setups in Oneonta, NY irrigation zones need backflow logs before line replacement.
+
+Hydrostatic holds in Oneonta, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Flow dossier 824511: branch wet-vent geometry and jetting nozzle envelope logged for Oneonta, NY county grid Otsego County (ZIP 13820).
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~1155 ft across the Otsego County area. Coordinates: 42.4600, -75.0700. ZIP sample: 13820. Logistics priority: Serving residential sectors across Otsego County and north-east ZIP 13820 grid.
 
 Service reference: NY-13820-18b48b88

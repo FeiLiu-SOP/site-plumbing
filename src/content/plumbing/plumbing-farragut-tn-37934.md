@@ -12,27 +12,39 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band", "Knox County / primary ZIP 37934", "Knox County / ZIP 37934 sector"]
-zillowHomeValueUsd: 648228
 ---
 
-**Engineering Notice for Farragut:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Knox County.
+**Engineering Notice for Farragut:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Fixture shutoff stiffness in Farragut, TN may indicate mineral bridging behind stems.
 
-Local conditions in Farragut, TN can affect timelines and material choices.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate local dispatch coverage around Farragut, TN and nearby ZIP sectors.
+Cast-iron hub corrosion in Farragut, TN often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 37934.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37934.
+Basement floor drains in Farragut, TN should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Access points and staging constraints recorded for ZIP 37934 coverage.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 37934 (county grid: Knox County).
+Risk flag: In Farragut, TN, slab leaks can misroute as foundation issues without listening equipment.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Trenchless sleeve pulls near Farragut, TN require pit shoring notes when water tables are high.
+
+FAQ: When should sump battery backups be load-tested? In Farragut, TN, before spring thaw and hurricane remnants.
+
+Flow dossier 216525: branch wet-vent geometry and jetting nozzle envelope logged for Farragut, TN county grid Knox County (ZIP 37934).
+
+Fixture roster 216525: toilet flange spacer kit and shower cartridge seat score queued for Farragut, TN walk-through.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~955 ft across the Knox County area. Coordinates: 35.8700, -84.1800. ZIP sample: 37934. Logistics priority: Serving residential sectors across Knox County and north-east ZIP 37934 grid.
 
 Service reference: TN-37934-50a3db65

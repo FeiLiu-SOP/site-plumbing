@@ -12,27 +12,43 @@ lng: -103.2200
 zipSample: ["57701", "57703", "57702"]
 zipCodes: ["57703", "57702", "57701"]
 localPaths: ["Pennington County / ZIP 57702 sector", "Pennington County / elevation 3379 ft band", "Pennington County / coords 44.0700, -103.2200", "Pennington County / primary ZIP 57702", "Pennington County / ZIP 57703 sector"]
-zillowHomeValueUsd: 448742
 ---
 
-**Engineering Notice for Rapid City:** Structural loading calculated based on 3379 ft terrain assessment. Regional dispatch grid: Pennington County.
+**Engineering Notice for Rapid City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pennington County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 57702.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our service coordination centers on Rapid City, SD coverage windows and verified intake details.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: avoid large upfront payments without milestones.
+Galvanized segments in Rapid City, SD may restrict flow long before visible corrosion.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 57703/57701/57702.
+FAQ: Is hydro-jetting always appropriate? In Rapid City, SD, pipe material and blockage type dictate method.
 
-Field note: Wind exposure category reviewed for ZIP sector 57703/57701/57702.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 57703, 57701, 57702 (county grid: Pennington County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Trenchless sleeve pulls near Rapid City, SD require pit shoring notes when water tables are high.
+
+Stack vent offsets in Rapid City, SD older duplexes can mask tub gurgle as a main-line failure.
+
+Trenchless pulls in Rapid City, SD require pit dimensions verified against utility locate marks.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 394476: meter-pit clearance and dielectric union checklist staged for Rapid City, SD near elevation 3379 ft.
+
+Drain map 394476: camera-pass priority and expansion-tank pre-charge noted for Rapid City, SD postal sector 57702.
+
+plumbing brief: thermal expansion loop check and sump float travel were cross-checked for the Rapid City intake packet.
+
+Primary postal anchor 57702 with multi-ZIP overlap in Rapid City; field packets tag Pennington County for county-grid reconciliation.
 
 Service reference: SD-57702-beaeb0b3

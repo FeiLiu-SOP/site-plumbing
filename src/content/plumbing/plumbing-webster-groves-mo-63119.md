@@ -12,27 +12,41 @@ lng: -90.3500
 zipSample: ["63119"]
 zipCodes: ["63119"]
 localPaths: ["St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / primary ZIP 63119", "St. Louis County / coords 38.5900, -90.3500"]
-zillowHomeValueUsd: 378622
 ---
 
-**Engineering Notice for Webster Groves:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Webster Groves:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document dielectric unions before mixed-metal replacements.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63119.
+FAQ: Is hydro-jetting always appropriate? In Webster Groves, MO, pipe material and blockage type dictate method.
 
-Field note: Connection points spot-checked where accessible (ZIP 63119 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Access points and staging constraints recorded for ZIP 63119 coverage.
+About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch sectors sampled: ZIP 63119 (county grid: St. Louis County).
+Trenchless pulls in Webster Groves, MO require pit dimensions verified against utility locate marks.
+
+Stack vent offsets in Webster Groves, MO older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 63119.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Seasonal Webster Groves, MO irrigation cross-connections can mask domestic pressure loss.
+
+Drain map 804632: camera-pass priority and expansion-tank pre-charge noted for Webster Groves, MO postal sector 63119.
+
+Supply audit 804632: curb-stop orientation and hose-bib freeze flag reviewed for Webster Groves, MO at coords 38.5900/-90.3500.
+
+Coordinate-anchored dispatch note: center reference 38.5900, -90.3500 at elevation ~581 ft aligns with St. Louis County intake staging.
 
 Service reference: MO-63119-d31e53be

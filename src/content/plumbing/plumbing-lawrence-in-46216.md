@@ -12,24 +12,41 @@ lng: -85.9900
 zipSample: ["46249", "46226", "46216", "46235", "46236"]
 zipCodes: ["46216", "46226", "46235", "46249", "46236"]
 localPaths: ["Marion County / coords 39.8700, -85.9900", "Marion County / ZIP 46249 sector", "Marion County / ZIP 46235 sector", "Marion County / ZIP 46226 sector", "Marion County / elevation 856 ft band"]
-zillowHomeValueUsd: 309743
 ---
 
-**Engineering Notice for Lawrence:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
 
 
-Tip: request a written scope before work starts.
+Sewer gas odors in Lawrence, IN should trigger trap seal and vent path review.
 
-Our service coordination centers on Lawrence, IN coverage windows and verified intake details.
+Irrigation cross-connections in Lawrence, IN can back-siphon domestic lines during main breaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Seasonal Lawrence, IN irrigation cross-connections can mask domestic pressure loss.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lawrence, IN, but intake notes help reduce delays.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Homeowners in Lawrence, IN often face sudden plumbing problems that require fast action.
+Step: camera-pass main lines in Lawrence, IN before jetting older clay or cast iron.
 
-Field note: Connection points spot-checked where accessible (ZIP 46236/46226/46249 zone).
+Sump discharge freeze risk in Lawrence, IN should be reviewed before spring thaw cycles.
 
-Dispatch sectors sampled: ZIP 46236, 46226, 46249, 46216, 46235 (county grid: Marion County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 46216.
+
+Material note: Water heater anode type may change with Lawrence, IN hardness profiles.
+
+Dual-water-meter setups in Lawrence, IN irrigation zones need backflow logs before line replacement.
+
+Dispatch packets reference county grid Marion County near ZIP 46216.
+
+Supply audit 146781: curb-stop orientation and hose-bib freeze flag reviewed for Lawrence, IN at coords 39.8700/-85.9900.
+
+Scope trace: scale coupon sampling plus thermal expansion loop check referenced in Marion County county grid review.
+
+On-site sector marker: Marion County / elevation 856 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46216-ac482fec

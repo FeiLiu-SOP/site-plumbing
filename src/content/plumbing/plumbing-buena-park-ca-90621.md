@@ -12,26 +12,37 @@ lng: -118.0000
 zipSample: ["90622", "90624", "90620", "90621"]
 zipCodes: ["90621", "90622", "90620", "90624"]
 localPaths: ["Orange County / primary ZIP 90621", "Orange County / ZIP 90624 sector", "Orange County / ZIP 90620 sector", "Orange County / ZIP 90621 sector", "Orange County / elevation 79 ft band"]
-zillowHomeValueUsd: 896203
 ---
 
-**Engineering Notice for Buena Park:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Buena Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Buena Park, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-In Buena Park, CA, urgent plumbing issues can escalate quickly.
+Cast-iron hub corrosion in Buena Park, CA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Local conditions in Buena Park, CA can affect timelines and material choices.
+Step: photograph curb-stop and meter pit before trenching.
 
-We coordinate local dispatch coverage around Buena Park, CA and nearby ZIP sectors.
+Stack vent offsets in Buena Park, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90621/90620/90624.
+Trenchless pulls in Buena Park, CA require pit dimensions verified against utility locate marks.
 
-Field note: Moisture pathway inspection logged near ZIP 90621/90620/90624 intake.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 90621, 90620, 90624, 90622 (county grid: Orange County).
+Fixture shutoff stiffness in Buena Park, CA may indicate mineral bridging behind stems.
+
+Irrigation cross-connections in Buena Park, CA can back-siphon domestic lines during main breaks.
+
+Recirculation pump failures in Buena Park, CA can mimic fixture-specific clogs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+CPVC solvent weld times shift with ambient humidity during Buena Park, CA shoulder seasons.
+
+Drain map 723940: camera-pass priority and expansion-tank pre-charge noted for Buena Park, CA postal sector 90621.
+
+On-site sector marker: Orange County / primary ZIP 90621 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90621-9ae86d50

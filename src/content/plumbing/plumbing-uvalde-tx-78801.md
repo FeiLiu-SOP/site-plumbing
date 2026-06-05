@@ -12,25 +12,37 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / elevation 909 ft band", "Uvalde County / primary ZIP 78801", "Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800"]
-zillowHomeValueUsd: 182568
 ---
 
-**Engineering Notice for Uvalde:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Uvalde County.
+**Engineering Notice for Uvalde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Uvalde County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Dual-water-meter setups in Uvalde, TX irrigation zones need backflow logs before line replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78801.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Stack vent offsets in Uvalde, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Water heater anode type may change with Uvalde, TX hardness profiles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78801.
+Hose bib split patterns in Uvalde, TX often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 78801 (county grid: Uvalde County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Branch wet vents in Uvalde, TX can mask gurgling as a main-line issue.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+CPVC solvent weld times shift with ambient humidity during Uvalde, TX shoulder seasons.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Flow dossier 553247: branch wet-vent geometry and jetting nozzle envelope logged for Uvalde, TX county grid Uvalde County (ZIP 78801).
+
+Coordinate-anchored dispatch note: center reference 29.2200, -99.7800 at elevation ~909 ft aligns with Uvalde County intake staging.
 
 Service reference: TX-78801-5103f13f

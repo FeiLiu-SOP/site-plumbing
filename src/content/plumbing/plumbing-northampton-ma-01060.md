@@ -12,26 +12,39 @@ lng: -72.6700
 zipSample: ["01061", "01062", "01060", "01053", "01063"]
 zipCodes: ["01061", "01062", "01063", "01053", "01060"]
 localPaths: ["Hampshire County / primary ZIP 01060", "Hampshire County / ZIP 01063 sector", "Hampshire County / ZIP 01061 sector", "Hampshire County / ZIP 01053 sector", "Hampshire County / elevation 240 ft band"]
-zillowHomeValueUsd: 498155
 ---
 
-**Engineering Notice for Northampton:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Hampshire County.
+**Engineering Notice for Northampton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampshire County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should sump battery backups be load-tested? In Northampton, MA, before spring thaw and hurricane remnants.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-We coordinate local dispatch coverage around Northampton, MA and nearby ZIP sectors.
+Fixture shutoff stiffness in Northampton, MA may indicate mineral bridging behind stems.
 
-Tip: request a written scope before work starts.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Northampton, MA, but intake notes help reduce delays.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Moisture pathway inspection logged near ZIP 01060/01061/01062 intake.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Connection points spot-checked where accessible (ZIP 01060/01061/01062 zone).
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 01060, 01061, 01062, 01063, 01053 (county grid: Hampshire County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Step: map sump float travel and check-valve orientation for Northampton, MA basements.
+
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Flow dossier 629052: branch wet-vent geometry and jetting nozzle envelope logged for Northampton, MA county grid Hampshire County (ZIP 01060).
+
+Scope trace: slab penetration sleeve seal plus scale coupon sampling referenced in Hampshire County county grid review.
+
+On-site sector marker: Hampshire County / ZIP 01061 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01060-1376e272

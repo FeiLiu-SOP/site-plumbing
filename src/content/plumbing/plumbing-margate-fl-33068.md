@@ -12,26 +12,41 @@ lng: -80.2100
 zipSample: ["33063", "33093", "33068"]
 zipCodes: ["33068", "33093", "33063"]
 localPaths: ["Broward County / ZIP 33063 sector", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector", "Broward County / ZIP 33093 sector", "Broward County / coords 26.2500, -80.2100"]
-zillowHomeValueUsd: 358210
 ---
 
-**Engineering Notice for Margate:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Margate:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
 
 
-We coordinate local dispatch coverage around Margate, FL and nearby ZIP sectors.
+Branch wet vents in Margate, FL can mask gurgling as a main-line issue.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Margate, FL, but intake notes help reduce delays.
+Dual-water-meter setups in Margate, FL irrigation zones need backflow logs before line replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: avoid large upfront payments without milestones.
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 33068.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33093/33063/33068.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Connection points spot-checked where accessible (ZIP 33093/33063/33068 zone).
+Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch sectors sampled: ZIP 33093, 33063, 33068 (county grid: Broward County).
+Trenchless sleeve pulls near Margate, FL require pit shoring notes when water tables are high.
+
+Hydro-jetting in Margate, FL requires camera confirmation before nozzle pressure is raised.
+
+Irrigation cross-connections in Margate, FL can back-siphon domestic lines during main breaks.
+
+Step: map sump float travel and check-valve orientation for Margate, FL basements.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Stack vent offsets in Margate, FL older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 349985: curb-stop orientation and hose-bib freeze flag reviewed for Margate, FL at coords 26.2500/-80.2100.
+
+Field routing: scale coupon sampling paired with slab penetration sleeve seal near ZIP 33068.
+
+Coordinate-anchored dispatch note: center reference 26.2500, -80.2100 at elevation ~30 ft aligns with Broward County intake staging.
 
 Service reference: FL-33068-4dd08a16

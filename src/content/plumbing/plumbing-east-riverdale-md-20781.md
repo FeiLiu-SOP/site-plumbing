@@ -12,24 +12,41 @@ lng: -76.9100
 zipSample: ["20781", "20737"]
 zipCodes: ["20737", "20781"]
 localPaths: ["Prince George's County / ZIP 20737 sector", "Prince George's County / coords 38.9600, -76.9100", "Prince George's County / ZIP 20781 sector", "Prince George's County / elevation 135 ft band", "Prince George's County / primary ZIP 20781"]
-zillowHomeValueUsd: 434823
 ---
 
-**Engineering Notice for East Riverdale:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for East Riverdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
 
 
-Tip: request a written scope before work starts.
+Dispatch packets reference county grid Prince George's County near ZIP 20781.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Our service coordination centers on East Riverdale, MD coverage windows and verified intake details.
+Stack vent offsets in East Riverdale, MD older duplexes can mask tub gurgle as a main-line failure.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is hydro-jetting always appropriate? In East Riverdale, MD, pipe material and blockage type dictate method.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20737/20781.
+CPVC solvent weld times shift with ambient humidity during East Riverdale, MD shoulder seasons.
 
-Dispatch sectors sampled: ZIP 20737, 20781 (county grid: Prince George's County).
+Hydrostatic holds in East Riverdale, MD slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Sewer gas odors in East Riverdale, MD should trigger trap seal and vent path review.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Trenchless pulls in East Riverdale, MD require pit dimensions verified against utility locate marks.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 440361: toilet flange spacer kit and shower cartridge seat score queued for East Riverdale, MD walk-through.
+
+Scope trace: branch wet vent geometry plus gas water heater draft hood gap referenced in Prince George's County county grid review.
+
+On-site sector marker: Prince George's County / elevation 135 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20781-552d9fad

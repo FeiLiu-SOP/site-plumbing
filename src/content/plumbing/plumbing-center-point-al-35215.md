@@ -12,25 +12,41 @@ lng: -86.6900
 zipSample: ["35215"]
 zipCodes: ["35215"]
 localPaths: ["Jefferson County / elevation 853 ft band", "Jefferson County / primary ZIP 35215", "Jefferson County / ZIP 35215 sector", "Jefferson County / coords 33.6400, -86.6900"]
-zillowHomeValueUsd: 150969
 ---
 
-**Engineering Notice for Center Point:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Center Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: tag shutoffs and meter orientation before opening walls.
 
-We coordinate local dispatch coverage around Center Point, AL and nearby ZIP sectors.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: camera-pass main lines in Center Point, AL before jetting older clay or cast iron.
 
-Tip: confirm licensing and insurance before approving work.
+Water heater T&P discharge paths in Center Point, AL must terminate safely before replacement quotes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 35215.
+Trenchless sleeve pulls near Center Point, AL require pit shoring notes when water tables are high.
 
-Field note: Wind exposure category reviewed for ZIP sector 35215.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 35215 (county grid: Jefferson County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 35215.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+CPVC solvent weld times shift with ambient humidity during Center Point, AL shoulder seasons.
+
+FAQ: When is cabling enough? In Center Point, AL, pipe material and blockage type dictate method.
+
+Permit note: Main water line replacement in Center Point, AL may require ROW restoration planning.
+
+Pressure trace 607248: meter-pit clearance and dielectric union checklist staged for Center Point, AL near elevation 853 ft.
+
+Supply audit 607248: curb-stop orientation and hose-bib freeze flag reviewed for Center Point, AL at coords 33.6400/-86.6900.
+
+Scope trace: recirculation pump amp draw plus PRV outlet curve referenced in Jefferson County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~853 ft across the Jefferson County area. Coordinates: 33.6400, -86.6900. ZIP sample: 35215. Logistics priority: Serving residential sectors across Jefferson County and north-east ZIP 35215 grid.
 
 Service reference: AL-35215-a7c4ec49

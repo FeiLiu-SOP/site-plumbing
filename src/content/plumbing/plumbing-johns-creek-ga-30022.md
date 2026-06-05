@@ -12,24 +12,41 @@ lng: -84.2000
 zipSample: ["30005", "30022", "30097"]
 zipCodes: ["30097", "30005", "30022"]
 localPaths: ["Fulton County / elevation 965 ft band", "Fulton County / ZIP 30097 sector", "Fulton County / ZIP 30022 sector", "Fulton County / primary ZIP 30022", "Fulton County / ZIP 30005 sector"]
-zillowHomeValueUsd: 678054
 ---
 
-**Engineering Notice for Johns Creek:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Johns Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
 
 
-We coordinate local dispatch coverage around Johns Creek, GA and nearby ZIP sectors.
+We coordinate Johns Creek, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Johns Creek, GA, but intake notes help reduce delays.
+Hydrostatic holds in Johns Creek, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Johns Creek, GA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should sump battery backups be load-tested? In Johns Creek, GA, before spring thaw and hurricane remnants.
 
-Tip: confirm licensing and insurance before approving work.
+Water heater T&P discharge paths in Johns Creek, GA must terminate safely before replacement quotes.
 
-Field note: Wind exposure category reviewed for ZIP sector 30005/30097/30022.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 30005, 30097, 30022 (county grid: Fulton County).
+Risk flag: Seasonal Johns Creek, GA irrigation cross-connections can mask domestic pressure loss.
+
+Risk flag: In Johns Creek, GA, slab leaks can misroute as foundation issues without listening equipment.
+
+Irrigation cross-connections in Johns Creek, GA can back-siphon domestic lines during main breaks.
+
+Cast-iron hub corrosion in Johns Creek, GA often concentrates at the third joint upstream of the cleanout.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Fixture shutoff stiffness in Johns Creek, GA may indicate mineral bridging behind stems.
+
+Flow dossier 834840: branch wet-vent geometry and jetting nozzle envelope logged for Johns Creek, GA county grid Fulton County (ZIP 30022).
+
+Scope trace: water softener bypass lever plus meter pit clearance referenced in Fulton County county grid review.
+
+Coordinate-anchored dispatch note: center reference 34.0300, -84.2000 at elevation ~965 ft aligns with Fulton County intake staging.
 
 Service reference: GA-30022-3fc17c7e

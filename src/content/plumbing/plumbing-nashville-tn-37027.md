@@ -12,27 +12,39 @@ lng: -86.7800
 zipSample: ["37201", "37232", "37205", "37230", "37243"]
 zipCodes: ["37240", "37227", "37201", "37243", "37246", "37236", "37241", "37204", "37203", "37234", "37220", "37207"]
 localPaths: ["Davidson County / ZIP 37232 sector", "Davidson County / ZIP 37230 sector", "Davidson County / ZIP 37201 sector", "Davidson County / ZIP 37243 sector", "Davidson County / primary ZIP 37027"]
-zillowHomeValueUsd: 1222847
 ---
 
-**Engineering Notice for Nashville:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Davidson County.
+**Engineering Notice for Nashville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davidson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 37027.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Nashville, TN.
 
-Our service coordination centers on Nashville, TN coverage windows and verified intake details.
+Polybutylene manifold tags in Nashville, TN basements should be photographed before any wall chase opens.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in Nashville, TN require pit dimensions verified against utility locate marks.
 
-Field note: Access points and staging constraints recorded for ZIP 37221/37228/37208 coverage.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 37221/37228/37208 zone).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 37221, 37228, 37208, 37220, 37209 (county grid: Davidson County).
+Hydrostatic holds in Nashville, TN slab circuits run overnight when listening mics show ambiguous hits.
+
+In Nashville, TN, slab leaks often present as warm spots before wall stains appear.
+
+Frost-free sillcock failures in Nashville, TN often trace to interior shutoff seats, not exterior stems.
+
+Step: map sump float travel and check-valve orientation for Nashville, TN basements.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: In Nashville, TN, slab leaks can misroute as foundation issues without listening equipment.
+
+Supply audit 444981: curb-stop orientation and hose-bib freeze flag reviewed for Nashville, TN at coords 36.1700/-86.7800.
+
+On-site sector marker: Davidson County / ZIP 37242 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37027-9e786d27

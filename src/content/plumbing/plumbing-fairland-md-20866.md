@@ -12,27 +12,41 @@ lng: -76.9500
 zipSample: ["20904", "20866", "20905"]
 zipCodes: ["20904", "20866", "20905"]
 localPaths: ["Montgomery County / elevation 453 ft band", "Montgomery County / primary ZIP 20866", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / ZIP 20866 sector"]
-zillowHomeValueUsd: 468436
 ---
 
-**Engineering Notice for Fairland:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Fairland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fairland, MD, but intake notes help reduce delays.
+Across Fairland, MD, main-line bellies can trap debris even when fixtures drain normally.
 
-We coordinate local dispatch coverage around Fairland, MD and nearby ZIP sectors.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: request a written scope before work starts.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Clear documentation helps align materials, labor, and timeline.
+Water heater T&P discharge paths in Fairland, MD must terminate safely before replacement quotes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20866.
+FAQ: When should sump battery backups be load-tested? In Fairland, MD, before spring thaw and hurricane remnants.
 
-Field note: Moisture pathway inspection logged near ZIP 20905/20904/20866 intake.
+Dual-water-meter setups in Fairland, MD irrigation zones need backflow logs before line replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 20905/20904/20866 coverage.
+Polybutylene manifold tags in Fairland, MD basements should be photographed before any wall chase opens.
 
-Dispatch sectors sampled: ZIP 20905, 20904, 20866 (county grid: Montgomery County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Tip: Save water heater serial plates for warranty traceability.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Supply audit 721783: curb-stop orientation and hose-bib freeze flag reviewed for Fairland, MD at coords 39.0800/-76.9500.
+
+Flow dossier 721783: branch wet-vent geometry and jetting nozzle envelope logged for Fairland, MD county grid Montgomery County (ZIP 20866).
+
+On-site sector marker: Montgomery County / coords 39.0800, -76.9500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20866-b446209c

@@ -12,24 +12,39 @@ lng: -96.9700
 zipSample: ["75017", "75039", "75059", "75061", "75014"]
 zipCodes: ["75062", "75059", "75368", "75015", "75014", "75063", "75038", "75060", "75326", "75039", "75017", "75061"]
 localPaths: ["Dallas County / elevation 577 ft band", "Dallas County / primary ZIP 75063", "Dallas County / ZIP 75059 sector", "Dallas County / ZIP 75039 sector", "Dallas County / coords 32.8600, -96.9700"]
-zillowHomeValueUsd: 610903
 ---
 
-**Engineering Notice for Irving:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Irving:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Trenchless pulls in Irving, TX require pit dimensions verified against utility locate marks.
 
-Our service coordination centers on Irving, TX coverage windows and verified intake details.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 75063.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Irving, TX can back-siphon domestic lines during main breaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Seasonal Irving, TX irrigation cross-connections can mask domestic pressure loss.
 
-Field note: Wind exposure category reviewed for ZIP sector 75014/75060/75059.
+Cast-iron hub corrosion in Irving, TX often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 75014, 75060, 75059, 75017, 75015 (county grid: Dallas County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Irving, TX systems need rebalancing.
+
+Hose bib split patterns in Irving, TX often follow missed winterization.
+
+FAQ: When should sump battery backups be load-tested? In Irving, TX, before spring thaw and hurricane remnants.
+
+About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Irving, TX.
+
+Branch wet vents in Irving, TX can mask gurgling as a main-line issue.
+
+Flow dossier 455140: branch wet-vent geometry and jetting nozzle envelope logged for Irving, TX county grid Dallas County (ZIP 75063).
+
+On-site sector marker: Dallas County / ZIP 75016 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75063-68f787f2

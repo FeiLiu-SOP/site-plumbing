@@ -12,26 +12,39 @@ lng: -72.3000
 zipSample: ["03431", "03435"]
 zipCodes: ["03431", "03435"]
 localPaths: ["Cheshire County / ZIP 03431 sector", "Cheshire County / ZIP 03435 sector", "Cheshire County / coords 42.9500, -72.3000", "Cheshire County / elevation 509 ft band", "Cheshire County / primary ZIP 03431"]
-zillowHomeValueUsd: 342889
 ---
 
-**Engineering Notice for Keene:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Cheshire County.
+**Engineering Notice for Keene:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cheshire County.
 
 
-Homeowners in Keene, NH often face sudden plumbing problems that require fast action.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-In Keene, NH, seasonal demand can change scheduling windows.
+FAQ: When should sump battery backups be load-tested? In Keene, NH, before spring thaw and hurricane remnants.
 
-Our service coordination centers on Keene, NH coverage windows and verified intake details.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Irrigation cross-connections in Keene, NH can back-siphon domestic lines during main breaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 03431/03435.
+Polybutylene manifold tags in Keene, NH basements should be photographed before any wall chase opens.
 
-Field note: Moisture pathway inspection logged near ZIP 03431/03435 intake.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 03431, 03435 (county grid: Cheshire County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 03431.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Drain map 136898: camera-pass priority and expansion-tank pre-charge noted for Keene, NH postal sector 03431.
+
+Flow dossier 136898: branch wet-vent geometry and jetting nozzle envelope logged for Keene, NH county grid Cheshire County (ZIP 03431).
+
+On-site sector marker: Cheshire County / ZIP 03431 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03431-e7e8a8ef

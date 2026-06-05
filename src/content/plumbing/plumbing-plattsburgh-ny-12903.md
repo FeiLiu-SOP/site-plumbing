@@ -12,24 +12,43 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12901", "12903"]
 localPaths: ["Clinton County / ZIP 12903 sector", "Clinton County / primary ZIP 12903", "Clinton County / coords 44.7000, -73.4600", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 151 ft band"]
-zillowHomeValueUsd: 235961
 ---
 
-**Engineering Notice for Plattsburgh:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Clinton County.
+**Engineering Notice for Plattsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Stack vent offsets in Plattsburgh, NY older duplexes can mask tub gurgle as a main-line failure.
 
-Structured milestones protect both sides when scheduling work.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When is cabling enough? In Plattsburgh, NY, pipe material and blockage type dictate method.
 
-Tip: request a written scope before work starts.
+Irrigation cross-connections in Plattsburgh, NY can back-siphon domestic lines during main breaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 12901/12903 zone).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 12903.
 
-Dispatch sectors sampled: ZIP 12901, 12903 (county grid: Clinton County).
+Cast-iron hub corrosion in Plattsburgh, NY often concentrates at the third joint upstream of the cleanout.
+
+Basement floor drains in Plattsburgh, NY should be snaked only after trap arm geometry is confirmed on camera.
+
+Cleanout access limits in Plattsburgh, NY frequently extend drain cleaning duration.
+
+Confirm cleanout locations during the same visit. Serving ZIP Code: 12903.
+
+Frost-free sillcock failures in Plattsburgh, NY often trace to interior shutoff seats, not exterior stems.
+
+Hose bib split patterns in Plattsburgh, NY often follow missed winterization.
+
+Permit note: Main water line replacement in Plattsburgh, NY may require ROW restoration planning.
+
+Risk flag: Seasonal Plattsburgh, NY irrigation cross-connections can mask domestic pressure loss.
+
+Intake ledger 781054: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Plattsburgh, NY at 44.7000, -73.4600.
+
+Field routing: jetter nozzle envelope paired with slab leak listening window near ZIP 12903.
+
+On-site sector marker: Clinton County / ZIP 12901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12903-e58e69dc

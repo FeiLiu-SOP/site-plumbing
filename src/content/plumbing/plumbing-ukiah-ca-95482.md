@@ -12,27 +12,43 @@ lng: -123.2100
 zipSample: ["95482", "95418"]
 zipCodes: ["95418", "95482"]
 localPaths: ["Mendocino County / elevation 650 ft band", "Mendocino County / ZIP 95418 sector", "Mendocino County / coords 39.1500, -123.2100", "Mendocino County / primary ZIP 95482", "Mendocino County / ZIP 95482 sector"]
-zillowHomeValueUsd: 477191
 ---
 
-**Engineering Notice for Ukiah:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Mendocino County.
+**Engineering Notice for Ukiah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mendocino County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: When should sump battery backups be load-tested? In Ukiah, CA, before spring thaw and hurricane remnants.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Branch wet vents in Ukiah, CA can mask gurgling as a main-line issue.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hydrostatic holds in Ukiah, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: request a written scope before work starts.
+Step: log PRV inlet and outlet readings during intake.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95482.
+Hose bib split patterns in Ukiah, CA often follow missed winterization.
 
-Field note: Access points and staging constraints recorded for ZIP 95482/95418 coverage.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Connection points spot-checked where accessible (ZIP 95482/95418 zone).
+Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95482.
 
-Dispatch sectors sampled: ZIP 95482, 95418 (county grid: Mendocino County).
+Irrigation cross-connections in Ukiah, CA can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with Ukiah, CA hardness profiles.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Basement floor drains in Ukiah, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Frost-free sillcock failures in Ukiah, CA often trace to interior shutoff seats, not exterior stems.
+
+Supply audit 772671: curb-stop orientation and hose-bib freeze flag reviewed for Ukiah, CA at coords 39.1500/-123.2100.
+
+Fixture roster 772671: toilet flange spacer kit and shower cartridge seat score queued for Ukiah, CA walk-through.
+
+Field routing: jetter nozzle envelope paired with recirculation pump amp draw near ZIP 95482.
+
+On-site sector marker: Mendocino County / coords 39.1500, -123.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95482-e161497c
