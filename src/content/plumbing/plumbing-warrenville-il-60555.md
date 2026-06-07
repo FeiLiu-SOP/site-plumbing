@@ -12,6 +12,7 @@ lng: -88.1900
 zipSample: ["60555"]
 zipCodes: ["60555"]
 localPaths: ["DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60555", "DuPage County / ZIP 60555 sector", "DuPage County / coords 41.8200, -88.1900"]
+zillowHomeValueUsd: 349942
 ---
 
 **Engineering Notice for Warrenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

@@ -12,6 +12,7 @@ lng: -84.1100
 zipSample: ["45424"]
 zipCodes: ["45424"]
 localPaths: ["Montgomery County / elevation 997 ft band", "Montgomery County / primary ZIP 45424", "Montgomery County / ZIP 45424 sector", "Montgomery County / coords 39.8600, -84.1100"]
+zillowHomeValueUsd: 223809
 ---
 
 **Engineering Notice for Huber Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

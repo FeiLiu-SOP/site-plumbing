@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["39208"]
 zipCodes: ["39208"]
 localPaths: ["Rankin County / ZIP 39208 sector", "Rankin County / primary ZIP 39208", "Rankin County / elevation 377 ft band", "Rankin County / coords 32.2700, -90.0900"]
+zillowHomeValueUsd: 211766
 ---
 
 **Engineering Notice for Pearl:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rankin County.

@@ -12,6 +12,7 @@ lng: -93.2500
 zipSample: ["55044"]
 zipCodes: ["55044"]
 localPaths: ["Dakota County / primary ZIP 55044", "Dakota County / ZIP 55044 sector", "Dakota County / elevation 1079 ft band", "Dakota County / coords 44.6800, -93.2500"]
+zillowHomeValueUsd: 515341
 ---
 
 **Engineering Notice for Lakeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

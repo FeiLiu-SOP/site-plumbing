@@ -12,6 +12,7 @@ lng: -96.5600
 zipSample: ["75454"]
 zipCodes: ["75454"]
 localPaths: ["Collin County / elevation 663 ft band", "Collin County / primary ZIP 75454", "Collin County / coords 33.2900, -96.5600", "Collin County / ZIP 75454 sector"]
+zillowHomeValueUsd: 435338
 ---
 
 **Engineering Notice for Melissa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

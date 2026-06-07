@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["90245"]
 zipCodes: ["90245"]
 localPaths: ["Los Angeles County / ZIP 90245 sector", "Los Angeles County / elevation 131 ft band", "Los Angeles County / coords 33.9200, -118.4000", "Los Angeles County / primary ZIP 90245"]
+zillowHomeValueUsd: 1757315
 ---
 
 **Engineering Notice for El Segundo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

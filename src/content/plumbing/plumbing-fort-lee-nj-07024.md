@@ -12,6 +12,7 @@ lng: -73.9700
 zipSample: ["07024"]
 zipCodes: ["07024"]
 localPaths: ["Bergen County / primary ZIP 07024", "Bergen County / elevation 299 ft band", "Bergen County / ZIP 07024 sector", "Bergen County / coords 40.8500, -73.9700"]
+zillowHomeValueUsd: 587708
 ---
 
 **Engineering Notice for Fort Lee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

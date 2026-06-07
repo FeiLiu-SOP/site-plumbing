@@ -12,6 +12,8 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / primary ZIP 98433", "Pierce County / ZIP 98433 sector", "Pierce County / elevation 377 ft band", "Pierce County / coords 47.1000, -122.5700"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 579629
 ---
 
 **Engineering Notice for Fort Lewis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.

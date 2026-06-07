@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["44132", "44123", "44119", "44117"]
 zipCodes: ["44132", "44117", "44119", "44123"]
 localPaths: ["Cuyahoga County / ZIP 44132 sector", "Cuyahoga County / ZIP 44117 sector", "Cuyahoga County / ZIP 44123 sector", "Cuyahoga County / coords 41.5900, -81.5200", "Cuyahoga County / elevation 653 ft band"]
+zillowHomeValueUsd: 148144
 ---
 
 **Engineering Notice for Euclid:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

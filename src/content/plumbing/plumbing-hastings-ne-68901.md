@@ -12,6 +12,7 @@ lng: -98.3900
 zipSample: ["68901", "68902"]
 zipCodes: ["68901", "68902"]
 localPaths: ["Adams County / primary ZIP 68901", "Adams County / elevation 1939 ft band", "Adams County / ZIP 68902 sector", "Adams County / coords 40.6000, -98.3900", "Adams County / ZIP 68901 sector"]
+zillowHomeValueUsd: 199907
 ---
 
 **Engineering Notice for Hastings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

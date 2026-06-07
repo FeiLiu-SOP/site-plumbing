@@ -12,6 +12,7 @@ lng: -118.3500
 zipSample: ["90310", "90304", "90251", "90250"]
 zipCodes: ["90250", "90304", "90251", "90310"]
 localPaths: ["Los Angeles County / elevation 79 ft band", "Los Angeles County / primary ZIP 90304", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90304 sector"]
+zillowHomeValueUsd: 739020
 ---
 
 **Engineering Notice for Hawthorne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

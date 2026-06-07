@@ -12,6 +12,7 @@ lng: -88.3400
 zipSample: ["60543"]
 zipCodes: ["60543"]
 localPaths: ["Kendall County / coords 41.6800, -88.3400", "Kendall County / elevation 666 ft band", "Kendall County / primary ZIP 60543", "Kendall County / ZIP 60543 sector"]
+zillowHomeValueUsd: 416642
 ---
 
 **Engineering Notice for Oswego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.

@@ -12,6 +12,7 @@ lng: -122.4300
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / coords 45.6000, -122.4300", "Clark County / ZIP 98607 sector", "Clark County / primary ZIP 98607", "Clark County / elevation 699 ft band"]
+zillowHomeValueUsd: 751833
 ---
 
 **Engineering Notice for Camas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

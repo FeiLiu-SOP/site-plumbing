@@ -12,6 +12,7 @@ lng: -120.8500
 zipSample: ["95361"]
 zipCodes: ["95361"]
 localPaths: ["Stanislaus County / ZIP 95361 sector", "Stanislaus County / elevation 157 ft band", "Stanislaus County / primary ZIP 95361", "Stanislaus County / coords 37.7600, -120.8500"]
+zillowHomeValueUsd: 557724
 ---
 
 **Engineering Notice for Oakdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanislaus County.

@@ -12,6 +12,7 @@ lng: -81.8600
 zipSample: ["44017"]
 zipCodes: ["44017"]
 localPaths: ["Cuyahoga County / primary ZIP 44017", "Cuyahoga County / ZIP 44017 sector", "Cuyahoga County / coords 41.3700, -81.8600", "Cuyahoga County / elevation 794 ft band"]
+zillowHomeValueUsd: 239221
 ---
 
 **Engineering Notice for Berea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

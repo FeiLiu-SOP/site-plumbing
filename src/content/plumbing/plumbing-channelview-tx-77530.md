@@ -12,6 +12,7 @@ lng: -95.1100
 zipSample: ["77530"]
 zipCodes: ["77530"]
 localPaths: ["Harris County / elevation 49 ft band", "Harris County / primary ZIP 77530", "Harris County / coords 29.7900, -95.1100", "Harris County / ZIP 77530 sector"]
+zillowHomeValueUsd: 210965
 ---
 
 **Engineering Notice for Channelview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.

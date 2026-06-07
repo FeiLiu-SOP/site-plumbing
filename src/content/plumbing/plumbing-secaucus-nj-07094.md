@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["07096", "07094"]
 zipCodes: ["07096", "07094"]
 localPaths: ["Hudson County / primary ZIP 07094", "Hudson County / ZIP 07096 sector", "Hudson County / coords 40.7800, -74.0700", "Hudson County / elevation 26 ft band", "Hudson County / ZIP 07094 sector"]
+zillowHomeValueUsd: 660117
 ---
 
 **Engineering Notice for Secaucus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

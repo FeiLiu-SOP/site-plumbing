@@ -12,6 +12,7 @@ lng: -84.7400
 zipSample: ["45056"]
 zipCodes: ["45056"]
 localPaths: ["Butler County / coords 39.5100, -84.7400", "Butler County / primary ZIP 45056", "Butler County / ZIP 45056 sector", "Butler County / elevation 919 ft band"]
+zillowHomeValueUsd: 336010
 ---
 
 **Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.

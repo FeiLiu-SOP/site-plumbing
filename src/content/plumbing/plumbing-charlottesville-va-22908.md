@@ -12,6 +12,7 @@ lng: -78.4900
 zipSample: ["22906", "22908", "22901", "22904", "22903"]
 zipCodes: ["22902", "22903", "22908", "22909", "22904", "22905", "22901", "22906"]
 localPaths: ["Charlottesville County / primary ZIP 22908", "Charlottesville County / ZIP 22908 sector", "Charlottesville County / elevation 456 ft band", "Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / ZIP 22904 sector"]
+zillowHomeValueUsd: 533801
 ---
 
 **Engineering Notice for Charlottesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlottesville County.

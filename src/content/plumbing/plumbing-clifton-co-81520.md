@@ -12,6 +12,7 @@ lng: -108.4600
 zipSample: ["81504", "81520"]
 zipCodes: ["81520", "81504"]
 localPaths: ["Mesa County / ZIP 81520 sector", "Mesa County / ZIP 81504 sector", "Mesa County / elevation 4682 ft band", "Mesa County / coords 39.0800, -108.4600", "Mesa County / primary ZIP 81520"]
+zillowHomeValueUsd: 330433
 ---
 
 **Engineering Notice for Clifton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mesa County.

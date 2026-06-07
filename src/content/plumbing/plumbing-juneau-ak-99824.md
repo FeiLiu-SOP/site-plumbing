@@ -12,6 +12,7 @@ lng: -134.1700
 zipSample: ["99811", "99821", "99812", "99803", "99824"]
 zipCodes: ["99812", "99802", "99821", "99811", "99801", "99803", "99824"]
 localPaths: ["Juneau County / elevation 1942 ft band", "Juneau County / ZIP 99821 sector", "Juneau County / ZIP 99824 sector", "Juneau County / ZIP 99812 sector", "Juneau County / ZIP 99803 sector"]
+zillowHomeValueUsd: 350369
 ---
 
 **Engineering Notice for Juneau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Juneau County.

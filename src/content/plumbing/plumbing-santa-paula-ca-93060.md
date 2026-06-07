@@ -12,6 +12,7 @@ lng: -119.0700
 zipSample: ["93061", "93060"]
 zipCodes: ["93061", "93060"]
 localPaths: ["Ventura County / ZIP 93060 sector", "Ventura County / primary ZIP 93060", "Ventura County / ZIP 93061 sector", "Ventura County / elevation 295 ft band", "Ventura County / coords 34.3500, -119.0700"]
+zillowHomeValueUsd: 716945
 ---
 
 **Engineering Notice for Santa Paula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.

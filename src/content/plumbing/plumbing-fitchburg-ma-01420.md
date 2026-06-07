@@ -12,6 +12,7 @@ lng: -71.8200
 zipSample: ["01420"]
 zipCodes: ["01420"]
 localPaths: ["Worcester County / ZIP 01420 sector", "Worcester County / coords 42.5900, -71.8200", "Worcester County / primary ZIP 01420", "Worcester County / elevation 712 ft band"]
+zillowHomeValueUsd: 396184
 ---
 
 **Engineering Notice for Fitchburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Worcester County.

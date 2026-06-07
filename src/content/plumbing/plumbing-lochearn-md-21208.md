@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["21207", "21208"]
 zipCodes: ["21207", "21208"]
 localPaths: ["Baltimore County / elevation 390 ft band", "Baltimore County / coords 39.3500, -76.7300", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21208", "Baltimore County / ZIP 21207 sector"]
+zillowHomeValueUsd: 374184
 ---
 
 **Engineering Notice for Lochearn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

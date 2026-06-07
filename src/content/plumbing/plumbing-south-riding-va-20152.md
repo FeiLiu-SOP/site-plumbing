@@ -12,6 +12,7 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / primary ZIP 20152", "Loudoun County / elevation 285 ft band", "Loudoun County / ZIP 20152 sector", "Loudoun County / coords 38.9100, -77.5100"]
+zillowHomeValueUsd: 853542
 ---
 
 **Engineering Notice for South Riding:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.

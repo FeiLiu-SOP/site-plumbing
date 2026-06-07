@@ -12,6 +12,7 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / ZIP 92301 sector", "San Bernardino County / primary ZIP 92301", "San Bernardino County / elevation 2877 ft band", "San Bernardino County / coords 34.5800, -117.4400"]
+zillowHomeValueUsd: 397506
 ---
 
 **Engineering Notice for Adelanto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

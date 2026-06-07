@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60914", "60915"]
 zipCodes: ["60915", "60914"]
 localPaths: ["Kankakee County / coords 41.1600, -87.8500", "Kankakee County / primary ZIP 60915", "Kankakee County / elevation 673 ft band", "Kankakee County / ZIP 60914 sector", "Kankakee County / ZIP 60915 sector"]
+zillowHomeValueUsd: 176254
 ---
 
 **Engineering Notice for Bradley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kankakee County.

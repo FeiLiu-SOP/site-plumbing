@@ -12,6 +12,7 @@ lng: -87.0200
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / primary ZIP 35023", "Jefferson County / coords 33.4200, -87.0200", "Jefferson County / ZIP 35023 sector", "Jefferson County / elevation 591 ft band"]
+zillowHomeValueUsd: 170591
 ---
 
 **Engineering Notice for Hueytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

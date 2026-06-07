@@ -12,6 +12,7 @@ lng: -74.1500
 zipSample: ["07029"]
 zipCodes: ["07029"]
 localPaths: ["Hudson County / ZIP 07029 sector", "Hudson County / elevation 30 ft band", "Hudson County / coords 40.7400, -74.1500", "Hudson County / primary ZIP 07029"]
+zillowHomeValueUsd: 579716
 ---
 
 **Engineering Notice for Harrison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

@@ -12,6 +12,7 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / ZIP 50158 sector", "Marshall County / primary ZIP 50158", "Marshall County / coords 42.0300, -92.9100", "Marshall County / elevation 902 ft band"]
+zillowHomeValueUsd: 174175
 ---
 
 **Engineering Notice for Marshalltown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marshall County.

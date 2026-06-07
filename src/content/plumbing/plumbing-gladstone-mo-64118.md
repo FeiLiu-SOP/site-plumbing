@@ -12,6 +12,7 @@ lng: -94.5600
 zipSample: ["64118", "64119"]
 zipCodes: ["64119", "64118"]
 localPaths: ["Clay County / ZIP 64119 sector", "Clay County / ZIP 64118 sector", "Clay County / primary ZIP 64118", "Clay County / elevation 1027 ft band", "Clay County / coords 39.2100, -94.5600"]
+zillowHomeValueUsd: 267034
 ---
 
 **Engineering Notice for Gladstone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

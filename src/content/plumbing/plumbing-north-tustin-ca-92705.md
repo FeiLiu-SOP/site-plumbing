@@ -12,6 +12,7 @@ lng: -117.7900
 zipSample: ["92705", "92711", "92780"]
 zipCodes: ["92780", "92705", "92711"]
 localPaths: ["Orange County / ZIP 92705 sector", "Orange County / ZIP 92711 sector", "Orange County / elevation 249 ft band", "Orange County / primary ZIP 92705", "Orange County / coords 33.7600, -117.7900"]
+zillowHomeValueUsd: 1614989
 ---
 
 **Engineering Notice for North Tustin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

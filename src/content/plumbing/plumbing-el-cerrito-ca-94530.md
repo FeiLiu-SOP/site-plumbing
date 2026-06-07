@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / elevation 194 ft band", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94530 sector"]
+zillowHomeValueUsd: 1139685
 ---
 
 **Engineering Notice for El Cerrito:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

@@ -12,6 +12,7 @@ lng: -98.3800
 zipSample: ["78572", "78574"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / coords 26.2300, -98.3800", "Hidalgo County / ZIP 78572 sector", "Hidalgo County / elevation 148 ft band"]
+zillowHomeValueUsd: 196762
 ---
 
 **Engineering Notice for Palmview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

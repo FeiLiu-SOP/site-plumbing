@@ -12,6 +12,7 @@ lng: -122.9700
 zipSample: ["97301", "97317"]
 zipCodes: ["97301", "97317"]
 localPaths: ["Marion County / elevation 226 ft band", "Marion County / coords 44.9300, -122.9700", "Marion County / primary ZIP 97301", "Marion County / ZIP 97301 sector", "Marion County / ZIP 97317 sector"]
+zillowHomeValueUsd: 370484
 ---
 
 **Engineering Notice for Four Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

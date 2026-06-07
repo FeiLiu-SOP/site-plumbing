@@ -12,6 +12,7 @@ lng: -117.8600
 zipSample: ["91788", "91789"]
 zipCodes: ["91788", "91789"]
 localPaths: ["Los Angeles County / primary ZIP 91789", "Los Angeles County / ZIP 91788 sector", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 689 ft band", "Los Angeles County / coords 34.0300, -117.8600"]
+zillowHomeValueUsd: 1156360
 ---
 
 **Engineering Notice for Walnut:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

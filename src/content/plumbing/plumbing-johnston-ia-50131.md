@@ -12,6 +12,7 @@ lng: -93.7200
 zipSample: ["50131"]
 zipCodes: ["50131"]
 localPaths: ["Polk County / elevation 820 ft band", "Polk County / ZIP 50131 sector", "Polk County / primary ZIP 50131", "Polk County / coords 41.6900, -93.7200"]
+zillowHomeValueUsd: 395624
 ---
 
 **Engineering Notice for Johnston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

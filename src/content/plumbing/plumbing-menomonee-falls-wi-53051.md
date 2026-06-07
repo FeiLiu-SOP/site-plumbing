@@ -12,6 +12,7 @@ lng: -88.1200
 zipSample: ["53052", "53051"]
 zipCodes: ["53052", "53051"]
 localPaths: ["Waukesha County / coords 43.1500, -88.1200", "Waukesha County / primary ZIP 53051", "Waukesha County / elevation 860 ft band", "Waukesha County / ZIP 53051 sector", "Waukesha County / ZIP 53052 sector"]
+zillowHomeValueUsd: 431073
 ---
 
 **Engineering Notice for Menomonee Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waukesha County.

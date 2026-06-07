@@ -12,6 +12,7 @@ lng: -91.1600
 zipSample: ["70791"]
 zipCodes: ["70791"]
 localPaths: ["East Baton Rouge Parish / ZIP 70791 sector", "East Baton Rouge Parish / primary ZIP 70791", "East Baton Rouge Parish / coords 30.6600, -91.1600", "East Baton Rouge Parish / elevation 121 ft band"]
+zillowHomeValueUsd: 268152
 ---
 
 **Engineering Notice for Zachary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: East Baton Rouge Parish.

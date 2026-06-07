@@ -12,6 +12,7 @@ lng: -84.6500
 zipSample: ["41042", "41022"]
 zipCodes: ["41042", "41022"]
 localPaths: ["Boone County / ZIP 41042 sector", "Boone County / elevation 896 ft band", "Boone County / coords 38.9900, -84.6500", "Boone County / ZIP 41022 sector", "Boone County / primary ZIP 41042"]
+zillowHomeValueUsd: 275033
 ---
 
 **Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.

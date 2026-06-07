@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["76108"]
 zipCodes: ["76108"]
 localPaths: ["Tarrant County / coords 32.7600, -97.4600", "Tarrant County / ZIP 76108 sector", "Tarrant County / elevation 699 ft band", "Tarrant County / primary ZIP 76108"]
+zillowHomeValueUsd: 285842
 ---
 
 **Engineering Notice for White Settlement:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

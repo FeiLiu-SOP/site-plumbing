@@ -12,6 +12,7 @@ lng: -86.4700
 zipSample: ["37066"]
 zipCodes: ["37066"]
 localPaths: ["Sumner County / ZIP 37066 sector", "Sumner County / primary ZIP 37066", "Sumner County / elevation 515 ft band", "Sumner County / coords 36.3800, -86.4700"]
+zillowHomeValueUsd: 440275
 ---
 
 **Engineering Notice for Gallatin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumner County.

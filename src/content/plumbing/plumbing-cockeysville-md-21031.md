@@ -12,6 +12,7 @@ lng: -76.6300
 zipSample: ["21030", "21031", "21065"]
 zipCodes: ["21065", "21030", "21031"]
 localPaths: ["Baltimore County / ZIP 21030 sector", "Baltimore County / primary ZIP 21031", "Baltimore County / elevation 574 ft band", "Baltimore County / ZIP 21065 sector", "Baltimore County / ZIP 21031 sector"]
+zillowHomeValueUsd: 469191
 ---
 
 **Engineering Notice for Cockeysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

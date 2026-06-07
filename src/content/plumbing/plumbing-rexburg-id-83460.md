@@ -12,6 +12,7 @@ lng: -111.7900
 zipSample: ["83440", "83460"]
 zipCodes: ["83440", "83460"]
 localPaths: ["Madison County / coords 43.8200, -111.7900", "Madison County / ZIP 83460 sector", "Madison County / ZIP 83440 sector", "Madison County / primary ZIP 83460", "Madison County / elevation 4872 ft band"]
+zillowHomeValueUsd: 417055
 ---
 
 **Engineering Notice for Rexburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

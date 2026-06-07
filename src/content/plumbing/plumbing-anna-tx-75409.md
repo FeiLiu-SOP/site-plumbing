@@ -12,6 +12,7 @@ lng: -96.5500
 zipSample: ["75409"]
 zipCodes: ["75409"]
 localPaths: ["Collin County / ZIP 75409 sector", "Collin County / coords 33.3500, -96.5500", "Collin County / primary ZIP 75409", "Collin County / elevation 702 ft band"]
+zillowHomeValueUsd: 348212
 ---
 
 **Engineering Notice for Anna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

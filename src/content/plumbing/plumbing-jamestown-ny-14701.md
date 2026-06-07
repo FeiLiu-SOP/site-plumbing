@@ -12,6 +12,7 @@ lng: -79.2400
 zipSample: ["14701", "14702"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / ZIP 14701 sector", "Chautauqua County / elevation 1398 ft band", "Chautauqua County / primary ZIP 14701", "Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14702 sector"]
+zillowHomeValueUsd: 117887
 ---
 
 **Engineering Notice for Jamestown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chautauqua County.

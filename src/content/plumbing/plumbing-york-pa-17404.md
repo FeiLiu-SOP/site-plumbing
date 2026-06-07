@@ -12,6 +12,7 @@ lng: -76.7300
 zipSample: ["17404", "17405", "17401", "17403"]
 zipCodes: ["17404", "17403", "17401", "17405"]
 localPaths: ["York County / ZIP 17404 sector", "York County / primary ZIP 17404", "York County / ZIP 17401 sector", "York County / coords 39.9700, -76.7300", "York County / elevation 367 ft band"]
+zillowHomeValueUsd: 255870
 ---
 
 **Engineering Notice for York:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

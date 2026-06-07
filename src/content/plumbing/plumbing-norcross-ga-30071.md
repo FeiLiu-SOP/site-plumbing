@@ -12,6 +12,7 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / ZIP 30071 sector", "Gwinnett County / primary ZIP 30071", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / elevation 991 ft band"]
+zillowHomeValueUsd: 360264
 ---
 
 **Engineering Notice for Norcross:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

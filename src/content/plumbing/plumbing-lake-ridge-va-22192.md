@@ -12,6 +12,7 @@ lng: -77.3100
 zipSample: ["22192"]
 zipCodes: ["22192"]
 localPaths: ["Prince William County / ZIP 22192 sector", "Prince William County / coords 38.6800, -77.3100", "Prince William County / elevation 308 ft band", "Prince William County / primary ZIP 22192"]
+zillowHomeValueUsd: 525378
 ---
 
 **Engineering Notice for Lake Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

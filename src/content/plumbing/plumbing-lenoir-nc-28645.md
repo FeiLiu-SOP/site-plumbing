@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["28645", "28633"]
 zipCodes: ["28645", "28633"]
 localPaths: ["Caldwell County / ZIP 28633 sector", "Caldwell County / primary ZIP 28645", "Caldwell County / coords 35.9100, -81.5200", "Caldwell County / ZIP 28645 sector", "Caldwell County / elevation 1168 ft band"]
+zillowHomeValueUsd: 219158
 ---
 
 **Engineering Notice for Lenoir:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.

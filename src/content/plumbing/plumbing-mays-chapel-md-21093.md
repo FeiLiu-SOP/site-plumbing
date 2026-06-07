@@ -12,6 +12,7 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / ZIP 21093 sector", "Baltimore County / elevation 499 ft band", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / primary ZIP 21093"]
+zillowHomeValueUsd: 506354
 ---
 
 **Engineering Notice for Mays Chapel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

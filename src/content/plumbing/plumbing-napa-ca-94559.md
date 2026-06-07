@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["94558", "94559", "94581"]
 zipCodes: ["94559", "94558", "94581"]
 localPaths: ["Napa County / elevation 49 ft band", "Napa County / ZIP 94558 sector", "Napa County / coords 38.3000, -122.3000", "Napa County / ZIP 94581 sector", "Napa County / primary ZIP 94559"]
+zillowHomeValueUsd: 807839
 ---
 
 **Engineering Notice for Napa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Napa County.

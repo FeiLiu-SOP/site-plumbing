@@ -12,6 +12,7 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / coords 40.5700, -74.5000", "Middlesex County / elevation 52 ft band", "Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846"]
+zillowHomeValueUsd: 537811
 ---
 
 **Engineering Notice for Middlesex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

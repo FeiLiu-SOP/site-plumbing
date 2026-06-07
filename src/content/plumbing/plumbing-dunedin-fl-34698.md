@@ -12,6 +12,7 @@ lng: -82.7900
 zipSample: ["34697", "34698"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / ZIP 34697 sector", "Pinellas County / ZIP 34698 sector", "Pinellas County / primary ZIP 34698", "Pinellas County / coords 28.0300, -82.7900", "Pinellas County / elevation 30 ft band"]
+zillowHomeValueUsd: 407285
 ---
 
 **Engineering Notice for Dunedin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.

@@ -12,6 +12,7 @@ lng: -121.9000
 zipSample: ["94568"]
 zipCodes: ["94568"]
 localPaths: ["Alameda County / ZIP 94568 sector", "Alameda County / primary ZIP 94568", "Alameda County / coords 37.7200, -121.9000", "Alameda County / elevation 354 ft band"]
+zillowHomeValueUsd: 1306780
 ---
 
 **Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

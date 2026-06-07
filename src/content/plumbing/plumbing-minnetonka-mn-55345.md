@@ -12,6 +12,7 @@ lng: -93.4600
 zipSample: ["55345", "55305", "55343", "55391"]
 zipCodes: ["55391", "55305", "55343", "55345"]
 localPaths: ["Hennepin County / coords 44.9300, -93.4600", "Hennepin County / ZIP 55345 sector", "Hennepin County / elevation 991 ft band", "Hennepin County / primary ZIP 55345", "Hennepin County / ZIP 55305 sector"]
+zillowHomeValueUsd: 534597
 ---
 
 **Engineering Notice for Minnetonka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

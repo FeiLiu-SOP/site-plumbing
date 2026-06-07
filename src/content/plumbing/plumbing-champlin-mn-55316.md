@@ -12,6 +12,7 @@ lng: -93.3900
 zipSample: ["55316"]
 zipCodes: ["55316"]
 localPaths: ["Hennepin County / ZIP 55316 sector", "Hennepin County / coords 45.1700, -93.3900", "Hennepin County / elevation 873 ft band", "Hennepin County / primary ZIP 55316"]
+zillowHomeValueUsd: 370717
 ---
 
 **Engineering Notice for Champlin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

@@ -12,6 +12,7 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 187 ft band", "Starr County / primary ZIP 78582", "Starr County / ZIP 78582 sector", "Starr County / coords 26.3800, -98.8200"]
+zillowHomeValueUsd: 146553
 ---
 
 **Engineering Notice for Rio Grande City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Starr County.

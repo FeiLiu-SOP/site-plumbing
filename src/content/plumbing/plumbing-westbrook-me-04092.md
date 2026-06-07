@@ -12,6 +12,7 @@ lng: -70.3500
 zipSample: ["04092", "04098"]
 zipCodes: ["04098", "04092"]
 localPaths: ["Cumberland County / elevation 108 ft band", "Cumberland County / primary ZIP 04092", "Cumberland County / ZIP 04092 sector", "Cumberland County / ZIP 04098 sector", "Cumberland County / coords 43.7000, -70.3500"]
+zillowHomeValueUsd: 449284
 ---
 
 **Engineering Notice for Westbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.

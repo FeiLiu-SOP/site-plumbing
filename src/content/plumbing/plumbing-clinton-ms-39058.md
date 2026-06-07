@@ -12,6 +12,7 @@ lng: -90.3400
 zipSample: ["39058", "39056"]
 zipCodes: ["39056", "39058"]
 localPaths: ["Hinds County / ZIP 39058 sector", "Hinds County / primary ZIP 39058", "Hinds County / ZIP 39056 sector", "Hinds County / coords 32.3500, -90.3400", "Hinds County / elevation 348 ft band"]
+zillowHomeValueUsd: 237859
 ---
 
 **Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hinds County.

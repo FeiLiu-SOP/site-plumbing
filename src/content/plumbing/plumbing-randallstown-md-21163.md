@@ -12,6 +12,7 @@ lng: -76.8000
 zipSample: ["21133", "21163", "21208"]
 zipCodes: ["21208", "21163", "21133"]
 localPaths: ["Baltimore County / ZIP 21163 sector", "Baltimore County / primary ZIP 21163", "Baltimore County / coords 39.3700, -76.8000", "Baltimore County / ZIP 21208 sector", "Baltimore County / elevation 591 ft band"]
+zillowHomeValueUsd: 656627
 ---
 
 **Engineering Notice for Randallstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

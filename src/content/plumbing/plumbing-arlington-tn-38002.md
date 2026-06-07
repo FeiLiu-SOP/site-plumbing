@@ -12,6 +12,7 @@ lng: -89.6700
 zipSample: ["38002", "38028"]
 zipCodes: ["38002", "38028"]
 localPaths: ["Shelby County / ZIP 38002 sector", "Shelby County / coords 35.2600, -89.6700", "Shelby County / ZIP 38028 sector", "Shelby County / primary ZIP 38002", "Shelby County / elevation 302 ft band"]
+zillowHomeValueUsd: 407824
 ---
 
 **Engineering Notice for Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

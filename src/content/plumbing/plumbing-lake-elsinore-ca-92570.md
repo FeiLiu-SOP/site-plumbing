@@ -12,6 +12,7 @@ lng: -117.3300
 zipSample: ["92570", "92532", "92530"]
 zipCodes: ["92532", "92530", "92570"]
 localPaths: ["Riverside County / primary ZIP 92570", "Riverside County / ZIP 92532 sector", "Riverside County / ZIP 92570 sector", "Riverside County / elevation 1280 ft band", "Riverside County / ZIP 92530 sector"]
+zillowHomeValueUsd: 580587
 ---
 
 **Engineering Notice for Lake Elsinore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

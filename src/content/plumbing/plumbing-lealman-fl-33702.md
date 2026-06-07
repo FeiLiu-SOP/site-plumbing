@@ -12,6 +12,7 @@ lng: -82.6800
 zipSample: ["33784", "33702", "33709", "33714"]
 zipCodes: ["33702", "33714", "33709", "33784"]
 localPaths: ["Pinellas County / coords 27.8200, -82.6800", "Pinellas County / elevation 59 ft band", "Pinellas County / ZIP 33702 sector", "Pinellas County / ZIP 33709 sector", "Pinellas County / primary ZIP 33702"]
+zillowHomeValueUsd: 298500
 ---
 
 **Engineering Notice for Lealman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.

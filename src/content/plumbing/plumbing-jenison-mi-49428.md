@@ -12,6 +12,7 @@ lng: -85.8300
 zipSample: ["49429", "49428"]
 zipCodes: ["49429", "49428"]
 localPaths: ["Ottawa County / primary ZIP 49428", "Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / elevation 659 ft band", "Ottawa County / coords 42.9100, -85.8300"]
+zillowHomeValueUsd: 360144
 ---
 
 **Engineering Notice for Jenison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.

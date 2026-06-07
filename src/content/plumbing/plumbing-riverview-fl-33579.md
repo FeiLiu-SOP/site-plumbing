@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["33578", "33569", "33579", "33568"]
 zipCodes: ["33569", "33578", "33568", "33579"]
 localPaths: ["Hillsborough County / ZIP 33569 sector", "Hillsborough County / ZIP 33579 sector", "Hillsborough County / coords 27.8200, -82.3000", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33568 sector"]
+zillowHomeValueUsd: 387170
 ---
 
 **Engineering Notice for Riverview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

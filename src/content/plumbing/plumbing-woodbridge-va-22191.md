@@ -12,6 +12,7 @@ lng: -77.2600
 zipSample: ["22191", "22194", "22195"]
 zipCodes: ["22191", "22195", "22194"]
 localPaths: ["Prince William County / elevation 36 ft band", "Prince William County / ZIP 22191 sector", "Prince William County / ZIP 22194 sector", "Prince William County / coords 38.6400, -77.2600", "Prince William County / primary ZIP 22191"]
+zillowHomeValueUsd: 489067
 ---
 
 **Engineering Notice for Woodbridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

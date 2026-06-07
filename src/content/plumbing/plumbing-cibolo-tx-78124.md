@@ -12,6 +12,7 @@ lng: -98.2100
 zipSample: ["78108", "78124"]
 zipCodes: ["78108", "78124"]
 localPaths: ["Guadalupe County / primary ZIP 78124", "Guadalupe County / ZIP 78108 sector", "Guadalupe County / ZIP 78124 sector", "Guadalupe County / elevation 705 ft band", "Guadalupe County / coords 29.5600, -98.2100"]
+zillowHomeValueUsd: 344728
 ---
 
 **Engineering Notice for Cibolo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guadalupe County.

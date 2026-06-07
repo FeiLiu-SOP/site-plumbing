@@ -12,6 +12,7 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / coords 41.8900, -87.9800", "DuPage County / ZIP 60181 sector", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60181"]
+zillowHomeValueUsd: 358480
 ---
 
 **Engineering Notice for Villa Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

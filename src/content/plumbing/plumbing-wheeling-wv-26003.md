@@ -12,6 +12,7 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / coords 40.0800, -80.7000", "Ohio County / primary ZIP 26003", "Ohio County / elevation 679 ft band", "Ohio County / ZIP 26003 sector"]
+zillowHomeValueUsd: 156597
 ---
 
 **Engineering Notice for Wheeling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ohio County.

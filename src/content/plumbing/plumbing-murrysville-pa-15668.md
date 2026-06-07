@@ -12,6 +12,7 @@ lng: -79.6600
 zipSample: ["15668", "15632", "15626"]
 zipCodes: ["15626", "15632", "15668"]
 localPaths: ["Westmoreland County / primary ZIP 15668", "Westmoreland County / ZIP 15626 sector", "Westmoreland County / ZIP 15632 sector", "Westmoreland County / elevation 1230 ft band", "Westmoreland County / coords 40.4500, -79.6600"]
+zillowHomeValueUsd: 348043
 ---
 
 **Engineering Notice for Murrysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westmoreland County.

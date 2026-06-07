@@ -12,6 +12,7 @@ lng: -122.3500
 zipSample: ["98671"]
 zipCodes: ["98671"]
 localPaths: ["Clark County / ZIP 98671 sector", "Clark County / elevation 92 ft band", "Clark County / coords 45.5800, -122.3500", "Clark County / primary ZIP 98671"]
+zillowHomeValueUsd: 639824
 ---
 
 **Engineering Notice for Washougal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

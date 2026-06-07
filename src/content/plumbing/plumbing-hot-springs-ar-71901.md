@@ -12,6 +12,7 @@ lng: -93.0500
 zipSample: ["71913", "71902", "71914", "71901"]
 zipCodes: ["71913", "71914", "71902", "71901"]
 localPaths: ["Garland County / ZIP 71914 sector", "Garland County / ZIP 71901 sector", "Garland County / ZIP 71913 sector", "Garland County / primary ZIP 71901", "Garland County / coords 34.4900, -93.0500"]
+zillowHomeValueUsd: 209140
 ---
 
 **Engineering Notice for Hot Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Garland County.

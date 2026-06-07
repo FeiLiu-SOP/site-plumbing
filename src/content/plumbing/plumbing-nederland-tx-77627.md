@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["77627"]
 zipCodes: ["77627"]
 localPaths: ["Jefferson County / elevation 33 ft band", "Jefferson County / ZIP 77627 sector", "Jefferson County / coords 29.9700, -94.0000", "Jefferson County / primary ZIP 77627"]
+zillowHomeValueUsd: 211378
 ---
 
 **Engineering Notice for Nederland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

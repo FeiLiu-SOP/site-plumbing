@@ -12,6 +12,7 @@ lng: -68.7900
 zipSample: ["04402", "04401"]
 zipCodes: ["04402", "04401"]
 localPaths: ["Penobscot County / elevation 167 ft band", "Penobscot County / ZIP 04402 sector", "Penobscot County / ZIP 04401 sector", "Penobscot County / primary ZIP 04401", "Penobscot County / coords 44.8300, -68.7900"]
+zillowHomeValueUsd: 299399
 ---
 
 **Engineering Notice for Bangor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Penobscot County.

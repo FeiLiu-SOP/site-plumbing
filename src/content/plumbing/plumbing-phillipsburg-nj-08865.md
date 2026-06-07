@@ -12,6 +12,7 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / elevation 308 ft band", "Warren County / primary ZIP 08865", "Warren County / coords 40.6900, -75.1800"]
+zillowHomeValueUsd: 336542
 ---
 
 **Engineering Notice for Phillipsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

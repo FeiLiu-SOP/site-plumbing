@@ -12,6 +12,7 @@ lng: -70.9400
 zipSample: ["02746", "02740", "02744", "02745", "02742"]
 zipCodes: ["02741", "02744", "02740", "02745", "02746", "02742"]
 localPaths: ["Bristol County / elevation 85 ft band", "Bristol County / ZIP 02742 sector", "Bristol County / ZIP 02745 sector", "Bristol County / ZIP 02744 sector", "Bristol County / primary ZIP 02740"]
+zillowHomeValueUsd: 419955
 ---
 
 **Engineering Notice for New Bedford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bristol County.

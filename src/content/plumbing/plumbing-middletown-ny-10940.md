@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / elevation 568 ft band", "Orange County / primary ZIP 10940", "Orange County / coords 41.4500, -74.4200", "Orange County / ZIP 10940 sector"]
+zillowHomeValueUsd: 390365
 ---
 
 **Engineering Notice for Middletown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

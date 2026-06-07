@@ -12,6 +12,7 @@ lng: -122.0400
 zipSample: ["98038"]
 zipCodes: ["98038"]
 localPaths: ["King County / ZIP 98038 sector", "King County / primary ZIP 98038", "King County / elevation 541 ft band", "King County / coords 47.3700, -122.0400"]
+zillowHomeValueUsd: 800427
 ---
 
 **Engineering Notice for Maple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

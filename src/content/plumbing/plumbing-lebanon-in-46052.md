@@ -12,6 +12,7 @@ lng: -86.4600
 zipSample: ["46052"]
 zipCodes: ["46052"]
 localPaths: ["Boone County / primary ZIP 46052", "Boone County / coords 40.0300, -86.4600", "Boone County / ZIP 46052 sector", "Boone County / elevation 945 ft band"]
+zillowHomeValueUsd: 295154
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.

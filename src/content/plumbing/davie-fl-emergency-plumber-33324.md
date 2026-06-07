@@ -12,7 +12,7 @@ lng: -80.2870
 zipSample: ["33331", "33355", "33314", "33324", "33328"]
 zipCodes: ["33325", "33331", "33324", "33355", "33314", "33328", "33330"]
 localPaths: ["Broward County / ZIP 33331 sector", "Broward County / ZIP 33328 sector", "Broward County / primary ZIP 33324", "Broward County / ZIP 33314 sector", "Broward County / ZIP 33355 sector"]
-zillowHomeValueUsd: 515020
+zillowHomeValueUsd: 359231
 ---
 
 **Engineering Notice for Davie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

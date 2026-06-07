@@ -12,6 +12,7 @@ lng: -121.4000
 zipSample: ["95823", "95828"]
 zipCodes: ["95828", "95823"]
 localPaths: ["Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95828 sector", "Sacramento County / primary ZIP 95823", "Sacramento County / ZIP 95823 sector", "Sacramento County / coords 38.4800, -121.4000"]
+zillowHomeValueUsd: 428746
 ---
 
 **Engineering Notice for Florin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

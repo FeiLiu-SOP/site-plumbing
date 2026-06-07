@@ -12,6 +12,7 @@ lng: -117.0000
 zipSample: ["91977"]
 zipCodes: ["91977"]
 localPaths: ["San Diego County / primary ZIP 91977", "San Diego County / ZIP 91977 sector", "San Diego County / elevation 295 ft band", "San Diego County / coords 32.7100, -117.0000"]
+zillowHomeValueUsd: 768705
 ---
 
 **Engineering Notice for La Presa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / primary ZIP 76034", "Tarrant County / elevation 653 ft band", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / ZIP 76034 sector"]
+zillowHomeValueUsd: 912160
 ---
 
 **Engineering Notice for Colleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

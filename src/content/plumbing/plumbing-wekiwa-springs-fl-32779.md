@@ -12,6 +12,7 @@ lng: -81.4300
 zipSample: ["32779", "32791", "32752"]
 zipCodes: ["32791", "32752", "32779"]
 localPaths: ["Seminole County / ZIP 32791 sector", "Seminole County / ZIP 32752 sector", "Seminole County / primary ZIP 32779", "Seminole County / coords 28.7000, -81.4300", "Seminole County / elevation 79 ft band"]
+zillowHomeValueUsd: 536769
 ---
 
 **Engineering Notice for Wekiwa Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.

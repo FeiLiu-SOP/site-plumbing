@@ -12,6 +12,7 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / coords 32.9800, -115.5300", "Imperial County / elevation -113 ft band", "Imperial County / primary ZIP 92227", "Imperial County / ZIP 92227 sector"]
+zillowHomeValueUsd: 358615
 ---
 
 **Engineering Notice for Brawley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.

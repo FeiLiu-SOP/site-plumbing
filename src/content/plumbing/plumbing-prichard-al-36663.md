@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["36610", "36613", "36612", "36663"]
 zipCodes: ["36610", "36612", "36663", "36613"]
 localPaths: ["Mobile County / ZIP 36612 sector", "Mobile County / primary ZIP 36663", "Mobile County / coords 30.7700, -88.1300", "Mobile County / ZIP 36663 sector", "Mobile County / ZIP 36613 sector"]
+zillowHomeValueUsd: 147112
 ---
 
 **Engineering Notice for Prichard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.

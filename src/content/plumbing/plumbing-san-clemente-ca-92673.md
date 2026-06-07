@@ -12,6 +12,7 @@ lng: -117.6100
 zipSample: ["92673", "92674", "92672"]
 zipCodes: ["92673", "92674", "92672"]
 localPaths: ["Orange County / ZIP 92674 sector", "Orange County / ZIP 92672 sector", "Orange County / elevation 200 ft band", "Orange County / ZIP 92673 sector", "Orange County / coords 33.4500, -117.6100"]
+zillowHomeValueUsd: 1736218
 ---
 
 **Engineering Notice for San Clemente:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["20745"]
 zipCodes: ["20745"]
 localPaths: ["Prince George's County / ZIP 20745 sector", "Prince George's County / primary ZIP 20745", "Prince George's County / elevation 177 ft band", "Prince George's County / coords 38.8200, -76.9800"]
+zillowHomeValueUsd: 361944
 ---
 
 **Engineering Notice for Glassmanor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

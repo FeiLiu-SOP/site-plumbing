@@ -12,6 +12,7 @@ lng: -86.8400
 zipSample: ["35056", "35055", "35057", "35058"]
 zipCodes: ["35056", "35055", "35057", "35058"]
 localPaths: ["Cullman County / elevation 823 ft band", "Cullman County / ZIP 35055 sector", "Cullman County / ZIP 35056 sector", "Cullman County / ZIP 35058 sector", "Cullman County / ZIP 35057 sector"]
+zillowHomeValueUsd: 262434
 ---
 
 **Engineering Notice for Cullman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cullman County.

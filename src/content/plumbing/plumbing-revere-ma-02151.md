@@ -12,6 +12,7 @@ lng: -71.0000
 zipSample: ["02151"]
 zipCodes: ["02151"]
 localPaths: ["Suffolk County / primary ZIP 02151", "Suffolk County / coords 42.4200, -71.0000", "Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 02151 sector"]
+zillowHomeValueUsd: 613257
 ---
 
 **Engineering Notice for Revere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["44142", "44188"]
 zipCodes: ["44188", "44142"]
 localPaths: ["Cuyahoga County / ZIP 44188 sector", "Cuyahoga County / ZIP 44142 sector", "Cuyahoga County / primary ZIP 44142", "Cuyahoga County / elevation 787 ft band", "Cuyahoga County / coords 41.4000, -81.8200"]
+zillowHomeValueUsd: 211781
 ---
 
 **Engineering Notice for Brook Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

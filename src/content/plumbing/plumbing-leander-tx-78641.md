@@ -12,6 +12,7 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78646", "78641"]
 localPaths: ["Williamson County / ZIP 78646 sector", "Williamson County / ZIP 78641 sector", "Williamson County / coords 30.5700, -97.8600", "Williamson County / primary ZIP 78641", "Williamson County / elevation 1024 ft band"]
+zillowHomeValueUsd: 432236
 ---
 
 **Engineering Notice for Leander:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.

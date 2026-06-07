@@ -12,6 +12,7 @@ lng: -83.2600
 zipSample: ["48075", "48033", "48076", "48086", "48037"]
 zipCodes: ["48037", "48034", "48075", "48033", "48076", "48086"]
 localPaths: ["Oakland County / ZIP 48086 sector", "Oakland County / ZIP 48076 sector", "Oakland County / ZIP 48033 sector", "Oakland County / ZIP 48075 sector", "Oakland County / primary ZIP 48033"]
+zillowHomeValueUsd: 223539
 ---
 
 **Engineering Notice for Southfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

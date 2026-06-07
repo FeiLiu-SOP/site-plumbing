@@ -12,6 +12,7 @@ lng: -111.8600
 zipSample: ["84011", "84010"]
 zipCodes: ["84011", "84010"]
 localPaths: ["Davis County / ZIP 84010 sector", "Davis County / coords 40.8700, -111.8600", "Davis County / primary ZIP 84010", "Davis County / elevation 4783 ft band", "Davis County / ZIP 84011 sector"]
+zillowHomeValueUsd: 579878
 ---
 
 **Engineering Notice for Bountiful:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

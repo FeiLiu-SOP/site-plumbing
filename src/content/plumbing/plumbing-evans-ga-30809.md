@@ -12,6 +12,7 @@ lng: -82.1400
 zipSample: ["30809"]
 zipCodes: ["30809"]
 localPaths: ["Columbia County / ZIP 30809 sector", "Columbia County / elevation 364 ft band", "Columbia County / coords 33.5600, -82.1400", "Columbia County / primary ZIP 30809"]
+zillowHomeValueUsd: 403979
 ---
 
 **Engineering Notice for Evans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Columbia County.

@@ -12,6 +12,7 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / primary ZIP 60430", "Cook County / ZIP 60430 sector", "Cook County / coords 41.5600, -87.6600"]
+zillowHomeValueUsd: 243520
 ---
 
 **Engineering Notice for Homewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

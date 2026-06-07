@@ -12,6 +12,7 @@ lng: -95.1200
 zipSample: ["77536", "77571"]
 zipCodes: ["77536", "77571"]
 localPaths: ["Harris County / elevation 39 ft band", "Harris County / ZIP 77536 sector", "Harris County / ZIP 77571 sector", "Harris County / primary ZIP 77571", "Harris County / coords 29.6900, -95.1200"]
+zillowHomeValueUsd: 257160
 ---
 
 **Engineering Notice for Deer Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.

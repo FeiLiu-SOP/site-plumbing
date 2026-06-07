@@ -12,6 +12,7 @@ lng: -81.7600
 zipSample: ["44130"]
 zipCodes: ["44130"]
 localPaths: ["Cuyahoga County / ZIP 44130 sector", "Cuyahoga County / elevation 853 ft band", "Cuyahoga County / coords 41.3900, -81.7600", "Cuyahoga County / primary ZIP 44130"]
+zillowHomeValueUsd: 232806
 ---
 
 **Engineering Notice for Parma Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

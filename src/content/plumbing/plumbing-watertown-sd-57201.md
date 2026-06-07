@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["57201"]
 zipCodes: ["57201"]
 localPaths: ["Codington County / primary ZIP 57201", "Codington County / coords 44.9100, -97.1500", "Codington County / ZIP 57201 sector", "Codington County / elevation 1726 ft band"]
+zillowHomeValueUsd: 319578
 ---
 
 **Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Codington County.

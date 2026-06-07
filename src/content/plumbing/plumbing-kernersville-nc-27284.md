@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["27284", "27285"]
 zipCodes: ["27285", "27284"]
 localPaths: ["Forsyth County / primary ZIP 27284", "Forsyth County / elevation 951 ft band", "Forsyth County / coords 36.1100, -80.0800", "Forsyth County / ZIP 27284 sector", "Forsyth County / ZIP 27285 sector"]
+zillowHomeValueUsd: 322980
 ---
 
 **Engineering Notice for Kernersville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forsyth County.

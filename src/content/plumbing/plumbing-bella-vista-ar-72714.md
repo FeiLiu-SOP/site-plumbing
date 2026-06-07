@@ -12,6 +12,7 @@ lng: -94.2700
 zipSample: ["72715", "72714"]
 zipCodes: ["72715", "72714"]
 localPaths: ["Benton County / primary ZIP 72714", "Benton County / ZIP 72714 sector", "Benton County / elevation 1217 ft band", "Benton County / ZIP 72715 sector", "Benton County / coords 36.4700, -94.2700"]
+zillowHomeValueUsd: 354338
 ---
 
 **Engineering Notice for Bella Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.

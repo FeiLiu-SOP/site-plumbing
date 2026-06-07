@@ -12,6 +12,7 @@ lng: -122.6900
 zipSample: ["97013"]
 zipCodes: ["97013"]
 localPaths: ["Clackamas County / elevation 144 ft band", "Clackamas County / coords 45.2700, -122.6900", "Clackamas County / primary ZIP 97013", "Clackamas County / ZIP 97013 sector"]
+zillowHomeValueUsd: 591262
 ---
 
 **Engineering Notice for Canby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.

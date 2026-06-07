@@ -12,6 +12,7 @@ lng: -80.0800
 zipSample: ["27360", "27361"]
 zipCodes: ["27360", "27361"]
 localPaths: ["Davidson County / elevation 840 ft band", "Davidson County / primary ZIP 27360", "Davidson County / ZIP 27360 sector", "Davidson County / ZIP 27361 sector", "Davidson County / coords 35.8800, -80.0800"]
+zillowHomeValueUsd: 238334
 ---
 
 **Engineering Notice for Thomasville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davidson County.

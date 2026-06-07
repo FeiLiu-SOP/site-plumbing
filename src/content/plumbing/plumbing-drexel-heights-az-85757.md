@@ -12,6 +12,7 @@ lng: -111.0500
 zipSample: ["85746", "85757"]
 zipCodes: ["85757", "85746"]
 localPaths: ["Pima County / elevation 2664 ft band", "Pima County / primary ZIP 85757", "Pima County / ZIP 85757 sector", "Pima County / ZIP 85746 sector", "Pima County / coords 32.1500, -111.0500"]
+zillowHomeValueUsd: 324459
 ---
 
 **Engineering Notice for Drexel Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

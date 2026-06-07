@@ -12,6 +12,7 @@ lng: -112.3100
 zipSample: ["84074"]
 zipCodes: ["84074"]
 localPaths: ["Tooele County / coords 40.5400, -112.3100", "Tooele County / primary ZIP 84074", "Tooele County / elevation 4925 ft band", "Tooele County / ZIP 84074 sector"]
+zillowHomeValueUsd: 464588
 ---
 
 **Engineering Notice for Tooele:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tooele County.

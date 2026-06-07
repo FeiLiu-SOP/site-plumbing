@@ -12,6 +12,7 @@ lng: -84.4100
 zipSample: ["48805", "48864"]
 zipCodes: ["48805", "48864"]
 localPaths: ["Ingham County / ZIP 48864 sector", "Ingham County / elevation 863 ft band", "Ingham County / primary ZIP 48864", "Ingham County / coords 42.7100, -84.4100", "Ingham County / ZIP 48805 sector"]
+zillowHomeValueUsd: 390277
 ---
 
 **Engineering Notice for Okemos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.

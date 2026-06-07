@@ -12,6 +12,7 @@ lng: -94.8900
 zipSample: ["77551", "77550", "77555", "77552", "77553"]
 zipCodes: ["77552", "77550", "77555", "77553", "77554", "77551"]
 localPaths: ["Galveston County / primary ZIP 77551", "Galveston County / coords 29.2500, -94.8900", "Galveston County / elevation 10 ft band", "Galveston County / ZIP 77552 sector", "Galveston County / ZIP 77550 sector"]
+zillowHomeValueUsd: 246036
 ---
 
 **Engineering Notice for Galveston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.

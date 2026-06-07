@@ -12,6 +12,7 @@ lng: -117.9600
 zipSample: ["92844", "92843", "92840", "92846", "92845"]
 zipCodes: ["92846", "92840", "92845", "92841", "92844", "92843", "92842"]
 localPaths: ["Orange County / primary ZIP 92843", "Orange County / ZIP 92845 sector", "Orange County / elevation 89 ft band", "Orange County / ZIP 92844 sector", "Orange County / coords 33.7800, -117.9600"]
+zillowHomeValueUsd: 977517
 ---
 
 **Engineering Notice for Garden Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

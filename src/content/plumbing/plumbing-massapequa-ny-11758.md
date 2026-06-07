@@ -12,6 +12,7 @@ lng: -73.4700
 zipSample: ["11758"]
 zipCodes: ["11758"]
 localPaths: ["Nassau County / coords 40.6700, -73.4700", "Nassau County / elevation 16 ft band", "Nassau County / ZIP 11758 sector", "Nassau County / primary ZIP 11758"]
+zillowHomeValueUsd: 804474
 ---
 
 **Engineering Notice for Massapequa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

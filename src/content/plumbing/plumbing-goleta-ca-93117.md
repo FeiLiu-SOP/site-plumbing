@@ -12,6 +12,7 @@ lng: -119.8600
 zipSample: ["93118", "93117"]
 zipCodes: ["93117", "93118"]
 localPaths: ["Santa Barbara County / coords 34.4400, -119.8600", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / primary ZIP 93117", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / ZIP 93118 sector"]
+zillowHomeValueUsd: 1378733
 ---
 
 **Engineering Notice for Goleta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.

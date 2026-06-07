@@ -12,6 +12,7 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector", "Waynesboro County / primary ZIP 22980", "Waynesboro County / coords 38.0700, -78.9000"]
+zillowHomeValueUsd: 313580
 ---
 
 **Engineering Notice for Waynesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waynesboro County.

@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["36532", "36559"]
 zipCodes: ["36532", "36559"]
 localPaths: ["Baldwin County / ZIP 36532 sector", "Baldwin County / primary ZIP 36532", "Baldwin County / coords 30.5200, -87.8800", "Baldwin County / elevation 128 ft band", "Baldwin County / ZIP 36559 sector"]
+zillowHomeValueUsd: 459830
 ---
 
 **Engineering Notice for Fairhope:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.

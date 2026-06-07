@@ -12,6 +12,7 @@ lng: -88.2500
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / coords 42.2100, -88.2500", "McHenry County / ZIP 60013 sector", "McHenry County / primary ZIP 60013", "McHenry County / elevation 820 ft band"]
+zillowHomeValueUsd: 370716
 ---
 
 **Engineering Notice for Cary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.

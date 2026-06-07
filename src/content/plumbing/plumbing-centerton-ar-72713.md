@@ -12,6 +12,7 @@ lng: -94.3000
 zipSample: ["72713", "72719"]
 zipCodes: ["72719", "72713"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / coords 36.3600, -94.3000", "Benton County / primary ZIP 72713", "Benton County / ZIP 72713 sector"]
+zillowHomeValueUsd: 454939
 ---
 
 **Engineering Notice for Centerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.

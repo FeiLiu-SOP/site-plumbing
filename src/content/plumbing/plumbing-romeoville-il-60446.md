@@ -12,6 +12,7 @@ lng: -88.1000
 zipSample: ["60446"]
 zipCodes: ["60446"]
 localPaths: ["Will County / ZIP 60446 sector", "Will County / elevation 682 ft band", "Will County / primary ZIP 60446", "Will County / coords 41.6300, -88.1000"]
+zillowHomeValueUsd: 313695
 ---
 
 **Engineering Notice for Romeoville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

@@ -12,6 +12,7 @@ lng: -85.2300
 zipSample: ["37412"]
 zipCodes: ["37412"]
 localPaths: ["Hamilton County / elevation 682 ft band", "Hamilton County / primary ZIP 37412", "Hamilton County / ZIP 37412 sector", "Hamilton County / coords 35.0000, -85.2300"]
+zillowHomeValueUsd: 258008
 ---
 
 **Engineering Notice for East Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

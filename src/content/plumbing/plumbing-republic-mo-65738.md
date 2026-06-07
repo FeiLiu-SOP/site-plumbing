@@ -12,6 +12,7 @@ lng: -93.4400
 zipSample: ["65619", "65738", "65802"]
 zipCodes: ["65619", "65738", "65802"]
 localPaths: ["Greene County / primary ZIP 65738", "Greene County / coords 37.1500, -93.4400", "Greene County / ZIP 65619 sector", "Greene County / elevation 1273 ft band", "Greene County / ZIP 65738 sector"]
+zillowHomeValueUsd: 266746
 ---
 
 **Engineering Notice for Republic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.

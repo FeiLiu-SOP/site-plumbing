@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["98496", "98499", "98497", "98498"]
 zipCodes: ["98499", "98497", "98498", "98496"]
 localPaths: ["Pierce County / ZIP 98497 sector", "Pierce County / ZIP 98499 sector", "Pierce County / ZIP 98496 sector", "Pierce County / elevation 233 ft band", "Pierce County / ZIP 98498 sector"]
+zillowHomeValueUsd: 481505
 ---
 
 **Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.

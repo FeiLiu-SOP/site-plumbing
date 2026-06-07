@@ -12,6 +12,7 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / elevation 1624 ft band", "Kerr County / primary ZIP 78028", "Kerr County / coords 30.0400, -99.1300", "Kerr County / ZIP 78028 sector"]
+zillowHomeValueUsd: 348623
 ---
 
 **Engineering Notice for Kerrville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kerr County.

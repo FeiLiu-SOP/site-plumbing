@@ -12,6 +12,7 @@ lng: -82.1100
 zipSample: ["44036", "44035"]
 zipCodes: ["44035", "44036"]
 localPaths: ["Lorain County / ZIP 44035 sector", "Lorain County / elevation 719 ft band", "Lorain County / primary ZIP 44035", "Lorain County / coords 41.3800, -82.1100", "Lorain County / ZIP 44036 sector"]
+zillowHomeValueUsd: 182809
 ---
 
 **Engineering Notice for Elyria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.

@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["60060"]
 zipCodes: ["60060"]
 localPaths: ["Lake County / elevation 758 ft band", "Lake County / ZIP 60060 sector", "Lake County / primary ZIP 60060", "Lake County / coords 42.2700, -88.0100"]
+zillowHomeValueUsd: 384009
 ---
 
 **Engineering Notice for Mundelein:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -122.4300
 zipSample: ["94066"]
 zipCodes: ["94066"]
 localPaths: ["San Mateo County / coords 37.6300, -122.4300", "San Mateo County / primary ZIP 94066", "San Mateo County / elevation 331 ft band", "San Mateo County / ZIP 94066 sector"]
+zillowHomeValueUsd: 1329657
 ---
 
 **Engineering Notice for San Bruno:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.

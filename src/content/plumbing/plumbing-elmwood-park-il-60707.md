@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["60707"]
 zipCodes: ["60707"]
 localPaths: ["Cook County / ZIP 60707 sector", "Cook County / elevation 636 ft band", "Cook County / primary ZIP 60707", "Cook County / coords 41.9200, -87.8200"]
+zillowHomeValueUsd: 334753
 ---
 
 **Engineering Notice for Elmwood Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

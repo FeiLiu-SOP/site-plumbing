@@ -12,6 +12,7 @@ lng: -86.9200
 zipSample: ["47907", "47996", "47906"]
 zipCodes: ["47907", "47996", "47906"]
 localPaths: ["Tippecanoe County / primary ZIP 47906", "Tippecanoe County / coords 40.4400, -86.9200", "Tippecanoe County / ZIP 47906 sector", "Tippecanoe County / elevation 725 ft band", "Tippecanoe County / ZIP 47996 sector"]
+zillowHomeValueUsd: 363777
 ---
 
 **Engineering Notice for West Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tippecanoe County.

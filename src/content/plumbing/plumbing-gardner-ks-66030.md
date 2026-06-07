@@ -12,6 +12,7 @@ lng: -94.9300
 zipSample: ["66030"]
 zipCodes: ["66030"]
 localPaths: ["Johnson County / primary ZIP 66030", "Johnson County / coords 38.8100, -94.9300", "Johnson County / elevation 1070 ft band", "Johnson County / ZIP 66030 sector"]
+zillowHomeValueUsd: 352617
 ---
 
 **Engineering Notice for Gardner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

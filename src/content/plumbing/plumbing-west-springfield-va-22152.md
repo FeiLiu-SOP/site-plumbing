@@ -12,6 +12,7 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / ZIP 22152 sector", "Fairfax County / elevation 295 ft band", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / primary ZIP 22152"]
+zillowHomeValueUsd: 697897
 ---
 
 **Engineering Notice for West Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

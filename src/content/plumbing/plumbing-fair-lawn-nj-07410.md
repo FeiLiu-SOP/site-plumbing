@@ -12,6 +12,7 @@ lng: -74.1200
 zipSample: ["07410"]
 zipCodes: ["07410"]
 localPaths: ["Bergen County / ZIP 07410 sector", "Bergen County / elevation 79 ft band", "Bergen County / primary ZIP 07410", "Bergen County / coords 40.9400, -74.1200"]
+zillowHomeValueUsd: 709816
 ---
 
 **Engineering Notice for Fair Lawn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

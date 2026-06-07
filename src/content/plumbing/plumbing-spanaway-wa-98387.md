@@ -12,6 +12,7 @@ lng: -122.4200
 zipSample: ["98387", "98445"]
 zipCodes: ["98387", "98445"]
 localPaths: ["Pierce County / ZIP 98387 sector", "Pierce County / coords 47.1000, -122.4200", "Pierce County / primary ZIP 98387", "Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector"]
+zillowHomeValueUsd: 509441
 ---
 
 **Engineering Notice for Spanaway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.

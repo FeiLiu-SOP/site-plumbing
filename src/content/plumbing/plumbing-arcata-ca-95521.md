@@ -12,6 +12,7 @@ lng: -124.0800
 zipSample: ["95518", "95521"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / ZIP 95518 sector", "Humboldt County / coords 40.8600, -124.0800", "Humboldt County / elevation 7 ft band", "Humboldt County / ZIP 95521 sector", "Humboldt County / primary ZIP 95521"]
+zillowHomeValueUsd: 488032
 ---
 
 **Engineering Notice for Arcata:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.

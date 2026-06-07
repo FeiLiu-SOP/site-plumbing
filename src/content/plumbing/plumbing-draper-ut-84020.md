@@ -12,6 +12,7 @@ lng: -111.8600
 zipSample: ["84020"]
 zipCodes: ["84020"]
 localPaths: ["Salt Lake County / ZIP 84020 sector", "Salt Lake County / primary ZIP 84020", "Salt Lake County / elevation 4757 ft band", "Salt Lake County / coords 40.5000, -111.8600"]
+zillowHomeValueUsd: 806284
 ---
 
 **Engineering Notice for Draper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

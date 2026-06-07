@@ -12,6 +12,7 @@ lng: -121.7600
 zipSample: ["94550", "94551"]
 zipCodes: ["94550", "94551"]
 localPaths: ["Alameda County / ZIP 94551 sector", "Alameda County / ZIP 94550 sector", "Alameda County / elevation 502 ft band", "Alameda County / primary ZIP 94550", "Alameda County / coords 37.6900, -121.7600"]
+zillowHomeValueUsd: 1247446
 ---
 
 **Engineering Notice for Livermore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

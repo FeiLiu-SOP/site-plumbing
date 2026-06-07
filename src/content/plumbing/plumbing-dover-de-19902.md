@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["19902", "19906", "19905", "19901", "19904"]
 zipCodes: ["19904", "19905", "19901", "19906", "19902"]
 localPaths: ["Kent County / ZIP 19902 sector", "Kent County / elevation 13 ft band", "Kent County / ZIP 19906 sector", "Kent County / ZIP 19904 sector", "Kent County / ZIP 19901 sector"]
+zillowHomeValueUsd: 341239
 ---
 
 **Engineering Notice for Dover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

@@ -12,7 +12,7 @@ lng: -81.6993
 zipSample: ["34145", "34140", "34146"]
 zipCodes: ["34146", "34140", "34145"]
 localPaths: ["Collier County / coords 25.9330, -81.6993", "Collier County / primary ZIP 34145", "Collier County / ZIP 34146 sector", "Collier County / ZIP 34140 sector", "Collier County / elevation 345 ft band"]
-zillowHomeValueUsd: 865675
+zillowHomeValueUsd: 867765
 ---
 
 **Engineering Notice for Marco Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collier County.

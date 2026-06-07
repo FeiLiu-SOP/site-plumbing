@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["60706"]
 zipCodes: ["60706"]
 localPaths: ["Cook County / ZIP 60706 sector", "Cook County / primary ZIP 60706", "Cook County / coords 41.9600, -87.8200", "Cook County / elevation 650 ft band"]
+zillowHomeValueUsd: 396752
 ---
 
 **Engineering Notice for Norridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

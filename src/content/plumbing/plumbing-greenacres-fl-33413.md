@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["33413", "33463"]
 zipCodes: ["33463", "33413"]
 localPaths: ["Palm Beach County / primary ZIP 33413", "Palm Beach County / coords 26.6300, -80.1400", "Palm Beach County / ZIP 33463 sector", "Palm Beach County / elevation 39 ft band", "Palm Beach County / ZIP 33413 sector"]
+zillowHomeValueUsd: 482190
 ---
 
 **Engineering Notice for Greenacres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

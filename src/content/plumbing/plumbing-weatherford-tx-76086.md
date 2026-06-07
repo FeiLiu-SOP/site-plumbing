@@ -12,6 +12,7 @@ lng: -97.7700
 zipSample: ["76086", "76087"]
 zipCodes: ["76086", "76087"]
 localPaths: ["Parker County / ZIP 76086 sector", "Parker County / elevation 1020 ft band", "Parker County / primary ZIP 76086", "Parker County / ZIP 76087 sector", "Parker County / coords 32.7500, -97.7700"]
+zillowHomeValueUsd: 272905
 ---
 
 **Engineering Notice for Weatherford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Parker County.

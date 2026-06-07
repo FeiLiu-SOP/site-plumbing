@@ -12,6 +12,7 @@ lng: -88.3100
 zipSample: ["60539", "60510"]
 zipCodes: ["60539", "60510"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / coords 41.8500, -88.3100", "Kane County / ZIP 60510 sector", "Kane County / primary ZIP 60539", "Kane County / elevation 709 ft band"]
+zillowHomeValueUsd: 453682
 ---
 
 **Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.

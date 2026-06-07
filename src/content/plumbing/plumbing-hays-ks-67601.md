@@ -12,6 +12,7 @@ lng: -99.3200
 zipSample: ["67601"]
 zipCodes: ["67601"]
 localPaths: ["Ellis County / ZIP 67601 sector", "Ellis County / elevation 2047 ft band", "Ellis County / coords 38.8800, -99.3200", "Ellis County / primary ZIP 67601"]
+zillowHomeValueUsd: 254509
 ---
 
 **Engineering Notice for Hays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.

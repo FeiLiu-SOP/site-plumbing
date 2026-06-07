@@ -12,6 +12,7 @@ lng: -87.9700
 zipSample: ["60048"]
 zipCodes: ["60048"]
 localPaths: ["Lake County / primary ZIP 60048", "Lake County / coords 42.2900, -87.9700", "Lake County / elevation 692 ft band", "Lake County / ZIP 60048 sector"]
+zillowHomeValueUsd: 608267
 ---
 
 **Engineering Notice for Libertyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

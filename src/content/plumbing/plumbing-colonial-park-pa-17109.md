@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["17112", "17109", "17177"]
 zipCodes: ["17112", "17177", "17109"]
 localPaths: ["Dauphin County / ZIP 17112 sector", "Dauphin County / ZIP 17109 sector", "Dauphin County / ZIP 17177 sector", "Dauphin County / primary ZIP 17109", "Dauphin County / elevation 528 ft band"]
+zillowHomeValueUsd: 261212
 ---
 
 **Engineering Notice for Colonial Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dauphin County.

@@ -12,6 +12,7 @@ lng: -84.5900
 zipSample: ["30213", "30268"]
 zipCodes: ["30268", "30213"]
 localPaths: ["Fulton County / ZIP 30213 sector", "Fulton County / elevation 1027 ft band", "Fulton County / primary ZIP 30268", "Fulton County / ZIP 30268 sector", "Fulton County / coords 33.5500, -84.5900"]
+zillowHomeValueUsd: 320051
 ---
 
 **Engineering Notice for Fairburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

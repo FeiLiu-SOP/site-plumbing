@@ -12,6 +12,7 @@ lng: -95.6100
 zipSample: ["74019", "74018", "74017"]
 zipCodes: ["74018", "74019", "74017"]
 localPaths: ["Rogers County / ZIP 74017 sector", "Rogers County / ZIP 74019 sector", "Rogers County / coords 36.3100, -95.6100", "Rogers County / elevation 627 ft band", "Rogers County / primary ZIP 74019"]
+zillowHomeValueUsd: 283772
 ---
 
 **Engineering Notice for Claremore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rogers County.

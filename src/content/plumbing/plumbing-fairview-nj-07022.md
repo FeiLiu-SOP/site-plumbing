@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["07022"]
 zipCodes: ["07022"]
 localPaths: ["Bergen County / coords 40.8200, -74.0000", "Bergen County / ZIP 07022 sector", "Bergen County / primary ZIP 07022", "Bergen County / elevation 262 ft band"]
+zillowHomeValueUsd: 654988
 ---
 
 **Engineering Notice for Fairview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

@@ -12,6 +12,7 @@ lng: -80.0900
 zipSample: ["33445", "33482", "33483", "33444", "33448"]
 zipCodes: ["33444", "33445", "33483", "33482", "33448"]
 localPaths: ["Palm Beach County / ZIP 33482 sector", "Palm Beach County / primary ZIP 33445", "Palm Beach County / ZIP 33448 sector", "Palm Beach County / ZIP 33483 sector", "Palm Beach County / coords 26.4500, -80.0900"]
+zillowHomeValueUsd: 304546
 ---
 
 **Engineering Notice for Delray Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

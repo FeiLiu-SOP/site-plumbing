@@ -12,6 +12,7 @@ lng: -82.1500
 zipSample: ["34477", "34483", "34475", "34478", "34470"]
 zipCodes: ["34470", "34477", "34475", "34478", "34474", "34483", "34471"]
 localPaths: ["Marion County / ZIP 34478 sector", "Marion County / coords 29.1800, -82.1500", "Marion County / ZIP 34475 sector", "Marion County / elevation 85 ft band", "Marion County / ZIP 34483 sector"]
+zillowHomeValueUsd: 209963
 ---
 
 **Engineering Notice for Ocala:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

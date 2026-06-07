@@ -12,6 +12,7 @@ lng: -82.2000
 zipSample: ["34473"]
 zipCodes: ["34473"]
 localPaths: ["Marion County / ZIP 34473 sector", "Marion County / coords 29.0000, -82.2000", "Marion County / elevation 112 ft band", "Marion County / primary ZIP 34473"]
+zillowHomeValueUsd: 270134
 ---
 
 **Engineering Notice for Marion Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

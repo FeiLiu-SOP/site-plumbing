@@ -12,6 +12,7 @@ lng: -82.3200
 zipSample: ["44805"]
 zipCodes: ["44805"]
 localPaths: ["Ashland County / primary ZIP 44805", "Ashland County / coords 40.8700, -82.3200", "Ashland County / ZIP 44805 sector", "Ashland County / elevation 1073 ft band"]
+zillowHomeValueUsd: 226908
 ---
 
 **Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ashland County.

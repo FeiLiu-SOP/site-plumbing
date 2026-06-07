@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["48823", "48840"]
 zipCodes: ["48840", "48823"]
 localPaths: ["Ingham County / ZIP 48823 sector", "Ingham County / elevation 846 ft band", "Ingham County / ZIP 48840 sector", "Ingham County / primary ZIP 48840", "Ingham County / coords 42.7500, -84.4000"]
+zillowHomeValueUsd: 305867
 ---
 
 **Engineering Notice for Haslett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.

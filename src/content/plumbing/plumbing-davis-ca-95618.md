@@ -12,6 +12,7 @@ lng: -121.7400
 zipSample: ["95617", "95616", "95618"]
 zipCodes: ["95618", "95616", "95617"]
 localPaths: ["Yolo County / elevation 43 ft band", "Yolo County / ZIP 95617 sector", "Yolo County / coords 38.5600, -121.7400", "Yolo County / primary ZIP 95618", "Yolo County / ZIP 95618 sector"]
+zillowHomeValueUsd: 846421
 ---
 
 **Engineering Notice for Davis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yolo County.

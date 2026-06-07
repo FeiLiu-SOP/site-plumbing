@@ -12,6 +12,7 @@ lng: -122.3200
 zipSample: ["98198", "98148"]
 zipCodes: ["98148", "98198"]
 localPaths: ["King County / coords 47.3900, -122.3200", "King County / ZIP 98148 sector", "King County / primary ZIP 98148", "King County / ZIP 98198 sector", "King County / elevation 164 ft band"]
+zillowHomeValueUsd: 612368
 ---
 
 **Engineering Notice for Des Moines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

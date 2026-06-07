@@ -12,6 +12,7 @@ lng: -87.9800
 zipSample: ["53092", "53097"]
 zipCodes: ["53092", "53097"]
 localPaths: ["Ozaukee County / primary ZIP 53097", "Ozaukee County / ZIP 53097 sector", "Ozaukee County / coords 43.2400, -87.9800", "Ozaukee County / ZIP 53092 sector", "Ozaukee County / elevation 666 ft band"]
+zillowHomeValueUsd: 673228
 ---
 
 **Engineering Notice for Mequon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ozaukee County.

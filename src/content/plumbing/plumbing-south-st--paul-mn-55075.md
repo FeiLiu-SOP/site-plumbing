@@ -12,6 +12,7 @@ lng: -93.0400
 zipSample: ["55075"]
 zipCodes: ["55075"]
 localPaths: ["Dakota County / coords 44.8900, -93.0400", "Dakota County / elevation 823 ft band", "Dakota County / primary ZIP 55075", "Dakota County / ZIP 55075 sector"]
+zillowHomeValueUsd: 295897
 ---
 
 **Engineering Notice for South St. Paul:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

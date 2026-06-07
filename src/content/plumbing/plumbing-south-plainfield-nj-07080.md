@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["07080"]
 zipCodes: ["07080"]
 localPaths: ["Middlesex County / elevation 89 ft band", "Middlesex County / coords 40.5700, -74.4200", "Middlesex County / ZIP 07080 sector", "Middlesex County / primary ZIP 07080"]
+zillowHomeValueUsd: 583443
 ---
 
 **Engineering Notice for South Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

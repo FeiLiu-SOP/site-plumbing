@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["33189", "33157", "33190"]
 zipCodes: ["33190", "33189", "33157"]
 localPaths: ["Miami-Dade County / ZIP 33189 sector", "Miami-Dade County / primary ZIP 33190", "Miami-Dade County / coords 25.5800, -80.3400", "Miami-Dade County / elevation 23 ft band", "Miami-Dade County / ZIP 33190 sector"]
+zillowHomeValueUsd: 437198
 ---
 
 **Engineering Notice for Cutler Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -73.3700
 zipSample: ["11757"]
 zipCodes: ["11757"]
 localPaths: ["Suffolk County / ZIP 11757 sector", "Suffolk County / primary ZIP 11757", "Suffolk County / coords 40.6900, -73.3700", "Suffolk County / elevation 30 ft band"]
+zillowHomeValueUsd: 600983
 ---
 
 **Engineering Notice for Lindenhurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

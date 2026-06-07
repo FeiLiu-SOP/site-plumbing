@@ -12,6 +12,7 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / elevation 4341 ft band", "Davis County / coords 41.1400, -112.0700", "Davis County / primary ZIP 84015", "Davis County / ZIP 84015 sector"]
+zillowHomeValueUsd: 465998
 ---
 
 **Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

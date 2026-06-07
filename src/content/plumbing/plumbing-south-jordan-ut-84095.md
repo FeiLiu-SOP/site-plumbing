@@ -12,6 +12,7 @@ lng: -111.9800
 zipSample: ["84096", "84009", "84095"]
 zipCodes: ["84096", "84009", "84095"]
 localPaths: ["Salt Lake County / ZIP 84009 sector", "Salt Lake County / ZIP 84095 sector", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84095"]
+zillowHomeValueUsd: 759223
 ---
 
 **Engineering Notice for South Jordan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

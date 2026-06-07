@@ -12,6 +12,7 @@ lng: -73.4500
 zipSample: ["11762"]
 zipCodes: ["11762"]
 localPaths: ["Nassau County / ZIP 11762 sector", "Nassau County / coords 40.6800, -73.4500", "Nassau County / elevation 39 ft band", "Nassau County / primary ZIP 11762"]
+zillowHomeValueUsd: 792776
 ---
 
 **Engineering Notice for Massapequa Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

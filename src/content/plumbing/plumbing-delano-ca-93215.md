@@ -12,6 +12,7 @@ lng: -119.2600
 zipSample: ["93215"]
 zipCodes: ["93215"]
 localPaths: ["Kern County / coords 35.7700, -119.2600", "Kern County / ZIP 93215 sector", "Kern County / primary ZIP 93215", "Kern County / elevation 302 ft band"]
+zillowHomeValueUsd: 335375
 ---
 
 **Engineering Notice for Delano:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.

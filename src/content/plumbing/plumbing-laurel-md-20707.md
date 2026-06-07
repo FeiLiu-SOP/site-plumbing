@@ -12,6 +12,7 @@ lng: -76.8600
 zipSample: ["20797", "20707", "20725"]
 zipCodes: ["20797", "20725", "20707"]
 localPaths: ["Prince George's County / elevation 243 ft band", "Prince George's County / ZIP 20797 sector", "Prince George's County / primary ZIP 20707", "Prince George's County / coords 39.0900, -76.8600", "Prince George's County / ZIP 20725 sector"]
+zillowHomeValueUsd: 414272
 ---
 
 **Engineering Notice for Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

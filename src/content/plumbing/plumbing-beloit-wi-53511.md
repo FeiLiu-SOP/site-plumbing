@@ -12,6 +12,7 @@ lng: -89.0200
 zipSample: ["53512", "53511"]
 zipCodes: ["53511", "53512"]
 localPaths: ["Rock County / ZIP 53512 sector", "Rock County / coords 42.5200, -89.0200", "Rock County / primary ZIP 53511", "Rock County / elevation 804 ft band", "Rock County / ZIP 53511 sector"]
+zillowHomeValueUsd: 210173
 ---
 
 **Engineering Notice for Beloit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rock County.

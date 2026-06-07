@@ -12,6 +12,7 @@ lng: -83.8100
 zipSample: ["30548", "30517"]
 zipCodes: ["30517", "30548"]
 localPaths: ["Jackson County / coords 34.1100, -83.8100", "Jackson County / elevation 853 ft band", "Jackson County / ZIP 30548 sector", "Jackson County / primary ZIP 30548", "Jackson County / ZIP 30517 sector"]
+zillowHomeValueUsd: 486264
 ---
 
 **Engineering Notice for Braselton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

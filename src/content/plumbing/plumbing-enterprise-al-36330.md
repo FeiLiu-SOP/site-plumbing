@@ -12,6 +12,7 @@ lng: -85.8500
 zipSample: ["36330", "36331"]
 zipCodes: ["36331", "36330"]
 localPaths: ["Coffee County / elevation 338 ft band", "Coffee County / ZIP 36330 sector", "Coffee County / coords 31.3300, -85.8500", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36331 sector"]
+zillowHomeValueUsd: 203851
 ---
 
 **Engineering Notice for Enterprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coffee County.

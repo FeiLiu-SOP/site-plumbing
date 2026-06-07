@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["33831", "33830", "33863"]
 zipCodes: ["33863", "33831", "33830"]
 localPaths: ["Polk County / elevation 148 ft band", "Polk County / ZIP 33830 sector", "Polk County / ZIP 33863 sector", "Polk County / ZIP 33831 sector", "Polk County / primary ZIP 33830"]
+zillowHomeValueUsd: 276437
 ---
 
 **Engineering Notice for Bartow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

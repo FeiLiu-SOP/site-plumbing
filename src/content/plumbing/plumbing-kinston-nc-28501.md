@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["28501", "28502", "28504", "28503"]
 zipCodes: ["28504", "28501", "28502", "28503"]
 localPaths: ["Lenoir County / ZIP 28501 sector", "Lenoir County / primary ZIP 28501", "Lenoir County / ZIP 28504 sector", "Lenoir County / ZIP 28502 sector", "Lenoir County / ZIP 28503 sector"]
+zillowHomeValueUsd: 97099
 ---
 
 **Engineering Notice for Kinston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lenoir County.

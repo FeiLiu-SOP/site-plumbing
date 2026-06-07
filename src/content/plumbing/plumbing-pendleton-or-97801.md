@@ -12,6 +12,7 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / primary ZIP 97801", "Umatilla County / ZIP 97801 sector", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / elevation 1115 ft band"]
+zillowHomeValueUsd: 293549
 ---
 
 **Engineering Notice for Pendleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Umatilla County.

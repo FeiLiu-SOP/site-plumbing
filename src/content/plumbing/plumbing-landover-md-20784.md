@@ -12,6 +12,7 @@ lng: -76.8900
 zipSample: ["20784", "20785"]
 zipCodes: ["20784", "20785"]
 localPaths: ["Prince George's County / ZIP 20784 sector", "Prince George's County / primary ZIP 20784", "Prince George's County / coords 38.9200, -76.8900", "Prince George's County / elevation 59 ft band", "Prince George's County / ZIP 20785 sector"]
+zillowHomeValueUsd: 374915
 ---
 
 **Engineering Notice for Landover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / coords 41.1500, -73.9900", "Rockland County / elevation 200 ft band", "Rockland County / primary ZIP 10956", "Rockland County / ZIP 10956 sector"]
+zillowHomeValueUsd: 791532
 ---
 
 **Engineering Notice for New City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.

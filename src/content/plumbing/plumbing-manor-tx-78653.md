@@ -12,6 +12,7 @@ lng: -97.5200
 zipSample: ["78653"]
 zipCodes: ["78653"]
 localPaths: ["Travis County / ZIP 78653 sector", "Travis County / coords 30.3600, -97.5200", "Travis County / primary ZIP 78653", "Travis County / elevation 568 ft band"]
+zillowHomeValueUsd: 324788
 ---
 
 **Engineering Notice for Manor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.

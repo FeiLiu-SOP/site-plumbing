@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / coords 44.7500, -93.2000", "Dakota County / elevation 974 ft band", "Dakota County / ZIP 55124 sector", "Dakota County / primary ZIP 55124"]
+zillowHomeValueUsd: 375996
 ---
 
 **Engineering Notice for Apple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

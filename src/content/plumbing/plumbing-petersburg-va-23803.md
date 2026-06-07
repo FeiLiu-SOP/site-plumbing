@@ -12,6 +12,7 @@ lng: -77.3900
 zipSample: ["23806", "23805", "23804", "23803"]
 zipCodes: ["23805", "23803", "23804", "23806"]
 localPaths: ["Petersburg County / primary ZIP 23803", "Petersburg County / ZIP 23804 sector", "Petersburg County / ZIP 23805 sector", "Petersburg County / ZIP 23803 sector", "Petersburg County / coords 37.2000, -77.3900"]
+zillowHomeValueUsd: 234893
 ---
 
 **Engineering Notice for Petersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Petersburg County.

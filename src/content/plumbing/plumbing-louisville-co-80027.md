@@ -12,6 +12,7 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / primary ZIP 80027", "Boulder County / elevation 5407 ft band", "Boulder County / coords 39.9700, -105.1400", "Boulder County / ZIP 80027 sector"]
+zillowHomeValueUsd: 837472
 ---
 
 **Engineering Notice for Louisville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boulder County.

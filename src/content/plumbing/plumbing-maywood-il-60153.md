@@ -12,6 +12,7 @@ lng: -87.8400
 zipSample: ["60153"]
 zipCodes: ["60153"]
 localPaths: ["Cook County / primary ZIP 60153", "Cook County / coords 41.8800, -87.8400", "Cook County / ZIP 60153 sector", "Cook County / elevation 636 ft band"]
+zillowHomeValueUsd: 242627
 ---
 
 **Engineering Notice for Maywood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -87.3400
 zipSample: ["37043", "37044", "37042", "37040", "42223"]
 zipCodes: ["37041", "37040", "37043", "42223", "37042", "37044"]
 localPaths: ["Montgomery County / coords 36.5700, -87.3400", "Montgomery County / ZIP 37042 sector", "Montgomery County / ZIP 37040 sector", "Montgomery County / ZIP 37043 sector", "Montgomery County / ZIP 37044 sector"]
+zillowHomeValueUsd: 292156
 ---
 
 **Engineering Notice for Clarksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

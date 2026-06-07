@@ -12,6 +12,7 @@ lng: -79.9600
 zipSample: ["15101", "15091"]
 zipCodes: ["15101", "15091"]
 localPaths: ["Allegheny County / elevation 1112 ft band", "Allegheny County / primary ZIP 15101", "Allegheny County / ZIP 15091 sector", "Allegheny County / ZIP 15101 sector", "Allegheny County / coords 40.5700, -79.9600"]
+zillowHomeValueUsd: 378256
 ---
 
 **Engineering Notice for Allison Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

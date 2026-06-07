@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / coords 37.5200, -122.3000", "San Mateo County / primary ZIP 94002", "San Mateo County / ZIP 94002 sector", "San Mateo County / elevation 226 ft band"]
+zillowHomeValueUsd: 2339010
 ---
 
 **Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.

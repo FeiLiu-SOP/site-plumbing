@@ -12,6 +12,7 @@ lng: -72.6500
 zipSample: ["06459", "06457"]
 zipCodes: ["06457", "06459"]
 localPaths: ["Lower Connecticut River Valley County / elevation 154 ft band", "Lower Connecticut River Valley County / coords 41.5500, -72.6500", "Lower Connecticut River Valley County / ZIP 06459 sector", "Lower Connecticut River Valley County / primary ZIP 06457", "Lower Connecticut River Valley County / ZIP 06457 sector"]
+zillowHomeValueUsd: 354774
 ---
 
 **Engineering Notice for Middletown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lower Connecticut River Valley County.

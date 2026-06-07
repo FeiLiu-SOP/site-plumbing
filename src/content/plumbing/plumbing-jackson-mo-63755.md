@@ -12,6 +12,7 @@ lng: -89.6500
 zipSample: ["63755"]
 zipCodes: ["63755"]
 localPaths: ["Cape Girardeau County / elevation 479 ft band", "Cape Girardeau County / primary ZIP 63755", "Cape Girardeau County / ZIP 63755 sector", "Cape Girardeau County / coords 37.3800, -89.6500"]
+zillowHomeValueUsd: 269387
 ---
 
 **Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cape Girardeau County.

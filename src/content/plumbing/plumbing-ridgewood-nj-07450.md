@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["07450", "07451"]
 zipCodes: ["07450", "07451"]
 localPaths: ["Bergen County / elevation 102 ft band", "Bergen County / ZIP 07450 sector", "Bergen County / primary ZIP 07450", "Bergen County / ZIP 07451 sector", "Bergen County / coords 40.9800, -74.1100"]
+zillowHomeValueUsd: 1199711
 ---
 
 **Engineering Notice for Ridgewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

@@ -12,6 +12,7 @@ lng: -106.9600
 zipSample: ["82801"]
 zipCodes: ["82801"]
 localPaths: ["Sheridan County / primary ZIP 82801", "Sheridan County / ZIP 82801 sector", "Sheridan County / coords 44.8000, -106.9600", "Sheridan County / elevation 3766 ft band"]
+zillowHomeValueUsd: 427245
 ---
 
 **Engineering Notice for Sheridan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sheridan County.

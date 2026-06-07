@@ -12,6 +12,7 @@ lng: -84.6200
 zipSample: ["30144", "30152"]
 zipCodes: ["30152", "30144"]
 localPaths: ["Cobb County / ZIP 30144 sector", "Cobb County / primary ZIP 30144", "Cobb County / elevation 1138 ft band", "Cobb County / coords 34.0300, -84.6200", "Cobb County / ZIP 30152 sector"]
+zillowHomeValueUsd: 382638
 ---
 
 **Engineering Notice for Kennesaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.

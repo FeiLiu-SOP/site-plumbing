@@ -12,6 +12,7 @@ lng: -117.1100
 zipSample: ["92596", "92563"]
 zipCodes: ["92563", "92596"]
 localPaths: ["Riverside County / ZIP 92596 sector", "Riverside County / elevation 1365 ft band", "Riverside County / coords 33.6000, -117.1100", "Riverside County / primary ZIP 92563", "Riverside County / ZIP 92563 sector"]
+zillowHomeValueUsd: 693258
 ---
 
 **Engineering Notice for French Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

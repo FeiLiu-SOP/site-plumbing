@@ -12,6 +12,7 @@ lng: -73.1300
 zipSample: ["06790"]
 zipCodes: ["06790"]
 localPaths: ["Northwest Hills County / coords 41.8300, -73.1300", "Northwest Hills County / elevation 1043 ft band", "Northwest Hills County / ZIP 06790 sector", "Northwest Hills County / primary ZIP 06790"]
+zillowHomeValueUsd: 294922
 ---
 
 **Engineering Notice for Torrington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Northwest Hills County.

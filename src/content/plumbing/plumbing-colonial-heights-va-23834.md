@@ -12,6 +12,7 @@ lng: -77.4000
 zipSample: ["23834"]
 zipCodes: ["23834"]
 localPaths: ["Colonial Heights County / primary ZIP 23834", "Colonial Heights County / coords 37.2700, -77.4000", "Colonial Heights County / elevation 69 ft band", "Colonial Heights County / ZIP 23834 sector"]
+zillowHomeValueUsd: 294219
 ---
 
 **Engineering Notice for Colonial Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Colonial Heights County.

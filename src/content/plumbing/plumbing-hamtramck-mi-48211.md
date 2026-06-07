@@ -12,6 +12,7 @@ lng: -83.0600
 zipSample: ["48212", "48211"]
 zipCodes: ["48212", "48211"]
 localPaths: ["Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48211", "Wayne County / ZIP 48211 sector", "Wayne County / ZIP 48212 sector", "Wayne County / coords 42.4000, -83.0600"]
+zillowHomeValueUsd: 56328
 ---
 
 **Engineering Notice for Hamtramck:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

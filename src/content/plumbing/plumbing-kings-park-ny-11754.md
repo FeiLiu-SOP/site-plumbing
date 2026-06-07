@@ -12,6 +12,7 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / ZIP 11754 sector", "Suffolk County / coords 40.8900, -73.2500", "Suffolk County / primary ZIP 11754", "Suffolk County / elevation 174 ft band"]
+zillowHomeValueUsd: 737740
 ---
 
 **Engineering Notice for Kings Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

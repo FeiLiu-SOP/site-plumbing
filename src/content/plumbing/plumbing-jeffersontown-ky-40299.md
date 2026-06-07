@@ -12,6 +12,7 @@ lng: -85.5700
 zipSample: ["40299", "40224", "40220", "40223"]
 zipCodes: ["40223", "40220", "40299", "40224"]
 localPaths: ["Jefferson County / primary ZIP 40299", "Jefferson County / ZIP 40299 sector", "Jefferson County / ZIP 40223 sector", "Jefferson County / elevation 659 ft band", "Jefferson County / coords 38.2000, -85.5700"]
+zillowHomeValueUsd: 338890
 ---
 
 **Engineering Notice for Jeffersontown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

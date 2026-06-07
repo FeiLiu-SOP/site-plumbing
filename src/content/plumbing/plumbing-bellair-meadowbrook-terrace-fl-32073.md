@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["32073"]
 zipCodes: ["32073"]
 localPaths: ["Clay County / elevation 69 ft band", "Clay County / ZIP 32073 sector", "Clay County / primary ZIP 32073", "Clay County / coords 30.1800, -81.7400"]
+zillowHomeValueUsd: 297075
 ---
 
 **Engineering Notice for Bellair-Meadowbrook Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

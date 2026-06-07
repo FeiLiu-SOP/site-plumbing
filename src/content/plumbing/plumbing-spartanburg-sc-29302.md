@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["29301", "29302", "29307", "29306", "29319"]
 zipCodes: ["29302", "29319", "29307", "29304", "29301", "29306"]
 localPaths: ["Spartanburg County / ZIP 29307 sector", "Spartanburg County / coords 34.9400, -81.9300", "Spartanburg County / ZIP 29301 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / ZIP 29319 sector"]
+zillowHomeValueUsd: 269429
 ---
 
 **Engineering Notice for Spartanburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Spartanburg County.

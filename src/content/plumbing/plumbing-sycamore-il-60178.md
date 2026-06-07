@@ -12,6 +12,7 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / elevation 827 ft band", "DeKalb County / primary ZIP 60178"]
+zillowHomeValueUsd: 313310
 ---
 
 **Engineering Notice for Sycamore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.

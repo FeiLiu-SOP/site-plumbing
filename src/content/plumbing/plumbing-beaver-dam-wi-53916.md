@@ -12,6 +12,7 @@ lng: -88.8300
 zipSample: ["53916"]
 zipCodes: ["53916"]
 localPaths: ["Dodge County / coords 43.4700, -88.8300", "Dodge County / ZIP 53916 sector", "Dodge County / primary ZIP 53916", "Dodge County / elevation 922 ft band"]
+zillowHomeValueUsd: 288108
 ---
 
 **Engineering Notice for Beaver Dam:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dodge County.

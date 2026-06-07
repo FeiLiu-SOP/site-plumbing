@@ -12,6 +12,7 @@ lng: -118.2000
 zipSample: ["91011", "91012"]
 zipCodes: ["91012", "91011"]
 localPaths: ["Los Angeles County / ZIP 91011 sector", "Los Angeles County / coords 34.2100, -118.2000", "Los Angeles County / elevation 1421 ft band", "Los Angeles County / primary ZIP 91011", "Los Angeles County / ZIP 91012 sector"]
+zillowHomeValueUsd: 2488631
 ---
 
 **Engineering Notice for La Cañada Flintridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

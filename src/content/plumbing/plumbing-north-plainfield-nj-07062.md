@@ -12,6 +12,7 @@ lng: -74.4400
 zipSample: ["07063", "07062", "07060"]
 zipCodes: ["07060", "07063", "07062"]
 localPaths: ["Somerset County / ZIP 07062 sector", "Somerset County / coords 40.6200, -74.4400", "Somerset County / ZIP 07063 sector", "Somerset County / elevation 85 ft band", "Somerset County / ZIP 07060 sector"]
+zillowHomeValueUsd: 498024
 ---
 
 **Engineering Notice for North Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Somerset County.

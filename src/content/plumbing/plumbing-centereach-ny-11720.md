@@ -12,6 +12,7 @@ lng: -73.0800
 zipSample: ["11720"]
 zipCodes: ["11720"]
 localPaths: ["Suffolk County / coords 40.8700, -73.0800", "Suffolk County / ZIP 11720 sector", "Suffolk County / primary ZIP 11720", "Suffolk County / elevation 102 ft band"]
+zillowHomeValueUsd: 640383
 ---
 
 **Engineering Notice for Centereach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["45066"]
 zipCodes: ["45066"]
 localPaths: ["Warren County / elevation 804 ft band", "Warren County / ZIP 45066 sector", "Warren County / coords 39.5600, -84.2300", "Warren County / primary ZIP 45066"]
+zillowHomeValueUsd: 428397
 ---
 
 **Engineering Notice for Springboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

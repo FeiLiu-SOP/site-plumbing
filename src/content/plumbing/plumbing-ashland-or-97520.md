@@ -12,6 +12,7 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / primary ZIP 97520", "Jackson County / coords 42.1900, -122.7000", "Jackson County / ZIP 97520 sector", "Jackson County / elevation 1972 ft band"]
+zillowHomeValueUsd: 550595
 ---
 
 **Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

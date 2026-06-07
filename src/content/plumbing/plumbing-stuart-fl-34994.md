@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["34957", "34994", "34996"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / ZIP 34996 sector", "Martin County / ZIP 34957 sector", "Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band"]
+zillowHomeValueUsd: 237222
 ---
 
 **Engineering Notice for Stuart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Martin County.

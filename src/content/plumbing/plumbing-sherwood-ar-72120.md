@@ -12,6 +12,7 @@ lng: -92.2000
 zipSample: ["72120", "72216", "72076", "72117"]
 zipCodes: ["72120", "72216", "72076", "72117"]
 localPaths: ["Pulaski County / ZIP 72120 sector", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72216 sector", "Pulaski County / coords 34.8500, -92.2000", "Pulaski County / primary ZIP 72120"]
+zillowHomeValueUsd: 235055
 ---
 
 **Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.

@@ -12,6 +12,7 @@ lng: -92.0000
 zipSample: ["70592"]
 zipCodes: ["70592"]
 localPaths: ["Lafayette Parish / coords 30.1000, -92.0000", "Lafayette Parish / elevation 52 ft band", "Lafayette Parish / ZIP 70592 sector", "Lafayette Parish / primary ZIP 70592"]
+zillowHomeValueUsd: 279987
 ---
 
 **Engineering Notice for Youngsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafayette Parish.

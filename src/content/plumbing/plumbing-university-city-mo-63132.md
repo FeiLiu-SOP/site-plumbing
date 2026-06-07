@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63130", "63132"]
 localPaths: ["St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.6700, -90.3300", "St. Louis County / ZIP 63130 sector"]
+zillowHomeValueUsd: 356827
 ---
 
 **Engineering Notice for University City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

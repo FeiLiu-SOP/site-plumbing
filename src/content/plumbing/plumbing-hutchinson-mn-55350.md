@@ -12,6 +12,7 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / elevation 1079 ft band", "McLeod County / coords 44.8900, -94.3800", "McLeod County / ZIP 55350 sector", "McLeod County / primary ZIP 55350"]
+zillowHomeValueUsd: 293417
 ---
 
 **Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLeod County.

@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["33010", "33012", "33013", "33018", "33016"]
 zipCodes: ["33013", "33016", "33018", "33014", "33012", "33010"]
 localPaths: ["Miami-Dade County / ZIP 33013 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33012 sector", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / ZIP 33010 sector"]
+zillowHomeValueUsd: 440125
 ---
 
 **Engineering Notice for Hialeah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -80.4500
 zipSample: ["33186", "33196"]
 zipCodes: ["33196", "33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500"]
+zillowHomeValueUsd: 567248
 ---
 
 **Engineering Notice for The Hammocks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

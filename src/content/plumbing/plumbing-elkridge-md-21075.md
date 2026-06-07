@@ -12,6 +12,7 @@ lng: -76.7400
 zipSample: ["21076", "21075"]
 zipCodes: ["21075", "21076"]
 localPaths: ["Howard County / elevation 138 ft band", "Howard County / ZIP 21075 sector", "Howard County / ZIP 21076 sector", "Howard County / coords 39.1900, -76.7400", "Howard County / primary ZIP 21075"]
+zillowHomeValueUsd: 491259
 ---
 
 **Engineering Notice for Elkridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.

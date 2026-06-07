@@ -12,6 +12,7 @@ lng: -120.3300
 zipSample: ["98801"]
 zipCodes: ["98801"]
 localPaths: ["Chelan County / elevation 702 ft band", "Chelan County / coords 47.4400, -120.3300", "Chelan County / primary ZIP 98801", "Chelan County / ZIP 98801 sector"]
+zillowHomeValueUsd: 490435
 ---
 
 **Engineering Notice for Wenatchee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chelan County.

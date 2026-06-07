@@ -12,6 +12,7 @@ lng: -122.7800
 zipSample: ["97223", "97224", "97281"]
 zipCodes: ["97224", "97281", "97223"]
 localPaths: ["Washington County / ZIP 97223 sector", "Washington County / elevation 230 ft band", "Washington County / ZIP 97281 sector", "Washington County / ZIP 97224 sector", "Washington County / coords 45.4200, -122.7800"]
+zillowHomeValueUsd: 607956
 ---
 
 **Engineering Notice for Tigard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

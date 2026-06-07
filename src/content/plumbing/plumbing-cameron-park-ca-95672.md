@@ -12,6 +12,7 @@ lng: -120.9900
 zipSample: ["95682", "95672"]
 zipCodes: ["95672", "95682"]
 localPaths: ["El Dorado County / coords 38.6700, -120.9900", "El Dorado County / elevation 1217 ft band", "El Dorado County / ZIP 95682 sector", "El Dorado County / ZIP 95672 sector", "El Dorado County / primary ZIP 95672"]
+zillowHomeValueUsd: 827406
 ---
 
 **Engineering Notice for Cameron Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Dorado County.

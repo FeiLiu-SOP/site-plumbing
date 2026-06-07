@@ -12,6 +12,7 @@ lng: -116.9000
 zipSample: ["92220"]
 zipCodes: ["92220"]
 localPaths: ["Riverside County / primary ZIP 92220", "Riverside County / elevation 2930 ft band", "Riverside County / coords 33.9500, -116.9000", "Riverside County / ZIP 92220 sector"]
+zillowHomeValueUsd: 414151
 ---
 
 **Engineering Notice for Banning:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

@@ -12,6 +12,7 @@ lng: -87.1800
 zipSample: ["46368", "46403"]
 zipCodes: ["46368", "46403"]
 localPaths: ["Porter County / elevation 676 ft band", "Porter County / ZIP 46403 sector", "Porter County / ZIP 46368 sector", "Porter County / primary ZIP 46403", "Porter County / coords 41.5900, -87.1800"]
+zillowHomeValueUsd: 148344
 ---
 
 **Engineering Notice for Portage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Porter County.

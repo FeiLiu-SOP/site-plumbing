@@ -12,6 +12,7 @@ lng: -121.9300
 zipSample: ["93950"]
 zipCodes: ["93950"]
 localPaths: ["Monterey County / coords 36.6200, -121.9300", "Monterey County / elevation 167 ft band", "Monterey County / ZIP 93950 sector", "Monterey County / primary ZIP 93950"]
+zillowHomeValueUsd: 1403949
 ---
 
 **Engineering Notice for Pacific Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.

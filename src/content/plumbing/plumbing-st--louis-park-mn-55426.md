@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["55416", "55426"]
 zipCodes: ["55426", "55416"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55416 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / primary ZIP 55426", "Hennepin County / coords 44.9500, -93.3600"]
+zillowHomeValueUsd: 370756
 ---
 
 **Engineering Notice for St. Louis Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

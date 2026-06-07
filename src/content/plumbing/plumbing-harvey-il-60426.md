@@ -12,6 +12,7 @@ lng: -87.6500
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / coords 41.6100, -87.6500", "Cook County / ZIP 60426 sector", "Cook County / primary ZIP 60426"]
+zillowHomeValueUsd: 101377
 ---
 
 **Engineering Notice for Harvey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

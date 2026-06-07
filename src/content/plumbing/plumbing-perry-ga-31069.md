@@ -12,6 +12,7 @@ lng: -83.7300
 zipSample: ["31069"]
 zipCodes: ["31069"]
 localPaths: ["Houston County / coords 32.4700, -83.7300", "Houston County / ZIP 31069 sector", "Houston County / primary ZIP 31069", "Houston County / elevation 394 ft band"]
+zillowHomeValueUsd: 273980
 ---
 
 **Engineering Notice for Perry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Houston County.

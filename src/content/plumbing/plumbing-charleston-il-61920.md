@@ -12,6 +12,7 @@ lng: -88.1800
 zipSample: ["61920"]
 zipCodes: ["61920"]
 localPaths: ["Coles County / elevation 702 ft band", "Coles County / primary ZIP 61920", "Coles County / ZIP 61920 sector", "Coles County / coords 39.4800, -88.1800"]
+zillowHomeValueUsd: 162312
 ---
 
 **Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coles County.

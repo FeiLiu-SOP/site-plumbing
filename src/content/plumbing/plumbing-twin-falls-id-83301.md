@@ -12,6 +12,7 @@ lng: -114.4600
 zipSample: ["83301", "83303"]
 zipCodes: ["83303", "83301"]
 localPaths: ["Twin Falls County / primary ZIP 83301", "Twin Falls County / ZIP 83303 sector", "Twin Falls County / ZIP 83301 sector", "Twin Falls County / elevation 3730 ft band", "Twin Falls County / coords 42.5600, -114.4600"]
+zillowHomeValueUsd: 367724
 ---
 
 **Engineering Notice for Twin Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Twin Falls County.

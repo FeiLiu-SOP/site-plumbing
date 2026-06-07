@@ -12,6 +12,8 @@ lng: -66.7400
 zipSample: ["00612", "00613", "00614"]
 zipCodes: ["00613", "00612", "00614"]
 localPaths: ["Arecibo County / coords 18.4500, -66.7400", "Arecibo County / ZIP 00614 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / primary ZIP 00612", "Arecibo County / ZIP 00612 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 375709
 ---
 
 **Engineering Notice for Arecibo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arecibo County.

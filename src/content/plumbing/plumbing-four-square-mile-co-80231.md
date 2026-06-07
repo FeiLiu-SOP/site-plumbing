@@ -12,6 +12,7 @@ lng: -104.8900
 zipSample: ["80231", "80247"]
 zipCodes: ["80247", "80231"]
 localPaths: ["Arapahoe County / coords 39.6800, -104.8900", "Arapahoe County / ZIP 80247 sector", "Arapahoe County / elevation 5456 ft band", "Arapahoe County / primary ZIP 80231", "Arapahoe County / ZIP 80231 sector"]
+zillowHomeValueUsd: 412627
 ---
 
 **Engineering Notice for Four Square Mile:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.

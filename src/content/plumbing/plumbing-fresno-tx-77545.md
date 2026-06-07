@@ -12,6 +12,7 @@ lng: -95.4700
 zipSample: ["77545"]
 zipCodes: ["77545"]
 localPaths: ["Fort Bend County / elevation 89 ft band", "Fort Bend County / ZIP 77545 sector", "Fort Bend County / coords 29.5400, -95.4700", "Fort Bend County / primary ZIP 77545"]
+zillowHomeValueUsd: 280282
 ---
 
 **Engineering Notice for Fresno:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.

@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / ZIP 07070 sector", "Bergen County / primary ZIP 07070", "Bergen County / coords 40.8200, -74.1100", "Bergen County / elevation 72 ft band"]
+zillowHomeValueUsd: 738686
 ---
 
 **Engineering Notice for Rutherford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

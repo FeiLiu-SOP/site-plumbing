@@ -12,6 +12,7 @@ lng: -80.4100
 zipSample: ["33327", "33331", "33332", "33326"]
 zipCodes: ["33327", "33326", "33331", "33332"]
 localPaths: ["Broward County / ZIP 33327 sector", "Broward County / ZIP 33332 sector", "Broward County / ZIP 33331 sector", "Broward County / elevation 23 ft band", "Broward County / coords 26.1000, -80.4100"]
+zillowHomeValueUsd: 559083
 ---
 
 **Engineering Notice for Weston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

@@ -12,6 +12,7 @@ lng: -81.5300
 zipSample: ["34761"]
 zipCodes: ["34761"]
 localPaths: ["Orange County / ZIP 34761 sector", "Orange County / primary ZIP 34761", "Orange County / elevation 171 ft band", "Orange County / coords 28.5800, -81.5300"]
+zillowHomeValueUsd: 411307
 ---
 
 **Engineering Notice for Ocoee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

@@ -12,6 +12,7 @@ lng: -111.0600
 zipSample: ["59719", "59718", "59715"]
 zipCodes: ["59719", "59715", "59718"]
 localPaths: ["Gallatin County / elevation 4803 ft band", "Gallatin County / ZIP 59715 sector", "Gallatin County / ZIP 59719 sector", "Gallatin County / primary ZIP 59718", "Gallatin County / ZIP 59718 sector"]
+zillowHomeValueUsd: 647348
 ---
 
 **Engineering Notice for Bozeman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gallatin County.

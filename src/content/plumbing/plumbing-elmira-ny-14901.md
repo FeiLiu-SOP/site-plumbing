@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["14905", "14904", "14901", "14902"]
 zipCodes: ["14901", "14902", "14904", "14905"]
 localPaths: ["Chemung County / ZIP 14901 sector", "Chemung County / ZIP 14904 sector", "Chemung County / ZIP 14905 sector", "Chemung County / elevation 866 ft band", "Chemung County / coords 42.0900, -76.8100"]
+zillowHomeValueUsd: 105456
 ---
 
 **Engineering Notice for Elmira:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chemung County.

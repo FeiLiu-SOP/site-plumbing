@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["17332", "17331", "17334", "17333"]
 zipCodes: ["17332", "17333", "17331", "17334"]
 localPaths: ["York County / ZIP 17334 sector", "York County / ZIP 17332 sector", "York County / ZIP 17333 sector", "York County / coords 39.8100, -76.9800", "York County / elevation 617 ft band"]
+zillowHomeValueUsd: 291879
 ---
 
 **Engineering Notice for Hanover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

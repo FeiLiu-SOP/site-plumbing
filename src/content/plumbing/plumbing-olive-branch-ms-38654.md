@@ -12,6 +12,7 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / primary ZIP 38654", "DeSoto County / elevation 358 ft band", "DeSoto County / ZIP 38654 sector", "DeSoto County / coords 34.9600, -89.8500"]
+zillowHomeValueUsd: 331930
 ---
 
 **Engineering Notice for Olive Branch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.

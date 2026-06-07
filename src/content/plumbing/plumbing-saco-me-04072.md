@@ -12,6 +12,7 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / elevation 151 ft band", "York County / primary ZIP 04072", "York County / coords 43.5400, -70.4600", "York County / ZIP 04072 sector"]
+zillowHomeValueUsd: 520349
 ---
 
 **Engineering Notice for Saco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

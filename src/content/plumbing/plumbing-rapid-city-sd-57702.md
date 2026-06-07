@@ -12,6 +12,7 @@ lng: -103.2200
 zipSample: ["57701", "57703", "57702"]
 zipCodes: ["57703", "57702", "57701"]
 localPaths: ["Pennington County / ZIP 57702 sector", "Pennington County / elevation 3379 ft band", "Pennington County / coords 44.0700, -103.2200", "Pennington County / primary ZIP 57702", "Pennington County / ZIP 57703 sector"]
+zillowHomeValueUsd: 448762
 ---
 
 **Engineering Notice for Rapid City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pennington County.

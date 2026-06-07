@@ -12,6 +12,7 @@ lng: -86.1100
 zipSample: ["46142", "46143"]
 zipCodes: ["46143", "46142"]
 localPaths: ["Johnson County / elevation 807 ft band", "Johnson County / coords 39.6000, -86.1100", "Johnson County / ZIP 46142 sector", "Johnson County / ZIP 46143 sector", "Johnson County / primary ZIP 46142"]
+zillowHomeValueUsd: 317816
 ---
 
 **Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

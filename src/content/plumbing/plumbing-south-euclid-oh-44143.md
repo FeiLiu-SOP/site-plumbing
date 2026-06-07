@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["44121", "44143"]
 zipCodes: ["44143", "44121"]
 localPaths: ["Cuyahoga County / elevation 958 ft band", "Cuyahoga County / ZIP 44143 sector", "Cuyahoga County / primary ZIP 44143", "Cuyahoga County / ZIP 44121 sector", "Cuyahoga County / coords 41.5200, -81.5200"]
+zillowHomeValueUsd: 301987
 ---
 
 **Engineering Notice for South Euclid:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

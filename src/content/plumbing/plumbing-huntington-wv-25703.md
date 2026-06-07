@@ -12,6 +12,7 @@ lng: -82.4300
 zipSample: ["25777", "25712", "25718", "25710", "25778"]
 zipCodes: ["25717", "25710", "25709", "25724", "25773", "25711", "25714", "25729", "25778", "25755", "25703", "25718"]
 localPaths: ["Cabell County / primary ZIP 25703", "Cabell County / ZIP 25778 sector", "Cabell County / ZIP 25718 sector", "Cabell County / ZIP 25712 sector", "Cabell County / ZIP 25710 sector"]
+zillowHomeValueUsd: 69327
 ---
 
 **Engineering Notice for Huntington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabell County.

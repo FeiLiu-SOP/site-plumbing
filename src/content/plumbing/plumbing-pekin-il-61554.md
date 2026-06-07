@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["61558", "61555", "61554"]
 zipCodes: ["61555", "61554", "61558"]
 localPaths: ["Tazewell County / ZIP 61558 sector", "Tazewell County / coords 40.5700, -89.6300", "Tazewell County / ZIP 61554 sector", "Tazewell County / ZIP 61555 sector", "Tazewell County / primary ZIP 61554"]
+zillowHomeValueUsd: 137983
 ---
 
 **Engineering Notice for Pekin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tazewell County.

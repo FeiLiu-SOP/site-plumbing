@@ -12,6 +12,7 @@ lng: -82.9200
 zipSample: ["43081", "43086", "43082"]
 zipCodes: ["43082", "43081", "43086"]
 localPaths: ["Franklin County / ZIP 43086 sector", "Franklin County / elevation 883 ft band", "Franklin County / coords 40.1200, -82.9200", "Franklin County / primary ZIP 43081", "Franklin County / ZIP 43082 sector"]
+zillowHomeValueUsd: 356512
 ---
 
 **Engineering Notice for Westerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -94.5000
 zipSample: ["64803", "64801", "64802", "64804"]
 zipCodes: ["64801", "64802", "64804", "64803"]
 localPaths: ["Jasper County / coords 37.0800, -94.5000", "Jasper County / ZIP 64802 sector", "Jasper County / primary ZIP 64804", "Jasper County / ZIP 64801 sector", "Jasper County / ZIP 64804 sector"]
+zillowHomeValueUsd: 225080
 ---
 
 **Engineering Notice for Joplin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jasper County.

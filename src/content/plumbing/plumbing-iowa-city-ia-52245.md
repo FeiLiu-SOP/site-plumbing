@@ -12,6 +12,7 @@ lng: -91.5300
 zipSample: ["52240", "52246", "52245", "52242", "52243"]
 zipCodes: ["52240", "52243", "52245", "52246", "52242", "52244"]
 localPaths: ["Johnson County / ZIP 52242 sector", "Johnson County / ZIP 52240 sector", "Johnson County / coords 41.6600, -91.5300", "Johnson County / ZIP 52246 sector", "Johnson County / primary ZIP 52245"]
+zillowHomeValueUsd: 322815
 ---
 
 **Engineering Notice for Iowa City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

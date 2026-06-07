@@ -12,6 +12,7 @@ lng: -95.4800
 zipSample: ["77384", "77304", "77305", "77303", "77301"]
 zipCodes: ["77305", "77384", "77304", "77303", "77301"]
 localPaths: ["Montgomery County / ZIP 77301 sector", "Montgomery County / elevation 243 ft band", "Montgomery County / ZIP 77305 sector", "Montgomery County / primary ZIP 77384", "Montgomery County / ZIP 77384 sector"]
+zillowHomeValueUsd: 412352
 ---
 
 **Engineering Notice for Conroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

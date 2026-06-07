@@ -12,6 +12,7 @@ lng: -115.1400
 zipSample: ["89199", "89121", "89109", "89169"]
 zipCodes: ["89169", "89121", "89109", "89199"]
 localPaths: ["Clark County / coords 36.1400, -115.1400", "Clark County / ZIP 89199 sector", "Clark County / primary ZIP 89109", "Clark County / elevation 2014 ft band", "Clark County / ZIP 89109 sector"]
+zillowHomeValueUsd: 377739
 ---
 
 **Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

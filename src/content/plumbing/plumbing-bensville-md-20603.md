@@ -12,6 +12,7 @@ lng: -77.0100
 zipSample: ["20603", "20695", "20675"]
 zipCodes: ["20603", "20695", "20675"]
 localPaths: ["Charles County / coords 38.6200, -77.0100", "Charles County / elevation 213 ft band", "Charles County / ZIP 20603 sector", "Charles County / ZIP 20675 sector", "Charles County / ZIP 20695 sector"]
+zillowHomeValueUsd: 483814
 ---
 
 **Engineering Notice for Bensville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charles County.

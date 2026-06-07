@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22102", "22066"]
 zipCodes: ["22102", "22066"]
 localPaths: ["Fairfax County / coords 39.0100, -77.3000", "Fairfax County / ZIP 22102 sector", "Fairfax County / elevation 394 ft band", "Fairfax County / ZIP 22066 sector", "Fairfax County / primary ZIP 22066"]
+zillowHomeValueUsd: 1681476
 ---
 
 **Engineering Notice for Great Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

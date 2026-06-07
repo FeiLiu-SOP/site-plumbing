@@ -12,6 +12,7 @@ lng: -73.0700
 zipSample: ["11741"]
 zipCodes: ["11741"]
 localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / coords 40.7900, -73.0700", "Suffolk County / primary ZIP 11741", "Suffolk County / elevation 92 ft band"]
+zillowHomeValueUsd: 648618
 ---
 
 **Engineering Notice for Holbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

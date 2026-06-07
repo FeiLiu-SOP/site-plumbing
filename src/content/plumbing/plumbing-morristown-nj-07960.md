@@ -12,6 +12,7 @@ lng: -74.4800
 zipSample: ["07963", "07960"]
 zipCodes: ["07963", "07960"]
 localPaths: ["Morris County / coords 40.8000, -74.4800", "Morris County / elevation 341 ft band", "Morris County / ZIP 07963 sector", "Morris County / primary ZIP 07960", "Morris County / ZIP 07960 sector"]
+zillowHomeValueUsd: 887066
 ---
 
 **Engineering Notice for Morristown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.

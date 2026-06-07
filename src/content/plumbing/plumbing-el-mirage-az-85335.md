@@ -12,6 +12,7 @@ lng: -112.3300
 zipSample: ["85335"]
 zipCodes: ["85335"]
 localPaths: ["Maricopa County / ZIP 85335 sector", "Maricopa County / elevation 1106 ft band", "Maricopa County / primary ZIP 85335", "Maricopa County / coords 33.5900, -112.3300"]
+zillowHomeValueUsd: 342475
 ---
 
 **Engineering Notice for El Mirage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

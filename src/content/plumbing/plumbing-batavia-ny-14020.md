@@ -12,6 +12,7 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / primary ZIP 14020", "Genesee County / elevation 906 ft band", "Genesee County / ZIP 14020 sector", "Genesee County / coords 43.0000, -78.1800"]
+zillowHomeValueUsd: 197635
 ---
 
 **Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.

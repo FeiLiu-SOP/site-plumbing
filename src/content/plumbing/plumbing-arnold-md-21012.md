@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["21012"]
 zipCodes: ["21012"]
 localPaths: ["Anne Arundel County / coords 39.0400, -76.5000", "Anne Arundel County / elevation 138 ft band", "Anne Arundel County / primary ZIP 21012", "Anne Arundel County / ZIP 21012 sector"]
+zillowHomeValueUsd: 597103
 ---
 
 **Engineering Notice for Arnold:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.

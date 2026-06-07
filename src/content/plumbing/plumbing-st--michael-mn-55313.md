@@ -12,6 +12,7 @@ lng: -93.6900
 zipSample: ["55313", "55376"]
 zipCodes: ["55313", "55376"]
 localPaths: ["Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313", "Wright County / ZIP 55376 sector", "Wright County / coords 45.2000, -93.6900", "Wright County / elevation 942 ft band"]
+zillowHomeValueUsd: 375242
 ---
 
 **Engineering Notice for St. Michael:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.

@@ -12,6 +12,7 @@ lng: -97.9100
 zipSample: ["67501", "67502"]
 zipCodes: ["67501", "67502"]
 localPaths: ["Reno County / ZIP 67502 sector", "Reno County / elevation 1552 ft band", "Reno County / coords 38.0700, -97.9100", "Reno County / primary ZIP 67502", "Reno County / ZIP 67501 sector"]
+zillowHomeValueUsd: 212256
 ---
 
 **Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Reno County.

@@ -12,6 +12,7 @@ lng: -93.1500
 zipSample: ["55113"]
 zipCodes: ["55113"]
 localPaths: ["Ramsey County / coords 45.0200, -93.1500", "Ramsey County / primary ZIP 55113", "Ramsey County / elevation 912 ft band", "Ramsey County / ZIP 55113 sector"]
+zillowHomeValueUsd: 375043
 ---
 
 **Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ramsey County.

@@ -12,6 +12,7 @@ lng: -82.2000
 zipSample: ["34290", "34289", "34287", "34291", "34286"]
 zipCodes: ["34293", "34288", "34286", "34291", "34289", "34290", "34223", "34287"]
 localPaths: ["Sarasota County / ZIP 34290 sector", "Sarasota County / coords 27.0600, -82.2000", "Sarasota County / ZIP 34289 sector", "Sarasota County / ZIP 34286 sector", "Sarasota County / ZIP 34287 sector"]
+zillowHomeValueUsd: 310571
 ---
 
 **Engineering Notice for North Port:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.

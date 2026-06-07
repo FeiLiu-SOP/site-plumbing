@@ -12,6 +12,7 @@ lng: -85.9700
 zipSample: ["36082", "36079", "36081"]
 zipCodes: ["36079", "36081", "36082"]
 localPaths: ["Pike County / coords 31.8000, -85.9700", "Pike County / ZIP 36082 sector", "Pike County / ZIP 36081 sector", "Pike County / primary ZIP 36079", "Pike County / ZIP 36079 sector"]
+zillowHomeValueUsd: 206631
 ---
 
 **Engineering Notice for Troy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pike County.

@@ -12,6 +12,7 @@ lng: -77.1500
 zipSample: ["20855", "20877"]
 zipCodes: ["20855", "20877"]
 localPaths: ["Montgomery County / ZIP 20855 sector", "Montgomery County / elevation 420 ft band", "Montgomery County / ZIP 20877 sector", "Montgomery County / primary ZIP 20855", "Montgomery County / coords 39.1300, -77.1500"]
+zillowHomeValueUsd: 694442
 ---
 
 **Engineering Notice for Redland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

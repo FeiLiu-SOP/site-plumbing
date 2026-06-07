@@ -12,6 +12,7 @@ lng: -83.0700
 zipSample: ["43212", "43220", "43221"]
 zipCodes: ["43220", "43212", "43221"]
 localPaths: ["Franklin County / ZIP 43220 sector", "Franklin County / ZIP 43212 sector", "Franklin County / primary ZIP 43220", "Franklin County / coords 40.0300, -83.0700", "Franklin County / ZIP 43221 sector"]
+zillowHomeValueUsd: 364471
 ---
 
 **Engineering Notice for Upper Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

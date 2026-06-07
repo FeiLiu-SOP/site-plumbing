@@ -12,6 +12,7 @@ lng: -89.5500
 zipSample: ["54476"]
 zipCodes: ["54476"]
 localPaths: ["Marathon County / primary ZIP 54476", "Marathon County / ZIP 54476 sector", "Marathon County / elevation 1266 ft band", "Marathon County / coords 44.8900, -89.5500"]
+zillowHomeValueUsd: 290174
 ---
 
 **Engineering Notice for Weston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marathon County.

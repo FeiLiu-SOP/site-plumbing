@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["44039"]
 zipCodes: ["44039"]
 localPaths: ["Lorain County / elevation 728 ft band", "Lorain County / ZIP 44039 sector", "Lorain County / primary ZIP 44039", "Lorain County / coords 41.3900, -82.0200"]
+zillowHomeValueUsd: 324757
 ---
 
 **Engineering Notice for North Ridgeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.

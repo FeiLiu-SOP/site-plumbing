@@ -12,6 +12,7 @@ lng: -97.2000
 zipSample: ["76643"]
 zipCodes: ["76643"]
 localPaths: ["McLennan County / coords 31.4500, -97.2000", "McLennan County / primary ZIP 76643", "McLennan County / elevation 643 ft band", "McLennan County / ZIP 76643 sector"]
+zillowHomeValueUsd: 297492
 ---
 
 **Engineering Notice for Hewitt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLennan County.

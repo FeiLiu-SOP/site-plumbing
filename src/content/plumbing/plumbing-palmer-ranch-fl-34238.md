@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["34238"]
 zipCodes: ["34238"]
 localPaths: ["Sarasota County / ZIP 34238 sector", "Sarasota County / primary ZIP 34238", "Sarasota County / coords 27.2300, -82.4700", "Sarasota County / elevation 23 ft band"]
+zillowHomeValueUsd: 501656
 ---
 
 **Engineering Notice for Palmer Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.

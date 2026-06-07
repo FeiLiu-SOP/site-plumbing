@@ -12,6 +12,7 @@ lng: -77.1400
 zipSample: ["22315"]
 zipCodes: ["22315"]
 localPaths: ["Fairfax County / primary ZIP 22315", "Fairfax County / ZIP 22315 sector", "Fairfax County / elevation 220 ft band", "Fairfax County / coords 38.7600, -77.1400"]
+zillowHomeValueUsd: 676486
 ---
 
 **Engineering Notice for Kingstowne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

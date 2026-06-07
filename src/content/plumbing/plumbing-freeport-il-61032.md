@@ -12,6 +12,7 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032", "Stephenson County / elevation 801 ft band", "Stephenson County / coords 42.2900, -89.6300"]
+zillowHomeValueUsd: 123017
 ---
 
 **Engineering Notice for Freeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stephenson County.

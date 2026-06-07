@@ -12,6 +12,7 @@ lng: -101.9200
 zipSample: ["79015", "79016"]
 zipCodes: ["79015", "79016"]
 localPaths: ["Randall County / coords 34.9900, -101.9200", "Randall County / ZIP 79015 sector", "Randall County / elevation 3533 ft band", "Randall County / ZIP 79016 sector", "Randall County / primary ZIP 79016"]
+zillowHomeValueUsd: 297141
 ---
 
 **Engineering Notice for Canyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Randall County.

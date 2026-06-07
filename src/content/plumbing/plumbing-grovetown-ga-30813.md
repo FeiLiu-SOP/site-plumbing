@@ -12,6 +12,7 @@ lng: -82.2100
 zipSample: ["30813"]
 zipCodes: ["30813"]
 localPaths: ["Columbia County / elevation 499 ft band", "Columbia County / ZIP 30813 sector", "Columbia County / primary ZIP 30813", "Columbia County / coords 33.4500, -82.2100"]
+zillowHomeValueUsd: 305942
 ---
 
 **Engineering Notice for Grovetown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Columbia County.

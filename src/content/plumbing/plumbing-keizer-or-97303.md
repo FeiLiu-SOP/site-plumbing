@@ -12,6 +12,7 @@ lng: -123.0200
 zipSample: ["97307", "97303"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / elevation 138 ft band", "Marion County / ZIP 97307 sector", "Marion County / coords 45.0000, -123.0200", "Marion County / primary ZIP 97303", "Marion County / ZIP 97303 sector"]
+zillowHomeValueUsd: 450621
 ---
 
 **Engineering Notice for Keizer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

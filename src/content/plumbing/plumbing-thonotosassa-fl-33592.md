@@ -12,6 +12,7 @@ lng: -82.2900
 zipSample: ["33584", "33592"]
 zipCodes: ["33584", "33592"]
 localPaths: ["Hillsborough County / coords 28.0500, -82.2900", "Hillsborough County / ZIP 33584 sector", "Hillsborough County / primary ZIP 33592", "Hillsborough County / ZIP 33592 sector", "Hillsborough County / elevation 98 ft band"]
+zillowHomeValueUsd: 408331
 ---
 
 **Engineering Notice for Thonotosassa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

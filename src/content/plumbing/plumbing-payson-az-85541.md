@@ -12,6 +12,7 @@ lng: -111.3200
 zipSample: ["85547", "85541"]
 zipCodes: ["85547", "85541"]
 localPaths: ["Gila County / ZIP 85547 sector", "Gila County / ZIP 85541 sector", "Gila County / elevation 4990 ft band", "Gila County / primary ZIP 85541", "Gila County / coords 34.2400, -111.3200"]
+zillowHomeValueUsd: 446648
 ---
 
 **Engineering Notice for Payson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gila County.

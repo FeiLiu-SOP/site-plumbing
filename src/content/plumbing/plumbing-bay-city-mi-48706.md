@@ -12,6 +12,7 @@ lng: -83.8900
 zipSample: ["48708", "48706"]
 zipCodes: ["48708", "48706"]
 localPaths: ["Bay County / ZIP 48706 sector", "Bay County / elevation 600 ft band", "Bay County / primary ZIP 48706", "Bay County / coords 43.5900, -83.8900", "Bay County / ZIP 48708 sector"]
+zillowHomeValueUsd: 184982
 ---
 
 **Engineering Notice for Bay City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bay County.

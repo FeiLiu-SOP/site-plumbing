@@ -12,6 +12,7 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / ZIP 63125 sector", "St. Louis County / elevation 492 ft band", "St. Louis County / primary ZIP 63125", "St. Louis County / coords 38.5300, -90.2800"]
+zillowHomeValueUsd: 203108
 ---
 
 **Engineering Notice for Lemay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

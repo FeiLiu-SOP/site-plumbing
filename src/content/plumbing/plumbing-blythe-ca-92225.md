@@ -12,6 +12,7 @@ lng: -114.6200
 zipSample: ["92226", "92225"]
 zipCodes: ["92225", "92226"]
 localPaths: ["Riverside County / coords 33.6200, -114.6200", "Riverside County / elevation 269 ft band", "Riverside County / ZIP 92226 sector", "Riverside County / primary ZIP 92225", "Riverside County / ZIP 92225 sector"]
+zillowHomeValueUsd: 221385
 ---
 
 **Engineering Notice for Blythe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

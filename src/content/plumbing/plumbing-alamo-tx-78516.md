@@ -12,6 +12,7 @@ lng: -98.1200
 zipSample: ["78516"]
 zipCodes: ["78516"]
 localPaths: ["Hidalgo County / ZIP 78516 sector", "Hidalgo County / primary ZIP 78516", "Hidalgo County / elevation 118 ft band", "Hidalgo County / coords 26.1800, -98.1200"]
+zillowHomeValueUsd: 169108
 ---
 
 **Engineering Notice for Alamo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

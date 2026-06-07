@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["30281", "30253"]
 zipCodes: ["30253", "30281"]
 localPaths: ["Henry County / ZIP 30253 sector", "Henry County / primary ZIP 30253", "Henry County / coords 33.5300, -84.2300", "Henry County / elevation 817 ft band", "Henry County / ZIP 30281 sector"]
+zillowHomeValueUsd: 311547
 ---
 
 **Engineering Notice for Stockbridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.

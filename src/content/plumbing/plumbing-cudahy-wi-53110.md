@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["53110"]
 zipCodes: ["53110"]
 localPaths: ["Milwaukee County / primary ZIP 53110", "Milwaukee County / ZIP 53110 sector", "Milwaukee County / elevation 709 ft band", "Milwaukee County / coords 42.9500, -87.8600"]
+zillowHomeValueUsd: 282688
 ---
 
 **Engineering Notice for Cudahy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.

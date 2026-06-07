@@ -12,6 +12,7 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / coords 36.1400, -120.3200", "Fresno County / primary ZIP 93210", "Fresno County / ZIP 93210 sector", "Fresno County / elevation 623 ft band"]
+zillowHomeValueUsd: 293589
 ---
 
 **Engineering Notice for Coalinga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.

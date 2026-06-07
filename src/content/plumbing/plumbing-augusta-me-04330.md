@@ -12,6 +12,7 @@ lng: -69.7300
 zipSample: ["04338", "04333", "04332", "04336", "04330"]
 zipCodes: ["04336", "04333", "04338", "04332", "04330"]
 localPaths: ["Kennebec County / primary ZIP 04330", "Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04332 sector", "Kennebec County / ZIP 04330 sector", "Kennebec County / ZIP 04333 sector"]
+zillowHomeValueUsd: 285973
 ---
 
 **Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kennebec County.

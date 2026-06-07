@@ -12,6 +12,7 @@ lng: -71.4900
 zipSample: ["02823", "02905", "02921", "02910", "02831"]
 zipCodes: ["02920", "02823", "02910", "02831", "02905", "02921"]
 localPaths: ["Providence County / ZIP 02910 sector", "Providence County / primary ZIP 02831", "Providence County / coords 41.7700, -71.4900", "Providence County / elevation 157 ft band", "Providence County / ZIP 02831 sector"]
+zillowHomeValueUsd: 571640
 ---
 
 **Engineering Notice for Cranston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.

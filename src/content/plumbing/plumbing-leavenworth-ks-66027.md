@@ -12,6 +12,7 @@ lng: -94.9200
 zipSample: ["66048", "66027"]
 zipCodes: ["66027", "66048"]
 localPaths: ["Leavenworth County / elevation 860 ft band", "Leavenworth County / coords 39.3200, -94.9200", "Leavenworth County / ZIP 66027 sector", "Leavenworth County / primary ZIP 66027", "Leavenworth County / ZIP 66048 sector"]
+zillowHomeValueUsd: 260099
 ---
 
 **Engineering Notice for Leavenworth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leavenworth County.

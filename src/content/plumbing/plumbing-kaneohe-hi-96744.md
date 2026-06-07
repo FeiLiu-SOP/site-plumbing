@@ -12,6 +12,7 @@ lng: -157.7900
 zipSample: ["96744"]
 zipCodes: ["96744"]
 localPaths: ["Honolulu County / ZIP 96744 sector", "Honolulu County / primary ZIP 96744", "Honolulu County / coords 21.4100, -157.7900", "Honolulu County / elevation 56 ft band"]
+zillowHomeValueUsd: 1090291
 ---
 
 **Engineering Notice for Kaneohe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

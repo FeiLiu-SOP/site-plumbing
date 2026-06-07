@@ -12,6 +12,7 @@ lng: -87.4200
 zipSample: ["46319"]
 zipCodes: ["46319"]
 localPaths: ["Lake County / ZIP 46319 sector", "Lake County / primary ZIP 46319", "Lake County / elevation 653 ft band", "Lake County / coords 41.5300, -87.4200"]
+zillowHomeValueUsd: 247439
 ---
 
 **Engineering Notice for Griffith:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

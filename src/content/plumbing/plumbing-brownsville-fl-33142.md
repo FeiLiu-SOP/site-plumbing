@@ -12,6 +12,7 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33188", "33142"]
 localPaths: ["Miami-Dade County / primary ZIP 33142", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33142 sector"]
+zillowHomeValueUsd: 422044
 ---
 
 **Engineering Notice for Brownsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

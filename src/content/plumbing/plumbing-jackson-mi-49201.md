@@ -12,6 +12,7 @@ lng: -84.4000
 zipSample: ["49201", "49203", "49202"]
 zipCodes: ["49203", "49202", "49201"]
 localPaths: ["Jackson County / elevation 948 ft band", "Jackson County / ZIP 49202 sector", "Jackson County / coords 42.2400, -84.4000", "Jackson County / ZIP 49201 sector", "Jackson County / primary ZIP 49201"]
+zillowHomeValueUsd: 248654
 ---
 
 **Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

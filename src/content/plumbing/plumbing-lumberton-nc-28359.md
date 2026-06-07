@@ -12,6 +12,7 @@ lng: -79.0200
 zipSample: ["28360", "28359", "28358"]
 zipCodes: ["28359", "28358", "28360"]
 localPaths: ["Robeson County / elevation 128 ft band", "Robeson County / coords 34.6300, -79.0200", "Robeson County / ZIP 28360 sector", "Robeson County / ZIP 28358 sector", "Robeson County / ZIP 28359 sector"]
+zillowHomeValueUsd: 141490
 ---
 
 **Engineering Notice for Lumberton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Robeson County.

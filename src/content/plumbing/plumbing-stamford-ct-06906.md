@@ -12,6 +12,7 @@ lng: -73.5600
 zipSample: ["06911", "06912", "06902", "06905", "06927"]
 zipCodes: ["06911", "06906", "06901", "06927", "06926", "06912", "06904", "06902", "06905", "06910", "06903", "06913"]
 localPaths: ["Western Connecticut County / ZIP 06927 sector", "Western Connecticut County / primary ZIP 06906", "Western Connecticut County / ZIP 06902 sector", "Western Connecticut County / coords 41.1000, -73.5600", "Western Connecticut County / ZIP 06905 sector"]
+zillowHomeValueUsd: 630142
 ---
 
 **Engineering Notice for Stamford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Western Connecticut County.

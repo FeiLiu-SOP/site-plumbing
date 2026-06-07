@@ -12,6 +12,7 @@ lng: -80.1500
 zipSample: ["33334", "33335", "33306", "33310", "33309"]
 zipCodes: ["33334", "33306", "33310", "33309", "33335"]
 localPaths: ["Broward County / ZIP 33309 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33335 sector", "Broward County / ZIP 33334 sector", "Broward County / ZIP 33310 sector"]
+zillowHomeValueUsd: 583688
 ---
 
 **Engineering Notice for Oakland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

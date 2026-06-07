@@ -12,6 +12,7 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / coords 45.6900, -122.5300", "Clark County / ZIP 98682 sector", "Clark County / elevation 279 ft band"]
+zillowHomeValueUsd: 502138
 ---
 
 **Engineering Notice for Orchards:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

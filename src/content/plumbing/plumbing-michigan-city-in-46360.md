@@ -12,6 +12,7 @@ lng: -86.8700
 zipSample: ["46360", "46361"]
 zipCodes: ["46361", "46360"]
 localPaths: ["LaPorte County / ZIP 46360 sector", "LaPorte County / primary ZIP 46360", "LaPorte County / coords 41.7100, -86.8700", "LaPorte County / ZIP 46361 sector", "LaPorte County / elevation 643 ft band"]
+zillowHomeValueUsd: 229456
 ---
 
 **Engineering Notice for Michigan City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: LaPorte County.

@@ -12,6 +12,7 @@ lng: -84.3300
 zipSample: ["30324", "30319", "30329", "31119"]
 zipCodes: ["30319", "30324", "30329", "31119"]
 localPaths: ["DeKalb County / ZIP 31119 sector", "DeKalb County / elevation 1024 ft band", "DeKalb County / ZIP 30324 sector", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 30329 sector"]
+zillowHomeValueUsd: 524025
 ---
 
 **Engineering Notice for Brookhaven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.

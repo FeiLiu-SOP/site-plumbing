@@ -12,6 +12,7 @@ lng: -122.8600
 zipSample: ["97071"]
 zipCodes: ["97071"]
 localPaths: ["Marion County / elevation 187 ft band", "Marion County / ZIP 97071 sector", "Marion County / coords 45.1500, -122.8600", "Marion County / primary ZIP 97071"]
+zillowHomeValueUsd: 423731
 ---
 
 **Engineering Notice for Woodburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

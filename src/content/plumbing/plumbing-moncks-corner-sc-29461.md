@@ -12,6 +12,7 @@ lng: -80.0100
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / elevation 43 ft band", "Berkeley County / coords 33.1700, -80.0100", "Berkeley County / ZIP 29461 sector", "Berkeley County / primary ZIP 29461"]
+zillowHomeValueUsd: 360063
 ---
 
 **Engineering Notice for Moncks Corner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.

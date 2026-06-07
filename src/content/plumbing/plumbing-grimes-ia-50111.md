@@ -12,6 +12,7 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / elevation 965 ft band", "Polk County / coords 41.6800, -93.7900", "Polk County / ZIP 50111 sector", "Polk County / primary ZIP 50111"]
+zillowHomeValueUsd: 346223
 ---
 
 **Engineering Notice for Grimes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

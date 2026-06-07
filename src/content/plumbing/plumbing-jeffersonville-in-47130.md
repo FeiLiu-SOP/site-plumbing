@@ -12,6 +12,7 @@ lng: -85.7000
 zipSample: ["47131", "47130", "47132", "47199", "47133"]
 zipCodes: ["47130", "47131", "47199", "47133", "47132", "47134", "47190", "47144"]
 localPaths: ["Clark County / ZIP 47199 sector", "Clark County / coords 38.3400, -85.7000", "Clark County / ZIP 47133 sector", "Clark County / ZIP 47131 sector", "Clark County / ZIP 47130 sector"]
+zillowHomeValueUsd: 252853
 ---
 
 **Engineering Notice for Jeffersonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

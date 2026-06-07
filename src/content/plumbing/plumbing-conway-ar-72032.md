@@ -12,6 +12,7 @@ lng: -92.4700
 zipSample: ["72032", "72035", "72034"]
 zipCodes: ["72034", "72032", "72035"]
 localPaths: ["Faulkner County / ZIP 72035 sector", "Faulkner County / ZIP 72034 sector", "Faulkner County / coords 35.0800, -92.4700", "Faulkner County / primary ZIP 72032", "Faulkner County / ZIP 72032 sector"]
+zillowHomeValueUsd: 219046
 ---
 
 **Engineering Notice for Conway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Faulkner County.

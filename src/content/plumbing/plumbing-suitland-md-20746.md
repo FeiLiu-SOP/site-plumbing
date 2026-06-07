@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["20747", "20746", "20790", "20752"]
 zipCodes: ["20790", "20752", "20746", "20747"]
 localPaths: ["Prince George's County / ZIP 20746 sector", "Prince George's County / primary ZIP 20746", "Prince George's County / ZIP 20752 sector", "Prince George's County / coords 38.8500, -76.9200", "Prince George's County / ZIP 20747 sector"]
+zillowHomeValueUsd: 335926
 ---
 
 **Engineering Notice for Suitland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

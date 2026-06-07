@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["33418", "33403", "33412", "33410"]
 zipCodes: ["33412", "33410", "33418", "33403"]
 localPaths: ["Palm Beach County / primary ZIP 33418", "Palm Beach County / elevation 33 ft band", "Palm Beach County / ZIP 33410 sector", "Palm Beach County / coords 26.8500, -80.1700", "Palm Beach County / ZIP 33403 sector"]
+zillowHomeValueUsd: 712880
 ---
 
 **Engineering Notice for Palm Beach Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

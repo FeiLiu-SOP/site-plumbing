@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22030", "22031", "22037"]
 zipCodes: ["22031", "22030", "22037"]
 localPaths: ["Fairfax County / ZIP 22030 sector", "Fairfax County / primary ZIP 22031", "Fairfax County / ZIP 22037 sector", "Fairfax County / ZIP 22031 sector", "Fairfax County / coords 38.8500, -77.3000"]
+zillowHomeValueUsd: 774758
 ---
 
 **Engineering Notice for Fairfax:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

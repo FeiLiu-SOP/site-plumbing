@@ -12,6 +12,7 @@ lng: -121.9600
 zipSample: ["95036", "95032", "95030"]
 zipCodes: ["95036", "95032", "95030"]
 localPaths: ["Santa Clara County / ZIP 95030 sector", "Santa Clara County / ZIP 95032 sector", "Santa Clara County / ZIP 95036 sector", "Santa Clara County / coords 37.2300, -121.9600", "Santa Clara County / primary ZIP 95032"]
+zillowHomeValueUsd: 2648080
 ---
 
 **Engineering Notice for Los Gatos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

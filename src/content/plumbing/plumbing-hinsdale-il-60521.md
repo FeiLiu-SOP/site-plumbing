@@ -12,6 +12,7 @@ lng: -87.9300
 zipSample: ["60521"]
 zipCodes: ["60521"]
 localPaths: ["DuPage County / primary ZIP 60521", "DuPage County / coords 41.8000, -87.9300", "DuPage County / elevation 728 ft band", "DuPage County / ZIP 60521 sector"]
+zillowHomeValueUsd: 1210413
 ---
 
 **Engineering Notice for Hinsdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

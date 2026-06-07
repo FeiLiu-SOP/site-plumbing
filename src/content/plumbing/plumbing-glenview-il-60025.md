@@ -12,6 +12,7 @@ lng: -87.8200
 zipSample: ["60026", "60025"]
 zipCodes: ["60026", "60025"]
 localPaths: ["Cook County / ZIP 60025 sector", "Cook County / elevation 640 ft band", "Cook County / ZIP 60026 sector", "Cook County / primary ZIP 60025", "Cook County / coords 42.0800, -87.8200"]
+zillowHomeValueUsd: 603597
 ---
 
 **Engineering Notice for Glenview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

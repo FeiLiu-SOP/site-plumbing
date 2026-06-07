@@ -12,6 +12,7 @@ lng: -93.5600
 zipSample: ["55317", "55318", "55331"]
 zipCodes: ["55317", "55331", "55318"]
 localPaths: ["Carver County / elevation 938 ft band", "Carver County / primary ZIP 55331", "Carver County / ZIP 55331 sector", "Carver County / ZIP 55318 sector", "Carver County / coords 44.8500, -93.5600"]
+zillowHomeValueUsd: 810183
 ---
 
 **Engineering Notice for Chanhassen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carver County.

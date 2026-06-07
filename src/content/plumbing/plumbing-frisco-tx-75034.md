@@ -12,6 +12,7 @@ lng: -96.8200
 zipSample: ["75033", "75035", "75036", "75034"]
 zipCodes: ["75036", "75035", "75033", "75034"]
 localPaths: ["Collin County / ZIP 75034 sector", "Collin County / ZIP 75035 sector", "Collin County / primary ZIP 75034", "Collin County / ZIP 75033 sector", "Collin County / coords 33.1600, -96.8200"]
+zillowHomeValueUsd: 676165
 ---
 
 **Engineering Notice for Frisco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

@@ -12,6 +12,7 @@ lng: -119.2900
 zipSample: ["97838"]
 zipCodes: ["97838"]
 localPaths: ["Umatilla County / primary ZIP 97838", "Umatilla County / ZIP 97838 sector", "Umatilla County / coords 45.8300, -119.2900", "Umatilla County / elevation 486 ft band"]
+zillowHomeValueUsd: 340754
 ---
 
 **Engineering Notice for Hermiston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Umatilla County.

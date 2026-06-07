@@ -12,6 +12,7 @@ lng: -95.8800
 zipSample: ["77441", "77406"]
 zipCodes: ["77441", "77406"]
 localPaths: ["Fort Bend County / ZIP 77441 sector", "Fort Bend County / elevation 141 ft band", "Fort Bend County / coords 29.6900, -95.8800", "Fort Bend County / primary ZIP 77441", "Fort Bend County / ZIP 77406 sector"]
+zillowHomeValueUsd: 517823
 ---
 
 **Engineering Notice for Fulshear:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.

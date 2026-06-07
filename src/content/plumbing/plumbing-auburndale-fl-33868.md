@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["33868", "33823"]
 zipCodes: ["33868", "33823"]
 localPaths: ["Polk County / ZIP 33868 sector", "Polk County / primary ZIP 33868", "Polk County / elevation 138 ft band", "Polk County / ZIP 33823 sector", "Polk County / coords 28.1000, -81.8000"]
+zillowHomeValueUsd: 261016
 ---
 
 **Engineering Notice for Auburndale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

@@ -12,6 +12,7 @@ lng: -76.9700
 zipSample: ["20745", "20744"]
 zipCodes: ["20744", "20745"]
 localPaths: ["Prince George's County / elevation 75 ft band", "Prince George's County / ZIP 20745 sector", "Prince George's County / coords 38.7900, -76.9700", "Prince George's County / ZIP 20744 sector", "Prince George's County / primary ZIP 20744"]
+zillowHomeValueUsd: 448944
 ---
 
 **Engineering Notice for Oxon Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

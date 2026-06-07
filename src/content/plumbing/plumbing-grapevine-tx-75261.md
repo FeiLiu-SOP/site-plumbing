@@ -12,6 +12,7 @@ lng: -97.0700
 zipSample: ["76099", "75261", "76051"]
 zipCodes: ["76099", "76051", "75261"]
 localPaths: ["Tarrant County / ZIP 76099 sector", "Tarrant County / elevation 643 ft band", "Tarrant County / primary ZIP 75261", "Tarrant County / coords 32.9300, -97.0700", "Tarrant County / ZIP 76051 sector"]
+zillowHomeValueUsd: 548106
 ---
 
 **Engineering Notice for Grapevine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

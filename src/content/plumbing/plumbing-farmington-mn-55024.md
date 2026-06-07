@@ -12,6 +12,7 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / elevation 909 ft band", "Dakota County / ZIP 55024 sector", "Dakota County / primary ZIP 55024", "Dakota County / coords 44.6600, -93.1700"]
+zillowHomeValueUsd: 400268
 ---
 
 **Engineering Notice for Farmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

@@ -12,6 +12,7 @@ lng: -104.9500
 zipSample: ["80534"]
 zipCodes: ["80534"]
 localPaths: ["Weld County / coords 40.3500, -104.9500", "Weld County / elevation 4908 ft band", "Weld County / ZIP 80534 sector", "Weld County / primary ZIP 80534"]
+zillowHomeValueUsd: 510463
 ---
 
 **Engineering Notice for Johnstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.

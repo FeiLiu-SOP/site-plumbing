@@ -12,6 +12,7 @@ lng: -110.3200
 zipSample: ["85613", "85650", "85670", "85635"]
 zipCodes: ["85635", "85670", "85613", "85650"]
 localPaths: ["Cochise County / ZIP 85650 sector", "Cochise County / ZIP 85670 sector", "Cochise County / primary ZIP 85650", "Cochise County / coords 31.5600, -110.3200", "Cochise County / ZIP 85635 sector"]
+zillowHomeValueUsd: 359405
 ---
 
 **Engineering Notice for Sierra Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cochise County.

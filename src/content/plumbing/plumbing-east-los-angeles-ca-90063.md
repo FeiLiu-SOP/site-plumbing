@@ -12,6 +12,7 @@ lng: -118.1700
 zipSample: ["90022", "90023", "90063"]
 zipCodes: ["90063", "90023", "90022"]
 localPaths: ["Los Angeles County / primary ZIP 90063", "Los Angeles County / ZIP 90023 sector", "Los Angeles County / elevation 292 ft band", "Los Angeles County / coords 34.0300, -118.1700", "Los Angeles County / ZIP 90063 sector"]
+zillowHomeValueUsd: 669395
 ---
 
 **Engineering Notice for East Los Angeles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

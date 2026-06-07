@@ -12,6 +12,7 @@ lng: -80.6400
 zipSample: ["28027", "28083", "28082", "28081"]
 zipCodes: ["28082", "28083", "28027", "28081"]
 localPaths: ["Cabarrus County / ZIP 28083 sector", "Cabarrus County / primary ZIP 28027", "Cabarrus County / elevation 761 ft band", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / ZIP 28081 sector"]
+zillowHomeValueUsd: 414971
 ---
 
 **Engineering Notice for Kannapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabarrus County.

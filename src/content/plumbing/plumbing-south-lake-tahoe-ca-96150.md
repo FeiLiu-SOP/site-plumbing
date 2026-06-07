@@ -12,6 +12,7 @@ lng: -119.9800
 zipSample: ["96150", "96157", "96152", "96151", "96158"]
 zipCodes: ["96151", "96150", "96157", "96154", "96152", "96158"]
 localPaths: ["El Dorado County / ZIP 96150 sector", "El Dorado County / ZIP 96151 sector", "El Dorado County / coords 38.9400, -119.9800", "El Dorado County / elevation 6289 ft band", "El Dorado County / ZIP 96158 sector"]
+zillowHomeValueUsd: 663226
 ---
 
 **Engineering Notice for South Lake Tahoe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Dorado County.

@@ -12,6 +12,7 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / elevation 36 ft band", "New Hanover County / coords 34.2900, -77.8400", "New Hanover County / primary ZIP 28411", "New Hanover County / ZIP 28411 sector"]
+zillowHomeValueUsd: 463607
 ---
 
 **Engineering Notice for Murraysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Hanover County.

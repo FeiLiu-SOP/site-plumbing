@@ -12,6 +12,7 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / elevation 466 ft band", "Baltimore County / ZIP 21234 sector"]
+zillowHomeValueUsd: 301696
 ---
 
 **Engineering Notice for Carney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

@@ -12,6 +12,7 @@ lng: -117.3100
 zipSample: ["92345", "92340", "92344"]
 zipCodes: ["92345", "92344", "92340"]
 localPaths: ["San Bernardino County / elevation 3346 ft band", "San Bernardino County / ZIP 92345 sector", "San Bernardino County / ZIP 92344 sector", "San Bernardino County / coords 34.4000, -117.3100", "San Bernardino County / primary ZIP 92345"]
+zillowHomeValueUsd: 445144
 ---
 
 **Engineering Notice for Hesperia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,8 @@ lng: -66.6200
 zipSample: ["00733", "00732", "00728", "00730", "00716"]
 zipCodes: ["00732", "00717", "00733", "00716", "00734", "00730", "00728"]
 localPaths: ["Ponce County / ZIP 00733 sector", "Ponce County / coords 18.0100, -66.6200", "Ponce County / ZIP 00730 sector", "Ponce County / ZIP 00716 sector", "Ponce County / ZIP 00728 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 366259
 ---
 
 **Engineering Notice for Ponce:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ponce County.

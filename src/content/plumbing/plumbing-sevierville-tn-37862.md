@@ -12,6 +12,7 @@ lng: -83.5700
 zipSample: ["37876", "37764", "37862"]
 zipCodes: ["37862", "37876", "37764"]
 localPaths: ["Sevier County / coords 35.8900, -83.5700", "Sevier County / ZIP 37876 sector", "Sevier County / elevation 981 ft band", "Sevier County / primary ZIP 37862", "Sevier County / ZIP 37862 sector"]
+zillowHomeValueUsd: 448945
 ---
 
 **Engineering Notice for Sevierville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sevier County.

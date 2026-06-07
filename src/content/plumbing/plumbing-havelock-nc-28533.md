@@ -12,6 +12,7 @@ lng: -76.9000
 zipSample: ["28532", "28533"]
 zipCodes: ["28532", "28533"]
 localPaths: ["Craven County / ZIP 28532 sector", "Craven County / ZIP 28533 sector", "Craven County / coords 34.9100, -76.9000", "Craven County / primary ZIP 28533", "Craven County / elevation 26 ft band"]
+zillowHomeValueUsd: 233675
 ---
 
 **Engineering Notice for Havelock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Craven County.

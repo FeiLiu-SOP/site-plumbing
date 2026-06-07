@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["22306"]
 zipCodes: ["22306"]
 localPaths: ["Fairfax County / ZIP 22306 sector", "Fairfax County / primary ZIP 22306", "Fairfax County / coords 38.7500, -77.0800", "Fairfax County / elevation 43 ft band"]
+zillowHomeValueUsd: 641863
 ---
 
 **Engineering Notice for Hybla Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

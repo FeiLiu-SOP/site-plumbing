@@ -12,6 +12,7 @@ lng: -91.6700
 zipSample: ["55987", "55959"]
 zipCodes: ["55959", "55987"]
 localPaths: ["Winona County / coords 44.0500, -91.6700", "Winona County / ZIP 55987 sector", "Winona County / ZIP 55959 sector", "Winona County / elevation 666 ft band", "Winona County / primary ZIP 55959"]
+zillowHomeValueUsd: 300723
 ---
 
 **Engineering Notice for Winona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winona County.

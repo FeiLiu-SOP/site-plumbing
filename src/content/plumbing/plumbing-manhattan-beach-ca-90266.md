@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["90267", "90266"]
 zipCodes: ["90267", "90266"]
 localPaths: ["Los Angeles County / elevation 135 ft band", "Los Angeles County / primary ZIP 90266", "Los Angeles County / coords 33.8900, -118.4000", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / ZIP 90267 sector"]
+zillowHomeValueUsd: 3229612
 ---
 
 **Engineering Notice for Manhattan Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

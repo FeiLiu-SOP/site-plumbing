@@ -12,6 +12,7 @@ lng: -87.6100
 zipSample: ["61834", "61832"]
 zipCodes: ["61834", "61832"]
 localPaths: ["Vermilion County / ZIP 61832 sector", "Vermilion County / primary ZIP 61834", "Vermilion County / coords 40.1400, -87.6100", "Vermilion County / elevation 650 ft band", "Vermilion County / ZIP 61834 sector"]
+zillowHomeValueUsd: 183436
 ---
 
 **Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vermilion County.

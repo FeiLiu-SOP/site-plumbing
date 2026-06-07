@@ -12,6 +12,7 @@ lng: -80.2100
 zipSample: ["33162", "33169", "33161", "33168"]
 zipCodes: ["33169", "33161", "33162", "33168"]
 localPaths: ["Miami-Dade County / coords 25.9100, -80.2100", "Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33169 sector", "Miami-Dade County / primary ZIP 33162", "Miami-Dade County / ZIP 33168 sector"]
+zillowHomeValueUsd: 463898
 ---
 
 **Engineering Notice for Biscayne Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

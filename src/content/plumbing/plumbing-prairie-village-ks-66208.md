@@ -12,6 +12,7 @@ lng: -94.6400
 zipSample: ["66208", "66207"]
 zipCodes: ["66208", "66207"]
 localPaths: ["Johnson County / coords 38.9900, -94.6400", "Johnson County / primary ZIP 66208", "Johnson County / ZIP 66208 sector", "Johnson County / ZIP 66207 sector", "Johnson County / elevation 1060 ft band"]
+zillowHomeValueUsd: 492479
 ---
 
 **Engineering Notice for Prairie Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

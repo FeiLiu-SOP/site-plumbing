@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["33191", "33178", "33122", "33172", "33126"]
 zipCodes: ["33178", "33126", "33191", "33166", "33172", "33122"]
 localPaths: ["Miami-Dade County / primary ZIP 33178", "Miami-Dade County / coords 25.8200, -80.3600", "Miami-Dade County / ZIP 33122 sector", "Miami-Dade County / ZIP 33178 sector", "Miami-Dade County / elevation 36 ft band"]
+zillowHomeValueUsd: 559328
 ---
 
 **Engineering Notice for Doral:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

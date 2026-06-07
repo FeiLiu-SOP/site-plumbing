@@ -12,6 +12,7 @@ lng: -89.8300
 zipSample: ["54494", "54495"]
 zipCodes: ["54494", "54495"]
 localPaths: ["Wood County / primary ZIP 54495", "Wood County / ZIP 54494 sector", "Wood County / elevation 994 ft band", "Wood County / coords 44.3900, -89.8300", "Wood County / ZIP 54495 sector"]
+zillowHomeValueUsd: 173985
 ---
 
 **Engineering Notice for Wisconsin Rapids:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wood County.

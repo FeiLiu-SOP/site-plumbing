@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["45839", "45840"]
 zipCodes: ["45840", "45839"]
 localPaths: ["Hancock County / elevation 784 ft band", "Hancock County / primary ZIP 45840", "Hancock County / ZIP 45839 sector", "Hancock County / coords 41.0500, -83.6400", "Hancock County / ZIP 45840 sector"]
+zillowHomeValueUsd: 240650
 ---
 
 **Engineering Notice for Findlay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hancock County.

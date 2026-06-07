@@ -12,6 +12,7 @@ lng: -111.9500
 zipSample: ["84037"]
 zipCodes: ["84037"]
 localPaths: ["Davis County / coords 41.0300, -111.9500", "Davis County / ZIP 84037 sector", "Davis County / primary ZIP 84037", "Davis County / elevation 4308 ft band"]
+zillowHomeValueUsd: 701420
 ---
 
 **Engineering Notice for Kaysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

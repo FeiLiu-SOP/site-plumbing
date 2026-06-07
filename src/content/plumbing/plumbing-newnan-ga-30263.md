@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["30265", "30264", "30263", "30271"]
 zipCodes: ["30271", "30264", "30265", "30263"]
 localPaths: ["Coweta County / ZIP 30265 sector", "Coweta County / ZIP 30271 sector", "Coweta County / primary ZIP 30263", "Coweta County / elevation 945 ft band", "Coweta County / coords 33.3800, -84.7800"]
+zillowHomeValueUsd: 336222
 ---
 
 **Engineering Notice for Newnan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coweta County.

@@ -12,6 +12,7 @@ lng: -81.5700
 zipSample: ["32097", "32041"]
 zipCodes: ["32097", "32041"]
 localPaths: ["Nassau County / ZIP 32097 sector", "Nassau County / elevation 52 ft band", "Nassau County / ZIP 32041 sector", "Nassau County / coords 30.6400, -81.5700", "Nassau County / primary ZIP 32097"]
+zillowHomeValueUsd: 383693
 ---
 
 **Engineering Notice for Yulee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

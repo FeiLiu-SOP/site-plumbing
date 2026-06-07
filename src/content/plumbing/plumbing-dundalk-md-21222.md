@@ -12,6 +12,7 @@ lng: -76.4900
 zipSample: ["21224", "21222"]
 zipCodes: ["21222", "21224"]
 localPaths: ["Baltimore County / elevation 30 ft band", "Baltimore County / ZIP 21222 sector", "Baltimore County / primary ZIP 21222", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / ZIP 21224 sector"]
+zillowHomeValueUsd: 226644
 ---
 
 **Engineering Notice for Dundalk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

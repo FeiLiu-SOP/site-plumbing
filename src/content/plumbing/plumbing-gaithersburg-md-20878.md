@@ -12,6 +12,7 @@ lng: -77.2100
 zipSample: ["20885", "20879", "20884", "20898", "20878"]
 zipCodes: ["20899", "20878", "20898", "20879", "20885", "20884", "20877"]
 localPaths: ["Montgomery County / ZIP 20884 sector", "Montgomery County / coords 39.1300, -77.2100", "Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20885 sector", "Montgomery County / elevation 466 ft band"]
+zillowHomeValueUsd: 703138
 ---
 
 **Engineering Notice for Gaithersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -98.3100
 zipSample: ["78148"]
 zipCodes: ["78148"]
 localPaths: ["Bexar County / coords 29.5500, -98.3100", "Bexar County / primary ZIP 78148", "Bexar County / ZIP 78148 sector", "Bexar County / elevation 846 ft band"]
+zillowHomeValueUsd: 265124
 ---
 
 **Engineering Notice for Universal City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.

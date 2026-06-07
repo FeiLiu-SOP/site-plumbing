@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["94578", "94541", "94580"]
 zipCodes: ["94578", "94580", "94541"]
 localPaths: ["Alameda County / primary ZIP 94541", "Alameda County / ZIP 94580 sector", "Alameda County / coords 37.6900, -122.1200", "Alameda County / ZIP 94578 sector", "Alameda County / elevation 33 ft band"]
+zillowHomeValueUsd: 783200
 ---
 
 **Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

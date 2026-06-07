@@ -12,6 +12,7 @@ lng: -81.4400
 zipSample: ["32703", "32714"]
 zipCodes: ["32703", "32714"]
 localPaths: ["Seminole County / ZIP 32714 sector", "Seminole County / coords 28.6600, -81.4400", "Seminole County / elevation 128 ft band", "Seminole County / ZIP 32703 sector", "Seminole County / primary ZIP 32714"]
+zillowHomeValueUsd: 303017
 ---
 
 **Engineering Notice for Forest City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.

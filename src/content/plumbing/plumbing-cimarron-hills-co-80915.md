@@ -12,6 +12,7 @@ lng: -104.7000
 zipSample: ["80915", "80922", "80970"]
 zipCodes: ["80922", "80970", "80915"]
 localPaths: ["El Paso County / elevation 6457 ft band", "El Paso County / primary ZIP 80915", "El Paso County / ZIP 80922 sector", "El Paso County / ZIP 80970 sector", "El Paso County / ZIP 80915 sector"]
+zillowHomeValueUsd: 380807
 ---
 
 **Engineering Notice for Cimarron Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

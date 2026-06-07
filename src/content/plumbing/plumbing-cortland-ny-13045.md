@@ -12,6 +12,7 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / primary ZIP 13045", "Cortland County / coords 42.6000, -76.1800", "Cortland County / elevation 1122 ft band", "Cortland County / ZIP 13045 sector"]
+zillowHomeValueUsd: 197168
 ---
 
 **Engineering Notice for Cortland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cortland County.

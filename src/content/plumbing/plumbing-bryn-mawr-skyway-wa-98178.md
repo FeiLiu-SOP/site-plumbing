@@ -12,6 +12,7 @@ lng: -122.2400
 zipSample: ["98178"]
 zipCodes: ["98178"]
 localPaths: ["King County / elevation 387 ft band", "King County / primary ZIP 98178", "King County / coords 47.4900, -122.2400", "King County / ZIP 98178 sector"]
+zillowHomeValueUsd: 670401
 ---
 
 **Engineering Notice for Bryn Mawr-Skyway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

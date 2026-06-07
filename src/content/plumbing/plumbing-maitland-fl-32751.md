@@ -12,6 +12,7 @@ lng: -81.3700
 zipSample: ["32799", "32794", "32751"]
 zipCodes: ["32794", "32799", "32751"]
 localPaths: ["Orange County / ZIP 32751 sector", "Orange County / elevation 98 ft band", "Orange County / ZIP 32794 sector", "Orange County / ZIP 32799 sector", "Orange County / coords 28.6300, -81.3700"]
+zillowHomeValueUsd: 461475
 ---
 
 **Engineering Notice for Maitland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

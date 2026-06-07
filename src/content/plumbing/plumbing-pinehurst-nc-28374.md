@@ -12,6 +12,7 @@ lng: -79.4700
 zipSample: ["28370", "28374"]
 zipCodes: ["28374", "28370"]
 localPaths: ["Moore County / ZIP 28374 sector", "Moore County / ZIP 28370 sector", "Moore County / primary ZIP 28374", "Moore County / coords 35.1900, -79.4700", "Moore County / elevation 522 ft band"]
+zillowHomeValueUsd: 533551
 ---
 
 **Engineering Notice for Pinehurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Moore County.

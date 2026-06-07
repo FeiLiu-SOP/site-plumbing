@@ -12,6 +12,7 @@ lng: -84.3700
 zipSample: ["30327", "30328", "30342", "31156", "30350"]
 zipCodes: ["30342", "31156", "31150", "30350", "30358", "30328", "30327"]
 localPaths: ["Fulton County / ZIP 30328 sector", "Fulton County / primary ZIP 30350", "Fulton County / coords 33.9400, -84.3700", "Fulton County / ZIP 30342 sector", "Fulton County / ZIP 30327 sector"]
+zillowHomeValueUsd: 547220
 ---
 
 **Engineering Notice for Sandy Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

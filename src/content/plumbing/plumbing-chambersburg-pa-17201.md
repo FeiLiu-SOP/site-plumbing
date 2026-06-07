@@ -12,6 +12,7 @@ lng: -77.6600
 zipSample: ["17201"]
 zipCodes: ["17201"]
 localPaths: ["Franklin County / ZIP 17201 sector", "Franklin County / coords 39.9300, -77.6600", "Franklin County / primary ZIP 17201", "Franklin County / elevation 633 ft band"]
+zillowHomeValueUsd: 252498
 ---
 
 **Engineering Notice for Chambersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

@@ -12,6 +12,7 @@ lng: -86.0500
 zipSample: ["35768", "35769"]
 zipCodes: ["35769", "35768"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / ZIP 35769 sector", "Jackson County / elevation 623 ft band", "Jackson County / coords 34.6400, -86.0500", "Jackson County / ZIP 35768 sector"]
+zillowHomeValueUsd: 172957
 ---
 
 **Engineering Notice for Scottsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

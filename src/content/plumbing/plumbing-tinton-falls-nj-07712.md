@@ -12,6 +12,7 @@ lng: -74.0900
 zipSample: ["07712", "07724", "07753"]
 zipCodes: ["07712", "07724", "07753"]
 localPaths: ["Monmouth County / ZIP 07712 sector", "Monmouth County / ZIP 07724 sector", "Monmouth County / elevation 115 ft band", "Monmouth County / primary ZIP 07712", "Monmouth County / coords 40.2700, -74.0900"]
+zillowHomeValueUsd: 737197
 ---
 
 **Engineering Notice for Tinton Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monmouth County.

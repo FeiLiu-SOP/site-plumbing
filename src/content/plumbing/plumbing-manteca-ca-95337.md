@@ -12,6 +12,7 @@ lng: -121.2300
 zipSample: ["95337", "95336"]
 zipCodes: ["95336", "95337"]
 localPaths: ["San Joaquin County / ZIP 95337 sector", "San Joaquin County / primary ZIP 95337", "San Joaquin County / coords 37.7900, -121.2300", "San Joaquin County / ZIP 95336 sector", "San Joaquin County / elevation 30 ft band"]
+zillowHomeValueUsd: 646771
 ---
 
 **Engineering Notice for Manteca:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.

@@ -12,6 +12,7 @@ lng: -90.1300
 zipSample: ["62040", "62048"]
 zipCodes: ["62040", "62048"]
 localPaths: ["Madison County / primary ZIP 62048", "Madison County / elevation 430 ft band", "Madison County / ZIP 62040 sector", "Madison County / ZIP 62048 sector", "Madison County / coords 38.7300, -90.1300"]
+zillowHomeValueUsd: 74954
 ---
 
 **Engineering Notice for Granite City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

@@ -12,6 +12,7 @@ lng: -121.4600
 zipSample: ["95824"]
 zipCodes: ["95824"]
 localPaths: ["Sacramento County / primary ZIP 95824", "Sacramento County / elevation 30 ft band", "Sacramento County / ZIP 95824 sector", "Sacramento County / coords 38.5200, -121.4600"]
+zillowHomeValueUsd: 368909
 ---
 
 **Engineering Notice for Lemon Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

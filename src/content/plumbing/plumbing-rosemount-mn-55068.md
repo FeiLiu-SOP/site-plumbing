@@ -12,6 +12,7 @@ lng: -93.0700
 zipSample: ["55068"]
 zipCodes: ["55068"]
 localPaths: ["Dakota County / coords 44.7500, -93.0700", "Dakota County / primary ZIP 55068", "Dakota County / elevation 922 ft band", "Dakota County / ZIP 55068 sector"]
+zillowHomeValueUsd: 408847
 ---
 
 **Engineering Notice for Rosemount:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

@@ -12,6 +12,7 @@ lng: -119.7800
 zipSample: ["89433", "89436"]
 zipCodes: ["89436", "89433"]
 localPaths: ["Washoe County / elevation 4908 ft band", "Washoe County / ZIP 89433 sector", "Washoe County / coords 39.6100, -119.7800", "Washoe County / primary ZIP 89436", "Washoe County / ZIP 89436 sector"]
+zillowHomeValueUsd: 572040
 ---
 
 **Engineering Notice for Sun Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washoe County.

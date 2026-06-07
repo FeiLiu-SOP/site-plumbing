@@ -12,6 +12,7 @@ lng: -122.9400
 zipSample: ["97124", "97006", "97123", "97129"]
 zipCodes: ["97123", "97129", "97124", "97006"]
 localPaths: ["Washington County / elevation 167 ft band", "Washington County / ZIP 97006 sector", "Washington County / ZIP 97124 sector", "Washington County / primary ZIP 97006", "Washington County / ZIP 97129 sector"]
+zillowHomeValueUsd: 500879
 ---
 
 **Engineering Notice for Hillsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -82.0700
 zipSample: ["30917", "30916", "30812", "30903", "30999"]
 zipCodes: ["30812", "30909", "30905", "30914", "30903", "30901", "30917", "30805", "30919", "30912", "30907", "30916"]
 localPaths: ["Richmond County / primary ZIP 30912", "Richmond County / ZIP 30903 sector", "Richmond County / ZIP 30999 sector", "Richmond County / ZIP 30917 sector", "Richmond County / ZIP 30916 sector"]
+zillowHomeValueUsd: 145467
 ---
 
 **Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richmond County.

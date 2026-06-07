@@ -12,6 +12,7 @@ lng: -121.9400
 zipSample: ["94583", "94582"]
 zipCodes: ["94582", "94583"]
 localPaths: ["Contra Costa County / primary ZIP 94582", "Contra Costa County / ZIP 94583 sector", "Contra Costa County / coords 37.7600, -121.9400", "Contra Costa County / elevation 577 ft band", "Contra Costa County / ZIP 94582 sector"]
+zillowHomeValueUsd: 1765293
 ---
 
 **Engineering Notice for San Ramon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

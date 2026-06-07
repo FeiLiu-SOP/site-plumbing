@@ -12,6 +12,7 @@ lng: -74.4200
 zipSample: ["07940"]
 zipCodes: ["07940"]
 localPaths: ["Morris County / coords 40.7600, -74.4200", "Morris County / primary ZIP 07940", "Morris County / ZIP 07940 sector", "Morris County / elevation 262 ft band"]
+zillowHomeValueUsd: 1030700
 ---
 
 **Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.

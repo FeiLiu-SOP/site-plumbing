@@ -12,6 +12,7 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77401", "77402"]
 localPaths: ["Harris County / primary ZIP 77401", "Harris County / coords 29.7000, -95.4600", "Harris County / ZIP 77401 sector", "Harris County / ZIP 77402 sector", "Harris County / elevation 72 ft band"]
+zillowHomeValueUsd: 1162699
 ---
 
 **Engineering Notice for Bellaire:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.

@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["44203"]
 zipCodes: ["44203"]
 localPaths: ["Summit County / coords 41.0100, -81.6000", "Summit County / elevation 955 ft band", "Summit County / ZIP 44203 sector", "Summit County / primary ZIP 44203"]
+zillowHomeValueUsd: 179047
 ---
 
 **Engineering Notice for Barberton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.

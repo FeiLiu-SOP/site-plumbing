@@ -12,6 +12,7 @@ lng: -75.9600
 zipSample: ["13790"]
 zipCodes: ["13790"]
 localPaths: ["Broome County / elevation 860 ft band", "Broome County / coords 42.1200, -75.9600", "Broome County / primary ZIP 13790", "Broome County / ZIP 13790 sector"]
+zillowHomeValueUsd: 156638
 ---
 
 **Engineering Notice for Johnson City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broome County.

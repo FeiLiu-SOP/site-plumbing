@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["94560"]
 zipCodes: ["94560"]
 localPaths: ["Alameda County / ZIP 94560 sector", "Alameda County / primary ZIP 94560", "Alameda County / elevation 13 ft band", "Alameda County / coords 37.5200, -122.0300"]
+zillowHomeValueUsd: 1260671
 ---
 
 **Engineering Notice for Newark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

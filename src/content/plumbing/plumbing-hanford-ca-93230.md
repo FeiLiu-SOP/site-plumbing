@@ -12,6 +12,7 @@ lng: -119.6500
 zipSample: ["93230"]
 zipCodes: ["93230"]
 localPaths: ["Kings County / elevation 246 ft band", "Kings County / primary ZIP 93230", "Kings County / ZIP 93230 sector", "Kings County / coords 36.3300, -119.6500"]
+zillowHomeValueUsd: 382637
 ---
 
 **Engineering Notice for Hanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.

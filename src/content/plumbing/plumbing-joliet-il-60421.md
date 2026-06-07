@@ -12,6 +12,7 @@ lng: -88.1500
 zipSample: ["60431", "60434", "60586", "60435", "60421"]
 zipCodes: ["60432", "60433", "60586", "60431", "60434", "60436", "60421", "60435"]
 localPaths: ["Will County / ZIP 60586 sector", "Will County / ZIP 60421 sector", "Will County / elevation 614 ft band", "Will County / ZIP 60434 sector", "Will County / coords 41.5200, -88.1500"]
+zillowHomeValueUsd: 311124
 ---
 
 **Engineering Notice for Joliet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

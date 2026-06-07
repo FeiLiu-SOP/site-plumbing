@@ -12,6 +12,7 @@ lng: -91.7600
 zipSample: ["65401", "65402", "65409"]
 zipCodes: ["65401", "65409", "65402"]
 localPaths: ["Phelps County / ZIP 65402 sector", "Phelps County / coords 37.9500, -91.7600", "Phelps County / ZIP 65409 sector", "Phelps County / primary ZIP 65409", "Phelps County / elevation 1099 ft band"]
+zillowHomeValueUsd: 236227
 ---
 
 **Engineering Notice for Rolla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Phelps County.

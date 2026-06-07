@@ -12,6 +12,7 @@ lng: -96.8500
 zipSample: ["66441"]
 zipCodes: ["66441"]
 localPaths: ["Geary County / coords 39.0300, -96.8500", "Geary County / elevation 1188 ft band", "Geary County / primary ZIP 66441", "Geary County / ZIP 66441 sector"]
+zillowHomeValueUsd: 207572
 ---
 
 **Engineering Notice for Junction City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Geary County.

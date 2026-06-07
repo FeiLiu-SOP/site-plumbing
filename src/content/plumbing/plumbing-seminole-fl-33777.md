@@ -12,6 +12,7 @@ lng: -82.7800
 zipSample: ["33775", "33772", "33778", "33777"]
 zipCodes: ["33778", "33777", "33775", "33772"]
 localPaths: ["Pinellas County / ZIP 33778 sector", "Pinellas County / elevation 20 ft band", "Pinellas County / ZIP 33772 sector", "Pinellas County / primary ZIP 33777", "Pinellas County / ZIP 33775 sector"]
+zillowHomeValueUsd: 325122
 ---
 
 **Engineering Notice for Seminole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.

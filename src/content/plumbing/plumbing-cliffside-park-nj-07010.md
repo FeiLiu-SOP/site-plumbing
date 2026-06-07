@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["07010"]
 zipCodes: ["07010"]
 localPaths: ["Bergen County / coords 40.8200, -73.9900", "Bergen County / primary ZIP 07010", "Bergen County / elevation 285 ft band", "Bergen County / ZIP 07010 sector"]
+zillowHomeValueUsd: 645141
 ---
 
 **Engineering Notice for Cliffside Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

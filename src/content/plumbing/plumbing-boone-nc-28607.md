@@ -12,6 +12,7 @@ lng: -81.6700
 zipSample: ["28608", "28607"]
 zipCodes: ["28608", "28607"]
 localPaths: ["Watauga County / coords 36.2100, -81.6700", "Watauga County / ZIP 28608 sector", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28607 sector", "Watauga County / primary ZIP 28607"]
+zillowHomeValueUsd: 491992
 ---
 
 **Engineering Notice for Boone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Watauga County.

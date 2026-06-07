@@ -12,6 +12,7 @@ lng: -87.3500
 zipSample: ["46409", "46405", "46408", "46407", "46406"]
 zipCodes: ["46405", "46406", "46402", "46407", "46404", "46409", "46403", "46408"]
 localPaths: ["Lake County / ZIP 46409 sector", "Lake County / ZIP 46406 sector", "Lake County / ZIP 46407 sector", "Lake County / primary ZIP 46409", "Lake County / ZIP 46408 sector"]
+zillowHomeValueUsd: 79191
 ---
 
 **Engineering Notice for Gary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

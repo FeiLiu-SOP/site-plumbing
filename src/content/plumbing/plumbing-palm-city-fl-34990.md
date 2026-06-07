@@ -12,6 +12,7 @@ lng: -80.2900
 zipSample: ["34991", "34990"]
 zipCodes: ["34991", "34990"]
 localPaths: ["Martin County / ZIP 34990 sector", "Martin County / coords 27.1700, -80.2900", "Martin County / elevation 3 ft band", "Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector"]
+zillowHomeValueUsd: 611093
 ---
 
 **Engineering Notice for Palm City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Martin County.

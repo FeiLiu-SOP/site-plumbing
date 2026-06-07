@@ -12,6 +12,7 @@ lng: -91.7400
 zipSample: ["72145", "72149", "72143"]
 zipCodes: ["72145", "72143", "72149"]
 localPaths: ["White County / coords 35.2400, -91.7400", "White County / primary ZIP 72143", "White County / ZIP 72145 sector", "White County / ZIP 72143 sector", "White County / elevation 233 ft band"]
+zillowHomeValueUsd: 217374
 ---
 
 **Engineering Notice for Searcy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: White County.

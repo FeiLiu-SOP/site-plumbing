@@ -12,6 +12,7 @@ lng: -87.0200
 zipSample: ["32563"]
 zipCodes: ["32563"]
 localPaths: ["Santa Rosa County / elevation 0 ft band", "Santa Rosa County / ZIP 32563 sector", "Santa Rosa County / coords 30.4200, -87.0200", "Santa Rosa County / primary ZIP 32563"]
+zillowHomeValueUsd: 400894
 ---
 
 **Engineering Notice for Midway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Rosa County.

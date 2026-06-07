@@ -12,6 +12,7 @@ lng: -71.1000
 zipSample: ["02724", "02717", "02722", "02790", "02723"]
 zipCodes: ["02790", "02723", "02720", "02721", "02747", "02717", "02724", "02722"]
 localPaths: ["Bristol County / ZIP 02717 sector", "Bristol County / elevation 108 ft band", "Bristol County / ZIP 02790 sector", "Bristol County / ZIP 02723 sector", "Bristol County / ZIP 02722 sector"]
+zillowHomeValueUsd: 431390
 ---
 
 **Engineering Notice for Fall River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bristol County.

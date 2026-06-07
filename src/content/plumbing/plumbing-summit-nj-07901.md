@@ -12,6 +12,7 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07901", "07902"]
 localPaths: ["Union County / ZIP 07902 sector", "Union County / elevation 390 ft band", "Union County / ZIP 07901 sector", "Union County / primary ZIP 07901", "Union County / coords 40.7200, -74.3600"]
+zillowHomeValueUsd: 1360960
 ---
 
 **Engineering Notice for Summit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.

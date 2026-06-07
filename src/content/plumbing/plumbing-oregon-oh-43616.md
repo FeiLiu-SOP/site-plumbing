@@ -12,6 +12,7 @@ lng: -83.4300
 zipSample: ["43616"]
 zipCodes: ["43616"]
 localPaths: ["Lucas County / elevation 584 ft band", "Lucas County / primary ZIP 43616", "Lucas County / coords 41.6500, -83.4300", "Lucas County / ZIP 43616 sector"]
+zillowHomeValueUsd: 227408
 ---
 
 **Engineering Notice for Oregon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lucas County.

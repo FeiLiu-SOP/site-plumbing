@@ -12,6 +12,7 @@ lng: -156.5100
 zipSample: ["96793"]
 zipCodes: ["96793"]
 localPaths: ["Maui County / ZIP 96793 sector", "Maui County / coords 20.8800, -156.5100", "Maui County / elevation 354 ft band", "Maui County / primary ZIP 96793"]
+zillowHomeValueUsd: 924836
 ---
 
 **Engineering Notice for Wailuku:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maui County.

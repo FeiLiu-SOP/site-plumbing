@@ -12,6 +12,7 @@ lng: -97.8700
 zipSample: ["73706", "73701", "73702", "73703", "73705"]
 zipCodes: ["73706", "73705", "73701", "73702", "73703"]
 localPaths: ["Garfield County / elevation 1276 ft band", "Garfield County / coords 36.4100, -97.8700", "Garfield County / ZIP 73702 sector", "Garfield County / ZIP 73703 sector", "Garfield County / ZIP 73705 sector"]
+zillowHomeValueUsd: 78564
 ---
 
 **Engineering Notice for Enid:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Garfield County.

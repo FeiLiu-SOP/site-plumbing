@@ -12,6 +12,7 @@ lng: -97.6800
 zipSample: ["78644"]
 zipCodes: ["78644"]
 localPaths: ["Caldwell County / primary ZIP 78644", "Caldwell County / ZIP 78644 sector", "Caldwell County / elevation 558 ft band", "Caldwell County / coords 29.8800, -97.6800"]
+zillowHomeValueUsd: 284176
 ---
 
 **Engineering Notice for Lockhart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.

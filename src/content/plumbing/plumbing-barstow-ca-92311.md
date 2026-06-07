@@ -12,6 +12,7 @@ lng: -117.0500
 zipSample: ["92311"]
 zipCodes: ["92311"]
 localPaths: ["San Bernardino County / ZIP 92311 sector", "San Bernardino County / elevation 2680 ft band", "San Bernardino County / coords 34.8700, -117.0500", "San Bernardino County / primary ZIP 92311"]
+zillowHomeValueUsd: 263394
 ---
 
 **Engineering Notice for Barstow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,7 @@ lng: -81.0100
 zipSample: ["28120", "28012", "28236"]
 zipCodes: ["28012", "28236", "28120"]
 localPaths: ["Gaston County / primary ZIP 28120", "Gaston County / ZIP 28120 sector", "Gaston County / ZIP 28236 sector", "Gaston County / elevation 666 ft band", "Gaston County / coords 35.3100, -81.0100"]
+zillowHomeValueUsd: 366793
 ---
 
 **Engineering Notice for Mount Holly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.

@@ -12,6 +12,7 @@ lng: -77.3400
 zipSample: ["22025", "22193"]
 zipCodes: ["22193", "22025"]
 localPaths: ["Prince William County / ZIP 22193 sector", "Prince William County / ZIP 22025 sector", "Prince William County / elevation 154 ft band", "Prince William County / primary ZIP 22193", "Prince William County / coords 38.6100, -77.3400"]
+zillowHomeValueUsd: 508685
 ---
 
 **Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

@@ -12,6 +12,7 @@ lng: -111.8700
 zipSample: ["84048", "84043"]
 zipCodes: ["84048", "84043"]
 localPaths: ["Utah County / primary ZIP 84043", "Utah County / coords 40.4100, -111.8700", "Utah County / ZIP 84043 sector", "Utah County / elevation 4557 ft band", "Utah County / ZIP 84048 sector"]
+zillowHomeValueUsd: 573600
 ---
 
 **Engineering Notice for Lehi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

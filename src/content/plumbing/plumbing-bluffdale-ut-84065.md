@@ -12,6 +12,7 @@ lng: -111.9400
 zipSample: ["84065"]
 zipCodes: ["84065"]
 localPaths: ["Salt Lake County / elevation 4521 ft band", "Salt Lake County / coords 40.4700, -111.9400", "Salt Lake County / ZIP 84065 sector", "Salt Lake County / primary ZIP 84065"]
+zillowHomeValueUsd: 643128
 ---
 
 **Engineering Notice for Bluffdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

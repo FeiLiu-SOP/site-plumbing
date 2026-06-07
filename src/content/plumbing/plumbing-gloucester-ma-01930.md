@@ -12,6 +12,7 @@ lng: -70.6900
 zipSample: ["01931", "01930"]
 zipCodes: ["01931", "01930"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 42.6300, -70.6900", "Essex County / ZIP 01931 sector", "Essex County / ZIP 01930 sector", "Essex County / primary ZIP 01930"]
+zillowHomeValueUsd: 760879
 ---
 
 **Engineering Notice for Gloucester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

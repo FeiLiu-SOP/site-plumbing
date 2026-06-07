@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["55423"]
 zipCodes: ["55423"]
 localPaths: ["Hennepin County / coords 44.8800, -93.2800", "Hennepin County / ZIP 55423 sector", "Hennepin County / elevation 840 ft band", "Hennepin County / primary ZIP 55423"]
+zillowHomeValueUsd: 347257
 ---
 
 **Engineering Notice for Richfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

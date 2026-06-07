@@ -12,6 +12,7 @@ lng: -82.0100
 zipSample: ["43702", "43701"]
 zipCodes: ["43701", "43702"]
 localPaths: ["Muskingum County / coords 39.9600, -82.0100", "Muskingum County / ZIP 43701 sector", "Muskingum County / primary ZIP 43701", "Muskingum County / ZIP 43702 sector", "Muskingum County / elevation 774 ft band"]
+zillowHomeValueUsd: 197442
 ---
 
 **Engineering Notice for Zanesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskingum County.

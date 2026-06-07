@@ -12,6 +12,7 @@ lng: -71.1000
 zipSample: ["02143", "02145", "02144"]
 zipCodes: ["02145", "02143", "02144"]
 localPaths: ["Middlesex County / primary ZIP 02144", "Middlesex County / elevation 72 ft band", "Middlesex County / coords 42.3900, -71.1000", "Middlesex County / ZIP 02145 sector", "Middlesex County / ZIP 02144 sector"]
+zillowHomeValueUsd: 1057605
 ---
 
 **Engineering Notice for Somerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -73.7000
 zipSample: ["11001", "11002"]
 zipCodes: ["11002", "11001"]
 localPaths: ["Nassau County / primary ZIP 11001", "Nassau County / coords 40.7200, -73.7000", "Nassau County / ZIP 11001 sector", "Nassau County / ZIP 11002 sector", "Nassau County / elevation 92 ft band"]
+zillowHomeValueUsd: 850851
 ---
 
 **Engineering Notice for Floral Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

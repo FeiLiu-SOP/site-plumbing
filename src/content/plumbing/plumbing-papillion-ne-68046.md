@@ -12,6 +12,7 @@ lng: -96.0700
 zipSample: ["68046", "68128", "68138", "68133"]
 zipCodes: ["68133", "68046", "68128", "68138"]
 localPaths: ["Sarpy County / elevation 1047 ft band", "Sarpy County / ZIP 68133 sector", "Sarpy County / ZIP 68138 sector", "Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68046"]
+zillowHomeValueUsd: 409106
 ---
 
 **Engineering Notice for Papillion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarpy County.

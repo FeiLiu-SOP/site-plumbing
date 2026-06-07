@@ -12,6 +12,7 @@ lng: -86.5300
 zipSample: ["47405", "47401", "47407", "47404", "47406"]
 zipCodes: ["47408", "47401", "47407", "47403", "47405", "47406", "47404"]
 localPaths: ["Monroe County / ZIP 47401 sector", "Monroe County / ZIP 47406 sector", "Monroe County / ZIP 47404 sector", "Monroe County / elevation 810 ft band", "Monroe County / coords 39.1600, -86.5300"]
+zillowHomeValueUsd: 347691
 ---
 
 **Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monroe County.

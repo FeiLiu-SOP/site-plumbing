@@ -12,6 +12,7 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / elevation 607 ft band", "Tarrant County / primary ZIP 76063", "Tarrant County / coords 32.5700, -97.1200", "Tarrant County / ZIP 76063 sector"]
+zillowHomeValueUsd: 439973
 ---
 
 **Engineering Notice for Mansfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

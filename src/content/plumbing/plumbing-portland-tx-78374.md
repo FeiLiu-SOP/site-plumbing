@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / elevation 52 ft band", "San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
+zillowHomeValueUsd: 267399
 ---
 
 **Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Patricio County.

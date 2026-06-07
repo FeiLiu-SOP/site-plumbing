@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60467", "60462"]
 zipCodes: ["60467", "60462"]
 localPaths: ["Cook County / primary ZIP 60467", "Cook County / ZIP 60462 sector", "Cook County / elevation 692 ft band", "Cook County / coords 41.6100, -87.8600", "Cook County / ZIP 60467 sector"]
+zillowHomeValueUsd: 465573
 ---
 
 **Engineering Notice for Orland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -105.5000
 zipSample: ["82718", "82716"]
 zipCodes: ["82716", "82718"]
 localPaths: ["Campbell County / ZIP 82718 sector", "Campbell County / primary ZIP 82718", "Campbell County / elevation 4534 ft band", "Campbell County / coords 44.2800, -105.5000", "Campbell County / ZIP 82716 sector"]
+zillowHomeValueUsd: 361139
 ---
 
 **Engineering Notice for Gillette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Campbell County.

@@ -12,6 +12,7 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / ZIP 97338 sector", "Polk County / elevation 322 ft band", "Polk County / coords 44.9200, -123.3100", "Polk County / primary ZIP 97338"]
+zillowHomeValueUsd: 473412
 ---
 
 **Engineering Notice for Dallas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

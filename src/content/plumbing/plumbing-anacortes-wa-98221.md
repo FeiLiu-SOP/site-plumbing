@@ -12,6 +12,7 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / ZIP 98221 sector", "Skagit County / elevation 302 ft band", "Skagit County / coords 48.4900, -122.6300", "Skagit County / primary ZIP 98221"]
+zillowHomeValueUsd: 720452
 ---
 
 **Engineering Notice for Anacortes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Skagit County.

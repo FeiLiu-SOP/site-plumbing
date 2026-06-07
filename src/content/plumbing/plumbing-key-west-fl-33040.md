@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["33041", "33040", "33045"]
 zipCodes: ["33045", "33040", "33041"]
 localPaths: ["Monroe County / ZIP 33045 sector", "Monroe County / ZIP 33041 sector", "Monroe County / coords 24.5600, -81.7800", "Monroe County / ZIP 33040 sector", "Monroe County / primary ZIP 33040"]
+zillowHomeValueUsd: 959845
 ---
 
 **Engineering Notice for Key West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monroe County.

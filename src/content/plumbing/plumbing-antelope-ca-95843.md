@@ -12,6 +12,7 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / coords 38.7200, -121.3600", "Sacramento County / primary ZIP 95843", "Sacramento County / ZIP 95843 sector", "Sacramento County / elevation 128 ft band"]
+zillowHomeValueUsd: 503966
 ---
 
 **Engineering Notice for Antelope:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

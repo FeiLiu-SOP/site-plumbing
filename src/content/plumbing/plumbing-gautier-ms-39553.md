@@ -12,6 +12,7 @@ lng: -88.6600
 zipSample: ["39564", "39553"]
 zipCodes: ["39553", "39564"]
 localPaths: ["Jackson County / ZIP 39553 sector", "Jackson County / primary ZIP 39553", "Jackson County / coords 30.4100, -88.6600", "Jackson County / ZIP 39564 sector", "Jackson County / elevation 30 ft band"]
+zillowHomeValueUsd: 186799
 ---
 
 **Engineering Notice for Gautier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

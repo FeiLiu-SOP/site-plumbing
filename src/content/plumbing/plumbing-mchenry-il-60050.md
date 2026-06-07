@@ -12,6 +12,7 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / primary ZIP 60050", "McHenry County / ZIP 60050 sector", "McHenry County / elevation 817 ft band", "McHenry County / coords 42.3400, -88.2900"]
+zillowHomeValueUsd: 307078
 ---
 
 **Engineering Notice for McHenry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.

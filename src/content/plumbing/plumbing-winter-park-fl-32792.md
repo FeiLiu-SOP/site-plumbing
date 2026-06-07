@@ -12,6 +12,7 @@ lng: -81.3400
 zipSample: ["32790", "32792", "32789"]
 zipCodes: ["32790", "32792", "32789"]
 localPaths: ["Orange County / elevation 69 ft band", "Orange County / coords 28.6000, -81.3400", "Orange County / ZIP 32790 sector", "Orange County / primary ZIP 32792", "Orange County / ZIP 32789 sector"]
+zillowHomeValueUsd: 397302
 ---
 
 **Engineering Notice for Winter Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

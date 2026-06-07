@@ -12,6 +12,7 @@ lng: -111.8200
 zipSample: ["84117", "84121", "84124"]
 zipCodes: ["84121", "84124", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / elevation 4452 ft band", "Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84121 sector"]
+zillowHomeValueUsd: 694523
 ---
 
 **Engineering Notice for Holladay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

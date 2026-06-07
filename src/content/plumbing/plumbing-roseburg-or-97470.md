@@ -12,6 +12,7 @@ lng: -123.3500
 zipSample: ["97471", "97470"]
 zipCodes: ["97471", "97470"]
 localPaths: ["Douglas County / coords 43.2200, -123.3500", "Douglas County / ZIP 97470 sector", "Douglas County / elevation 482 ft band", "Douglas County / primary ZIP 97470", "Douglas County / ZIP 97471 sector"]
+zillowHomeValueUsd: 320684
 ---
 
 **Engineering Notice for Roseburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.

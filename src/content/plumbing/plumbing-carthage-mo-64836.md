@@ -12,6 +12,7 @@ lng: -94.3200
 zipSample: ["64836"]
 zipCodes: ["64836"]
 localPaths: ["Jasper County / coords 37.1500, -94.3200", "Jasper County / primary ZIP 64836", "Jasper County / ZIP 64836 sector", "Jasper County / elevation 1053 ft band"]
+zillowHomeValueUsd: 240375
 ---
 
 **Engineering Notice for Carthage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jasper County.

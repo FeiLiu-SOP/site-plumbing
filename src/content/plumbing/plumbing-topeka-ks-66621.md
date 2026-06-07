@@ -12,6 +12,7 @@ lng: -95.7000
 zipSample: ["66621", "66611", "66604", "66636", "66625"]
 zipCodes: ["66604", "66629", "66601", "66625", "66603", "66622", "66608", "66609", "66675", "66607", "66605", "66616"]
 localPaths: ["Shawnee County / elevation 958 ft band", "Shawnee County / ZIP 66621 sector", "Shawnee County / ZIP 66625 sector", "Shawnee County / primary ZIP 66621", "Shawnee County / ZIP 66611 sector"]
+zillowHomeValueUsd: 233915
 ---
 
 **Engineering Notice for Topeka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shawnee County.

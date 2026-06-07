@@ -12,6 +12,7 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94305", "94304"]
 localPaths: ["Santa Clara County / ZIP 94309 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / ZIP 94305 sector"]
+zillowHomeValueUsd: 3346464
 ---
 
 **Engineering Notice for Stanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

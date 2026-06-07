@@ -12,6 +12,7 @@ lng: -84.3700
 zipSample: ["45005", "45044", "45042"]
 zipCodes: ["45005", "45044", "45042"]
 localPaths: ["Butler County / ZIP 45005 sector", "Butler County / elevation 758 ft band", "Butler County / primary ZIP 45044", "Butler County / coords 39.5000, -84.3700", "Butler County / ZIP 45042 sector"]
+zillowHomeValueUsd: 259757
 ---
 
 **Engineering Notice for Middletown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.

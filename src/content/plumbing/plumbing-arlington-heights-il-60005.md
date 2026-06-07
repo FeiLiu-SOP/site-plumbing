@@ -12,6 +12,7 @@ lng: -87.9800
 zipSample: ["60005", "60004"]
 zipCodes: ["60004", "60005"]
 localPaths: ["Cook County / ZIP 60004 sector", "Cook County / primary ZIP 60005", "Cook County / coords 42.1000, -87.9800", "Cook County / elevation 728 ft band", "Cook County / ZIP 60005 sector"]
+zillowHomeValueUsd: 426655
 ---
 
 **Engineering Notice for Arlington Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

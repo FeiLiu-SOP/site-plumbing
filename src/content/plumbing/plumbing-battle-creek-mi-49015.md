@@ -12,6 +12,7 @@ lng: -85.2300
 zipSample: ["49037", "49015", "49016"]
 zipCodes: ["49016", "49037", "49015"]
 localPaths: ["Calhoun County / coords 42.3000, -85.2300", "Calhoun County / ZIP 49037 sector", "Calhoun County / ZIP 49015 sector", "Calhoun County / primary ZIP 49015", "Calhoun County / elevation 935 ft band"]
+zillowHomeValueUsd: 206328
 ---
 
 **Engineering Notice for Battle Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.

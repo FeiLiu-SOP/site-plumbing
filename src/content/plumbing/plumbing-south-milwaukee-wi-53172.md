@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["53172"]
 zipCodes: ["53172"]
 localPaths: ["Milwaukee County / primary ZIP 53172", "Milwaukee County / coords 42.9100, -87.8600", "Milwaukee County / elevation 686 ft band", "Milwaukee County / ZIP 53172 sector"]
+zillowHomeValueUsd: 300410
 ---
 
 **Engineering Notice for South Milwaukee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.

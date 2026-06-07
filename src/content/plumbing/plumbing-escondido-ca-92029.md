@@ -12,6 +12,7 @@ lng: -117.0700
 zipSample: ["92033", "92027", "92046", "92029", "92026"]
 zipCodes: ["92033", "92046", "92025", "92029", "92030", "92026", "92027"]
 localPaths: ["San Diego County / coords 33.1300, -117.0700", "San Diego County / ZIP 92029 sector", "San Diego County / ZIP 92026 sector", "San Diego County / ZIP 92046 sector", "San Diego County / primary ZIP 92029"]
+zillowHomeValueUsd: 1177997
 ---
 
 **Engineering Notice for Escondido:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

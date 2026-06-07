@@ -12,6 +12,7 @@ lng: -94.1700
 zipSample: ["72704", "72703", "72701", "72702"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / ZIP 72702 sector", "Washington County / primary ZIP 72704", "Washington County / ZIP 72701 sector", "Washington County / ZIP 72704 sector", "Washington County / coords 36.0700, -94.1700"]
+zillowHomeValueUsd: 361943
 ---
 
 **Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

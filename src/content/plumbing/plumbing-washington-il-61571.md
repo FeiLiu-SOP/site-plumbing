@@ -12,6 +12,7 @@ lng: -89.4300
 zipSample: ["61571"]
 zipCodes: ["61571"]
 localPaths: ["Tazewell County / ZIP 61571 sector", "Tazewell County / coords 40.7000, -89.4300", "Tazewell County / primary ZIP 61571", "Tazewell County / elevation 761 ft band"]
+zillowHomeValueUsd: 226557
 ---
 
 **Engineering Notice for Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tazewell County.

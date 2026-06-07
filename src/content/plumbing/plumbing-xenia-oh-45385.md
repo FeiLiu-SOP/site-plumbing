@@ -12,6 +12,7 @@ lng: -83.9400
 zipSample: ["45385"]
 zipCodes: ["45385"]
 localPaths: ["Greene County / coords 39.6800, -83.9400", "Greene County / primary ZIP 45385", "Greene County / elevation 925 ft band", "Greene County / ZIP 45385 sector"]
+zillowHomeValueUsd: 253875
 ---
 
 **Engineering Notice for Xenia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.

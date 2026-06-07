@@ -12,6 +12,7 @@ lng: -121.8200
 zipSample: ["93955"]
 zipCodes: ["93955"]
 localPaths: ["Monterey County / elevation 272 ft band", "Monterey County / ZIP 93955 sector", "Monterey County / primary ZIP 93955", "Monterey County / coords 36.6200, -121.8200"]
+zillowHomeValueUsd: 801989
 ---
 
 **Engineering Notice for Seaside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.

@@ -12,6 +12,7 @@ lng: -86.6900
 zipSample: ["35215"]
 zipCodes: ["35215"]
 localPaths: ["Jefferson County / elevation 853 ft band", "Jefferson County / primary ZIP 35215", "Jefferson County / ZIP 35215 sector", "Jefferson County / coords 33.6400, -86.6900"]
+zillowHomeValueUsd: 150978
 ---
 
 **Engineering Notice for Center Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

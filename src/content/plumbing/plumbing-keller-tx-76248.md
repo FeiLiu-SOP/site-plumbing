@@ -12,6 +12,7 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / elevation 669 ft band", "Tarrant County / ZIP 76248 sector", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9300, -97.2300"]
+zillowHomeValueUsd: 589569
 ---
 
 **Engineering Notice for Keller:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

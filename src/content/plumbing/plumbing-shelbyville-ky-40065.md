@@ -12,6 +12,7 @@ lng: -85.2300
 zipSample: ["40065", "40066"]
 zipCodes: ["40066", "40065"]
 localPaths: ["Shelby County / coords 38.2100, -85.2300", "Shelby County / primary ZIP 40065", "Shelby County / ZIP 40065 sector", "Shelby County / ZIP 40066 sector", "Shelby County / elevation 758 ft band"]
+zillowHomeValueUsd: 306329
 ---
 
 **Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

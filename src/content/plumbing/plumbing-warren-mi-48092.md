@@ -12,6 +12,7 @@ lng: -83.0300
 zipSample: ["48091", "48089", "48092", "48397", "48088"]
 zipCodes: ["48093", "48088", "48089", "48397", "48092", "48091"]
 localPaths: ["Macomb County / ZIP 48089 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / ZIP 48092 sector", "Macomb County / ZIP 48091 sector", "Macomb County / ZIP 48397 sector"]
+zillowHomeValueUsd: 241903
 ---
 
 **Engineering Notice for Warren:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.

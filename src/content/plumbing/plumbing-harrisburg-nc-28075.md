@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / ZIP 28075 sector", "Cabarrus County / elevation 597 ft band", "Cabarrus County / primary ZIP 28075", "Cabarrus County / coords 35.3100, -80.6500"]
+zillowHomeValueUsd: 502639
 ---
 
 **Engineering Notice for Harrisburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabarrus County.

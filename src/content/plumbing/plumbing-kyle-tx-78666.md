@@ -12,6 +12,7 @@ lng: -97.8900
 zipSample: ["78666", "78640"]
 zipCodes: ["78666", "78640"]
 localPaths: ["Hays County / ZIP 78666 sector", "Hays County / ZIP 78640 sector", "Hays County / primary ZIP 78666", "Hays County / coords 29.9900, -97.8900", "Hays County / elevation 764 ft band"]
+zillowHomeValueUsd: 314003
 ---
 
 **Engineering Notice for Kyle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hays County.

@@ -12,6 +12,7 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / coords 43.1300, -115.7000", "Elmore County / primary ZIP 83647", "Elmore County / elevation 3143 ft band", "Elmore County / ZIP 83647 sector"]
+zillowHomeValueUsd: 355932
 ---
 
 **Engineering Notice for Mountain Home:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elmore County.

@@ -12,6 +12,7 @@ lng: -70.9700
 zipSample: ["01961", "01960"]
 zipCodes: ["01960", "01961"]
 localPaths: ["Essex County / ZIP 01960 sector", "Essex County / primary ZIP 01960", "Essex County / coords 42.5300, -70.9700", "Essex County / ZIP 01961 sector", "Essex County / elevation 184 ft band"]
+zillowHomeValueUsd: 695254
 ---
 
 **Engineering Notice for Peabody:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

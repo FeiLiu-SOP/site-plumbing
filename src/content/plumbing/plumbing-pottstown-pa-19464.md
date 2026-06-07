@@ -12,6 +12,7 @@ lng: -75.6400
 zipSample: ["19464"]
 zipCodes: ["19464"]
 localPaths: ["Montgomery County / coords 40.2500, -75.6400", "Montgomery County / ZIP 19464 sector", "Montgomery County / elevation 190 ft band", "Montgomery County / primary ZIP 19464"]
+zillowHomeValueUsd: 306434
 ---
 
 **Engineering Notice for Pottstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

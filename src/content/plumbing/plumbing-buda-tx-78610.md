@@ -12,6 +12,7 @@ lng: -97.8500
 zipSample: ["78610"]
 zipCodes: ["78610"]
 localPaths: ["Hays County / ZIP 78610 sector", "Hays County / primary ZIP 78610", "Hays County / elevation 715 ft band", "Hays County / coords 30.0800, -97.8500"]
+zillowHomeValueUsd: 363712
 ---
 
 **Engineering Notice for Buda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hays County.

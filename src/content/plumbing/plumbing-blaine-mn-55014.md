@@ -12,6 +12,7 @@ lng: -93.2100
 zipSample: ["55449", "55434", "55014"]
 zipCodes: ["55434", "55449", "55014"]
 localPaths: ["Anoka County / coords 45.1700, -93.2100", "Anoka County / elevation 902 ft band", "Anoka County / primary ZIP 55014", "Anoka County / ZIP 55449 sector", "Anoka County / ZIP 55434 sector"]
+zillowHomeValueUsd: 375770
 ---
 
 **Engineering Notice for Blaine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.

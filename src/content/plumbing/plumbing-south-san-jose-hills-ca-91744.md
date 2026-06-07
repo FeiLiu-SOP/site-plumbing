@@ -12,6 +12,7 @@ lng: -117.9000
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / primary ZIP 91744", "Los Angeles County / elevation 420 ft band", "Los Angeles County / coords 34.0100, -117.9000", "Los Angeles County / ZIP 91744 sector"]
+zillowHomeValueUsd: 740954
 ---
 
 **Engineering Notice for South San Jose Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

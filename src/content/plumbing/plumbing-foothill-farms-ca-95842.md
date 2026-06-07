@@ -12,6 +12,7 @@ lng: -121.3500
 zipSample: ["95842", "95841"]
 zipCodes: ["95841", "95842"]
 localPaths: ["Sacramento County / primary ZIP 95842", "Sacramento County / elevation 154 ft band", "Sacramento County / ZIP 95842 sector", "Sacramento County / ZIP 95841 sector", "Sacramento County / coords 38.6900, -121.3500"]
+zillowHomeValueUsd: 423930
 ---
 
 **Engineering Notice for Foothill Farms:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

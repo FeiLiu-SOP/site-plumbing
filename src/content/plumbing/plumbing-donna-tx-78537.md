@@ -12,6 +12,7 @@ lng: -98.0600
 zipSample: ["78537"]
 zipCodes: ["78537"]
 localPaths: ["Hidalgo County / elevation 105 ft band", "Hidalgo County / primary ZIP 78537", "Hidalgo County / coords 26.1500, -98.0600", "Hidalgo County / ZIP 78537 sector"]
+zillowHomeValueUsd: 152949
 ---
 
 **Engineering Notice for Donna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

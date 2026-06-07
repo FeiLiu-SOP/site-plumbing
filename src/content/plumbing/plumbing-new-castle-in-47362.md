@@ -12,6 +12,7 @@ lng: -85.3700
 zipSample: ["47362"]
 zipCodes: ["47362"]
 localPaths: ["Henry County / ZIP 47362 sector", "Henry County / primary ZIP 47362", "Henry County / coords 39.9200, -85.3700", "Henry County / elevation 1063 ft band"]
+zillowHomeValueUsd: 165975
 ---
 
 **Engineering Notice for New Castle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.

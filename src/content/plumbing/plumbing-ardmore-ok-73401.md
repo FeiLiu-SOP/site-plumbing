@@ -12,6 +12,7 @@ lng: -97.1300
 zipSample: ["73402", "73403", "73401"]
 zipCodes: ["73401", "73402", "73403"]
 localPaths: ["Carter County / elevation 899 ft band", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73401 sector", "Carter County / ZIP 73402 sector", "Carter County / primary ZIP 73401"]
+zillowHomeValueUsd: 181337
 ---
 
 **Engineering Notice for Ardmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carter County.

@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["23860"]
 zipCodes: ["23860"]
 localPaths: ["Hopewell County / coords 37.2900, -77.3000", "Hopewell County / ZIP 23860 sector", "Hopewell County / primary ZIP 23860", "Hopewell County / elevation 52 ft band"]
+zillowHomeValueUsd: 233412
 ---
 
 **Engineering Notice for Hopewell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hopewell County.

@@ -12,6 +12,7 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / ZIP 08028 sector", "Gloucester County / primary ZIP 08028", "Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100"]
+zillowHomeValueUsd: 366258
 ---
 
 **Engineering Notice for Glassboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gloucester County.

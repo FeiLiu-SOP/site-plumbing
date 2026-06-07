@@ -12,6 +12,7 @@ lng: -70.2500
 zipSample: ["04210", "04211", "04223", "04212"]
 zipCodes: ["04223", "04210", "04212", "04211"]
 localPaths: ["Androscoggin County / ZIP 04223 sector", "Androscoggin County / coords 44.0900, -70.2500", "Androscoggin County / ZIP 04210 sector", "Androscoggin County / primary ZIP 04210", "Androscoggin County / elevation 282 ft band"]
+zillowHomeValueUsd: 320985
 ---
 
 **Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Androscoggin County.

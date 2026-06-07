@@ -12,6 +12,7 @@ lng: -104.9100
 zipSample: ["80121", "80111"]
 zipCodes: ["80121", "80111"]
 localPaths: ["Arapahoe County / ZIP 80111 sector", "Arapahoe County / elevation 5646 ft band", "Arapahoe County / coords 39.6200, -104.9100", "Arapahoe County / ZIP 80121 sector", "Arapahoe County / primary ZIP 80121"]
+zillowHomeValueUsd: 698157
 ---
 
 **Engineering Notice for Greenwood Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.

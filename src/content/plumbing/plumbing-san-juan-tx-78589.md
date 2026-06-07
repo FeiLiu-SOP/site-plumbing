@@ -12,6 +12,7 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / primary ZIP 78589", "Hidalgo County / coords 26.1900, -98.1500", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / elevation 121 ft band"]
+zillowHomeValueUsd: 183939
 ---
 
 **Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

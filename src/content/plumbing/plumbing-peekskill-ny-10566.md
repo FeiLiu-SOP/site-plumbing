@@ -12,6 +12,7 @@ lng: -73.9200
 zipSample: ["10566"]
 zipCodes: ["10566"]
 localPaths: ["Westchester County / ZIP 10566 sector", "Westchester County / coords 41.2900, -73.9200", "Westchester County / primary ZIP 10566", "Westchester County / elevation 203 ft band"]
+zillowHomeValueUsd: 500790
 ---
 
 **Engineering Notice for Peekskill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.

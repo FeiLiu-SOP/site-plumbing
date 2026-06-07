@@ -12,6 +12,7 @@ lng: -117.0300
 zipSample: ["91946", "91945"]
 zipCodes: ["91946", "91945"]
 localPaths: ["San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / primary ZIP 91945", "San Diego County / coords 32.7300, -117.0300"]
+zillowHomeValueUsd: 762175
 ---
 
 **Engineering Notice for Lemon Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

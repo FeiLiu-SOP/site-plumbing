@@ -12,6 +12,7 @@ lng: -91.2100
 zipSample: ["54650"]
 zipCodes: ["54650"]
 localPaths: ["La Crosse County / coords 43.8900, -91.2100", "La Crosse County / elevation 722 ft band", "La Crosse County / ZIP 54650 sector", "La Crosse County / primary ZIP 54650"]
+zillowHomeValueUsd: 357550
 ---
 
 **Engineering Notice for Onalaska:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: La Crosse County.

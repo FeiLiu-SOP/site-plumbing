@@ -12,6 +12,7 @@ lng: -83.7100
 zipSample: ["43560"]
 zipCodes: ["43560"]
 localPaths: ["Lucas County / coords 41.7100, -83.7100", "Lucas County / ZIP 43560 sector", "Lucas County / primary ZIP 43560", "Lucas County / elevation 689 ft band"]
+zillowHomeValueUsd: 320229
 ---
 
 **Engineering Notice for Sylvania:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lucas County.

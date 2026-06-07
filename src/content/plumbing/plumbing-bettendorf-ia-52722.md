@@ -12,6 +12,7 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / ZIP 52722 sector", "Scott County / coords 41.5700, -90.4800", "Scott County / primary ZIP 52722"]
+zillowHomeValueUsd: 328978
 ---
 
 **Engineering Notice for Bettendorf:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.

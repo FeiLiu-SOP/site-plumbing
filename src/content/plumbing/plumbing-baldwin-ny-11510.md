@@ -12,6 +12,7 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / coords 40.6500, -73.6100", "Nassau County / elevation 26 ft band", "Nassau County / primary ZIP 11510", "Nassau County / ZIP 11510 sector"]
+zillowHomeValueUsd: 714465
 ---
 
 **Engineering Notice for Baldwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

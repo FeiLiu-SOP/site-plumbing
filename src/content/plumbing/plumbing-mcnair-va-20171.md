@@ -12,6 +12,7 @@ lng: -77.4100
 zipSample: ["20171"]
 zipCodes: ["20171"]
 localPaths: ["Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9500, -77.4100", "Fairfax County / elevation 322 ft band", "Fairfax County / primary ZIP 20171"]
+zillowHomeValueUsd: 819517
 ---
 
 **Engineering Notice for McNair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -77.5600
 zipSample: ["20105"]
 zipCodes: ["20105"]
 localPaths: ["Loudoun County / coords 38.9300, -77.5600", "Loudoun County / primary ZIP 20105", "Loudoun County / elevation 344 ft band", "Loudoun County / ZIP 20105 sector"]
+zillowHomeValueUsd: 1102694
 ---
 
 **Engineering Notice for Stone Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.

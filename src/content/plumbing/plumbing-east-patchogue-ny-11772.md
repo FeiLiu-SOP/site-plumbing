@@ -12,6 +12,7 @@ lng: -72.9800
 zipSample: ["11772"]
 zipCodes: ["11772"]
 localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
+zillowHomeValueUsd: 585763
 ---
 
 **Engineering Notice for East Patchogue:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

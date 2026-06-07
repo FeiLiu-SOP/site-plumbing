@@ -12,6 +12,7 @@ lng: -117.6500
 zipSample: ["92675", "92693"]
 zipCodes: ["92675", "92693"]
 localPaths: ["Orange County / coords 33.5000, -117.6500", "Orange County / ZIP 92693 sector", "Orange County / ZIP 92675 sector", "Orange County / elevation 115 ft band", "Orange County / primary ZIP 92675"]
+zillowHomeValueUsd: 1338907
 ---
 
 **Engineering Notice for San Juan Capistrano:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

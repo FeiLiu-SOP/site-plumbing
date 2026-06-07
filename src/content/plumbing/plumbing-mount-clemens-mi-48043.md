@@ -12,6 +12,7 @@ lng: -82.8800
 zipSample: ["48046", "48043"]
 zipCodes: ["48046", "48043"]
 localPaths: ["Macomb County / coords 42.6000, -82.8800", "Macomb County / elevation 614 ft band", "Macomb County / ZIP 48046 sector", "Macomb County / primary ZIP 48043", "Macomb County / ZIP 48043 sector"]
+zillowHomeValueUsd: 174689
 ---
 
 **Engineering Notice for Mount Clemens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.

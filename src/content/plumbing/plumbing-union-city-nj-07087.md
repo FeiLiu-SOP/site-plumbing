@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / primary ZIP 07087", "Hudson County / ZIP 07087 sector", "Hudson County / coords 40.7700, -74.0300", "Hudson County / elevation 210 ft band"]
+zillowHomeValueUsd: 567892
 ---
 
 **Engineering Notice for Union City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

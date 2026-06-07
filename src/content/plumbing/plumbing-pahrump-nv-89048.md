@@ -12,6 +12,7 @@ lng: -116.0000
 zipSample: ["89061", "89048", "89041", "89060"]
 zipCodes: ["89061", "89041", "89060", "89048"]
 localPaths: ["Nye County / coords 36.2200, -116.0000", "Nye County / ZIP 89060 sector", "Nye County / ZIP 89041 sector", "Nye County / primary ZIP 89048", "Nye County / ZIP 89061 sector"]
+zillowHomeValueUsd: 371891
 ---
 
 **Engineering Notice for Pahrump:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nye County.

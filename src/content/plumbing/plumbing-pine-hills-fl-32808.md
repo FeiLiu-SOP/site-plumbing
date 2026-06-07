@@ -12,6 +12,7 @@ lng: -81.4700
 zipSample: ["32868", "32808", "32858", "32818", "32710"]
 zipCodes: ["32868", "32869", "32710", "32818", "32808", "32858"]
 localPaths: ["Orange County / ZIP 32818 sector", "Orange County / primary ZIP 32808", "Orange County / ZIP 32858 sector", "Orange County / ZIP 32868 sector", "Orange County / coords 28.5800, -81.4700"]
+zillowHomeValueUsd: 257678
 ---
 
 **Engineering Notice for Pine Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

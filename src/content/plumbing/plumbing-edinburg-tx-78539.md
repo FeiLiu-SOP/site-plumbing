@@ -12,6 +12,7 @@ lng: -98.1600
 zipSample: ["78539", "78541", "78542"]
 zipCodes: ["78539", "78541", "78542"]
 localPaths: ["Hidalgo County / elevation 112 ft band", "Hidalgo County / ZIP 78539 sector", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / ZIP 78541 sector", "Hidalgo County / coords 26.3200, -98.1600"]
+zillowHomeValueUsd: 244071
 ---
 
 **Engineering Notice for Edinburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

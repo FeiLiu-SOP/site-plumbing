@@ -12,6 +12,7 @@ lng: -112.4500
 zipSample: ["85378", "85361", "85379", "85387", "85388"]
 zipCodes: ["85374", "85387", "85379", "85388", "85378", "85361"]
 localPaths: ["Maricopa County / ZIP 85387 sector", "Maricopa County / elevation 1375 ft band", "Maricopa County / ZIP 85388 sector", "Maricopa County / ZIP 85379 sector", "Maricopa County / coords 33.6800, -112.4500"]
+zillowHomeValueUsd: 514220
 ---
 
 **Engineering Notice for Surprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

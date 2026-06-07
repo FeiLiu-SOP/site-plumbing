@@ -12,6 +12,7 @@ lng: -117.3300
 zipSample: ["92324"]
 zipCodes: ["92324"]
 localPaths: ["San Bernardino County / coords 34.0500, -117.3300", "San Bernardino County / elevation 938 ft band", "San Bernardino County / ZIP 92324 sector", "San Bernardino County / primary ZIP 92324"]
+zillowHomeValueUsd: 496469
 ---
 
 **Engineering Notice for Colton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

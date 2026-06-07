@@ -12,6 +12,7 @@ lng: -97.7600
 zipSample: ["73099", "73085"]
 zipCodes: ["73085", "73099"]
 localPaths: ["Canadian County / ZIP 73099 sector", "Canadian County / coords 35.5200, -97.7600", "Canadian County / ZIP 73085 sector", "Canadian County / primary ZIP 73099", "Canadian County / elevation 1286 ft band"]
+zillowHomeValueUsd: 273377
 ---
 
 **Engineering Notice for Yukon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Canadian County.

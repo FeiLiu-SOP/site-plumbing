@@ -12,6 +12,7 @@ lng: -77.0100
 zipSample: ["20744", "20749"]
 zipCodes: ["20744", "20749"]
 localPaths: ["Prince George's County / ZIP 20744 sector", "Prince George's County / elevation 72 ft band", "Prince George's County / ZIP 20749 sector", "Prince George's County / coords 38.7300, -77.0100", "Prince George's County / primary ZIP 20744"]
+zillowHomeValueUsd: 448942
 ---
 
 **Engineering Notice for Fort Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

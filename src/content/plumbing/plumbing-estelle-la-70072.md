@@ -12,6 +12,7 @@ lng: -90.1000
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / ZIP 70072 sector", "Jefferson Parish / coords 29.8400, -90.1000", "Jefferson Parish / primary ZIP 70072", "Jefferson Parish / elevation 26 ft band"]
+zillowHomeValueUsd: 228757
 ---
 
 **Engineering Notice for Estelle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.

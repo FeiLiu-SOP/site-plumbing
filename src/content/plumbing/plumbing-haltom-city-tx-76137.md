@@ -12,6 +12,7 @@ lng: -97.2700
 zipSample: ["76148", "76117", "76137"]
 zipCodes: ["76148", "76137", "76117"]
 localPaths: ["Tarrant County / primary ZIP 76137", "Tarrant County / elevation 610 ft band", "Tarrant County / ZIP 76148 sector", "Tarrant County / ZIP 76137 sector", "Tarrant County / coords 32.8200, -97.2700"]
+zillowHomeValueUsd: 319968
 ---
 
 **Engineering Notice for Haltom City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

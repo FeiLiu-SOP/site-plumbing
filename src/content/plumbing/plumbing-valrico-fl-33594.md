@@ -12,6 +12,7 @@ lng: -82.2300
 zipSample: ["33594", "33596"]
 zipCodes: ["33596", "33594"]
 localPaths: ["Hillsborough County / ZIP 33594 sector", "Hillsborough County / coords 27.9200, -82.2300", "Hillsborough County / primary ZIP 33594", "Hillsborough County / ZIP 33596 sector", "Hillsborough County / elevation 115 ft band"]
+zillowHomeValueUsd: 369780
 ---
 
 **Engineering Notice for Valrico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

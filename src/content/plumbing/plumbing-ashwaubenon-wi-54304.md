@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["54313", "54304", "54115"]
 zipCodes: ["54304", "54115", "54313"]
 localPaths: ["Brown County / ZIP 54304 sector", "Brown County / ZIP 54115 sector", "Brown County / coords 44.4800, -88.0900", "Brown County / elevation 614 ft band", "Brown County / ZIP 54313 sector"]
+zillowHomeValueUsd: 289058
 ---
 
 **Engineering Notice for Ashwaubenon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.

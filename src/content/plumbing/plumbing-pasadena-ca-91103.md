@@ -12,6 +12,7 @@ lng: -118.1400
 zipSample: ["91121", "91116", "91115", "91129", "91101"]
 zipCodes: ["91110", "91109", "91121", "91105", "91115", "91184", "91126", "91101", "91124", "91125", "91103", "91107"]
 localPaths: ["Los Angeles County / ZIP 91121 sector", "Los Angeles County / ZIP 91116 sector", "Los Angeles County / primary ZIP 91103", "Los Angeles County / elevation 928 ft band", "Los Angeles County / ZIP 91101 sector"]
+zillowHomeValueUsd: 1083824
 ---
 
 **Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

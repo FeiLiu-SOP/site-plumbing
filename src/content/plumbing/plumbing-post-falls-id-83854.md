@@ -12,6 +12,7 @@ lng: -116.9400
 zipSample: ["83877", "83854"]
 zipCodes: ["83854", "83877"]
 localPaths: ["Kootenai County / ZIP 83854 sector", "Kootenai County / primary ZIP 83854", "Kootenai County / elevation 2205 ft band", "Kootenai County / ZIP 83877 sector", "Kootenai County / coords 47.7200, -116.9400"]
+zillowHomeValueUsd: 526990
 ---
 
 **Engineering Notice for Post Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kootenai County.

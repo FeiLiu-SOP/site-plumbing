@@ -12,6 +12,7 @@ lng: -81.8700
 zipSample: ["44256"]
 zipCodes: ["44256"]
 localPaths: ["Medina County / primary ZIP 44256", "Medina County / elevation 1070 ft band", "Medina County / coords 41.1400, -81.8700", "Medina County / ZIP 44256 sector"]
+zillowHomeValueUsd: 374763
 ---
 
 **Engineering Notice for Medina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Medina County.

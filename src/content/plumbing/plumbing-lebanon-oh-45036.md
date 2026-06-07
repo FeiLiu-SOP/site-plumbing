@@ -12,6 +12,7 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / ZIP 45036 sector", "Warren County / primary ZIP 45036", "Warren County / elevation 764 ft band"]
+zillowHomeValueUsd: 405128
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

@@ -12,6 +12,7 @@ lng: -81.7400
 zipSample: ["32778"]
 zipCodes: ["32778"]
 localPaths: ["Lake County / primary ZIP 32778", "Lake County / coords 28.7900, -81.7400", "Lake County / elevation 66 ft band", "Lake County / ZIP 32778 sector"]
+zillowHomeValueUsd: 311865
 ---
 
 **Engineering Notice for Tavares:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

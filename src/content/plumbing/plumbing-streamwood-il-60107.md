@@ -12,6 +12,7 @@ lng: -88.1800
 zipSample: ["60107"]
 zipCodes: ["60107"]
 localPaths: ["Cook County / elevation 791 ft band", "Cook County / coords 42.0200, -88.1800", "Cook County / primary ZIP 60107", "Cook County / ZIP 60107 sector"]
+zillowHomeValueUsd: 321388
 ---
 
 **Engineering Notice for Streamwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

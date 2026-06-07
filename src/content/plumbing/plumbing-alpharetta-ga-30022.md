@@ -12,6 +12,7 @@ lng: -84.2700
 zipSample: ["30004", "30009", "30022", "30023", "30005"]
 zipCodes: ["30004", "30009", "30022", "30023", "30005"]
 localPaths: ["Fulton County / coords 34.0700, -84.2700", "Fulton County / elevation 1093 ft band", "Fulton County / ZIP 30023 sector", "Fulton County / ZIP 30004 sector", "Fulton County / primary ZIP 30022"]
+zillowHomeValueUsd: 678077
 ---
 
 **Engineering Notice for Alpharetta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

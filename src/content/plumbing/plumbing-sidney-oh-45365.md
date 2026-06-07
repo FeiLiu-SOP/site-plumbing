@@ -12,6 +12,7 @@ lng: -84.1700
 zipSample: ["45365", "45367"]
 zipCodes: ["45367", "45365"]
 localPaths: ["Shelby County / elevation 1043 ft band", "Shelby County / coords 40.2900, -84.1700", "Shelby County / primary ZIP 45365", "Shelby County / ZIP 45367 sector", "Shelby County / ZIP 45365 sector"]
+zillowHomeValueUsd: 211318
 ---
 
 **Engineering Notice for Sidney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

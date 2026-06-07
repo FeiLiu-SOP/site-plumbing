@@ -12,6 +12,7 @@ lng: -85.9300
 zipSample: ["42141", "42142"]
 zipCodes: ["42141", "42142"]
 localPaths: ["Barren County / ZIP 42142 sector", "Barren County / primary ZIP 42141", "Barren County / ZIP 42141 sector", "Barren County / elevation 774 ft band", "Barren County / coords 37.0000, -85.9300"]
+zillowHomeValueUsd: 214473
 ---
 
 **Engineering Notice for Glasgow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Barren County.

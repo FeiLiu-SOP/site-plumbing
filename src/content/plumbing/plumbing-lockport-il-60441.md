@@ -12,6 +12,7 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / coords 41.5900, -88.0300", "Will County / elevation 702 ft band", "Will County / ZIP 60441 sector", "Will County / primary ZIP 60441"]
+zillowHomeValueUsd: 352660
 ---
 
 **Engineering Notice for Lockport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

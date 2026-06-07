@@ -12,6 +12,7 @@ lng: -93.1000
 zipSample: ["71458", "71497", "71457"]
 zipCodes: ["71458", "71497", "71457"]
 localPaths: ["Natchitoches Parish / ZIP 71497 sector", "Natchitoches Parish / ZIP 71457 sector", "Natchitoches Parish / primary ZIP 71457", "Natchitoches Parish / elevation 105 ft band", "Natchitoches Parish / ZIP 71458 sector"]
+zillowHomeValueUsd: 180969
 ---
 
 **Engineering Notice for Natchitoches:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Natchitoches Parish.

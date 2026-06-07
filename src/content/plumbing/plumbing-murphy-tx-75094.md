@@ -12,6 +12,7 @@ lng: -96.6100
 zipSample: ["75094"]
 zipCodes: ["75094"]
 localPaths: ["Collin County / coords 33.0200, -96.6100", "Collin County / ZIP 75094 sector", "Collin County / primary ZIP 75094", "Collin County / elevation 584 ft band"]
+zillowHomeValueUsd: 569627
 ---
 
 **Engineering Notice for Murphy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

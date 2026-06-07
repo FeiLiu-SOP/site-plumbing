@@ -12,6 +12,7 @@ lng: -81.8500
 zipSample: ["33917", "33903", "33918"]
 zipCodes: ["33903", "33918", "33917"]
 localPaths: ["Lee County / ZIP 33918 sector", "Lee County / ZIP 33903 sector", "Lee County / ZIP 33917 sector", "Lee County / primary ZIP 33917", "Lee County / coords 26.7200, -81.8500"]
+zillowHomeValueUsd: 291528
 ---
 
 **Engineering Notice for North Fort Myers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.

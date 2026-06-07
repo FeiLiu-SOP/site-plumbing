@@ -12,6 +12,7 @@ lng: -76.2600
 zipSample: ["23504", "23501", "23515", "23511", "23503"]
 zipCodes: ["23509", "23510", "23501", "23519", "23523", "23513", "23518", "23514", "23529", "23541", "23551", "23517"]
 localPaths: ["Norfolk County / ZIP 23515 sector", "Norfolk County / ZIP 23501 sector", "Norfolk County / ZIP 23511 sector", "Norfolk County / ZIP 23504 sector", "Norfolk County / primary ZIP 23509"]
+zillowHomeValueUsd: 279577
 ---
 
 **Engineering Notice for Norfolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Norfolk County.

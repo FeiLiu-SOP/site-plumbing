@@ -12,6 +12,7 @@ lng: -92.0300
 zipSample: ["72023"]
 zipCodes: ["72023"]
 localPaths: ["Lonoke County / ZIP 72023 sector", "Lonoke County / primary ZIP 72023", "Lonoke County / elevation 305 ft band", "Lonoke County / coords 34.9800, -92.0300"]
+zillowHomeValueUsd: 251922
 ---
 
 **Engineering Notice for Cabot:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lonoke County.

@@ -12,6 +12,7 @@ lng: -83.1900
 zipSample: ["48183"]
 zipCodes: ["48183"]
 localPaths: ["Wayne County / elevation 587 ft band", "Wayne County / coords 42.1400, -83.1900", "Wayne County / primary ZIP 48183", "Wayne County / ZIP 48183 sector"]
+zillowHomeValueUsd: 253386
 ---
 
 **Engineering Notice for Trenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

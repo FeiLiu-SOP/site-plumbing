@@ -12,6 +12,7 @@ lng: -122.5900
 zipSample: ["98248"]
 zipCodes: ["98248"]
 localPaths: ["Whatcom County / ZIP 98248 sector", "Whatcom County / coords 48.8500, -122.5900", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98248"]
+zillowHomeValueUsd: 618767
 ---
 
 **Engineering Notice for Ferndale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.

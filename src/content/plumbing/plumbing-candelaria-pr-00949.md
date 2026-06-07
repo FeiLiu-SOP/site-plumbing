@@ -12,6 +12,8 @@ lng: -66.2200
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / coords 18.4000, -66.2200", "Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 371739
 ---
 
 **Engineering Notice for Candelaria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Toa Baja County.

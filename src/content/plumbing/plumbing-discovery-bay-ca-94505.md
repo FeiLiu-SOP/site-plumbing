@@ -12,6 +12,7 @@ lng: -121.6000
 zipSample: ["94505"]
 zipCodes: ["94505"]
 localPaths: ["Contra Costa County / primary ZIP 94505", "Contra Costa County / coords 37.9100, -121.6000", "Contra Costa County / ZIP 94505 sector", "Contra Costa County / elevation 10 ft band"]
+zillowHomeValueUsd: 794997
 ---
 
 **Engineering Notice for Discovery Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

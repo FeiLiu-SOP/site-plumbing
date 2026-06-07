@@ -12,6 +12,7 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / ZIP 93280 sector", "Kern County / coords 35.5900, -119.3700", "Kern County / elevation 318 ft band", "Kern County / primary ZIP 93280"]
+zillowHomeValueUsd: 316611
 ---
 
 **Engineering Notice for Wasco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.

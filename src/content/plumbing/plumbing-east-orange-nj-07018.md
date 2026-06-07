@@ -12,6 +12,7 @@ lng: -74.2100
 zipSample: ["07017", "07019", "07018"]
 zipCodes: ["07018", "07019", "07017"]
 localPaths: ["Essex County / ZIP 07017 sector", "Essex County / ZIP 07019 sector", "Essex County / elevation 197 ft band", "Essex County / primary ZIP 07018", "Essex County / ZIP 07018 sector"]
+zillowHomeValueUsd: 463567
 ---
 
 **Engineering Notice for East Orange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

@@ -12,6 +12,7 @@ lng: -111.8400
 zipSample: ["84321", "84322", "84341"]
 zipCodes: ["84341", "84321", "84322"]
 localPaths: ["Cache County / ZIP 84341 sector", "Cache County / ZIP 84321 sector", "Cache County / primary ZIP 84321", "Cache County / coords 41.7400, -111.8400", "Cache County / ZIP 84322 sector"]
+zillowHomeValueUsd: 421452
 ---
 
 **Engineering Notice for Logan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cache County.

@@ -12,6 +12,7 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / primary ZIP 92544", "Riverside County / coords 33.7300, -116.9400", "Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector"]
+zillowHomeValueUsd: 459533
 ---
 
 **Engineering Notice for East Hemet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

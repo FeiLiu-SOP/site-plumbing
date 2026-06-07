@@ -12,6 +12,7 @@ lng: -83.3700
 zipSample: ["48150", "48151", "48153", "48152", "48154"]
 zipCodes: ["48151", "48153", "48150", "48152", "48154"]
 localPaths: ["Wayne County / ZIP 48152 sector", "Wayne County / primary ZIP 48152", "Wayne County / ZIP 48154 sector", "Wayne County / elevation 669 ft band", "Wayne County / ZIP 48153 sector"]
+zillowHomeValueUsd: 323078
 ---
 
 **Engineering Notice for Livonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

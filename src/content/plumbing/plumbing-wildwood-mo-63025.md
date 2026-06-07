@@ -12,6 +12,7 @@ lng: -90.6700
 zipSample: ["63040", "63069", "63025", "63038", "63021"]
 zipCodes: ["63005", "63021", "63025", "63040", "63038", "63069", "63011"]
 localPaths: ["St. Louis County / ZIP 63021 sector", "St. Louis County / ZIP 63040 sector", "St. Louis County / ZIP 63025 sector", "St. Louis County / coords 38.5800, -90.6700", "St. Louis County / ZIP 63069 sector"]
+zillowHomeValueUsd: 415546
 ---
 
 **Engineering Notice for Wildwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

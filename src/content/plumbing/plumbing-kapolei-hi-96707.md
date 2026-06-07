@@ -12,6 +12,7 @@ lng: -158.0700
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / ZIP 96707 sector", "Honolulu County / elevation 89 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / coords 21.3400, -158.0700"]
+zillowHomeValueUsd: 860431
 ---
 
 **Engineering Notice for Kapolei:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

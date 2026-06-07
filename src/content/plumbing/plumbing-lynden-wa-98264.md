@@ -12,6 +12,7 @@ lng: -122.4500
 zipSample: ["98264"]
 zipCodes: ["98264"]
 localPaths: ["Whatcom County / coords 48.9500, -122.4500", "Whatcom County / primary ZIP 98264", "Whatcom County / elevation 102 ft band", "Whatcom County / ZIP 98264 sector"]
+zillowHomeValueUsd: 622659
 ---
 
 **Engineering Notice for Lynden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.

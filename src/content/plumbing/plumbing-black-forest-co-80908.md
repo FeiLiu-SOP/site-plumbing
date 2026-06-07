@@ -12,6 +12,7 @@ lng: -104.6800
 zipSample: ["80106", "80912", "80908"]
 zipCodes: ["80912", "80908", "80106"]
 localPaths: ["El Paso County / coords 39.0600, -104.6800", "El Paso County / ZIP 80908 sector", "El Paso County / ZIP 80106 sector", "El Paso County / primary ZIP 80908", "El Paso County / ZIP 80912 sector"]
+zillowHomeValueUsd: 673325
 ---
 
 **Engineering Notice for Black Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

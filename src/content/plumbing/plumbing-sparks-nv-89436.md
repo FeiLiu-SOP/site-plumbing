@@ -12,6 +12,7 @@ lng: -119.7200
 zipSample: ["89434", "89436", "89432", "89435", "89431"]
 zipCodes: ["89432", "89434", "89431", "89435", "89436"]
 localPaths: ["Washoe County / coords 39.5700, -119.7200", "Washoe County / ZIP 89435 sector", "Washoe County / ZIP 89436 sector", "Washoe County / ZIP 89431 sector", "Washoe County / ZIP 89434 sector"]
+zillowHomeValueUsd: 572039
 ---
 
 **Engineering Notice for Sparks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washoe County.

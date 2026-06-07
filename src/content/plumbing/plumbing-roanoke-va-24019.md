@@ -12,6 +12,7 @@ lng: -79.9600
 zipSample: ["24013", "24024", "24026", "24025", "24002"]
 zipCodes: ["24023", "24015", "24025", "24008", "24017", "24003", "24030", "24001", "24035", "24027", "24029", "24005"]
 localPaths: ["Roanoke County / ZIP 24026 sector", "Roanoke County / ZIP 24013 sector", "Roanoke County / coords 37.2800, -79.9600", "Roanoke County / elevation 971 ft band", "Roanoke County / ZIP 24002 sector"]
+zillowHomeValueUsd: 306193
 ---
 
 **Engineering Notice for Roanoke:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Roanoke County.

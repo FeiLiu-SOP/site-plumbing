@@ -12,6 +12,7 @@ lng: -119.4500
 zipSample: ["93654"]
 zipCodes: ["93654"]
 localPaths: ["Fresno County / elevation 354 ft band", "Fresno County / coords 36.6000, -119.4500", "Fresno County / primary ZIP 93654", "Fresno County / ZIP 93654 sector"]
+zillowHomeValueUsd: 386675
 ---
 
 **Engineering Notice for Reedley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.

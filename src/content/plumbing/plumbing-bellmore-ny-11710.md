@@ -12,6 +12,7 @@ lng: -73.5300
 zipSample: ["11710"]
 zipCodes: ["11710"]
 localPaths: ["Nassau County / elevation 10 ft band", "Nassau County / primary ZIP 11710", "Nassau County / coords 40.6600, -73.5300", "Nassau County / ZIP 11710 sector"]
+zillowHomeValueUsd: 804909
 ---
 
 **Engineering Notice for Bellmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

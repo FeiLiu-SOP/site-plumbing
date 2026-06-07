@@ -12,6 +12,7 @@ lng: -112.0200
 zipSample: ["84096"]
 zipCodes: ["84096"]
 localPaths: ["Salt Lake County / coords 40.4900, -112.0200", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84096", "Salt Lake County / elevation 5007 ft band"]
+zillowHomeValueUsd: 604136
 ---
 
 **Engineering Notice for Herriman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

@@ -12,6 +12,7 @@ lng: -84.4100
 zipSample: ["30274", "30374", "30287", "30296"]
 zipCodes: ["30296", "30374", "30274", "30287"]
 localPaths: ["Clayton County / ZIP 30287 sector", "Clayton County / coords 33.5600, -84.4100", "Clayton County / primary ZIP 30274", "Clayton County / ZIP 30274 sector", "Clayton County / ZIP 30296 sector"]
+zillowHomeValueUsd: 200584
 ---
 
 **Engineering Notice for Riverdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clayton County.

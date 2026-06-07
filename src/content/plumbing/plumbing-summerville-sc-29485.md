@@ -12,6 +12,7 @@ lng: -80.1800
 zipSample: ["29484", "29483", "29485", "29486"]
 zipCodes: ["29486", "29484", "29485", "29483"]
 localPaths: ["Dorchester County / ZIP 29484 sector", "Dorchester County / coords 33.0000, -80.1800", "Dorchester County / ZIP 29486 sector", "Dorchester County / primary ZIP 29485", "Dorchester County / elevation 66 ft band"]
+zillowHomeValueUsd: 366095
 ---
 
 **Engineering Notice for Summerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dorchester County.

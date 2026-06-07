@@ -12,6 +12,7 @@ lng: -93.1700
 zipSample: ["55057"]
 zipCodes: ["55057"]
 localPaths: ["Rice County / primary ZIP 55057", "Rice County / elevation 932 ft band", "Rice County / ZIP 55057 sector", "Rice County / coords 44.4500, -93.1700"]
+zillowHomeValueUsd: 385601
 ---
 
 **Engineering Notice for Northfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rice County.

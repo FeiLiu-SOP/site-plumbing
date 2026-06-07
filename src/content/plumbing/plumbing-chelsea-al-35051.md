@@ -12,6 +12,7 @@ lng: -86.6300
 zipSample: ["35051", "35043"]
 zipCodes: ["35051", "35043"]
 localPaths: ["Shelby County / elevation 548 ft band", "Shelby County / coords 33.3300, -86.6300", "Shelby County / ZIP 35051 sector", "Shelby County / primary ZIP 35051", "Shelby County / ZIP 35043 sector"]
+zillowHomeValueUsd: 322559
 ---
 
 **Engineering Notice for Chelsea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

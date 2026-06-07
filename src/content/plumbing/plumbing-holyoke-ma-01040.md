@@ -12,6 +12,7 @@ lng: -72.6400
 zipSample: ["01040", "01041"]
 zipCodes: ["01040", "01041"]
 localPaths: ["Hampden County / primary ZIP 01040", "Hampden County / ZIP 01041 sector", "Hampden County / ZIP 01040 sector", "Hampden County / elevation 509 ft band", "Hampden County / coords 42.2100, -72.6400"]
+zillowHomeValueUsd: 323024
 ---
 
 **Engineering Notice for Holyoke:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampden County.

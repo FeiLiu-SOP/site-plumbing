@@ -12,6 +12,7 @@ lng: -87.8100
 zipSample: ["60701", "60714"]
 zipCodes: ["60714", "60701"]
 localPaths: ["Cook County / ZIP 60701 sector", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60714", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8100"]
+zillowHomeValueUsd: 398484
 ---
 
 **Engineering Notice for Niles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

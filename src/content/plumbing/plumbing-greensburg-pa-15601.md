@@ -12,6 +12,7 @@ lng: -79.5400
 zipSample: ["15601", "15606"]
 zipCodes: ["15606", "15601"]
 localPaths: ["Westmoreland County / ZIP 15601 sector", "Westmoreland County / ZIP 15606 sector", "Westmoreland County / primary ZIP 15601", "Westmoreland County / coords 40.3100, -79.5400", "Westmoreland County / elevation 1152 ft band"]
+zillowHomeValueUsd: 239741
 ---
 
 **Engineering Notice for Greensburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westmoreland County.

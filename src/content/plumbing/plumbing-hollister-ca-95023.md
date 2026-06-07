@@ -12,6 +12,7 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95024", "95023"]
 localPaths: ["San Benito County / ZIP 95024 sector", "San Benito County / ZIP 95023 sector", "San Benito County / elevation 282 ft band", "San Benito County / coords 36.8600, -121.4000", "San Benito County / primary ZIP 95023"]
+zillowHomeValueUsd: 763165
 ---
 
 **Engineering Notice for Hollister:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Benito County.

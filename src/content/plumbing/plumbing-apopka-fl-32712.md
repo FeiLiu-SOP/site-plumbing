@@ -12,6 +12,7 @@ lng: -81.5300
 zipSample: ["32703", "32768", "32712"]
 zipCodes: ["32703", "32768", "32712"]
 localPaths: ["Orange County / ZIP 32768 sector", "Orange County / primary ZIP 32712", "Orange County / coords 28.7000, -81.5300", "Orange County / ZIP 32712 sector", "Orange County / ZIP 32703 sector"]
+zillowHomeValueUsd: 435426
 ---
 
 **Engineering Notice for Apopka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

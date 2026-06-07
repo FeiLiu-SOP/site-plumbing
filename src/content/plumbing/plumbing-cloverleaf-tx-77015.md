@@ -12,6 +12,7 @@ lng: -95.1700
 zipSample: ["77015"]
 zipCodes: ["77015"]
 localPaths: ["Harris County / primary ZIP 77015", "Harris County / ZIP 77015 sector", "Harris County / elevation 56 ft band", "Harris County / coords 29.7900, -95.1700"]
+zillowHomeValueUsd: 198957
 ---
 
 **Engineering Notice for Cloverleaf:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.

@@ -12,6 +12,7 @@ lng: -79.9700
 zipSample: ["29403", "29455", "29409", "29402", "29417"]
 zipCodes: ["29417", "29403", "29422", "29457", "29455", "29425", "29407", "29409", "29414", "29424", "29405", "29492"]
 localPaths: ["Charleston County / primary ZIP 29414", "Charleston County / elevation 0 ft band", "Charleston County / ZIP 29455 sector", "Charleston County / ZIP 29402 sector", "Charleston County / coords 32.8200, -79.9700"]
+zillowHomeValueUsd: 471667
 ---
 
 **Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charleston County.

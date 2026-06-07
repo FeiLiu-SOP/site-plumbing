@@ -12,6 +12,7 @@ lng: -84.5700
 zipSample: ["40340", "40356"]
 zipCodes: ["40356", "40340"]
 localPaths: ["Jessamine County / primary ZIP 40356", "Jessamine County / ZIP 40340 sector", "Jessamine County / coords 37.8900, -84.5700", "Jessamine County / elevation 994 ft band", "Jessamine County / ZIP 40356 sector"]
+zillowHomeValueUsd: 320092
 ---
 
 **Engineering Notice for Nicholasville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jessamine County.

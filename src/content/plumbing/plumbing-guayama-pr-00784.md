@@ -12,6 +12,8 @@ lng: -66.1100
 zipSample: ["00785", "00784"]
 zipCodes: ["00784", "00785"]
 localPaths: ["Guayama County / primary ZIP 00784", "Guayama County / coords 17.9700, -66.1100", "Guayama County / elevation 112 ft band", "Guayama County / ZIP 00784 sector", "Guayama County / ZIP 00785 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 372172
 ---
 
 **Engineering Notice for Guayama:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guayama County.

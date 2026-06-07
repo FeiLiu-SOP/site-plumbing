@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / coords 41.1200, -74.0700", "Rockland County / elevation 554 ft band", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector"]
+zillowHomeValueUsd: 1129903
 ---
 
 **Engineering Notice for Monsey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.

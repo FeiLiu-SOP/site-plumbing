@@ -12,6 +12,7 @@ lng: -86.9900
 zipSample: ["35602", "35603", "35601", "35609"]
 zipCodes: ["35609", "35601", "35603", "35602"]
 localPaths: ["Morgan County / ZIP 35602 sector", "Morgan County / elevation 591 ft band", "Morgan County / ZIP 35603 sector", "Morgan County / primary ZIP 35603", "Morgan County / ZIP 35601 sector"]
+zillowHomeValueUsd: 280528
 ---
 
 **Engineering Notice for Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morgan County.

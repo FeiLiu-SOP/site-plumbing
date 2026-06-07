@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["20724"]
 zipCodes: ["20724"]
 localPaths: ["Anne Arundel County / coords 39.1000, -76.8100", "Anne Arundel County / primary ZIP 20724", "Anne Arundel County / elevation 230 ft band", "Anne Arundel County / ZIP 20724 sector"]
+zillowHomeValueUsd: 470293
 ---
 
 **Engineering Notice for Maryland City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.

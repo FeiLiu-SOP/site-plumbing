@@ -12,6 +12,7 @@ lng: -87.5100
 zipSample: ["46311"]
 zipCodes: ["46311"]
 localPaths: ["Lake County / elevation 630 ft band", "Lake County / coords 41.5000, -87.5100", "Lake County / ZIP 46311 sector", "Lake County / primary ZIP 46311"]
+zillowHomeValueUsd: 361182
 ---
 
 **Engineering Notice for Dyer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

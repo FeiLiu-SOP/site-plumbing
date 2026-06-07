@@ -12,6 +12,7 @@ lng: -87.1700
 zipSample: ["32571"]
 zipCodes: ["32571"]
 localPaths: ["Santa Rosa County / elevation 115 ft band", "Santa Rosa County / ZIP 32571 sector", "Santa Rosa County / primary ZIP 32571", "Santa Rosa County / coords 30.6200, -87.1700"]
+zillowHomeValueUsd: 325353
 ---
 
 **Engineering Notice for Pace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Rosa County.

@@ -12,6 +12,7 @@ lng: -114.3300
 zipSample: ["59901", "59904"]
 zipCodes: ["59904", "59901"]
 localPaths: ["Flathead County / ZIP 59901 sector", "Flathead County / coords 48.2200, -114.3300", "Flathead County / ZIP 59904 sector", "Flathead County / elevation 3077 ft band", "Flathead County / primary ZIP 59901"]
+zillowHomeValueUsd: 549139
 ---
 
 **Engineering Notice for Kalispell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flathead County.

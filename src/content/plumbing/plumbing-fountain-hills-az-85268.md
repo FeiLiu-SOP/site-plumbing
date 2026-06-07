@@ -12,6 +12,7 @@ lng: -111.7400
 zipSample: ["85269", "85268"]
 zipCodes: ["85268", "85269"]
 localPaths: ["Maricopa County / coords 33.6100, -111.7400", "Maricopa County / ZIP 85269 sector", "Maricopa County / ZIP 85268 sector", "Maricopa County / primary ZIP 85268", "Maricopa County / elevation 1824 ft band"]
+zillowHomeValueUsd: 675162
 ---
 
 **Engineering Notice for Fountain Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

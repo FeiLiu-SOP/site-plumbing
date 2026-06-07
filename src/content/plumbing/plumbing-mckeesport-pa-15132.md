@@ -12,6 +12,7 @@ lng: -79.8400
 zipSample: ["15134", "15132"]
 zipCodes: ["15134", "15132"]
 localPaths: ["Allegheny County / elevation 1001 ft band", "Allegheny County / ZIP 15134 sector", "Allegheny County / ZIP 15132 sector", "Allegheny County / primary ZIP 15132", "Allegheny County / coords 40.3400, -79.8400"]
+zillowHomeValueUsd: 73724
 ---
 
 **Engineering Notice for McKeesport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

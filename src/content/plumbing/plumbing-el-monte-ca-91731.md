@@ -12,6 +12,7 @@ lng: -118.0300
 zipSample: ["91731", "91732", "91734", "91735", "91733"]
 zipCodes: ["91734", "91735", "91733", "91732", "91731"]
 localPaths: ["Los Angeles County / ZIP 91734 sector", "Los Angeles County / elevation 292 ft band", "Los Angeles County / primary ZIP 91731", "Los Angeles County / ZIP 91733 sector", "Los Angeles County / coords 34.0700, -118.0300"]
+zillowHomeValueUsd: 777250
 ---
 
 **Engineering Notice for El Monte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

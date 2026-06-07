@@ -12,6 +12,7 @@ lng: -77.5300
 zipSample: ["20148"]
 zipCodes: ["20148"]
 localPaths: ["Loudoun County / primary ZIP 20148", "Loudoun County / ZIP 20148 sector", "Loudoun County / coords 38.9800, -77.5300", "Loudoun County / elevation 341 ft band"]
+zillowHomeValueUsd: 886942
 ---
 
 **Engineering Notice for Brambleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.

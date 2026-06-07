@@ -12,6 +12,7 @@ lng: -104.9800
 zipSample: ["80234", "80233", "80603", "80260"]
 zipCodes: ["80603", "80233", "80234", "80260"]
 localPaths: ["Adams County / ZIP 80603 sector", "Adams County / ZIP 80233 sector", "Adams County / ZIP 80260 sector", "Adams County / ZIP 80234 sector", "Adams County / primary ZIP 80260"]
+zillowHomeValueUsd: 403835
 ---
 
 **Engineering Notice for Northglenn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["55378"]
 zipCodes: ["55378"]
 localPaths: ["Scott County / coords 44.7500, -93.3600", "Scott County / ZIP 55378 sector", "Scott County / elevation 886 ft band", "Scott County / primary ZIP 55378"]
+zillowHomeValueUsd: 434913
 ---
 
 **Engineering Notice for Savage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.

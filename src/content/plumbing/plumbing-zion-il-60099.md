@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60099"]
 zipCodes: ["60099"]
 localPaths: ["Lake County / primary ZIP 60099", "Lake County / elevation 699 ft band", "Lake County / coords 42.4600, -87.8500", "Lake County / ZIP 60099 sector"]
+zillowHomeValueUsd: 256992
 ---
 
 **Engineering Notice for Zion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

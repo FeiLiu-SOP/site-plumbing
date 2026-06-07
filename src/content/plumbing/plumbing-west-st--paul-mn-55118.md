@@ -12,6 +12,7 @@ lng: -93.0900
 zipSample: ["55118"]
 zipCodes: ["55118"]
 localPaths: ["Dakota County / coords 44.9000, -93.0900", "Dakota County / elevation 1033 ft band", "Dakota County / ZIP 55118 sector", "Dakota County / primary ZIP 55118"]
+zillowHomeValueUsd: 364243
 ---
 
 **Engineering Notice for West St. Paul:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

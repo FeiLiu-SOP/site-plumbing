@@ -12,6 +12,7 @@ lng: -106.3200
 zipSample: ["82609", "82604", "82601", "82602", "82605"]
 zipCodes: ["82609", "82604", "82601", "82602", "82605"]
 localPaths: ["Natrona County / ZIP 82609 sector", "Natrona County / coords 42.8400, -106.3200", "Natrona County / primary ZIP 82609", "Natrona County / ZIP 82602 sector", "Natrona County / ZIP 82605 sector"]
+zillowHomeValueUsd: 349341
 ---
 
 **Engineering Notice for Casper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Natrona County.

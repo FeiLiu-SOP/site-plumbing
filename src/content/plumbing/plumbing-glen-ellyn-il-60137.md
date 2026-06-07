@@ -12,6 +12,7 @@ lng: -88.0600
 zipSample: ["60137", "60138"]
 zipCodes: ["60138", "60137"]
 localPaths: ["DuPage County / elevation 794 ft band", "DuPage County / primary ZIP 60137", "DuPage County / ZIP 60137 sector", "DuPage County / ZIP 60138 sector", "DuPage County / coords 41.8700, -88.0600"]
+zillowHomeValueUsd: 554703
 ---
 
 **Engineering Notice for Glen Ellyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

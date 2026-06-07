@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["11740", "11743"]
 zipCodes: ["11740", "11743"]
 localPaths: ["Suffolk County / primary ZIP 11740", "Suffolk County / elevation 220 ft band", "Suffolk County / coords 40.8600, -73.3600", "Suffolk County / ZIP 11743 sector", "Suffolk County / ZIP 11740 sector"]
+zillowHomeValueUsd: 821312
 ---
 
 **Engineering Notice for Greenlawn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

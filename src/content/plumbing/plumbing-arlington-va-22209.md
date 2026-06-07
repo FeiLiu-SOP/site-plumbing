@@ -12,6 +12,7 @@ lng: -77.1000
 zipSample: ["22350", "22245", "22201", "22243", "22205"]
 zipCodes: ["22212", "22246", "22203", "22240", "22244", "22201", "22350", "22215", "22213", "22205", "22219", "22211"]
 localPaths: ["Arlington County / primary ZIP 22209", "Arlington County / ZIP 22201 sector", "Arlington County / ZIP 22243 sector", "Arlington County / ZIP 22350 sector", "Arlington County / ZIP 22205 sector"]
+zillowHomeValueUsd: 726651
 ---
 
 **Engineering Notice for Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arlington County.

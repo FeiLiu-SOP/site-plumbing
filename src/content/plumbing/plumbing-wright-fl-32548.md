@@ -12,6 +12,7 @@ lng: -86.6400
 zipSample: ["32547", "32548"]
 zipCodes: ["32548", "32547"]
 localPaths: ["Okaloosa County / ZIP 32547 sector", "Okaloosa County / primary ZIP 32548", "Okaloosa County / coords 30.4400, -86.6400", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / elevation 56 ft band"]
+zillowHomeValueUsd: 338684
 ---
 
 **Engineering Notice for Wright:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Okaloosa County.

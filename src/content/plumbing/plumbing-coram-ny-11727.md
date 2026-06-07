@@ -12,6 +12,7 @@ lng: -73.0100
 zipSample: ["11776", "11727", "11784"]
 zipCodes: ["11784", "11776", "11727"]
 localPaths: ["Suffolk County / ZIP 11784 sector", "Suffolk County / ZIP 11727 sector", "Suffolk County / primary ZIP 11727", "Suffolk County / coords 40.8800, -73.0100", "Suffolk County / elevation 108 ft band"]
+zillowHomeValueUsd: 547379
 ---
 
 **Engineering Notice for Coram:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

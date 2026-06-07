@@ -12,6 +12,7 @@ lng: -82.5300
 zipSample: ["33624", "33558", "33548"]
 zipCodes: ["33624", "33548", "33558"]
 localPaths: ["Hillsborough County / primary ZIP 33624", "Hillsborough County / elevation 72 ft band", "Hillsborough County / ZIP 33558 sector", "Hillsborough County / coords 28.1100, -82.5300", "Hillsborough County / ZIP 33548 sector"]
+zillowHomeValueUsd: 410823
 ---
 
 **Engineering Notice for Northdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

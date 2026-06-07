@@ -12,6 +12,7 @@ lng: -80.5600
 zipSample: ["24141", "24143", "24142"]
 zipCodes: ["24142", "24141", "24143"]
 localPaths: ["Radford County / ZIP 24143 sector", "Radford County / elevation 1877 ft band", "Radford County / primary ZIP 24142", "Radford County / ZIP 24142 sector", "Radford County / coords 37.1200, -80.5600"]
+zillowHomeValueUsd: 262289
 ---
 
 **Engineering Notice for Radford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Radford County.

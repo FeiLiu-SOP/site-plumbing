@@ -12,6 +12,7 @@ lng: -84.3500
 zipSample: ["30076", "30075", "30077"]
 zipCodes: ["30077", "30075", "30076"]
 localPaths: ["Fulton County / ZIP 30077 sector", "Fulton County / ZIP 30076 sector", "Fulton County / elevation 1060 ft band", "Fulton County / coords 34.0400, -84.3500", "Fulton County / ZIP 30075 sector"]
+zillowHomeValueUsd: 707526
 ---
 
 **Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

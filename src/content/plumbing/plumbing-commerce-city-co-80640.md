@@ -12,6 +12,7 @@ lng: -104.8400
 zipSample: ["80640", "80037", "80022"]
 zipCodes: ["80022", "80640", "80037"]
 localPaths: ["Adams County / elevation 5177 ft band", "Adams County / ZIP 80640 sector", "Adams County / ZIP 80037 sector", "Adams County / ZIP 80022 sector", "Adams County / coords 39.8600, -104.8400"]
+zillowHomeValueUsd: 506030
 ---
 
 **Engineering Notice for Commerce City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

@@ -12,6 +12,7 @@ lng: -88.7300
 zipSample: ["53098", "53094"]
 zipCodes: ["53098", "53094"]
 localPaths: ["Jefferson County / coords 43.1900, -88.7300", "Jefferson County / elevation 830 ft band", "Jefferson County / ZIP 53094 sector", "Jefferson County / ZIP 53098 sector", "Jefferson County / primary ZIP 53098"]
+zillowHomeValueUsd: 325901
 ---
 
 **Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -87.3800
 zipSample: ["47804", "47807", "47802", "47803", "47801"]
 zipCodes: ["47809", "47801", "47803", "47808", "47807", "47802", "47804"]
 localPaths: ["Vigo County / primary ZIP 47804", "Vigo County / ZIP 47807 sector", "Vigo County / ZIP 47804 sector", "Vigo County / ZIP 47803 sector", "Vigo County / ZIP 47801 sector"]
+zillowHomeValueUsd: 101378
 ---
 
 **Engineering Notice for Terre Haute:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vigo County.

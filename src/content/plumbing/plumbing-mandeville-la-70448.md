@@ -12,6 +12,7 @@ lng: -90.0900
 zipSample: ["70448", "70471", "70470"]
 zipCodes: ["70471", "70470", "70448"]
 localPaths: ["St. Tammany Parish / primary ZIP 70448", "St. Tammany Parish / coords 30.3800, -90.0900", "St. Tammany Parish / ZIP 70471 sector", "St. Tammany Parish / ZIP 70470 sector", "St. Tammany Parish / ZIP 70448 sector"]
+zillowHomeValueUsd: 335212
 ---
 
 **Engineering Notice for Mandeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Tammany Parish.

@@ -12,6 +12,7 @@ lng: -106.1900
 zipSample: ["79928"]
 zipCodes: ["79928"]
 localPaths: ["El Paso County / primary ZIP 79928", "El Paso County / ZIP 79928 sector", "El Paso County / coords 31.6800, -106.1900", "El Paso County / elevation 4016 ft band"]
+zillowHomeValueUsd: 260341
 ---
 
 **Engineering Notice for Horizon City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

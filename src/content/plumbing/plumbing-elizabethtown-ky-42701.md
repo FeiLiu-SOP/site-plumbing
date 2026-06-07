@@ -12,6 +12,7 @@ lng: -85.8800
 zipSample: ["42702", "42701"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / elevation 738 ft band", "Hardin County / ZIP 42701 sector", "Hardin County / ZIP 42702 sector"]
+zillowHomeValueUsd: 269234
 ---
 
 **Engineering Notice for Elizabethtown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hardin County.

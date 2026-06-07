@@ -12,6 +12,7 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / elevation 600 ft band", "Wayne County / coords 42.2600, -83.2100", "Wayne County / primary ZIP 48101"]
+zillowHomeValueUsd: 206327
 ---
 
 **Engineering Notice for Allen Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -87.7900
 zipSample: ["60053"]
 zipCodes: ["60053"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / primary ZIP 60053", "Cook County / ZIP 60053 sector", "Cook County / coords 42.0400, -87.7900"]
+zillowHomeValueUsd: 430740
 ---
 
 **Engineering Notice for Morton Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

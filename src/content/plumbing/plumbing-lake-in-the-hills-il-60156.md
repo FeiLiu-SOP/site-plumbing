@@ -12,6 +12,7 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / elevation 889 ft band", "McHenry County / ZIP 60156 sector", "McHenry County / primary ZIP 60156", "McHenry County / coords 42.1900, -88.3500"]
+zillowHomeValueUsd: 369520
 ---
 
 **Engineering Notice for Lake in the Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.

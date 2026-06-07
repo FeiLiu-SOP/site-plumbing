@@ -12,6 +12,7 @@ lng: -73.7100
 zipSample: ["11003"]
 zipCodes: ["11003"]
 localPaths: ["Nassau County / coords 40.7000, -73.7100", "Nassau County / ZIP 11003 sector", "Nassau County / elevation 66 ft band", "Nassau County / primary ZIP 11003"]
+zillowHomeValueUsd: 726212
 ---
 
 **Engineering Notice for Elmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -147.3900
 zipSample: ["99711", "99705"]
 zipCodes: ["99711", "99705"]
 localPaths: ["Fairbanks North Star County / ZIP 99705 sector", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / coords 64.8000, -147.3900", "Fairbanks North Star County / ZIP 99711 sector", "Fairbanks North Star County / primary ZIP 99705"]
+zillowHomeValueUsd: 324101
 ---
 
 **Engineering Notice for Badger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairbanks North Star County.

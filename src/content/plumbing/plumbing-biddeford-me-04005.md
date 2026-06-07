@@ -12,6 +12,7 @@ lng: -70.4500
 zipSample: ["04006", "04007", "04005"]
 zipCodes: ["04007", "04006", "04005"]
 localPaths: ["York County / primary ZIP 04005", "York County / coords 43.4700, -70.4500", "York County / elevation 151 ft band", "York County / ZIP 04006 sector", "York County / ZIP 04007 sector"]
+zillowHomeValueUsd: 499646
 ---
 
 **Engineering Notice for Biddeford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

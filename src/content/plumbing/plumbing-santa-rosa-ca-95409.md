@@ -12,6 +12,7 @@ lng: -122.7100
 zipSample: ["95404", "95407", "95406", "95401", "95405"]
 zipCodes: ["95406", "95401", "95407", "95409", "95405", "95404", "95403"]
 localPaths: ["Sonoma County / ZIP 95405 sector", "Sonoma County / elevation 184 ft band", "Sonoma County / ZIP 95407 sector", "Sonoma County / ZIP 95401 sector", "Sonoma County / primary ZIP 95409"]
+zillowHomeValueUsd: 780316
 ---
 
 **Engineering Notice for Santa Rosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.

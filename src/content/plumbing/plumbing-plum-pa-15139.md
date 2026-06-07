@@ -12,6 +12,7 @@ lng: -79.7500
 zipSample: ["15068", "15147", "15268", "15139", "15239"]
 zipCodes: ["15147", "15268", "15068", "15139", "15239"]
 localPaths: ["Allegheny County / coords 40.5000, -79.7500", "Allegheny County / ZIP 15268 sector", "Allegheny County / ZIP 15239 sector", "Allegheny County / ZIP 15139 sector", "Allegheny County / primary ZIP 15139"]
+zillowHomeValueUsd: 333979
 ---
 
 **Engineering Notice for Plum:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

@@ -12,6 +12,7 @@ lng: -122.5500
 zipSample: ["98466", "98467", "98464"]
 zipCodes: ["98466", "98467", "98464"]
 localPaths: ["Pierce County / ZIP 98464 sector", "Pierce County / elevation 413 ft band", "Pierce County / coords 47.2100, -122.5500", "Pierce County / primary ZIP 98466", "Pierce County / ZIP 98467 sector"]
+zillowHomeValueUsd: 630787
 ---
 
 **Engineering Notice for University Place:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.

@@ -12,6 +12,7 @@ lng: -121.1500
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / elevation 108 ft band", "Stanislaus County / primary ZIP 95363", "Stanislaus County / ZIP 95363 sector", "Stanislaus County / coords 37.4800, -121.1500"]
+zillowHomeValueUsd: 510464
 ---
 
 **Engineering Notice for Patterson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanislaus County.

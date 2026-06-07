@@ -12,6 +12,7 @@ lng: -117.5800
 zipSample: ["92880", "91752"]
 zipCodes: ["92880", "91752"]
 localPaths: ["Riverside County / ZIP 92880 sector", "Riverside County / elevation 617 ft band", "Riverside County / ZIP 91752 sector", "Riverside County / primary ZIP 92880", "Riverside County / coords 33.9600, -117.5800"]
+zillowHomeValueUsd: 954182
 ---
 
 **Engineering Notice for Eastvale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

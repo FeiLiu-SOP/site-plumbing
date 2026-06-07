@@ -12,6 +12,7 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / primary ZIP 27536", "Vance County / ZIP 27536 sector", "Vance County / elevation 469 ft band", "Vance County / coords 36.3300, -78.4200"]
+zillowHomeValueUsd: 116853
 ---
 
 **Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vance County.

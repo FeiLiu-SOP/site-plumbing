@@ -12,6 +12,7 @@ lng: -104.7200
 zipSample: ["81007"]
 zipCodes: ["81007"]
 localPaths: ["Pueblo County / primary ZIP 81007", "Pueblo County / coords 38.3500, -104.7200", "Pueblo County / elevation 5059 ft band", "Pueblo County / ZIP 81007 sector"]
+zillowHomeValueUsd: 394659
 ---
 
 **Engineering Notice for Pueblo West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pueblo County.

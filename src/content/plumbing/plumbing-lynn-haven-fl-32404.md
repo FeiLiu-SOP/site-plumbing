@@ -12,6 +12,7 @@ lng: -85.6400
 zipSample: ["32404", "32444", "32405"]
 zipCodes: ["32404", "32444", "32405"]
 localPaths: ["Bay County / ZIP 32444 sector", "Bay County / elevation 26 ft band", "Bay County / ZIP 32405 sector", "Bay County / coords 30.2300, -85.6400", "Bay County / ZIP 32404 sector"]
+zillowHomeValueUsd: 283434
 ---
 
 **Engineering Notice for Lynn Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bay County.

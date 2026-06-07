@@ -12,6 +12,7 @@ lng: -82.3300
 zipSample: ["29615", "29687", "29606"]
 zipCodes: ["29687", "29606", "29615"]
 localPaths: ["Greenville County / ZIP 29615 sector", "Greenville County / ZIP 29606 sector", "Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29615", "Greenville County / coords 34.8800, -82.3300"]
+zillowHomeValueUsd: 437334
 ---
 
 **Engineering Notice for Wade Hampton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.

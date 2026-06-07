@@ -12,6 +12,7 @@ lng: -94.2100
 zipSample: ["64029"]
 zipCodes: ["64029"]
 localPaths: ["Jackson County / elevation 830 ft band", "Jackson County / primary ZIP 64029", "Jackson County / coords 39.0200, -94.2100", "Jackson County / ZIP 64029 sector"]
+zillowHomeValueUsd: 329031
 ---
 
 **Engineering Notice for Grain Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

@@ -12,6 +12,7 @@ lng: -82.6800
 zipSample: ["34667", "34668"]
 zipCodes: ["34667", "34668"]
 localPaths: ["Pasco County / ZIP 34668 sector", "Pasco County / elevation 33 ft band", "Pasco County / ZIP 34667 sector", "Pasco County / primary ZIP 34668", "Pasco County / coords 28.3300, -82.6800"]
+zillowHomeValueUsd: 227547
 ---
 
 **Engineering Notice for Bayonet Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.

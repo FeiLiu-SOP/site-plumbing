@@ -12,6 +12,7 @@ lng: -96.4900
 zipSample: ["68025", "68026"]
 zipCodes: ["68025", "68026"]
 localPaths: ["Dodge County / ZIP 68026 sector", "Dodge County / primary ZIP 68025", "Dodge County / elevation 1191 ft band", "Dodge County / ZIP 68025 sector", "Dodge County / coords 41.4400, -96.4900"]
+zillowHomeValueUsd: 253118
 ---
 
 **Engineering Notice for Fremont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dodge County.

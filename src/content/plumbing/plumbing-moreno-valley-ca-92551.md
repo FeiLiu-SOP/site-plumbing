@@ -12,6 +12,7 @@ lng: -117.2000
 zipSample: ["92554", "92556", "92555", "92553", "92557"]
 zipCodes: ["92552", "92553", "92554", "92557", "92556", "92555", "92551"]
 localPaths: ["Riverside County / ZIP 92556 sector", "Riverside County / ZIP 92553 sector", "Riverside County / elevation 1634 ft band", "Riverside County / primary ZIP 92551", "Riverside County / ZIP 92557 sector"]
+zillowHomeValueUsd: 532069
 ---
 
 **Engineering Notice for Moreno Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

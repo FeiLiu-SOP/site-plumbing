@@ -12,6 +12,7 @@ lng: -73.5200
 zipSample: ["11802", "11815", "11805", "11801"]
 zipCodes: ["11801", "11805", "11802", "11815"]
 localPaths: ["Nassau County / coords 40.7600, -73.5200", "Nassau County / elevation 151 ft band", "Nassau County / ZIP 11815 sector", "Nassau County / ZIP 11805 sector", "Nassau County / ZIP 11801 sector"]
+zillowHomeValueUsd: 767873
 ---
 
 **Engineering Notice for Hicksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

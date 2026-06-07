@@ -12,6 +12,7 @@ lng: -88.8300
 zipSample: ["61350"]
 zipCodes: ["61350"]
 localPaths: ["LaSalle County / coords 41.3600, -88.8300", "LaSalle County / primary ZIP 61350", "LaSalle County / elevation 479 ft band", "LaSalle County / ZIP 61350 sector"]
+zillowHomeValueUsd: 205368
 ---
 
 **Engineering Notice for Ottawa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: LaSalle County.

@@ -12,6 +12,7 @@ lng: -89.5600
 zipSample: ["63703", "63701"]
 zipCodes: ["63703", "63701"]
 localPaths: ["Cape Girardeau County / coords 37.3100, -89.5600", "Cape Girardeau County / ZIP 63701 sector", "Cape Girardeau County / primary ZIP 63701", "Cape Girardeau County / elevation 358 ft band", "Cape Girardeau County / ZIP 63703 sector"]
+zillowHomeValueUsd: 243563
 ---
 
 **Engineering Notice for Cape Girardeau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cape Girardeau County.

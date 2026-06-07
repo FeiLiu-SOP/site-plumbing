@@ -12,6 +12,7 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46373", "46311"]
 localPaths: ["Lake County / primary ZIP 46373", "Lake County / coords 41.4400, -87.4700", "Lake County / ZIP 46311 sector", "Lake County / elevation 702 ft band", "Lake County / ZIP 46373 sector"]
+zillowHomeValueUsd: 448538
 ---
 
 **Engineering Notice for St. John:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

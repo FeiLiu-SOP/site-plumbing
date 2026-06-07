@@ -12,6 +12,7 @@ lng: -73.5100
 zipSample: ["11793"]
 zipCodes: ["11793"]
 localPaths: ["Nassau County / ZIP 11793 sector", "Nassau County / elevation 33 ft band", "Nassau County / coords 40.6700, -73.5100", "Nassau County / primary ZIP 11793"]
+zillowHomeValueUsd: 800277
 ---
 
 **Engineering Notice for Wantagh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -122.1500
 zipSample: ["98208", "98296", "98012"]
 zipCodes: ["98208", "98012", "98296"]
 localPaths: ["Snohomish County / primary ZIP 98296", "Snohomish County / elevation 522 ft band", "Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8600, -122.1500", "Snohomish County / ZIP 98208 sector"]
+zillowHomeValueUsd: 1058987
 ---
 
 **Engineering Notice for Silver Firs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

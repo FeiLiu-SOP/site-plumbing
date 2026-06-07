@@ -12,6 +12,7 @@ lng: -80.2600
 zipSample: ["27115", "27101", "27150", "27109", "27110"]
 zipCodes: ["27110", "27107", "27109", "27116", "27106", "27108", "27102", "27103", "27117", "27113", "27150", "27114"]
 localPaths: ["Forsyth County / primary ZIP 27110", "Forsyth County / elevation 801 ft band", "Forsyth County / ZIP 27110 sector", "Forsyth County / ZIP 27115 sector", "Forsyth County / ZIP 27101 sector"]
+zillowHomeValueUsd: 243937
 ---
 
 **Engineering Notice for Winston-Salem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forsyth County.

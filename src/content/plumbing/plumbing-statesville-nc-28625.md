@@ -12,6 +12,7 @@ lng: -80.8700
 zipSample: ["28677", "28625", "28687"]
 zipCodes: ["28677", "28687", "28625"]
 localPaths: ["Iredell County / primary ZIP 28625", "Iredell County / ZIP 28677 sector", "Iredell County / ZIP 28687 sector", "Iredell County / ZIP 28625 sector", "Iredell County / elevation 879 ft band"]
+zillowHomeValueUsd: 307538
 ---
 
 **Engineering Notice for Statesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iredell County.

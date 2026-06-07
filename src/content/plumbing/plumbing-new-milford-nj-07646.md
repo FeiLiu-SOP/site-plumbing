@@ -12,6 +12,7 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / primary ZIP 07646", "Bergen County / coords 40.9300, -74.0200", "Bergen County / elevation 36 ft band", "Bergen County / ZIP 07646 sector"]
+zillowHomeValueUsd: 728337
 ---
 
 **Engineering Notice for New Milford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

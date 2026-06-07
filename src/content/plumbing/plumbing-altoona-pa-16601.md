@@ -12,6 +12,7 @@ lng: -78.4000
 zipSample: ["16603", "16601", "16602"]
 zipCodes: ["16601", "16602", "16603"]
 localPaths: ["Blair County / ZIP 16601 sector", "Blair County / primary ZIP 16601", "Blair County / ZIP 16603 sector", "Blair County / elevation 1168 ft band", "Blair County / ZIP 16602 sector"]
+zillowHomeValueUsd: 138380
 ---
 
 **Engineering Notice for Altoona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Blair County.

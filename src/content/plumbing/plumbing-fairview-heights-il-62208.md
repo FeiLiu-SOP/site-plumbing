@@ -12,6 +12,7 @@ lng: -90.0100
 zipSample: ["62208"]
 zipCodes: ["62208"]
 localPaths: ["St. Clair County / coords 38.6000, -90.0100", "St. Clair County / ZIP 62208 sector", "St. Clair County / elevation 587 ft band", "St. Clair County / primary ZIP 62208"]
+zillowHomeValueUsd: 189021
 ---
 
 **Engineering Notice for Fairview Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.

@@ -12,6 +12,7 @@ lng: -73.2000
 zipSample: ["06606", "06608", "06607", "06602", "06605"]
 zipCodes: ["06608", "06601", "06602", "06607", "06606", "06610", "06604", "06605"]
 localPaths: ["Greater Bridgeport County / ZIP 06607 sector", "Greater Bridgeport County / primary ZIP 06605", "Greater Bridgeport County / elevation 33 ft band", "Greater Bridgeport County / ZIP 06608 sector", "Greater Bridgeport County / ZIP 06605 sector"]
+zillowHomeValueUsd: 372541
 ---
 
 **Engineering Notice for Bridgeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greater Bridgeport County.

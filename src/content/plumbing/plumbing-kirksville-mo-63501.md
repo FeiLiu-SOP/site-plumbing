@@ -12,6 +12,7 @@ lng: -92.5800
 zipSample: ["63501"]
 zipCodes: ["63501"]
 localPaths: ["Adair County / elevation 971 ft band", "Adair County / primary ZIP 63501", "Adair County / coords 40.2000, -92.5800", "Adair County / ZIP 63501 sector"]
+zillowHomeValueUsd: 175684
 ---
 
 **Engineering Notice for Kirksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adair County.

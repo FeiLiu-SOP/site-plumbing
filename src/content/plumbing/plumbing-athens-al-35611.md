@@ -12,6 +12,7 @@ lng: -86.9500
 zipSample: ["35613", "35611", "35612"]
 zipCodes: ["35612", "35611", "35613"]
 localPaths: ["Limestone County / ZIP 35612 sector", "Limestone County / coords 34.7800, -86.9500", "Limestone County / elevation 659 ft band", "Limestone County / ZIP 35611 sector", "Limestone County / ZIP 35613 sector"]
+zillowHomeValueUsd: 251137
 ---
 
 **Engineering Notice for Athens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Limestone County.

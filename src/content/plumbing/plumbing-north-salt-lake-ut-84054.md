@@ -12,6 +12,7 @@ lng: -111.9200
 zipSample: ["84054"]
 zipCodes: ["84054"]
 localPaths: ["Davis County / elevation 4255 ft band", "Davis County / primary ZIP 84054", "Davis County / coords 40.8400, -111.9200", "Davis County / ZIP 84054 sector"]
+zillowHomeValueUsd: 560851
 ---
 
 **Engineering Notice for North Salt Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

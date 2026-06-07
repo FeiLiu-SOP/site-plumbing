@@ -12,6 +12,7 @@ lng: -85.6900
 zipSample: ["46012", "46011", "46018", "46013", "46015"]
 zipCodes: ["46012", "46015", "46011", "46018", "46016", "46013", "46014"]
 localPaths: ["Madison County / coords 40.0900, -85.6900", "Madison County / elevation 883 ft band", "Madison County / ZIP 46013 sector", "Madison County / primary ZIP 46016", "Madison County / ZIP 46018 sector"]
+zillowHomeValueUsd: 84934
 ---
 
 **Engineering Notice for Anderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

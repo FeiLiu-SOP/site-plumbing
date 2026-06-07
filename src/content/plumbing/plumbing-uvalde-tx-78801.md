@@ -12,6 +12,7 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / elevation 909 ft band", "Uvalde County / primary ZIP 78801", "Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800"]
+zillowHomeValueUsd: 182586
 ---
 
 **Engineering Notice for Uvalde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Uvalde County.

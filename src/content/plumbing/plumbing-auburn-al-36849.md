@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["36831", "36849", "36830", "36832"]
 zipCodes: ["36849", "36830", "36831", "36832"]
 localPaths: ["Lee County / ZIP 36831 sector", "Lee County / coords 32.6100, -85.4900", "Lee County / ZIP 36832 sector", "Lee County / ZIP 36849 sector", "Lee County / ZIP 36830 sector"]
+zillowHomeValueUsd: 423701
 ---
 
 **Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.

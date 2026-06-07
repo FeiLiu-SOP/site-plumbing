@@ -12,6 +12,7 @@ lng: -93.6000
 zipSample: ["50023", "50021"]
 zipCodes: ["50021", "50023"]
 localPaths: ["Polk County / elevation 991 ft band", "Polk County / ZIP 50021 sector", "Polk County / coords 41.7300, -93.6000", "Polk County / primary ZIP 50023", "Polk County / ZIP 50023 sector"]
+zillowHomeValueUsd: 353302
 ---
 
 **Engineering Notice for Ankeny:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

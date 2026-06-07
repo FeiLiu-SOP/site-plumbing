@@ -12,6 +12,7 @@ lng: -117.6600
 zipSample: ["93556", "93555"]
 zipCodes: ["93556", "93555"]
 localPaths: ["Kern County / primary ZIP 93555", "Kern County / ZIP 93556 sector", "Kern County / elevation 2277 ft band", "Kern County / ZIP 93555 sector", "Kern County / coords 35.6300, -117.6600"]
+zillowHomeValueUsd: 269203
 ---
 
 **Engineering Notice for Ridgecrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.

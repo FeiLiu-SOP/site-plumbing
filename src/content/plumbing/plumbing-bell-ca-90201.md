@@ -12,6 +12,7 @@ lng: -118.1800
 zipSample: ["90201"]
 zipCodes: ["90201"]
 localPaths: ["Los Angeles County / elevation 144 ft band", "Los Angeles County / primary ZIP 90201", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9800, -118.1800"]
+zillowHomeValueUsd: 687006
 ---
 
 **Engineering Notice for Bell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

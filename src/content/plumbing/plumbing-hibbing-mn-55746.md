@@ -12,6 +12,7 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / elevation 1512 ft band", "St. Louis County / primary ZIP 55746", "St. Louis County / ZIP 55746 sector", "St. Louis County / coords 47.4000, -92.9500"]
+zillowHomeValueUsd: 154210
 ---
 
 **Engineering Notice for Hibbing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

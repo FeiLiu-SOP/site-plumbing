@@ -12,6 +12,7 @@ lng: -122.3100
 zipSample: ["98273", "98274"]
 zipCodes: ["98274", "98273"]
 localPaths: ["Skagit County / ZIP 98273 sector", "Skagit County / ZIP 98274 sector", "Skagit County / coords 48.4200, -122.3100", "Skagit County / elevation 194 ft band", "Skagit County / primary ZIP 98274"]
+zillowHomeValueUsd: 621317
 ---
 
 **Engineering Notice for Mount Vernon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Skagit County.

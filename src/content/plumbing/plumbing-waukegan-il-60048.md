@@ -12,6 +12,7 @@ lng: -87.8700
 zipSample: ["60087", "60085", "60048", "60079"]
 zipCodes: ["60048", "60079", "60087", "60085"]
 localPaths: ["Lake County / elevation 719 ft band", "Lake County / ZIP 60048 sector", "Lake County / ZIP 60087 sector", "Lake County / coords 42.3700, -87.8700", "Lake County / primary ZIP 60048"]
+zillowHomeValueUsd: 608268
 ---
 
 **Engineering Notice for Waukegan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

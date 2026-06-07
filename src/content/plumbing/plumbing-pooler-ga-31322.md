@@ -12,6 +12,7 @@ lng: -81.2600
 zipSample: ["31322"]
 zipCodes: ["31322"]
 localPaths: ["Chatham County / coords 32.1000, -81.2600", "Chatham County / elevation 26 ft band", "Chatham County / primary ZIP 31322", "Chatham County / ZIP 31322 sector"]
+zillowHomeValueUsd: 344663
 ---
 
 **Engineering Notice for Pooler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chatham County.

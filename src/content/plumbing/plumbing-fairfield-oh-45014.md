@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["45014"]
 zipCodes: ["45014"]
 localPaths: ["Butler County / primary ZIP 45014", "Butler County / coords 39.3300, -84.5400", "Butler County / ZIP 45014 sector", "Butler County / elevation 663 ft band"]
+zillowHomeValueUsd: 280197
 ---
 
 **Engineering Notice for Fairfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.

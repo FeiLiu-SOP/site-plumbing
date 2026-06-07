@@ -12,6 +12,7 @@ lng: -88.0200
 zipSample: ["60515", "60516"]
 zipCodes: ["60515", "60516"]
 localPaths: ["DuPage County / ZIP 60515 sector", "DuPage County / ZIP 60516 sector", "DuPage County / coords 41.7900, -88.0200", "DuPage County / primary ZIP 60515", "DuPage County / elevation 732 ft band"]
+zillowHomeValueUsd: 497653
 ---
 
 **Engineering Notice for Downers Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

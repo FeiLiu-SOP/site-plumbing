@@ -12,6 +12,7 @@ lng: -88.7300
 zipSample: ["53190"]
 zipCodes: ["53190"]
 localPaths: ["Walworth County / elevation 827 ft band", "Walworth County / ZIP 53190 sector", "Walworth County / coords 42.8400, -88.7300", "Walworth County / primary ZIP 53190"]
+zillowHomeValueUsd: 362043
 ---
 
 **Engineering Notice for Whitewater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Walworth County.

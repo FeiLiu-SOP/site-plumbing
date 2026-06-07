@@ -12,6 +12,7 @@ lng: -84.8400
 zipSample: ["30132", "30157"]
 zipCodes: ["30157", "30132"]
 localPaths: ["Paulding County / primary ZIP 30132", "Paulding County / coords 33.9200, -84.8400", "Paulding County / ZIP 30132 sector", "Paulding County / elevation 978 ft band", "Paulding County / ZIP 30157 sector"]
+zillowHomeValueUsd: 376515
 ---
 
 **Engineering Notice for Dallas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Paulding County.

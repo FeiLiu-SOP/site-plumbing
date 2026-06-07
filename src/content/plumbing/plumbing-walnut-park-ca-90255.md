@@ -12,6 +12,7 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / elevation 154 ft band", "Los Angeles County / primary ZIP 90255", "Los Angeles County / coords 33.9700, -118.2200", "Los Angeles County / ZIP 90255 sector"]
+zillowHomeValueUsd: 675388
 ---
 
 **Engineering Notice for Walnut Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

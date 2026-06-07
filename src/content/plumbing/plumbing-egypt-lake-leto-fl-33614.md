@@ -12,6 +12,7 @@ lng: -82.5100
 zipSample: ["33614"]
 zipCodes: ["33614"]
 localPaths: ["Hillsborough County / primary ZIP 33614", "Hillsborough County / ZIP 33614 sector", "Hillsborough County / coords 28.0200, -82.5100", "Hillsborough County / elevation 46 ft band"]
+zillowHomeValueUsd: 348750
 ---
 
 **Engineering Notice for Egypt Lake-Leto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

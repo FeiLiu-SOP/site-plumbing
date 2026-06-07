@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["68702", "68701"]
 zipCodes: ["68702", "68701"]
 localPaths: ["Madison County / ZIP 68701 sector", "Madison County / elevation 1532 ft band", "Madison County / coords 42.0300, -97.4200", "Madison County / ZIP 68702 sector", "Madison County / primary ZIP 68701"]
+zillowHomeValueUsd: 256072
 ---
 
 **Engineering Notice for Norfolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

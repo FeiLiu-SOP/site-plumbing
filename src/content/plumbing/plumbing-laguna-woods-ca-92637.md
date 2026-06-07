@@ -12,6 +12,7 @@ lng: -117.7300
 zipSample: ["92654", "92637"]
 zipCodes: ["92637", "92654"]
 localPaths: ["Orange County / coords 33.6100, -117.7300", "Orange County / ZIP 92637 sector", "Orange County / primary ZIP 92637", "Orange County / ZIP 92654 sector", "Orange County / elevation 453 ft band"]
+zillowHomeValueUsd: 470909
 ---
 
 **Engineering Notice for Laguna Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

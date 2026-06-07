@@ -12,6 +12,7 @@ lng: -80.7500
 zipSample: ["29925", "29928", "29926", "29938"]
 zipCodes: ["29925", "29938", "29928", "29926"]
 localPaths: ["Beaufort County / primary ZIP 29928", "Beaufort County / elevation 49 ft band", "Beaufort County / coords 32.1900, -80.7500", "Beaufort County / ZIP 29926 sector", "Beaufort County / ZIP 29938 sector"]
+zillowHomeValueUsd: 779807
 ---
 
 **Engineering Notice for Hilton Head Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.

@@ -12,6 +12,7 @@ lng: -89.9900
 zipSample: ["38651", "38632"]
 zipCodes: ["38651", "38632"]
 localPaths: ["DeSoto County / ZIP 38632 sector", "DeSoto County / primary ZIP 38632", "DeSoto County / coords 34.8500, -89.9900", "DeSoto County / elevation 318 ft band", "DeSoto County / ZIP 38651 sector"]
+zillowHomeValueUsd: 344882
 ---
 
 **Engineering Notice for Hernando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.

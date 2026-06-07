@@ -12,6 +12,7 @@ lng: -90.7100
 zipSample: ["70361", "70360", "70363"]
 zipCodes: ["70361", "70360", "70363"]
 localPaths: ["Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / primary ZIP 70363", "Terrebonne Parish / coords 29.5800, -90.7100", "Terrebonne Parish / elevation 49 ft band", "Terrebonne Parish / ZIP 70361 sector"]
+zillowHomeValueUsd: 125683
 ---
 
 **Engineering Notice for Houma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Terrebonne Parish.

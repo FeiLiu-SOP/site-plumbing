@@ -12,6 +12,7 @@ lng: -72.2100
 zipSample: ["06256", "06226"]
 zipCodes: ["06256", "06226"]
 localPaths: ["Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / ZIP 06226 sector", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / primary ZIP 06256", "Southeastern Connecticut County / elevation 384 ft band"]
+zillowHomeValueUsd: 303904
 ---
 
 **Engineering Notice for Willimantic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.

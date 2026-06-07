@@ -12,6 +12,7 @@ lng: -73.5900
 zipSample: ["11590"]
 zipCodes: ["11590"]
 localPaths: ["Nassau County / coords 40.7600, -73.5900", "Nassau County / elevation 121 ft band", "Nassau County / ZIP 11590 sector", "Nassau County / primary ZIP 11590"]
+zillowHomeValueUsd: 787188
 ---
 
 **Engineering Notice for Westbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

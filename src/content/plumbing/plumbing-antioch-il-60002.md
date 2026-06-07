@@ -12,6 +12,7 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / coords 42.4700, -88.0700", "Lake County / ZIP 60002 sector", "Lake County / primary ZIP 60002", "Lake County / elevation 787 ft band"]
+zillowHomeValueUsd: 344727
 ---
 
 **Engineering Notice for Antioch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

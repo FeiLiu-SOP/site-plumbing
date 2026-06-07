@@ -12,6 +12,7 @@ lng: -117.9700
 zipSample: ["91745", "91716"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / elevation 423 ft band"]
+zillowHomeValueUsd: 962693
 ---
 
 **Engineering Notice for Hacienda Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

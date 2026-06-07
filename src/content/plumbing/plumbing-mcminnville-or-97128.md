@@ -12,6 +12,7 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / elevation 164 ft band", "Yamhill County / ZIP 97128 sector", "Yamhill County / coords 45.2100, -123.1900", "Yamhill County / primary ZIP 97128"]
+zillowHomeValueUsd: 485287
 ---
 
 **Engineering Notice for McMinnville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yamhill County.

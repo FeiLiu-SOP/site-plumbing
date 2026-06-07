@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["10573"]
 zipCodes: ["10573"]
 localPaths: ["Westchester County / coords 41.0100, -73.6700", "Westchester County / primary ZIP 10573", "Westchester County / ZIP 10573 sector", "Westchester County / elevation 79 ft band"]
+zillowHomeValueUsd: 868417
 ---
 
 **Engineering Notice for Port Chester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.

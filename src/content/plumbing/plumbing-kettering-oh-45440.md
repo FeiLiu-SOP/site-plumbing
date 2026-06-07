@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["45440", "45420", "45419", "45479", "45409"]
 zipCodes: ["45429", "45419", "45420", "45440", "45409", "45479"]
 localPaths: ["Montgomery County / ZIP 45409 sector", "Montgomery County / ZIP 45440 sector", "Montgomery County / ZIP 45420 sector", "Montgomery County / ZIP 45479 sector", "Montgomery County / coords 39.7000, -84.1500"]
+zillowHomeValueUsd: 315807
 ---
 
 **Engineering Notice for Kettering:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

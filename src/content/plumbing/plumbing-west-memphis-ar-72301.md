@@ -12,6 +12,7 @@ lng: -90.2000
 zipSample: ["72364", "72303", "72301"]
 zipCodes: ["72364", "72303", "72301"]
 localPaths: ["Crittenden County / primary ZIP 72301", "Crittenden County / ZIP 72364 sector", "Crittenden County / ZIP 72303 sector", "Crittenden County / elevation 217 ft band", "Crittenden County / ZIP 72301 sector"]
+zillowHomeValueUsd: 132133
 ---
 
 **Engineering Notice for West Memphis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crittenden County.

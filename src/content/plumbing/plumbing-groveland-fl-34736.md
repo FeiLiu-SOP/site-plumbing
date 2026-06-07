@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["34736", "34737"]
 zipCodes: ["34737", "34736"]
 localPaths: ["Lake County / ZIP 34737 sector", "Lake County / ZIP 34736 sector", "Lake County / primary ZIP 34736", "Lake County / elevation 121 ft band", "Lake County / coords 28.6100, -81.8200"]
+zillowHomeValueUsd: 370422
 ---
 
 **Engineering Notice for Groveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

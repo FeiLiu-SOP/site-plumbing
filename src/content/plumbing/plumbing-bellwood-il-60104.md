@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60104"]
 zipCodes: ["60104"]
 localPaths: ["Cook County / primary ZIP 60104", "Cook County / coords 41.8800, -87.8800", "Cook County / elevation 643 ft band", "Cook County / ZIP 60104 sector"]
+zillowHomeValueUsd: 242732
 ---
 
 **Engineering Notice for Bellwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

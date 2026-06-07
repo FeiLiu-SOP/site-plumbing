@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["84414"]
 zipCodes: ["84414"]
 localPaths: ["Weber County / elevation 4619 ft band", "Weber County / ZIP 84414 sector", "Weber County / primary ZIP 84414", "Weber County / coords 41.3100, -111.9600"]
+zillowHomeValueUsd: 544738
 ---
 
 **Engineering Notice for North Ogden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.

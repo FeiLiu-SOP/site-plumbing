@@ -12,6 +12,7 @@ lng: -85.0200
 zipSample: ["46803", "46774"]
 zipCodes: ["46803", "46774"]
 localPaths: ["Allen County / ZIP 46774 sector", "Allen County / primary ZIP 46774", "Allen County / coords 41.0700, -85.0200", "Allen County / ZIP 46803 sector", "Allen County / elevation 771 ft band"]
+zillowHomeValueUsd: 245297
 ---
 
 **Engineering Notice for New Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allen County.

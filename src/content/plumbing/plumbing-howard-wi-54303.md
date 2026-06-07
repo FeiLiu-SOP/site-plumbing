@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["54313", "54303"]
 zipCodes: ["54313", "54303"]
 localPaths: ["Brown County / coords 44.5700, -88.0900", "Brown County / ZIP 54303 sector", "Brown County / elevation 653 ft band", "Brown County / primary ZIP 54303", "Brown County / ZIP 54313 sector"]
+zillowHomeValueUsd: 244113
 ---
 
 **Engineering Notice for Howard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.

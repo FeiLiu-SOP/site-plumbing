@@ -12,6 +12,7 @@ lng: -122.2000
 zipSample: ["98011", "98041", "98021"]
 zipCodes: ["98011", "98041", "98021"]
 localPaths: ["King County / coords 47.7700, -122.2000", "King County / primary ZIP 98021", "King County / ZIP 98011 sector", "King County / ZIP 98041 sector", "King County / ZIP 98021 sector"]
+zillowHomeValueUsd: 1146119
 ---
 
 **Engineering Notice for Bothell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

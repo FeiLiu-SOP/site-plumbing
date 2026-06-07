@@ -12,6 +12,7 @@ lng: -119.7200
 zipSample: ["93109", "93101", "93121", "93120", "93105"]
 zipCodes: ["93105", "93102", "93121", "93120", "93140", "93130", "93103", "93109", "93190", "93101"]
 localPaths: ["Santa Barbara County / ZIP 93121 sector", "Santa Barbara County / ZIP 93109 sector", "Santa Barbara County / coords 34.4300, -119.7200", "Santa Barbara County / elevation 138 ft band", "Santa Barbara County / ZIP 93101 sector"]
+zillowHomeValueUsd: 1912154
 ---
 
 **Engineering Notice for Santa Barbara:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.

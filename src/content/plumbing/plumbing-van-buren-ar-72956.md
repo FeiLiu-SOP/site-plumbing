@@ -12,6 +12,7 @@ lng: -94.3500
 zipSample: ["72957", "72956"]
 zipCodes: ["72957", "72956"]
 localPaths: ["Crawford County / coords 35.4500, -94.3500", "Crawford County / primary ZIP 72956", "Crawford County / elevation 653 ft band", "Crawford County / ZIP 72957 sector", "Crawford County / ZIP 72956 sector"]
+zillowHomeValueUsd: 205189
 ---
 
 **Engineering Notice for Van Buren:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crawford County.

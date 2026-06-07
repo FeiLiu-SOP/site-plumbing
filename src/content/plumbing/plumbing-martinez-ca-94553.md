@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["94553"]
 zipCodes: ["94553"]
 localPaths: ["Contra Costa County / primary ZIP 94553", "Contra Costa County / coords 38.0000, -122.1200", "Contra Costa County / elevation 157 ft band", "Contra Costa County / ZIP 94553 sector"]
+zillowHomeValueUsd: 773325
 ---
 
 **Engineering Notice for Martinez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

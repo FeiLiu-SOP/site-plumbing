@@ -12,6 +12,7 @@ lng: -81.4400
 zipSample: ["44663"]
 zipCodes: ["44663"]
 localPaths: ["Tuscarawas County / ZIP 44663 sector", "Tuscarawas County / coords 40.4900, -81.4400", "Tuscarawas County / elevation 889 ft band", "Tuscarawas County / primary ZIP 44663"]
+zillowHomeValueUsd: 201207
 ---
 
 **Engineering Notice for New Philadelphia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscarawas County.

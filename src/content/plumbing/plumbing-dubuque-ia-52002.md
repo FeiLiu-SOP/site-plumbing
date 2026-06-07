@@ -12,6 +12,7 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52003", "52004"]
 zipCodes: ["52002", "52099", "52003", "52004", "52001"]
 localPaths: ["Dubuque County / ZIP 52004 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
+zillowHomeValueUsd: 339222
 ---
 
 **Engineering Notice for Dubuque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dubuque County.

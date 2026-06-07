@@ -12,6 +12,7 @@ lng: -74.0800
 zipSample: ["07644"]
 zipCodes: ["07644"]
 localPaths: ["Bergen County / primary ZIP 07644", "Bergen County / coords 40.8800, -74.0800", "Bergen County / elevation 33 ft band", "Bergen County / ZIP 07644 sector"]
+zillowHomeValueUsd: 619192
 ---
 
 **Engineering Notice for Lodi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

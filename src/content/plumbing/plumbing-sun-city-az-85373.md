@@ -12,6 +12,7 @@ lng: -112.2800
 zipSample: ["85372", "85373", "85351"]
 zipCodes: ["85372", "85351", "85373"]
 localPaths: ["Maricopa County / coords 33.6200, -112.2800", "Maricopa County / ZIP 85373 sector", "Maricopa County / ZIP 85372 sector", "Maricopa County / primary ZIP 85373", "Maricopa County / ZIP 85351 sector"]
+zillowHomeValueUsd: 366488
 ---
 
 **Engineering Notice for Sun City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

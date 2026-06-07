@@ -12,6 +12,7 @@ lng: -74.4300
 zipSample: ["08904"]
 zipCodes: ["08904"]
 localPaths: ["Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08904 sector", "Middlesex County / coords 40.5000, -74.4300", "Middlesex County / primary ZIP 08904"]
+zillowHomeValueUsd: 584976
 ---
 
 **Engineering Notice for Highland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

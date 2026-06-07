@@ -12,6 +12,7 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / ZIP 04106 sector", "Cumberland County / elevation 33 ft band", "Cumberland County / primary ZIP 04106", "Cumberland County / coords 43.6300, -70.2900"]
+zillowHomeValueUsd: 518084
 ---
 
 **Engineering Notice for South Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.

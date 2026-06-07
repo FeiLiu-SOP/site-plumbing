@@ -12,6 +12,7 @@ lng: -101.8300
 zipSample: ["79120", "79103", "79110", "79118", "79121"]
 zipCodes: ["79166", "79121", "79117", "79174", "79120", "79104", "79168", "79106", "79103", "79172", "79107", "79111"]
 localPaths: ["Potter County / ZIP 79120 sector", "Potter County / ZIP 79103 sector", "Potter County / ZIP 79118 sector", "Potter County / elevation 3675 ft band", "Potter County / ZIP 79121 sector"]
+zillowHomeValueUsd: 298035
 ---
 
 **Engineering Notice for Amarillo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Potter County.

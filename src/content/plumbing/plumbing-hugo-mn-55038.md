@@ -12,6 +12,7 @@ lng: -92.9600
 zipSample: ["55038"]
 zipCodes: ["55038"]
 localPaths: ["Washington County / primary ZIP 55038", "Washington County / ZIP 55038 sector", "Washington County / coords 45.1700, -92.9600", "Washington County / elevation 922 ft band"]
+zillowHomeValueUsd: 448943
 ---
 
 **Engineering Notice for Hugo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

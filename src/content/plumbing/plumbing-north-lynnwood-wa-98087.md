@@ -12,6 +12,7 @@ lng: -122.2800
 zipSample: ["98087", "98037"]
 zipCodes: ["98087", "98037"]
 localPaths: ["Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 558 ft band", "Snohomish County / primary ZIP 98087", "Snohomish County / coords 47.8500, -122.2800", "Snohomish County / ZIP 98087 sector"]
+zillowHomeValueUsd: 751109
 ---
 
 **Engineering Notice for North Lynnwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

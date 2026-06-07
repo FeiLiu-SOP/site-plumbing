@@ -12,6 +12,7 @@ lng: -94.7000
 zipSample: ["66762"]
 zipCodes: ["66762"]
 localPaths: ["Crawford County / primary ZIP 66762", "Crawford County / coords 37.4100, -94.7000", "Crawford County / elevation 928 ft band", "Crawford County / ZIP 66762 sector"]
+zillowHomeValueUsd: 132926
 ---
 
 **Engineering Notice for Pittsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crawford County.

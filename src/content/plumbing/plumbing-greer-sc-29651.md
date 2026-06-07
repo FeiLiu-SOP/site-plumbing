@@ -12,6 +12,7 @@ lng: -82.2300
 zipSample: ["29651", "29652", "29650"]
 zipCodes: ["29650", "29651", "29652"]
 localPaths: ["Greenville County / ZIP 29652 sector", "Greenville County / ZIP 29650 sector", "Greenville County / primary ZIP 29651", "Greenville County / elevation 978 ft band", "Greenville County / ZIP 29651 sector"]
+zillowHomeValueUsd: 335376
 ---
 
 **Engineering Notice for Greer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.

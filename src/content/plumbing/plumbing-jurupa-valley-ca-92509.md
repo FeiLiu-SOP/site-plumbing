@@ -12,6 +12,7 @@ lng: -117.4700
 zipSample: ["92509", "92519", "91752"]
 zipCodes: ["91752", "92519", "92509"]
 localPaths: ["Riverside County / ZIP 92519 sector", "Riverside County / ZIP 91752 sector", "Riverside County / ZIP 92509 sector", "Riverside County / elevation 761 ft band", "Riverside County / primary ZIP 92509"]
+zillowHomeValueUsd: 636891
 ---
 
 **Engineering Notice for Jurupa Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

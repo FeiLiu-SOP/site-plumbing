@@ -12,6 +12,7 @@ lng: -76.0400
 zipSample: ["23450", "23466", "23465", "23457", "23454"]
 zipCodes: ["23460", "23465", "23454", "23479", "23457", "23450", "23467", "23463", "23456", "23462", "23453", "23451"]
 localPaths: ["Virginia Beach County / primary ZIP 23459", "Virginia Beach County / coords 36.7300, -76.0400", "Virginia Beach County / ZIP 23465 sector", "Virginia Beach County / ZIP 23450 sector", "Virginia Beach County / ZIP 23454 sector"]
+zillowHomeValueUsd: 409288
 ---
 
 **Engineering Notice for Virginia Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Virginia Beach County.

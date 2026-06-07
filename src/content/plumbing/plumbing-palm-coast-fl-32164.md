@@ -12,6 +12,7 @@ lng: -81.2500
 zipSample: ["32135", "32142", "32143", "32164", "32136"]
 zipCodes: ["32137", "32143", "32164", "32142", "32136", "32135"]
 localPaths: ["Flagler County / ZIP 32136 sector", "Flagler County / ZIP 32143 sector", "Flagler County / ZIP 32164 sector", "Flagler County / elevation 46 ft band", "Flagler County / coords 29.5400, -81.2500"]
+zillowHomeValueUsd: 322311
 ---
 
 **Engineering Notice for Palm Coast:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flagler County.

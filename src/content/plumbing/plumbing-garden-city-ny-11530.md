@@ -12,6 +12,7 @@ lng: -73.6400
 zipSample: ["11531", "11599", "11530"]
 zipCodes: ["11531", "11530", "11599"]
 localPaths: ["Nassau County / primary ZIP 11530", "Nassau County / ZIP 11599 sector", "Nassau County / coords 40.7300, -73.6400", "Nassau County / ZIP 11531 sector", "Nassau County / elevation 95 ft band"]
+zillowHomeValueUsd: 1281235
 ---
 
 **Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

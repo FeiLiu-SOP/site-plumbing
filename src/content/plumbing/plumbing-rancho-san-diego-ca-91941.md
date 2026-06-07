@@ -12,6 +12,7 @@ lng: -116.9200
 zipSample: ["92019", "91941"]
 zipCodes: ["91941", "92019"]
 localPaths: ["San Diego County / coords 32.7600, -116.9200", "San Diego County / primary ZIP 91941", "San Diego County / ZIP 91941 sector", "San Diego County / elevation 489 ft band", "San Diego County / ZIP 92019 sector"]
+zillowHomeValueUsd: 1030871
 ---
 
 **Engineering Notice for Rancho San Diego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

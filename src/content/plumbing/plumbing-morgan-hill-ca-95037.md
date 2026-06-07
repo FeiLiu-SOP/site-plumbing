@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["95037"]
 zipCodes: ["95037"]
 localPaths: ["Santa Clara County / ZIP 95037 sector", "Santa Clara County / coords 37.1300, -121.6400", "Santa Clara County / primary ZIP 95037", "Santa Clara County / elevation 358 ft band"]
+zillowHomeValueUsd: 1356447
 ---
 
 **Engineering Notice for Morgan Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

@@ -12,6 +12,7 @@ lng: -120.6700
 zipSample: ["93405", "93403", "93406", "93401"]
 zipCodes: ["93403", "93406", "93405", "93401"]
 localPaths: ["San Luis Obispo County / ZIP 93403 sector", "San Luis Obispo County / coords 35.2700, -120.6700", "San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector"]
+zillowHomeValueUsd: 1103796
 ---
 
 **Engineering Notice for San Luis Obispo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Luis Obispo County.

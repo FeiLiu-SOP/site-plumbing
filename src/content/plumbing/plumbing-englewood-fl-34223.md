@@ -12,6 +12,7 @@ lng: -82.3500
 zipSample: ["34224", "34223"]
 zipCodes: ["34223", "34224"]
 localPaths: ["Sarasota County / ZIP 34224 sector", "Sarasota County / primary ZIP 34223", "Sarasota County / elevation 30 ft band", "Sarasota County / coords 26.9700, -82.3500", "Sarasota County / ZIP 34223 sector"]
+zillowHomeValueUsd: 372585
 ---
 
 **Engineering Notice for Englewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.

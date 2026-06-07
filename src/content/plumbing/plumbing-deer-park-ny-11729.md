@@ -12,6 +12,7 @@ lng: -73.3200
 zipSample: ["11729"]
 zipCodes: ["11729"]
 localPaths: ["Suffolk County / ZIP 11729 sector", "Suffolk County / coords 40.7600, -73.3200", "Suffolk County / elevation 82 ft band", "Suffolk County / primary ZIP 11729"]
+zillowHomeValueUsd: 639041
 ---
 
 **Engineering Notice for Deer Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -91.0700
 zipSample: ["52761"]
 zipCodes: ["52761"]
 localPaths: ["Muscatine County / elevation 719 ft band", "Muscatine County / primary ZIP 52761", "Muscatine County / ZIP 52761 sector", "Muscatine County / coords 41.4200, -91.0700"]
+zillowHomeValueUsd: 183325
 ---
 
 **Engineering Notice for Muscatine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muscatine County.

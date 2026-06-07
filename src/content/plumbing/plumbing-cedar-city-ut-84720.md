@@ -12,6 +12,7 @@ lng: -113.1000
 zipSample: ["84721", "84720"]
 zipCodes: ["84721", "84720"]
 localPaths: ["Iron County / ZIP 84720 sector", "Iron County / elevation 5682 ft band", "Iron County / primary ZIP 84720", "Iron County / coords 37.6800, -113.1000", "Iron County / ZIP 84721 sector"]
+zillowHomeValueUsd: 430531
 ---
 
 **Engineering Notice for Cedar City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iron County.

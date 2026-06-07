@@ -12,6 +12,7 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / elevation 322 ft band", "Chesterfield County / primary ZIP 23235"]
+zillowHomeValueUsd: 412284
 ---
 
 **Engineering Notice for Bon Air:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chesterfield County.

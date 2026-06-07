@@ -12,6 +12,7 @@ lng: -77.4100
 zipSample: ["21709", "21702", "21705", "21701"]
 zipCodes: ["21709", "21701", "21702", "21705"]
 localPaths: ["Frederick County / ZIP 21702 sector", "Frederick County / primary ZIP 21705", "Frederick County / ZIP 21705 sector", "Frederick County / elevation 348 ft band", "Frederick County / ZIP 21701 sector"]
+zillowHomeValueUsd: 462244
 ---
 
 **Engineering Notice for Frederick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Frederick County.

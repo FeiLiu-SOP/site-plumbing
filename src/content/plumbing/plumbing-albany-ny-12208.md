@@ -12,6 +12,7 @@ lng: -73.8000
 zipSample: ["12223", "12231", "12261", "12238", "12244"]
 zipCodes: ["12236", "12204", "12261", "12207", "12202", "12260", "12232", "12240", "12244", "12229", "12248", "12243"]
 localPaths: ["Albany County / coords 42.6700, -73.8000", "Albany County / ZIP 12223 sector", "Albany County / primary ZIP 12208", "Albany County / ZIP 12238 sector", "Albany County / ZIP 12244 sector"]
+zillowHomeValueUsd: 317877
 ---
 
 **Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Albany County.

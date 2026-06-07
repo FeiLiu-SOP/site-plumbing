@@ -12,6 +12,7 @@ lng: -90.3100
 zipSample: ["63129", "63125"]
 zipCodes: ["63125", "63129"]
 localPaths: ["St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63125 sector", "St. Louis County / coords 38.5000, -90.3100", "St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band"]
+zillowHomeValueUsd: 340013
 ---
 
 **Engineering Notice for Mehlville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

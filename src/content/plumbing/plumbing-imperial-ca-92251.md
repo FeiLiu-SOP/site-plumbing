@@ -12,6 +12,7 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / elevation -57 ft band", "Imperial County / ZIP 92251 sector", "Imperial County / coords 32.8400, -115.5700", "Imperial County / primary ZIP 92251"]
+zillowHomeValueUsd: 436913
 ---
 
 **Engineering Notice for Imperial:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.

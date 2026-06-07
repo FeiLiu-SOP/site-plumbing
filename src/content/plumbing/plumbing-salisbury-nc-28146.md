@@ -12,6 +12,7 @@ lng: -80.4900
 zipSample: ["28144", "28145", "28146", "28147"]
 zipCodes: ["28144", "28147", "28145", "28146"]
 localPaths: ["Rowan County / primary ZIP 28146", "Rowan County / ZIP 28146 sector", "Rowan County / ZIP 28144 sector", "Rowan County / elevation 715 ft band", "Rowan County / ZIP 28145 sector"]
+zillowHomeValueUsd: 302606
 ---
 
 **Engineering Notice for Salisbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rowan County.

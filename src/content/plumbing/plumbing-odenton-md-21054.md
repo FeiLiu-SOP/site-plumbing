@@ -12,6 +12,7 @@ lng: -76.6900
 zipSample: ["21054", "21113"]
 zipCodes: ["21054", "21113"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / elevation 240 ft band", "Anne Arundel County / coords 39.0700, -76.6900", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / ZIP 21113 sector"]
+zillowHomeValueUsd: 613042
 ---
 
 **Engineering Notice for Odenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.

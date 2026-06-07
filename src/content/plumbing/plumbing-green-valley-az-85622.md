@@ -12,6 +12,7 @@ lng: -111.0000
 zipSample: ["85614", "85622"]
 zipCodes: ["85622", "85614"]
 localPaths: ["Pima County / ZIP 85614 sector", "Pima County / primary ZIP 85622", "Pima County / coords 31.8400, -111.0000", "Pima County / ZIP 85622 sector", "Pima County / elevation 2930 ft band"]
+zillowHomeValueUsd: 346712
 ---
 
 **Engineering Notice for Green Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

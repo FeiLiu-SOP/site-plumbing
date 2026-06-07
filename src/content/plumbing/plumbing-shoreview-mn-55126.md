@@ -12,6 +12,7 @@ lng: -93.1400
 zipSample: ["55126"]
 zipCodes: ["55126"]
 localPaths: ["Ramsey County / coords 45.0800, -93.1400", "Ramsey County / primary ZIP 55126", "Ramsey County / elevation 899 ft band", "Ramsey County / ZIP 55126 sector"]
+zillowHomeValueUsd: 411308
 ---
 
 **Engineering Notice for Shoreview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ramsey County.

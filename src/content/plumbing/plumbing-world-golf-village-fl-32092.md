@@ -12,6 +12,7 @@ lng: -81.4900
 zipSample: ["32095", "32092"]
 zipCodes: ["32095", "32092"]
 localPaths: ["St. Johns County / elevation 36 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / coords 29.9700, -81.4900", "St. Johns County / primary ZIP 32092", "St. Johns County / ZIP 32092 sector"]
+zillowHomeValueUsd: 467094
 ---
 
 **Engineering Notice for World Golf Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Johns County.

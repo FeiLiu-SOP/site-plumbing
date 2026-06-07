@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["28079", "28104", "28110"]
 zipCodes: ["28079", "28104", "28110"]
 localPaths: ["Union County / elevation 659 ft band", "Union County / coords 35.0700, -80.6500", "Union County / ZIP 28079 sector", "Union County / primary ZIP 28104", "Union County / ZIP 28110 sector"]
+zillowHomeValueUsd: 594932
 ---
 
 **Engineering Notice for Indian Trail:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.

@@ -12,6 +12,7 @@ lng: -75.2800
 zipSample: ["19446"]
 zipCodes: ["19446"]
 localPaths: ["Montgomery County / ZIP 19446 sector", "Montgomery County / coords 40.2400, -75.2800", "Montgomery County / primary ZIP 19446", "Montgomery County / elevation 374 ft band"]
+zillowHomeValueUsd: 494539
 ---
 
 **Engineering Notice for Lansdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

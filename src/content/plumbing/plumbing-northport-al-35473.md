@@ -12,6 +12,7 @@ lng: -87.6000
 zipSample: ["35473", "35452", "35476", "35475"]
 zipCodes: ["35452", "35476", "35475", "35473"]
 localPaths: ["Tuscaloosa County / primary ZIP 35473", "Tuscaloosa County / elevation 328 ft band", "Tuscaloosa County / ZIP 35473 sector", "Tuscaloosa County / ZIP 35475 sector", "Tuscaloosa County / coords 33.2600, -87.6000"]
+zillowHomeValueUsd: 266467
 ---
 
 **Engineering Notice for Northport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscaloosa County.

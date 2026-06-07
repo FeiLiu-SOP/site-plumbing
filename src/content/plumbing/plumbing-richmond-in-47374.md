@@ -12,6 +12,7 @@ lng: -84.8900
 zipSample: ["47374", "47375"]
 zipCodes: ["47374", "47375"]
 localPaths: ["Wayne County / primary ZIP 47374", "Wayne County / ZIP 47374 sector", "Wayne County / ZIP 47375 sector", "Wayne County / coords 39.8300, -84.8900", "Wayne County / elevation 974 ft band"]
+zillowHomeValueUsd: 156745
 ---
 
 **Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -111.9300
 zipSample: ["85283", "85287", "85288", "85284", "85285"]
 zipCodes: ["85287", "85288", "85284", "85280", "85282", "85283", "85281", "85285"]
 localPaths: ["Maricopa County / ZIP 85283 sector", "Maricopa County / coords 33.3900, -111.9300", "Maricopa County / ZIP 85284 sector", "Maricopa County / elevation 1171 ft band", "Maricopa County / ZIP 85285 sector"]
+zillowHomeValueUsd: 402205
 ---
 
 **Engineering Notice for Tempe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

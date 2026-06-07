@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["40216", "40256"]
 zipCodes: ["40256", "40216"]
 localPaths: ["Jefferson County / elevation 463 ft band", "Jefferson County / ZIP 40216 sector", "Jefferson County / ZIP 40256 sector", "Jefferson County / coords 38.2000, -85.8100", "Jefferson County / primary ZIP 40216"]
+zillowHomeValueUsd: 205843
 ---
 
 **Engineering Notice for Shively:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

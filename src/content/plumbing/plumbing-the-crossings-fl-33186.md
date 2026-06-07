@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / primary ZIP 33186", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / coords 25.6700, -80.4000"]
+zillowHomeValueUsd: 522095
 ---
 
 **Engineering Notice for The Crossings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

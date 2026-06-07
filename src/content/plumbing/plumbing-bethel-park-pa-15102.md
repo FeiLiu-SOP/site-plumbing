@@ -12,6 +12,7 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15102", "15234"]
 localPaths: ["Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector", "Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400"]
+zillowHomeValueUsd: 301030
 ---
 
 **Engineering Notice for Bethel Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

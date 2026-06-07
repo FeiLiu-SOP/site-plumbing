@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["33406", "33461"]
 zipCodes: ["33406", "33461"]
 localPaths: ["Palm Beach County / elevation 36 ft band", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33461 sector"]
+zillowHomeValueUsd: 422275
 ---
 
 **Engineering Notice for Palm Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

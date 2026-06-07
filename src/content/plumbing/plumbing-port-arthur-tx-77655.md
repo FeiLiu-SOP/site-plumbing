@@ -12,6 +12,7 @@ lng: -93.9300
 zipSample: ["77643", "77642", "77640", "77641", "77655"]
 zipCodes: ["77641", "77642", "77655", "77640", "77643"]
 localPaths: ["Jefferson County / ZIP 77643 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / primary ZIP 77655", "Jefferson County / coords 29.8600, -93.9300", "Jefferson County / ZIP 77655 sector"]
+zillowHomeValueUsd: 120462
 ---
 
 **Engineering Notice for Port Arthur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["53132"]
 zipCodes: ["53132"]
 localPaths: ["Milwaukee County / elevation 755 ft band", "Milwaukee County / coords 42.8900, -88.0100", "Milwaukee County / ZIP 53132 sector", "Milwaukee County / primary ZIP 53132"]
+zillowHomeValueUsd: 439601
 ---
 
 **Engineering Notice for Franklin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.

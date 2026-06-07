@@ -12,6 +12,7 @@ lng: -98.3600
 zipSample: ["68803", "68801"]
 zipCodes: ["68803", "68801"]
 localPaths: ["Hall County / ZIP 68803 sector", "Hall County / coords 40.9200, -98.3600", "Hall County / ZIP 68801 sector", "Hall County / elevation 1883 ft band", "Hall County / primary ZIP 68803"]
+zillowHomeValueUsd: 283482
 ---
 
 **Engineering Notice for Grand Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hall County.

@@ -12,6 +12,7 @@ lng: -89.4700
 zipSample: ["61650", "61550"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / ZIP 61650 sector", "Tazewell County / elevation 722 ft band", "Tazewell County / ZIP 61550 sector", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / primary ZIP 61550"]
+zillowHomeValueUsd: 280475
 ---
 
 **Engineering Notice for Morton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tazewell County.

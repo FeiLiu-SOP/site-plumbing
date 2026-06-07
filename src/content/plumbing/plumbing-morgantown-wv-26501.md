@@ -12,6 +12,7 @@ lng: -79.9500
 zipSample: ["26505", "26501", "26506", "26504"]
 zipCodes: ["26505", "26504", "26501", "26506"]
 localPaths: ["Monongalia County / ZIP 26505 sector", "Monongalia County / ZIP 26504 sector", "Monongalia County / primary ZIP 26501", "Monongalia County / elevation 1165 ft band", "Monongalia County / ZIP 26506 sector"]
+zillowHomeValueUsd: 217743
 ---
 
 **Engineering Notice for Morgantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monongalia County.

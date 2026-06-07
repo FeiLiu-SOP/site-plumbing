@@ -12,6 +12,7 @@ lng: -98.4700
 zipSample: ["57401"]
 zipCodes: ["57401"]
 localPaths: ["Brown County / primary ZIP 57401", "Brown County / coords 45.4600, -98.4700", "Brown County / ZIP 57401 sector", "Brown County / elevation 1296 ft band"]
+zillowHomeValueUsd: 237142
 ---
 
 **Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.

@@ -12,6 +12,7 @@ lng: -82.5800
 zipSample: ["34205", "34281", "34208", "34209", "34206"]
 zipCodes: ["34206", "34208", "34281", "34205", "34209"]
 localPaths: ["Manatee County / ZIP 34206 sector", "Manatee County / ZIP 34209 sector", "Manatee County / elevation 33 ft band", "Manatee County / ZIP 34281 sector", "Manatee County / primary ZIP 34208"]
+zillowHomeValueUsd: 323095
 ---
 
 **Engineering Notice for Bradenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manatee County.

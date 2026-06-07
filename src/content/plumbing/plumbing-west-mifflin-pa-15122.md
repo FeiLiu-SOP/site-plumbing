@@ -12,6 +12,7 @@ lng: -79.9100
 zipSample: ["15122", "15123"]
 zipCodes: ["15122", "15123"]
 localPaths: ["Allegheny County / elevation 1099 ft band", "Allegheny County / ZIP 15122 sector", "Allegheny County / coords 40.3600, -79.9100", "Allegheny County / ZIP 15123 sector", "Allegheny County / primary ZIP 15122"]
+zillowHomeValueUsd: 160926
 ---
 
 **Engineering Notice for West Mifflin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

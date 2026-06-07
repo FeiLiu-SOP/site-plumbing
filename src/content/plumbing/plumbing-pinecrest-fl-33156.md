@@ -12,6 +12,7 @@ lng: -80.3000
 zipSample: ["33156"]
 zipCodes: ["33156"]
 localPaths: ["Miami-Dade County / coords 25.6600, -80.3000", "Miami-Dade County / ZIP 33156 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33156"]
+zillowHomeValueUsd: 1509757
 ---
 
 **Engineering Notice for Pinecrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

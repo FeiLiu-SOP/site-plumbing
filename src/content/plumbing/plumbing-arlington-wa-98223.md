@@ -12,6 +12,7 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / primary ZIP 98223", "Snohomish County / ZIP 98223 sector", "Snohomish County / elevation 223 ft band"]
+zillowHomeValueUsd: 663357
 ---
 
 **Engineering Notice for Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

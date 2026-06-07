@@ -12,6 +12,7 @@ lng: -100.8800
 zipSample: ["78847", "78840"]
 zipCodes: ["78840", "78847"]
 localPaths: ["Val Verde County / elevation 984 ft band", "Val Verde County / ZIP 78847 sector", "Val Verde County / ZIP 78840 sector", "Val Verde County / primary ZIP 78840", "Val Verde County / coords 29.3700, -100.8800"]
+zillowHomeValueUsd: 209798
 ---
 
 **Engineering Notice for Del Rio:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Val Verde County.

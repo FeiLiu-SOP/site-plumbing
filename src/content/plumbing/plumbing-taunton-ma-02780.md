@@ -12,6 +12,7 @@ lng: -71.0900
 zipSample: ["02718", "02767", "02780"]
 zipCodes: ["02718", "02767", "02780"]
 localPaths: ["Bristol County / ZIP 02780 sector", "Bristol County / ZIP 02718 sector", "Bristol County / coords 41.9000, -71.0900", "Bristol County / primary ZIP 02780", "Bristol County / ZIP 02767 sector"]
+zillowHomeValueUsd: 512331
 ---
 
 **Engineering Notice for Taunton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bristol County.

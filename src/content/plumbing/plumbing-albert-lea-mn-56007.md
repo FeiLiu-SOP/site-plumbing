@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["56007"]
 zipCodes: ["56007"]
 localPaths: ["Freeborn County / coords 43.6500, -93.3600", "Freeborn County / primary ZIP 56007", "Freeborn County / elevation 1243 ft band", "Freeborn County / ZIP 56007 sector"]
+zillowHomeValueUsd: 177161
 ---
 
 **Engineering Notice for Albert Lea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Freeborn County.

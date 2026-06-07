@@ -12,6 +12,7 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / primary ZIP 67114", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400", "Harvey County / ZIP 67114 sector"]
+zillowHomeValueUsd: 170210
 ---
 
 **Engineering Notice for Newton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harvey County.

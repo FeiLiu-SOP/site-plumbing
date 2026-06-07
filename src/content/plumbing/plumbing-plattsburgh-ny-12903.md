@@ -12,6 +12,7 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12901", "12903"]
 localPaths: ["Clinton County / ZIP 12903 sector", "Clinton County / primary ZIP 12903", "Clinton County / coords 44.7000, -73.4600", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 151 ft band"]
+zillowHomeValueUsd: 235970
 ---
 
 **Engineering Notice for Plattsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.

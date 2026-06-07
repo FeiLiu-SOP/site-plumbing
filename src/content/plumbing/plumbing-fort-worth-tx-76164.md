@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["76121", "76107", "76131", "76262", "76135"]
 zipCodes: ["76036", "76122", "76115", "76135", "76113", "76040", "76130", "76134", "76193", "76190", "76179", "76244"]
 localPaths: ["Tarrant County / ZIP 76131 sector", "Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.7800, -97.3500", "Tarrant County / ZIP 76121 sector", "Tarrant County / elevation 558 ft band"]
+zillowHomeValueUsd: 187481
 ---
 
 **Engineering Notice for Fort Worth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

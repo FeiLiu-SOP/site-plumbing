@@ -12,6 +12,7 @@ lng: -78.7000
 zipSample: ["14043"]
 zipCodes: ["14043"]
 localPaths: ["Erie County / elevation 679 ft band", "Erie County / primary ZIP 14043", "Erie County / ZIP 14043 sector", "Erie County / coords 42.9100, -78.7000"]
+zillowHomeValueUsd: 260983
 ---
 
 **Engineering Notice for Depew:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.

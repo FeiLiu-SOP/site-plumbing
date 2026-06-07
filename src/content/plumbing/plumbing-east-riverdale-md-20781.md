@@ -12,6 +12,7 @@ lng: -76.9100
 zipSample: ["20781", "20737"]
 zipCodes: ["20737", "20781"]
 localPaths: ["Prince George's County / ZIP 20737 sector", "Prince George's County / coords 38.9600, -76.9100", "Prince George's County / ZIP 20781 sector", "Prince George's County / elevation 135 ft band", "Prince George's County / primary ZIP 20781"]
+zillowHomeValueUsd: 434841
 ---
 
 **Engineering Notice for East Riverdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

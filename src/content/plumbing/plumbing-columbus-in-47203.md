@@ -12,6 +12,7 @@ lng: -85.9200
 zipSample: ["47202", "47203", "47201"]
 zipCodes: ["47203", "47202", "47201"]
 localPaths: ["Bartholomew County / ZIP 47201 sector", "Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / ZIP 47203 sector", "Bartholomew County / coords 39.2100, -85.9200"]
+zillowHomeValueUsd: 285729
 ---
 
 **Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bartholomew County.

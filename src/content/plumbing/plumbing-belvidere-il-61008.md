@@ -12,6 +12,7 @@ lng: -88.8600
 zipSample: ["61008"]
 zipCodes: ["61008"]
 localPaths: ["Boone County / coords 42.2500, -88.8600", "Boone County / elevation 771 ft band", "Boone County / primary ZIP 61008", "Boone County / ZIP 61008 sector"]
+zillowHomeValueUsd: 258044
 ---
 
 **Engineering Notice for Belvidere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.

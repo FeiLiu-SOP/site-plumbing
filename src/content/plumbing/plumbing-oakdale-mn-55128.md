@@ -12,6 +12,7 @@ lng: -92.9600
 zipSample: ["55128"]
 zipCodes: ["55128"]
 localPaths: ["Washington County / coords 44.9900, -92.9600", "Washington County / ZIP 55128 sector", "Washington County / elevation 1056 ft band", "Washington County / primary ZIP 55128"]
+zillowHomeValueUsd: 353754
 ---
 
 **Engineering Notice for Oakdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

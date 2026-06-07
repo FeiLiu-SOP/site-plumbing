@@ -12,6 +12,7 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / ZIP 96706 sector", "Honolulu County / elevation 30 ft band", "Honolulu County / coords 21.3100, -158.0300", "Honolulu County / primary ZIP 96706"]
+zillowHomeValueUsd: 830557
 ---
 
 **Engineering Notice for Ocean Pointe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

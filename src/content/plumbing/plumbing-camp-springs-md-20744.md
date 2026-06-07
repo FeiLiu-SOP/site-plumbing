@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["20748", "20746", "20744"]
 zipCodes: ["20748", "20746", "20744"]
 localPaths: ["Prince George's County / primary ZIP 20744", "Prince George's County / ZIP 20748 sector", "Prince George's County / ZIP 20744 sector", "Prince George's County / coords 38.8100, -76.9200", "Prince George's County / ZIP 20746 sector"]
+zillowHomeValueUsd: 448941
 ---
 
 **Engineering Notice for Camp Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

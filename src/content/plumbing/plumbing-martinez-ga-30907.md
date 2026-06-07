@@ -12,6 +12,7 @@ lng: -82.1000
 zipSample: ["30809", "30907"]
 zipCodes: ["30907", "30809"]
 localPaths: ["Columbia County / coords 33.5200, -82.1000", "Columbia County / ZIP 30809 sector", "Columbia County / elevation 338 ft band", "Columbia County / primary ZIP 30907", "Columbia County / ZIP 30907 sector"]
+zillowHomeValueUsd: 267164
 ---
 
 **Engineering Notice for Martinez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Columbia County.

@@ -12,6 +12,7 @@ lng: -83.9800
 zipSample: ["37804", "37802", "37801", "37803"]
 zipCodes: ["37803", "37804", "37801", "37802"]
 localPaths: ["Blount County / ZIP 37801 sector", "Blount County / ZIP 37803 sector", "Blount County / elevation 984 ft band", "Blount County / primary ZIP 37804", "Blount County / ZIP 37802 sector"]
+zillowHomeValueUsd: 352359
 ---
 
 **Engineering Notice for Maryville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Blount County.

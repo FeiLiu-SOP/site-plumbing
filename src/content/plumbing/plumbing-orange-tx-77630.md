@@ -12,6 +12,7 @@ lng: -93.7600
 zipSample: ["77630", "77632", "77631"]
 zipCodes: ["77631", "77632", "77630"]
 localPaths: ["Orange County / elevation 23 ft band", "Orange County / ZIP 77630 sector", "Orange County / primary ZIP 77630", "Orange County / coords 30.1200, -93.7600", "Orange County / ZIP 77631 sector"]
+zillowHomeValueUsd: 146829
 ---
 
 **Engineering Notice for Orange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

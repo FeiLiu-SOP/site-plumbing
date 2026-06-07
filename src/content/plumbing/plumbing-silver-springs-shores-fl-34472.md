@@ -12,6 +12,7 @@ lng: -82.0100
 zipSample: ["34472"]
 zipCodes: ["34472"]
 localPaths: ["Marion County / elevation 102 ft band", "Marion County / coords 29.1100, -82.0100", "Marion County / primary ZIP 34472", "Marion County / ZIP 34472 sector"]
+zillowHomeValueUsd: 238157
 ---
 
 **Engineering Notice for Silver Springs Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

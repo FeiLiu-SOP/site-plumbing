@@ -12,6 +12,7 @@ lng: -121.0500
 zipSample: ["95682", "95762"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / elevation 1070 ft band", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector", "El Dorado County / primary ZIP 95762", "El Dorado County / ZIP 95682 sector"]
+zillowHomeValueUsd: 911288
 ---
 
 **Engineering Notice for El Dorado Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Dorado County.

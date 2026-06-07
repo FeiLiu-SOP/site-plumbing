@@ -12,6 +12,7 @@ lng: -100.8900
 zipSample: ["58554"]
 zipCodes: ["58554"]
 localPaths: ["Morton County / elevation 1650 ft band", "Morton County / ZIP 58554 sector", "Morton County / primary ZIP 58554", "Morton County / coords 46.8300, -100.8900"]
+zillowHomeValueUsd: 341740
 ---
 
 **Engineering Notice for Mandan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morton County.

@@ -12,6 +12,7 @@ lng: -76.9900
 zipSample: ["20901", "20904", "20903"]
 zipCodes: ["20903", "20904", "20901"]
 localPaths: ["Montgomery County / ZIP 20903 sector", "Montgomery County / elevation 404 ft band", "Montgomery County / ZIP 20901 sector", "Montgomery County / coords 39.0500, -76.9900", "Montgomery County / primary ZIP 20904"]
+zillowHomeValueUsd: 592838
 ---
 
 **Engineering Notice for White Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

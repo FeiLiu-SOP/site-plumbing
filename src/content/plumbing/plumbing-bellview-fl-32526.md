@@ -12,6 +12,7 @@ lng: -87.3100
 zipSample: ["32526"]
 zipCodes: ["32526"]
 localPaths: ["Escambia County / primary ZIP 32526", "Escambia County / coords 30.4600, -87.3100", "Escambia County / ZIP 32526 sector", "Escambia County / elevation 98 ft band"]
+zillowHomeValueUsd: 281263
 ---
 
 **Engineering Notice for Bellview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.

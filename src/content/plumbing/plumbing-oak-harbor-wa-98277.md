@@ -12,6 +12,7 @@ lng: -122.6300
 zipSample: ["98277"]
 zipCodes: ["98277"]
 localPaths: ["Island County / primary ZIP 98277", "Island County / coords 48.3000, -122.6300", "Island County / ZIP 98277 sector", "Island County / elevation 164 ft band"]
+zillowHomeValueUsd: 528470
 ---
 
 **Engineering Notice for Oak Harbor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Island County.

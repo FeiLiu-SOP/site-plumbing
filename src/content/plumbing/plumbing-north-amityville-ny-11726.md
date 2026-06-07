@@ -12,6 +12,7 @@ lng: -73.4100
 zipSample: ["11726", "11701"]
 zipCodes: ["11726", "11701"]
 localPaths: ["Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11701 sector", "Suffolk County / elevation 46 ft band", "Suffolk County / primary ZIP 11726", "Suffolk County / coords 40.7000, -73.4100"]
+zillowHomeValueUsd: 568478
 ---
 
 **Engineering Notice for North Amityville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

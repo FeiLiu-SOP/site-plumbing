@@ -12,6 +12,7 @@ lng: -77.5100
 zipSample: ["23228", "23294"]
 zipCodes: ["23294", "23228"]
 localPaths: ["Henrico County / primary ZIP 23294", "Henrico County / ZIP 23294 sector", "Henrico County / elevation 233 ft band", "Henrico County / coords 37.6400, -77.5100", "Henrico County / ZIP 23228 sector"]
+zillowHomeValueUsd: 360201
 ---
 
 **Engineering Notice for Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.

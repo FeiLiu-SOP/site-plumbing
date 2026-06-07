@@ -12,6 +12,7 @@ lng: -116.4600
 zipSample: ["92276", "92234", "92235"]
 zipCodes: ["92235", "92276", "92234"]
 localPaths: ["Riverside County / ZIP 92276 sector", "Riverside County / ZIP 92235 sector", "Riverside County / coords 33.8400, -116.4600", "Riverside County / primary ZIP 92276", "Riverside County / elevation 387 ft band"]
+zillowHomeValueUsd: 388800
 ---
 
 **Engineering Notice for Cathedral City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

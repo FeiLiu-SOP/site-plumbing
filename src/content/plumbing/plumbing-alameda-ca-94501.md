@@ -12,6 +12,7 @@ lng: -122.2700
 zipSample: ["94502", "94501"]
 zipCodes: ["94502", "94501"]
 localPaths: ["Alameda County / ZIP 94502 sector", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94501 sector", "Alameda County / elevation 16 ft band", "Alameda County / coords 37.7700, -122.2700"]
+zillowHomeValueUsd: 1146622
 ---
 
 **Engineering Notice for Alameda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

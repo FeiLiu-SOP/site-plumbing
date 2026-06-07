@@ -12,6 +12,7 @@ lng: -104.9700
 zipSample: ["80129", "80130", "80163", "80126"]
 zipCodes: ["80130", "80163", "80126", "80129"]
 localPaths: ["Douglas County / elevation 5833 ft band", "Douglas County / ZIP 80126 sector", "Douglas County / ZIP 80129 sector", "Douglas County / primary ZIP 80129", "Douglas County / ZIP 80163 sector"]
+zillowHomeValueUsd: 682986
 ---
 
 **Engineering Notice for Highlands Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.

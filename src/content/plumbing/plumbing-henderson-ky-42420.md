@@ -12,6 +12,7 @@ lng: -87.5800
 zipSample: ["42419", "42420"]
 zipCodes: ["42419", "42420"]
 localPaths: ["Henderson County / ZIP 42419 sector", "Henderson County / coords 37.8400, -87.5800", "Henderson County / elevation 390 ft band", "Henderson County / primary ZIP 42420", "Henderson County / ZIP 42420 sector"]
+zillowHomeValueUsd: 199594
 ---
 
 **Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henderson County.

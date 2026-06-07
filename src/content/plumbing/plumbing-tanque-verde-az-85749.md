@@ -12,6 +12,7 @@ lng: -110.7400
 zipSample: ["85749", "85748"]
 zipCodes: ["85749", "85748"]
 localPaths: ["Pima County / coords 32.2700, -110.7400", "Pima County / primary ZIP 85749", "Pima County / ZIP 85748 sector", "Pima County / ZIP 85749 sector", "Pima County / elevation 2667 ft band"]
+zillowHomeValueUsd: 649168
 ---
 
 **Engineering Notice for Tanque Verde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

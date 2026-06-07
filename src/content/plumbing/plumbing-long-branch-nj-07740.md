@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["07740"]
 zipCodes: ["07740"]
 localPaths: ["Monmouth County / ZIP 07740 sector", "Monmouth County / coords 40.3000, -73.9900", "Monmouth County / primary ZIP 07740", "Monmouth County / elevation 33 ft band"]
+zillowHomeValueUsd: 794627
 ---
 
 **Engineering Notice for Long Branch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monmouth County.

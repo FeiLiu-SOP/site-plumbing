@@ -12,6 +12,7 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
+zillowHomeValueUsd: 527499
 ---
 
 **Engineering Notice for Avenel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

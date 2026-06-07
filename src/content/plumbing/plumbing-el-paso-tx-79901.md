@@ -12,6 +12,7 @@ lng: -106.4300
 zipSample: ["79953", "88577", "88572", "88571", "79925"]
 zipCodes: ["79953", "88560", "88561", "88550", "88573", "79952", "79903", "88569", "88547", "88583", "79958", "88566"]
 localPaths: ["El Paso County / ZIP 88572 sector", "El Paso County / ZIP 79953 sector", "El Paso County / elevation 3875 ft band", "El Paso County / coords 31.8500, -106.4300", "El Paso County / ZIP 88577 sector"]
+zillowHomeValueUsd: 137654
 ---
 
 **Engineering Notice for El Paso:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

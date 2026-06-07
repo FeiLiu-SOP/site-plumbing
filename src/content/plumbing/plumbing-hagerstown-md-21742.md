@@ -12,6 +12,7 @@ lng: -77.7200
 zipSample: ["21740", "21742", "21741", "21749", "21747"]
 zipCodes: ["21741", "21747", "21740", "21742", "21749"]
 localPaths: ["Washington County / coords 39.6400, -77.7200", "Washington County / ZIP 21741 sector", "Washington County / ZIP 21740 sector", "Washington County / ZIP 21749 sector", "Washington County / ZIP 21747 sector"]
+zillowHomeValueUsd: 346234
 ---
 
 **Engineering Notice for Hagerstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

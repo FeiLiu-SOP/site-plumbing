@@ -12,6 +12,7 @@ lng: -73.2600
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
+zillowHomeValueUsd: 620314
 ---
 
 **Engineering Notice for North Bay Shore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

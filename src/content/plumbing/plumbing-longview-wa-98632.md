@@ -12,6 +12,7 @@ lng: -122.9600
 zipSample: ["98632"]
 zipCodes: ["98632"]
 localPaths: ["Cowlitz County / elevation 16 ft band", "Cowlitz County / primary ZIP 98632", "Cowlitz County / ZIP 98632 sector", "Cowlitz County / coords 46.1500, -122.9600"]
+zillowHomeValueUsd: 385600
 ---
 
 **Engineering Notice for Longview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cowlitz County.

@@ -12,6 +12,7 @@ lng: -74.0000
 zipSample: ["07621"]
 zipCodes: ["07621"]
 localPaths: ["Bergen County / primary ZIP 07621", "Bergen County / elevation 75 ft band", "Bergen County / coords 40.9200, -74.0000", "Bergen County / ZIP 07621 sector"]
+zillowHomeValueUsd: 628212
 ---
 
 **Engineering Notice for Bergenfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

@@ -12,6 +12,7 @@ lng: -104.8800
 zipSample: ["80209", "80265", "80219", "80222", "80218"]
 zipCodes: ["80222", "80248", "80247", "80293", "80271", "80256", "80238", "80205", "80265", "80290", "80250", "80236"]
 localPaths: ["Denver County / ZIP 80219 sector", "Denver County / elevation 5285 ft band", "Denver County / primary ZIP 80264", "Denver County / ZIP 80265 sector", "Denver County / coords 39.7600, -104.8800"]
+zillowHomeValueUsd: 427021
 ---
 
 **Engineering Notice for Denver:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denver County.

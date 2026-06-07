@@ -12,6 +12,7 @@ lng: -97.4200
 zipSample: ["76033", "76031"]
 zipCodes: ["76031", "76033"]
 localPaths: ["Johnson County / ZIP 76033 sector", "Johnson County / elevation 817 ft band", "Johnson County / primary ZIP 76033", "Johnson County / coords 32.3600, -97.4200", "Johnson County / ZIP 76031 sector"]
+zillowHomeValueUsd: 272498
 ---
 
 **Engineering Notice for Cleburne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

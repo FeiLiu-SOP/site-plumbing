@@ -12,6 +12,7 @@ lng: -114.0100
 zipSample: ["86401", "86409"]
 zipCodes: ["86401", "86409"]
 localPaths: ["Mohave County / primary ZIP 86409", "Mohave County / ZIP 86401 sector", "Mohave County / coords 35.2200, -114.0100", "Mohave County / ZIP 86409 sector", "Mohave County / elevation 3478 ft band"]
+zillowHomeValueUsd: 263523
 ---
 
 **Engineering Notice for Kingman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.

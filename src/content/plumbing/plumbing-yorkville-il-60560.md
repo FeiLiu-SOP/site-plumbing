@@ -12,6 +12,7 @@ lng: -88.4500
 zipSample: ["60512", "60560"]
 zipCodes: ["60512", "60560"]
 localPaths: ["Kendall County / ZIP 60560 sector", "Kendall County / coords 41.6600, -88.4500", "Kendall County / primary ZIP 60560", "Kendall County / elevation 650 ft band", "Kendall County / ZIP 60512 sector"]
+zillowHomeValueUsd: 400182
 ---
 
 **Engineering Notice for Yorkville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.

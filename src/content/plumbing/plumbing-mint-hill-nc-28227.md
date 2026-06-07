@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["28227"]
 zipCodes: ["28227"]
 localPaths: ["Mecklenburg County / ZIP 28227 sector", "Mecklenburg County / coords 35.1800, -80.6500", "Mecklenburg County / elevation 791 ft band", "Mecklenburg County / primary ZIP 28227"]
+zillowHomeValueUsd: 390100
 ---
 
 **Engineering Notice for Mint Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.

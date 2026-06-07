@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["30078"]
 zipCodes: ["30078"]
 localPaths: ["Gwinnett County / coords 33.8600, -84.0000", "Gwinnett County / ZIP 30078 sector", "Gwinnett County / elevation 1037 ft band", "Gwinnett County / primary ZIP 30078"]
+zillowHomeValueUsd: 371158
 ---
 
 **Engineering Notice for Snellville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

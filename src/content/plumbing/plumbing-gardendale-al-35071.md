@@ -12,6 +12,7 @@ lng: -86.8100
 zipSample: ["35119", "35071"]
 zipCodes: ["35071", "35119"]
 localPaths: ["Jefferson County / ZIP 35119 sector", "Jefferson County / coords 33.6700, -86.8100", "Jefferson County / primary ZIP 35071", "Jefferson County / elevation 607 ft band", "Jefferson County / ZIP 35071 sector"]
+zillowHomeValueUsd: 271350
 ---
 
 **Engineering Notice for Gardendale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

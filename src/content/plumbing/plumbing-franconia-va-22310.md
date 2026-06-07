@@ -12,6 +12,7 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22315", "22310"]
 localPaths: ["Fairfax County / ZIP 22315 sector", "Fairfax County / elevation 249 ft band", "Fairfax County / coords 38.7700, -77.1600", "Fairfax County / ZIP 22310 sector", "Fairfax County / primary ZIP 22310"]
+zillowHomeValueUsd: 673053
 ---
 
 **Engineering Notice for Franconia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

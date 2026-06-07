@@ -12,6 +12,7 @@ lng: -116.9800
 zipSample: ["92223"]
 zipCodes: ["92223"]
 localPaths: ["Riverside County / coords 33.9100, -116.9800", "Riverside County / ZIP 92223 sector", "Riverside County / elevation 2602 ft band", "Riverside County / primary ZIP 92223"]
+zillowHomeValueUsd: 537364
 ---
 
 **Engineering Notice for Beaumont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

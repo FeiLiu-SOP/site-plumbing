@@ -12,6 +12,7 @@ lng: -88.1000
 zipSample: ["36571"]
 zipCodes: ["36571"]
 localPaths: ["Mobile County / coords 30.8500, -88.1000", "Mobile County / primary ZIP 36571", "Mobile County / elevation 79 ft band", "Mobile County / ZIP 36571 sector"]
+zillowHomeValueUsd: 234301
 ---
 
 **Engineering Notice for Saraland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.

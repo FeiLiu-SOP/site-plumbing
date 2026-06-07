@@ -12,6 +12,7 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / primary ZIP 62269", "St. Clair County / ZIP 62269 sector", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / elevation 548 ft band"]
+zillowHomeValueUsd: 306889
 ---
 
 **Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.

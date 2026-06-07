@@ -12,6 +12,7 @@ lng: -72.8700
 zipSample: ["11967"]
 zipCodes: ["11967"]
 localPaths: ["Suffolk County / elevation 59 ft band", "Suffolk County / primary ZIP 11967", "Suffolk County / ZIP 11967 sector", "Suffolk County / coords 40.7900, -72.8700"]
+zillowHomeValueUsd: 531119
 ---
 
 **Engineering Notice for Shirley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

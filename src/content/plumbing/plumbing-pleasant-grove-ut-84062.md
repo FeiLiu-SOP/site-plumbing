@@ -12,6 +12,7 @@ lng: -111.7400
 zipSample: ["84062"]
 zipCodes: ["84062"]
 localPaths: ["Utah County / coords 40.3700, -111.7400", "Utah County / elevation 4636 ft band", "Utah County / ZIP 84062 sector", "Utah County / primary ZIP 84062"]
+zillowHomeValueUsd: 584825
 ---
 
 **Engineering Notice for Pleasant Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

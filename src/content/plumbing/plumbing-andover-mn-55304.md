@@ -12,6 +12,7 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / ZIP 55304 sector", "Anoka County / coords 45.2600, -93.3300", "Anoka County / primary ZIP 55304"]
+zillowHomeValueUsd: 451276
 ---
 
 **Engineering Notice for Andover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.

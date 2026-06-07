@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["07652", "07653"]
 zipCodes: ["07652", "07653"]
 localPaths: ["Bergen County / elevation 59 ft band", "Bergen County / ZIP 07653 sector", "Bergen County / primary ZIP 07652", "Bergen County / coords 40.9500, -74.0700", "Bergen County / ZIP 07652 sector"]
+zillowHomeValueUsd: 1041858
 ---
 
 **Engineering Notice for Paramus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

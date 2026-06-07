@@ -12,6 +12,7 @@ lng: -98.3100
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / ZIP 78573 sector", "Hidalgo County / coords 26.2900, -98.3100", "Hidalgo County / elevation 174 ft band", "Hidalgo County / primary ZIP 78573"]
+zillowHomeValueUsd: 216774
 ---
 
 **Engineering Notice for Alton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

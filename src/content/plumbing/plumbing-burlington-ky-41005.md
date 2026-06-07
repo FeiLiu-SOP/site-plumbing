@@ -12,6 +12,7 @@ lng: -84.7200
 zipSample: ["41005"]
 zipCodes: ["41005"]
 localPaths: ["Boone County / elevation 837 ft band", "Boone County / ZIP 41005 sector", "Boone County / primary ZIP 41005", "Boone County / coords 39.0200, -84.7200"]
+zillowHomeValueUsd: 323824
 ---
 
 **Engineering Notice for Burlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.

@@ -12,6 +12,7 @@ lng: -97.2600
 zipSample: ["67037"]
 zipCodes: ["67037"]
 localPaths: ["Sedgwick County / ZIP 67037 sector", "Sedgwick County / primary ZIP 67037", "Sedgwick County / elevation 1306 ft band", "Sedgwick County / coords 37.5600, -97.2600"]
+zillowHomeValueUsd: 282724
 ---
 
 **Engineering Notice for Derby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sedgwick County.

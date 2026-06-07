@@ -12,6 +12,7 @@ lng: -80.3600
 zipSample: ["33157"]
 zipCodes: ["33157"]
 localPaths: ["Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.6200, -80.3600", "Miami-Dade County / primary ZIP 33157"]
+zillowHomeValueUsd: 628090
 ---
 
 **Engineering Notice for Palmetto Estates:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

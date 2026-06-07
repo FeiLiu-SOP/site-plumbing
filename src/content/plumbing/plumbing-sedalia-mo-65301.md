@@ -12,6 +12,7 @@ lng: -93.2300
 zipSample: ["65302", "65301"]
 zipCodes: ["65301", "65302"]
 localPaths: ["Pettis County / primary ZIP 65301", "Pettis County / coords 38.7100, -93.2300", "Pettis County / ZIP 65302 sector", "Pettis County / ZIP 65301 sector", "Pettis County / elevation 912 ft band"]
+zillowHomeValueUsd: 182089
 ---
 
 **Engineering Notice for Sedalia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pettis County.

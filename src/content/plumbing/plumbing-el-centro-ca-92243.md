@@ -12,6 +12,7 @@ lng: -115.5600
 zipSample: ["92243", "92244"]
 zipCodes: ["92244", "92243"]
 localPaths: ["Imperial County / coords 32.7900, -115.5600", "Imperial County / ZIP 92244 sector", "Imperial County / primary ZIP 92243", "Imperial County / elevation -44 ft band", "Imperial County / ZIP 92243 sector"]
+zillowHomeValueUsd: 385307
 ---
 
 **Engineering Notice for El Centro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.

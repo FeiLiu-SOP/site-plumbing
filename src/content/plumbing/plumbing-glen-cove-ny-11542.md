@@ -12,6 +12,7 @@ lng: -73.6300
 zipSample: ["11542"]
 zipCodes: ["11542"]
 localPaths: ["Nassau County / primary ZIP 11542", "Nassau County / elevation 135 ft band", "Nassau County / coords 40.8700, -73.6300", "Nassau County / ZIP 11542 sector"]
+zillowHomeValueUsd: 809435
 ---
 
 **Engineering Notice for Glen Cove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

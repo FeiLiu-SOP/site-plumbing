@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / elevation 948 ft band", "Wright County / ZIP 55362 sector", "Wright County / primary ZIP 55362", "Wright County / coords 45.3000, -93.8000"]
+zillowHomeValueUsd: 353456
 ---
 
 **Engineering Notice for Monticello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.

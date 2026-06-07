@@ -12,6 +12,7 @@ lng: -78.0000
 zipSample: ["22701"]
 zipCodes: ["22701"]
 localPaths: ["Culpeper County / ZIP 22701 sector", "Culpeper County / primary ZIP 22701", "Culpeper County / elevation 433 ft band", "Culpeper County / coords 38.4700, -78.0000"]
+zillowHomeValueUsd: 450321
 ---
 
 **Engineering Notice for Culpeper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Culpeper County.

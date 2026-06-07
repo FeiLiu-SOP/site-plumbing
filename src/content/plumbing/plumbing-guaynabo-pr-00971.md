@@ -12,6 +12,8 @@ lng: -66.1100
 zipSample: ["00962", "00966", "00934", "00969", "00965"]
 zipCodes: ["00934", "00971", "00968", "00962", "00966", "00970", "00969", "00965"]
 localPaths: ["Guaynabo County / coords 18.3800, -66.1100", "Guaynabo County / ZIP 00962 sector", "Guaynabo County / primary ZIP 00971", "Guaynabo County / ZIP 00934 sector", "Guaynabo County / ZIP 00969 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 360127
 ---
 
 **Engineering Notice for Guaynabo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guaynabo County.

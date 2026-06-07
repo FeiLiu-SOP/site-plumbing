@@ -12,6 +12,7 @@ lng: -80.1100
 zipSample: ["29456"]
 zipCodes: ["29456"]
 localPaths: ["Berkeley County / elevation 59 ft band", "Berkeley County / coords 33.0100, -80.1100", "Berkeley County / ZIP 29456 sector", "Berkeley County / primary ZIP 29456"]
+zillowHomeValueUsd: 315472
 ---
 
 **Engineering Notice for Ladson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.

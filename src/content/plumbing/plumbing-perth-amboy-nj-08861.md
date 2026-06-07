@@ -12,6 +12,7 @@ lng: -74.2700
 zipSample: ["08862", "08861"]
 zipCodes: ["08861", "08862"]
 localPaths: ["Middlesex County / coords 40.5200, -74.2700", "Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08861 sector", "Middlesex County / primary ZIP 08861", "Middlesex County / ZIP 08862 sector"]
+zillowHomeValueUsd: 495680
 ---
 
 **Engineering Notice for Perth Amboy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

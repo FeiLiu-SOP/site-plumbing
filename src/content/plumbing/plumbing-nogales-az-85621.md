@@ -12,6 +12,7 @@ lng: -110.9300
 zipSample: ["85621"]
 zipCodes: ["85621"]
 localPaths: ["Santa Cruz County / primary ZIP 85621", "Santa Cruz County / elevation 3770 ft band", "Santa Cruz County / coords 31.3600, -110.9300", "Santa Cruz County / ZIP 85621 sector"]
+zillowHomeValueUsd: 220979
 ---
 
 **Engineering Notice for Nogales:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Cruz County.

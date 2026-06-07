@@ -12,6 +12,7 @@ lng: -118.3400
 zipSample: ["90306", "90304", "90305", "90308", "90302"]
 zipCodes: ["90301", "90305", "90308", "90302", "90307", "90312", "90306", "90311", "90309", "90303", "90304"]
 localPaths: ["Los Angeles County / primary ZIP 90305", "Los Angeles County / coords 33.9600, -118.3400", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / ZIP 90305 sector", "Los Angeles County / ZIP 90302 sector"]
+zillowHomeValueUsd: 829123
 ---
 
 **Engineering Notice for Inglewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

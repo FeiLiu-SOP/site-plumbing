@@ -12,6 +12,7 @@ lng: -78.8100
 zipSample: ["14226"]
 zipCodes: ["14226"]
 localPaths: ["Erie County / ZIP 14226 sector", "Erie County / elevation 630 ft band", "Erie County / primary ZIP 14226", "Erie County / coords 42.9700, -78.8100"]
+zillowHomeValueUsd: 310818
 ---
 
 **Engineering Notice for Eggertsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.

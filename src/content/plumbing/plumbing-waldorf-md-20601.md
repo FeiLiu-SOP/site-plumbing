@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["20601", "20604", "20602", "20695", "20675"]
 zipCodes: ["20602", "20695", "20675", "20601", "20603", "20604"]
 localPaths: ["Charles County / ZIP 20601 sector", "Charles County / elevation 210 ft band", "Charles County / primary ZIP 20601", "Charles County / ZIP 20602 sector", "Charles County / ZIP 20695 sector"]
+zillowHomeValueUsd: 438983
 ---
 
 **Engineering Notice for Waldorf:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charles County.

@@ -12,6 +12,7 @@ lng: -73.5800
 zipSample: ["11575"]
 zipCodes: ["11575"]
 localPaths: ["Nassau County / coords 40.6800, -73.5800", "Nassau County / ZIP 11575 sector", "Nassau County / primary ZIP 11575", "Nassau County / elevation 43 ft band"]
+zillowHomeValueUsd: 630759
 ---
 
 **Engineering Notice for Roosevelt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

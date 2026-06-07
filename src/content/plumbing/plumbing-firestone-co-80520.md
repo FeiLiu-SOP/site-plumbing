@@ -12,6 +12,7 @@ lng: -104.9500
 zipSample: ["80504", "80520"]
 zipCodes: ["80504", "80520"]
 localPaths: ["Weld County / coords 40.1600, -104.9500", "Weld County / ZIP 80504 sector", "Weld County / primary ZIP 80520", "Weld County / ZIP 80520 sector", "Weld County / elevation 4856 ft band"]
+zillowHomeValueUsd: 469192
 ---
 
 **Engineering Notice for Firestone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.

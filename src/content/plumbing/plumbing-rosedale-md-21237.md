@@ -12,6 +12,7 @@ lng: -76.5100
 zipSample: ["21206", "21237"]
 zipCodes: ["21237", "21206"]
 localPaths: ["Baltimore County / coords 39.3300, -76.5100", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21237 sector", "Baltimore County / elevation 98 ft band", "Baltimore County / ZIP 21206 sector"]
+zillowHomeValueUsd: 316079
 ---
 
 **Engineering Notice for Rosedale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

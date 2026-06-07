@@ -12,6 +12,7 @@ lng: -122.5400
 zipSample: ["98110", "98061"]
 zipCodes: ["98061", "98110"]
 localPaths: ["Kitsap County / coords 47.6400, -122.5400", "Kitsap County / primary ZIP 98110", "Kitsap County / ZIP 98061 sector", "Kitsap County / ZIP 98110 sector", "Kitsap County / elevation 220 ft band"]
+zillowHomeValueUsd: 1175768
 ---
 
 **Engineering Notice for Bainbridge Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kitsap County.

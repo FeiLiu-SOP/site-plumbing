@@ -12,6 +12,7 @@ lng: -86.1500
 zipSample: ["46074", "46082", "46032", "46280", "46290"]
 zipCodes: ["46280", "46074", "46032", "46033", "46290", "46082"]
 localPaths: ["Hamilton County / ZIP 46032 sector", "Hamilton County / elevation 843 ft band", "Hamilton County / ZIP 46074 sector", "Hamilton County / ZIP 46280 sector", "Hamilton County / ZIP 46082 sector"]
+zillowHomeValueUsd: 573227
 ---
 
 **Engineering Notice for Carmel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

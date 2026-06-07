@@ -12,6 +12,7 @@ lng: -93.4100
 zipSample: ["55343", "55305"]
 zipCodes: ["55343", "55305"]
 localPaths: ["Hennepin County / ZIP 55305 sector", "Hennepin County / ZIP 55343 sector", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / elevation 919 ft band", "Hennepin County / primary ZIP 55343"]
+zillowHomeValueUsd: 344970
 ---
 
 **Engineering Notice for Hopkins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

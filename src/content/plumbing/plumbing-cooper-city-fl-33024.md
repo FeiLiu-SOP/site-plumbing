@@ -12,6 +12,7 @@ lng: -80.2900
 zipSample: ["33330", "33328", "33024", "33026"]
 zipCodes: ["33330", "33328", "33026", "33024"]
 localPaths: ["Broward County / ZIP 33024 sector", "Broward County / coords 26.0500, -80.2900", "Broward County / ZIP 33328 sector", "Broward County / elevation 23 ft band", "Broward County / primary ZIP 33024"]
+zillowHomeValueUsd: 465775
 ---
 
 **Engineering Notice for Cooper City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

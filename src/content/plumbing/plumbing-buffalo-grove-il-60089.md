@@ -12,6 +12,7 @@ lng: -87.9600
 zipSample: ["60089"]
 zipCodes: ["60089"]
 localPaths: ["Lake County / coords 42.1700, -87.9600", "Lake County / primary ZIP 60089", "Lake County / elevation 689 ft band", "Lake County / ZIP 60089 sector"]
+zillowHomeValueUsd: 437973
 ---
 
 **Engineering Notice for Buffalo Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

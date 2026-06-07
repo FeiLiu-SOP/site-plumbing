@@ -12,6 +12,7 @@ lng: -93.2100
 zipSample: ["70607", "70612", "70602", "70605", "70629"]
 zipCodes: ["70607", "70629", "70605", "70615", "70609", "70602", "70606", "70612", "70601", "70616"]
 localPaths: ["Calcasieu Parish / ZIP 70612 sector", "Calcasieu Parish / ZIP 70629 sector", "Calcasieu Parish / ZIP 70607 sector", "Calcasieu Parish / coords 30.2000, -93.2100", "Calcasieu Parish / primary ZIP 70605"]
+zillowHomeValueUsd: 263744
 ---
 
 **Engineering Notice for Lake Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calcasieu Parish.

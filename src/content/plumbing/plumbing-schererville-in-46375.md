@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["46307", "46375"]
 zipCodes: ["46307", "46375"]
 localPaths: ["Lake County / elevation 659 ft band", "Lake County / ZIP 46307 sector", "Lake County / coords 41.4900, -87.4400", "Lake County / ZIP 46375 sector", "Lake County / primary ZIP 46375"]
+zillowHomeValueUsd: 352726
 ---
 
 **Engineering Notice for Schererville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

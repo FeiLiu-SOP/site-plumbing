@@ -12,6 +12,7 @@ lng: -118.6300
 zipSample: ["91310", "91384"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / ZIP 91384 sector", "Los Angeles County / ZIP 91310 sector", "Los Angeles County / elevation 1699 ft band", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / primary ZIP 91384"]
+zillowHomeValueUsd: 805415
 ---
 
 **Engineering Notice for Castaic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

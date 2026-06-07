@@ -12,6 +12,7 @@ lng: -114.1300
 zipSample: ["89027", "89034", "89024"]
 zipCodes: ["89034", "89027", "89024"]
 localPaths: ["Clark County / ZIP 89027 sector", "Clark County / primary ZIP 89034", "Clark County / ZIP 89024 sector", "Clark County / coords 36.8000, -114.1300", "Clark County / elevation 1755 ft band"]
+zillowHomeValueUsd: 456018
 ---
 
 **Engineering Notice for Mesquite:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

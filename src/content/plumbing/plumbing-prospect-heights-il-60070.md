@@ -12,6 +12,7 @@ lng: -87.9300
 zipSample: ["60070"]
 zipCodes: ["60070"]
 localPaths: ["Cook County / elevation 659 ft band", "Cook County / primary ZIP 60070", "Cook County / ZIP 60070 sector", "Cook County / coords 42.1000, -87.9300"]
+zillowHomeValueUsd: 366144
 ---
 
 **Engineering Notice for Prospect Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

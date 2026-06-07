@@ -12,6 +12,7 @@ lng: -98.2500
 zipSample: ["78154", "78132", "78108"]
 zipCodes: ["78108", "78154", "78132"]
 localPaths: ["Bexar County / ZIP 78108 sector", "Bexar County / ZIP 78154 sector", "Bexar County / primary ZIP 78108", "Bexar County / coords 29.5700, -98.2500", "Bexar County / elevation 699 ft band"]
+zillowHomeValueUsd: 330380
 ---
 
 **Engineering Notice for Schertz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.

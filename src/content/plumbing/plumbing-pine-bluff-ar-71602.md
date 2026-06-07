@@ -12,6 +12,7 @@ lng: -92.0200
 zipSample: ["71612", "71603", "71601", "71611", "71602"]
 zipCodes: ["71602", "71611", "71601", "71603", "71612"]
 localPaths: ["Jefferson County / coords 34.2100, -92.0200", "Jefferson County / elevation 240 ft band", "Jefferson County / ZIP 71601 sector", "Jefferson County / ZIP 71611 sector", "Jefferson County / ZIP 71612 sector"]
+zillowHomeValueUsd: 135550
 ---
 
 **Engineering Notice for Pine Bluff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

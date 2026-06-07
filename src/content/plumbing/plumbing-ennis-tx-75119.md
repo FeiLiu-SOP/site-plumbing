@@ -12,6 +12,7 @@ lng: -96.6300
 zipSample: ["75120", "75119"]
 zipCodes: ["75120", "75119"]
 localPaths: ["Ellis County / ZIP 75120 sector", "Ellis County / primary ZIP 75119", "Ellis County / ZIP 75119 sector", "Ellis County / coords 32.3300, -96.6300", "Ellis County / elevation 548 ft band"]
+zillowHomeValueUsd: 265426
 ---
 
 **Engineering Notice for Ennis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.

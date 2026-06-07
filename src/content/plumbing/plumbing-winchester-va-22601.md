@@ -12,6 +12,7 @@ lng: -78.1700
 zipSample: ["22601", "22604"]
 zipCodes: ["22601", "22604"]
 localPaths: ["Winchester County / primary ZIP 22601", "Winchester County / coords 39.1700, -78.1700", "Winchester County / elevation 745 ft band", "Winchester County / ZIP 22601 sector", "Winchester County / ZIP 22604 sector"]
+zillowHomeValueUsd: 353259
 ---
 
 **Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winchester County.

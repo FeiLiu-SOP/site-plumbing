@@ -12,6 +12,7 @@ lng: -77.4500
 zipSample: ["20112", "20110", "20111"]
 zipCodes: ["20111", "20110", "20112"]
 localPaths: ["Prince William County / coords 38.7200, -77.4500", "Prince William County / ZIP 20111 sector", "Prince William County / ZIP 20112 sector", "Prince William County / elevation 315 ft band", "Prince William County / ZIP 20110 sector"]
+zillowHomeValueUsd: 520327
 ---
 
 **Engineering Notice for Buckhall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

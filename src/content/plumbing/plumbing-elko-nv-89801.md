@@ -12,6 +12,7 @@ lng: -115.7700
 zipSample: ["89801"]
 zipCodes: ["89801"]
 localPaths: ["Elko County / ZIP 89801 sector", "Elko County / elevation 5121 ft band", "Elko County / primary ZIP 89801", "Elko County / coords 40.8400, -115.7700"]
+zillowHomeValueUsd: 365336
 ---
 
 **Engineering Notice for Elko:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elko County.

@@ -12,6 +12,7 @@ lng: -111.9600
 zipSample: ["84041", "84040"]
 zipCodes: ["84041", "84040"]
 localPaths: ["Davis County / primary ZIP 84041", "Davis County / ZIP 84041 sector", "Davis County / elevation 4462 ft band", "Davis County / coords 41.0800, -111.9600", "Davis County / ZIP 84040 sector"]
+zillowHomeValueUsd: 484869
 ---
 
 **Engineering Notice for Layton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

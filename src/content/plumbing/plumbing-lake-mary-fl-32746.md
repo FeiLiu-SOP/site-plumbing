@@ -12,6 +12,7 @@ lng: -81.3400
 zipSample: ["32746", "32795"]
 zipCodes: ["32746", "32795"]
 localPaths: ["Seminole County / coords 28.7600, -81.3400", "Seminole County / elevation 89 ft band", "Seminole County / ZIP 32746 sector", "Seminole County / ZIP 32795 sector", "Seminole County / primary ZIP 32746"]
+zillowHomeValueUsd: 467376
 ---
 
 **Engineering Notice for Lake Mary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.

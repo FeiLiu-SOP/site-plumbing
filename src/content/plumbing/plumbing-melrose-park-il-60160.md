@@ -12,6 +12,7 @@ lng: -87.8600
 zipSample: ["60160", "60161"]
 zipCodes: ["60161", "60160"]
 localPaths: ["Cook County / ZIP 60160 sector", "Cook County / elevation 643 ft band", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / ZIP 60161 sector"]
+zillowHomeValueUsd: 311361
 ---
 
 **Engineering Notice for Melrose Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

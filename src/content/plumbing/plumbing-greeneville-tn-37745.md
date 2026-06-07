@@ -12,6 +12,7 @@ lng: -82.8200
 zipSample: ["37745", "37743", "37744"]
 zipCodes: ["37743", "37744", "37745"]
 localPaths: ["Greene County / ZIP 37744 sector", "Greene County / coords 36.1700, -82.8200", "Greene County / primary ZIP 37745", "Greene County / ZIP 37745 sector", "Greene County / elevation 1608 ft band"]
+zillowHomeValueUsd: 254347
 ---
 
 **Engineering Notice for Greeneville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.

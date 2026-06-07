@@ -12,6 +12,7 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96160", "96161"]
 localPaths: ["Nevada County / ZIP 96161 sector", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161", "Nevada County / ZIP 96160 sector", "Nevada County / coords 39.3500, -120.1800"]
+zillowHomeValueUsd: 1014762
 ---
 
 **Engineering Notice for Truckee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nevada County.

@@ -12,6 +12,7 @@ lng: -122.2300
 zipSample: ["98040"]
 zipCodes: ["98040"]
 localPaths: ["King County / elevation 92 ft band", "King County / primary ZIP 98040", "King County / ZIP 98040 sector", "King County / coords 47.5700, -122.2300"]
+zillowHomeValueUsd: 2327625
 ---
 
 **Engineering Notice for Mercer Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

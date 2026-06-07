@@ -12,6 +12,7 @@ lng: -84.5400
 zipSample: ["30064", "30062", "30090", "30067", "30060"]
 zipCodes: ["30006", "30090", "30067", "30060", "30008", "30062", "30064", "30007"]
 localPaths: ["Cobb County / ZIP 30060 sector", "Cobb County / ZIP 30062 sector", "Cobb County / coords 33.9500, -84.5400", "Cobb County / ZIP 30090 sector", "Cobb County / ZIP 30067 sector"]
+zillowHomeValueUsd: 551674
 ---
 
 **Engineering Notice for Marietta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.

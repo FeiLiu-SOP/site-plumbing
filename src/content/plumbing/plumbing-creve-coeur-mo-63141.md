@@ -12,6 +12,7 @@ lng: -90.4400
 zipSample: ["63167", "63141"]
 zipCodes: ["63167", "63141"]
 localPaths: ["St. Louis County / coords 38.6600, -90.4400", "St. Louis County / ZIP 63167 sector", "St. Louis County / elevation 627 ft band", "St. Louis County / ZIP 63141 sector", "St. Louis County / primary ZIP 63141"]
+zillowHomeValueUsd: 653050
 ---
 
 **Engineering Notice for Creve Coeur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

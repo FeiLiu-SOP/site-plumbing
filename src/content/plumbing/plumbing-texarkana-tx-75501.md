@@ -12,6 +12,7 @@ lng: -94.0800
 zipSample: ["75599", "75503", "75501"]
 zipCodes: ["75503", "75599", "75501"]
 localPaths: ["Bowie County / ZIP 75599 sector", "Bowie County / elevation 348 ft band", "Bowie County / ZIP 75501 sector", "Bowie County / coords 33.4500, -94.0800", "Bowie County / ZIP 75503 sector"]
+zillowHomeValueUsd: 154024
 ---
 
 **Engineering Notice for Texarkana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bowie County.

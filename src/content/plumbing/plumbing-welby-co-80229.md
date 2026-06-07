@@ -12,6 +12,7 @@ lng: -104.9700
 zipSample: ["80229"]
 zipCodes: ["80229"]
 localPaths: ["Adams County / primary ZIP 80229", "Adams County / elevation 5194 ft band", "Adams County / coords 39.8400, -104.9700", "Adams County / ZIP 80229 sector"]
+zillowHomeValueUsd: 425775
 ---
 
 **Engineering Notice for Welby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

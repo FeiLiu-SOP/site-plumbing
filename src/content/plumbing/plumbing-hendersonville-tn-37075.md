@@ -12,6 +12,7 @@ lng: -86.6000
 zipSample: ["37077", "37075"]
 zipCodes: ["37075", "37077"]
 localPaths: ["Sumner County / ZIP 37075 sector", "Sumner County / primary ZIP 37075", "Sumner County / ZIP 37077 sector", "Sumner County / coords 36.3100, -86.6000", "Sumner County / elevation 502 ft band"]
+zillowHomeValueUsd: 515389
 ---
 
 **Engineering Notice for Hendersonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumner County.

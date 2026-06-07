@@ -12,6 +12,7 @@ lng: -88.4100
 zipSample: ["39705", "39702", "39701"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / coords 33.5100, -88.4100", "Lowndes County / primary ZIP 39702", "Lowndes County / ZIP 39705 sector", "Lowndes County / ZIP 39702 sector", "Lowndes County / ZIP 39701 sector"]
+zillowHomeValueUsd: 173312
 ---
 
 **Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lowndes County.

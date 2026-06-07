@@ -12,7 +12,7 @@ lng: -80.1128
 zipSample: ["33458", "33477", "33468"]
 zipCodes: ["33477", "33458", "33468"]
 localPaths: ["Palm Beach County / elevation 345 ft band", "Palm Beach County / ZIP 33458 sector", "Palm Beach County / ZIP 33468 sector", "Palm Beach County / coords 26.9200, -80.1128", "Palm Beach County / ZIP 33477 sector"]
-zillowHomeValueUsd: 693656
+zillowHomeValueUsd: 676971
 ---
 
 **Engineering Notice for Jupiter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

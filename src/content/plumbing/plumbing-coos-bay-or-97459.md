@@ -12,6 +12,7 @@ lng: -124.2300
 zipSample: ["97420", "97459"]
 zipCodes: ["97420", "97459"]
 localPaths: ["Coos County / elevation 144 ft band", "Coos County / coords 43.3800, -124.2300", "Coos County / primary ZIP 97459", "Coos County / ZIP 97420 sector", "Coos County / ZIP 97459 sector"]
+zillowHomeValueUsd: 356826
 ---
 
 **Engineering Notice for Coos Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coos County.

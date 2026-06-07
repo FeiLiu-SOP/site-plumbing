@@ -12,6 +12,7 @@ lng: -81.7100
 zipSample: ["32003", "32006"]
 zipCodes: ["32003", "32006"]
 localPaths: ["Clay County / elevation 30 ft band", "Clay County / ZIP 32003 sector", "Clay County / coords 30.1000, -81.7100", "Clay County / ZIP 32006 sector", "Clay County / primary ZIP 32003"]
+zillowHomeValueUsd: 437591
 ---
 
 **Engineering Notice for Fleming Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

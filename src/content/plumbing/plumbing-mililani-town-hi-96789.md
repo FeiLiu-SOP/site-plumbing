@@ -12,6 +12,7 @@ lng: -158.0100
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / elevation 636 ft band", "Honolulu County / ZIP 96789 sector", "Honolulu County / coords 21.4500, -158.0100", "Honolulu County / primary ZIP 96789"]
+zillowHomeValueUsd: 881740
 ---
 
 **Engineering Notice for Mililani Town:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

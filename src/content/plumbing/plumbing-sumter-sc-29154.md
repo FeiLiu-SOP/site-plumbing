@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["29150", "29152", "29153", "29154", "29151"]
 zipCodes: ["29151", "29150", "29154", "29152", "29153"]
 localPaths: ["Sumter County / ZIP 29152 sector", "Sumter County / ZIP 29151 sector", "Sumter County / ZIP 29150 sector", "Sumter County / coords 33.9400, -80.3900", "Sumter County / primary ZIP 29154"]
+zillowHomeValueUsd: 235521
 ---
 
 **Engineering Notice for Sumter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumter County.

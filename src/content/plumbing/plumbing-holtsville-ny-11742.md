@@ -12,6 +12,7 @@ lng: -73.0400
 zipSample: ["11742", "00544", "00501"]
 zipCodes: ["11742", "00501", "00544"]
 localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / elevation 98 ft band", "Suffolk County / ZIP 00544 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8100, -73.0400"]
+zillowHomeValueUsd: 630849
 ---
 
 **Engineering Notice for Holtsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

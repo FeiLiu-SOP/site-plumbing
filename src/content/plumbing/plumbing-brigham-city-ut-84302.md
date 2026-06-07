@@ -12,6 +12,7 @@ lng: -112.0500
 zipSample: ["84302"]
 zipCodes: ["84302"]
 localPaths: ["Box Elder County / primary ZIP 84302", "Box Elder County / coords 41.5000, -112.0500", "Box Elder County / ZIP 84302 sector", "Box Elder County / elevation 4232 ft band"]
+zillowHomeValueUsd: 435515
 ---
 
 **Engineering Notice for Brigham City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Box Elder County.

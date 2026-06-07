@@ -12,6 +12,7 @@ lng: -81.2800
 zipSample: ["34772", "34769", "34771"]
 zipCodes: ["34772", "34769", "34771"]
 localPaths: ["Osceola County / ZIP 34771 sector", "Osceola County / coords 28.2400, -81.2800", "Osceola County / ZIP 34772 sector", "Osceola County / ZIP 34769 sector", "Osceola County / elevation 75 ft band"]
+zillowHomeValueUsd: 315887
 ---
 
 **Engineering Notice for St. Cloud:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Osceola County.

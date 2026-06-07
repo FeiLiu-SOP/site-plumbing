@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["58078"]
 zipCodes: ["58078"]
 localPaths: ["Cass County / ZIP 58078 sector", "Cass County / primary ZIP 58078", "Cass County / coords 46.8600, -96.9100", "Cass County / elevation 896 ft band"]
+zillowHomeValueUsd: 349052
 ---
 
 **Engineering Notice for West Fargo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cass County.

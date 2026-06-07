@@ -12,6 +12,7 @@ lng: -115.4900
 zipSample: ["92231", "92232"]
 zipCodes: ["92231", "92232"]
 localPaths: ["Imperial County / primary ZIP 92231", "Imperial County / ZIP 92231 sector", "Imperial County / elevation 0 ft band", "Imperial County / coords 32.6800, -115.4900", "Imperial County / ZIP 92232 sector"]
+zillowHomeValueUsd: 391756
 ---
 
 **Engineering Notice for Calexico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.

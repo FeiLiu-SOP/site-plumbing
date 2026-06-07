@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["33547"]
 zipCodes: ["33547"]
 localPaths: ["Hillsborough County / coords 27.8500, -82.2200", "Hillsborough County / elevation 82 ft band", "Hillsborough County / primary ZIP 33547", "Hillsborough County / ZIP 33547 sector"]
+zillowHomeValueUsd: 515459
 ---
 
 **Engineering Notice for Fish Hawk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

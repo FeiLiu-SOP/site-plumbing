@@ -12,6 +12,7 @@ lng: -81.0400
 zipSample: ["28012"]
 zipCodes: ["28012"]
 localPaths: ["Gaston County / coords 35.2200, -81.0400", "Gaston County / primary ZIP 28012", "Gaston County / elevation 709 ft band", "Gaston County / ZIP 28012 sector"]
+zillowHomeValueUsd: 418766
 ---
 
 **Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.

@@ -12,6 +12,7 @@ lng: -84.8700
 zipSample: ["37311", "37312", "37320"]
 zipCodes: ["37320", "37312", "37311"]
 localPaths: ["Bradley County / ZIP 37320 sector", "Bradley County / ZIP 37312 sector", "Bradley County / elevation 817 ft band", "Bradley County / primary ZIP 37312", "Bradley County / coords 35.1800, -84.8700"]
+zillowHomeValueUsd: 350242
 ---
 
 **Engineering Notice for Cleveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bradley County.

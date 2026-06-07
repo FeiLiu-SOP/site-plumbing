@@ -12,6 +12,7 @@ lng: -80.7000
 zipSample: ["29906", "29935", "29905", "29902"]
 zipCodes: ["29935", "29905", "29902", "29906"]
 localPaths: ["Beaufort County / ZIP 29905 sector", "Beaufort County / ZIP 29935 sector", "Beaufort County / elevation 3 ft band", "Beaufort County / ZIP 29906 sector", "Beaufort County / coords 32.3600, -80.7000"]
+zillowHomeValueUsd: 418943
 ---
 
 **Engineering Notice for Port Royal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.

@@ -12,6 +12,7 @@ lng: -75.7500
 zipSample: ["19702", "19701"]
 zipCodes: ["19702", "19701"]
 localPaths: ["New Castle County / elevation 79 ft band", "New Castle County / ZIP 19701 sector", "New Castle County / coords 39.6000, -75.7500", "New Castle County / ZIP 19702 sector", "New Castle County / primary ZIP 19701"]
+zillowHomeValueUsd: 420870
 ---
 
 **Engineering Notice for Glasgow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Castle County.

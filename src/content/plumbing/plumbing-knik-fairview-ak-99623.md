@@ -12,6 +12,7 @@ lng: -149.6300
 zipSample: ["99623", "99654"]
 zipCodes: ["99623", "99654"]
 localPaths: ["Matanuska-Susitna County / coords 61.5100, -149.6300", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99623 sector", "Matanuska-Susitna County / primary ZIP 99623", "Matanuska-Susitna County / ZIP 99654 sector"]
+zillowHomeValueUsd: 366933
 ---
 
 **Engineering Notice for Knik-Fairview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Matanuska-Susitna County.

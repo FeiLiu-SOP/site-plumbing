@@ -12,6 +12,7 @@ lng: -88.5600
 zipSample: ["54902", "54906", "54903", "54901", "54904"]
 zipCodes: ["54906", "54902", "54901", "54985", "54904", "54903"]
 localPaths: ["Winnebago County / ZIP 54903 sector", "Winnebago County / ZIP 54906 sector", "Winnebago County / elevation 745 ft band", "Winnebago County / ZIP 54902 sector", "Winnebago County / primary ZIP 54985"]
+zillowHomeValueUsd: 222239
 ---
 
 **Engineering Notice for Oshkosh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.

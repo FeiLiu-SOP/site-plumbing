@@ -12,6 +12,7 @@ lng: -76.8100
 zipSample: ["21136", "21117"]
 zipCodes: ["21117", "21136"]
 localPaths: ["Baltimore County / ZIP 21136 sector", "Baltimore County / ZIP 21117 sector", "Baltimore County / elevation 705 ft band", "Baltimore County / primary ZIP 21117", "Baltimore County / coords 39.4500, -76.8100"]
+zillowHomeValueUsd: 386421
 ---
 
 **Engineering Notice for Reisterstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

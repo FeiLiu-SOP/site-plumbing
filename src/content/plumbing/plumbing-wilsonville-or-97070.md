@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["97070"]
 zipCodes: ["97070"]
 localPaths: ["Clackamas County / ZIP 97070 sector", "Clackamas County / elevation 180 ft band", "Clackamas County / primary ZIP 97070", "Clackamas County / coords 45.3100, -122.7700"]
+zillowHomeValueUsd: 633751
 ---
 
 **Engineering Notice for Wilsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.

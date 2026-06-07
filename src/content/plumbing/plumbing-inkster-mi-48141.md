@@ -12,6 +12,7 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48141", "Wayne County / coords 42.2900, -83.3100", "Wayne County / ZIP 48141 sector"]
+zillowHomeValueUsd: 108033
 ---
 
 **Engineering Notice for Inkster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

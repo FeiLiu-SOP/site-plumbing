@@ -12,6 +12,7 @@ lng: -73.3000
 zipSample: ["11795"]
 zipCodes: ["11795"]
 localPaths: ["Suffolk County / ZIP 11795 sector", "Suffolk County / elevation 23 ft band", "Suffolk County / coords 40.7000, -73.3000", "Suffolk County / primary ZIP 11795"]
+zillowHomeValueUsd: 722400
 ---
 
 **Engineering Notice for West Islip:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

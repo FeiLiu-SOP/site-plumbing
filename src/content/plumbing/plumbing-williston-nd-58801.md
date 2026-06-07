@@ -12,6 +12,7 @@ lng: -103.6400
 zipSample: ["58801", "58802", "58803"]
 zipCodes: ["58801", "58802", "58803"]
 localPaths: ["Williams County / elevation 1903 ft band", "Williams County / ZIP 58803 sector", "Williams County / coords 48.1800, -103.6400", "Williams County / ZIP 58801 sector", "Williams County / ZIP 58802 sector"]
+zillowHomeValueUsd: 364353
 ---
 
 **Engineering Notice for Williston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williams County.

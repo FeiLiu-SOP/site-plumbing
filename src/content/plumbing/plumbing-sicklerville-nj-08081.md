@@ -12,6 +12,7 @@ lng: -74.9900
 zipSample: ["08081"]
 zipCodes: ["08081"]
 localPaths: ["Camden County / elevation 174 ft band", "Camden County / ZIP 08081 sector", "Camden County / coords 39.7500, -74.9900", "Camden County / primary ZIP 08081"]
+zillowHomeValueUsd: 377890
 ---
 
 **Engineering Notice for Sicklerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.

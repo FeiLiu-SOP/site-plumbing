@@ -12,6 +12,7 @@ lng: -92.4200
 zipSample: ["52501"]
 zipCodes: ["52501"]
 localPaths: ["Wapello County / ZIP 52501 sector", "Wapello County / elevation 636 ft band", "Wapello County / primary ZIP 52501", "Wapello County / coords 41.0200, -92.4200"]
+zillowHomeValueUsd: 121526
 ---
 
 **Engineering Notice for Ottumwa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wapello County.

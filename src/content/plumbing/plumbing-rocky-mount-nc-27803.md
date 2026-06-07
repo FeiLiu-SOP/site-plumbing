@@ -12,6 +12,7 @@ lng: -77.8000
 zipSample: ["27801", "27803", "27804"]
 zipCodes: ["27804", "27803", "27801"]
 localPaths: ["Nash County / ZIP 27804 sector", "Nash County / ZIP 27801 sector", "Nash County / primary ZIP 27803", "Nash County / coords 35.9700, -77.8000", "Nash County / ZIP 27803 sector"]
+zillowHomeValueUsd: 206755
 ---
 
 **Engineering Notice for Rocky Mount:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nash County.

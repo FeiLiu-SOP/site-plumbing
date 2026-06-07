@@ -12,6 +12,7 @@ lng: -94.9800
 zipSample: ["74464", "74465"]
 zipCodes: ["74465", "74464"]
 localPaths: ["Cherokee County / ZIP 74464 sector", "Cherokee County / elevation 830 ft band", "Cherokee County / coords 35.9100, -94.9800", "Cherokee County / primary ZIP 74464", "Cherokee County / ZIP 74465 sector"]
+zillowHomeValueUsd: 195836
 ---
 
 **Engineering Notice for Tahlequah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.

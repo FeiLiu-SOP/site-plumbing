@@ -12,6 +12,8 @@ lng: -66.4000
 zipSample: ["00693"]
 zipCodes: ["00693"]
 localPaths: ["Vega Baja County / coords 18.4400, -66.4000", "Vega Baja County / elevation 243 ft band", "Vega Baja County / ZIP 00693 sector", "Vega Baja County / primary ZIP 00693"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 362385
 ---
 
 **Engineering Notice for Vega Baja:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vega Baja County.

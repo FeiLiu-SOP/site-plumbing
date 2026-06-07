@@ -12,6 +12,7 @@ lng: -81.5800
 zipSample: ["29379"]
 zipCodes: ["29379"]
 localPaths: ["Union County / elevation 525 ft band", "Union County / coords 34.7200, -81.5800", "Union County / primary ZIP 29379", "Union County / ZIP 29379 sector"]
+zillowHomeValueUsd: 135002
 ---
 
 **Engineering Notice for Monarch Mill:** Envelope check: Exterior Cladding assigned to wind-load band B with stress factor 1.09. Regional dispatch grid: Union County.

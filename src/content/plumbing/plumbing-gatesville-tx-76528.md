@@ -12,6 +12,7 @@ lng: -97.7300
 zipSample: ["76596", "76598", "76528", "76599", "76597"]
 zipCodes: ["76528", "76597", "76599", "76596", "76598"]
 localPaths: ["Coryell County / ZIP 76596 sector", "Coryell County / ZIP 76528 sector", "Coryell County / coords 31.4400, -97.7300", "Coryell County / ZIP 76599 sector", "Coryell County / ZIP 76598 sector"]
+zillowHomeValueUsd: 243063
 ---
 
 **Engineering Notice for Gatesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coryell County.

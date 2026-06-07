@@ -12,6 +12,7 @@ lng: -157.7400
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / elevation 23 ft band", "Honolulu County / coords 21.3900, -157.7400", "Honolulu County / ZIP 96734 sector", "Honolulu County / primary ZIP 96734"]
+zillowHomeValueUsd: 1523568
 ---
 
 **Engineering Notice for Kailua:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

@@ -12,6 +12,7 @@ lng: -111.4200
 zipSample: ["85132"]
 zipCodes: ["85132"]
 localPaths: ["Pinal County / elevation 1526 ft band", "Pinal County / primary ZIP 85132", "Pinal County / coords 33.0600, -111.4200", "Pinal County / ZIP 85132 sector"]
+zillowHomeValueUsd: 334116
 ---
 
 **Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.

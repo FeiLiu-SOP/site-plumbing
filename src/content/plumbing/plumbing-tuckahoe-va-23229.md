@@ -12,6 +12,7 @@ lng: -77.5900
 zipSample: ["23238", "23255", "23288", "23229"]
 zipCodes: ["23288", "23229", "23255", "23238"]
 localPaths: ["Henrico County / ZIP 23229 sector", "Henrico County / ZIP 23288 sector", "Henrico County / coords 37.5900, -77.5900", "Henrico County / ZIP 23238 sector", "Henrico County / elevation 262 ft band"]
+zillowHomeValueUsd: 514442
 ---
 
 **Engineering Notice for Tuckahoe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.

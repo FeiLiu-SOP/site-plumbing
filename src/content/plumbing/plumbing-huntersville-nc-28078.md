@@ -12,6 +12,7 @@ lng: -80.8700
 zipSample: ["28070", "28078"]
 zipCodes: ["28070", "28078"]
 localPaths: ["Mecklenburg County / primary ZIP 28078", "Mecklenburg County / ZIP 28078 sector", "Mecklenburg County / ZIP 28070 sector", "Mecklenburg County / coords 35.4100, -80.8700", "Mecklenburg County / elevation 696 ft band"]
+zillowHomeValueUsd: 541660
 ---
 
 **Engineering Notice for Huntersville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.

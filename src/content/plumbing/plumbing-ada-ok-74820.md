@@ -12,6 +12,7 @@ lng: -96.6700
 zipSample: ["74821", "74820"]
 zipCodes: ["74821", "74820"]
 localPaths: ["Pontotoc County / elevation 1010 ft band", "Pontotoc County / ZIP 74820 sector", "Pontotoc County / primary ZIP 74820", "Pontotoc County / ZIP 74821 sector", "Pontotoc County / coords 34.7700, -96.6700"]
+zillowHomeValueUsd: 184092
 ---
 
 **Engineering Notice for Ada:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pontotoc County.

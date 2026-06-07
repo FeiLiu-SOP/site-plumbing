@@ -12,6 +12,7 @@ lng: -158.0100
 zipSample: ["96797"]
 zipCodes: ["96797"]
 localPaths: ["Honolulu County / coords 21.3900, -158.0100", "Honolulu County / ZIP 96797 sector", "Honolulu County / primary ZIP 96797", "Honolulu County / elevation 43 ft band"]
+zillowHomeValueUsd: 869119
 ---
 
 **Engineering Notice for Waipahu:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

@@ -12,6 +12,7 @@ lng: -84.2700
 zipSample: ["45342", "45343"]
 zipCodes: ["45343", "45342"]
 localPaths: ["Montgomery County / elevation 843 ft band", "Montgomery County / ZIP 45342 sector", "Montgomery County / ZIP 45343 sector", "Montgomery County / primary ZIP 45342", "Montgomery County / coords 39.6300, -84.2700"]
+zillowHomeValueUsd: 259690
 ---
 
 **Engineering Notice for Miamisburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

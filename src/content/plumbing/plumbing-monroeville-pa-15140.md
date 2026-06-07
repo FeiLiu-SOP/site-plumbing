@@ -12,6 +12,7 @@ lng: -79.7600
 zipSample: ["15140", "15146"]
 zipCodes: ["15140", "15146"]
 localPaths: ["Allegheny County / ZIP 15140 sector", "Allegheny County / coords 40.4300, -79.7600", "Allegheny County / elevation 1184 ft band", "Allegheny County / primary ZIP 15140", "Allegheny County / ZIP 15146 sector"]
+zillowHomeValueUsd: 88167
 ---
 
 **Engineering Notice for Monroeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

@@ -12,6 +12,7 @@ lng: -86.7400
 zipSample: ["35223", "35213", "35297", "35253", "35243"]
 zipCodes: ["35243", "35297", "35223", "35253", "35213"]
 localPaths: ["Jefferson County / elevation 971 ft band", "Jefferson County / coords 33.4900, -86.7400", "Jefferson County / ZIP 35223 sector", "Jefferson County / ZIP 35243 sector", "Jefferson County / ZIP 35297 sector"]
+zillowHomeValueUsd: 853340
 ---
 
 **Engineering Notice for Mountain Brook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

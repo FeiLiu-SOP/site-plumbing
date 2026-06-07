@@ -12,6 +12,7 @@ lng: -103.1600
 zipSample: ["88244", "88240"]
 zipCodes: ["88240", "88244"]
 localPaths: ["Lea County / elevation 3648 ft band", "Lea County / ZIP 88240 sector", "Lea County / coords 32.7300, -103.1600", "Lea County / ZIP 88244 sector", "Lea County / primary ZIP 88240"]
+zillowHomeValueUsd: 191248
 ---
 
 **Engineering Notice for Hobbs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lea County.

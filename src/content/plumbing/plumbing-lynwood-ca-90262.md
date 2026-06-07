@@ -12,6 +12,7 @@ lng: -118.2000
 zipSample: ["90262"]
 zipCodes: ["90262"]
 localPaths: ["Los Angeles County / ZIP 90262 sector", "Los Angeles County / primary ZIP 90262", "Los Angeles County / coords 33.9200, -118.2000", "Los Angeles County / elevation 98 ft band"]
+zillowHomeValueUsd: 688944
 ---
 
 **Engineering Notice for Lynwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -91.3800
 zipSample: ["62305", "62301"]
 zipCodes: ["62305", "62301"]
 localPaths: ["Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / primary ZIP 62305", "Adams County / coords 39.9300, -91.3800", "Adams County / ZIP 62301 sector"]
+zillowHomeValueUsd: 253385
 ---
 
 **Engineering Notice for Quincy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

@@ -12,6 +12,7 @@ lng: -74.6700
 zipSample: ["08540", "08542", "08541", "08544"]
 zipCodes: ["08541", "08542", "08540", "08544"]
 localPaths: ["Mercer County / ZIP 08540 sector", "Mercer County / ZIP 08542 sector", "Mercer County / primary ZIP 08544", "Mercer County / ZIP 08541 sector", "Mercer County / coords 40.3600, -74.6700"]
+zillowHomeValueUsd: 969741
 ---
 
 **Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mercer County.

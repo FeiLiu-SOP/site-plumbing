@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["53150"]
 zipCodes: ["53150"]
 localPaths: ["Waukesha County / primary ZIP 53150", "Waukesha County / coords 42.8900, -88.1300", "Waukesha County / ZIP 53150 sector", "Waukesha County / elevation 774 ft band"]
+zillowHomeValueUsd: 514591
 ---
 
 **Engineering Notice for Muskego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waukesha County.

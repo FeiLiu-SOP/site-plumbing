@@ -12,6 +12,7 @@ lng: -90.5100
 zipSample: ["72450", "72451"]
 zipCodes: ["72450", "72451"]
 localPaths: ["Greene County / ZIP 72451 sector", "Greene County / elevation 292 ft band", "Greene County / ZIP 72450 sector", "Greene County / primary ZIP 72450", "Greene County / coords 36.0600, -90.5100"]
+zillowHomeValueUsd: 190878
 ---
 
 **Engineering Notice for Paragould:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.

@@ -12,6 +12,8 @@ lng: -97.7800
 zipSample: ["76544"]
 zipCodes: ["76544"]
 localPaths: ["Coryell County / coords 31.1400, -97.7800", "Coryell County / primary ZIP 76544", "Coryell County / ZIP 76544 sector", "Coryell County / elevation 925 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 287535
 ---
 
 **Engineering Notice for Fort Hood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coryell County.

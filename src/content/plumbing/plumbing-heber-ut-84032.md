@@ -12,6 +12,7 @@ lng: -111.4000
 zipSample: ["84032"]
 zipCodes: ["84032"]
 localPaths: ["Wasatch County / ZIP 84032 sector", "Wasatch County / coords 40.5100, -111.4000", "Wasatch County / elevation 5669 ft band", "Wasatch County / primary ZIP 84032"]
+zillowHomeValueUsd: 849848
 ---
 
 **Engineering Notice for Heber:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wasatch County.

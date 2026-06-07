@@ -12,6 +12,7 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band", "Ford County / ZIP 67801 sector", "Ford County / primary ZIP 67801"]
+zillowHomeValueUsd: 209891
 ---
 
 **Engineering Notice for Dodge City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ford County.

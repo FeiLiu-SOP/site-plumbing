@@ -12,6 +12,7 @@ lng: -94.3500
 zipSample: ["75672", "75670"]
 zipCodes: ["75670", "75672"]
 localPaths: ["Harrison County / ZIP 75672 sector", "Harrison County / elevation 354 ft band", "Harrison County / ZIP 75670 sector", "Harrison County / primary ZIP 75672", "Harrison County / coords 32.5400, -94.3500"]
+zillowHomeValueUsd: 209924
 ---
 
 **Engineering Notice for Marshall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.

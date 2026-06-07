@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["60491"]
 zipCodes: ["60491"]
 localPaths: ["Will County / ZIP 60491 sector", "Will County / coords 41.6000, -87.9500", "Will County / elevation 764 ft band", "Will County / primary ZIP 60491"]
+zillowHomeValueUsd: 501819
 ---
 
 **Engineering Notice for Homer Glen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

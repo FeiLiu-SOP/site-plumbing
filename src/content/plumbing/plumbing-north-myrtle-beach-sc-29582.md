@@ -12,6 +12,7 @@ lng: -78.7100
 zipSample: ["29568", "29597", "29566", "29582"]
 zipCodes: ["29582", "29568", "29597", "29566"]
 localPaths: ["Horry County / coords 33.8200, -78.7100", "Horry County / elevation 7 ft band", "Horry County / ZIP 29597 sector", "Horry County / ZIP 29566 sector", "Horry County / ZIP 29582 sector"]
+zillowHomeValueUsd: 393256
 ---
 
 **Engineering Notice for North Myrtle Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.

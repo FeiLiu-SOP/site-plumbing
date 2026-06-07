@@ -12,6 +12,7 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / ZIP 84655 sector", "Utah County / elevation 4997 ft band", "Utah County / primary ZIP 84655", "Utah County / coords 39.9700, -111.7900"]
+zillowHomeValueUsd: 500606
 ---
 
 **Engineering Notice for Santaquin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

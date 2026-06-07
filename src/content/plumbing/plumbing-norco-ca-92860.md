@@ -12,6 +12,7 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / ZIP 92860 sector", "Riverside County / primary ZIP 92860", "Riverside County / elevation 643 ft band", "Riverside County / coords 33.9300, -117.5500"]
+zillowHomeValueUsd: 917455
 ---
 
 **Engineering Notice for Norco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

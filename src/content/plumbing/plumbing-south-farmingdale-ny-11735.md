@@ -12,6 +12,7 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / elevation 52 ft band", "Nassau County / coords 40.7200, -73.4500", "Nassau County / primary ZIP 11735", "Nassau County / ZIP 11735 sector"]
+zillowHomeValueUsd: 716946
 ---
 
 **Engineering Notice for South Farmingdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

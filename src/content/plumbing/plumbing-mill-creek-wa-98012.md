@@ -12,6 +12,7 @@ lng: -122.2000
 zipSample: ["98082", "98012"]
 zipCodes: ["98012", "98082"]
 localPaths: ["Snohomish County / coords 47.8600, -122.2000", "Snohomish County / ZIP 98012 sector", "Snohomish County / elevation 433 ft band", "Snohomish County / ZIP 98082 sector", "Snohomish County / primary ZIP 98012"]
+zillowHomeValueUsd: 999083
 ---
 
 **Engineering Notice for Mill Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

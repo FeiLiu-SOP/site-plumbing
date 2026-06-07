@@ -12,6 +12,7 @@ lng: -98.9800
 zipSample: ["76803", "76802", "76801"]
 zipCodes: ["76802", "76803", "76801"]
 localPaths: ["Brown County / coords 31.7100, -98.9800", "Brown County / elevation 1358 ft band", "Brown County / ZIP 76802 sector", "Brown County / ZIP 76801 sector", "Brown County / ZIP 76803 sector"]
+zillowHomeValueUsd: 168901
 ---
 
 **Engineering Notice for Brownwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.

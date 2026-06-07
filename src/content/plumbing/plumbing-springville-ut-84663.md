@@ -12,6 +12,7 @@ lng: -111.6200
 zipSample: ["84663"]
 zipCodes: ["84663"]
 localPaths: ["Utah County / elevation 4554 ft band", "Utah County / primary ZIP 84663", "Utah County / ZIP 84663 sector", "Utah County / coords 40.1600, -111.6200"]
+zillowHomeValueUsd: 509292
 ---
 
 **Engineering Notice for Springville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

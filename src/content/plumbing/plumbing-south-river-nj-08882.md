@@ -12,6 +12,7 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / primary ZIP 08882", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / elevation 23 ft band", "Middlesex County / ZIP 08882 sector"]
+zillowHomeValueUsd: 528580
 ---
 
 **Engineering Notice for South River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / primary ZIP 80516", "Weld County / coords 40.0400, -105.0400", "Weld County / elevation 5056 ft band", "Weld County / ZIP 80516 sector"]
+zillowHomeValueUsd: 714119
 ---
 
 **Engineering Notice for Erie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.

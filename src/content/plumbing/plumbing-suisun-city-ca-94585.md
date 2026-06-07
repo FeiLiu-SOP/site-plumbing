@@ -12,6 +12,7 @@ lng: -122.0100
 zipSample: ["94585"]
 zipCodes: ["94585"]
 localPaths: ["Solano County / elevation 13 ft band", "Solano County / coords 38.2500, -122.0100", "Solano County / ZIP 94585 sector", "Solano County / primary ZIP 94585"]
+zillowHomeValueUsd: 531668
 ---
 
 **Engineering Notice for Suisun City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.

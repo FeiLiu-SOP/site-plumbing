@@ -12,6 +12,7 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27510", "27516"]
 localPaths: ["Orange County / elevation 525 ft band", "Orange County / ZIP 27510 sector", "Orange County / coords 35.9300, -79.0900", "Orange County / primary ZIP 27516", "Orange County / ZIP 27516 sector"]
+zillowHomeValueUsd: 604906
 ---
 
 **Engineering Notice for Carrboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

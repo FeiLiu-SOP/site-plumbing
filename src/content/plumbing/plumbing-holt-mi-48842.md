@@ -12,6 +12,7 @@ lng: -84.5300
 zipSample: ["48842", "48911"]
 zipCodes: ["48842", "48911"]
 localPaths: ["Ingham County / ZIP 48842 sector", "Ingham County / primary ZIP 48842", "Ingham County / coords 42.6400, -84.5300", "Ingham County / ZIP 48911 sector", "Ingham County / elevation 896 ft band"]
+zillowHomeValueUsd: 270390
 ---
 
 **Engineering Notice for Holt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.

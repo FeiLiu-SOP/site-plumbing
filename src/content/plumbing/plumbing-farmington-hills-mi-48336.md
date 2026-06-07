@@ -12,6 +12,7 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48335", "48334", "48336", "48331"]
 localPaths: ["Oakland County / ZIP 48331 sector", "Oakland County / ZIP 48336 sector", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48334 sector", "Oakland County / ZIP 48335 sector"]
+zillowHomeValueUsd: 300823
 ---
 
 **Engineering Notice for Farmington Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

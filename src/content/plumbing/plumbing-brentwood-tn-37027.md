@@ -12,6 +12,7 @@ lng: -86.7800
 zipSample: ["37027", "37024"]
 zipCodes: ["37024", "37027"]
 localPaths: ["Williamson County / coords 35.9900, -86.7800", "Williamson County / elevation 735 ft band", "Williamson County / ZIP 37024 sector", "Williamson County / ZIP 37027 sector", "Williamson County / primary ZIP 37027"]
+zillowHomeValueUsd: 1222867
 ---
 
 **Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.

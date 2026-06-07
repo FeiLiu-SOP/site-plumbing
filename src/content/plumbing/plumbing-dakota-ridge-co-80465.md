@@ -12,6 +12,7 @@ lng: -105.1300
 zipSample: ["80127", "80235", "80465"]
 zipCodes: ["80235", "80127", "80465"]
 localPaths: ["Jefferson County / ZIP 80235 sector", "Jefferson County / coords 39.6200, -105.1300", "Jefferson County / ZIP 80465 sector", "Jefferson County / ZIP 80127 sector", "Jefferson County / primary ZIP 80465"]
+zillowHomeValueUsd: 723825
 ---
 
 **Engineering Notice for Dakota Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

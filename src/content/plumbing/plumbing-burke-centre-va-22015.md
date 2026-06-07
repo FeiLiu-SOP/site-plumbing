@@ -12,6 +12,7 @@ lng: -77.3000
 zipSample: ["22015"]
 zipCodes: ["22015"]
 localPaths: ["Fairfax County / elevation 384 ft band", "Fairfax County / primary ZIP 22015", "Fairfax County / ZIP 22015 sector", "Fairfax County / coords 38.7900, -77.3000"]
+zillowHomeValueUsd: 733858
 ---
 
 **Engineering Notice for Burke Centre:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

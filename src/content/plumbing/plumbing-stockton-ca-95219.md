@@ -12,6 +12,7 @@ lng: -121.3100
 zipSample: ["95201", "95210", "95207", "95297", "95269"]
 zipCodes: ["95219", "95210", "95296", "95203", "95267", "95201", "95211", "95212", "95207", "95206", "95202", "95205"]
 localPaths: ["San Joaquin County / ZIP 95207 sector", "San Joaquin County / primary ZIP 95219", "San Joaquin County / ZIP 95201 sector", "San Joaquin County / coords 37.9800, -121.3100", "San Joaquin County / ZIP 95210 sector"]
+zillowHomeValueUsd: 555828
 ---
 
 **Engineering Notice for Stockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.

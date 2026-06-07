@@ -12,6 +12,7 @@ lng: -114.5700
 zipSample: ["86426", "86427"]
 zipCodes: ["86426", "86427"]
 localPaths: ["Mohave County / elevation 627 ft band", "Mohave County / coords 35.0000, -114.5700", "Mohave County / ZIP 86426 sector", "Mohave County / primary ZIP 86426", "Mohave County / ZIP 86427 sector"]
+zillowHomeValueUsd: 332455
 ---
 
 **Engineering Notice for Fort Mohave:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.

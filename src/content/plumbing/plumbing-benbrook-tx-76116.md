@@ -12,6 +12,7 @@ lng: -97.4600
 zipSample: ["76126", "76116"]
 zipCodes: ["76126", "76116"]
 localPaths: ["Tarrant County / primary ZIP 76116", "Tarrant County / ZIP 76116 sector", "Tarrant County / ZIP 76126 sector", "Tarrant County / coords 32.6800, -97.4600", "Tarrant County / elevation 725 ft band"]
+zillowHomeValueUsd: 295781
 ---
 
 **Engineering Notice for Benbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

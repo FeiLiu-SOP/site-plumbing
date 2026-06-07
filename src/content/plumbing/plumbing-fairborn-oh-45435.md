@@ -12,6 +12,7 @@ lng: -84.0100
 zipSample: ["45324", "45435"]
 zipCodes: ["45324", "45435"]
 localPaths: ["Greene County / elevation 863 ft band", "Greene County / ZIP 45435 sector", "Greene County / primary ZIP 45435", "Greene County / ZIP 45324 sector", "Greene County / coords 39.8000, -84.0100"]
+zillowHomeValueUsd: 202760
 ---
 
 **Engineering Notice for Fairborn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.

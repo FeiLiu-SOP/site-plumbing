@@ -12,6 +12,7 @@ lng: -86.4100
 zipSample: ["37131", "37129", "37133", "37132", "37127"]
 zipCodes: ["37129", "37132", "37128", "37127", "37133", "37131", "37130"]
 localPaths: ["Rutherford County / ZIP 37129 sector", "Rutherford County / primary ZIP 37132", "Rutherford County / elevation 574 ft band", "Rutherford County / ZIP 37127 sector", "Rutherford County / ZIP 37132 sector"]
+zillowHomeValueUsd: 443871
 ---
 
 **Engineering Notice for Murfreesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutherford County.

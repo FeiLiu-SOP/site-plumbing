@@ -12,6 +12,7 @@ lng: -88.2600
 zipSample: ["54130"]
 zipCodes: ["54130"]
 localPaths: ["Outagamie County / coords 44.2800, -88.2600", "Outagamie County / primary ZIP 54130", "Outagamie County / ZIP 54130 sector", "Outagamie County / elevation 636 ft band"]
+zillowHomeValueUsd: 335250
 ---
 
 **Engineering Notice for Kaukauna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Outagamie County.

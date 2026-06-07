@@ -12,6 +12,7 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band", "Knox County / primary ZIP 37934", "Knox County / ZIP 37934 sector"]
+zillowHomeValueUsd: 648246
 ---
 
 **Engineering Notice for Farragut:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.

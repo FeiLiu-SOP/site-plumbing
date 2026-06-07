@@ -12,6 +12,7 @@ lng: -119.1900
 zipSample: ["89408", "89406", "89429"]
 zipCodes: ["89408", "89429", "89406"]
 localPaths: ["Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / ZIP 89408 sector", "Lyon County / ZIP 89429 sector", "Lyon County / coords 39.5600, -119.1900"]
+zillowHomeValueUsd: 396016
 ---
 
 **Engineering Notice for Fernley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.

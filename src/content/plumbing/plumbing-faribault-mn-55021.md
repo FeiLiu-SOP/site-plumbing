@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["55021"]
 zipCodes: ["55021"]
 localPaths: ["Rice County / ZIP 55021 sector", "Rice County / coords 44.3000, -93.2800", "Rice County / primary ZIP 55021", "Rice County / elevation 981 ft band"]
+zillowHomeValueUsd: 296089
 ---
 
 **Engineering Notice for Faribault:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rice County.

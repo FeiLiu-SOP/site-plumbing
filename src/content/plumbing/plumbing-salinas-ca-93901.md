@@ -12,6 +12,7 @@ lng: -121.6300
 zipSample: ["93905", "93902", "93901", "93906", "93915"]
 zipCodes: ["93902", "93915", "93906", "93901", "93905"]
 localPaths: ["Monterey County / ZIP 93905 sector", "Monterey County / ZIP 93902 sector", "Monterey County / ZIP 93901 sector", "Monterey County / ZIP 93915 sector", "Monterey County / coords 36.6900, -121.6300"]
+zillowHomeValueUsd: 774157
 ---
 
 **Engineering Notice for Salinas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.

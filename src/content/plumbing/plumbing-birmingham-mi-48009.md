@@ -12,6 +12,7 @@ lng: -83.2200
 zipSample: ["48012", "48009"]
 zipCodes: ["48012", "48009"]
 localPaths: ["Oakland County / primary ZIP 48009", "Oakland County / ZIP 48009 sector", "Oakland County / ZIP 48012 sector", "Oakland County / coords 42.5400, -83.2200", "Oakland County / elevation 787 ft band"]
+zillowHomeValueUsd: 732302
 ---
 
 **Engineering Notice for Birmingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

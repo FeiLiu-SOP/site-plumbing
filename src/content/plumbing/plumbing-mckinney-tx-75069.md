@@ -12,6 +12,7 @@ lng: -96.6700
 zipSample: ["75072", "75069", "75070", "75071"]
 zipCodes: ["75071", "75072", "75069", "75070"]
 localPaths: ["Collin County / ZIP 75071 sector", "Collin County / ZIP 75069 sector", "Collin County / coords 33.2000, -96.6700", "Collin County / ZIP 75070 sector", "Collin County / elevation 604 ft band"]
+zillowHomeValueUsd: 418041
 ---
 
 **Engineering Notice for McKinney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

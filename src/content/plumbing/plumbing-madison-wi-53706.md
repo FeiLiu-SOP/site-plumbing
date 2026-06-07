@@ -12,6 +12,7 @@ lng: -89.3900
 zipSample: ["53785", "53701", "53716", "53707", "53790"]
 zipCodes: ["53701", "53794", "53718", "53793", "53715", "53784", "53708", "53716", "53786", "53711", "53774", "53705"]
 localPaths: ["Dane County / coords 43.0800, -89.3900", "Dane County / ZIP 53785 sector", "Dane County / elevation 846 ft band", "Dane County / ZIP 53701 sector", "Dane County / primary ZIP 53706"]
+zillowHomeValueUsd: 505809
 ---
 
 **Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.

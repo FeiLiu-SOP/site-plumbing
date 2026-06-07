@@ -12,6 +12,7 @@ lng: -77.4000
 zipSample: ["20171", "22033"]
 zipCodes: ["20171", "22033"]
 localPaths: ["Fairfax County / coords 38.9100, -77.4000", "Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 20171 sector", "Fairfax County / ZIP 22033 sector", "Fairfax County / elevation 374 ft band"]
+zillowHomeValueUsd: 711141
 ---
 
 **Engineering Notice for Franklin Farm:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

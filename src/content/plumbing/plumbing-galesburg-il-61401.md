@@ -12,6 +12,7 @@ lng: -90.3800
 zipSample: ["61402", "61401"]
 zipCodes: ["61402", "61401"]
 localPaths: ["Knox County / elevation 774 ft band", "Knox County / coords 40.9500, -90.3800", "Knox County / ZIP 61402 sector", "Knox County / primary ZIP 61401", "Knox County / ZIP 61401 sector"]
+zillowHomeValueUsd: 99720
 ---
 
 **Engineering Notice for Galesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.

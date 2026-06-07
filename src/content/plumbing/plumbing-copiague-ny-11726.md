@@ -12,6 +12,7 @@ lng: -73.3900
 zipSample: ["11757", "11726", "11701"]
 zipCodes: ["11726", "11701", "11757"]
 localPaths: ["Suffolk County / ZIP 11701 sector", "Suffolk County / primary ZIP 11726", "Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11757 sector", "Suffolk County / elevation 20 ft band"]
+zillowHomeValueUsd: 568477
 ---
 
 **Engineering Notice for Copiague:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

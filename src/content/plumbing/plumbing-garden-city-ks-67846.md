@@ -12,6 +12,7 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / elevation 2841 ft band", "Finney County / primary ZIP 67846", "Finney County / coords 37.9800, -100.8500", "Finney County / ZIP 67846 sector"]
+zillowHomeValueUsd: 233473
 ---
 
 **Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Finney County.

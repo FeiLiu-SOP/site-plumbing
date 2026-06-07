@@ -12,6 +12,7 @@ lng: -78.7600
 zipSample: ["21504", "21505", "21503", "21502", "21501"]
 zipCodes: ["21502", "21505", "21501", "21504", "21503"]
 localPaths: ["Allegany County / coords 39.6500, -78.7600", "Allegany County / ZIP 21502 sector", "Allegany County / primary ZIP 21502", "Allegany County / ZIP 21503 sector", "Allegany County / ZIP 21501 sector"]
+zillowHomeValueUsd: 151224
 ---
 
 **Engineering Notice for Cumberland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegany County.

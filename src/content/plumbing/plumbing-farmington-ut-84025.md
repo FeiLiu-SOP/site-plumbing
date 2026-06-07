@@ -12,6 +12,7 @@ lng: -111.9100
 zipSample: ["84025"]
 zipCodes: ["84025"]
 localPaths: ["Davis County / ZIP 84025 sector", "Davis County / primary ZIP 84025", "Davis County / coords 40.9800, -111.9100", "Davis County / elevation 4249 ft band"]
+zillowHomeValueUsd: 692188
 ---
 
 **Engineering Notice for Farmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

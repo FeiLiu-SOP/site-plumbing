@@ -12,6 +12,7 @@ lng: -82.0500
 zipSample: ["33950", "33955"]
 zipCodes: ["33955", "33950"]
 localPaths: ["Charlotte County / coords 26.8900, -82.0500", "Charlotte County / ZIP 33950 sector", "Charlotte County / ZIP 33955 sector", "Charlotte County / primary ZIP 33955", "Charlotte County / elevation 13 ft band"]
+zillowHomeValueUsd: 330588
 ---
 
 **Engineering Notice for Punta Gorda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlotte County.

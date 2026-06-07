@@ -12,6 +12,7 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / primary ZIP 11704", "Suffolk County / elevation 39 ft band", "Suffolk County / ZIP 11704 sector", "Suffolk County / coords 40.7100, -73.3600"]
+zillowHomeValueUsd: 614811
 ---
 
 **Engineering Notice for West Babylon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

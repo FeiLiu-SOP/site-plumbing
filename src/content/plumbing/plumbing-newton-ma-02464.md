@@ -12,6 +12,7 @@ lng: -71.2100
 zipSample: ["02466", "02456", "02458", "02495", "02460"]
 zipCodes: ["02459", "02456", "02464", "02465", "02468", "02466", "02462", "02460", "02461", "02458", "02467", "02495"]
 localPaths: ["Middlesex County / ZIP 02456 sector", "Middlesex County / ZIP 02460 sector", "Middlesex County / elevation 125 ft band", "Middlesex County / ZIP 02458 sector", "Middlesex County / ZIP 02495 sector"]
+zillowHomeValueUsd: 959585
 ---
 
 **Engineering Notice for Newton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

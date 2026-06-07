@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector", "Nassau County / primary ZIP 11050", "Nassau County / elevation 187 ft band"]
+zillowHomeValueUsd: 1301412
 ---
 
 **Engineering Notice for Port Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

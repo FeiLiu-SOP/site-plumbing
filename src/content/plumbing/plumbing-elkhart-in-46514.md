@@ -12,6 +12,7 @@ lng: -85.9600
 zipSample: ["46517", "46515", "46516", "46514"]
 zipCodes: ["46514", "46516", "46515", "46517"]
 localPaths: ["Elkhart County / ZIP 46516 sector", "Elkhart County / ZIP 46515 sector", "Elkhart County / ZIP 46514 sector", "Elkhart County / coords 41.6900, -85.9600", "Elkhart County / elevation 751 ft band"]
+zillowHomeValueUsd: 243661
 ---
 
 **Engineering Notice for Elkhart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elkhart County.

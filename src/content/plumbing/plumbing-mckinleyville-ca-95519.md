@@ -12,6 +12,7 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / primary ZIP 95519", "Humboldt County / elevation 200 ft band"]
+zillowHomeValueUsd: 482885
 ---
 
 **Engineering Notice for McKinleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.

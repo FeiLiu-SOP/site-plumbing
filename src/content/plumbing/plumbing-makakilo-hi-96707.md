@@ -12,6 +12,7 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / elevation 705 ft band", "Honolulu County / coords 21.3600, -158.0800", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
+zillowHomeValueUsd: 860432
 ---
 
 **Engineering Notice for Makakilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

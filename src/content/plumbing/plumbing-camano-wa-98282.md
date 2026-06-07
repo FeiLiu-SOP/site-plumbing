@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["98282"]
 zipCodes: ["98282"]
 localPaths: ["Island County / primary ZIP 98282", "Island County / elevation 0 ft band", "Island County / coords 48.1900, -122.4700", "Island County / ZIP 98282 sector"]
+zillowHomeValueUsd: 728548
 ---
 
 **Engineering Notice for Camano:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Island County.

@@ -12,6 +12,7 @@ lng: -87.7700
 zipSample: ["60459"]
 zipCodes: ["60459"]
 localPaths: ["Cook County / ZIP 60459 sector", "Cook County / primary ZIP 60459", "Cook County / elevation 623 ft band", "Cook County / coords 41.7400, -87.7700"]
+zillowHomeValueUsd: 302223
 ---
 
 **Engineering Notice for Burbank:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

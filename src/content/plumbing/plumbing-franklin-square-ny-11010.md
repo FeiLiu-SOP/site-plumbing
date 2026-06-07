@@ -12,6 +12,7 @@ lng: -73.6800
 zipSample: ["11010"]
 zipCodes: ["11010"]
 localPaths: ["Nassau County / primary ZIP 11010", "Nassau County / coords 40.7000, -73.6800", "Nassau County / elevation 59 ft band", "Nassau County / ZIP 11010 sector"]
+zillowHomeValueUsd: 810371
 ---
 
 **Engineering Notice for Franklin Square:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

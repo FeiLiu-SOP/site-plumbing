@@ -12,6 +12,7 @@ lng: -85.7600
 zipSample: ["49468", "49418"]
 zipCodes: ["49468", "49418"]
 localPaths: ["Kent County / elevation 627 ft band", "Kent County / coords 42.9000, -85.7600", "Kent County / primary ZIP 49418", "Kent County / ZIP 49418 sector", "Kent County / ZIP 49468 sector"]
+zillowHomeValueUsd: 377153
 ---
 
 **Engineering Notice for Grandville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

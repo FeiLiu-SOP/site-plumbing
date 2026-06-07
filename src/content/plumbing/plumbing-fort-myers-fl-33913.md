@@ -12,6 +12,7 @@ lng: -81.8300
 zipSample: ["33994", "33905", "33907", "33966", "33901"]
 zipCodes: ["33994", "33905", "33916", "33902", "33966", "33907", "33913", "33901"]
 localPaths: ["Lee County / coords 26.6200, -81.8300", "Lee County / ZIP 33905 sector", "Lee County / ZIP 33994 sector", "Lee County / primary ZIP 33913", "Lee County / ZIP 33907 sector"]
+zillowHomeValueUsd: 444975
 ---
 
 **Engineering Notice for Fort Myers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.

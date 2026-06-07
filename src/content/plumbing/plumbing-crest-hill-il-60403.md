@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["60403", "60441"]
 zipCodes: ["60403", "60441"]
 localPaths: ["Will County / elevation 636 ft band", "Will County / primary ZIP 60403", "Will County / ZIP 60441 sector", "Will County / ZIP 60403 sector", "Will County / coords 41.5700, -88.1100"]
+zillowHomeValueUsd: 276281
 ---
 
 **Engineering Notice for Crest Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

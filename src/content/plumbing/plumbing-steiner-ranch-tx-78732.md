@@ -12,6 +12,7 @@ lng: -97.9000
 zipSample: ["78732"]
 zipCodes: ["78732"]
 localPaths: ["Travis County / coords 30.3700, -97.9000", "Travis County / elevation 784 ft band", "Travis County / primary ZIP 78732", "Travis County / ZIP 78732 sector"]
+zillowHomeValueUsd: 816668
 ---
 
 **Engineering Notice for Steiner Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.

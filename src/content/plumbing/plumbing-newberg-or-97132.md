@@ -12,6 +12,7 @@ lng: -122.9600
 zipSample: ["97132"]
 zipCodes: ["97132"]
 localPaths: ["Yamhill County / coords 45.3100, -122.9600", "Yamhill County / elevation 233 ft band", "Yamhill County / ZIP 97132 sector", "Yamhill County / primary ZIP 97132"]
+zillowHomeValueUsd: 533761
 ---
 
 **Engineering Notice for Newberg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yamhill County.

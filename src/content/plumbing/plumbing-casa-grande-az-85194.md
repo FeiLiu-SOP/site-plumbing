@@ -12,6 +12,7 @@ lng: -111.7600
 zipSample: ["85194", "85122", "85193", "85130"]
 zipCodes: ["85193", "85194", "85130", "85122"]
 localPaths: ["Pinal County / ZIP 85122 sector", "Pinal County / ZIP 85194 sector", "Pinal County / elevation 1371 ft band", "Pinal County / primary ZIP 85194", "Pinal County / coords 32.9100, -111.7600"]
+zillowHomeValueUsd: 362250
 ---
 
 **Engineering Notice for Casa Grande:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.

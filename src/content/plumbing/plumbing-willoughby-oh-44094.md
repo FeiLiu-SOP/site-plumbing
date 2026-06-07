@@ -12,6 +12,7 @@ lng: -81.4100
 zipSample: ["44094", "44096"]
 zipCodes: ["44096", "44094"]
 localPaths: ["Lake County / ZIP 44094 sector", "Lake County / elevation 640 ft band", "Lake County / ZIP 44096 sector", "Lake County / coords 41.6500, -81.4100", "Lake County / primary ZIP 44094"]
+zillowHomeValueUsd: 284658
 ---
 
 **Engineering Notice for Willoughby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

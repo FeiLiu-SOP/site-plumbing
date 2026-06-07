@@ -12,6 +12,7 @@ lng: -92.9200
 zipSample: ["55125", "55129"]
 zipCodes: ["55129", "55125"]
 localPaths: ["Washington County / ZIP 55125 sector", "Washington County / primary ZIP 55129", "Washington County / elevation 978 ft band", "Washington County / coords 44.9100, -92.9200", "Washington County / ZIP 55129 sector"]
+zillowHomeValueUsd: 533037
 ---
 
 **Engineering Notice for Woodbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -71.3600
 zipSample: ["02915", "02916", "02914"]
 zipCodes: ["02914", "02916", "02915"]
 localPaths: ["Providence County / elevation 92 ft band", "Providence County / ZIP 02915 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600", "Providence County / ZIP 02914 sector"]
+zillowHomeValueUsd: 437776
 ---
 
 **Engineering Notice for East Providence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.

@@ -12,6 +12,7 @@ lng: -73.4100
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / primary ZIP 11746", "Suffolk County / ZIP 11746 sector", "Suffolk County / elevation 184 ft band", "Suffolk County / coords 40.8400, -73.4100"]
+zillowHomeValueUsd: 771448
 ---
 
 **Engineering Notice for Huntington Station:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

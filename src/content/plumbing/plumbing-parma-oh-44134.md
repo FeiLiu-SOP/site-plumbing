@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["44134", "44130", "44129"]
 zipCodes: ["44134", "44129", "44130"]
 localPaths: ["Cuyahoga County / ZIP 44130 sector", "Cuyahoga County / coords 41.3800, -81.7300", "Cuyahoga County / ZIP 44134 sector", "Cuyahoga County / primary ZIP 44134", "Cuyahoga County / ZIP 44129 sector"]
+zillowHomeValueUsd: 205951
 ---
 
 **Engineering Notice for Parma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

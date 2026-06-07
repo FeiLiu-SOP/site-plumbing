@@ -12,6 +12,7 @@ lng: -77.3600
 zipSample: ["22030", "22035", "22033"]
 zipCodes: ["22035", "22033", "22030"]
 localPaths: ["Fairfax County / primary ZIP 22030", "Fairfax County / ZIP 22030 sector", "Fairfax County / elevation 420 ft band", "Fairfax County / coords 38.8700, -77.3600", "Fairfax County / ZIP 22035 sector"]
+zillowHomeValueUsd: 819619
 ---
 
 **Engineering Notice for Fair Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -111.6200
 zipSample: ["86011", "86001", "86002", "86005", "86004"]
 zipCodes: ["86005", "86002", "86001", "86004", "86011"]
 localPaths: ["Coconino County / ZIP 86005 sector", "Coconino County / ZIP 86011 sector", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86002 sector", "Coconino County / ZIP 86004 sector"]
+zillowHomeValueUsd: 666893
 ---
 
 **Engineering Notice for Flagstaff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coconino County.

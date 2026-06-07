@@ -12,6 +12,7 @@ lng: -81.5600
 zipSample: ["44118", "44112", "44121", "44106"]
 zipCodes: ["44112", "44106", "44121", "44118"]
 localPaths: ["Cuyahoga County / ZIP 44112 sector", "Cuyahoga County / ZIP 44106 sector", "Cuyahoga County / ZIP 44118 sector", "Cuyahoga County / elevation 928 ft band", "Cuyahoga County / ZIP 44121 sector"]
+zillowHomeValueUsd: 242246
 ---
 
 **Engineering Notice for Cleveland Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

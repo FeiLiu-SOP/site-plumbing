@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["24068", "24073"]
 zipCodes: ["24068", "24073"]
 localPaths: ["Montgomery County / ZIP 24068 sector", "Montgomery County / primary ZIP 24073", "Montgomery County / elevation 2067 ft band", "Montgomery County / coords 37.1400, -80.4000", "Montgomery County / ZIP 24073 sector"]
+zillowHomeValueUsd: 306043
 ---
 
 **Engineering Notice for Christiansburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

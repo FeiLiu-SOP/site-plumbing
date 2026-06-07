@@ -12,6 +12,7 @@ lng: -84.5200
 zipSample: ["30080", "30082", "30081", "30126"]
 zipCodes: ["30080", "30081", "30082", "30126"]
 localPaths: ["Cobb County / ZIP 30080 sector", "Cobb County / coords 33.8600, -84.5200", "Cobb County / primary ZIP 30126", "Cobb County / ZIP 30081 sector", "Cobb County / ZIP 30126 sector"]
+zillowHomeValueUsd: 372312
 ---
 
 **Engineering Notice for Smyrna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.

@@ -12,6 +12,7 @@ lng: -74.1600
 zipSample: ["07506"]
 zipCodes: ["07506"]
 localPaths: ["Passaic County / elevation 89 ft band", "Passaic County / primary ZIP 07506", "Passaic County / coords 40.9600, -74.1600", "Passaic County / ZIP 07506 sector"]
+zillowHomeValueUsd: 628605
 ---
 
 **Engineering Notice for Hawthorne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.

@@ -12,6 +12,7 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / ZIP 93245 sector", "Kings County / primary ZIP 93245", "Kings County / elevation 220 ft band", "Kings County / coords 36.2900, -119.8000"]
+zillowHomeValueUsd: 384341
 ---
 
 **Engineering Notice for Lemoore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.

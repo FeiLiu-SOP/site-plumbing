@@ -12,6 +12,7 @@ lng: -83.2700
 zipSample: ["48180"]
 zipCodes: ["48180"]
 localPaths: ["Wayne County / ZIP 48180 sector", "Wayne County / coords 42.2300, -83.2700", "Wayne County / elevation 617 ft band", "Wayne County / primary ZIP 48180"]
+zillowHomeValueUsd: 175766
 ---
 
 **Engineering Notice for Taylor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

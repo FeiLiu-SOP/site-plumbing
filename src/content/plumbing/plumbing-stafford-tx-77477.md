@@ -12,6 +12,7 @@ lng: -95.5700
 zipSample: ["77497", "77477"]
 zipCodes: ["77477", "77497"]
 localPaths: ["Fort Bend County / ZIP 77497 sector", "Fort Bend County / elevation 85 ft band", "Fort Bend County / coords 29.6300, -95.5700", "Fort Bend County / primary ZIP 77477", "Fort Bend County / ZIP 77477 sector"]
+zillowHomeValueUsd: 286679
 ---
 
 **Engineering Notice for Stafford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.

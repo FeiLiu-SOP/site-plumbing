@@ -12,6 +12,7 @@ lng: -77.3500
 zipSample: ["22193"]
 zipCodes: ["22193"]
 localPaths: ["Prince William County / ZIP 22193 sector", "Prince William County / coords 38.6500, -77.3500", "Prince William County / primary ZIP 22193", "Prince William County / elevation 262 ft band"]
+zillowHomeValueUsd: 508684
 ---
 
 **Engineering Notice for Dale City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

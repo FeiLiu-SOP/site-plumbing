@@ -12,6 +12,7 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / primary ZIP 48237", "Oakland County / ZIP 48237 sector", "Oakland County / coords 42.4600, -83.1800", "Oakland County / elevation 673 ft band"]
+zillowHomeValueUsd: 232995
 ---
 
 **Engineering Notice for Oak Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

@@ -12,6 +12,7 @@ lng: -118.0700
 zipSample: ["90703"]
 zipCodes: ["90703"]
 localPaths: ["Los Angeles County / primary ZIP 90703", "Los Angeles County / ZIP 90703 sector", "Los Angeles County / coords 33.8700, -118.0700", "Los Angeles County / elevation 66 ft band"]
+zillowHomeValueUsd: 1096363
 ---
 
 **Engineering Notice for Cerritos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

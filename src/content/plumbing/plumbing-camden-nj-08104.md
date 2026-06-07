@@ -12,6 +12,7 @@ lng: -75.1100
 zipSample: ["08102", "08104", "08101", "08103", "08105"]
 zipCodes: ["08105", "08104", "08102", "08103", "08101"]
 localPaths: ["Camden County / ZIP 08101 sector", "Camden County / ZIP 08102 sector", "Camden County / coords 39.9400, -75.1100", "Camden County / ZIP 08103 sector", "Camden County / ZIP 08105 sector"]
+zillowHomeValueUsd: 131214
 ---
 
 **Engineering Notice for Camden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.

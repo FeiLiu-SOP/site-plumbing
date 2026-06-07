@@ -12,6 +12,7 @@ lng: -88.0300
 zipSample: ["60008"]
 zipCodes: ["60008"]
 localPaths: ["Cook County / coords 42.0700, -88.0300", "Cook County / elevation 722 ft band", "Cook County / primary ZIP 60008", "Cook County / ZIP 60008 sector"]
+zillowHomeValueUsd: 330992
 ---
 
 **Engineering Notice for Rolling Meadows:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

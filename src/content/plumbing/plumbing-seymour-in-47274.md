@@ -12,6 +12,7 @@ lng: -85.8900
 zipSample: ["47274"]
 zipCodes: ["47274"]
 localPaths: ["Jackson County / ZIP 47274 sector", "Jackson County / coords 38.9500, -85.8900", "Jackson County / primary ZIP 47274", "Jackson County / elevation 584 ft band"]
+zillowHomeValueUsd: 232259
 ---
 
 **Engineering Notice for Seymour:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

@@ -12,6 +12,7 @@ lng: -97.2500
 zipSample: ["76148"]
 zipCodes: ["76148"]
 localPaths: ["Tarrant County / coords 32.8700, -97.2500", "Tarrant County / ZIP 76148 sector", "Tarrant County / primary ZIP 76148", "Tarrant County / elevation 666 ft band"]
+zillowHomeValueUsd: 272189
 ---
 
 **Engineering Notice for Watauga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

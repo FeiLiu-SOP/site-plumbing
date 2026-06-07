@@ -12,6 +12,7 @@ lng: -87.5300
 zipSample: ["35407", "35476", "35486", "35404", "35406"]
 zipCodes: ["35403", "35476", "35401", "35407", "35486", "35404", "35487", "35405", "35406", "35475"]
 localPaths: ["Tuscaloosa County / ZIP 35404 sector", "Tuscaloosa County / ZIP 35486 sector", "Tuscaloosa County / coords 33.2300, -87.5300", "Tuscaloosa County / elevation 253 ft band", "Tuscaloosa County / ZIP 35476 sector"]
+zillowHomeValueUsd: 299977
 ---
 
 **Engineering Notice for Tuscaloosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscaloosa County.

@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / ZIP 30030 sector", "DeKalb County / coords 33.8100, -84.2900", "DeKalb County / elevation 955 ft band", "DeKalb County / ZIP 30033 sector", "DeKalb County / primary ZIP 30030"]
+zillowHomeValueUsd: 639042
 ---
 
 **Engineering Notice for North Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.

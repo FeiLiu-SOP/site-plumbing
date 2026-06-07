@@ -12,6 +12,7 @@ lng: -80.1300
 zipSample: ["33441", "33064", "33442", "33443"]
 zipCodes: ["33443", "33442", "33064", "33441"]
 localPaths: ["Broward County / primary ZIP 33442", "Broward County / ZIP 33064 sector", "Broward County / ZIP 33442 sector", "Broward County / coords 26.3000, -80.1300", "Broward County / elevation 36 ft band"]
+zillowHomeValueUsd: 185207
 ---
 
 **Engineering Notice for Deerfield Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

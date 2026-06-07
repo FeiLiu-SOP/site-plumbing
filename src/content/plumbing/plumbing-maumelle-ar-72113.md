@@ -12,6 +12,7 @@ lng: -92.4000
 zipSample: ["72113"]
 zipCodes: ["72113"]
 localPaths: ["Pulaski County / primary ZIP 72113", "Pulaski County / elevation 299 ft band", "Pulaski County / ZIP 72113 sector", "Pulaski County / coords 34.8500, -92.4000"]
+zillowHomeValueUsd: 303760
 ---
 
 **Engineering Notice for Maumelle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.

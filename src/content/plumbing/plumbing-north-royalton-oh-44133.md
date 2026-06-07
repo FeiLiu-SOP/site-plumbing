@@ -12,6 +12,7 @@ lng: -81.7500
 zipSample: ["44133"]
 zipCodes: ["44133"]
 localPaths: ["Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / ZIP 44133 sector", "Cuyahoga County / primary ZIP 44133", "Cuyahoga County / coords 41.3100, -81.7500"]
+zillowHomeValueUsd: 335113
 ---
 
 **Engineering Notice for North Royalton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

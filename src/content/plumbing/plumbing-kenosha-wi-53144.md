@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["53144", "53142", "53140", "53143", "53141"]
 zipCodes: ["53143", "53144", "53141", "53140", "53142"]
 localPaths: ["Kenosha County / elevation 719 ft band", "Kenosha County / ZIP 53144 sector", "Kenosha County / ZIP 53143 sector", "Kenosha County / ZIP 53140 sector", "Kenosha County / ZIP 53141 sector"]
+zillowHomeValueUsd: 319752
 ---
 
 **Engineering Notice for Kenosha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenosha County.

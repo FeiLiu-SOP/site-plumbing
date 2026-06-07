@@ -12,6 +12,7 @@ lng: -90.5500
 zipSample: ["63021", "63011", "63024", "63022"]
 zipCodes: ["63022", "63021", "63011", "63024"]
 localPaths: ["St. Louis County / ZIP 63022 sector", "St. Louis County / coords 38.5900, -90.5500", "St. Louis County / ZIP 63021 sector", "St. Louis County / primary ZIP 63021", "St. Louis County / ZIP 63024 sector"]
+zillowHomeValueUsd: 386305
 ---
 
 **Engineering Notice for Ballwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

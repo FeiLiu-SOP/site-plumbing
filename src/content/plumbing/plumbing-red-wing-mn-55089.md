@@ -12,6 +12,7 @@ lng: -92.6000
 zipSample: ["55089", "55066"]
 zipCodes: ["55089", "55066"]
 localPaths: ["Goodhue County / elevation 686 ft band", "Goodhue County / ZIP 55089 sector", "Goodhue County / coords 44.5800, -92.6000", "Goodhue County / primary ZIP 55089", "Goodhue County / ZIP 55066 sector"]
+zillowHomeValueUsd: 486978
 ---
 
 **Engineering Notice for Red Wing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Goodhue County.

@@ -12,6 +12,7 @@ lng: -121.5600
 zipSample: ["95940", "95966", "95965"]
 zipCodes: ["95940", "95966", "95965"]
 localPaths: ["Butte County / coords 39.5000, -121.5600", "Butte County / primary ZIP 95965", "Butte County / ZIP 95965 sector", "Butte County / ZIP 95966 sector", "Butte County / ZIP 95940 sector"]
+zillowHomeValueUsd: 305133
 ---
 
 **Engineering Notice for Oroville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butte County.

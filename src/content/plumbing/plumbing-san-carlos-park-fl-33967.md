@@ -12,6 +12,7 @@ lng: -81.8200
 zipSample: ["33967"]
 zipCodes: ["33967"]
 localPaths: ["Lee County / coords 26.4800, -81.8200", "Lee County / primary ZIP 33967", "Lee County / elevation 33 ft band", "Lee County / ZIP 33967 sector"]
+zillowHomeValueUsd: 359360
 ---
 
 **Engineering Notice for San Carlos Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.

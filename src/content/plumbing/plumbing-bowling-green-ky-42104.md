@@ -12,6 +12,7 @@ lng: -86.4400
 zipSample: ["42104", "42101", "42103", "42102"]
 zipCodes: ["42101", "42104", "42102", "42103"]
 localPaths: ["Warren County / coords 36.9700, -86.4400", "Warren County / primary ZIP 42104", "Warren County / elevation 535 ft band", "Warren County / ZIP 42103 sector", "Warren County / ZIP 42101 sector"]
+zillowHomeValueUsd: 325787
 ---
 
 **Engineering Notice for Bowling Green:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

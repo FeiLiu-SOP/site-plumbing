@@ -12,6 +12,7 @@ lng: -81.9200
 zipSample: ["44070"]
 zipCodes: ["44070"]
 localPaths: ["Cuyahoga County / ZIP 44070 sector", "Cuyahoga County / coords 41.4100, -81.9200", "Cuyahoga County / elevation 768 ft band", "Cuyahoga County / primary ZIP 44070"]
+zillowHomeValueUsd: 270651
 ---
 
 **Engineering Notice for North Olmsted:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

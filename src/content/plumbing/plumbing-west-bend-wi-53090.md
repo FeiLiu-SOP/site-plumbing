@@ -12,6 +12,7 @@ lng: -88.1800
 zipSample: ["53090", "53095"]
 zipCodes: ["53095", "53090"]
 localPaths: ["Washington County / elevation 915 ft band", "Washington County / coords 43.4200, -88.1800", "Washington County / ZIP 53090 sector", "Washington County / ZIP 53095 sector", "Washington County / primary ZIP 53090"]
+zillowHomeValueUsd: 364842
 ---
 
 **Engineering Notice for West Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

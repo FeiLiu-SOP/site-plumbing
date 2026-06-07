@@ -12,6 +12,7 @@ lng: -86.8700
 zipSample: ["37172"]
 zipCodes: ["37172"]
 localPaths: ["Robertson County / elevation 728 ft band", "Robertson County / coords 36.4900, -86.8700", "Robertson County / primary ZIP 37172", "Robertson County / ZIP 37172 sector"]
+zillowHomeValueUsd: 336543
 ---
 
 **Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Robertson County.

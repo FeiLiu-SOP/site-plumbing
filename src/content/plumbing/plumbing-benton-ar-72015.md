@@ -12,6 +12,7 @@ lng: -92.5700
 zipSample: ["72019", "72015", "72158", "72018"]
 zipCodes: ["72015", "72158", "72018", "72019"]
 localPaths: ["Saline County / ZIP 72158 sector", "Saline County / ZIP 72019 sector", "Saline County / ZIP 72015 sector", "Saline County / elevation 509 ft band", "Saline County / coords 34.5800, -92.5700"]
+zillowHomeValueUsd: 205616
 ---
 
 **Engineering Notice for Benton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Saline County.

@@ -12,6 +12,7 @@ lng: -116.3900
 zipSample: ["83616", "83714"]
 zipCodes: ["83714", "83616"]
 localPaths: ["Ada County / coords 43.7200, -116.3900", "Ada County / primary ZIP 83616", "Ada County / ZIP 83616 sector", "Ada County / ZIP 83714 sector", "Ada County / elevation 2618 ft band"]
+zillowHomeValueUsd: 802510
 ---
 
 **Engineering Notice for Eagle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ada County.

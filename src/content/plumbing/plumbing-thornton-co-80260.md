@@ -12,6 +12,7 @@ lng: -104.9400
 zipSample: ["80602", "80233", "80260", "80229", "80640"]
 zipCodes: ["80260", "80023", "80614", "80229", "80233", "80640", "80241", "80602"]
 localPaths: ["Adams County / coords 39.9200, -104.9400", "Adams County / ZIP 80602 sector", "Adams County / ZIP 80640 sector", "Adams County / ZIP 80233 sector", "Adams County / primary ZIP 80260"]
+zillowHomeValueUsd: 403836
 ---
 
 **Engineering Notice for Thornton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

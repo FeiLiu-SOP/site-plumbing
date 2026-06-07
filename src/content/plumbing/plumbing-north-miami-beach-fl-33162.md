@@ -12,6 +12,7 @@ lng: -80.1700
 zipSample: ["33280", "33160", "33162"]
 zipCodes: ["33280", "33162", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / coords 25.9300, -80.1700", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33280 sector"]
+zillowHomeValueUsd: 463899
 ---
 
 **Engineering Notice for North Miami Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

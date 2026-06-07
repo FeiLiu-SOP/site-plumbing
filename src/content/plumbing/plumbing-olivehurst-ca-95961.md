@@ -12,6 +12,7 @@ lng: -121.5600
 zipSample: ["95961"]
 zipCodes: ["95961"]
 localPaths: ["Yuba County / primary ZIP 95961", "Yuba County / ZIP 95961 sector", "Yuba County / coords 39.0800, -121.5600", "Yuba County / elevation 56 ft band"]
+zillowHomeValueUsd: 448237
 ---
 
 **Engineering Notice for Olivehurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yuba County.

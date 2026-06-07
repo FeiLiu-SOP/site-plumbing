@@ -12,6 +12,7 @@ lng: -73.7100
 zipSample: ["12047"]
 zipCodes: ["12047"]
 localPaths: ["Albany County / elevation 236 ft band", "Albany County / primary ZIP 12047", "Albany County / coords 42.7700, -73.7100", "Albany County / ZIP 12047 sector"]
+zillowHomeValueUsd: 330513
 ---
 
 **Engineering Notice for Cohoes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Albany County.

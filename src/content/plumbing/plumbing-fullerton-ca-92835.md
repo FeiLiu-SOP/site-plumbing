@@ -12,6 +12,7 @@ lng: -117.9300
 zipSample: ["92834", "92836", "92831", "92832", "92833"]
 zipCodes: ["92838", "92834", "92832", "92837", "92836", "92835", "92833", "92831"]
 localPaths: ["Orange County / ZIP 92836 sector", "Orange County / ZIP 92832 sector", "Orange County / coords 33.8800, -117.9300", "Orange County / elevation 266 ft band", "Orange County / primary ZIP 92835"]
+zillowHomeValueUsd: 1317918
 ---
 
 **Engineering Notice for Fullerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

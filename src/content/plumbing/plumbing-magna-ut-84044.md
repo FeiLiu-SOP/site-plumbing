@@ -12,6 +12,7 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / elevation 4229 ft band", "Salt Lake County / primary ZIP 84044", "Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / ZIP 84044 sector"]
+zillowHomeValueUsd: 448977
 ---
 
 **Engineering Notice for Magna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

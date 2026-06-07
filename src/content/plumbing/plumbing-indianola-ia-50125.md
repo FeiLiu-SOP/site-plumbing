@@ -12,6 +12,7 @@ lng: -93.5700
 zipSample: ["50125"]
 zipCodes: ["50125"]
 localPaths: ["Warren County / elevation 958 ft band", "Warren County / ZIP 50125 sector", "Warren County / primary ZIP 50125", "Warren County / coords 41.3600, -93.5700"]
+zillowHomeValueUsd: 309555
 ---
 
 **Engineering Notice for Indianola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

@@ -12,6 +12,7 @@ lng: -84.5900
 zipSample: ["41017", "41051", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / elevation 879 ft band", "Kenton County / coords 39.0100, -84.5900", "Kenton County / ZIP 41051 sector", "Kenton County / primary ZIP 41018", "Kenton County / ZIP 41017 sector"]
+zillowHomeValueUsd: 234872
 ---
 
 **Engineering Notice for Erlanger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenton County.

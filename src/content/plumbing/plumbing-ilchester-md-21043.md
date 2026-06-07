@@ -12,6 +12,7 @@ lng: -76.7700
 zipSample: ["21075", "21043"]
 zipCodes: ["21043", "21075"]
 localPaths: ["Howard County / elevation 361 ft band", "Howard County / coords 39.2200, -76.7700", "Howard County / ZIP 21075 sector", "Howard County / primary ZIP 21043", "Howard County / ZIP 21043 sector"]
+zillowHomeValueUsd: 637976
 ---
 
 **Engineering Notice for Ilchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.

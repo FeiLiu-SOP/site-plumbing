@@ -12,6 +12,7 @@ lng: -71.4800
 zipSample: ["03246"]
 zipCodes: ["03246"]
 localPaths: ["Belknap County / ZIP 03246 sector", "Belknap County / primary ZIP 03246", "Belknap County / elevation 587 ft band", "Belknap County / coords 43.5700, -71.4800"]
+zillowHomeValueUsd: 434152
 ---
 
 **Engineering Notice for Laconia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Belknap County.

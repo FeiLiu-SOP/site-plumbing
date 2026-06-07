@@ -12,6 +12,7 @@ lng: -117.7200
 zipSample: ["91711"]
 zipCodes: ["91711"]
 localPaths: ["Los Angeles County / elevation 1483 ft band", "Los Angeles County / primary ZIP 91711", "Los Angeles County / ZIP 91711 sector", "Los Angeles County / coords 34.1300, -117.7200"]
+zillowHomeValueUsd: 1040672
 ---
 
 **Engineering Notice for Claremont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

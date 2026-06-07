@@ -12,6 +12,7 @@ lng: -122.1000
 zipSample: ["98042"]
 zipCodes: ["98042"]
 localPaths: ["King County / elevation 390 ft band", "King County / ZIP 98042 sector", "King County / coords 47.3700, -122.1000", "King County / primary ZIP 98042"]
+zillowHomeValueUsd: 710161
 ---
 
 **Engineering Notice for Covington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

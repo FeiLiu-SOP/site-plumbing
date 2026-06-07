@@ -12,6 +12,7 @@ lng: -81.8000
 zipSample: ["44107"]
 zipCodes: ["44107"]
 localPaths: ["Cuyahoga County / coords 41.4800, -81.8000", "Cuyahoga County / elevation 705 ft band", "Cuyahoga County / ZIP 44107 sector", "Cuyahoga County / primary ZIP 44107"]
+zillowHomeValueUsd: 285856
 ---
 
 **Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

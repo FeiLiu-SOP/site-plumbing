@@ -12,6 +12,7 @@ lng: -94.7300
 zipSample: ["75915", "75904", "75903", "75901"]
 zipCodes: ["75904", "75903", "75915", "75901"]
 localPaths: ["Angelina County / ZIP 75904 sector", "Angelina County / coords 31.3200, -94.7300", "Angelina County / ZIP 75915 sector", "Angelina County / elevation 282 ft band", "Angelina County / ZIP 75903 sector"]
+zillowHomeValueUsd: 207450
 ---
 
 **Engineering Notice for Lufkin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Angelina County.

@@ -12,6 +12,7 @@ lng: -93.4400
 zipSample: ["55372", "55379"]
 zipCodes: ["55372", "55379"]
 localPaths: ["Scott County / ZIP 55379 sector", "Scott County / coords 44.7200, -93.4400", "Scott County / elevation 928 ft band", "Scott County / primary ZIP 55372", "Scott County / ZIP 55372 sector"]
+zillowHomeValueUsd: 516886
 ---
 
 **Engineering Notice for Prior Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.

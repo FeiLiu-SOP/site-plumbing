@@ -12,6 +12,7 @@ lng: -72.8500
 zipSample: ["11950", "11949"]
 zipCodes: ["11949", "11950"]
 localPaths: ["Suffolk County / coords 40.8100, -72.8500", "Suffolk County / ZIP 11949 sector", "Suffolk County / ZIP 11950 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / primary ZIP 11950"]
+zillowHomeValueUsd: 500631
 ---
 
 **Engineering Notice for Mastic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / coords 42.9300, -112.4600", "Bannock County / ZIP 83202 sector", "Bannock County / primary ZIP 83202", "Bannock County / elevation 4472 ft band"]
+zillowHomeValueUsd: 391616
 ---
 
 **Engineering Notice for Chubbuck:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bannock County.

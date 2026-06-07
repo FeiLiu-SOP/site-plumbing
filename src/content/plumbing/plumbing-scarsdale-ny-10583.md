@@ -12,6 +12,7 @@ lng: -73.7800
 zipSample: ["10583"]
 zipCodes: ["10583"]
 localPaths: ["Westchester County / coords 40.9900, -73.7800", "Westchester County / elevation 289 ft band", "Westchester County / ZIP 10583 sector", "Westchester County / primary ZIP 10583"]
+zillowHomeValueUsd: 1499882
 ---
 
 **Engineering Notice for Scarsdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.

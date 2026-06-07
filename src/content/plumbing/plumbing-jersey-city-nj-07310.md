@@ -12,6 +12,7 @@ lng: -74.0700
 zipSample: ["07306", "07307", "07310", "07303", "07311"]
 zipCodes: ["07310", "07399", "07311", "07306", "07304", "07308", "07097", "07305", "07302", "07303", "07395", "07307"]
 localPaths: ["Hudson County / elevation 75 ft band", "Hudson County / ZIP 07303 sector", "Hudson County / ZIP 07307 sector", "Hudson County / ZIP 07306 sector", "Hudson County / primary ZIP 07310"]
+zillowHomeValueUsd: 928940
 ---
 
 **Engineering Notice for Jersey City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

@@ -12,6 +12,7 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / primary ZIP 29410", "Berkeley County / elevation 26 ft band", "Berkeley County / ZIP 29410 sector", "Berkeley County / coords 32.9300, -80.0000"]
+zillowHomeValueUsd: 404446
 ---
 
 **Engineering Notice for Hanahan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.

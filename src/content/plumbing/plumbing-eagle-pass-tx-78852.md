@@ -12,6 +12,7 @@ lng: -100.4800
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / ZIP 78852 sector", "Maverick County / primary ZIP 78852", "Maverick County / elevation 787 ft band", "Maverick County / coords 28.7100, -100.4800"]
+zillowHomeValueUsd: 230776
 ---
 
 **Engineering Notice for Eagle Pass:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maverick County.

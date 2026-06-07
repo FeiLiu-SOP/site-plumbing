@@ -12,6 +12,7 @@ lng: -122.2300
 zipSample: ["94062", "94061", "94065", "94063"]
 zipCodes: ["94065", "94063", "94061", "94062"]
 localPaths: ["San Mateo County / elevation -8 ft band", "San Mateo County / ZIP 94065 sector", "San Mateo County / coords 37.5000, -122.2300", "San Mateo County / ZIP 94061 sector", "San Mateo County / ZIP 94063 sector"]
+zillowHomeValueUsd: 1870622
 ---
 
 **Engineering Notice for Redwood City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.

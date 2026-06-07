@@ -12,6 +12,7 @@ lng: -80.0100
 zipSample: ["24018"]
 zipCodes: ["24018"]
 localPaths: ["Roanoke County / ZIP 24018 sector", "Roanoke County / elevation 1148 ft band", "Roanoke County / primary ZIP 24018", "Roanoke County / coords 37.2300, -80.0100"]
+zillowHomeValueUsd: 376393
 ---
 
 **Engineering Notice for Cave Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Roanoke County.

@@ -12,6 +12,7 @@ lng: -117.1900
 zipSample: ["92563", "92562"]
 zipCodes: ["92562", "92563"]
 localPaths: ["Riverside County / coords 33.5700, -117.1900", "Riverside County / ZIP 92562 sector", "Riverside County / ZIP 92563 sector", "Riverside County / primary ZIP 92563", "Riverside County / elevation 1224 ft band"]
+zillowHomeValueUsd: 693259
 ---
 
 **Engineering Notice for Murrieta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

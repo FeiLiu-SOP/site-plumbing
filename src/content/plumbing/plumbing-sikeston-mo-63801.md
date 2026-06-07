@@ -12,6 +12,7 @@ lng: -89.5900
 zipSample: ["63801"]
 zipCodes: ["63801"]
 localPaths: ["Scott County / coords 36.8900, -89.5900", "Scott County / ZIP 63801 sector", "Scott County / primary ZIP 63801", "Scott County / elevation 348 ft band"]
+zillowHomeValueUsd: 156942
 ---
 
 **Engineering Notice for Sikeston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scott County.

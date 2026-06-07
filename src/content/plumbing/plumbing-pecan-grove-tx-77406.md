@@ -12,6 +12,7 @@ lng: -95.7300
 zipSample: ["77406"]
 zipCodes: ["77406"]
 localPaths: ["Fort Bend County / coords 29.6200, -95.7300", "Fort Bend County / primary ZIP 77406", "Fort Bend County / ZIP 77406 sector", "Fort Bend County / elevation 102 ft band"]
+zillowHomeValueUsd: 423014
 ---
 
 **Engineering Notice for Pecan Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.

@@ -12,6 +12,7 @@ lng: -81.4500
 zipSample: ["44124"]
 zipCodes: ["44124"]
 localPaths: ["Cuyahoga County / coords 41.5200, -81.4500", "Cuyahoga County / elevation 1086 ft band", "Cuyahoga County / ZIP 44124 sector", "Cuyahoga County / primary ZIP 44124"]
+zillowHomeValueUsd: 248425
 ---
 
 **Engineering Notice for Mayfield Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

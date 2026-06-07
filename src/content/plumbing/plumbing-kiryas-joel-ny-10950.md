@@ -12,6 +12,7 @@ lng: -74.1700
 zipSample: ["10950"]
 zipCodes: ["10950"]
 localPaths: ["Orange County / elevation 728 ft band", "Orange County / coords 41.3400, -74.1700", "Orange County / ZIP 10950 sector", "Orange County / primary ZIP 10950"]
+zillowHomeValueUsd: 529116
 ---
 
 **Engineering Notice for Kiryas Joel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

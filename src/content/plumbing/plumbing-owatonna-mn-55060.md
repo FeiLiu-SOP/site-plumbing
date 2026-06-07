@@ -12,6 +12,7 @@ lng: -93.2300
 zipSample: ["55060"]
 zipCodes: ["55060"]
 localPaths: ["Steele County / coords 44.0900, -93.2300", "Steele County / primary ZIP 55060", "Steele County / ZIP 55060 sector", "Steele County / elevation 1132 ft band"]
+zillowHomeValueUsd: 293943
 ---
 
 **Engineering Notice for Owatonna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Steele County.

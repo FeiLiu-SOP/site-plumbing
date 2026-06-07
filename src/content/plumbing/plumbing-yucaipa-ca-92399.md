@@ -12,6 +12,7 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / primary ZIP 92399", "San Bernardino County / coords 34.0300, -117.0400", "San Bernardino County / elevation 2628 ft band", "San Bernardino County / ZIP 92399 sector"]
+zillowHomeValueUsd: 570001
 ---
 
 **Engineering Notice for Yucaipa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

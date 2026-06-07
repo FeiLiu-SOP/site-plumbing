@@ -12,6 +12,7 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76097", "76028"]
 localPaths: ["Johnson County / coords 32.5200, -97.3300", "Johnson County / ZIP 76097 sector", "Johnson County / primary ZIP 76028", "Johnson County / ZIP 76028 sector", "Johnson County / elevation 748 ft band"]
+zillowHomeValueUsd: 339903
 ---
 
 **Engineering Notice for Burleson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

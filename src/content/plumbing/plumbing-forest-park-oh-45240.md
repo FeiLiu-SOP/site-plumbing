@@ -12,6 +12,7 @@ lng: -84.5300
 zipSample: ["45240"]
 zipCodes: ["45240"]
 localPaths: ["Hamilton County / coords 39.2900, -84.5300", "Hamilton County / ZIP 45240 sector", "Hamilton County / primary ZIP 45240", "Hamilton County / elevation 879 ft band"]
+zillowHomeValueUsd: 247438
 ---
 
 **Engineering Notice for Forest Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

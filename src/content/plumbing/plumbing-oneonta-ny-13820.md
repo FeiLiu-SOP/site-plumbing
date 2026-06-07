@@ -12,6 +12,7 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / ZIP 13820 sector", "Otsego County / primary ZIP 13820", "Otsego County / elevation 1155 ft band", "Otsego County / coords 42.4600, -75.0700"]
+zillowHomeValueUsd: 211585
 ---
 
 **Engineering Notice for Oneonta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Otsego County.

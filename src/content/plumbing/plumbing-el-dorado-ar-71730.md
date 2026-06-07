@@ -12,6 +12,7 @@ lng: -92.6600
 zipSample: ["71730", "71731"]
 zipCodes: ["71731", "71730"]
 localPaths: ["Union County / ZIP 71731 sector", "Union County / ZIP 71730 sector", "Union County / coords 33.2200, -92.6600", "Union County / elevation 240 ft band", "Union County / primary ZIP 71730"]
+zillowHomeValueUsd: 135054
 ---
 
 **Engineering Notice for El Dorado:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.

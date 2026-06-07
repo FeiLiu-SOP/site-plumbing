@@ -12,6 +12,7 @@ lng: -106.2600
 zipSample: ["79927"]
 zipCodes: ["79927"]
 localPaths: ["El Paso County / ZIP 79927 sector", "El Paso County / coords 31.6400, -106.2600", "El Paso County / primary ZIP 79927", "El Paso County / elevation 3632 ft band"]
+zillowHomeValueUsd: 204012
 ---
 
 **Engineering Notice for Socorro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

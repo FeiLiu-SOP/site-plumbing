@@ -12,6 +12,7 @@ lng: -105.6100
 zipSample: ["82072", "82070"]
 zipCodes: ["82070", "82072"]
 localPaths: ["Albany County / elevation 7149 ft band", "Albany County / ZIP 82072 sector", "Albany County / primary ZIP 82072", "Albany County / ZIP 82070 sector", "Albany County / coords 41.3100, -105.6100"]
+zillowHomeValueUsd: 363852
 ---
 
 **Engineering Notice for Laramie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Albany County.

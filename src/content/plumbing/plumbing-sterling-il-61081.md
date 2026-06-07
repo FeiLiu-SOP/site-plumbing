@@ -12,6 +12,7 @@ lng: -89.7000
 zipSample: ["61081"]
 zipCodes: ["61081"]
 localPaths: ["Whiteside County / elevation 689 ft band", "Whiteside County / coords 41.8000, -89.7000", "Whiteside County / primary ZIP 61081", "Whiteside County / ZIP 61081 sector"]
+zillowHomeValueUsd: 137360
 ---
 
 **Engineering Notice for Sterling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whiteside County.

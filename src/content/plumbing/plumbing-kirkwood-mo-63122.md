@@ -12,6 +12,7 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / primary ZIP 63122", "St. Louis County / elevation 594 ft band", "St. Louis County / ZIP 63122 sector", "St. Louis County / coords 38.5800, -90.4200"]
+zillowHomeValueUsd: 505151
 ---
 
 **Engineering Notice for Kirkwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

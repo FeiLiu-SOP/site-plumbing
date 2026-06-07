@@ -12,6 +12,7 @@ lng: -77.0000
 zipSample: ["20861", "20905"]
 zipCodes: ["20861", "20905"]
 localPaths: ["Montgomery County / ZIP 20861 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / primary ZIP 20861", "Montgomery County / elevation 522 ft band", "Montgomery County / coords 39.1100, -77.0000"]
+zillowHomeValueUsd: 981389
 ---
 
 **Engineering Notice for Cloverly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

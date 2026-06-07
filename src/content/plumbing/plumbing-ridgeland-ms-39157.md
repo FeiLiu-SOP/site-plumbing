@@ -12,6 +12,7 @@ lng: -90.1500
 zipSample: ["39157", "39158"]
 zipCodes: ["39157", "39158"]
 localPaths: ["Madison County / ZIP 39157 sector", "Madison County / coords 32.4200, -90.1500", "Madison County / ZIP 39158 sector", "Madison County / elevation 351 ft band", "Madison County / primary ZIP 39157"]
+zillowHomeValueUsd: 286475
 ---
 
 **Engineering Notice for Ridgeland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

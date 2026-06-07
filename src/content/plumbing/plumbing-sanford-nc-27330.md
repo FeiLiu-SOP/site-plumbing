@@ -12,6 +12,7 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27330", "27331", "27332"]
 localPaths: ["Lee County / ZIP 27330 sector", "Lee County / ZIP 27331 sector", "Lee County / coords 35.4900, -79.1800", "Lee County / elevation 354 ft band", "Lee County / ZIP 27332 sector"]
+zillowHomeValueUsd: 294234
 ---
 
 **Engineering Notice for Sanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.

@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["29802", "29803", "29801"]
 zipCodes: ["29803", "29802", "29801"]
 localPaths: ["Aiken County / primary ZIP 29801", "Aiken County / ZIP 29802 sector", "Aiken County / elevation 525 ft band", "Aiken County / ZIP 29803 sector", "Aiken County / ZIP 29801 sector"]
+zillowHomeValueUsd: 214749
 ---
 
 **Engineering Notice for Aiken:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Aiken County.

@@ -12,6 +12,7 @@ lng: -97.6000
 zipSample: ["78691", "78660"]
 zipCodes: ["78691", "78660"]
 localPaths: ["Travis County / coords 30.4500, -97.6000", "Travis County / ZIP 78660 sector", "Travis County / ZIP 78691 sector", "Travis County / elevation 696 ft band", "Travis County / primary ZIP 78660"]
+zillowHomeValueUsd: 378257
 ---
 
 **Engineering Notice for Pflugerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.

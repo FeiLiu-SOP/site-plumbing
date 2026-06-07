@@ -12,6 +12,7 @@ lng: -117.7300
 zipSample: ["92656"]
 zipCodes: ["92656"]
 localPaths: ["Orange County / elevation 482 ft band", "Orange County / primary ZIP 92656", "Orange County / ZIP 92656 sector", "Orange County / coords 33.5800, -117.7300"]
+zillowHomeValueUsd: 1000835
 ---
 
 **Engineering Notice for Aliso Viejo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

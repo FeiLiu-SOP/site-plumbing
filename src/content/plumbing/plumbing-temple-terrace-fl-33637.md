@@ -12,6 +12,7 @@ lng: -82.3800
 zipSample: ["33637", "33617", "33687"]
 zipCodes: ["33617", "33687", "33637"]
 localPaths: ["Hillsborough County / coords 28.0400, -82.3800", "Hillsborough County / ZIP 33617 sector", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33687 sector"]
+zillowHomeValueUsd: 295156
 ---
 
 **Engineering Notice for Temple Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

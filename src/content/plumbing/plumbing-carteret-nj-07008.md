@@ -12,6 +12,7 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / elevation 16 ft band", "Middlesex County / ZIP 07008 sector"]
+zillowHomeValueUsd: 548074
 ---
 
 **Engineering Notice for Carteret:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

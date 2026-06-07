@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["33598"]
 zipCodes: ["33598"]
 localPaths: ["Hillsborough County / ZIP 33598 sector", "Hillsborough County / coords 27.7000, -82.3000", "Hillsborough County / primary ZIP 33598", "Hillsborough County / elevation 79 ft band"]
+zillowHomeValueUsd: 350192
 ---
 
 **Engineering Notice for Wimauma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

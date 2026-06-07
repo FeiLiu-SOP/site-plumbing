@@ -12,6 +12,7 @@ lng: -118.1100
 zipSample: ["93591", "93551", "93599", "93550", "93552"]
 zipCodes: ["93551", "93590", "93552", "93550", "93591", "93599"]
 localPaths: ["Los Angeles County / ZIP 93591 sector", "Los Angeles County / coords 34.5900, -118.1100", "Los Angeles County / primary ZIP 93591", "Los Angeles County / ZIP 93552 sector", "Los Angeles County / ZIP 93550 sector"]
+zillowHomeValueUsd: 385527
 ---
 
 **Engineering Notice for Palmdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

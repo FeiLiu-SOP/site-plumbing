@@ -12,6 +12,7 @@ lng: -76.6200
 zipSample: ["21252", "21204", "21139", "21210", "21286"]
 zipCodes: ["21239", "21286", "21285", "21284", "21210", "21139", "21204", "21252", "21212", "21209"]
 localPaths: ["Baltimore County / elevation 364 ft band", "Baltimore County / ZIP 21139 sector", "Baltimore County / ZIP 21210 sector", "Baltimore County / primary ZIP 21210", "Baltimore County / ZIP 21252 sector"]
+zillowHomeValueUsd: 477969
 ---
 
 **Engineering Notice for Towson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

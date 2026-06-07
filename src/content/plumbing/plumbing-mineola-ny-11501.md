@@ -12,6 +12,7 @@ lng: -73.6400
 zipSample: ["11501"]
 zipCodes: ["11501"]
 localPaths: ["Nassau County / coords 40.7500, -73.6400", "Nassau County / primary ZIP 11501", "Nassau County / ZIP 11501 sector", "Nassau County / elevation 118 ft band"]
+zillowHomeValueUsd: 814864
 ---
 
 **Engineering Notice for Mineola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

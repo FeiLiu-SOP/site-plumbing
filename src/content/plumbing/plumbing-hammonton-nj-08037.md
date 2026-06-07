@@ -12,6 +12,7 @@ lng: -74.7700
 zipSample: ["08037"]
 zipCodes: ["08037"]
 localPaths: ["Atlantic County / elevation 62 ft band", "Atlantic County / coords 39.6600, -74.7700", "Atlantic County / ZIP 08037 sector", "Atlantic County / primary ZIP 08037"]
+zillowHomeValueUsd: 373386
 ---
 
 **Engineering Notice for Hammonton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Atlantic County.

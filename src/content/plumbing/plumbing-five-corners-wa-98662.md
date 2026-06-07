@@ -12,6 +12,7 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / ZIP 98662 sector", "Clark County / coords 45.6900, -122.5700", "Clark County / primary ZIP 98662", "Clark County / elevation 210 ft band"]
+zillowHomeValueUsd: 484381
 ---
 
 **Engineering Notice for Five Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

@@ -12,6 +12,7 @@ lng: -119.0300
 zipSample: ["93257"]
 zipCodes: ["93257"]
 localPaths: ["Tulare County / ZIP 93257 sector", "Tulare County / coords 36.0600, -119.0300", "Tulare County / elevation 449 ft band", "Tulare County / primary ZIP 93257"]
+zillowHomeValueUsd: 326631
 ---
 
 **Engineering Notice for Porterville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulare County.

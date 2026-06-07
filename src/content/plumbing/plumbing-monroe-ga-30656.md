@@ -12,6 +12,7 @@ lng: -83.7200
 zipSample: ["30655", "30656"]
 zipCodes: ["30655", "30656"]
 localPaths: ["Walton County / coords 33.8000, -83.7200", "Walton County / primary ZIP 30656", "Walton County / ZIP 30656 sector", "Walton County / ZIP 30655 sector", "Walton County / elevation 951 ft band"]
+zillowHomeValueUsd: 398081
 ---
 
 **Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Walton County.

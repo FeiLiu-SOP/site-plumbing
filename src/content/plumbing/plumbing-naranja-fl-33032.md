@@ -12,6 +12,7 @@ lng: -80.4200
 zipSample: ["33032"]
 zipCodes: ["33032"]
 localPaths: ["Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33032", "Miami-Dade County / coords 25.5200, -80.4200"]
+zillowHomeValueUsd: 454940
 ---
 
 **Engineering Notice for Naranja:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

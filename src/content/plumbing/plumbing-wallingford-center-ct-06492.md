@@ -12,6 +12,7 @@ lng: -72.8200
 zipSample: ["06492", "06494"]
 zipCodes: ["06494", "06492"]
 localPaths: ["South Central Connecticut County / ZIP 06492 sector", "South Central Connecticut County / ZIP 06494 sector", "South Central Connecticut County / elevation 128 ft band", "South Central Connecticut County / coords 41.4500, -72.8200", "South Central Connecticut County / primary ZIP 06492"]
+zillowHomeValueUsd: 412642
 ---
 
 **Engineering Notice for Wallingford Center:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: South Central Connecticut County.

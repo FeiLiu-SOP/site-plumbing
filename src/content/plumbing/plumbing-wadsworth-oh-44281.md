@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["44282", "44281"]
 zipCodes: ["44282", "44281"]
 localPaths: ["Medina County / ZIP 44282 sector", "Medina County / ZIP 44281 sector", "Medina County / elevation 1168 ft band", "Medina County / primary ZIP 44281", "Medina County / coords 41.0300, -81.7300"]
+zillowHomeValueUsd: 310170
 ---
 
 **Engineering Notice for Wadsworth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Medina County.

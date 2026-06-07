@@ -12,6 +12,7 @@ lng: -85.0800
 zipSample: ["30112", "30117", "30116", "30109", "30118"]
 zipCodes: ["30116", "30109", "30118", "30112", "30117"]
 localPaths: ["Carroll County / ZIP 30116 sector", "Carroll County / primary ZIP 30118", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30109 sector", "Carroll County / coords 33.5800, -85.0800"]
+zillowHomeValueUsd: 281264
 ---
 
 **Engineering Notice for Carrollton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.

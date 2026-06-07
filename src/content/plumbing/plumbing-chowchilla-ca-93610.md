@@ -12,6 +12,7 @@ lng: -120.2300
 zipSample: ["93610"]
 zipCodes: ["93610"]
 localPaths: ["Madera County / ZIP 93610 sector", "Madera County / coords 37.1100, -120.2300", "Madera County / elevation 262 ft band", "Madera County / primary ZIP 93610"]
+zillowHomeValueUsd: 393301
 ---
 
 **Engineering Notice for Chowchilla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madera County.

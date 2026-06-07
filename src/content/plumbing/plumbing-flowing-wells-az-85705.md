@@ -12,6 +12,7 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / primary ZIP 85705", "Pima County / ZIP 85705 sector", "Pima County / coords 32.2900, -111.0100"]
+zillowHomeValueUsd: 254260
 ---
 
 **Engineering Notice for Flowing Wells:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

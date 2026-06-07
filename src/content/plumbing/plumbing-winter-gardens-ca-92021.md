@@ -12,6 +12,7 @@ lng: -116.9300
 zipSample: ["92040", "92021"]
 zipCodes: ["92040", "92021"]
 localPaths: ["San Diego County / elevation 676 ft band", "San Diego County / ZIP 92040 sector", "San Diego County / primary ZIP 92021", "San Diego County / ZIP 92021 sector", "San Diego County / coords 32.8400, -116.9300"]
+zillowHomeValueUsd: 770772
 ---
 
 **Engineering Notice for Winter Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

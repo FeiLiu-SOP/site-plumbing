@@ -12,6 +12,7 @@ lng: -84.0600
 zipSample: ["30518"]
 zipCodes: ["30518"]
 localPaths: ["Gwinnett County / elevation 1099 ft band", "Gwinnett County / ZIP 30518 sector", "Gwinnett County / coords 34.1100, -84.0600", "Gwinnett County / primary ZIP 30518"]
+zillowHomeValueUsd: 464357
 ---
 
 **Engineering Notice for Sugar Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

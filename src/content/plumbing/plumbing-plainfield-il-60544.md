@@ -12,6 +12,7 @@ lng: -88.2300
 zipSample: ["60585", "60586", "60544"]
 zipCodes: ["60586", "60585", "60544"]
 localPaths: ["Will County / primary ZIP 60544", "Will County / coords 41.6200, -88.2300", "Will County / ZIP 60544 sector", "Will County / elevation 627 ft band", "Will County / ZIP 60585 sector"]
+zillowHomeValueUsd: 383369
 ---
 
 **Engineering Notice for Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

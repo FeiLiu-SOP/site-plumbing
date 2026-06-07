@@ -12,6 +12,7 @@ lng: -82.0200
 zipSample: ["44011"]
 zipCodes: ["44011"]
 localPaths: ["Lorain County / elevation 692 ft band", "Lorain County / coords 41.4500, -82.0200", "Lorain County / primary ZIP 44011", "Lorain County / ZIP 44011 sector"]
+zillowHomeValueUsd: 471666
 ---
 
 **Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.

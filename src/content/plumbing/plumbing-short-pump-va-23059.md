@@ -12,6 +12,7 @@ lng: -77.6200
 zipSample: ["23233", "23059"]
 zipCodes: ["23233", "23059"]
 localPaths: ["Henrico County / coords 37.6500, -77.6200", "Henrico County / ZIP 23233 sector", "Henrico County / primary ZIP 23059", "Henrico County / elevation 315 ft band", "Henrico County / ZIP 23059 sector"]
+zillowHomeValueUsd: 622798
 ---
 
 **Engineering Notice for Short Pump:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.

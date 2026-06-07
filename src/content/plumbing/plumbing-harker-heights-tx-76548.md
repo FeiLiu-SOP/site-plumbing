@@ -12,6 +12,7 @@ lng: -97.6400
 zipSample: ["76513", "76548"]
 zipCodes: ["76513", "76548"]
 localPaths: ["Bell County / coords 31.0600, -97.6400", "Bell County / ZIP 76548 sector", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76548", "Bell County / elevation 830 ft band"]
+zillowHomeValueUsd: 298948
 ---
 
 **Engineering Notice for Harker Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bell County.

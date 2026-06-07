@@ -12,6 +12,7 @@ lng: -92.6600
 zipSample: ["65536"]
 zipCodes: ["65536"]
 localPaths: ["Laclede County / ZIP 65536 sector", "Laclede County / elevation 1286 ft band", "Laclede County / coords 37.6700, -92.6600", "Laclede County / primary ZIP 65536"]
+zillowHomeValueUsd: 228902
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Laclede County.

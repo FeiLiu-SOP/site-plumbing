@@ -12,6 +12,7 @@ lng: -108.1800
 zipSample: ["87401", "87402"]
 zipCodes: ["87402", "87401"]
 localPaths: ["San Juan County / ZIP 87402 sector", "San Juan County / ZIP 87401 sector", "San Juan County / coords 36.7600, -108.1800", "San Juan County / primary ZIP 87401", "San Juan County / elevation 5482 ft band"]
+zillowHomeValueUsd: 265315
 ---
 
 **Engineering Notice for Farmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Juan County.

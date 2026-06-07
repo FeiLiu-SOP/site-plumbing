@@ -12,6 +12,7 @@ lng: -77.0500
 zipSample: ["20906"]
 zipCodes: ["20906"]
 localPaths: ["Montgomery County / elevation 394 ft band", "Montgomery County / coords 39.0700, -77.0500", "Montgomery County / ZIP 20906 sector", "Montgomery County / primary ZIP 20906"]
+zillowHomeValueUsd: 447348
 ---
 
 **Engineering Notice for Glenmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

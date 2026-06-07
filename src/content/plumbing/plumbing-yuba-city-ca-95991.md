@@ -12,6 +12,7 @@ lng: -121.6400
 zipSample: ["95991", "95993"]
 zipCodes: ["95991", "95993"]
 localPaths: ["Sutter County / ZIP 95991 sector", "Sutter County / primary ZIP 95991", "Sutter County / elevation 59 ft band", "Sutter County / ZIP 95993 sector", "Sutter County / coords 39.1400, -121.6400"]
+zillowHomeValueUsd: 404855
 ---
 
 **Engineering Notice for Yuba City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sutter County.

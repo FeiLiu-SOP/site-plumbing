@@ -12,6 +12,7 @@ lng: -88.9900
 zipSample: ["61761", "61790"]
 zipCodes: ["61790", "61761"]
 localPaths: ["McLean County / ZIP 61761 sector", "McLean County / primary ZIP 61761", "McLean County / ZIP 61790 sector", "McLean County / elevation 843 ft band", "McLean County / coords 40.5200, -88.9900"]
+zillowHomeValueUsd: 258693
 ---
 
 **Engineering Notice for Normal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLean County.

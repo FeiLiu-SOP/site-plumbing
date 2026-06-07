@@ -12,6 +12,7 @@ lng: -85.0400
 zipSample: ["30240", "30241"]
 zipCodes: ["30240", "30241"]
 localPaths: ["Troup County / ZIP 30241 sector", "Troup County / elevation 751 ft band", "Troup County / primary ZIP 30240", "Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector"]
+zillowHomeValueUsd: 249646
 ---
 
 **Engineering Notice for LaGrange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Troup County.

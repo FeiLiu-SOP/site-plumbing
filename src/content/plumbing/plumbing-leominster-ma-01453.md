@@ -12,6 +12,7 @@ lng: -71.7700
 zipSample: ["01453"]
 zipCodes: ["01453"]
 localPaths: ["Worcester County / elevation 502 ft band", "Worcester County / primary ZIP 01453", "Worcester County / ZIP 01453 sector", "Worcester County / coords 42.5200, -71.7700"]
+zillowHomeValueUsd: 463718
 ---
 
 **Engineering Notice for Leominster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Worcester County.

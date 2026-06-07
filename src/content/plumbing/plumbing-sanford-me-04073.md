@@ -12,6 +12,7 @@ lng: -70.7600
 zipSample: ["04073", "04083"]
 zipCodes: ["04073", "04083"]
 localPaths: ["York County / primary ZIP 04073", "York County / ZIP 04083 sector", "York County / elevation 243 ft band", "York County / ZIP 04073 sector", "York County / coords 43.4200, -70.7600"]
+zillowHomeValueUsd: 367559
 ---
 
 **Engineering Notice for Sanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

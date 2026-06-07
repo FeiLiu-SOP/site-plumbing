@@ -12,6 +12,7 @@ lng: -118.4400
 zipSample: ["91340", "91341"]
 zipCodes: ["91340", "91341"]
 localPaths: ["Los Angeles County / ZIP 91341 sector", "Los Angeles County / ZIP 91340 sector", "Los Angeles County / primary ZIP 91340", "Los Angeles County / coords 34.2900, -118.4400", "Los Angeles County / elevation 1109 ft band"]
+zillowHomeValueUsd: 738864
 ---
 
 **Engineering Notice for San Fernando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

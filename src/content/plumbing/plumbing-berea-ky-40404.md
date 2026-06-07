@@ -12,6 +12,7 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40404", "40403"]
 localPaths: ["Madison County / elevation 961 ft band", "Madison County / primary ZIP 40404", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900", "Madison County / ZIP 40404 sector"]
+zillowHomeValueUsd: 252777
 ---
 
 **Engineering Notice for Berea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

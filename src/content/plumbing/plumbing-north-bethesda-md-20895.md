@@ -12,6 +12,7 @@ lng: -77.1200
 zipSample: ["20852", "20851", "20895", "20896", "20814"]
 zipCodes: ["20852", "20814", "20817", "20851", "20896", "20895"]
 localPaths: ["Montgomery County / ZIP 20852 sector", "Montgomery County / coords 39.0400, -77.1200", "Montgomery County / ZIP 20851 sector", "Montgomery County / ZIP 20895 sector", "Montgomery County / primary ZIP 20895"]
+zillowHomeValueUsd: 819892
 ---
 
 **Engineering Notice for North Bethesda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

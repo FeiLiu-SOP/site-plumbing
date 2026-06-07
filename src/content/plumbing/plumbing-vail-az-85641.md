@@ -12,6 +12,7 @@ lng: -110.6900
 zipSample: ["85744", "85641"]
 zipCodes: ["85744", "85641"]
 localPaths: ["Pima County / ZIP 85641 sector", "Pima County / primary ZIP 85641", "Pima County / ZIP 85744 sector", "Pima County / coords 32.0200, -110.6900", "Pima County / elevation 3346 ft band"]
+zillowHomeValueUsd: 407204
 ---
 
 **Engineering Notice for Vail:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

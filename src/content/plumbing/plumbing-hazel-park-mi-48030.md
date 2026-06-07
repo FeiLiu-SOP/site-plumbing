@@ -12,6 +12,7 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / ZIP 48030 sector", "Oakland County / coords 42.4600, -83.1000", "Oakland County / elevation 640 ft band", "Oakland County / primary ZIP 48030"]
+zillowHomeValueUsd: 155419
 ---
 
 **Engineering Notice for Hazel Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

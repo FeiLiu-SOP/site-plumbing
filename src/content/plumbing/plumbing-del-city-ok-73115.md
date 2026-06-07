@@ -12,6 +12,7 @@ lng: -97.4400
 zipSample: ["73115", "73117"]
 zipCodes: ["73115", "73117"]
 localPaths: ["Oklahoma County / coords 35.4500, -97.4400", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / primary ZIP 73115", "Oklahoma County / ZIP 73117 sector", "Oklahoma County / ZIP 73115 sector"]
+zillowHomeValueUsd: 138430
 ---
 
 **Engineering Notice for Del City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.

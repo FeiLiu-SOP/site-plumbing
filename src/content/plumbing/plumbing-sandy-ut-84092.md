@@ -12,6 +12,7 @@ lng: -111.8500
 zipSample: ["84090", "84092", "84093", "84070", "84091"]
 zipCodes: ["84090", "84092", "84070", "84094", "84091", "84093"]
 localPaths: ["Salt Lake County / ZIP 84090 sector", "Salt Lake County / primary ZIP 84092", "Salt Lake County / coords 40.5700, -111.8500", "Salt Lake County / ZIP 84093 sector", "Salt Lake County / ZIP 84092 sector"]
+zillowHomeValueUsd: 866651
 ---
 
 **Engineering Notice for Sandy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

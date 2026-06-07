@@ -12,6 +12,7 @@ lng: -74.5600
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / elevation 577 ft band", "Morris County / coords 40.8900, -74.5600", "Morris County / ZIP 07801 sector", "Morris County / primary ZIP 07801"]
+zillowHomeValueUsd: 500451
 ---
 
 **Engineering Notice for Dover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.

@@ -12,6 +12,7 @@ lng: -86.5800
 zipSample: ["35235", "35173"]
 zipCodes: ["35235", "35173"]
 localPaths: ["Jefferson County / ZIP 35235 sector", "Jefferson County / ZIP 35173 sector", "Jefferson County / coords 33.6400, -86.5800", "Jefferson County / elevation 804 ft band", "Jefferson County / primary ZIP 35235"]
+zillowHomeValueUsd: 185000
 ---
 
 **Engineering Notice for Trussville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -88.4800
 zipSample: ["54957", "54956"]
 zipCodes: ["54957", "54956"]
 localPaths: ["Winnebago County / ZIP 54957 sector", "Winnebago County / primary ZIP 54956", "Winnebago County / coords 44.1700, -88.4800", "Winnebago County / elevation 751 ft band", "Winnebago County / ZIP 54956 sector"]
+zillowHomeValueUsd: 341618
 ---
 
 **Engineering Notice for Neenah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.

@@ -12,6 +12,7 @@ lng: -96.7100
 zipSample: ["75080", "75083", "75085", "75081", "75082"]
 zipCodes: ["75081", "75045", "75085", "75082", "75080", "75083"]
 localPaths: ["Dallas County / ZIP 75080 sector", "Dallas County / primary ZIP 75081", "Dallas County / ZIP 75083 sector", "Dallas County / ZIP 75081 sector", "Dallas County / coords 32.9700, -96.7100"]
+zillowHomeValueUsd: 388955
 ---
 
 **Engineering Notice for Richardson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.

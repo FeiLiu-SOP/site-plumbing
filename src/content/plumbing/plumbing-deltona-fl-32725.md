@@ -12,6 +12,7 @@ lng: -81.2100
 zipSample: ["32725", "32739", "32738"]
 zipCodes: ["32725", "32739", "32738"]
 localPaths: ["Volusia County / ZIP 32738 sector", "Volusia County / coords 28.9100, -81.2100", "Volusia County / primary ZIP 32725", "Volusia County / ZIP 32725 sector", "Volusia County / elevation 56 ft band"]
+zillowHomeValueUsd: 296100
 ---
 
 **Engineering Notice for Deltona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.

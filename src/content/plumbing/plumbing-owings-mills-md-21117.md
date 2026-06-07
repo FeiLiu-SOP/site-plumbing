@@ -12,6 +12,7 @@ lng: -76.7900
 zipSample: ["21117"]
 zipCodes: ["21117"]
 localPaths: ["Baltimore County / coords 39.4100, -76.7900", "Baltimore County / elevation 564 ft band", "Baltimore County / primary ZIP 21117", "Baltimore County / ZIP 21117 sector"]
+zillowHomeValueUsd: 386420
 ---
 
 **Engineering Notice for Owings Mills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

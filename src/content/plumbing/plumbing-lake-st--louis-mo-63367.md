@@ -12,6 +12,7 @@ lng: -90.7900
 zipSample: ["63367"]
 zipCodes: ["63367"]
 localPaths: ["St. Charles County / primary ZIP 63367", "St. Charles County / coords 38.7800, -90.7900", "St. Charles County / elevation 571 ft band", "St. Charles County / ZIP 63367 sector"]
+zillowHomeValueUsd: 441364
 ---
 
 **Engineering Notice for Lake St. Louis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.

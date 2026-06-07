@@ -12,6 +12,7 @@ lng: -95.2000
 zipSample: ["77549", "77546"]
 zipCodes: ["77549", "77546"]
 localPaths: ["Galveston County / coords 29.5100, -95.2000", "Galveston County / primary ZIP 77546", "Galveston County / ZIP 77549 sector", "Galveston County / ZIP 77546 sector", "Galveston County / elevation 39 ft band"]
+zillowHomeValueUsd: 400399
 ---
 
 **Engineering Notice for Friendswood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.

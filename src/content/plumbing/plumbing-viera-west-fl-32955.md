@@ -12,6 +12,7 @@ lng: -80.7400
 zipSample: ["32940", "32955"]
 zipCodes: ["32955", "32940"]
 localPaths: ["Brevard County / ZIP 32955 sector", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32940 sector", "Brevard County / primary ZIP 32955", "Brevard County / coords 28.2500, -80.7400"]
+zillowHomeValueUsd: 369252
 ---
 
 **Engineering Notice for Viera West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.

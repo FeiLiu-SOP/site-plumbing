@@ -12,6 +12,7 @@ lng: -83.2900
 zipSample: ["48343", "48055", "48340", "48341", "48342"]
 zipCodes: ["48341", "48340", "48343", "48055", "48342"]
 localPaths: ["Oakland County / primary ZIP 48342", "Oakland County / ZIP 48342 sector", "Oakland County / coords 42.6500, -83.2900", "Oakland County / elevation 974 ft band", "Oakland County / ZIP 48343 sector"]
+zillowHomeValueUsd: 127833
 ---
 
 **Engineering Notice for Pontiac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

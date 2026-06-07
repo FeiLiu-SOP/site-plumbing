@@ -12,6 +12,7 @@ lng: -80.6700
 zipSample: ["32904"]
 zipCodes: ["32904"]
 localPaths: ["Brevard County / coords 28.0700, -80.6700", "Brevard County / elevation 43 ft band", "Brevard County / ZIP 32904 sector", "Brevard County / primary ZIP 32904"]
+zillowHomeValueUsd: 377191
 ---
 
 **Engineering Notice for West Melbourne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.

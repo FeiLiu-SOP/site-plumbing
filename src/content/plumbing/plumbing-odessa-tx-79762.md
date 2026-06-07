@@ -12,6 +12,7 @@ lng: -102.3400
 zipSample: ["79761", "79763", "79762", "79768", "79765"]
 zipCodes: ["79762", "79761", "79768", "79763", "79765"]
 localPaths: ["Ector County / ZIP 79763 sector", "Ector County / primary ZIP 79762", "Ector County / ZIP 79768 sector", "Ector County / ZIP 79761 sector", "Ector County / ZIP 79762 sector"]
+zillowHomeValueUsd: 261317
 ---
 
 **Engineering Notice for Odessa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ector County.

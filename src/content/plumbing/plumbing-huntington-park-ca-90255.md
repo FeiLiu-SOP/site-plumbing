@@ -12,6 +12,7 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 167 ft band", "Los Angeles County / coords 33.9800, -118.2200"]
+zillowHomeValueUsd: 675387
 ---
 
 **Engineering Notice for Huntington Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

@@ -12,6 +12,7 @@ lng: -80.1900
 zipSample: ["28002", "28001"]
 zipCodes: ["28001", "28002"]
 localPaths: ["Stanly County / ZIP 28001 sector", "Stanly County / coords 35.3600, -80.1900", "Stanly County / elevation 564 ft band", "Stanly County / ZIP 28002 sector", "Stanly County / primary ZIP 28001"]
+zillowHomeValueUsd: 262709
 ---
 
 **Engineering Notice for Albemarle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanly County.

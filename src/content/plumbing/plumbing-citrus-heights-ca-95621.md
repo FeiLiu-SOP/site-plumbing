@@ -12,6 +12,7 @@ lng: -121.2900
 zipSample: ["95621", "95611", "95610"]
 zipCodes: ["95621", "95610", "95611"]
 localPaths: ["Sacramento County / ZIP 95610 sector", "Sacramento County / ZIP 95621 sector", "Sacramento County / primary ZIP 95621", "Sacramento County / elevation 157 ft band", "Sacramento County / ZIP 95611 sector"]
+zillowHomeValueUsd: 454261
 ---
 
 **Engineering Notice for Citrus Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

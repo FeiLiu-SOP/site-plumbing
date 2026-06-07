@@ -12,6 +12,7 @@ lng: -104.9700
 zipSample: ["80530", "80516", "80504", "80514"]
 zipCodes: ["80504", "80514", "80530", "80516"]
 localPaths: ["Weld County / primary ZIP 80504", "Weld County / coords 40.1100, -104.9700", "Weld County / ZIP 80514 sector", "Weld County / elevation 4928 ft band", "Weld County / ZIP 80504 sector"]
+zillowHomeValueUsd: 580987
 ---
 
 **Engineering Notice for Frederick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.

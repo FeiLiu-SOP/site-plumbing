@@ -12,6 +12,7 @@ lng: -77.2400
 zipSample: ["22082", "22180", "22081", "22031", "22042"]
 zipCodes: ["22082", "22081", "22042", "22180", "22119", "22031"]
 localPaths: ["Fairfax County / ZIP 22180 sector", "Fairfax County / ZIP 22082 sector", "Fairfax County / coords 38.8700, -77.2400", "Fairfax County / ZIP 22042 sector", "Fairfax County / primary ZIP 22031"]
+zillowHomeValueUsd: 774759
 ---
 
 **Engineering Notice for Merrifield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

@@ -12,6 +12,7 @@ lng: -73.1200
 zipSample: ["11779"]
 zipCodes: ["11779"]
 localPaths: ["Suffolk County / coords 40.8000, -73.1200", "Suffolk County / elevation 112 ft band", "Suffolk County / primary ZIP 11779", "Suffolk County / ZIP 11779 sector"]
+zillowHomeValueUsd: 619155
 ---
 
 **Engineering Notice for Ronkonkoma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

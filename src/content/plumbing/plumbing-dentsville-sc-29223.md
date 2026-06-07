@@ -12,6 +12,7 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / ZIP 29223 sector", "Richland County / primary ZIP 29223", "Richland County / elevation 262 ft band", "Richland County / coords 34.0800, -80.9500"]
+zillowHomeValueUsd: 221564
 ---
 
 **Engineering Notice for Dentsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richland County.

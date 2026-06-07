@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["98036", "98037", "98046"]
 zipCodes: ["98046", "98036", "98037"]
 localPaths: ["Snohomish County / coords 47.8300, -122.3000", "Snohomish County / ZIP 98036 sector", "Snohomish County / ZIP 98046 sector", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 423 ft band"]
+zillowHomeValueUsd: 806882
 ---
 
 **Engineering Notice for Lynnwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

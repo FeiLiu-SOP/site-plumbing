@@ -12,6 +12,7 @@ lng: -90.8700
 zipSample: ["63385", "63348"]
 zipCodes: ["63348", "63385"]
 localPaths: ["St. Charles County / elevation 620 ft band", "St. Charles County / ZIP 63348 sector", "St. Charles County / coords 38.8200, -90.8700", "St. Charles County / ZIP 63385 sector", "St. Charles County / primary ZIP 63348"]
+zillowHomeValueUsd: 439326
 ---
 
 **Engineering Notice for Wentzville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.

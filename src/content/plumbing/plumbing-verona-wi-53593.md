@@ -12,6 +12,7 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / ZIP 53593 sector", "Dane County / coords 42.9900, -89.5400", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
+zillowHomeValueUsd: 593069
 ---
 
 **Engineering Notice for Verona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.

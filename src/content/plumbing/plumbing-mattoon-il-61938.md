@@ -12,6 +12,7 @@ lng: -88.3600
 zipSample: ["61938"]
 zipCodes: ["61938"]
 localPaths: ["Coles County / primary ZIP 61938", "Coles County / elevation 728 ft band", "Coles County / ZIP 61938 sector", "Coles County / coords 39.4800, -88.3600"]
+zillowHomeValueUsd: 122415
 ---
 
 **Engineering Notice for Mattoon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coles County.

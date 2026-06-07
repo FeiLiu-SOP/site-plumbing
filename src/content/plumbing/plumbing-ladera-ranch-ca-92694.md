@@ -12,6 +12,7 @@ lng: -117.6400
 zipSample: ["92694"]
 zipCodes: ["92694"]
 localPaths: ["Orange County / elevation 512 ft band", "Orange County / ZIP 92694 sector", "Orange County / primary ZIP 92694", "Orange County / coords 33.5500, -117.6400"]
+zillowHomeValueUsd: 1275267
 ---
 
 **Engineering Notice for Ladera Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

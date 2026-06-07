@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33186", "Miami-Dade County / elevation 20 ft band", "Miami-Dade County / coords 25.6400, -80.4000", "Miami-Dade County / ZIP 33186 sector"]
+zillowHomeValueUsd: 522096
 ---
 
 **Engineering Notice for Three Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

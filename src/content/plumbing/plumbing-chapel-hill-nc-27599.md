@@ -12,6 +12,7 @@ lng: -79.0400
 zipSample: ["27515", "27599", "27514", "27516", "27517"]
 zipCodes: ["27517", "27515", "27514", "27599", "27516"]
 localPaths: ["Orange County / ZIP 27516 sector", "Orange County / elevation 302 ft band", "Orange County / primary ZIP 27599", "Orange County / ZIP 27517 sector", "Orange County / coords 35.9300, -79.0400"]
+zillowHomeValueUsd: 642694
 ---
 
 **Engineering Notice for Chapel Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

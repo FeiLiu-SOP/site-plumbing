@@ -12,6 +12,7 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / ZIP 97062 sector", "Washington County / elevation 164 ft band", "Washington County / coords 45.3800, -122.7700", "Washington County / primary ZIP 97062"]
+zillowHomeValueUsd: 640362
 ---
 
 **Engineering Notice for Tualatin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

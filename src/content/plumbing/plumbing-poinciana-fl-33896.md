@@ -12,6 +12,7 @@ lng: -81.4800
 zipSample: ["34759", "33896", "34758"]
 zipCodes: ["34758", "33896", "34759"]
 localPaths: ["Polk County / primary ZIP 33896", "Polk County / ZIP 34759 sector", "Polk County / ZIP 34758 sector", "Polk County / ZIP 33896 sector", "Polk County / elevation 92 ft band"]
+zillowHomeValueUsd: 356469
 ---
 
 **Engineering Notice for Poinciana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

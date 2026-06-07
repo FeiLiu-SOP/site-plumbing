@@ -12,6 +12,7 @@ lng: -87.6800
 zipSample: ["60406"]
 zipCodes: ["60406"]
 localPaths: ["Cook County / elevation 646 ft band", "Cook County / coords 41.6600, -87.6800", "Cook County / ZIP 60406 sector", "Cook County / primary ZIP 60406"]
+zillowHomeValueUsd: 195288
 ---
 
 **Engineering Notice for Blue Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

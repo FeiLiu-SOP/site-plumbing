@@ -12,6 +12,7 @@ lng: -87.2700
 zipSample: ["32505", "32507", "32506"]
 zipCodes: ["32505", "32506", "32507"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32506 sector", "Escambia County / ZIP 32505 sector", "Escambia County / coords 30.4300, -87.2700", "Escambia County / elevation 98 ft band"]
+zillowHomeValueUsd: 148965
 ---
 
 **Engineering Notice for West Pensacola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.

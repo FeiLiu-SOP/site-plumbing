@@ -12,6 +12,7 @@ lng: -86.7600
 zipSample: ["35124"]
 zipCodes: ["35124"]
 localPaths: ["Shelby County / primary ZIP 35124", "Shelby County / ZIP 35124 sector", "Shelby County / coords 33.3100, -86.7600", "Shelby County / elevation 883 ft band"]
+zillowHomeValueUsd: 348416
 ---
 
 **Engineering Notice for Pelham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

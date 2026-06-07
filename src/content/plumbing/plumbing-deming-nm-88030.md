@@ -12,6 +12,7 @@ lng: -107.7500
 zipSample: ["88030", "88031"]
 zipCodes: ["88031", "88030"]
 localPaths: ["Luna County / primary ZIP 88030", "Luna County / coords 32.2600, -107.7500", "Luna County / ZIP 88030 sector", "Luna County / elevation 4334 ft band", "Luna County / ZIP 88031 sector"]
+zillowHomeValueUsd: 163711
 ---
 
 **Engineering Notice for Deming:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Luna County.

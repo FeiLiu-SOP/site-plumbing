@@ -12,6 +12,7 @@ lng: -85.6600
 zipSample: ["49506", "49555", "49546", "49508", "49515"]
 zipCodes: ["49502", "49507", "49506", "49555", "49515", "49503", "49523", "49588", "49505", "49504", "49501", "49546"]
 localPaths: ["Kent County / ZIP 49506 sector", "Kent County / elevation 748 ft band", "Kent County / ZIP 49508 sector", "Kent County / ZIP 49555 sector", "Kent County / primary ZIP 49546"]
+zillowHomeValueUsd: 501049
 ---
 
 **Engineering Notice for Grand Rapids:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

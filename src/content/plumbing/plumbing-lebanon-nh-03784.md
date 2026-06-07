@@ -12,6 +12,7 @@ lng: -72.2500
 zipSample: ["03784", "03756", "03766"]
 zipCodes: ["03784", "03756", "03766"]
 localPaths: ["Grafton County / ZIP 03766 sector", "Grafton County / elevation 607 ft band", "Grafton County / primary ZIP 03784", "Grafton County / ZIP 03756 sector", "Grafton County / ZIP 03784 sector"]
+zillowHomeValueUsd: 477929
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grafton County.

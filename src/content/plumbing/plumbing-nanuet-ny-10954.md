@@ -12,6 +12,7 @@ lng: -74.0200
 zipSample: ["10954"]
 zipCodes: ["10954"]
 localPaths: ["Rockland County / coords 41.1000, -74.0200", "Rockland County / ZIP 10954 sector", "Rockland County / elevation 322 ft band", "Rockland County / primary ZIP 10954"]
+zillowHomeValueUsd: 625983
 ---
 
 **Engineering Notice for Nanuet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.

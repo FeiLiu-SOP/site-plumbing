@@ -12,6 +12,7 @@ lng: -87.9400
 zipSample: ["60031"]
 zipCodes: ["60031"]
 localPaths: ["Lake County / elevation 715 ft band", "Lake County / primary ZIP 60031", "Lake County / coords 42.3700, -87.9400", "Lake County / ZIP 60031 sector"]
+zillowHomeValueUsd: 366270
 ---
 
 **Engineering Notice for Gurnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

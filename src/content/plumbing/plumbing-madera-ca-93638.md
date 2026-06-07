@@ -12,6 +12,7 @@ lng: -120.0800
 zipSample: ["93639", "93637", "93638"]
 zipCodes: ["93637", "93638", "93639"]
 localPaths: ["Madera County / ZIP 93638 sector", "Madera County / ZIP 93637 sector", "Madera County / elevation 272 ft band", "Madera County / coords 36.9600, -120.0800", "Madera County / primary ZIP 93638"]
+zillowHomeValueUsd: 363092
 ---
 
 **Engineering Notice for Madera:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madera County.

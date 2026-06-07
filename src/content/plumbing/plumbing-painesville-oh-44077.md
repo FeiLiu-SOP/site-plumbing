@@ -12,6 +12,7 @@ lng: -81.2500
 zipSample: ["44077"]
 zipCodes: ["44077"]
 localPaths: ["Lake County / ZIP 44077 sector", "Lake County / coords 41.7200, -81.2500", "Lake County / primary ZIP 44077", "Lake County / elevation 650 ft band"]
+zillowHomeValueUsd: 252732
 ---
 
 **Engineering Notice for Painesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -87.8400
 zipSample: ["60062", "60082"]
 zipCodes: ["60062", "60082"]
 localPaths: ["Cook County / ZIP 60082 sector", "Cook County / primary ZIP 60062", "Cook County / ZIP 60062 sector", "Cook County / coords 42.1300, -87.8400", "Cook County / elevation 676 ft band"]
+zillowHomeValueUsd: 692676
 ---
 
 **Engineering Notice for Northbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

@@ -12,6 +12,7 @@ lng: -122.1900
 zipSample: ["98058", "98056", "98059", "98057", "98055"]
 zipCodes: ["98058", "98055", "98057", "98056", "98059"]
 localPaths: ["King County / ZIP 98055 sector", "King County / ZIP 98058 sector", "King County / elevation 95 ft band", "King County / ZIP 98056 sector", "King County / coords 47.4800, -122.1900"]
+zillowHomeValueUsd: 981973
 ---
 
 **Engineering Notice for Renton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

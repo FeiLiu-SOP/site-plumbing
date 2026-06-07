@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["45373", "45374"]
 zipCodes: ["45374", "45373"]
 localPaths: ["Miami County / elevation 860 ft band", "Miami County / primary ZIP 45373", "Miami County / coords 40.0400, -84.2200", "Miami County / ZIP 45374 sector", "Miami County / ZIP 45373 sector"]
+zillowHomeValueUsd: 280676
 ---
 
 **Engineering Notice for Troy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami County.

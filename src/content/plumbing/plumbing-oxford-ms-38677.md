@@ -12,6 +12,7 @@ lng: -89.5300
 zipSample: ["38655", "38677"]
 zipCodes: ["38677", "38655"]
 localPaths: ["Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300", "Lafayette County / elevation 486 ft band", "Lafayette County / primary ZIP 38677", "Lafayette County / ZIP 38677 sector"]
+zillowHomeValueUsd: 413639
 ---
 
 **Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafayette County.

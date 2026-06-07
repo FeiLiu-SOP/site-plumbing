@@ -12,6 +12,7 @@ lng: -70.8600
 zipSample: ["01915", "01965"]
 zipCodes: ["01915", "01965"]
 localPaths: ["Essex County / primary ZIP 01965", "Essex County / elevation 95 ft band", "Essex County / ZIP 01915 sector", "Essex County / coords 42.5700, -70.8600", "Essex County / ZIP 01965 sector"]
+zillowHomeValueUsd: 755840
 ---
 
 **Engineering Notice for Beverly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

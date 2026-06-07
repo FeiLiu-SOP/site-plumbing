@@ -12,6 +12,7 @@ lng: -118.1100
 zipSample: ["90640"]
 zipCodes: ["90640"]
 localPaths: ["Los Angeles County / ZIP 90640 sector", "Los Angeles County / coords 34.0200, -118.1100", "Los Angeles County / primary ZIP 90640", "Los Angeles County / elevation 200 ft band"]
+zillowHomeValueUsd: 827421
 ---
 
 **Engineering Notice for Montebello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

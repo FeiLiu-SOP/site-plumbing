@@ -12,6 +12,7 @@ lng: -74.4100
 zipSample: ["07005", "07054"]
 zipCodes: ["07054", "07005"]
 localPaths: ["Morris County / coords 40.8600, -74.4100", "Morris County / elevation 302 ft band", "Morris County / primary ZIP 07054", "Morris County / ZIP 07054 sector", "Morris County / ZIP 07005 sector"]
+zillowHomeValueUsd: 724332
 ---
 
 **Engineering Notice for Parsippany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.

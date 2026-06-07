@@ -12,6 +12,7 @@ lng: -73.9900
 zipSample: ["07628"]
 zipCodes: ["07628"]
 localPaths: ["Bergen County / ZIP 07628 sector", "Bergen County / coords 40.9500, -73.9900", "Bergen County / primary ZIP 07628", "Bergen County / elevation 112 ft band"]
+zillowHomeValueUsd: 667101
 ---
 
 **Engineering Notice for Dumont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

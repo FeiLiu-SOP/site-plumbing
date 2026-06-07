@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["98198", "98131", "98168", "98158", "98188"]
 zipCodes: ["98168", "98158", "98198", "98131", "98148", "98188"]
 localPaths: ["King County / coords 47.4400, -122.3000", "King County / ZIP 98198 sector", "King County / ZIP 98158 sector", "King County / elevation 377 ft band", "King County / ZIP 98188 sector"]
+zillowHomeValueUsd: 587760
 ---
 
 **Engineering Notice for SeaTac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

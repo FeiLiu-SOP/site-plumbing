@@ -12,6 +12,7 @@ lng: -81.3500
 zipSample: ["34743"]
 zipCodes: ["34743"]
 localPaths: ["Osceola County / coords 28.3300, -81.3500", "Osceola County / primary ZIP 34743", "Osceola County / ZIP 34743 sector", "Osceola County / elevation 89 ft band"]
+zillowHomeValueUsd: 339197
 ---
 
 **Engineering Notice for Buenaventura Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Osceola County.

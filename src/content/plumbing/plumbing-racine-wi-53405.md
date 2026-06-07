@@ -12,6 +12,7 @@ lng: -87.8100
 zipSample: ["53408", "53404", "53401", "53402", "53406"]
 zipCodes: ["53406", "53403", "53408", "53402", "53401", "53404", "53405"]
 localPaths: ["Racine County / ZIP 53402 sector", "Racine County / ZIP 53401 sector", "Racine County / ZIP 53406 sector", "Racine County / primary ZIP 53405", "Racine County / coords 42.7300, -87.8100"]
+zillowHomeValueUsd: 227133
 ---
 
 **Engineering Notice for Racine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Racine County.

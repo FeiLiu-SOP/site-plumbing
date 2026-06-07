@@ -12,6 +12,7 @@ lng: -91.1200
 zipSample: ["52601"]
 zipCodes: ["52601"]
 localPaths: ["Des Moines County / coords 40.8100, -91.1200", "Des Moines County / elevation 643 ft band", "Des Moines County / primary ZIP 52601", "Des Moines County / ZIP 52601 sector"]
+zillowHomeValueUsd: 124216
 ---
 
 **Engineering Notice for Burlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Des Moines County.

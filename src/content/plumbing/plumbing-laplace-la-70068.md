@@ -12,6 +12,7 @@ lng: -90.4800
 zipSample: ["70068", "70069"]
 zipCodes: ["70068", "70069"]
 localPaths: ["St. John the Baptist Parish / ZIP 70069 sector", "St. John the Baptist Parish / elevation -1 ft band", "St. John the Baptist Parish / ZIP 70068 sector", "St. John the Baptist Parish / coords 30.0700, -90.4800", "St. John the Baptist Parish / primary ZIP 70068"]
+zillowHomeValueUsd: 214947
 ---
 
 **Engineering Notice for Laplace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. John the Baptist Parish.

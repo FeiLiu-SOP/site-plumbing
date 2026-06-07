@@ -12,6 +12,7 @@ lng: -79.7400
 zipSample: ["27289", "27288"]
 zipCodes: ["27289", "27288"]
 localPaths: ["Rockingham County / primary ZIP 27288", "Rockingham County / ZIP 27288 sector", "Rockingham County / coords 36.5000, -79.7400", "Rockingham County / ZIP 27289 sector", "Rockingham County / elevation 643 ft band"]
+zillowHomeValueUsd: 149518
 ---
 
 **Engineering Notice for Eden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockingham County.

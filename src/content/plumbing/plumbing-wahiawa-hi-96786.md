@@ -12,6 +12,7 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / coords 21.5000, -158.0200", "Honolulu County / primary ZIP 96786"]
+zillowHomeValueUsd: 850672
 ---
 
 **Engineering Notice for Wahiawa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

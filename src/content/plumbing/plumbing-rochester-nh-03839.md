@@ -12,6 +12,7 @@ lng: -70.9800
 zipSample: ["03867", "03868", "03866", "03839"]
 zipCodes: ["03866", "03867", "03839", "03868"]
 localPaths: ["Strafford County / ZIP 03868 sector", "Strafford County / ZIP 03866 sector", "Strafford County / ZIP 03839 sector", "Strafford County / primary ZIP 03839", "Strafford County / ZIP 03867 sector"]
+zillowHomeValueUsd: 414514
 ---
 
 **Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Strafford County.

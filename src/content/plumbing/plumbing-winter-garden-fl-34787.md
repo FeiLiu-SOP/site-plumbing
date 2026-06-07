@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["34787"]
 zipCodes: ["34787"]
 localPaths: ["Orange County / ZIP 34787 sector", "Orange County / coords 28.5400, -81.6000", "Orange County / primary ZIP 34787", "Orange County / elevation 135 ft band"]
+zillowHomeValueUsd: 571232
 ---
 
 **Engineering Notice for Winter Garden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

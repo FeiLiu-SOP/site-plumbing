@@ -12,6 +12,7 @@ lng: -93.4500
 zipSample: ["55303"]
 zipCodes: ["55303"]
 localPaths: ["Anoka County / coords 45.2600, -93.4500", "Anoka County / ZIP 55303 sector", "Anoka County / elevation 886 ft band", "Anoka County / primary ZIP 55303"]
+zillowHomeValueUsd: 372445
 ---
 
 **Engineering Notice for Ramsey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.

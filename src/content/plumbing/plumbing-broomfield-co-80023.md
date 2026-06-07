@@ -12,6 +12,7 @@ lng: -105.0500
 zipSample: ["80038", "80020", "80021", "80023", "80516"]
 zipCodes: ["80516", "80023", "80038", "80021", "80020"]
 localPaths: ["Broomfield County / ZIP 80020 sector", "Broomfield County / ZIP 80516 sector", "Broomfield County / coords 39.9500, -105.0500", "Broomfield County / ZIP 80038 sector", "Broomfield County / ZIP 80021 sector"]
+zillowHomeValueUsd: 825358
 ---
 
 **Engineering Notice for Broomfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broomfield County.

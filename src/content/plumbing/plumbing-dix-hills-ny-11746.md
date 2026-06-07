@@ -12,6 +12,7 @@ lng: -73.3400
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / coords 40.8000, -73.3400", "Suffolk County / elevation 213 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / ZIP 11746 sector"]
+zillowHomeValueUsd: 771445
 ---
 
 **Engineering Notice for Dix Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

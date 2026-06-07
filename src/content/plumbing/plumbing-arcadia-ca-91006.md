@@ -12,6 +12,7 @@ lng: -118.0400
 zipSample: ["91077", "91007", "91006", "91066"]
 zipCodes: ["91077", "91066", "91007", "91006"]
 localPaths: ["Los Angeles County / ZIP 91077 sector", "Los Angeles County / primary ZIP 91006", "Los Angeles County / coords 34.1300, -118.0400", "Los Angeles County / ZIP 91066 sector", "Los Angeles County / elevation 459 ft band"]
+zillowHomeValueUsd: 1404708
 ---
 
 **Engineering Notice for Arcadia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

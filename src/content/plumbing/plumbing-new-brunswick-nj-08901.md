@@ -12,6 +12,7 @@ lng: -74.4400
 zipSample: ["08933", "08875", "08901", "08906"]
 zipCodes: ["08875", "08901", "08933", "08906"]
 localPaths: ["Middlesex County / ZIP 08901 sector", "Middlesex County / ZIP 08906 sector", "Middlesex County / primary ZIP 08901", "Middlesex County / ZIP 08875 sector", "Middlesex County / ZIP 08933 sector"]
+zillowHomeValueUsd: 443136
 ---
 
 **Engineering Notice for New Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

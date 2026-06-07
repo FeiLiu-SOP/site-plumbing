@@ -12,6 +12,7 @@ lng: -88.4300
 zipSample: ["60450"]
 zipCodes: ["60450"]
 localPaths: ["Grundy County / primary ZIP 60450", "Grundy County / coords 41.3700, -88.4300", "Grundy County / elevation 538 ft band", "Grundy County / ZIP 60450 sector"]
+zillowHomeValueUsd: 307960
 ---
 
 **Engineering Notice for Morris:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grundy County.

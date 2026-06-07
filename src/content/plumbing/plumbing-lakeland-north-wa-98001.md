@@ -12,6 +12,7 @@ lng: -122.2800
 zipSample: ["98001"]
 zipCodes: ["98001"]
 localPaths: ["King County / coords 47.3400, -122.2800", "King County / ZIP 98001 sector", "King County / elevation 430 ft band", "King County / primary ZIP 98001"]
+zillowHomeValueUsd: 640554
 ---
 
 **Engineering Notice for Lakeland North:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

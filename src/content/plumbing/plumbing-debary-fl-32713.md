@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["32713", "32753"]
 zipCodes: ["32753", "32713"]
 localPaths: ["Volusia County / coords 28.8800, -81.3200", "Volusia County / elevation 72 ft band", "Volusia County / ZIP 32753 sector", "Volusia County / primary ZIP 32713", "Volusia County / ZIP 32713 sector"]
+zillowHomeValueUsd: 377998
 ---
 
 **Engineering Notice for DeBary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.

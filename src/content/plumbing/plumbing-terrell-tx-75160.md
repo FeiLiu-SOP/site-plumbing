@@ -12,6 +12,7 @@ lng: -96.2900
 zipSample: ["75161", "75160"]
 zipCodes: ["75161", "75160"]
 localPaths: ["Kaufman County / ZIP 75161 sector", "Kaufman County / elevation 528 ft band", "Kaufman County / ZIP 75160 sector", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / primary ZIP 75160"]
+zillowHomeValueUsd: 261887
 ---
 
 **Engineering Notice for Terrell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kaufman County.

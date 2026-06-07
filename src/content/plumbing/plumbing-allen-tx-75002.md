@@ -12,6 +12,7 @@ lng: -96.6700
 zipSample: ["75002", "75013"]
 zipCodes: ["75013", "75002"]
 localPaths: ["Collin County / coords 33.1100, -96.6700", "Collin County / ZIP 75002 sector", "Collin County / ZIP 75013 sector", "Collin County / primary ZIP 75002", "Collin County / elevation 673 ft band"]
+zillowHomeValueUsd: 457435
 ---
 
 **Engineering Notice for Allen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

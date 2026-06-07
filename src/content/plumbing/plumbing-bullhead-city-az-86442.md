@@ -12,6 +12,7 @@ lng: -114.5500
 zipSample: ["86429", "86430", "86442", "86439"]
 zipCodes: ["86442", "86439", "86429", "86430"]
 localPaths: ["Mohave County / ZIP 86442 sector", "Mohave County / primary ZIP 86442", "Mohave County / ZIP 86430 sector", "Mohave County / coords 35.1200, -114.5500", "Mohave County / elevation 935 ft band"]
+zillowHomeValueUsd: 270466
 ---
 
 **Engineering Notice for Bullhead City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.

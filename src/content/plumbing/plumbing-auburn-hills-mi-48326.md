@@ -12,6 +12,7 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / primary ZIP 48326", "Oakland County / coords 42.6700, -83.2400", "Oakland County / ZIP 48321 sector", "Oakland County / ZIP 48326 sector", "Oakland County / elevation 965 ft band"]
+zillowHomeValueUsd: 280663
 ---
 
 **Engineering Notice for Auburn Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

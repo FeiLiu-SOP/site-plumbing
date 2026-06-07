@@ -12,6 +12,7 @@ lng: -117.8900
 zipSample: ["91789", "91748"]
 zipCodes: ["91789", "91748"]
 localPaths: ["Los Angeles County / coords 33.9700, -117.8900", "Los Angeles County / ZIP 91748 sector", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 659 ft band", "Los Angeles County / primary ZIP 91748"]
+zillowHomeValueUsd: 970374
 ---
 
 **Engineering Notice for Rowland Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

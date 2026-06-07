@@ -12,6 +12,7 @@ lng: -85.5900
 zipSample: ["49548", "49518", "49512", "49560", "49546"]
 zipCodes: ["49560", "49518", "49548", "49512", "49546", "49508"]
 localPaths: ["Kent County / ZIP 49548 sector", "Kent County / ZIP 49546 sector", "Kent County / coords 42.8900, -85.5900", "Kent County / ZIP 49560 sector", "Kent County / ZIP 49518 sector"]
+zillowHomeValueUsd: 364969
 ---
 
 **Engineering Notice for Kentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

@@ -12,6 +12,7 @@ lng: -86.9600
 zipSample: ["32583"]
 zipCodes: ["32583"]
 localPaths: ["Santa Rosa County / ZIP 32583 sector", "Santa Rosa County / coords 30.6200, -86.9600", "Santa Rosa County / elevation 167 ft band", "Santa Rosa County / primary ZIP 32583"]
+zillowHomeValueUsd: 288014
 ---
 
 **Engineering Notice for East Milton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Rosa County.

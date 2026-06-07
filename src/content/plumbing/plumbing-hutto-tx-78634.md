@@ -12,6 +12,7 @@ lng: -97.5400
 zipSample: ["78634"]
 zipCodes: ["78634"]
 localPaths: ["Williamson County / coords 30.5400, -97.5400", "Williamson County / primary ZIP 78634", "Williamson County / elevation 659 ft band", "Williamson County / ZIP 78634 sector"]
+zillowHomeValueUsd: 338100
 ---
 
 **Engineering Notice for Hutto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.

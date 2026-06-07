@@ -12,6 +12,7 @@ lng: -77.0800
 zipSample: ["20897", "20916", "20906", "20908", "20853"]
 zipCodes: ["20906", "20853", "20897", "20908", "20916"]
 localPaths: ["Montgomery County / ZIP 20908 sector", "Montgomery County / primary ZIP 20853", "Montgomery County / ZIP 20916 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.0900, -77.0800"]
+zillowHomeValueUsd: 636792
 ---
 
 **Engineering Notice for Aspen Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -122.4700
 zipSample: ["98229", "98228", "98225", "98226"]
 zipCodes: ["98229", "98225", "98226", "98228"]
 localPaths: ["Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98228 sector", "Whatcom County / primary ZIP 98225", "Whatcom County / ZIP 98225 sector", "Whatcom County / ZIP 98226 sector"]
+zillowHomeValueUsd: 669600
 ---
 
 **Engineering Notice for Bellingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.

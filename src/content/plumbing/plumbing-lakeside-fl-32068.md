@@ -12,6 +12,7 @@ lng: -81.7700
 zipSample: ["32065", "32068", "32030", "32073"]
 zipCodes: ["32030", "32065", "32073", "32068"]
 localPaths: ["Clay County / coords 30.1400, -81.7700", "Clay County / primary ZIP 32068", "Clay County / ZIP 32030 sector", "Clay County / elevation 69 ft band", "Clay County / ZIP 32073 sector"]
+zillowHomeValueUsd: 325221
 ---
 
 **Engineering Notice for Lakeside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

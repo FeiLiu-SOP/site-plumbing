@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60131"]
 zipCodes: ["60131"]
 localPaths: ["Cook County / primary ZIP 60131", "Cook County / elevation 653 ft band", "Cook County / coords 41.9400, -87.8800", "Cook County / ZIP 60131 sector"]
+zillowHomeValueUsd: 308644
 ---
 
 **Engineering Notice for Franklin Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

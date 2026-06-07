@@ -12,6 +12,7 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / ZIP 60172 sector", "DuPage County / primary ZIP 60172", "DuPage County / coords 41.9800, -88.0900", "DuPage County / elevation 794 ft band"]
+zillowHomeValueUsd: 374407
 ---
 
 **Engineering Notice for Roselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

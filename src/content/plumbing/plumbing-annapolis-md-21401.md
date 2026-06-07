@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["21411", "21401", "21404", "21403"]
 zipCodes: ["21401", "21411", "21404", "21403"]
 localPaths: ["Anne Arundel County / elevation 20 ft band", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21403 sector", "Anne Arundel County / ZIP 21411 sector", "Anne Arundel County / ZIP 21401 sector"]
+zillowHomeValueUsd: 625135
 ---
 
 **Engineering Notice for Annapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.

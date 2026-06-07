@@ -12,6 +12,7 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / primary ZIP 98944", "Yakima County / coords 46.3200, -120.0100", "Yakima County / ZIP 98944 sector", "Yakima County / elevation 732 ft band"]
+zillowHomeValueUsd: 323252
 ---
 
 **Engineering Notice for Sunnyside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yakima County.

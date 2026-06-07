@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["30009", "30004"]
 zipCodes: ["30009", "30004"]
 localPaths: ["Fulton County / ZIP 30009 sector", "Fulton County / coords 34.1400, -84.3100", "Fulton County / ZIP 30004 sector", "Fulton County / elevation 978 ft band", "Fulton County / primary ZIP 30004"]
+zillowHomeValueUsd: 761003
 ---
 
 **Engineering Notice for Milton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

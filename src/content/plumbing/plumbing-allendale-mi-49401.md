@@ -12,6 +12,7 @@ lng: -85.9500
 zipSample: ["49401"]
 zipCodes: ["49401"]
 localPaths: ["Ottawa County / primary ZIP 49401", "Ottawa County / coords 42.9800, -85.9500", "Ottawa County / ZIP 49401 sector", "Ottawa County / elevation 610 ft band"]
+zillowHomeValueUsd: 402571
 ---
 
 **Engineering Notice for Allendale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.

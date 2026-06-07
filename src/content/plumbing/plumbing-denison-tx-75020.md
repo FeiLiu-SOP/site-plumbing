@@ -12,6 +12,7 @@ lng: -96.5800
 zipSample: ["75020"]
 zipCodes: ["75020"]
 localPaths: ["Grayson County / primary ZIP 75020", "Grayson County / elevation 823 ft band", "Grayson County / coords 33.7700, -96.5800", "Grayson County / ZIP 75020 sector"]
+zillowHomeValueUsd: 222108
 ---
 
 **Engineering Notice for Denison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grayson County.

@@ -12,6 +12,7 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / primary ZIP 60126", "DuPage County / elevation 705 ft band", "DuPage County / coords 41.9000, -87.9400", "DuPage County / ZIP 60126 sector"]
+zillowHomeValueUsd: 611458
 ---
 
 **Engineering Notice for Elmhurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

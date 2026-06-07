@@ -12,6 +12,7 @@ lng: -122.7900
 zipSample: ["98503", "98513", "98516", "98509"]
 zipCodes: ["98509", "98516", "98503", "98513"]
 localPaths: ["Thurston County / ZIP 98513 sector", "Thurston County / ZIP 98516 sector", "Thurston County / primary ZIP 98513", "Thurston County / coords 47.0500, -122.7900", "Thurston County / elevation 174 ft band"]
+zillowHomeValueUsd: 507971
 ---
 
 **Engineering Notice for Lacey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Thurston County.

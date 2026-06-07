@@ -12,6 +12,7 @@ lng: -83.6500
 zipSample: ["43403", "43402"]
 zipCodes: ["43402", "43403"]
 localPaths: ["Wood County / primary ZIP 43402", "Wood County / coords 41.3800, -83.6500", "Wood County / ZIP 43402 sector", "Wood County / elevation 699 ft band", "Wood County / ZIP 43403 sector"]
+zillowHomeValueUsd: 260873
 ---
 
 **Engineering Notice for Bowling Green:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wood County.

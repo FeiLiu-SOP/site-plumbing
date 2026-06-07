@@ -12,6 +12,7 @@ lng: -121.4400
 zipSample: ["95673"]
 zipCodes: ["95673"]
 localPaths: ["Sacramento County / ZIP 95673 sector", "Sacramento County / primary ZIP 95673", "Sacramento County / coords 38.6900, -121.4400", "Sacramento County / elevation 59 ft band"]
+zillowHomeValueUsd: 453203
 ---
 
 **Engineering Notice for Rio Linda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

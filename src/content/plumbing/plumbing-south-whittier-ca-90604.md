@@ -12,6 +12,7 @@ lng: -118.0300
 zipSample: ["90605", "90604"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / primary ZIP 90604", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / coords 33.9300, -118.0300"]
+zillowHomeValueUsd: 828661
 ---
 
 **Engineering Notice for South Whittier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

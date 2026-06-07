@@ -12,6 +12,8 @@ lng: -104.7700
 zipSample: ["80913", "80902"]
 zipCodes: ["80902", "80913"]
 localPaths: ["El Paso County / ZIP 80913 sector", "El Paso County / coords 38.7100, -104.7700", "El Paso County / elevation 5758 ft band", "El Paso County / ZIP 80902 sector", "El Paso County / primary ZIP 80902"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 540641
 ---
 
 **Engineering Notice for Fort Carson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

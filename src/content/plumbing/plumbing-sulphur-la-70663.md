@@ -12,6 +12,7 @@ lng: -93.3600
 zipSample: ["70665", "70663"]
 zipCodes: ["70665", "70663"]
 localPaths: ["Calcasieu Parish / coords 30.2300, -93.3600", "Calcasieu Parish / elevation 43 ft band", "Calcasieu Parish / ZIP 70665 sector", "Calcasieu Parish / primary ZIP 70663", "Calcasieu Parish / ZIP 70663 sector"]
+zillowHomeValueUsd: 177426
 ---
 
 **Engineering Notice for Sulphur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calcasieu Parish.

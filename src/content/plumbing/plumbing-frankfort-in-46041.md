@@ -12,6 +12,7 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / primary ZIP 46041", "Clinton County / coords 40.2800, -86.5200", "Clinton County / elevation 866 ft band", "Clinton County / ZIP 46041 sector"]
+zillowHomeValueUsd: 210004
 ---
 
 **Engineering Notice for Frankfort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.

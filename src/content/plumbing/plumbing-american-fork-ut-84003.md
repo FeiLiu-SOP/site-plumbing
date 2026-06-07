@@ -12,6 +12,7 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / elevation 4629 ft band", "Utah County / primary ZIP 84003", "Utah County / coords 40.3800, -111.8000", "Utah County / ZIP 84003 sector"]
+zillowHomeValueUsd: 598750
 ---
 
 **Engineering Notice for American Fork:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

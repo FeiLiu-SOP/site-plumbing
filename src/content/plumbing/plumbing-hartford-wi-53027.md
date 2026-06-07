@@ -12,6 +12,7 @@ lng: -88.3800
 zipSample: ["53027"]
 zipCodes: ["53027"]
 localPaths: ["Washington County / coords 43.3200, -88.3800", "Washington County / elevation 1020 ft band", "Washington County / primary ZIP 53027", "Washington County / ZIP 53027 sector"]
+zillowHomeValueUsd: 409555
 ---
 
 **Engineering Notice for Hartford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

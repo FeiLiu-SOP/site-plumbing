@@ -12,6 +12,7 @@ lng: -111.1100
 zipSample: ["85757"]
 zipCodes: ["85757"]
 localPaths: ["Pima County / primary ZIP 85757", "Pima County / coords 32.1400, -111.1100", "Pima County / elevation 2484 ft band", "Pima County / ZIP 85757 sector"]
+zillowHomeValueUsd: 324460
 ---
 
 **Engineering Notice for Valencia West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

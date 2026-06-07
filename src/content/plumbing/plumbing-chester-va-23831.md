@@ -12,6 +12,7 @@ lng: -77.4300
 zipSample: ["23831"]
 zipCodes: ["23831"]
 localPaths: ["Chesterfield County / elevation 187 ft band", "Chesterfield County / ZIP 23831 sector", "Chesterfield County / coords 37.3500, -77.4300", "Chesterfield County / primary ZIP 23831"]
+zillowHomeValueUsd: 379632
 ---
 
 **Engineering Notice for Chester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chesterfield County.

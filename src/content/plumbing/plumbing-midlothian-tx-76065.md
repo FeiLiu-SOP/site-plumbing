@@ -12,6 +12,7 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / coords 32.4700, -96.9900", "Ellis County / ZIP 76065 sector", "Ellis County / elevation 787 ft band", "Ellis County / primary ZIP 76065"]
+zillowHomeValueUsd: 455505
 ---
 
 **Engineering Notice for Midlothian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.

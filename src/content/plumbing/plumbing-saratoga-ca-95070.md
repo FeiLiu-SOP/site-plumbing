@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["95071", "95070"]
 zipCodes: ["95071", "95070"]
 localPaths: ["Santa Clara County / ZIP 95070 sector", "Santa Clara County / elevation 417 ft band", "Santa Clara County / ZIP 95071 sector", "Santa Clara County / coords 37.2700, -122.0300", "Santa Clara County / primary ZIP 95070"]
+zillowHomeValueUsd: 4178214
 ---
 
 **Engineering Notice for Saratoga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

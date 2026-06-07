@@ -12,6 +12,7 @@ lng: -117.6600
 zipSample: ["91785", "91784", "91786"]
 zipCodes: ["91786", "91784", "91785"]
 localPaths: ["San Bernardino County / ZIP 91784 sector", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / elevation 1483 ft band", "San Bernardino County / ZIP 91785 sector", "San Bernardino County / ZIP 91786 sector"]
+zillowHomeValueUsd: 986171
 ---
 
 **Engineering Notice for Upland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

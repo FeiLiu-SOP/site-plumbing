@@ -12,6 +12,7 @@ lng: -86.1500
 zipSample: ["46074", "46033"]
 zipCodes: ["46074", "46033"]
 localPaths: ["Hamilton County / ZIP 46074 sector", "Hamilton County / coords 40.0300, -86.1500", "Hamilton County / ZIP 46033 sector", "Hamilton County / elevation 902 ft band", "Hamilton County / primary ZIP 46033"]
+zillowHomeValueUsd: 577929
 ---
 
 **Engineering Notice for Westfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

@@ -12,6 +12,7 @@ lng: -117.2200
 zipSample: ["92570", "92571", "92599", "92572"]
 zipCodes: ["92571", "92599", "92572", "92570"]
 localPaths: ["Riverside County / primary ZIP 92570", "Riverside County / ZIP 92572 sector", "Riverside County / ZIP 92570 sector", "Riverside County / coords 33.7900, -117.2200", "Riverside County / elevation 1437 ft band"]
+zillowHomeValueUsd: 580589
 ---
 
 **Engineering Notice for Perris:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

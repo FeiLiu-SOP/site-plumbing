@@ -12,6 +12,7 @@ lng: -88.1200
 zipSample: ["53076", "53022"]
 zipCodes: ["53022", "53076"]
 localPaths: ["Washington County / ZIP 53022 sector", "Washington County / primary ZIP 53076", "Washington County / ZIP 53076 sector", "Washington County / elevation 873 ft band", "Washington County / coords 43.2300, -88.1200"]
+zillowHomeValueUsd: 587298
 ---
 
 **Engineering Notice for Germantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

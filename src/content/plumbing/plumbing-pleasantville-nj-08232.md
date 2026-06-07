@@ -12,6 +12,7 @@ lng: -74.5200
 zipSample: ["08232"]
 zipCodes: ["08232"]
 localPaths: ["Atlantic County / ZIP 08232 sector", "Atlantic County / coords 39.3900, -74.5200", "Atlantic County / primary ZIP 08232", "Atlantic County / elevation 10 ft band"]
+zillowHomeValueUsd: 239828
 ---
 
 **Engineering Notice for Pleasantville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Atlantic County.

@@ -12,6 +12,7 @@ lng: -87.8700
 zipSample: ["60525"]
 zipCodes: ["60525"]
 localPaths: ["Cook County / primary ZIP 60525", "Cook County / elevation 656 ft band", "Cook County / ZIP 60525 sector", "Cook County / coords 41.8100, -87.8700"]
+zillowHomeValueUsd: 485375
 ---
 
 **Engineering Notice for La Grange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

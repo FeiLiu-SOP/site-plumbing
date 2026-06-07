@@ -12,6 +12,7 @@ lng: -87.7000
 zipSample: ["36547", "36542"]
 zipCodes: ["36547", "36542"]
 localPaths: ["Baldwin County / ZIP 36547 sector", "Baldwin County / primary ZIP 36542", "Baldwin County / ZIP 36542 sector", "Baldwin County / elevation 33 ft band", "Baldwin County / coords 30.2800, -87.7000"]
+zillowHomeValueUsd: 455623
 ---
 
 **Engineering Notice for Gulf Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.

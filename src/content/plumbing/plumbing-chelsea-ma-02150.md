@@ -12,6 +12,7 @@ lng: -71.0300
 zipSample: ["02150", "02204"]
 zipCodes: ["02150", "02204"]
 localPaths: ["Suffolk County / primary ZIP 02150", "Suffolk County / ZIP 02150 sector", "Suffolk County / elevation 39 ft band", "Suffolk County / ZIP 02204 sector", "Suffolk County / coords 42.4000, -71.0300"]
+zillowHomeValueUsd: 525546
 ---
 
 **Engineering Notice for Chelsea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

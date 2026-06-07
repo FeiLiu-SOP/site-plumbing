@@ -12,6 +12,7 @@ lng: -71.3200
 zipSample: ["02840", "02841"]
 zipCodes: ["02840", "02841"]
 localPaths: ["Newport County / ZIP 02841 sector", "Newport County / elevation 0 ft band", "Newport County / coords 41.4800, -71.3200", "Newport County / primary ZIP 02841", "Newport County / ZIP 02840 sector"]
+zillowHomeValueUsd: 941658
 ---
 
 **Engineering Notice for Newport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Newport County.

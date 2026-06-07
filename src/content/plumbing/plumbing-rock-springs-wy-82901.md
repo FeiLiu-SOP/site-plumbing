@@ -12,6 +12,7 @@ lng: -109.2200
 zipSample: ["82901", "82902"]
 zipCodes: ["82902", "82901"]
 localPaths: ["Sweetwater County / ZIP 82902 sector", "Sweetwater County / coords 41.5900, -109.2200", "Sweetwater County / ZIP 82901 sector", "Sweetwater County / primary ZIP 82901", "Sweetwater County / elevation 6283 ft band"]
+zillowHomeValueUsd: 289234
 ---
 
 **Engineering Notice for Rock Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sweetwater County.

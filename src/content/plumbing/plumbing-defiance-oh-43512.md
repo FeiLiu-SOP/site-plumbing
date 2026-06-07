@@ -12,6 +12,7 @@ lng: -84.3700
 zipSample: ["43512"]
 zipCodes: ["43512"]
 localPaths: ["Defiance County / coords 41.2800, -84.3700", "Defiance County / elevation 705 ft band", "Defiance County / ZIP 43512 sector", "Defiance County / primary ZIP 43512"]
+zillowHomeValueUsd: 180994
 ---
 
 **Engineering Notice for Defiance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Defiance County.

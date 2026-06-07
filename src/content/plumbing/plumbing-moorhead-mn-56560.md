@@ -12,6 +12,7 @@ lng: -96.7500
 zipSample: ["56560", "56563", "56562"]
 zipCodes: ["56560", "56563", "56562"]
 localPaths: ["Clay County / ZIP 56560 sector", "Clay County / ZIP 56562 sector", "Clay County / elevation 902 ft band", "Clay County / primary ZIP 56560", "Clay County / coords 46.8700, -96.7500"]
+zillowHomeValueUsd: 278545
 ---
 
 **Engineering Notice for Moorhead:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

@@ -12,6 +12,7 @@ lng: -112.0200
 zipSample: ["84016", "84015", "84089"]
 zipCodes: ["84015", "84089", "84016"]
 localPaths: ["Davis County / primary ZIP 84015", "Davis County / elevation 4446 ft band", "Davis County / ZIP 84015 sector", "Davis County / ZIP 84089 sector", "Davis County / coords 41.1000, -112.0200"]
+zillowHomeValueUsd: 465997
 ---
 
 **Engineering Notice for Clearfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.

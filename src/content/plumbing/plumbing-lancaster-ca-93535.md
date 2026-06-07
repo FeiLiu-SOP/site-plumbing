@@ -12,6 +12,7 @@ lng: -118.1800
 zipSample: ["93535", "93584", "93539", "93536", "93534"]
 zipCodes: ["93539", "93535", "93534", "93584", "93536"]
 localPaths: ["Los Angeles County / ZIP 93534 sector", "Los Angeles County / coords 34.6900, -118.1800", "Los Angeles County / ZIP 93535 sector", "Los Angeles County / primary ZIP 93535", "Los Angeles County / ZIP 93584 sector"]
+zillowHomeValueUsd: 430004
 ---
 
 **Engineering Notice for Lancaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

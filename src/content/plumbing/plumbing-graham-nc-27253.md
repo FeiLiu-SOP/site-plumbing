@@ -12,6 +12,7 @@ lng: -79.3900
 zipSample: ["27258", "27216", "27253"]
 zipCodes: ["27216", "27253", "27258"]
 localPaths: ["Alamance County / primary ZIP 27253", "Alamance County / elevation 591 ft band", "Alamance County / ZIP 27253 sector", "Alamance County / ZIP 27216 sector", "Alamance County / coords 36.0600, -79.3900"]
+zillowHomeValueUsd: 301408
 ---
 
 **Engineering Notice for Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alamance County.

@@ -12,6 +12,7 @@ lng: -116.8900
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / ZIP 92544 sector", "Riverside County / elevation 1873 ft band", "Riverside County / primary ZIP 92544", "Riverside County / coords 33.7400, -116.8900"]
+zillowHomeValueUsd: 459534
 ---
 
 **Engineering Notice for Valle Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

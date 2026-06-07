@@ -12,6 +12,7 @@ lng: -91.2300
 zipSample: ["54601", "54602", "54603"]
 zipCodes: ["54603", "54602", "54601"]
 localPaths: ["La Crosse County / coords 43.8200, -91.2300", "La Crosse County / ZIP 54602 sector", "La Crosse County / elevation 627 ft band", "La Crosse County / primary ZIP 54603", "La Crosse County / ZIP 54603 sector"]
+zillowHomeValueUsd: 236852
 ---
 
 **Engineering Notice for La Crosse:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: La Crosse County.

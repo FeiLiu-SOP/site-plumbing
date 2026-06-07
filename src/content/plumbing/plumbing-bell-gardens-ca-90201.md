@@ -12,6 +12,7 @@ lng: -118.1600
 zipSample: ["90202", "90201", "90205"]
 zipCodes: ["90201", "90202", "90205"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.1600", "Los Angeles County / ZIP 90202 sector", "Los Angeles County / ZIP 90205 sector", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / primary ZIP 90201"]
+zillowHomeValueUsd: 687007
 ---
 
 **Engineering Notice for Bell Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

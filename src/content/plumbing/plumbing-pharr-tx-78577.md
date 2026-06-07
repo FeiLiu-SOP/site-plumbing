@@ -12,6 +12,7 @@ lng: -98.1900
 zipSample: ["78577"]
 zipCodes: ["78577"]
 localPaths: ["Hidalgo County / elevation 102 ft band", "Hidalgo County / coords 26.1700, -98.1900", "Hidalgo County / ZIP 78577 sector", "Hidalgo County / primary ZIP 78577"]
+zillowHomeValueUsd: 164027
 ---
 
 **Engineering Notice for Pharr:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

@@ -12,6 +12,8 @@ lng: -67.0500
 zipSample: ["00683"]
 zipCodes: ["00683"]
 localPaths: ["San Germán County / coords 18.0800, -67.0500", "San Germán County / ZIP 00683 sector", "San Germán County / primary ZIP 00683", "San Germán County / elevation 272 ft band"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 382923
 ---
 
 **Engineering Notice for San Germán:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Germán County.

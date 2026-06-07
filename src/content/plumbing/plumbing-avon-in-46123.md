@@ -12,6 +12,7 @@ lng: -86.3900
 zipSample: ["46213", "46123"]
 zipCodes: ["46213", "46123"]
 localPaths: ["Hendricks County / ZIP 46213 sector", "Hendricks County / primary ZIP 46123", "Hendricks County / ZIP 46123 sector", "Hendricks County / coords 39.7600, -86.3900", "Hendricks County / elevation 843 ft band"]
+zillowHomeValueUsd: 350719
 ---
 
 **Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hendricks County.

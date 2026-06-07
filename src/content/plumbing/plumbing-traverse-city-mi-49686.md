@@ -12,6 +12,7 @@ lng: -85.6000
 zipSample: ["49686", "49684"]
 zipCodes: ["49686", "49684"]
 localPaths: ["Grand Traverse County / ZIP 49684 sector", "Grand Traverse County / ZIP 49686 sector", "Grand Traverse County / elevation 607 ft band", "Grand Traverse County / primary ZIP 49686", "Grand Traverse County / coords 44.7500, -85.6000"]
+zillowHomeValueUsd: 396358
 ---
 
 **Engineering Notice for Traverse City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grand Traverse County.

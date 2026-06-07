@@ -12,6 +12,7 @@ lng: -89.3200
 zipSample: ["39401", "39406", "39403", "39407", "39402"]
 zipCodes: ["39406", "39403", "39407", "39401", "39402"]
 localPaths: ["Forrest County / primary ZIP 39401", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39401 sector", "Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39406 sector"]
+zillowHomeValueUsd: 145871
 ---
 
 **Engineering Notice for Hattiesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forrest County.

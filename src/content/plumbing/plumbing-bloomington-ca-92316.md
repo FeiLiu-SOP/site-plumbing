@@ -12,6 +12,7 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / elevation 1070 ft band", "San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / ZIP 92316 sector"]
+zillowHomeValueUsd: 564827
 ---
 
 **Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

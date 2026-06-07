@@ -12,6 +12,7 @@ lng: -71.3200
 zipSample: ["01854", "01852", "01853", "01850", "01851"]
 zipCodes: ["01854", "01850", "01853", "01851", "01852"]
 localPaths: ["Middlesex County / ZIP 01853 sector", "Middlesex County / ZIP 01850 sector", "Middlesex County / ZIP 01852 sector", "Middlesex County / primary ZIP 01851", "Middlesex County / ZIP 01851 sector"]
+zillowHomeValueUsd: 518150
 ---
 
 **Engineering Notice for Lowell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

@@ -12,6 +12,7 @@ lng: -90.3700
 zipSample: ["63114", "63132"]
 zipCodes: ["63132", "63114"]
 localPaths: ["St. Louis County / elevation 663 ft band", "St. Louis County / coords 38.7000, -90.3700", "St. Louis County / ZIP 63114 sector", "St. Louis County / primary ZIP 63114", "St. Louis County / ZIP 63132 sector"]
+zillowHomeValueUsd: 139405
 ---
 
 **Engineering Notice for Overland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

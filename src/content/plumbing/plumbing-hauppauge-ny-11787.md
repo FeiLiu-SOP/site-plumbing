@@ -12,6 +12,7 @@ lng: -73.2100
 zipSample: ["11760", "11787", "11788"]
 zipCodes: ["11787", "11788", "11760"]
 localPaths: ["Suffolk County / primary ZIP 11787", "Suffolk County / coords 40.8200, -73.2100", "Suffolk County / ZIP 11787 sector", "Suffolk County / ZIP 11788 sector", "Suffolk County / elevation 82 ft band"]
+zillowHomeValueUsd: 794508
 ---
 
 **Engineering Notice for Hauppauge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

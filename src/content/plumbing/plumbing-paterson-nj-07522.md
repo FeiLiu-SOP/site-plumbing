@@ -12,6 +12,7 @@ lng: -74.1600
 zipSample: ["07522", "07505", "07513", "07503", "07524"]
 zipCodes: ["07505", "07503", "07524", "07513", "07504", "07502", "07522", "07514", "07543", "07544", "07507", "07510"]
 localPaths: ["Passaic County / ZIP 07524 sector", "Passaic County / ZIP 07522 sector", "Passaic County / primary ZIP 07522", "Passaic County / ZIP 07513 sector", "Passaic County / ZIP 07505 sector"]
+zillowHomeValueUsd: 480777
 ---
 
 **Engineering Notice for Paterson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.

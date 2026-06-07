@@ -12,6 +12,7 @@ lng: -93.4800
 zipSample: ["50009"]
 zipCodes: ["50009"]
 localPaths: ["Polk County / primary ZIP 50009", "Polk County / elevation 942 ft band", "Polk County / ZIP 50009 sector", "Polk County / coords 41.6500, -93.4800"]
+zillowHomeValueUsd: 316822
 ---
 
 **Engineering Notice for Altoona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

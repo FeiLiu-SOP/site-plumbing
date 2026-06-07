@@ -12,6 +12,8 @@ lng: -66.1600
 zipSample: ["00736", "00737"]
 zipCodes: ["00736", "00737"]
 localPaths: ["Cayey County / ZIP 00737 sector", "Cayey County / elevation 1299 ft band", "Cayey County / coords 18.1100, -66.1600", "Cayey County / ZIP 00736 sector", "Cayey County / primary ZIP 00736"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 359634
 ---
 
 **Engineering Notice for Cayey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cayey County.

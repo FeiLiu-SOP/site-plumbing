@@ -12,6 +12,7 @@ lng: -82.7200
 zipSample: ["43062", "43073"]
 zipCodes: ["43073", "43062"]
 localPaths: ["Licking County / primary ZIP 43062", "Licking County / coords 40.0100, -82.7200", "Licking County / ZIP 43062 sector", "Licking County / ZIP 43073 sector", "Licking County / elevation 1024 ft band"]
+zillowHomeValueUsd: 383660
 ---
 
 **Engineering Notice for Pataskala:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Licking County.

@@ -12,6 +12,7 @@ lng: -93.6200
 zipSample: ["50014", "50011", "50013", "50012", "50010"]
 zipCodes: ["50011", "50014", "50013", "50012", "50010"]
 localPaths: ["Story County / primary ZIP 50014", "Story County / ZIP 50011 sector", "Story County / ZIP 50014 sector", "Story County / ZIP 50012 sector", "Story County / elevation 935 ft band"]
+zillowHomeValueUsd: 268600
 ---
 
 **Engineering Notice for Ames:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Story County.

@@ -12,6 +12,7 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / primary ZIP 07067", "Middlesex County / coords 40.5900, -74.3100", "Middlesex County / elevation 92 ft band", "Middlesex County / ZIP 07067 sector"]
+zillowHomeValueUsd: 635415
 ---
 
 **Engineering Notice for Colonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

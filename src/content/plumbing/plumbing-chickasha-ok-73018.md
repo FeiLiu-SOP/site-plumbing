@@ -12,6 +12,7 @@ lng: -97.9500
 zipSample: ["73018", "73023"]
 zipCodes: ["73023", "73018"]
 localPaths: ["Grady County / ZIP 73023 sector", "Grady County / primary ZIP 73018", "Grady County / ZIP 73018 sector", "Grady County / coords 35.0400, -97.9500", "Grady County / elevation 1129 ft band"]
+zillowHomeValueUsd: 156678
 ---
 
 **Engineering Notice for Chickasha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grady County.

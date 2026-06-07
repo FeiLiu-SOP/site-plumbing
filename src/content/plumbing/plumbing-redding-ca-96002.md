@@ -12,6 +12,7 @@ lng: -122.3600
 zipSample: ["96003", "96001", "96002"]
 zipCodes: ["96003", "96002", "96001"]
 localPaths: ["Shasta County / ZIP 96002 sector", "Shasta County / coords 40.5700, -122.3600", "Shasta County / ZIP 96001 sector", "Shasta County / elevation 541 ft band", "Shasta County / primary ZIP 96002"]
+zillowHomeValueUsd: 376020
 ---
 
 **Engineering Notice for Redding:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shasta County.

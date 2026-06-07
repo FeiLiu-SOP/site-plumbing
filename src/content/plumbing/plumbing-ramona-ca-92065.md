@@ -12,6 +12,7 @@ lng: -116.8800
 zipSample: ["92065"]
 zipCodes: ["92065"]
 localPaths: ["San Diego County / primary ZIP 92065", "San Diego County / elevation 1467 ft band", "San Diego County / ZIP 92065 sector", "San Diego County / coords 33.0500, -116.8800"]
+zillowHomeValueUsd: 812894
 ---
 
 **Engineering Notice for Ramona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

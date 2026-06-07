@@ -12,6 +12,7 @@ lng: -83.1000
 zipSample: ["48071"]
 zipCodes: ["48071"]
 localPaths: ["Oakland County / elevation 633 ft band", "Oakland County / coords 42.5100, -83.1000", "Oakland County / ZIP 48071 sector", "Oakland County / primary ZIP 48071"]
+zillowHomeValueUsd: 219550
 ---
 
 **Engineering Notice for Madison Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

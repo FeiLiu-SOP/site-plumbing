@@ -12,6 +12,7 @@ lng: -122.4200
 zipSample: ["94083", "94080"]
 zipCodes: ["94080", "94083"]
 localPaths: ["San Mateo County / ZIP 94080 sector", "San Mateo County / primary ZIP 94080", "San Mateo County / coords 37.6500, -122.4200", "San Mateo County / ZIP 94083 sector", "San Mateo County / elevation 20 ft band"]
+zillowHomeValueUsd: 1239976
 ---
 
 **Engineering Notice for South San Francisco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.

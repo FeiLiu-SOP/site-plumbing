@@ -12,6 +12,7 @@ lng: -122.0500
 zipSample: ["98029", "98027"]
 zipCodes: ["98029", "98027"]
 localPaths: ["King County / ZIP 98029 sector", "King County / elevation 62 ft band", "King County / coords 47.5400, -122.0500", "King County / primary ZIP 98029", "King County / ZIP 98027 sector"]
+zillowHomeValueUsd: 1195270
 ---
 
 **Engineering Notice for Issaquah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

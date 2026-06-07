@@ -12,6 +12,7 @@ lng: -82.1200
 zipSample: ["33563", "33565", "33564", "33566"]
 zipCodes: ["33565", "33564", "33566", "33563"]
 localPaths: ["Hillsborough County / elevation 138 ft band", "Hillsborough County / ZIP 33563 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector"]
+zillowHomeValueUsd: 281113
 ---
 
 **Engineering Notice for Plant City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

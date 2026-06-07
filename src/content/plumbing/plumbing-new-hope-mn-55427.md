@@ -12,6 +12,7 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55428", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55427", "Hennepin County / ZIP 55428 sector", "Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / elevation 922 ft band"]
+zillowHomeValueUsd: 367334
 ---
 
 **Engineering Notice for New Hope:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

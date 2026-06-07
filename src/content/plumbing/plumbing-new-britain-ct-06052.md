@@ -12,6 +12,7 @@ lng: -72.7900
 zipSample: ["06050", "06053", "06052", "06051"]
 zipCodes: ["06053", "06050", "06051", "06052"]
 localPaths: ["Capitol County / ZIP 06050 sector", "Capitol County / ZIP 06052 sector", "Capitol County / ZIP 06053 sector", "Capitol County / coords 41.6800, -72.7900", "Capitol County / primary ZIP 06052"]
+zillowHomeValueUsd: 353807
 ---
 
 **Engineering Notice for New Britain:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Capitol County.

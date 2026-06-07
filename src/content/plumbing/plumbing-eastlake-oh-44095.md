@@ -12,6 +12,7 @@ lng: -81.4300
 zipSample: ["44097", "44095"]
 zipCodes: ["44095", "44097"]
 localPaths: ["Lake County / primary ZIP 44095", "Lake County / ZIP 44097 sector", "Lake County / elevation 627 ft band", "Lake County / coords 41.6600, -81.4300", "Lake County / ZIP 44095 sector"]
+zillowHomeValueUsd: 197713
 ---
 
 **Engineering Notice for Eastlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / ZIP 84003 sector", "Utah County / primary ZIP 84003", "Utah County / coords 40.4300, -111.8000", "Utah County / elevation 4885 ft band"]
+zillowHomeValueUsd: 598751
 ---
 
 **Engineering Notice for Highland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

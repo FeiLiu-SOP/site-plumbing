@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["53220", "53221", "53228"]
 zipCodes: ["53220", "53221", "53228"]
 localPaths: ["Milwaukee County / ZIP 53220 sector", "Milwaukee County / ZIP 53221 sector", "Milwaukee County / ZIP 53228 sector", "Milwaukee County / elevation 817 ft band", "Milwaukee County / primary ZIP 53221"]
+zillowHomeValueUsd: 287552
 ---
 
 **Engineering Notice for Greenfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.

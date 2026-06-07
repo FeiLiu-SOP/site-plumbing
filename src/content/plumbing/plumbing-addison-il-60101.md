@@ -12,6 +12,7 @@ lng: -88.0100
 zipSample: ["60101"]
 zipCodes: ["60101"]
 localPaths: ["DuPage County / ZIP 60101 sector", "DuPage County / coords 41.9300, -88.0100", "DuPage County / primary ZIP 60101", "DuPage County / elevation 715 ft band"]
+zillowHomeValueUsd: 369506
 ---
 
 **Engineering Notice for Addison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

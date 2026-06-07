@@ -12,6 +12,7 @@ lng: -71.1500
 zipSample: ["01815", "01801", "01888"]
 zipCodes: ["01815", "01888", "01801"]
 localPaths: ["Middlesex County / coords 42.4900, -71.1500", "Middlesex County / primary ZIP 01801", "Middlesex County / ZIP 01888 sector", "Middlesex County / ZIP 01815 sector", "Middlesex County / ZIP 01801 sector"]
+zillowHomeValueUsd: 758850
 ---
 
 **Engineering Notice for Woburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

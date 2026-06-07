@@ -12,6 +12,7 @@ lng: -80.3100
 zipSample: ["33017", "33015"]
 zipCodes: ["33015", "33017"]
 localPaths: ["Miami-Dade County / primary ZIP 33015", "Miami-Dade County / ZIP 33015 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33017 sector", "Miami-Dade County / coords 25.9400, -80.3100"]
+zillowHomeValueUsd: 396298
 ---
 
 **Engineering Notice for Country Club:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

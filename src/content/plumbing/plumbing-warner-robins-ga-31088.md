@@ -12,6 +12,7 @@ lng: -83.6500
 zipSample: ["31088", "31093", "31099", "31005"]
 zipCodes: ["31088", "31093", "31099", "31005"]
 localPaths: ["Houston County / coords 32.6000, -83.6500", "Houston County / ZIP 31088 sector", "Houston County / ZIP 31099 sector", "Houston County / ZIP 31093 sector", "Houston County / primary ZIP 31088"]
+zillowHomeValueUsd: 236315
 ---
 
 **Engineering Notice for Warner Robins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Houston County.

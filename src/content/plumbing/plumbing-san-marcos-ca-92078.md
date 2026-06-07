@@ -12,6 +12,7 @@ lng: -117.1700
 zipSample: ["92069", "92096", "92078", "92079"]
 zipCodes: ["92069", "92079", "92096", "92078"]
 localPaths: ["San Diego County / elevation 545 ft band", "San Diego County / ZIP 92069 sector", "San Diego County / ZIP 92096 sector", "San Diego County / ZIP 92079 sector", "San Diego County / coords 33.1300, -117.1700"]
+zillowHomeValueUsd: 1025279
 ---
 
 **Engineering Notice for San Marcos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

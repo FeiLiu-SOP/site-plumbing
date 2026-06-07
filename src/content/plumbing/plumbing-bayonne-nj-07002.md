@@ -12,6 +12,7 @@ lng: -74.1200
 zipSample: ["07002"]
 zipCodes: ["07002"]
 localPaths: ["Hudson County / elevation 43 ft band", "Hudson County / ZIP 07002 sector", "Hudson County / coords 40.6700, -74.1200", "Hudson County / primary ZIP 07002"]
+zillowHomeValueUsd: 582669
 ---
 
 **Engineering Notice for Bayonne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

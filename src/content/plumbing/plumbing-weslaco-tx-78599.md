@@ -12,6 +12,7 @@ lng: -97.9900
 zipSample: ["78599", "78596"]
 zipCodes: ["78596", "78599"]
 localPaths: ["Hidalgo County / ZIP 78599 sector", "Hidalgo County / elevation 95 ft band", "Hidalgo County / ZIP 78596 sector", "Hidalgo County / coords 26.1600, -97.9900", "Hidalgo County / primary ZIP 78599"]
+zillowHomeValueUsd: 192181
 ---
 
 **Engineering Notice for Weslaco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

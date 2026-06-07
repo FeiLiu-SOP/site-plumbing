@@ -12,6 +12,7 @@ lng: -81.6100
 zipSample: ["31310", "31313"]
 zipCodes: ["31313", "31310"]
 localPaths: ["Liberty County / coords 31.8200, -81.6100", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 102 ft band", "Liberty County / ZIP 31310 sector", "Liberty County / primary ZIP 31313"]
+zillowHomeValueUsd: 236265
 ---
 
 **Engineering Notice for Hinesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Liberty County.

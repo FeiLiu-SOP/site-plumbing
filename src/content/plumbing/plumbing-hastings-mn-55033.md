@@ -12,6 +12,7 @@ lng: -92.8500
 zipSample: ["55033"]
 zipCodes: ["55033"]
 localPaths: ["Dakota County / primary ZIP 55033", "Dakota County / ZIP 55033 sector", "Dakota County / elevation 801 ft band", "Dakota County / coords 44.7300, -92.8500"]
+zillowHomeValueUsd: 380710
 ---
 
 **Engineering Notice for Hastings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

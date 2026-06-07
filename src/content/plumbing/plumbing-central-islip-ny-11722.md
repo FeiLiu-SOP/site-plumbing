@@ -12,6 +12,7 @@ lng: -73.1900
 zipSample: ["11752", "11722"]
 zipCodes: ["11752", "11722"]
 localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / coords 40.7800, -73.1900", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / elevation 72 ft band"]
+zillowHomeValueUsd: 546553
 ---
 
 **Engineering Notice for Central Islip:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

@@ -12,6 +12,7 @@ lng: -77.3900
 zipSample: ["23223", "23222"]
 zipCodes: ["23222", "23223"]
 localPaths: ["Henrico County / ZIP 23222 sector", "Henrico County / coords 37.5800, -77.3900", "Henrico County / primary ZIP 23222", "Henrico County / ZIP 23223 sector", "Henrico County / elevation 194 ft band"]
+zillowHomeValueUsd: 276050
 ---
 
 **Engineering Notice for East Highland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.

@@ -12,6 +12,7 @@ lng: -119.4000
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / primary ZIP 93618", "Tulare County / elevation 338 ft band", "Tulare County / coords 36.5500, -119.4000", "Tulare County / ZIP 93618 sector"]
+zillowHomeValueUsd: 357681
 ---
 
 **Engineering Notice for Dinuba:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulare County.

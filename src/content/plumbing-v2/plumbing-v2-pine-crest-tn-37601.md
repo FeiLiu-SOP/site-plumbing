@@ -12,6 +12,7 @@ lng: -82.3100
 zipSample: ["37601"]
 zipCodes: ["37601"]
 localPaths: ["Carter County / ZIP 37601 sector", "Carter County / primary ZIP 37601", "Carter County / coords 36.3000, -82.3100", "Carter County / elevation 1663 ft band"]
+zillowHomeValueUsd: 262946
 ---
 
 **Engineering Notice for Pine Crest:** System optimized for 137 mg/L hard water scaling factors in Pine Crest. Regional dispatch grid: Carter County.

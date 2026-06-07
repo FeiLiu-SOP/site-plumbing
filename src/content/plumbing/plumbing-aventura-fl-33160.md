@@ -12,6 +12,7 @@ lng: -80.1400
 zipSample: ["33180", "33160", "33163"]
 zipCodes: ["33180", "33163", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33163 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33160", "Miami-Dade County / coords 25.9600, -80.1400"]
+zillowHomeValueUsd: 515990
 ---
 
 **Engineering Notice for Aventura:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

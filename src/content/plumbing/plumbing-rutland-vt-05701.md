@@ -12,6 +12,7 @@ lng: -72.9800
 zipSample: ["05701", "05702"]
 zipCodes: ["05702", "05701"]
 localPaths: ["Rutland County / primary ZIP 05701", "Rutland County / elevation 574 ft band", "Rutland County / ZIP 05702 sector", "Rutland County / ZIP 05701 sector", "Rutland County / coords 43.6100, -72.9800"]
+zillowHomeValueUsd: 282896
 ---
 
 **Engineering Notice for Rutland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutland County.

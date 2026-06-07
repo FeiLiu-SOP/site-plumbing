@@ -12,6 +12,7 @@ lng: -117.2600
 zipSample: ["92595"]
 zipCodes: ["92595"]
 localPaths: ["Riverside County / ZIP 92595 sector", "Riverside County / elevation 1529 ft band", "Riverside County / coords 33.6200, -117.2600", "Riverside County / primary ZIP 92595"]
+zillowHomeValueUsd: 655698
 ---
 
 **Engineering Notice for Wildomar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

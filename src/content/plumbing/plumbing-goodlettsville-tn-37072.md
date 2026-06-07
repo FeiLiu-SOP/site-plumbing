@@ -12,6 +12,7 @@ lng: -86.7000
 zipSample: ["37070", "37072"]
 zipCodes: ["37072", "37070"]
 localPaths: ["Sumner County / ZIP 37072 sector", "Sumner County / coords 36.3300, -86.7000", "Sumner County / ZIP 37070 sector", "Sumner County / primary ZIP 37072", "Sumner County / elevation 482 ft band"]
+zillowHomeValueUsd: 404702
 ---
 
 **Engineering Notice for Goodlettsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumner County.

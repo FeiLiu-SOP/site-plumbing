@@ -12,6 +12,7 @@ lng: -97.4800
 zipSample: ["76513"]
 zipCodes: ["76513"]
 localPaths: ["Bell County / elevation 620 ft band", "Bell County / primary ZIP 76513", "Bell County / ZIP 76513 sector", "Bell County / coords 31.0500, -97.4800"]
+zillowHomeValueUsd: 306328
 ---
 
 **Engineering Notice for Belton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bell County.

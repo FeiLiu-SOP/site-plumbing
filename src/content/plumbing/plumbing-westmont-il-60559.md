@@ -12,6 +12,7 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.7900, -87.9700", "DuPage County / ZIP 60559 sector"]
+zillowHomeValueUsd: 398656
 ---
 
 **Engineering Notice for Westmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

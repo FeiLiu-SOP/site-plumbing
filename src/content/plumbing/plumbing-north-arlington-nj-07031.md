@@ -12,6 +12,7 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / coords 40.7900, -74.1300", "Bergen County / elevation 92 ft band", "Bergen County / ZIP 07031 sector", "Bergen County / primary ZIP 07031"]
+zillowHomeValueUsd: 619421
 ---
 
 **Engineering Notice for North Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

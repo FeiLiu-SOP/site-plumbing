@@ -12,6 +12,7 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / coords 33.1800, -96.5000", "Collin County / elevation 558 ft band", "Collin County / ZIP 75407 sector", "Collin County / primary ZIP 75407"]
+zillowHomeValueUsd: 293550
 ---
 
 **Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.

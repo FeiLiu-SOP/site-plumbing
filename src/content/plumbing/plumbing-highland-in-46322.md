@@ -12,6 +12,7 @@ lng: -87.4600
 zipSample: ["46322"]
 zipCodes: ["46322"]
 localPaths: ["Lake County / coords 41.5500, -87.4600", "Lake County / elevation 627 ft band", "Lake County / primary ZIP 46322", "Lake County / ZIP 46322 sector"]
+zillowHomeValueUsd: 263919
 ---
 
 **Engineering Notice for Highland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -98.2500
 zipSample: ["78557", "78504", "78573", "78505", "78502"]
 zipCodes: ["78501", "78502", "78503", "78573", "78504", "78557", "78505"]
 localPaths: ["Hidalgo County / ZIP 78502 sector", "Hidalgo County / primary ZIP 78573", "Hidalgo County / elevation 138 ft band", "Hidalgo County / ZIP 78557 sector", "Hidalgo County / ZIP 78573 sector"]
+zillowHomeValueUsd: 216775
 ---
 
 **Engineering Notice for McAllen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.

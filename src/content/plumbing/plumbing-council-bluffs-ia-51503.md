@@ -12,6 +12,7 @@ lng: -95.8500
 zipSample: ["51502", "51501", "51503"]
 zipCodes: ["51503", "51502", "51501"]
 localPaths: ["Pottawattamie County / ZIP 51502 sector", "Pottawattamie County / ZIP 51503 sector", "Pottawattamie County / elevation 974 ft band", "Pottawattamie County / coords 41.2400, -95.8500", "Pottawattamie County / ZIP 51501 sector"]
+zillowHomeValueUsd: 301053
 ---
 
 **Engineering Notice for Council Bluffs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pottawattamie County.

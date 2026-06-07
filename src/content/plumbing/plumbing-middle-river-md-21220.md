@@ -12,6 +12,7 @@ lng: -76.4300
 zipSample: ["21220"]
 zipCodes: ["21220"]
 localPaths: ["Baltimore County / coords 39.3400, -76.4300", "Baltimore County / ZIP 21220 sector", "Baltimore County / primary ZIP 21220", "Baltimore County / elevation 89 ft band"]
+zillowHomeValueUsd: 333163
 ---
 
 **Engineering Notice for Middle River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

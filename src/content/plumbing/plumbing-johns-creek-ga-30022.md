@@ -12,6 +12,7 @@ lng: -84.2000
 zipSample: ["30005", "30022", "30097"]
 zipCodes: ["30097", "30005", "30022"]
 localPaths: ["Fulton County / elevation 965 ft band", "Fulton County / ZIP 30097 sector", "Fulton County / ZIP 30022 sector", "Fulton County / primary ZIP 30022", "Fulton County / ZIP 30005 sector"]
+zillowHomeValueUsd: 678078
 ---
 
 **Engineering Notice for Johns Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

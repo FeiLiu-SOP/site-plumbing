@@ -12,6 +12,7 @@ lng: -78.8700
 zipSample: ["14217"]
 zipCodes: ["14217"]
 localPaths: ["Erie County / elevation 617 ft band", "Erie County / coords 42.9600, -78.8700", "Erie County / ZIP 14217 sector", "Erie County / primary ZIP 14217"]
+zillowHomeValueUsd: 254510
 ---
 
 **Engineering Notice for Kenmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.

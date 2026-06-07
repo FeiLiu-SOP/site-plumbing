@@ -12,6 +12,7 @@ lng: -122.2100
 zipSample: ["98030", "98064", "98042", "98089", "98035"]
 zipCodes: ["98032", "98031", "98089", "98042", "98035", "98030", "98064"]
 localPaths: ["King County / ZIP 98089 sector", "King County / ZIP 98035 sector", "King County / primary ZIP 98031", "King County / elevation 400 ft band", "King County / ZIP 98042 sector"]
+zillowHomeValueUsd: 679963
 ---
 
 **Engineering Notice for Kent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

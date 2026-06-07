@@ -12,6 +12,7 @@ lng: -112.0100
 zipSample: ["84118"]
 zipCodes: ["84118"]
 localPaths: ["Salt Lake County / coords 40.6500, -112.0100", "Salt Lake County / ZIP 84118 sector", "Salt Lake County / elevation 4692 ft band", "Salt Lake County / primary ZIP 84118"]
+zillowHomeValueUsd: 450864
 ---
 
 **Engineering Notice for Kearns:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

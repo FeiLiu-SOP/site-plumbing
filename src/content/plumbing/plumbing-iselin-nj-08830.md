@@ -12,6 +12,7 @@ lng: -74.3200
 zipSample: ["08830"]
 zipCodes: ["08830"]
 localPaths: ["Middlesex County / primary ZIP 08830", "Middlesex County / ZIP 08830 sector", "Middlesex County / coords 40.5700, -74.3200", "Middlesex County / elevation 43 ft band"]
+zillowHomeValueUsd: 559731
 ---
 
 **Engineering Notice for Iselin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

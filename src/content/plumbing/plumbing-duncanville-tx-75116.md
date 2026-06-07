@@ -12,6 +12,7 @@ lng: -96.9100
 zipSample: ["75116", "75138", "75137"]
 zipCodes: ["75138", "75137", "75116"]
 localPaths: ["Dallas County / elevation 728 ft band", "Dallas County / ZIP 75137 sector", "Dallas County / primary ZIP 75116", "Dallas County / ZIP 75138 sector", "Dallas County / coords 32.6500, -96.9100"]
+zillowHomeValueUsd: 273622
 ---
 
 **Engineering Notice for Duncanville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.

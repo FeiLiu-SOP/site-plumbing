@@ -12,6 +12,7 @@ lng: -94.1800
 zipSample: ["50501"]
 zipCodes: ["50501"]
 localPaths: ["Webster County / primary ZIP 50501", "Webster County / ZIP 50501 sector", "Webster County / elevation 1115 ft band", "Webster County / coords 42.5100, -94.1800"]
+zillowHomeValueUsd: 128662
 ---
 
 **Engineering Notice for Fort Dodge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Webster County.

@@ -12,6 +12,7 @@ lng: -78.0300
 zipSample: ["28451", "28479"]
 zipCodes: ["28479", "28451"]
 localPaths: ["Brunswick County / elevation 20 ft band", "Brunswick County / ZIP 28479 sector", "Brunswick County / ZIP 28451 sector", "Brunswick County / primary ZIP 28451", "Brunswick County / coords 34.2000, -78.0300"]
+zillowHomeValueUsd: 377999
 ---
 
 **Engineering Notice for Leland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brunswick County.

@@ -12,6 +12,7 @@ lng: -73.4900
 zipSample: ["11714"]
 zipCodes: ["11714"]
 localPaths: ["Nassau County / primary ZIP 11714", "Nassau County / elevation 128 ft band", "Nassau County / coords 40.7500, -73.4900", "Nassau County / ZIP 11714 sector"]
+zillowHomeValueUsd: 771233
 ---
 
 **Engineering Notice for Bethpage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

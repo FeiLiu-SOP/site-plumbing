@@ -12,6 +12,7 @@ lng: -77.0000
 zipSample: ["20912", "20913"]
 zipCodes: ["20913", "20912"]
 localPaths: ["Montgomery County / ZIP 20912 sector", "Montgomery County / primary ZIP 20912", "Montgomery County / elevation 259 ft band", "Montgomery County / ZIP 20913 sector", "Montgomery County / coords 38.9800, -77.0000"]
+zillowHomeValueUsd: 688450
 ---
 
 **Engineering Notice for Takoma Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

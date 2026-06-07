@@ -12,6 +12,7 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / coords 38.7800, -90.6100", "St. Charles County / ZIP 63304 sector", "St. Charles County / primary ZIP 63376", "St. Charles County / elevation 512 ft band", "St. Charles County / ZIP 63376 sector"]
+zillowHomeValueUsd: 325170
 ---
 
 **Engineering Notice for St. Peters:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.

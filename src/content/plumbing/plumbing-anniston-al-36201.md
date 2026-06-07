@@ -12,6 +12,7 @@ lng: -85.8100
 zipSample: ["36201", "36204", "36206", "36207", "36205"]
 zipCodes: ["36204", "36207", "36205", "36201", "36206"]
 localPaths: ["Calhoun County / ZIP 36206 sector", "Calhoun County / ZIP 36201 sector", "Calhoun County / ZIP 36207 sector", "Calhoun County / ZIP 36205 sector", "Calhoun County / coords 33.6700, -85.8100"]
+zillowHomeValueUsd: 69360
 ---
 
 **Engineering Notice for Anniston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.

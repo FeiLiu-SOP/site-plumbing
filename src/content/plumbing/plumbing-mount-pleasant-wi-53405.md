@@ -12,6 +12,7 @@ lng: -87.8900
 zipSample: ["53405", "53177", "53403", "53406"]
 zipCodes: ["53177", "53406", "53403", "53405"]
 localPaths: ["Racine County / elevation 686 ft band", "Racine County / ZIP 53177 sector", "Racine County / primary ZIP 53405", "Racine County / ZIP 53405 sector", "Racine County / coords 42.7100, -87.8900"]
+zillowHomeValueUsd: 227132
 ---
 
 **Engineering Notice for Mount Pleasant:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Racine County.

@@ -12,6 +12,7 @@ lng: -98.7300
 zipSample: ["78006"]
 zipCodes: ["78006"]
 localPaths: ["Kendall County / elevation 1463 ft band", "Kendall County / coords 29.7800, -98.7300", "Kendall County / ZIP 78006 sector", "Kendall County / primary ZIP 78006"]
+zillowHomeValueUsd: 590470
 ---
 
 **Engineering Notice for Boerne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.

@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["29662", "29681", "29607"]
 zipCodes: ["29662", "29607", "29681"]
 localPaths: ["Greenville County / ZIP 29607 sector", "Greenville County / ZIP 29662 sector", "Greenville County / primary ZIP 29662", "Greenville County / elevation 912 ft band", "Greenville County / ZIP 29681 sector"]
+zillowHomeValueUsd: 295524
 ---
 
 **Engineering Notice for Mauldin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.

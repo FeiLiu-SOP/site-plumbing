@@ -12,6 +12,7 @@ lng: -111.9200
 zipSample: ["84045"]
 zipCodes: ["84045"]
 localPaths: ["Utah County / coords 40.3400, -111.9200", "Utah County / ZIP 84045 sector", "Utah County / primary ZIP 84045", "Utah County / elevation 4557 ft band"]
+zillowHomeValueUsd: 555120
 ---
 
 **Engineering Notice for Saratoga Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

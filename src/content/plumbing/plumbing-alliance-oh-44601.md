@@ -12,6 +12,7 @@ lng: -81.1200
 zipSample: ["44601"]
 zipCodes: ["44601"]
 localPaths: ["Stark County / ZIP 44601 sector", "Stark County / primary ZIP 44601", "Stark County / elevation 1198 ft band", "Stark County / coords 40.9100, -81.1200"]
+zillowHomeValueUsd: 157985
 ---
 
 **Engineering Notice for Alliance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stark County.

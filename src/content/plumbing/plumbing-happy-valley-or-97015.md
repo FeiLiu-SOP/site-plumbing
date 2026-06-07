@@ -12,6 +12,7 @@ lng: -122.5100
 zipSample: ["97015", "97089", "97086"]
 zipCodes: ["97086", "97015", "97089"]
 localPaths: ["Clackamas County / primary ZIP 97015", "Clackamas County / ZIP 97089 sector", "Clackamas County / ZIP 97086 sector", "Clackamas County / ZIP 97015 sector", "Clackamas County / coords 45.4400, -122.5100"]
+zillowHomeValueUsd: 587759
 ---
 
 **Engineering Notice for Happy Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.

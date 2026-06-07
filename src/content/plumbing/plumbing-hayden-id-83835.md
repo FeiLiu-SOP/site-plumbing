@@ -12,6 +12,7 @@ lng: -116.8000
 zipSample: ["83835"]
 zipCodes: ["83835"]
 localPaths: ["Kootenai County / coords 47.7700, -116.8000", "Kootenai County / primary ZIP 83835", "Kootenai County / ZIP 83835 sector", "Kootenai County / elevation 2293 ft band"]
+zillowHomeValueUsd: 647074
 ---
 
 **Engineering Notice for Hayden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kootenai County.

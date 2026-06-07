@@ -12,6 +12,7 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / elevation 4265 ft band", "Weber County / primary ZIP 84401", "Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84402 sector", "Weber County / ZIP 84401 sector"]
+zillowHomeValueUsd: 440247
 ---
 
 **Engineering Notice for West Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.

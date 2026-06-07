@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["94088", "94089", "94087", "94085", "94086"]
 zipCodes: ["94085", "94088", "94087", "94086", "94089"]
 localPaths: ["Santa Clara County / ZIP 94086 sector", "Santa Clara County / ZIP 94085 sector", "Santa Clara County / primary ZIP 94085", "Santa Clara County / elevation 62 ft band", "Santa Clara County / ZIP 94087 sector"]
+zillowHomeValueUsd: 1601602
 ---
 
 **Engineering Notice for Sunnyvale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

@@ -12,6 +12,7 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / ZIP 98208 sector", "Snohomish County / coords 47.9000, -122.1800", "Snohomish County / primary ZIP 98208", "Snohomish County / elevation 387 ft band"]
+zillowHomeValueUsd: 771446
 ---
 
 **Engineering Notice for Eastmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

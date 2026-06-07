@@ -12,6 +12,7 @@ lng: -80.2600
 zipSample: ["33077", "33067", "33075", "33076", "33065"]
 zipCodes: ["33071", "33075", "33077", "33076", "33065", "33067"]
 localPaths: ["Broward County / ZIP 33076 sector", "Broward County / elevation 20 ft band", "Broward County / ZIP 33075 sector", "Broward County / ZIP 33065 sector", "Broward County / ZIP 33067 sector"]
+zillowHomeValueUsd: 583583
 ---
 
 **Engineering Notice for Coral Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

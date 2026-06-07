@@ -12,6 +12,7 @@ lng: -73.9300
 zipSample: ["12345", "12305", "12304", "12309", "12301"]
 zipCodes: ["12304", "12345", "12309", "12301", "12325", "12305", "12307", "12308"]
 localPaths: ["Schenectady County / primary ZIP 12305", "Schenectady County / ZIP 12345 sector", "Schenectady County / coords 42.8000, -73.9300", "Schenectady County / elevation 348 ft band", "Schenectady County / ZIP 12309 sector"]
+zillowHomeValueUsd: 281401
 ---
 
 **Engineering Notice for Schenectady:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Schenectady County.

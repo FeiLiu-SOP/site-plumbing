@@ -12,6 +12,7 @@ lng: -122.1800
 zipSample: ["94563"]
 zipCodes: ["94563"]
 localPaths: ["Contra Costa County / coords 37.8800, -122.1800", "Contra Costa County / elevation 571 ft band", "Contra Costa County / ZIP 94563 sector", "Contra Costa County / primary ZIP 94563"]
+zillowHomeValueUsd: 1986080
 ---
 
 **Engineering Notice for Orinda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

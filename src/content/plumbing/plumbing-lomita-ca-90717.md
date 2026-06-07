@@ -12,6 +12,7 @@ lng: -118.3200
 zipSample: ["90717"]
 zipCodes: ["90717"]
 localPaths: ["Los Angeles County / elevation 102 ft band", "Los Angeles County / primary ZIP 90717", "Los Angeles County / ZIP 90717 sector", "Los Angeles County / coords 33.7900, -118.3200"]
+zillowHomeValueUsd: 920935
 ---
 
 **Engineering Notice for Lomita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

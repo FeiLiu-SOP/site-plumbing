@@ -12,6 +12,7 @@ lng: -82.4200
 zipSample: ["34284", "34293"]
 zipCodes: ["34293", "34284"]
 localPaths: ["Sarasota County / primary ZIP 34293", "Sarasota County / coords 27.0400, -82.4200", "Sarasota County / ZIP 34284 sector", "Sarasota County / ZIP 34293 sector", "Sarasota County / elevation 26 ft band"]
+zillowHomeValueUsd: 366722
 ---
 
 **Engineering Notice for South Venice:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.

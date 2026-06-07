@@ -12,6 +12,7 @@ lng: -88.4300
 zipSample: ["54952"]
 zipCodes: ["54952"]
 localPaths: ["Winnebago County / ZIP 54952 sector", "Winnebago County / elevation 761 ft band", "Winnebago County / coords 44.2100, -88.4300", "Winnebago County / primary ZIP 54952"]
+zillowHomeValueUsd: 277335
 ---
 
 **Engineering Notice for Menasha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.

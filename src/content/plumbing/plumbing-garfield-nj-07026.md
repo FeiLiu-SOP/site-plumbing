@@ -12,6 +12,7 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / elevation 112 ft band", "Bergen County / primary ZIP 07026", "Bergen County / ZIP 07026 sector", "Bergen County / coords 40.8800, -74.1100"]
+zillowHomeValueUsd: 579897
 ---
 
 **Engineering Notice for Garfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.

@@ -12,6 +12,7 @@ lng: -97.3500
 zipSample: ["73019", "73072", "73070", "73026", "73069"]
 zipCodes: ["73026", "73068", "74857", "73070", "73071", "73019", "73072", "73069"]
 localPaths: ["Cleveland County / elevation 1152 ft band", "Cleveland County / primary ZIP 73019", "Cleveland County / ZIP 73070 sector", "Cleveland County / ZIP 73019 sector", "Cleveland County / ZIP 73026 sector"]
+zillowHomeValueUsd: 318830
 ---
 
 **Engineering Notice for Norman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cleveland County.

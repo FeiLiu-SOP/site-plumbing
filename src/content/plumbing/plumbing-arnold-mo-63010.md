@@ -12,6 +12,7 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / coords 38.4300, -90.3700", "Jefferson County / primary ZIP 63010", "Jefferson County / ZIP 63010 sector", "Jefferson County / elevation 531 ft band"]
+zillowHomeValueUsd: 272886
 ---
 
 **Engineering Notice for Arnold:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

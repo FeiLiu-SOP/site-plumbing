@@ -12,6 +12,7 @@ lng: -79.9800
 zipSample: ["15222", "15279", "15259", "15260", "15219"]
 zipCodes: ["15262", "15212", "15270", "15290", "15289", "15219", "15208", "15261", "15220", "15282", "15218", "15274"]
 localPaths: ["Allegheny County / ZIP 15279 sector", "Allegheny County / ZIP 15219 sector", "Allegheny County / elevation 951 ft band", "Allegheny County / coords 40.4400, -79.9800", "Allegheny County / ZIP 15222 sector"]
+zillowHomeValueUsd: 356633
 ---
 
 **Engineering Notice for Pittsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

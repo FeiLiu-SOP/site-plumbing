@@ -12,6 +12,7 @@ lng: -94.2200
 zipSample: ["56377"]
 zipCodes: ["56377"]
 localPaths: ["Stearns County / coords 45.6200, -94.2200", "Stearns County / primary ZIP 56377", "Stearns County / elevation 1040 ft band", "Stearns County / ZIP 56377 sector"]
+zillowHomeValueUsd: 339319
 ---
 
 **Engineering Notice for Sartell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stearns County.

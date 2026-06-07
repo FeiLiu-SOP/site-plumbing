@@ -12,6 +12,7 @@ lng: -94.1500
 zipSample: ["77707", "77701", "77720", "77706", "77703"]
 zipCodes: ["77707", "77725", "77706", "77705", "77720", "77708", "77713", "77701", "77726", "77710", "77702", "77703"]
 localPaths: ["Jefferson County / ZIP 77703 sector", "Jefferson County / ZIP 77720 sector", "Jefferson County / coords 30.0800, -94.1500", "Jefferson County / ZIP 77701 sector", "Jefferson County / ZIP 77706 sector"]
+zillowHomeValueUsd: 171392
 ---
 
 **Engineering Notice for Beaumont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

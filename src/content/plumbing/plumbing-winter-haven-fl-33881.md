@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["33880", "33888", "33884", "33885", "33881"]
 zipCodes: ["33881", "33884", "33888", "33885", "33883", "33880"]
 localPaths: ["Polk County / ZIP 33880 sector", "Polk County / ZIP 33884 sector", "Polk County / coords 28.0100, -81.7000", "Polk County / ZIP 33881 sector", "Polk County / elevation 157 ft band"]
+zillowHomeValueUsd: 264752
 ---
 
 **Engineering Notice for Winter Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

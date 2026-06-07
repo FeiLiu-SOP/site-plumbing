@@ -12,6 +12,7 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / ZIP 47129 sector", "Clark County / coords 38.3200, -85.7700", "Clark County / ZIP 47172 sector", "Clark County / primary ZIP 47129", "Clark County / elevation 472 ft band"]
+zillowHomeValueUsd: 203433
 ---
 
 **Engineering Notice for Clarksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

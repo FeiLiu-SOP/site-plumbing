@@ -12,6 +12,7 @@ lng: -105.9600
 zipSample: ["88310"]
 zipCodes: ["88310"]
 localPaths: ["Otero County / coords 32.8800, -105.9600", "Otero County / primary ZIP 88310", "Otero County / ZIP 88310 sector", "Otero County / elevation 4298 ft band"]
+zillowHomeValueUsd: 221470
 ---
 
 **Engineering Notice for Alamogordo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Otero County.

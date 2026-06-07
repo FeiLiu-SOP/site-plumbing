@@ -12,6 +12,7 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / ZIP 94513 sector", "Contra Costa County / primary ZIP 94513", "Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / elevation 85 ft band"]
+zillowHomeValueUsd: 805384
 ---
 
 **Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

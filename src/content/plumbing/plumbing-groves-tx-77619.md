@@ -12,6 +12,7 @@ lng: -93.9200
 zipSample: ["77619"]
 zipCodes: ["77619"]
 localPaths: ["Jefferson County / ZIP 77619 sector", "Jefferson County / elevation 20 ft band", "Jefferson County / primary ZIP 77619", "Jefferson County / coords 29.9500, -93.9200"]
+zillowHomeValueUsd: 177663
 ---
 
 **Engineering Notice for Groves:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

@@ -12,6 +12,7 @@ lng: -89.6500
 zipSample: ["62726", "62776", "62756", "62757", "62781"]
 zipCodes: ["62707", "62769", "62777", "62786", "62763", "62776", "62712", "62736", "62722", "62781", "62705", "62629"]
 localPaths: ["Sangamon County / primary ZIP 62711", "Sangamon County / ZIP 62756 sector", "Sangamon County / ZIP 62781 sector", "Sangamon County / ZIP 62757 sector", "Sangamon County / ZIP 62726 sector"]
+zillowHomeValueUsd: 357442
 ---
 
 **Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sangamon County.

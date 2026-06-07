@@ -12,6 +12,7 @@ lng: -96.4700
 zipSample: ["75109", "75151", "75110"]
 zipCodes: ["75151", "75109", "75110"]
 localPaths: ["Navarro County / ZIP 75109 sector", "Navarro County / elevation 436 ft band", "Navarro County / ZIP 75110 sector", "Navarro County / coords 32.0800, -96.4700", "Navarro County / primary ZIP 75110"]
+zillowHomeValueUsd: 193022
 ---
 
 **Engineering Notice for Corsicana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Navarro County.

@@ -12,6 +12,7 @@ lng: -118.5900
 zipSample: ["91381"]
 zipCodes: ["91381"]
 localPaths: ["Los Angeles County / coords 34.3900, -118.5900", "Los Angeles County / primary ZIP 91381", "Los Angeles County / ZIP 91381 sector", "Los Angeles County / elevation 1558 ft band"]
+zillowHomeValueUsd: 969455
 ---
 
 **Engineering Notice for Stevenson Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

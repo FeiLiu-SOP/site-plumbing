@@ -12,6 +12,7 @@ lng: -99.0800
 zipSample: ["68848", "68847", "68845", "68849"]
 zipCodes: ["68848", "68847", "68845", "68849"]
 localPaths: ["Buffalo County / ZIP 68847 sector", "Buffalo County / ZIP 68849 sector", "Buffalo County / ZIP 68845 sector", "Buffalo County / coords 40.7000, -99.0800", "Buffalo County / elevation 2165 ft band"]
+zillowHomeValueUsd: 281718
 ---
 
 **Engineering Notice for Kearney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Buffalo County.

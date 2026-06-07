@@ -12,6 +12,7 @@ lng: -84.5600
 zipSample: ["30213", "30291", "30349", "31192"]
 zipCodes: ["31192", "30349", "30213", "30291"]
 localPaths: ["Fulton County / ZIP 31192 sector", "Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30291 sector", "Fulton County / elevation 981 ft band", "Fulton County / ZIP 30213 sector"]
+zillowHomeValueUsd: 251869
 ---
 
 **Engineering Notice for Union City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

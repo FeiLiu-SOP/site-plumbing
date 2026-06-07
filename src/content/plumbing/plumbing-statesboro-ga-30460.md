@@ -12,6 +12,7 @@ lng: -81.7800
 zipSample: ["30461", "30458", "30460", "30459"]
 zipCodes: ["30460", "30461", "30458", "30459"]
 localPaths: ["Bulloch County / ZIP 30460 sector", "Bulloch County / coords 32.4400, -81.7800", "Bulloch County / primary ZIP 30460", "Bulloch County / elevation 236 ft band", "Bulloch County / ZIP 30459 sector"]
+zillowHomeValueUsd: 259369
 ---
 
 **Engineering Notice for Statesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bulloch County.

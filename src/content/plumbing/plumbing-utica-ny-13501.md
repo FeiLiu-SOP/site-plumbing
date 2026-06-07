@@ -12,6 +12,7 @@ lng: -75.2300
 zipSample: ["13505", "13502", "13501", "13504", "13599"]
 zipCodes: ["13504", "13505", "13599", "13501", "13502", "13503"]
 localPaths: ["Oneida County / primary ZIP 13501", "Oneida County / ZIP 13599 sector", "Oneida County / coords 43.1000, -75.2300", "Oneida County / ZIP 13504 sector", "Oneida County / ZIP 13502 sector"]
+zillowHomeValueUsd: 204844
 ---
 
 **Engineering Notice for Utica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oneida County.

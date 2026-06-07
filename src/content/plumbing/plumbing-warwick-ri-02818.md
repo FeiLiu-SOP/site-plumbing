@@ -12,6 +12,7 @@ lng: -71.4300
 zipSample: ["02886", "02887", "02888", "02889", "02818"]
 zipCodes: ["02889", "02818", "02886", "02887", "02888"]
 localPaths: ["Kent County / ZIP 02889 sector", "Kent County / elevation 59 ft band", "Kent County / ZIP 02886 sector", "Kent County / ZIP 02887 sector", "Kent County / ZIP 02888 sector"]
+zillowHomeValueUsd: 713200
 ---
 
 **Engineering Notice for Warwick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

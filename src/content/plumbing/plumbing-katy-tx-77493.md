@@ -12,6 +12,7 @@ lng: -95.8400
 zipSample: ["77491", "77493", "77494"]
 zipCodes: ["77491", "77494", "77493"]
 localPaths: ["Waller County / ZIP 77493 sector", "Waller County / ZIP 77491 sector", "Waller County / ZIP 77494 sector", "Waller County / elevation 148 ft band", "Waller County / primary ZIP 77493"]
+zillowHomeValueUsd: 344078
 ---
 
 **Engineering Notice for Katy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waller County.

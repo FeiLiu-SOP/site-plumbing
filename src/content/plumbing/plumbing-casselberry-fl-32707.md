@@ -12,6 +12,7 @@ lng: -81.3200
 zipSample: ["32718", "32707"]
 zipCodes: ["32718", "32707"]
 localPaths: ["Seminole County / ZIP 32707 sector", "Seminole County / primary ZIP 32707", "Seminole County / ZIP 32718 sector", "Seminole County / coords 28.6600, -81.3200", "Seminole County / elevation 66 ft band"]
+zillowHomeValueUsd: 350077
 ---
 
 **Engineering Notice for Casselberry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.

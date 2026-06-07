@@ -12,6 +12,7 @@ lng: -95.7800
 zipSample: ["74013", "74012", "74014", "74011"]
 zipCodes: ["74011", "74012", "74014", "74013"]
 localPaths: ["Tulsa County / coords 36.0400, -95.7800", "Tulsa County / ZIP 74012 sector", "Tulsa County / primary ZIP 74014", "Tulsa County / ZIP 74014 sector", "Tulsa County / elevation 728 ft band"]
+zillowHomeValueUsd: 300902
 ---
 
 **Engineering Notice for Broken Arrow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.

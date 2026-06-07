@@ -12,6 +12,7 @@ lng: -119.3300
 zipSample: ["93277", "93279", "93278", "93292", "93290"]
 zipCodes: ["93278", "93292", "93291", "93277", "93290", "93279"]
 localPaths: ["Tulare County / ZIP 93278 sector", "Tulare County / ZIP 93292 sector", "Tulare County / elevation 322 ft band", "Tulare County / coords 36.3300, -119.3300", "Tulare County / ZIP 93279 sector"]
+zillowHomeValueUsd: 372946
 ---
 
 **Engineering Notice for Visalia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulare County.

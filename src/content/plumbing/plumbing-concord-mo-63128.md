@@ -12,6 +12,7 @@ lng: -90.3600
 zipSample: ["63128", "63123"]
 zipCodes: ["63123", "63128"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / coords 38.5100, -90.3600", "St. Louis County / ZIP 63128 sector", "St. Louis County / ZIP 63123 sector", "St. Louis County / primary ZIP 63128"]
+zillowHomeValueUsd: 369550
 ---
 
 **Engineering Notice for Concord:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

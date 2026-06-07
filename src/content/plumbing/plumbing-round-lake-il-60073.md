@@ -12,6 +12,7 @@ lng: -88.1100
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / primary ZIP 60073", "Lake County / coords 42.3400, -88.1100", "Lake County / ZIP 60073 sector", "Lake County / elevation 778 ft band"]
+zillowHomeValueUsd: 271352
 ---
 
 **Engineering Notice for Round Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

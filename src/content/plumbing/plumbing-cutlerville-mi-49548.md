@@ -12,6 +12,7 @@ lng: -85.6700
 zipSample: ["49548", "49315"]
 zipCodes: ["49548", "49315"]
 localPaths: ["Kent County / ZIP 49548 sector", "Kent County / coords 42.8400, -85.6700", "Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band"]
+zillowHomeValueUsd: 250320
 ---
 
 **Engineering Notice for Cutlerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

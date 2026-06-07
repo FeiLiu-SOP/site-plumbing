@@ -12,6 +12,7 @@ lng: -122.2400
 zipSample: ["98021", "98036", "98012"]
 zipCodes: ["98036", "98021", "98012"]
 localPaths: ["Snohomish County / ZIP 98036 sector", "Snohomish County / elevation 479 ft band", "Snohomish County / ZIP 98021 sector", "Snohomish County / ZIP 98012 sector", "Snohomish County / primary ZIP 98021"]
+zillowHomeValueUsd: 1146120
 ---
 
 **Engineering Notice for Bothell West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

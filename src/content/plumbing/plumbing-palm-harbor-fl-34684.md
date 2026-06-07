@@ -12,6 +12,7 @@ lng: -82.7500
 zipSample: ["34683", "34682", "34681", "34660", "34684"]
 zipCodes: ["34660", "34681", "34684", "34683", "34682"]
 localPaths: ["Pinellas County / elevation 85 ft band", "Pinellas County / ZIP 34682 sector", "Pinellas County / ZIP 34681 sector", "Pinellas County / ZIP 34660 sector", "Pinellas County / coords 28.0800, -82.7500"]
+zillowHomeValueUsd: 324167
 ---
 
 **Engineering Notice for Palm Harbor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.

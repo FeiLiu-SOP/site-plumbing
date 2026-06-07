@@ -12,6 +12,7 @@ lng: -121.9900
 zipSample: ["98272"]
 zipCodes: ["98272"]
 localPaths: ["Snohomish County / ZIP 98272 sector", "Snohomish County / elevation 56 ft band", "Snohomish County / primary ZIP 98272", "Snohomish County / coords 47.8600, -121.9900"]
+zillowHomeValueUsd: 734156
 ---
 
 **Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

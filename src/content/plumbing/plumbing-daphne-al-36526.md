@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / primary ZIP 36526", "Baldwin County / coords 30.6300, -87.8800", "Baldwin County / ZIP 36526 sector", "Baldwin County / elevation 125 ft band"]
+zillowHomeValueUsd: 326665
 ---
 
 **Engineering Notice for Daphne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.

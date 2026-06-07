@@ -12,6 +12,7 @@ lng: -118.3400
 zipSample: ["90504", "90503", "90507", "90508", "90501"]
 zipCodes: ["90503", "90501", "90505", "90510", "90508", "90509", "90504", "90277", "90507"]
 localPaths: ["Los Angeles County / ZIP 90503 sector", "Los Angeles County / elevation 95 ft band", "Los Angeles County / ZIP 90501 sector", "Los Angeles County / ZIP 90507 sector", "Los Angeles County / ZIP 90508 sector"]
+zillowHomeValueUsd: 1645180
 ---
 
 **Engineering Notice for Torrance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

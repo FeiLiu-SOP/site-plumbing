@@ -12,6 +12,7 @@ lng: -80.9700
 zipSample: ["32170", "32169", "32168"]
 zipCodes: ["32169", "32168", "32170"]
 localPaths: ["Volusia County / elevation 36 ft band", "Volusia County / primary ZIP 32169", "Volusia County / ZIP 32169 sector", "Volusia County / coords 29.0200, -80.9700", "Volusia County / ZIP 32168 sector"]
+zillowHomeValueUsd: 544115
 ---
 
 **Engineering Notice for New Smyrna Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.

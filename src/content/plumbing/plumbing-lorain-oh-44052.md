@@ -12,6 +12,7 @@ lng: -82.1800
 zipSample: ["44052", "44055", "44053"]
 zipCodes: ["44052", "44053", "44055"]
 localPaths: ["Lorain County / coords 41.4400, -82.1800", "Lorain County / primary ZIP 44052", "Lorain County / ZIP 44052 sector", "Lorain County / elevation 614 ft band", "Lorain County / ZIP 44055 sector"]
+zillowHomeValueUsd: 136743
 ---
 
 **Engineering Notice for Lorain:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.

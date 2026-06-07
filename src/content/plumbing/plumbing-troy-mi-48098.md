@@ -12,6 +12,7 @@ lng: -83.1500
 zipSample: ["48099", "48084", "48083", "48098", "48085"]
 zipCodes: ["48099", "48084", "48085", "48083", "48098", "48007"]
 localPaths: ["Oakland County / ZIP 48099 sector", "Oakland County / coords 42.5800, -83.1500", "Oakland County / ZIP 48083 sector", "Oakland County / primary ZIP 48098", "Oakland County / ZIP 48084 sector"]
+zillowHomeValueUsd: 583246
 ---
 
 **Engineering Notice for Troy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.

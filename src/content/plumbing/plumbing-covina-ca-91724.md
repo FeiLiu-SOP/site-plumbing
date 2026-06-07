@@ -12,6 +12,7 @@ lng: -117.8800
 zipSample: ["91722", "91724", "91723"]
 zipCodes: ["91723", "91724", "91722"]
 localPaths: ["Los Angeles County / ZIP 91724 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / elevation 584 ft band", "Los Angeles County / ZIP 91723 sector", "Los Angeles County / coords 34.0900, -117.8800"]
+zillowHomeValueUsd: 886122
 ---
 
 **Engineering Notice for Covina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

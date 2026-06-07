@@ -12,6 +12,7 @@ lng: -84.5700
 zipSample: ["31169", "30269"]
 zipCodes: ["31169", "30269"]
 localPaths: ["Fayette County / ZIP 30269 sector", "Fayette County / coords 33.3900, -84.5700", "Fayette County / ZIP 31169 sector", "Fayette County / primary ZIP 30269", "Fayette County / elevation 817 ft band"]
+zillowHomeValueUsd: 577652
 ---
 
 **Engineering Notice for Peachtree City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fayette County.

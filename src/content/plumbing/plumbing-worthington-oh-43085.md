@@ -12,6 +12,7 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / coords 40.0900, -83.0200", "Franklin County / primary ZIP 43085", "Franklin County / ZIP 43085 sector", "Franklin County / elevation 830 ft band"]
+zillowHomeValueUsd: 404676
 ---
 
 **Engineering Notice for Worthington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

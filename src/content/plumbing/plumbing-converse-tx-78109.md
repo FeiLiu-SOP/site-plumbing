@@ -12,6 +12,7 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / coords 29.5100, -98.3100", "Bexar County / ZIP 78109 sector", "Bexar County / elevation 686 ft band", "Bexar County / primary ZIP 78109"]
+zillowHomeValueUsd: 246235
 ---
 
 **Engineering Notice for Converse:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.

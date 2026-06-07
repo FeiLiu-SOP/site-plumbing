@@ -12,6 +12,7 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / ZIP 47933 sector", "Montgomery County / elevation 764 ft band", "Montgomery County / coords 40.0400, -86.9000", "Montgomery County / primary ZIP 47933"]
+zillowHomeValueUsd: 223649
 ---
 
 **Engineering Notice for Crawfordsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

@@ -12,6 +12,7 @@ lng: -80.7700
 zipSample: ["32922", "32926"]
 zipCodes: ["32926", "32922"]
 localPaths: ["Brevard County / coords 28.3800, -80.7700", "Brevard County / elevation 39 ft band", "Brevard County / ZIP 32922 sector", "Brevard County / ZIP 32926 sector", "Brevard County / primary ZIP 32922"]
+zillowHomeValueUsd: 199949
 ---
 
 **Engineering Notice for Cocoa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.

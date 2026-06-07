@@ -12,6 +12,7 @@ lng: -80.4000
 zipSample: ["33092", "33032"]
 zipCodes: ["33032", "33092"]
 localPaths: ["Miami-Dade County / ZIP 33092 sector", "Miami-Dade County / primary ZIP 33032", "Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.5400, -80.4000"]
+zillowHomeValueUsd: 454941
 ---
 
 **Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

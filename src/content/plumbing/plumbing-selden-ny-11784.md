@@ -12,6 +12,7 @@ lng: -73.0500
 zipSample: ["11784"]
 zipCodes: ["11784"]
 localPaths: ["Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11784", "Suffolk County / coords 40.8700, -73.0500", "Suffolk County / elevation 121 ft band"]
+zillowHomeValueUsd: 585550
 ---
 
 **Engineering Notice for Selden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

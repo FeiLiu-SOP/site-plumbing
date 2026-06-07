@@ -12,6 +12,7 @@ lng: -87.9800
 zipSample: ["60439"]
 zipCodes: ["60439"]
 localPaths: ["Cook County / coords 41.6700, -87.9800", "Cook County / ZIP 60439 sector", "Cook County / primary ZIP 60439", "Cook County / elevation 745 ft band"]
+zillowHomeValueUsd: 569548
 ---
 
 **Engineering Notice for Lemont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

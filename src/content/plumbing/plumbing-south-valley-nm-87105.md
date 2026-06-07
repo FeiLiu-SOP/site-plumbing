@@ -12,6 +12,7 @@ lng: -106.6800
 zipSample: ["87105", "87195"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / elevation 4944 ft band", "Bernalillo County / primary ZIP 87105", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / ZIP 87195 sector"]
+zillowHomeValueUsd: 279742
 ---
 
 **Engineering Notice for South Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bernalillo County.

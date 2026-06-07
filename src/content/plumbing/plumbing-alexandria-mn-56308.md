@@ -12,6 +12,7 @@ lng: -95.3800
 zipSample: ["56308"]
 zipCodes: ["56308"]
 localPaths: ["Douglas County / coords 45.8800, -95.3800", "Douglas County / elevation 1417 ft band", "Douglas County / ZIP 56308 sector", "Douglas County / primary ZIP 56308"]
+zillowHomeValueUsd: 352483
 ---
 
 **Engineering Notice for Alexandria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.

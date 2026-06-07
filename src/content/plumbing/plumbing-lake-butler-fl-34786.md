@@ -12,6 +12,7 @@ lng: -81.5500
 zipSample: ["34786"]
 zipCodes: ["34786"]
 localPaths: ["Orange County / elevation 92 ft band", "Orange County / ZIP 34786 sector", "Orange County / coords 28.4900, -81.5500", "Orange County / primary ZIP 34786"]
+zillowHomeValueUsd: 700019
 ---
 
 **Engineering Notice for Lake Butler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

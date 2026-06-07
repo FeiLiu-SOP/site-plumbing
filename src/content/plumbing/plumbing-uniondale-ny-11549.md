@@ -12,6 +12,7 @@ lng: -73.5900
 zipSample: ["11530", "11556", "11553", "11549", "11555"]
 zipCodes: ["11555", "11549", "11530", "11590", "11553", "11556"]
 localPaths: ["Nassau County / coords 40.7200, -73.5900", "Nassau County / ZIP 11553 sector", "Nassau County / ZIP 11530 sector", "Nassau County / ZIP 11549 sector", "Nassau County / primary ZIP 11549"]
+zillowHomeValueUsd: 661497
 ---
 
 **Engineering Notice for Uniondale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

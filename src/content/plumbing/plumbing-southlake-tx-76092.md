@@ -12,6 +12,7 @@ lng: -97.1500
 zipSample: ["76092"]
 zipCodes: ["76092"]
 localPaths: ["Tarrant County / ZIP 76092 sector", "Tarrant County / elevation 682 ft band", "Tarrant County / coords 32.9500, -97.1500", "Tarrant County / primary ZIP 76092"]
+zillowHomeValueUsd: 1295845
 ---
 
 **Engineering Notice for Southlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

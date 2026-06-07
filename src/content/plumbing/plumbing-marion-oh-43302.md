@@ -12,6 +12,7 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / coords 40.6000, -83.1200", "Marion County / primary ZIP 43302", "Marion County / elevation 994 ft band", "Marion County / ZIP 43302 sector"]
+zillowHomeValueUsd: 165606
 ---
 
 **Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

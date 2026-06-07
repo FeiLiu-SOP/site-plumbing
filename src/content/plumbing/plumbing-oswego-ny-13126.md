@@ -12,6 +12,7 @@ lng: -76.5000
 zipSample: ["13126"]
 zipCodes: ["13126"]
 localPaths: ["Oswego County / ZIP 13126 sector", "Oswego County / primary ZIP 13126", "Oswego County / coords 43.4500, -76.5000", "Oswego County / elevation 341 ft band"]
+zillowHomeValueUsd: 181985
 ---
 
 **Engineering Notice for Oswego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oswego County.

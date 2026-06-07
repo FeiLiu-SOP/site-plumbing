@@ -12,6 +12,7 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / ZIP 60091 sector", "Cook County / primary ZIP 60091", "Cook County / elevation 646 ft band", "Cook County / coords 42.0800, -87.7300"]
+zillowHomeValueUsd: 960797
 ---
 
 **Engineering Notice for Wilmette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

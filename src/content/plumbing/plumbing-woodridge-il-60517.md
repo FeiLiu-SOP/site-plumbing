@@ -12,6 +12,7 @@ lng: -88.0400
 zipSample: ["60517"]
 zipCodes: ["60517"]
 localPaths: ["DuPage County / ZIP 60517 sector", "DuPage County / elevation 758 ft band", "DuPage County / primary ZIP 60517", "DuPage County / coords 41.7400, -88.0400"]
+zillowHomeValueUsd: 405881
 ---
 
 **Engineering Notice for Woodridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

@@ -12,6 +12,7 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / coords 42.1600, -88.4300", "McHenry County / elevation 869 ft band", "McHenry County / ZIP 60142 sector", "McHenry County / primary ZIP 60142"]
+zillowHomeValueUsd: 417932
 ---
 
 **Engineering Notice for Huntley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.

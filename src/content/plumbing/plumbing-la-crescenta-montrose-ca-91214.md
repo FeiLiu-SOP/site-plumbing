@@ -12,6 +12,7 @@ lng: -118.2400
 zipSample: ["91021", "91020", "91224", "91214"]
 zipCodes: ["91020", "91224", "91214", "91021"]
 localPaths: ["Los Angeles County / elevation 1844 ft band", "Los Angeles County / ZIP 91214 sector", "Los Angeles County / ZIP 91020 sector", "Los Angeles County / ZIP 91224 sector", "Los Angeles County / ZIP 91021 sector"]
+zillowHomeValueUsd: 1257884
 ---
 
 **Engineering Notice for La Crescenta-Montrose:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

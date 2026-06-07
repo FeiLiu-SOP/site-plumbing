@@ -12,6 +12,7 @@ lng: -93.2700
 zipSample: ["55412", "55405", "55410", "55467", "55403"]
 zipCodes: ["55440", "55406", "55409", "55401", "55479", "55484", "55405", "55415", "55410", "55407", "55404", "55412"]
 localPaths: ["Hennepin County / ZIP 55410 sector", "Hennepin County / ZIP 55403 sector", "Hennepin County / coords 44.9600, -93.2700", "Hennepin County / ZIP 55412 sector", "Hennepin County / elevation 863 ft band"]
+zillowHomeValueUsd: 239915
 ---
 
 **Engineering Notice for Minneapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.

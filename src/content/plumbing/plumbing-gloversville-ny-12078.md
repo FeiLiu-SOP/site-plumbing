@@ -12,6 +12,7 @@ lng: -74.3500
 zipSample: ["12078"]
 zipCodes: ["12078"]
 localPaths: ["Fulton County / primary ZIP 12078", "Fulton County / elevation 804 ft band", "Fulton County / coords 43.0500, -74.3500", "Fulton County / ZIP 12078 sector"]
+zillowHomeValueUsd: 170590
 ---
 
 **Engineering Notice for Gloversville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

@@ -12,6 +12,7 @@ lng: -76.3100
 zipSample: ["21009", "21014", "21015"]
 zipCodes: ["21015", "21009", "21014"]
 localPaths: ["Harford County / ZIP 21009 sector", "Harford County / ZIP 21015 sector", "Harford County / primary ZIP 21009", "Harford County / coords 39.5000, -76.3100", "Harford County / elevation 213 ft band"]
+zillowHomeValueUsd: 374718
 ---
 
 **Engineering Notice for Bel Air South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.

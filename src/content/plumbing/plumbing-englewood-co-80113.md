@@ -12,6 +12,7 @@ lng: -104.9900
 zipSample: ["80110", "80113", "80150", "80151"]
 zipCodes: ["80151", "80110", "80150", "80113"]
 localPaths: ["Arapahoe County / ZIP 80151 sector", "Arapahoe County / ZIP 80110 sector", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / elevation 5367 ft band", "Arapahoe County / ZIP 80150 sector"]
+zillowHomeValueUsd: 646676
 ---
 
 **Engineering Notice for Englewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.

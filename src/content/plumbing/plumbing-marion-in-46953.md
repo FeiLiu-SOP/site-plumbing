@@ -12,6 +12,7 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46953", "46952"]
 localPaths: ["Grant County / primary ZIP 46953", "Grant County / elevation 817 ft band", "Grant County / ZIP 46953 sector", "Grant County / coords 40.5500, -85.6600", "Grant County / ZIP 46952 sector"]
+zillowHomeValueUsd: 107757
 ---
 
 **Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grant County.

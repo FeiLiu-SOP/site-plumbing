@@ -12,6 +12,7 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / primary ZIP 48184", "Wayne County / elevation 669 ft band", "Wayne County / coords 42.2800, -83.3900", "Wayne County / ZIP 48184 sector"]
+zillowHomeValueUsd: 172306
 ---
 
 **Engineering Notice for Wayne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

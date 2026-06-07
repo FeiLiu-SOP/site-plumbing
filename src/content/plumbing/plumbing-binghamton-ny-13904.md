@@ -12,6 +12,7 @@ lng: -75.9100
 zipSample: ["13904", "13903", "13905", "13901"]
 zipCodes: ["13904", "13905", "13903", "13901"]
 localPaths: ["Broome County / coords 42.1000, -75.9100", "Broome County / ZIP 13905 sector", "Broome County / ZIP 13901 sector", "Broome County / elevation 883 ft band", "Broome County / ZIP 13903 sector"]
+zillowHomeValueUsd: 153387
 ---
 
 **Engineering Notice for Binghamton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broome County.

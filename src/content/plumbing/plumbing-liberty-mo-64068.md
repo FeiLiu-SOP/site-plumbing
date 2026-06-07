@@ -12,6 +12,7 @@ lng: -94.4200
 zipSample: ["64068", "64069"]
 zipCodes: ["64069", "64068"]
 localPaths: ["Clay County / coords 39.2400, -94.4200", "Clay County / ZIP 64069 sector", "Clay County / primary ZIP 64068", "Clay County / ZIP 64068 sector", "Clay County / elevation 876 ft band"]
+zillowHomeValueUsd: 326560
 ---
 
 **Engineering Notice for Liberty:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.

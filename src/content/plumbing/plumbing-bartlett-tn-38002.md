@@ -12,6 +12,7 @@ lng: -89.8200
 zipSample: ["38134", "38002", "38135", "38029", "38133"]
 zipCodes: ["38133", "38002", "38134", "38029", "38135"]
 localPaths: ["Shelby County / ZIP 38133 sector", "Shelby County / ZIP 38002 sector", "Shelby County / coords 35.2300, -89.8200", "Shelby County / primary ZIP 38002", "Shelby County / ZIP 38135 sector"]
+zillowHomeValueUsd: 407825
 ---
 
 **Engineering Notice for Bartlett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.

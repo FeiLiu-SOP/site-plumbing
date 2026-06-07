@@ -12,6 +12,7 @@ lng: -74.0100
 zipSample: ["07712"]
 zipCodes: ["07712"]
 localPaths: ["Monmouth County / ZIP 07712 sector", "Monmouth County / coords 40.2200, -74.0100", "Monmouth County / primary ZIP 07712", "Monmouth County / elevation 23 ft band"]
+zillowHomeValueUsd: 737196
 ---
 
 **Engineering Notice for Asbury Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monmouth County.

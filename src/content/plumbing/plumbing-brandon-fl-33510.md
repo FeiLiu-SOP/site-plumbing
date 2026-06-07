@@ -12,6 +12,7 @@ lng: -82.3000
 zipSample: ["33509", "33594", "33619", "33595", "33584"]
 zipCodes: ["33510", "33508", "33595", "33594", "33509", "33511", "33584", "33619"]
 localPaths: ["Hillsborough County / ZIP 33584 sector", "Hillsborough County / ZIP 33594 sector", "Hillsborough County / coords 27.9400, -82.3000", "Hillsborough County / ZIP 33595 sector", "Hillsborough County / primary ZIP 33510"]
+zillowHomeValueUsd: 344969
 ---
 
 **Engineering Notice for Brandon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

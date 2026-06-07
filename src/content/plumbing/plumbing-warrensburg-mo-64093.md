@@ -12,6 +12,7 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / primary ZIP 64093", "Johnson County / coords 38.7600, -93.7300", "Johnson County / ZIP 64093 sector", "Johnson County / elevation 837 ft band"]
+zillowHomeValueUsd: 266527
 ---
 
 **Engineering Notice for Warrensburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

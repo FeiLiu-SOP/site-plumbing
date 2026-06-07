@@ -12,6 +12,7 @@ lng: -74.0300
 zipSample: ["07030"]
 zipCodes: ["07030"]
 localPaths: ["Hudson County / primary ZIP 07030", "Hudson County / elevation 43 ft band", "Hudson County / coords 40.7500, -74.0300", "Hudson County / ZIP 07030 sector"]
+zillowHomeValueUsd: 854758
 ---
 
 **Engineering Notice for Hoboken:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.

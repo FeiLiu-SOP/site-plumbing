@@ -12,6 +12,7 @@ lng: -118.2600
 zipSample: ["90248", "90747", "90810", "90224", "90745"]
 zipCodes: ["90749", "90810", "90747", "90745", "90895", "90224", "90746", "90248"]
 localPaths: ["Los Angeles County / ZIP 90810 sector", "Los Angeles County / elevation 30 ft band", "Los Angeles County / ZIP 90747 sector", "Los Angeles County / ZIP 90224 sector", "Los Angeles County / ZIP 90745 sector"]
+zillowHomeValueUsd: 817450
 ---
 
 **Engineering Notice for Carson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

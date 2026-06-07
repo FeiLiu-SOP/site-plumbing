@@ -12,6 +12,7 @@ lng: -82.9300
 zipSample: ["31040", "31021"]
 zipCodes: ["31040", "31021"]
 localPaths: ["Laurens County / coords 32.5400, -82.9300", "Laurens County / primary ZIP 31021", "Laurens County / ZIP 31021 sector", "Laurens County / elevation 279 ft band", "Laurens County / ZIP 31040 sector"]
+zillowHomeValueUsd: 191965
 ---
 
 **Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Laurens County.

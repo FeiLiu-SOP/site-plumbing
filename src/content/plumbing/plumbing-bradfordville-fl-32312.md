@@ -12,6 +12,7 @@ lng: -84.2100
 zipSample: ["32312", "32309", "32318"]
 zipCodes: ["32318", "32312", "32309"]
 localPaths: ["Leon County / primary ZIP 32312", "Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100", "Leon County / ZIP 32309 sector", "Leon County / ZIP 32318 sector"]
+zillowHomeValueUsd: 452045
 ---
 
 **Engineering Notice for Bradfordville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leon County.

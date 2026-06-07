@@ -12,6 +12,7 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301", "Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector"]
+zillowHomeValueUsd: 224525
 ---
 
 **Engineering Notice for Thibodaux:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafourche Parish.

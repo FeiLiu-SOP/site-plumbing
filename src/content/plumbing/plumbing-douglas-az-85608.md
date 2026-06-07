@@ -12,6 +12,7 @@ lng: -109.5400
 zipSample: ["85608", "85607", "85655"]
 zipCodes: ["85607", "85608", "85655"]
 localPaths: ["Cochise County / ZIP 85608 sector", "Cochise County / elevation 4032 ft band", "Cochise County / coords 31.3600, -109.5400", "Cochise County / ZIP 85655 sector", "Cochise County / primary ZIP 85608"]
+zillowHomeValueUsd: 174931
 ---
 
 **Engineering Notice for Douglas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cochise County.

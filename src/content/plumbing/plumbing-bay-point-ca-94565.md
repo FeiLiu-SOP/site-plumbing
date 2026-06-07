@@ -12,6 +12,7 @@ lng: -121.9600
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / primary ZIP 94565", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 38.0300, -121.9600"]
+zillowHomeValueUsd: 569626
 ---
 
 **Engineering Notice for Bay Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

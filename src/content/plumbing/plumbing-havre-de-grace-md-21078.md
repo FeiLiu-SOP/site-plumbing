@@ -12,6 +12,7 @@ lng: -76.1100
 zipSample: ["21078"]
 zipCodes: ["21078"]
 localPaths: ["Harford County / ZIP 21078 sector", "Harford County / coords 39.5500, -76.1100", "Harford County / primary ZIP 21078", "Harford County / elevation 157 ft band"]
+zillowHomeValueUsd: 404447
 ---
 
 **Engineering Notice for Havre de Grace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.

@@ -12,6 +12,7 @@ lng: -118.4000
 zipSample: ["90232", "90231", "90230"]
 zipCodes: ["90231", "90230", "90232"]
 localPaths: ["Los Angeles County / ZIP 90231 sector", "Los Angeles County / ZIP 90230 sector", "Los Angeles County / elevation 59 ft band", "Los Angeles County / ZIP 90232 sector", "Los Angeles County / primary ZIP 90232"]
+zillowHomeValueUsd: 1737096
 ---
 
 **Engineering Notice for Culver City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

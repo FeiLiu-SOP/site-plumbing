@@ -12,6 +12,7 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / primary ZIP 60448", "Will County / coords 41.5300, -87.8800", "Will County / ZIP 60448 sector", "Will County / elevation 725 ft band"]
+zillowHomeValueUsd: 437974
 ---
 
 **Engineering Notice for Mokena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

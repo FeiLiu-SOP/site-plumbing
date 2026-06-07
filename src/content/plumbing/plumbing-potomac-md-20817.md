@@ -12,6 +12,7 @@ lng: -77.1900
 zipSample: ["20827", "20859", "20854", "20817"]
 zipCodes: ["20854", "20827", "20817", "20859"]
 localPaths: ["Montgomery County / ZIP 20827 sector", "Montgomery County / coords 39.0100, -77.1900", "Montgomery County / ZIP 20859 sector", "Montgomery County / ZIP 20817 sector", "Montgomery County / primary ZIP 20817"]
+zillowHomeValueUsd: 1309896
 ---
 
 **Engineering Notice for Potomac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

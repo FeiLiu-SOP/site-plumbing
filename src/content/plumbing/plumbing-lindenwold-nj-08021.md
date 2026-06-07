@@ -12,6 +12,7 @@ lng: -74.9900
 zipSample: ["08021"]
 zipCodes: ["08021"]
 localPaths: ["Camden County / coords 39.8200, -74.9900", "Camden County / elevation 75 ft band", "Camden County / ZIP 08021 sector", "Camden County / primary ZIP 08021"]
+zillowHomeValueUsd: 285577
 ---
 
 **Engineering Notice for Lindenwold:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.

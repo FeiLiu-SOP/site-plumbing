@@ -12,6 +12,7 @@ lng: -74.6500
 zipSample: ["08844"]
 zipCodes: ["08844"]
 localPaths: ["Somerset County / coords 40.5100, -74.6500", "Somerset County / ZIP 08844 sector", "Somerset County / primary ZIP 08844", "Somerset County / elevation 115 ft band"]
+zillowHomeValueUsd: 672840
 ---
 
 **Engineering Notice for Hillsborough:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Somerset County.

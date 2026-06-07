@@ -12,6 +12,7 @@ lng: -97.3600
 zipSample: ["68601", "68602"]
 zipCodes: ["68602", "68601"]
 localPaths: ["Platte County / ZIP 68601 sector", "Platte County / elevation 1453 ft band", "Platte County / primary ZIP 68601", "Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68602 sector"]
+zillowHomeValueUsd: 271020
 ---
 
 **Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Platte County.

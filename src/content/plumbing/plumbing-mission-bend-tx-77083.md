@@ -12,6 +12,7 @@ lng: -95.6700
 zipSample: ["77083"]
 zipCodes: ["77083"]
 localPaths: ["Fort Bend County / coords 29.6900, -95.6700", "Fort Bend County / primary ZIP 77083", "Fort Bend County / ZIP 77083 sector", "Fort Bend County / elevation 98 ft band"]
+zillowHomeValueUsd: 262925
 ---
 
 **Engineering Notice for Mission Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.

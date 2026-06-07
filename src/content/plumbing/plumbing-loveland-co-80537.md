@@ -12,6 +12,7 @@ lng: -105.0600
 zipSample: ["80539", "80538", "80537"]
 zipCodes: ["80538", "80539", "80537"]
 localPaths: ["Larimer County / ZIP 80538 sector", "Larimer County / ZIP 80539 sector", "Larimer County / elevation 5003 ft band", "Larimer County / ZIP 80537 sector", "Larimer County / primary ZIP 80537"]
+zillowHomeValueUsd: 497694
 ---
 
 **Engineering Notice for Loveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Larimer County.

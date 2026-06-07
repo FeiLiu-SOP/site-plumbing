@@ -12,6 +12,7 @@ lng: -90.0500
 zipSample: ["70054", "70056", "70053"]
 zipCodes: ["70054", "70053", "70056"]
 localPaths: ["Jefferson Parish / ZIP 70054 sector", "Jefferson Parish / ZIP 70053 sector", "Jefferson Parish / ZIP 70056 sector", "Jefferson Parish / coords 29.9100, -90.0500", "Jefferson Parish / primary ZIP 70056"]
+zillowHomeValueUsd: 250952
 ---
 
 **Engineering Notice for Gretna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.

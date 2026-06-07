@@ -12,6 +12,7 @@ lng: -75.0600
 zipSample: ["08332"]
 zipCodes: ["08332"]
 localPaths: ["Cumberland County / coords 39.3900, -75.0600", "Cumberland County / ZIP 08332 sector", "Cumberland County / primary ZIP 08332", "Cumberland County / elevation 56 ft band"]
+zillowHomeValueUsd: 253764
 ---
 
 **Engineering Notice for Millville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.

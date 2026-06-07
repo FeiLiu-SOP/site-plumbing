@@ -12,6 +12,7 @@ lng: -73.5800
 zipSample: ["11520"]
 zipCodes: ["11520"]
 localPaths: ["Nassau County / primary ZIP 11520", "Nassau County / ZIP 11520 sector", "Nassau County / coords 40.6500, -73.5800", "Nassau County / elevation 26 ft band"]
+zillowHomeValueUsd: 652863
 ---
 
 **Engineering Notice for Freeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

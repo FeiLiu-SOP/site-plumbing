@@ -12,6 +12,7 @@ lng: -82.7400
 zipSample: ["34690", "34691", "34692"]
 zipCodes: ["34691", "34690", "34692"]
 localPaths: ["Pasco County / elevation 26 ft band", "Pasco County / ZIP 34690 sector", "Pasco County / ZIP 34692 sector", "Pasco County / coords 28.1900, -82.7400", "Pasco County / primary ZIP 34691"]
+zillowHomeValueUsd: 225170
 ---
 
 **Engineering Notice for Holiday:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.

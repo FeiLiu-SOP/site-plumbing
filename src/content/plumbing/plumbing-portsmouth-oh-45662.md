@@ -12,6 +12,7 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / elevation 860 ft band", "Scioto County / ZIP 45662 sector", "Scioto County / primary ZIP 45662"]
+zillowHomeValueUsd: 99225
 ---
 
 **Engineering Notice for Portsmouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scioto County.

@@ -12,6 +12,7 @@ lng: -81.7000
 zipSample: ["28680", "28655"]
 zipCodes: ["28655", "28680"]
 localPaths: ["Burke County / ZIP 28680 sector", "Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28655", "Burke County / elevation 1201 ft band", "Burke County / coords 35.7400, -81.7000"]
+zillowHomeValueUsd: 259495
 ---
 
 **Engineering Notice for Morganton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Burke County.

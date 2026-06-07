@@ -12,6 +12,7 @@ lng: -81.4200
 zipSample: ["44278"]
 zipCodes: ["44278"]
 localPaths: ["Summit County / coords 41.1000, -81.4200", "Summit County / primary ZIP 44278", "Summit County / ZIP 44278 sector", "Summit County / elevation 1204 ft band"]
+zillowHomeValueUsd: 282390
 ---
 
 **Engineering Notice for Tallmadge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.

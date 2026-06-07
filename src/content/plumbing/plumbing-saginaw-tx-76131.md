@@ -12,6 +12,7 @@ lng: -97.3700
 zipSample: ["76179", "76131"]
 zipCodes: ["76179", "76131"]
 localPaths: ["Tarrant County / ZIP 76131 sector", "Tarrant County / primary ZIP 76131", "Tarrant County / coords 32.8700, -97.3700", "Tarrant County / ZIP 76179 sector", "Tarrant County / elevation 745 ft band"]
+zillowHomeValueUsd: 337697
 ---
 
 **Engineering Notice for Saginaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

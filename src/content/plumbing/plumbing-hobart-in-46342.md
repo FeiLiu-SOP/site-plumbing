@@ -12,6 +12,7 @@ lng: -87.2700
 zipSample: ["46410", "46342"]
 zipCodes: ["46410", "46342"]
 localPaths: ["Lake County / coords 41.5100, -87.2700", "Lake County / elevation 636 ft band", "Lake County / ZIP 46410 sector", "Lake County / ZIP 46342 sector", "Lake County / primary ZIP 46342"]
+zillowHomeValueUsd: 234727
 ---
 
 **Engineering Notice for Hobart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

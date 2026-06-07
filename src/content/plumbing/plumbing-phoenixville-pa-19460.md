@@ -12,6 +12,7 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / primary ZIP 19460", "Chester County / coords 40.1400, -75.5200", "Chester County / elevation 131 ft band", "Chester County / ZIP 19460 sector"]
+zillowHomeValueUsd: 517807
 ---
 
 **Engineering Notice for Phoenixville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chester County.

@@ -12,6 +12,7 @@ lng: -70.8900
 zipSample: ["01950"]
 zipCodes: ["01950"]
 localPaths: ["Essex County / elevation 79 ft band", "Essex County / primary ZIP 01950", "Essex County / ZIP 01950 sector", "Essex County / coords 42.8100, -70.8900"]
+zillowHomeValueUsd: 923080
 ---
 
 **Engineering Notice for Newburyport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

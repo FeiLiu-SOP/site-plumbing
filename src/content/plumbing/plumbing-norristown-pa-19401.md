@@ -12,6 +12,7 @@ lng: -75.3400
 zipSample: ["19409", "19415", "19404", "19401"]
 zipCodes: ["19415", "19409", "19404", "19401"]
 localPaths: ["Montgomery County / ZIP 19404 sector", "Montgomery County / ZIP 19409 sector", "Montgomery County / coords 40.1200, -75.3400", "Montgomery County / ZIP 19401 sector", "Montgomery County / primary ZIP 19401"]
+zillowHomeValueUsd: 267647
 ---
 
 **Engineering Notice for Norristown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

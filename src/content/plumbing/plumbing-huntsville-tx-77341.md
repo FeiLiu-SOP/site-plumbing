@@ -12,6 +12,7 @@ lng: -95.5600
 zipSample: ["77344", "77342", "77340", "77343", "77320"]
 zipCodes: ["77344", "77340", "77341", "77320", "77342", "77349", "77343", "77348"]
 localPaths: ["Walker County / ZIP 77342 sector", "Walker County / ZIP 77344 sector", "Walker County / ZIP 77343 sector", "Walker County / primary ZIP 77341", "Walker County / coords 30.7000, -95.5600"]
+zillowHomeValueUsd: 239089
 ---
 
 **Engineering Notice for Huntsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Walker County.

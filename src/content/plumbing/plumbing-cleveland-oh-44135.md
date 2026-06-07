@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["44128", "44102", "44101", "44108", "44112"]
 zipCodes: ["44104", "44102", "44199", "44119", "44144", "44108", "44113", "44114", "44198", "44197", "44193", "44111"]
 localPaths: ["Cuyahoga County / coords 41.4800, -81.6800", "Cuyahoga County / elevation 646 ft band", "Cuyahoga County / primary ZIP 44135", "Cuyahoga County / ZIP 44101 sector", "Cuyahoga County / ZIP 44108 sector"]
+zillowHomeValueUsd: 155016
 ---
 
 **Engineering Notice for Cleveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

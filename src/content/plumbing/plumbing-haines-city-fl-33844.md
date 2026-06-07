@@ -12,6 +12,7 @@ lng: -81.6200
 zipSample: ["33845", "33844", "33837"]
 zipCodes: ["33844", "33845", "33837"]
 localPaths: ["Polk County / elevation 167 ft band", "Polk County / primary ZIP 33844", "Polk County / ZIP 33844 sector", "Polk County / ZIP 33837 sector", "Polk County / ZIP 33845 sector"]
+zillowHomeValueUsd: 295980
 ---
 
 **Engineering Notice for Haines City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

@@ -12,6 +12,7 @@ lng: -84.4600
 zipSample: ["30337", "30349"]
 zipCodes: ["30337", "30349"]
 localPaths: ["Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30337 sector", "Fulton County / coords 33.6400, -84.4600", "Fulton County / elevation 1050 ft band", "Fulton County / primary ZIP 30337"]
+zillowHomeValueUsd: 301873
 ---
 
 **Engineering Notice for College Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.

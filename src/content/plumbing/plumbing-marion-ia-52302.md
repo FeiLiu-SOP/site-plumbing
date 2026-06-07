@@ -12,6 +12,7 @@ lng: -91.5800
 zipSample: ["52302"]
 zipCodes: ["52302"]
 localPaths: ["Linn County / primary ZIP 52302", "Linn County / elevation 840 ft band", "Linn County / ZIP 52302 sector", "Linn County / coords 42.0500, -91.5800"]
+zillowHomeValueUsd: 270288
 ---
 
 **Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.

@@ -12,6 +12,7 @@ lng: -88.1300
 zipSample: ["53146", "53151"]
 zipCodes: ["53151", "53146"]
 localPaths: ["Waukesha County / elevation 886 ft band", "Waukesha County / ZIP 53151 sector", "Waukesha County / ZIP 53146 sector", "Waukesha County / coords 42.9700, -88.1300", "Waukesha County / primary ZIP 53146"]
+zillowHomeValueUsd: 441068
 ---
 
 **Engineering Notice for New Berlin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waukesha County.

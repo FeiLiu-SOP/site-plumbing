@@ -12,6 +12,7 @@ lng: -84.4500
 zipSample: ["41075"]
 zipCodes: ["41075"]
 localPaths: ["Campbell County / elevation 830 ft band", "Campbell County / coords 39.0800, -84.4500", "Campbell County / ZIP 41075 sector", "Campbell County / primary ZIP 41075"]
+zillowHomeValueUsd: 370045
 ---
 
 **Engineering Notice for Fort Thomas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Campbell County.

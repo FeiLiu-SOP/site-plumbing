@@ -12,6 +12,7 @@ lng: -82.7700
 zipSample: ["43147"]
 zipCodes: ["43147"]
 localPaths: ["Fairfield County / coords 39.8900, -82.7700", "Fairfield County / primary ZIP 43147", "Fairfield County / ZIP 43147 sector", "Fairfield County / elevation 833 ft band"]
+zillowHomeValueUsd: 419477
 ---
 
 **Engineering Notice for Pickerington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfield County.

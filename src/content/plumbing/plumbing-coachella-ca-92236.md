@@ -12,6 +12,7 @@ lng: -116.1400
 zipSample: ["92236"]
 zipCodes: ["92236"]
 localPaths: ["Riverside County / elevation -67 ft band", "Riverside County / coords 33.6900, -116.1400", "Riverside County / primary ZIP 92236", "Riverside County / ZIP 92236 sector"]
+zillowHomeValueUsd: 432464
 ---
 
 **Engineering Notice for Coachella:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

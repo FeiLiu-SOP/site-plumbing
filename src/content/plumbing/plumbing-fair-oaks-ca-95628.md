@@ -12,6 +12,7 @@ lng: -121.2500
 zipSample: ["95628"]
 zipCodes: ["95628"]
 localPaths: ["Sacramento County / ZIP 95628 sector", "Sacramento County / elevation 210 ft band", "Sacramento County / primary ZIP 95628", "Sacramento County / coords 38.6500, -121.2500"]
+zillowHomeValueUsd: 619485
 ---
 
 **Engineering Notice for Fair Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

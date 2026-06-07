@@ -12,6 +12,7 @@ lng: -74.9800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / elevation 164 ft band", "Gloucester County / coords 39.6900, -74.9800", "Gloucester County / ZIP 08094 sector", "Gloucester County / primary ZIP 08094"]
+zillowHomeValueUsd: 365733
 ---
 
 **Engineering Notice for Williamstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gloucester County.

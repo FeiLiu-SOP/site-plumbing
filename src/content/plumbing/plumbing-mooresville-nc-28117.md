@@ -12,6 +12,7 @@ lng: -80.8300
 zipSample: ["28117", "28115"]
 zipCodes: ["28117", "28115"]
 localPaths: ["Iredell County / elevation 853 ft band", "Iredell County / coords 35.5800, -80.8300", "Iredell County / ZIP 28117 sector", "Iredell County / primary ZIP 28117", "Iredell County / ZIP 28115 sector"]
+zillowHomeValueUsd: 632049
 ---
 
 **Engineering Notice for Mooresville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iredell County.

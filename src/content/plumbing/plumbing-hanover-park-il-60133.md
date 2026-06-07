@@ -12,6 +12,7 @@ lng: -88.1400
 zipSample: ["60133"]
 zipCodes: ["60133"]
 localPaths: ["DuPage County / elevation 801 ft band", "DuPage County / primary ZIP 60133", "DuPage County / ZIP 60133 sector", "DuPage County / coords 41.9800, -88.1400"]
+zillowHomeValueUsd: 322873
 ---
 
 **Engineering Notice for Hanover Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

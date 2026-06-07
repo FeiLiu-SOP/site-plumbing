@@ -12,6 +12,7 @@ lng: -97.0800
 zipSample: ["76039", "75261", "76040"]
 zipCodes: ["76040", "75261", "76039"]
 localPaths: ["Tarrant County / primary ZIP 76040", "Tarrant County / ZIP 75261 sector", "Tarrant County / coords 32.8500, -97.0800", "Tarrant County / elevation 600 ft band", "Tarrant County / ZIP 76039 sector"]
+zillowHomeValueUsd: 357223
 ---
 
 **Engineering Notice for Euless:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

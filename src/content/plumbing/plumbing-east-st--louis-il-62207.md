@@ -12,6 +12,7 @@ lng: -90.1300
 zipSample: ["62203", "62207", "62205", "62201", "62204"]
 zipCodes: ["62204", "62205", "62202", "62207", "62203", "62201"]
 localPaths: ["St. Clair County / ZIP 62204 sector", "St. Clair County / ZIP 62205 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / ZIP 62207 sector", "St. Clair County / coords 38.6200, -90.1300"]
+zillowHomeValueUsd: 42249
 ---
 
 **Engineering Notice for East St. Louis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.

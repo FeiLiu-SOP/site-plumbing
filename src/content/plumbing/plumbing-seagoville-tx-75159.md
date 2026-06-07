@@ -12,6 +12,7 @@ lng: -96.5500
 zipSample: ["75159"]
 zipCodes: ["75159"]
 localPaths: ["Dallas County / ZIP 75159 sector", "Dallas County / elevation 456 ft band", "Dallas County / coords 32.6500, -96.5500", "Dallas County / primary ZIP 75159"]
+zillowHomeValueUsd: 281036
 ---
 
 **Engineering Notice for Seagoville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.

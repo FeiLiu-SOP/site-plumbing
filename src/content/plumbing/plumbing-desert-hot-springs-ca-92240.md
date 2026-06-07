@@ -12,6 +12,7 @@ lng: -116.5400
 zipSample: ["92282", "92240", "92258"]
 zipCodes: ["92258", "92282", "92240"]
 localPaths: ["Riverside County / ZIP 92282 sector", "Riverside County / ZIP 92258 sector", "Riverside County / ZIP 92240 sector", "Riverside County / primary ZIP 92240", "Riverside County / coords 33.9500, -116.5400"]
+zillowHomeValueUsd: 375941
 ---
 
 **Engineering Notice for Desert Hot Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

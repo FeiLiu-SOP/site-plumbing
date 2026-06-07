@@ -12,6 +12,7 @@ lng: -86.1000
 zipSample: ["49423", "49422"]
 zipCodes: ["49423", "49422"]
 localPaths: ["Ottawa County / coords 42.7700, -86.1000", "Ottawa County / elevation 656 ft band", "Ottawa County / primary ZIP 49423", "Ottawa County / ZIP 49422 sector", "Ottawa County / ZIP 49423 sector"]
+zillowHomeValueUsd: 347217
 ---
 
 **Engineering Notice for Holland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.

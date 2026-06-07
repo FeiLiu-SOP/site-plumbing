@@ -12,6 +12,7 @@ lng: -122.6300
 zipSample: ["94952", "94954", "94953"]
 zipCodes: ["94952", "94953", "94954"]
 localPaths: ["Sonoma County / coords 38.2400, -122.6300", "Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94954 sector", "Sonoma County / ZIP 94953 sector"]
+zillowHomeValueUsd: 836266
 ---
 
 **Engineering Notice for Petaluma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.

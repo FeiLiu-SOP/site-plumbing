@@ -12,6 +12,7 @@ lng: -96.9600
 zipSample: ["74804", "74801", "74802"]
 zipCodes: ["74802", "74804", "74801"]
 localPaths: ["Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / primary ZIP 74804", "Pottawatomie County / elevation 1047 ft band", "Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74802 sector"]
+zillowHomeValueUsd: 226556
 ---
 
 **Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pottawatomie County.

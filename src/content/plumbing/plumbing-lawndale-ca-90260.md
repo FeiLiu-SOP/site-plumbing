@@ -12,6 +12,7 @@ lng: -118.3500
 zipSample: ["90260"]
 zipCodes: ["90260"]
 localPaths: ["Los Angeles County / primary ZIP 90260", "Los Angeles County / coords 33.8900, -118.3500", "Los Angeles County / ZIP 90260 sector", "Los Angeles County / elevation 69 ft band"]
+zillowHomeValueUsd: 814652
 ---
 
 **Engineering Notice for Lawndale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

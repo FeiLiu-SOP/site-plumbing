@@ -12,6 +12,7 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / elevation 1020 ft band", "Jackson County / ZIP 64030 sector", "Jackson County / coords 38.8800, -94.5200", "Jackson County / primary ZIP 64030"]
+zillowHomeValueUsd: 216658
 ---
 
 **Engineering Notice for Grandview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

@@ -12,6 +12,7 @@ lng: -122.3400
 zipSample: ["98093", "98063", "98003", "98023"]
 zipCodes: ["98093", "98003", "98063", "98023"]
 localPaths: ["King County / ZIP 98003 sector", "King County / ZIP 98063 sector", "King County / ZIP 98093 sector", "King County / elevation 377 ft band", "King County / coords 47.3100, -122.3400"]
+zillowHomeValueUsd: 621996
 ---
 
 **Engineering Notice for Federal Way:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

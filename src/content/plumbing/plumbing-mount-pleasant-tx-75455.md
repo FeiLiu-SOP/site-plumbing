@@ -12,6 +12,7 @@ lng: -94.9700
 zipSample: ["75455", "75456"]
 zipCodes: ["75455", "75456"]
 localPaths: ["Titus County / ZIP 75456 sector", "Titus County / ZIP 75455 sector", "Titus County / elevation 410 ft band", "Titus County / primary ZIP 75455", "Titus County / coords 33.1600, -94.9700"]
+zillowHomeValueUsd: 227628
 ---
 
 **Engineering Notice for Mount Pleasant:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Titus County.

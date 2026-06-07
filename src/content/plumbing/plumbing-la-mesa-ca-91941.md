@@ -12,6 +12,7 @@ lng: -117.0200
 zipSample: ["91941", "91943", "91944", "91942"]
 zipCodes: ["91943", "91944", "91941", "91942"]
 localPaths: ["San Diego County / coords 32.7700, -117.0200", "San Diego County / ZIP 91941 sector", "San Diego County / ZIP 91944 sector", "San Diego County / primary ZIP 91941", "San Diego County / ZIP 91942 sector"]
+zillowHomeValueUsd: 1030870
 ---
 
 **Engineering Notice for La Mesa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

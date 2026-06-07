@@ -12,6 +12,7 @@ lng: -87.9700
 zipSample: ["60451"]
 zipCodes: ["60451"]
 localPaths: ["Will County / ZIP 60451 sector", "Will County / coords 41.5100, -87.9700", "Will County / primary ZIP 60451", "Will County / elevation 692 ft band"]
+zillowHomeValueUsd: 439910
 ---
 
 **Engineering Notice for New Lenox:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

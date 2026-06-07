@@ -12,6 +12,7 @@ lng: -91.6000
 zipSample: ["52241"]
 zipCodes: ["52241"]
 localPaths: ["Johnson County / elevation 751 ft band", "Johnson County / primary ZIP 52241", "Johnson County / ZIP 52241 sector", "Johnson County / coords 41.7000, -91.6000"]
+zillowHomeValueUsd: 256946
 ---
 
 **Engineering Notice for Coralville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

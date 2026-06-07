@@ -12,6 +12,7 @@ lng: -122.3000
 zipSample: ["98275"]
 zipCodes: ["98275"]
 localPaths: ["Snohomish County / ZIP 98275 sector", "Snohomish County / coords 47.9100, -122.3000", "Snohomish County / primary ZIP 98275", "Snohomish County / elevation 423 ft band"]
+zillowHomeValueUsd: 933725
 ---
 
 **Engineering Notice for Mukilteo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

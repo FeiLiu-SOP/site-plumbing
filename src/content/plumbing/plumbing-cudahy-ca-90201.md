@@ -12,6 +12,7 @@ lng: -118.1800
 zipSample: ["90096", "90201"]
 zipCodes: ["90096", "90201"]
 localPaths: ["Los Angeles County / primary ZIP 90201", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9600, -118.1800", "Los Angeles County / ZIP 90096 sector", "Los Angeles County / elevation 138 ft band"]
+zillowHomeValueUsd: 687008
 ---
 
 **Engineering Notice for Cudahy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

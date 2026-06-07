@@ -12,6 +12,7 @@ lng: -83.8300
 zipSample: ["30507", "30501", "30504"]
 zipCodes: ["30504", "30501", "30507"]
 localPaths: ["Hall County / elevation 1220 ft band", "Hall County / ZIP 30507 sector", "Hall County / primary ZIP 30501", "Hall County / coords 34.2900, -83.8300", "Hall County / ZIP 30501 sector"]
+zillowHomeValueUsd: 315248
 ---
 
 **Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hall County.

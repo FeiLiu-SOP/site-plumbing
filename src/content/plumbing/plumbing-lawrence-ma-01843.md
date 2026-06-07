@@ -12,6 +12,7 @@ lng: -71.1600
 zipSample: ["01840", "01841", "01842", "01843"]
 zipCodes: ["01842", "01840", "01843", "01841"]
 localPaths: ["Essex County / ZIP 01842 sector", "Essex County / primary ZIP 01843", "Essex County / ZIP 01843 sector", "Essex County / ZIP 01841 sector", "Essex County / ZIP 01840 sector"]
+zillowHomeValueUsd: 526430
 ---
 
 **Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

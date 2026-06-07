@@ -12,6 +12,7 @@ lng: -121.8800
 zipSample: ["93943", "93940", "93944"]
 zipCodes: ["93943", "93944", "93940"]
 localPaths: ["Monterey County / primary ZIP 93943", "Monterey County / ZIP 93944 sector", "Monterey County / coords 36.5900, -121.8800", "Monterey County / ZIP 93943 sector", "Monterey County / elevation 16 ft band"]
+zillowHomeValueUsd: 1135816
 ---
 
 **Engineering Notice for Monterey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.

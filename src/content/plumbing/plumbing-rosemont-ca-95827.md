@@ -12,6 +12,7 @@ lng: -121.3600
 zipSample: ["95827", "95826"]
 zipCodes: ["95826", "95827"]
 localPaths: ["Sacramento County / primary ZIP 95827", "Sacramento County / coords 38.5500, -121.3600", "Sacramento County / ZIP 95826 sector", "Sacramento County / ZIP 95827 sector", "Sacramento County / elevation 62 ft band"]
+zillowHomeValueUsd: 475696
 ---
 
 **Engineering Notice for Rosemont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

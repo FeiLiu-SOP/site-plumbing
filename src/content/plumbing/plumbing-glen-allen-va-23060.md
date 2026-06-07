@@ -12,6 +12,7 @@ lng: -77.4800
 zipSample: ["23060", "23058", "23059"]
 zipCodes: ["23058", "23059", "23060"]
 localPaths: ["Henrico County / ZIP 23059 sector", "Henrico County / ZIP 23060 sector", "Henrico County / elevation 223 ft band", "Henrico County / primary ZIP 23060", "Henrico County / ZIP 23058 sector"]
+zillowHomeValueUsd: 451277
 ---
 
 **Engineering Notice for Glen Allen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.

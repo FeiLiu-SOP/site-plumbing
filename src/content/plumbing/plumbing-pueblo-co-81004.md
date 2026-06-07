@@ -12,6 +12,7 @@ lng: -104.6100
 zipSample: ["81008", "81001", "81003", "81004", "81002"]
 zipCodes: ["81005", "81004", "81010", "81011", "81003", "81008", "81001", "81012", "81002"]
 localPaths: ["Pueblo County / ZIP 81003 sector", "Pueblo County / ZIP 81004 sector", "Pueblo County / coords 38.2700, -104.6100", "Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81008 sector"]
+zillowHomeValueUsd: 195468
 ---
 
 **Engineering Notice for Pueblo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pueblo County.

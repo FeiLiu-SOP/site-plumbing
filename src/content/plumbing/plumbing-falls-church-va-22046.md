@@ -12,6 +12,7 @@ lng: -77.1800
 zipSample: ["22046", "22040"]
 zipCodes: ["22040", "22046"]
 localPaths: ["Falls Church County / coords 38.8800, -77.1800", "Falls Church County / elevation 338 ft band", "Falls Church County / ZIP 22046 sector", "Falls Church County / primary ZIP 22046", "Falls Church County / ZIP 22040 sector"]
+zillowHomeValueUsd: 1052515
 ---
 
 **Engineering Notice for Falls Church:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Falls Church County.

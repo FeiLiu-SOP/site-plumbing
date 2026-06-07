@@ -12,6 +12,7 @@ lng: -73.6700
 zipSample: ["11561"]
 zipCodes: ["11561"]
 localPaths: ["Nassau County / elevation 13 ft band", "Nassau County / primary ZIP 11561", "Nassau County / coords 40.5900, -73.6700", "Nassau County / ZIP 11561 sector"]
+zillowHomeValueUsd: 820883
 ---
 
 **Engineering Notice for Long Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

@@ -12,6 +12,7 @@ lng: -76.5700
 zipSample: ["13021", "13024", "13022"]
 zipCodes: ["13022", "13021", "13024"]
 localPaths: ["Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700", "Cayuga County / ZIP 13021 sector", "Cayuga County / ZIP 13022 sector", "Cayuga County / primary ZIP 13021"]
+zillowHomeValueUsd: 214992
 ---
 
 **Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cayuga County.

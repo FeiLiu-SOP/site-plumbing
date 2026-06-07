@@ -12,6 +12,7 @@ lng: -95.3600
 zipSample: ["77578"]
 zipCodes: ["77578"]
 localPaths: ["Brazoria County / primary ZIP 77578", "Brazoria County / elevation 59 ft band", "Brazoria County / coords 29.4800, -95.3600", "Brazoria County / ZIP 77578 sector"]
+zillowHomeValueUsd: 441278
 ---
 
 **Engineering Notice for Manvel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.

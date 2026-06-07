@@ -12,6 +12,7 @@ lng: -80.3200
 zipSample: ["26330", "26306", "26301"]
 zipCodes: ["26330", "26301", "26306"]
 localPaths: ["Harrison County / ZIP 26330 sector", "Harrison County / ZIP 26306 sector", "Harrison County / coords 39.2900, -80.3200", "Harrison County / primary ZIP 26301", "Harrison County / ZIP 26301 sector"]
+zillowHomeValueUsd: 116852
 ---
 
 **Engineering Notice for Clarksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.

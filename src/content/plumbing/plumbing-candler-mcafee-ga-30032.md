@@ -12,6 +12,7 @@ lng: -84.2700
 zipSample: ["30032"]
 zipCodes: ["30032"]
 localPaths: ["DeKalb County / elevation 948 ft band", "DeKalb County / primary ZIP 30032", "DeKalb County / ZIP 30032 sector", "DeKalb County / coords 33.7300, -84.2700"]
+zillowHomeValueUsd: 232657
 ---
 
 **Engineering Notice for Candler-McAfee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.

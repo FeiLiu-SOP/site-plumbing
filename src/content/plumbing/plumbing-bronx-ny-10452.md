@@ -12,6 +12,7 @@ lng: -73.8700
 zipSample: ["10466", "10451", "10462", "10457", "10459"]
 zipCodes: ["10453", "10468", "10464", "10456", "10460", "10462", "10454", "10474", "10471", "10465", "10451", "10469"]
 localPaths: ["Bronx County / elevation 62 ft band", "Bronx County / primary ZIP 10452", "Bronx County / ZIP 10466 sector", "Bronx County / ZIP 10459 sector", "Bronx County / ZIP 10457 sector"]
+zillowHomeValueUsd: 319075
 ---
 
 **Engineering Notice for Bronx:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bronx County.

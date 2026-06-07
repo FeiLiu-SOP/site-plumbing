@@ -12,6 +12,7 @@ lng: -122.1000
 zipSample: ["94023", "94024", "94022"]
 zipCodes: ["94022", "94023", "94024"]
 localPaths: ["Santa Clara County / ZIP 94022 sector", "Santa Clara County / ZIP 94024 sector", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / elevation 174 ft band", "Santa Clara County / coords 37.3700, -122.1000"]
+zillowHomeValueUsd: 5191308
 ---
 
 **Engineering Notice for Los Altos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

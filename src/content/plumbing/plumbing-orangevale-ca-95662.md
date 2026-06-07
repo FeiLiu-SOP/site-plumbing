@@ -12,6 +12,7 @@ lng: -121.2200
 zipSample: ["95662"]
 zipCodes: ["95662"]
 localPaths: ["Sacramento County / ZIP 95662 sector", "Sacramento County / elevation 233 ft band", "Sacramento County / primary ZIP 95662", "Sacramento County / coords 38.6900, -121.2200"]
+zillowHomeValueUsd: 561829
 ---
 
 **Engineering Notice for Orangevale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

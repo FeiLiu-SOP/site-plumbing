@@ -12,6 +12,7 @@ lng: -81.2900
 zipSample: ["32720", "32723", "32721", "32724"]
 zipCodes: ["32723", "32720", "32721", "32724"]
 localPaths: ["Volusia County / ZIP 32721 sector", "Volusia County / elevation 105 ft band", "Volusia County / ZIP 32723 sector", "Volusia County / ZIP 32720 sector", "Volusia County / coords 29.0200, -81.2900"]
+zillowHomeValueUsd: 339083
 ---
 
 **Engineering Notice for DeLand:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.

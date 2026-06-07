@@ -12,6 +12,7 @@ lng: -87.8400
 zipSample: ["60423"]
 zipCodes: ["60423"]
 localPaths: ["Will County / elevation 758 ft band", "Will County / ZIP 60423 sector", "Will County / coords 41.4900, -87.8400", "Will County / primary ZIP 60423"]
+zillowHomeValueUsd: 487526
 ---
 
 **Engineering Notice for Frankfort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

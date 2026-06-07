@@ -12,6 +12,7 @@ lng: -80.3900
 zipSample: ["33177", "33157"]
 zipCodes: ["33157", "33177"]
 localPaths: ["Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.5900, -80.3900", "Miami-Dade County / ZIP 33177 sector", "Miami-Dade County / primary ZIP 33177"]
+zillowHomeValueUsd: 571231
 ---
 
 **Engineering Notice for South Miami Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

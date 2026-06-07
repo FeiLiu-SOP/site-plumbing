@@ -12,6 +12,7 @@ lng: -99.4900
 zipSample: ["78040", "78043", "78046", "78042", "78045"]
 zipCodes: ["78042", "78043", "78040", "78045", "78041", "78046"]
 localPaths: ["Webb County / coords 27.5600, -99.4900", "Webb County / ZIP 78043 sector", "Webb County / ZIP 78042 sector", "Webb County / ZIP 78045 sector", "Webb County / primary ZIP 78046"]
+zillowHomeValueUsd: 192609
 ---
 
 **Engineering Notice for Laredo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Webb County.

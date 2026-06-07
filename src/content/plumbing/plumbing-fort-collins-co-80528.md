@@ -12,6 +12,7 @@ lng: -105.0700
 zipSample: ["80525", "80528", "80553", "80523", "80527"]
 zipCodes: ["80524", "80523", "80525", "80553", "80527", "80521", "80526", "80528"]
 localPaths: ["Larimer County / ZIP 80527 sector", "Larimer County / coords 40.5500, -105.0700", "Larimer County / ZIP 80528 sector", "Larimer County / ZIP 80523 sector", "Larimer County / primary ZIP 80528"]
+zillowHomeValueUsd: 648752
 ---
 
 **Engineering Notice for Fort Collins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Larimer County.

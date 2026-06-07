@@ -12,6 +12,7 @@ lng: -75.9100
 zipSample: ["13601"]
 zipCodes: ["13601"]
 localPaths: ["Jefferson County / elevation 482 ft band", "Jefferson County / primary ZIP 13601", "Jefferson County / ZIP 13601 sector", "Jefferson County / coords 43.9700, -75.9100"]
+zillowHomeValueUsd: 194462
 ---
 
 **Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

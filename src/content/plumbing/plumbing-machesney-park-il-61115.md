@@ -12,6 +12,7 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / ZIP 61115 sector", "Winnebago County / primary ZIP 61115", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / elevation 735 ft band"]
+zillowHomeValueUsd: 201373
 ---
 
 **Engineering Notice for Machesney Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.

@@ -12,6 +12,7 @@ lng: -86.3700
 zipSample: ["46168", "46231"]
 zipCodes: ["46231", "46168"]
 localPaths: ["Hendricks County / ZIP 46231 sector", "Hendricks County / coords 39.7000, -86.3700", "Hendricks County / ZIP 46168 sector", "Hendricks County / primary ZIP 46168", "Hendricks County / elevation 748 ft band"]
+zillowHomeValueUsd: 329505
 ---
 
 **Engineering Notice for Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hendricks County.

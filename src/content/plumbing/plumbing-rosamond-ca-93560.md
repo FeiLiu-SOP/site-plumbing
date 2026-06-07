@@ -12,6 +12,7 @@ lng: -118.2200
 zipSample: ["93560"]
 zipCodes: ["93560"]
 localPaths: ["Kern County / elevation 2411 ft band", "Kern County / coords 34.8700, -118.2200", "Kern County / ZIP 93560 sector", "Kern County / primary ZIP 93560"]
+zillowHomeValueUsd: 410952
 ---
 
 **Engineering Notice for Rosamond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.

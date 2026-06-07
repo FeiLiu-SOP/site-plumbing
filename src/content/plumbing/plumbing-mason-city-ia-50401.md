@@ -12,6 +12,7 @@ lng: -93.2000
 zipSample: ["50401", "50402"]
 zipCodes: ["50402", "50401"]
 localPaths: ["Cerro Gordo County / coords 43.1500, -93.2000", "Cerro Gordo County / primary ZIP 50401", "Cerro Gordo County / ZIP 50401 sector", "Cerro Gordo County / ZIP 50402 sector", "Cerro Gordo County / elevation 1122 ft band"]
+zillowHomeValueUsd: 154126
 ---
 
 **Engineering Notice for Mason City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cerro Gordo County.

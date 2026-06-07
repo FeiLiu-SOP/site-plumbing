@@ -12,6 +12,7 @@ lng: -157.9600
 zipSample: ["96701", "96782"]
 zipCodes: ["96701", "96782"]
 localPaths: ["Honolulu County / primary ZIP 96782", "Honolulu County / ZIP 96782 sector", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / ZIP 96701 sector", "Honolulu County / elevation 230 ft band"]
+zillowHomeValueUsd: 945882
 ---
 
 **Engineering Notice for Pearl City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.

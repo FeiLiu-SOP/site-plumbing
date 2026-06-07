@@ -12,6 +12,7 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55082", "55083"]
 localPaths: ["Washington County / primary ZIP 55082", "Washington County / ZIP 55082 sector", "Washington County / ZIP 55083 sector", "Washington County / elevation 856 ft band", "Washington County / coords 45.0600, -92.8300"]
+zillowHomeValueUsd: 520489
 ---
 
 **Engineering Notice for Stillwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

@@ -12,6 +12,7 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / primary ZIP 44446", "Trumbull County / elevation 902 ft band", "Trumbull County / coords 41.1900, -80.7500", "Trumbull County / ZIP 44446 sector"]
+zillowHomeValueUsd: 130865
 ---
 
 **Engineering Notice for Niles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Trumbull County.

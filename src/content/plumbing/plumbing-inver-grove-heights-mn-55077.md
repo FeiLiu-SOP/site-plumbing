@@ -12,6 +12,7 @@ lng: -93.0600
 zipSample: ["55076", "55077"]
 zipCodes: ["55077", "55076"]
 localPaths: ["Dakota County / elevation 915 ft band", "Dakota County / primary ZIP 55077", "Dakota County / ZIP 55076 sector", "Dakota County / ZIP 55077 sector", "Dakota County / coords 44.8200, -93.0600"]
+zillowHomeValueUsd: 563399
 ---
 
 **Engineering Notice for Inver Grove Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

@@ -12,6 +12,7 @@ lng: -117.6700
 zipSample: ["91708", "91710"]
 zipCodes: ["91710", "91708"]
 localPaths: ["San Bernardino County / primary ZIP 91708", "San Bernardino County / ZIP 91710 sector", "San Bernardino County / coords 33.9800, -117.6700", "San Bernardino County / ZIP 91708 sector", "San Bernardino County / elevation 620 ft band"]
+zillowHomeValueUsd: 726250
 ---
 
 **Engineering Notice for Chino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

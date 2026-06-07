@@ -12,6 +12,7 @@ lng: -90.3300
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / ZIP 63123 sector", "St. Louis County / coords 38.5500, -90.3300", "St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63123"]
+zillowHomeValueUsd: 243562
 ---
 
 **Engineering Notice for Affton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

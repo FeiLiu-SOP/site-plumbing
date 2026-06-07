@@ -12,6 +12,7 @@ lng: -117.9500
 zipSample: ["91749", "91747", "91746", "91744"]
 zipCodes: ["91749", "91747", "91744", "91746"]
 localPaths: ["Los Angeles County / ZIP 91747 sector", "Los Angeles County / elevation 328 ft band", "Los Angeles County / coords 34.0300, -117.9500", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / ZIP 91746 sector"]
+zillowHomeValueUsd: 763993
 ---
 
 **Engineering Notice for La Puente:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

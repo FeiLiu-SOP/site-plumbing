@@ -12,6 +12,7 @@ lng: -93.3100
 zipSample: ["55433", "55448"]
 zipCodes: ["55448", "55433"]
 localPaths: ["Anoka County / coords 45.1800, -93.3100", "Anoka County / ZIP 55433 sector", "Anoka County / ZIP 55448 sector", "Anoka County / elevation 863 ft band", "Anoka County / primary ZIP 55433"]
+zillowHomeValueUsd: 316991
 ---
 
 **Engineering Notice for Coon Rapids:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.

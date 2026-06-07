@@ -12,6 +12,7 @@ lng: -118.6700
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
 localPaths: ["Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / ZIP 91372 sector", "Los Angeles County / primary ZIP 91302", "Los Angeles County / elevation 1430 ft band"]
+zillowHomeValueUsd: 1958293
 ---
 
 **Engineering Notice for Calabasas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

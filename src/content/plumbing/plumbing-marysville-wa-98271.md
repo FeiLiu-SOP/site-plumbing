@@ -12,6 +12,7 @@ lng: -122.1600
 zipSample: ["98271", "98270"]
 zipCodes: ["98270", "98271"]
 localPaths: ["Snohomish County / ZIP 98271 sector", "Snohomish County / elevation 69 ft band", "Snohomish County / ZIP 98270 sector", "Snohomish County / primary ZIP 98271", "Snohomish County / coords 48.0800, -122.1600"]
+zillowHomeValueUsd: 597294
 ---
 
 **Engineering Notice for Marysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.

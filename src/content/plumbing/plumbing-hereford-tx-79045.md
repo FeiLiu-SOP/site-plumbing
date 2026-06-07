@@ -12,6 +12,7 @@ lng: -102.4000
 zipSample: ["79045"]
 zipCodes: ["79045"]
 localPaths: ["Deaf Smith County / elevation 3845 ft band", "Deaf Smith County / coords 34.8200, -102.4000", "Deaf Smith County / primary ZIP 79045", "Deaf Smith County / ZIP 79045 sector"]
+zillowHomeValueUsd: 173016
 ---
 
 **Engineering Notice for Hereford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Deaf Smith County.

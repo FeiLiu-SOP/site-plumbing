@@ -12,6 +12,7 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / ZIP 97140 sector", "Washington County / primary ZIP 97140", "Washington County / coords 45.3600, -122.8400", "Washington County / elevation 210 ft band"]
+zillowHomeValueUsd: 632894
 ---
 
 **Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

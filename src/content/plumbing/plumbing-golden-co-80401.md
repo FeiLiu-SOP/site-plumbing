@@ -12,6 +12,7 @@ lng: -105.2100
 zipSample: ["80403", "80401", "80419"]
 zipCodes: ["80401", "80403", "80419"]
 localPaths: ["Jefferson County / primary ZIP 80401", "Jefferson County / ZIP 80401 sector", "Jefferson County / ZIP 80419 sector", "Jefferson County / elevation 5797 ft band", "Jefferson County / ZIP 80403 sector"]
+zillowHomeValueUsd: 837769
 ---
 
 **Engineering Notice for Golden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

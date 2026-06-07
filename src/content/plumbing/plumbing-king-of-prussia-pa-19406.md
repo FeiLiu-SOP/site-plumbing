@@ -12,6 +12,7 @@ lng: -75.3800
 zipSample: ["19484", "19406"]
 zipCodes: ["19484", "19406"]
 localPaths: ["Montgomery County / coords 40.1000, -75.3800", "Montgomery County / elevation 135 ft band", "Montgomery County / ZIP 19484 sector", "Montgomery County / primary ZIP 19406", "Montgomery County / ZIP 19406 sector"]
+zillowHomeValueUsd: 493034
 ---
 
 **Engineering Notice for King of Prussia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

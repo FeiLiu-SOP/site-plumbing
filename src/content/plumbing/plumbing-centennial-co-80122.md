@@ -12,6 +12,7 @@ lng: -104.8700
 zipSample: ["80111", "80155", "80016", "80121", "80122"]
 zipCodes: ["80111", "80015", "80122", "80121", "80161", "80016", "80155", "80112"]
 localPaths: ["Arapahoe County / ZIP 80111 sector", "Arapahoe County / ZIP 80122 sector", "Arapahoe County / primary ZIP 80122", "Arapahoe County / ZIP 80016 sector", "Arapahoe County / ZIP 80121 sector"]
+zillowHomeValueUsd: 639553
 ---
 
 **Engineering Notice for Centennial:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.

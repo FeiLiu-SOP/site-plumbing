@@ -12,6 +12,7 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / ZIP 78233 sector", "Bexar County / primary ZIP 78233", "Bexar County / coords 29.5500, -98.3400", "Bexar County / elevation 866 ft band"]
+zillowHomeValueUsd: 232994
 ---
 
 **Engineering Notice for Live Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.

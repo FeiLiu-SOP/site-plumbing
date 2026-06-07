@@ -12,6 +12,7 @@ lng: -92.4500
 zipSample: ["50614", "50613"]
 zipCodes: ["50613", "50614"]
 localPaths: ["Black Hawk County / coords 42.5200, -92.4500", "Black Hawk County / elevation 889 ft band", "Black Hawk County / ZIP 50614 sector", "Black Hawk County / primary ZIP 50613", "Black Hawk County / ZIP 50613 sector"]
+zillowHomeValueUsd: 258932
 ---
 
 **Engineering Notice for Cedar Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Black Hawk County.

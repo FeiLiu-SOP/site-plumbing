@@ -12,6 +12,7 @@ lng: -80.4400
 zipSample: ["33033"]
 zipCodes: ["33033"]
 localPaths: ["Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.4900, -80.4400", "Miami-Dade County / primary ZIP 33033"]
+zillowHomeValueUsd: 434642
 ---
 
 **Engineering Notice for Leisure City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

@@ -12,6 +12,7 @@ lng: -110.9700
 zipSample: ["85629", "85614"]
 zipCodes: ["85629", "85614"]
 localPaths: ["Pima County / ZIP 85629 sector", "Pima County / coords 31.9300, -110.9700", "Pima County / elevation 2749 ft band", "Pima County / ZIP 85614 sector", "Pima County / primary ZIP 85629"]
+zillowHomeValueUsd: 338545
 ---
 
 **Engineering Notice for Sahuarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

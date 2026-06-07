@@ -12,6 +12,7 @@ lng: -86.2500
 zipSample: ["49441", "49444"]
 zipCodes: ["49441", "49444"]
 localPaths: ["Muskegon County / ZIP 49441 sector", "Muskegon County / elevation 620 ft band", "Muskegon County / primary ZIP 49441", "Muskegon County / ZIP 49444 sector", "Muskegon County / coords 43.1600, -86.2500"]
+zillowHomeValueUsd: 250620
 ---
 
 **Engineering Notice for Norton Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskegon County.

@@ -12,6 +12,7 @@ lng: -88.4900
 zipSample: ["53066"]
 zipCodes: ["53066"]
 localPaths: ["Waukesha County / coords 43.1000, -88.4900", "Waukesha County / ZIP 53066 sector", "Waukesha County / primary ZIP 53066", "Waukesha County / elevation 873 ft band"]
+zillowHomeValueUsd: 567629
 ---
 
 **Engineering Notice for Oconomowoc:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waukesha County.

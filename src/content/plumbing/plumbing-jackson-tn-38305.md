@@ -12,6 +12,7 @@ lng: -88.8400
 zipSample: ["38301", "38314", "38305", "38303"]
 zipCodes: ["38314", "38301", "38303", "38305"]
 localPaths: ["Madison County / primary ZIP 38305", "Madison County / ZIP 38303 sector", "Madison County / elevation 463 ft band", "Madison County / ZIP 38314 sector", "Madison County / ZIP 38301 sector"]
+zillowHomeValueUsd: 279900
 ---
 
 **Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

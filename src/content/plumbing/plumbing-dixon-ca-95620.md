@@ -12,6 +12,7 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / ZIP 95620 sector", "Solano County / primary ZIP 95620", "Solano County / coords 38.4500, -121.8300", "Solano County / elevation 66 ft band"]
+zillowHomeValueUsd: 606805
 ---
 
 **Engineering Notice for Dixon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.

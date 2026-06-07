@@ -12,6 +12,7 @@ lng: -81.3100
 zipSample: ["31324"]
 zipCodes: ["31324"]
 localPaths: ["Bryan County / coords 31.9000, -81.3100", "Bryan County / primary ZIP 31324", "Bryan County / elevation 36 ft band", "Bryan County / ZIP 31324 sector"]
+zillowHomeValueUsd: 423210
 ---
 
 **Engineering Notice for Richmond Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bryan County.

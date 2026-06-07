@@ -12,6 +12,7 @@ lng: -80.3400
 zipSample: ["33023", "33029", "33025", "33027"]
 zipCodes: ["33027", "33029", "33023", "33025"]
 localPaths: ["Broward County / primary ZIP 33029", "Broward County / elevation 16 ft band", "Broward County / ZIP 33029 sector", "Broward County / ZIP 33023 sector", "Broward County / coords 25.9800, -80.3400"]
+zillowHomeValueUsd: 708657
 ---
 
 **Engineering Notice for Miramar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

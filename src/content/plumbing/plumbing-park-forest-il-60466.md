@@ -12,6 +12,7 @@ lng: -87.6900
 zipSample: ["60466"]
 zipCodes: ["60466"]
 localPaths: ["Cook County / coords 41.4800, -87.6900", "Cook County / primary ZIP 60466", "Cook County / ZIP 60466 sector", "Cook County / elevation 725 ft band"]
+zillowHomeValueUsd: 149972
 ---
 
 **Engineering Notice for Park Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

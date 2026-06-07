@@ -12,6 +12,7 @@ lng: -120.6000
 zipSample: ["95301"]
 zipCodes: ["95301"]
 localPaths: ["Merced County / ZIP 95301 sector", "Merced County / coords 37.3500, -120.6000", "Merced County / primary ZIP 95301", "Merced County / elevation 171 ft band"]
+zillowHomeValueUsd: 421866
 ---
 
 **Engineering Notice for Atwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Merced County.

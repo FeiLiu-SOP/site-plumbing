@@ -12,6 +12,7 @@ lng: -97.6100
 zipSample: ["67401", "67402"]
 zipCodes: ["67402", "67401"]
 localPaths: ["Saline County / primary ZIP 67401", "Saline County / ZIP 67402 sector", "Saline County / coords 38.8100, -97.6100", "Saline County / elevation 1250 ft band", "Saline County / ZIP 67401 sector"]
+zillowHomeValueUsd: 172824
 ---
 
 **Engineering Notice for Salina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Saline County.

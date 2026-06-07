@@ -12,6 +12,7 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06320", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / elevation 30 ft band"]
+zillowHomeValueUsd: 312569
 ---
 
 **Engineering Notice for New London:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.

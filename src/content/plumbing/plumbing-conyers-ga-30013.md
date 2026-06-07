@@ -12,6 +12,7 @@ lng: -84.0000
 zipSample: ["30094", "30012", "30013"]
 zipCodes: ["30094", "30013", "30012"]
 localPaths: ["Rockdale County / ZIP 30012 sector", "Rockdale County / ZIP 30094 sector", "Rockdale County / ZIP 30013 sector", "Rockdale County / elevation 906 ft band", "Rockdale County / primary ZIP 30013"]
+zillowHomeValueUsd: 310169
 ---
 
 **Engineering Notice for Conyers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockdale County.

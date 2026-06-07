@@ -12,6 +12,7 @@ lng: -112.0000
 zipSample: ["84084", "84081", "84088"]
 zipCodes: ["84084", "84081", "84088"]
 localPaths: ["Salt Lake County / ZIP 84084 sector", "Salt Lake County / primary ZIP 84088", "Salt Lake County / coords 40.6000, -112.0000", "Salt Lake County / ZIP 84088 sector", "Salt Lake County / ZIP 84081 sector"]
+zillowHomeValueUsd: 578789
 ---
 
 **Engineering Notice for West Jordan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.

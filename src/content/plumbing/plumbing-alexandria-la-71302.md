@@ -12,6 +12,7 @@ lng: -92.4700
 zipSample: ["71307", "71315", "71301", "71303", "71348"]
 zipCodes: ["71303", "71348", "71307", "71315", "71309", "71302", "71301"]
 localPaths: ["Rapides Parish / ZIP 71315 sector", "Rapides Parish / ZIP 71348 sector", "Rapides Parish / elevation 98 ft band", "Rapides Parish / ZIP 71307 sector", "Rapides Parish / ZIP 71303 sector"]
+zillowHomeValueUsd: 89919
 ---
 
 **Engineering Notice for Alexandria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rapides Parish.

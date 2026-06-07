@@ -12,6 +12,7 @@ lng: -80.1000
 zipSample: ["15090", "15237", "15143"]
 zipCodes: ["15237", "15090", "15143"]
 localPaths: ["Allegheny County / elevation 1257 ft band", "Allegheny County / ZIP 15237 sector", "Allegheny County / coords 40.5900, -80.1000", "Allegheny County / primary ZIP 15237", "Allegheny County / ZIP 15090 sector"]
+zillowHomeValueUsd: 356632
 ---
 
 **Engineering Notice for Franklin Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.

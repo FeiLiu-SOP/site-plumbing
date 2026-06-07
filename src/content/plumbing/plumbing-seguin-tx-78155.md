@@ -12,6 +12,7 @@ lng: -97.9700
 zipSample: ["78155", "78156", "78115"]
 zipCodes: ["78156", "78155", "78115"]
 localPaths: ["Guadalupe County / ZIP 78155 sector", "Guadalupe County / primary ZIP 78155", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector", "Guadalupe County / coords 29.5900, -97.9700"]
+zillowHomeValueUsd: 272071
 ---
 
 **Engineering Notice for Seguin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guadalupe County.

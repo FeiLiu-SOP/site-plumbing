@@ -12,6 +12,7 @@ lng: -76.5500
 zipSample: ["21412", "21226", "21060", "21122"]
 zipCodes: ["21412", "21060", "21226", "21122"]
 localPaths: ["Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / ZIP 21226 sector", "Anne Arundel County / ZIP 21060 sector", "Anne Arundel County / coords 39.1600, -76.5500"]
+zillowHomeValueUsd: 454606
 ---
 
 **Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.

@@ -12,6 +12,7 @@ lng: -122.0300
 zipSample: ["94535", "94533", "94534"]
 zipCodes: ["94535", "94533", "94534"]
 localPaths: ["Solano County / coords 38.2600, -122.0300", "Solano County / elevation 26 ft band", "Solano County / ZIP 94534 sector", "Solano County / ZIP 94533 sector", "Solano County / ZIP 94535 sector"]
+zillowHomeValueUsd: 539181
 ---
 
 **Engineering Notice for Fairfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.

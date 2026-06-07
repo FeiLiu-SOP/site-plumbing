@@ -12,6 +12,7 @@ lng: -121.5400
 zipSample: ["95391"]
 zipCodes: ["95391"]
 localPaths: ["San Joaquin County / primary ZIP 95391", "San Joaquin County / elevation 75 ft band", "San Joaquin County / ZIP 95391 sector", "San Joaquin County / coords 37.7700, -121.5400"]
+zillowHomeValueUsd: 927577
 ---
 
 **Engineering Notice for Mountain House:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.

@@ -12,6 +12,7 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / primary ZIP 31522", "Glynn County / ZIP 31522 sector", "Glynn County / elevation 20 ft band", "Glynn County / coords 31.1800, -81.3900"]
+zillowHomeValueUsd: 688196
 ---
 
 **Engineering Notice for St. Simons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Glynn County.

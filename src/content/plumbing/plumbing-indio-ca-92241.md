@@ -12,6 +12,7 @@ lng: -116.2300
 zipSample: ["92203", "92201", "92241"]
 zipCodes: ["92241", "92203", "92201"]
 localPaths: ["Riverside County / coords 33.7300, -116.2300", "Riverside County / ZIP 92201 sector", "Riverside County / ZIP 92203 sector", "Riverside County / ZIP 92241 sector", "Riverside County / primary ZIP 92241"]
+zillowHomeValueUsd: 408023
 ---
 
 **Engineering Notice for Indio:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

@@ -12,6 +12,7 @@ lng: -73.9500
 zipSample: ["11209", "11234", "11225", "11251", "11202"]
 zipCodes: ["11207", "11222", "11220", "11235", "11243", "11239", "11228", "11210", "11226", "11225", "11219", "11217"]
 localPaths: ["Kings County / coords 40.6500, -73.9500", "Kings County / ZIP 11209 sector", "Kings County / ZIP 11251 sector", "Kings County / primary ZIP 11229", "Kings County / elevation 59 ft band"]
+zillowHomeValueUsd: 767723
 ---
 
 **Engineering Notice for Brooklyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.

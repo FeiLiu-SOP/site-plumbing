@@ -12,6 +12,7 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / ZIP 17013 sector", "Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / elevation 489 ft band"]
+zillowHomeValueUsd: 285882
 ---
 
 **Engineering Notice for Carlisle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.

@@ -12,6 +12,7 @@ lng: -76.5500
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / ZIP 21234 sector", "Baltimore County / elevation 351 ft band", "Baltimore County / primary ZIP 21234", "Baltimore County / coords 39.3800, -76.5500"]
+zillowHomeValueUsd: 301697
 ---
 
 **Engineering Notice for Parkville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

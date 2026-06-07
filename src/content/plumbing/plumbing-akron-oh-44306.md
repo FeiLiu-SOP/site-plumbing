@@ -12,6 +12,7 @@ lng: -81.5200
 zipSample: ["44314", "44398", "44312", "44310", "44396"]
 zipCodes: ["44319", "44315", "44313", "44308", "44305", "44307", "44312", "44314", "44304", "44326", "44325", "44306"]
 localPaths: ["Summit County / ZIP 44398 sector", "Summit County / elevation 958 ft band", "Summit County / primary ZIP 44306", "Summit County / ZIP 44310 sector", "Summit County / ZIP 44396 sector"]
+zillowHomeValueUsd: 89597
 ---
 
 **Engineering Notice for Akron:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.

@@ -12,6 +12,7 @@ lng: -89.0100
 zipSample: ["53547", "53546", "53545", "53548"]
 zipCodes: ["53548", "53545", "53546", "53547"]
 localPaths: ["Rock County / coords 42.6900, -89.0100", "Rock County / elevation 866 ft band", "Rock County / ZIP 53546 sector", "Rock County / ZIP 53545 sector", "Rock County / ZIP 53547 sector"]
+zillowHomeValueUsd: 276938
 ---
 
 **Engineering Notice for Janesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rock County.

@@ -12,6 +12,7 @@ lng: -85.7400
 zipSample: ["49544", "49534"]
 zipCodes: ["49534", "49544"]
 localPaths: ["Kent County / elevation 755 ft band", "Kent County / ZIP 49534 sector", "Kent County / coords 42.9900, -85.7400", "Kent County / ZIP 49544 sector", "Kent County / primary ZIP 49534"]
+zillowHomeValueUsd: 378611
 ---
 
 **Engineering Notice for Walker:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

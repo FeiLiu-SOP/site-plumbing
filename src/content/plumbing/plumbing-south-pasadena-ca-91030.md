@@ -12,6 +12,7 @@ lng: -118.1600
 zipSample: ["91031", "91030"]
 zipCodes: ["91031", "91030"]
 localPaths: ["Los Angeles County / ZIP 91031 sector", "Los Angeles County / ZIP 91030 sector", "Los Angeles County / primary ZIP 91030", "Los Angeles County / elevation 653 ft band", "Los Angeles County / coords 34.1100, -118.1600"]
+zillowHomeValueUsd: 1693548
 ---
 
 **Engineering Notice for South Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

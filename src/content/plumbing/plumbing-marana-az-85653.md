@@ -12,6 +12,7 @@ lng: -111.1600
 zipSample: ["85742", "85741", "85653", "85743", "85658"]
 zipCodes: ["85653", "85741", "85740", "85743", "85742", "85658", "85652"]
 localPaths: ["Pima County / coords 32.4400, -111.1600", "Pima County / ZIP 85743 sector", "Pima County / ZIP 85741 sector", "Pima County / ZIP 85653 sector", "Pima County / ZIP 85742 sector"]
+zillowHomeValueUsd: 386448
 ---
 
 **Engineering Notice for Marana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.

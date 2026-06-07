@@ -12,6 +12,7 @@ lng: -76.8500
 zipSample: ["20703", "20706"]
 zipCodes: ["20706", "20703"]
 localPaths: ["Prince George's County / primary ZIP 20706", "Prince George's County / coords 38.9800, -76.8500", "Prince George's County / elevation 210 ft band", "Prince George's County / ZIP 20703 sector", "Prince George's County / ZIP 20706 sector"]
+zillowHomeValueUsd: 440004
 ---
 
 **Engineering Notice for Seabrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

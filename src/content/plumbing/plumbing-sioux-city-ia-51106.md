@@ -12,6 +12,7 @@ lng: -96.3900
 zipSample: ["51101", "51109", "51106", "51103", "51111"]
 zipCodes: ["51109", "51104", "51108", "51101", "51103", "51105", "51106", "51111"]
 localPaths: ["Woodbury County / ZIP 51106 sector", "Woodbury County / elevation 1096 ft band", "Woodbury County / ZIP 51103 sector", "Woodbury County / ZIP 51111 sector", "Woodbury County / primary ZIP 51106"]
+zillowHomeValueUsd: 217375
 ---
 
 **Engineering Notice for Sioux City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Woodbury County.

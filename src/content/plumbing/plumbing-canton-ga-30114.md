@@ -12,6 +12,7 @@ lng: -84.4900
 zipSample: ["30115", "30114"]
 zipCodes: ["30115", "30114"]
 localPaths: ["Cherokee County / elevation 958 ft band", "Cherokee County / ZIP 30115 sector", "Cherokee County / ZIP 30114 sector", "Cherokee County / primary ZIP 30114", "Cherokee County / coords 34.2500, -84.4900"]
+zillowHomeValueUsd: 470381
 ---
 
 **Engineering Notice for Canton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.

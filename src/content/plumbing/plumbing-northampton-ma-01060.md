@@ -12,6 +12,7 @@ lng: -72.6700
 zipSample: ["01061", "01062", "01060", "01053", "01063"]
 zipCodes: ["01061", "01062", "01063", "01053", "01060"]
 localPaths: ["Hampshire County / primary ZIP 01060", "Hampshire County / ZIP 01063 sector", "Hampshire County / ZIP 01061 sector", "Hampshire County / ZIP 01053 sector", "Hampshire County / elevation 240 ft band"]
+zillowHomeValueUsd: 498164
 ---
 
 **Engineering Notice for Northampton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampshire County.

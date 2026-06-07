@@ -12,6 +12,7 @@ lng: -104.6800
 zipSample: ["80817"]
 zipCodes: ["80817"]
 localPaths: ["El Paso County / ZIP 80817 sector", "El Paso County / primary ZIP 80817", "El Paso County / coords 38.6900, -104.6800", "El Paso County / elevation 5564 ft band"]
+zillowHomeValueUsd: 395938
 ---
 
 **Engineering Notice for Fountain:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.

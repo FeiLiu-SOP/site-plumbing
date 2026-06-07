@@ -12,6 +12,7 @@ lng: -121.4500
 zipSample: ["95823", "94206"]
 zipCodes: ["95823", "94206"]
 localPaths: ["Sacramento County / elevation 16 ft band", "Sacramento County / ZIP 95823 sector", "Sacramento County / ZIP 94206 sector", "Sacramento County / coords 38.5000, -121.4500", "Sacramento County / primary ZIP 95823"]
+zillowHomeValueUsd: 428747
 ---
 
 **Engineering Notice for Parkway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

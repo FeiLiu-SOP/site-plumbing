@@ -12,6 +12,7 @@ lng: -118.1900
 zipSample: ["90270"]
 zipCodes: ["90270"]
 localPaths: ["Los Angeles County / ZIP 90270 sector", "Los Angeles County / coords 33.9900, -118.1900", "Los Angeles County / elevation 157 ft band", "Los Angeles County / primary ZIP 90270"]
+zillowHomeValueUsd: 652551
 ---
 
 **Engineering Notice for Maywood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

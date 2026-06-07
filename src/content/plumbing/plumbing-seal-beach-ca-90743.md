@@ -12,6 +12,7 @@ lng: -118.0700
 zipSample: ["90740", "90743"]
 zipCodes: ["90740", "90743"]
 localPaths: ["Orange County / ZIP 90743 sector", "Orange County / coords 33.7500, -118.0700", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / elevation 13 ft band"]
+zillowHomeValueUsd: 798325
 ---
 
 **Engineering Notice for Seal Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

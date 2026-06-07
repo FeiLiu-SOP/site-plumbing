@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["34476", "34481"]
 zipCodes: ["34476", "34481"]
 localPaths: ["Marion County / coords 29.0800, -82.2200", "Marion County / elevation 72 ft band", "Marion County / ZIP 34476 sector", "Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector"]
+zillowHomeValueUsd: 279068
 ---
 
 **Engineering Notice for Liberty Triangle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

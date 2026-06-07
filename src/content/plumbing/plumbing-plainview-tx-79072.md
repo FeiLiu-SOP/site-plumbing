@@ -12,6 +12,7 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / elevation 3389 ft band", "Hale County / ZIP 79072 sector", "Hale County / coords 34.1900, -101.7200"]
+zillowHomeValueUsd: 116097
 ---
 
 **Engineering Notice for Plainview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hale County.

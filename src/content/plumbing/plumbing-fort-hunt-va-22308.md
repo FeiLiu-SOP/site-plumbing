@@ -12,6 +12,7 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22307", "22308"]
 localPaths: ["Fairfax County / ZIP 22308 sector", "Fairfax County / primary ZIP 22308", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / elevation 39 ft band", "Fairfax County / ZIP 22307 sector"]
+zillowHomeValueUsd: 975998
 ---
 
 **Engineering Notice for Fort Hunt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

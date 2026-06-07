@@ -12,6 +12,7 @@ lng: -122.2600
 zipSample: ["94547", "94572"]
 zipCodes: ["94547", "94572"]
 localPaths: ["Contra Costa County / ZIP 94572 sector", "Contra Costa County / ZIP 94547 sector", "Contra Costa County / primary ZIP 94547", "Contra Costa County / elevation 154 ft band", "Contra Costa County / coords 38.0100, -122.2600"]
+zillowHomeValueUsd: 754558
 ---
 
 **Engineering Notice for Hercules:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.

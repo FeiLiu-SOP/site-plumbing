@@ -12,6 +12,7 @@ lng: -86.6700
 zipSample: ["37135"]
 zipCodes: ["37135"]
 localPaths: ["Williamson County / ZIP 37135 sector", "Williamson County / elevation 597 ft band", "Williamson County / coords 35.9600, -86.6700", "Williamson County / primary ZIP 37135"]
+zillowHomeValueUsd: 819045
 ---
 
 **Engineering Notice for Nolensville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.

@@ -12,6 +12,7 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / ZIP 95035 sector", "Santa Clara County / primary ZIP 95035", "Santa Clara County / elevation 30 ft band"]
+zillowHomeValueUsd: 1501892
 ---
 
 **Engineering Notice for Milpitas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

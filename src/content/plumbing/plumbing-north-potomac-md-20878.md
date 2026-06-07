@@ -12,6 +12,7 @@ lng: -77.2400
 zipSample: ["20850", "20878"]
 zipCodes: ["20878", "20850"]
 localPaths: ["Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1000, -77.2400", "Montgomery County / elevation 394 ft band", "Montgomery County / ZIP 20850 sector"]
+zillowHomeValueUsd: 703139
 ---
 
 **Engineering Notice for North Potomac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

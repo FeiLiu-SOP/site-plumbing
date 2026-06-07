@@ -12,6 +12,7 @@ lng: -83.3800
 zipSample: ["48185", "48186"]
 zipCodes: ["48186", "48185"]
 localPaths: ["Wayne County / ZIP 48185 sector", "Wayne County / primary ZIP 48185", "Wayne County / elevation 676 ft band", "Wayne County / coords 42.3200, -83.3800", "Wayne County / ZIP 48186 sector"]
+zillowHomeValueUsd: 223245
 ---
 
 **Engineering Notice for Westland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

@@ -12,6 +12,7 @@ lng: -84.9400
 zipSample: ["30701", "30703"]
 zipCodes: ["30701", "30703"]
 localPaths: ["Gordon County / ZIP 30701 sector", "Gordon County / coords 34.4900, -84.9400", "Gordon County / elevation 666 ft band", "Gordon County / ZIP 30703 sector", "Gordon County / primary ZIP 30701"]
+zillowHomeValueUsd: 273340
 ---
 
 **Engineering Notice for Calhoun:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gordon County.

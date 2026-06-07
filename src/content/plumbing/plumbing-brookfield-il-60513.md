@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / ZIP 60513 sector", "Cook County / coords 41.8200, -87.8500", "Cook County / elevation 633 ft band", "Cook County / primary ZIP 60513"]
+zillowHomeValueUsd: 345447
 ---
 
 **Engineering Notice for Brookfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

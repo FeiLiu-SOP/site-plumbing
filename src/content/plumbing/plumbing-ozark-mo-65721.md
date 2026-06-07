@@ -12,6 +12,7 @@ lng: -93.2200
 zipSample: ["65721"]
 zipCodes: ["65721"]
 localPaths: ["Christian County / ZIP 65721 sector", "Christian County / elevation 1296 ft band", "Christian County / primary ZIP 65721", "Christian County / coords 37.0400, -93.2200"]
+zillowHomeValueUsd: 314978
 ---
 
 **Engineering Notice for Ozark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Christian County.

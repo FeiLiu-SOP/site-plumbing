@@ -12,6 +12,7 @@ lng: -87.7500
 zipSample: ["60443", "60423"]
 zipCodes: ["60443", "60423"]
 localPaths: ["Cook County / ZIP 60443 sector", "Cook County / coords 41.5100, -87.7500", "Cook County / ZIP 60423 sector", "Cook County / elevation 712 ft band", "Cook County / primary ZIP 60423"]
+zillowHomeValueUsd: 487527
 ---
 
 **Engineering Notice for Matteson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

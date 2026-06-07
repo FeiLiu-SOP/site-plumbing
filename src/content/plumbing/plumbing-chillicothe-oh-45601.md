@@ -12,6 +12,7 @@ lng: -82.9900
 zipSample: ["45601"]
 zipCodes: ["45601"]
 localPaths: ["Ross County / primary ZIP 45601", "Ross County / ZIP 45601 sector", "Ross County / elevation 640 ft band", "Ross County / coords 39.3400, -82.9900"]
+zillowHomeValueUsd: 196931
 ---
 
 **Engineering Notice for Chillicothe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ross County.

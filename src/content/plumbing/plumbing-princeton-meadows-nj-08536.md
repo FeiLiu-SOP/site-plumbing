@@ -12,6 +12,7 @@ lng: -74.5700
 zipSample: ["08512", "08536"]
 zipCodes: ["08536", "08512"]
 localPaths: ["Middlesex County / ZIP 08536 sector", "Middlesex County / primary ZIP 08536", "Middlesex County / coords 40.3300, -74.5700", "Middlesex County / ZIP 08512 sector", "Middlesex County / elevation 98 ft band"]
+zillowHomeValueUsd: 670445
 ---
 
 **Engineering Notice for Princeton Meadows:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

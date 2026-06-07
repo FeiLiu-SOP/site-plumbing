@@ -12,6 +12,7 @@ lng: -95.3600
 zipSample: ["74403", "74402", "74401"]
 zipCodes: ["74403", "74402", "74401"]
 localPaths: ["Muskogee County / ZIP 74402 sector", "Muskogee County / primary ZIP 74403", "Muskogee County / elevation 591 ft band", "Muskogee County / coords 35.7400, -95.3600", "Muskogee County / ZIP 74401 sector"]
+zillowHomeValueUsd: 157375
 ---
 
 **Engineering Notice for Muskogee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskogee County.

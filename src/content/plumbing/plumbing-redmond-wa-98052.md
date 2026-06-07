@@ -12,6 +12,7 @@ lng: -122.1200
 zipSample: ["98073", "98052"]
 zipCodes: ["98052", "98073"]
 localPaths: ["King County / primary ZIP 98052", "King County / ZIP 98073 sector", "King County / ZIP 98052 sector", "King County / coords 47.6800, -122.1200", "King County / elevation 59 ft band"]
+zillowHomeValueUsd: 1364886
 ---
 
 **Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.

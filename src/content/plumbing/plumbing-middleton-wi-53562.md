@@ -12,6 +12,7 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / primary ZIP 53562", "Dane County / coords 43.1100, -89.5100", "Dane County / ZIP 53562 sector", "Dane County / elevation 935 ft band"]
+zillowHomeValueUsd: 618463
 ---
 
 **Engineering Notice for Middleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.

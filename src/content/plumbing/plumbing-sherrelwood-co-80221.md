@@ -12,6 +12,7 @@ lng: -105.0000
 zipSample: ["80263", "80221"]
 zipCodes: ["80263", "80221"]
 localPaths: ["Adams County / elevation 5302 ft band", "Adams County / ZIP 80221 sector", "Adams County / ZIP 80263 sector", "Adams County / primary ZIP 80221", "Adams County / coords 39.8400, -105.0000"]
+zillowHomeValueUsd: 456454
 ---
 
 **Engineering Notice for Sherrelwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.

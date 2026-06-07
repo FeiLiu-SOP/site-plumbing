@@ -12,6 +12,7 @@ lng: -122.1300
 zipSample: ["94580", "94541"]
 zipCodes: ["94541", "94580"]
 localPaths: ["Alameda County / ZIP 94541 sector", "Alameda County / ZIP 94580 sector", "Alameda County / primary ZIP 94541", "Alameda County / coords 37.6700, -122.1300", "Alameda County / elevation 26 ft band"]
+zillowHomeValueUsd: 783202
 ---
 
 **Engineering Notice for San Lorenzo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.

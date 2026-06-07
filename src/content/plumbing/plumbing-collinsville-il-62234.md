@@ -12,6 +12,7 @@ lng: -90.0100
 zipSample: ["62234"]
 zipCodes: ["62234"]
 localPaths: ["Madison County / ZIP 62234 sector", "Madison County / coords 38.6800, -90.0100", "Madison County / primary ZIP 62234", "Madison County / elevation 548 ft band"]
+zillowHomeValueUsd: 192540
 ---
 
 **Engineering Notice for Collinsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

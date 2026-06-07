@@ -12,6 +12,7 @@ lng: -83.9000
 zipSample: ["30052"]
 zipCodes: ["30052"]
 localPaths: ["Walton County / primary ZIP 30052", "Walton County / coords 33.8400, -83.9000", "Walton County / ZIP 30052 sector", "Walton County / elevation 984 ft band"]
+zillowHomeValueUsd: 392753
 ---
 
 **Engineering Notice for Loganville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Walton County.

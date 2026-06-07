@@ -12,6 +12,7 @@ lng: -102.1100
 zipSample: ["79701", "79705", "79706", "79707", "79708"]
 zipCodes: ["79703", "79708", "79701", "79706", "79707", "79705", "79711", "79702"]
 localPaths: ["Midland County / elevation 2815 ft band", "Midland County / primary ZIP 79701", "Midland County / ZIP 79708 sector", "Midland County / ZIP 79705 sector", "Midland County / ZIP 79701 sector"]
+zillowHomeValueUsd: 217373
 ---
 
 **Engineering Notice for Midland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Midland County.

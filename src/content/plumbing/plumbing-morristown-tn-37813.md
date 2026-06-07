@@ -12,6 +12,7 @@ lng: -83.3000
 zipSample: ["37815", "37813", "37814"]
 zipCodes: ["37813", "37815", "37814"]
 localPaths: ["Hamblen County / ZIP 37814 sector", "Hamblen County / coords 36.2000, -83.3000", "Hamblen County / ZIP 37813 sector", "Hamblen County / ZIP 37815 sector", "Hamblen County / primary ZIP 37813"]
+zillowHomeValueUsd: 231856
 ---
 
 **Engineering Notice for Morristown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamblen County.

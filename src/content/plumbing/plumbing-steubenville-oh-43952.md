@@ -12,6 +12,7 @@ lng: -80.6500
 zipSample: ["43953", "43952"]
 zipCodes: ["43952", "43953"]
 localPaths: ["Jefferson County / ZIP 43953 sector", "Jefferson County / ZIP 43952 sector", "Jefferson County / primary ZIP 43952", "Jefferson County / elevation 1129 ft band", "Jefferson County / coords 40.3700, -80.6500"]
+zillowHomeValueUsd: 105686
 ---
 
 **Engineering Notice for Steubenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

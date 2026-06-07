@@ -12,6 +12,7 @@ lng: -90.0700
 zipSample: ["70059", "70060", "70058"]
 zipCodes: ["70058", "70059", "70060"]
 localPaths: ["Jefferson Parish / ZIP 70058 sector", "Jefferson Parish / primary ZIP 70058", "Jefferson Parish / coords 29.8900, -90.0700", "Jefferson Parish / ZIP 70059 sector", "Jefferson Parish / ZIP 70060 sector"]
+zillowHomeValueUsd: 229271
 ---
 
 **Engineering Notice for Harvey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.

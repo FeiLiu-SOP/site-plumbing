@@ -12,6 +12,7 @@ lng: -77.1300
 zipSample: ["22041", "22311"]
 zipCodes: ["22311", "22041"]
 localPaths: ["Fairfax County / coords 38.8500, -77.1300", "Fairfax County / ZIP 22311 sector", "Fairfax County / primary ZIP 22041", "Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 22041 sector"]
+zillowHomeValueUsd: 446606
 ---
 
 **Engineering Notice for Bailey's Crossroads:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

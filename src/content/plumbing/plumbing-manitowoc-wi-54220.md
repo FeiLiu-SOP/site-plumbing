@@ -12,6 +12,7 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / primary ZIP 54220", "Manitowoc County / ZIP 54220 sector", "Manitowoc County / elevation 630 ft band"]
+zillowHomeValueUsd: 236147
 ---
 
 **Engineering Notice for Manitowoc:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manitowoc County.

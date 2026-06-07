@@ -12,6 +12,7 @@ lng: -93.3000
 zipSample: ["65714"]
 zipCodes: ["65714"]
 localPaths: ["Christian County / primary ZIP 65714", "Christian County / elevation 1299 ft band", "Christian County / coords 37.0500, -93.3000", "Christian County / ZIP 65714 sector"]
+zillowHomeValueUsd: 322526
 ---
 
 **Engineering Notice for Nixa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Christian County.

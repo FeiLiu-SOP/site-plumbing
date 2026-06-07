@@ -12,6 +12,7 @@ lng: -119.2000
 zipSample: ["93263"]
 zipCodes: ["93263"]
 localPaths: ["Kern County / ZIP 93263 sector", "Kern County / elevation 381 ft band", "Kern County / coords 35.4800, -119.2000", "Kern County / primary ZIP 93263"]
+zillowHomeValueUsd: 382051
 ---
 
 **Engineering Notice for Shafter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.

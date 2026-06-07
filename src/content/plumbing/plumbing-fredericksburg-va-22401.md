@@ -12,6 +12,7 @@ lng: -77.4900
 zipSample: ["22404", "22412", "22401"]
 zipCodes: ["22412", "22401", "22404"]
 localPaths: ["Fredericksburg County / primary ZIP 22401", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / ZIP 22404 sector", "Fredericksburg County / coords 38.3000, -77.4900"]
+zillowHomeValueUsd: 466799
 ---
 
 **Engineering Notice for Fredericksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fredericksburg County.

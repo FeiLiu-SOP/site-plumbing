@@ -12,6 +12,7 @@ lng: -81.1900
 zipSample: ["28054", "28052", "28056"]
 zipCodes: ["28056", "28054", "28052"]
 localPaths: ["Gaston County / ZIP 28056 sector", "Gaston County / primary ZIP 28054", "Gaston County / coords 35.2500, -81.1900", "Gaston County / ZIP 28054 sector", "Gaston County / elevation 768 ft band"]
+zillowHomeValueUsd: 270923
 ---
 
 **Engineering Notice for Gastonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.

@@ -12,6 +12,7 @@ lng: -84.1500
 zipSample: ["30253", "30252"]
 zipCodes: ["30252", "30253"]
 localPaths: ["Henry County / coords 33.4400, -84.1500", "Henry County / primary ZIP 30253", "Henry County / elevation 889 ft band", "Henry County / ZIP 30253 sector", "Henry County / ZIP 30252 sector"]
+zillowHomeValueUsd: 311546
 ---
 
 **Engineering Notice for McDonough:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.

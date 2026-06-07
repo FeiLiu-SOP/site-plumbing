@@ -12,6 +12,7 @@ lng: -78.4500
 zipSample: ["27528", "27527", "27520"]
 zipCodes: ["27520", "27528", "27527"]
 localPaths: ["Johnston County / primary ZIP 27520", "Johnston County / ZIP 27520 sector", "Johnston County / elevation 305 ft band", "Johnston County / ZIP 27528 sector", "Johnston County / ZIP 27527 sector"]
+zillowHomeValueUsd: 337476
 ---
 
 **Engineering Notice for Clayton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnston County.

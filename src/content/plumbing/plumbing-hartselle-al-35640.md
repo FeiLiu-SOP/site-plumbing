@@ -12,6 +12,7 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / ZIP 35640 sector", "Morgan County / primary ZIP 35640", "Morgan County / coords 34.4400, -86.9400"]
+zillowHomeValueUsd: 244823
 ---
 
 **Engineering Notice for Hartselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morgan County.

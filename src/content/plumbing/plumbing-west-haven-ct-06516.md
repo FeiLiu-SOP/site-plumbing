@@ -12,6 +12,7 @@ lng: -72.9700
 zipSample: ["06504", "06516"]
 zipCodes: ["06504", "06516"]
 localPaths: ["South Central Connecticut County / elevation 66 ft band", "South Central Connecticut County / primary ZIP 06516", "South Central Connecticut County / coords 41.2700, -72.9700", "South Central Connecticut County / ZIP 06504 sector", "South Central Connecticut County / ZIP 06516 sector"]
+zillowHomeValueUsd: 354637
 ---
 
 **Engineering Notice for West Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: South Central Connecticut County.

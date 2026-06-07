@@ -12,6 +12,7 @@ lng: -98.2200
 zipSample: ["76402", "76401"]
 zipCodes: ["76402", "76401"]
 localPaths: ["Erath County / primary ZIP 76401", "Erath County / elevation 1362 ft band", "Erath County / coords 32.2100, -98.2200", "Erath County / ZIP 76402 sector", "Erath County / ZIP 76401 sector"]
+zillowHomeValueUsd: 323669
 ---
 
 **Engineering Notice for Stephenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erath County.

@@ -12,6 +12,7 @@ lng: -83.0700
 zipSample: ["43123"]
 zipCodes: ["43123"]
 localPaths: ["Franklin County / primary ZIP 43123", "Franklin County / ZIP 43123 sector", "Franklin County / elevation 810 ft band", "Franklin County / coords 39.8700, -83.0700"]
+zillowHomeValueUsd: 330365
 ---
 
 **Engineering Notice for Grove City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

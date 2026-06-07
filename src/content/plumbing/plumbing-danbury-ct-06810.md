@@ -12,6 +12,7 @@ lng: -73.4700
 zipSample: ["06811", "06813", "06810"]
 zipCodes: ["06810", "06811", "06813"]
 localPaths: ["Western Connecticut County / coords 41.4000, -73.4700", "Western Connecticut County / ZIP 06811 sector", "Western Connecticut County / ZIP 06810 sector", "Western Connecticut County / elevation 449 ft band", "Western Connecticut County / primary ZIP 06810"]
+zillowHomeValueUsd: 450552
 ---
 
 **Engineering Notice for Danbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Western Connecticut County.

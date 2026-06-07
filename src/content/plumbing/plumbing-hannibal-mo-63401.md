@@ -12,6 +12,7 @@ lng: -91.3900
 zipSample: ["63401"]
 zipCodes: ["63401"]
 localPaths: ["Marion County / coords 39.7100, -91.3900", "Marion County / elevation 650 ft band", "Marion County / primary ZIP 63401", "Marion County / ZIP 63401 sector"]
+zillowHomeValueUsd: 173702
 ---
 
 **Engineering Notice for Hannibal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

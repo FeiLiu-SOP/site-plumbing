@@ -12,6 +12,7 @@ lng: -117.2600
 zipSample: ["92007", "92075", "92024"]
 zipCodes: ["92007", "92024", "92075"]
 localPaths: ["San Diego County / coords 33.0500, -117.2600", "San Diego County / ZIP 92024 sector", "San Diego County / ZIP 92075 sector", "San Diego County / elevation 197 ft band", "San Diego County / ZIP 92007 sector"]
+zillowHomeValueUsd: 2082595
 ---
 
 **Engineering Notice for Encinitas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

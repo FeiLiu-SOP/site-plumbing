@@ -12,6 +12,7 @@ lng: -71.4400
 zipSample: ["01704", "01701", "01705", "01703", "01702"]
 zipCodes: ["01704", "01705", "01703", "01702", "01701"]
 localPaths: ["Middlesex County / ZIP 01704 sector", "Middlesex County / primary ZIP 01701", "Middlesex County / ZIP 01703 sector", "Middlesex County / elevation 177 ft band", "Middlesex County / ZIP 01701 sector"]
+zillowHomeValueUsd: 705071
 ---
 
 **Engineering Notice for Framingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

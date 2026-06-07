@@ -12,6 +12,7 @@ lng: -80.4200
 zipSample: ["32960", "32968", "32962", "32966"]
 zipCodes: ["32962", "32966", "32960", "32968"]
 localPaths: ["Indian River County / ZIP 32960 sector", "Indian River County / ZIP 32962 sector", "Indian River County / ZIP 32966 sector", "Indian River County / primary ZIP 32968", "Indian River County / elevation 49 ft band"]
+zillowHomeValueUsd: 424102
 ---
 
 **Engineering Notice for Vero Beach South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Indian River County.

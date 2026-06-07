@@ -12,6 +12,7 @@ lng: -82.1500
 zipSample: ["29646", "29649", "29647", "29648"]
 zipCodes: ["29649", "29646", "29648", "29647"]
 localPaths: ["Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29649 sector", "Greenwood County / primary ZIP 29649", "Greenwood County / coords 34.1900, -82.1500"]
+zillowHomeValueUsd: 224016
 ---
 
 **Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenwood County.

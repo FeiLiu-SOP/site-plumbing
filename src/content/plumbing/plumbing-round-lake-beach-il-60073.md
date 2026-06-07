@@ -12,6 +12,7 @@ lng: -88.0800
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / primary ZIP 60073", "Lake County / coords 42.3800, -88.0800", "Lake County / elevation 820 ft band", "Lake County / ZIP 60073 sector"]
+zillowHomeValueUsd: 271351
 ---
 
 **Engineering Notice for Round Lake Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

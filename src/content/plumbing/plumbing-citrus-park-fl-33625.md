@@ -12,6 +12,7 @@ lng: -82.5600
 zipSample: ["33556", "33625"]
 zipCodes: ["33556", "33625"]
 localPaths: ["Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33625 sector", "Hillsborough County / primary ZIP 33625", "Hillsborough County / coords 28.0700, -82.5600", "Hillsborough County / elevation 56 ft band"]
+zillowHomeValueUsd: 426969
 ---
 
 **Engineering Notice for Citrus Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

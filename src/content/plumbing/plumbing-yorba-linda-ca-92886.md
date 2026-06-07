@@ -12,6 +12,7 @@ lng: -117.7700
 zipSample: ["92887", "92885", "92886"]
 zipCodes: ["92887", "92885", "92886"]
 localPaths: ["Orange County / coords 33.8900, -117.7700", "Orange County / ZIP 92886 sector", "Orange County / primary ZIP 92886", "Orange County / ZIP 92887 sector", "Orange County / elevation 554 ft band"]
+zillowHomeValueUsd: 1378767
 ---
 
 **Engineering Notice for Yorba Linda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

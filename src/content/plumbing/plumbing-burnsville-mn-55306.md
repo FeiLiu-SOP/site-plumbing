@@ -12,6 +12,7 @@ lng: -93.2800
 zipSample: ["55337", "55306"]
 zipCodes: ["55337", "55306"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / ZIP 55306 sector", "Dakota County / elevation 968 ft band"]
+zillowHomeValueUsd: 416549
 ---
 
 **Engineering Notice for Burnsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.

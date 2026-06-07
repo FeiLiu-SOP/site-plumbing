@@ -12,6 +12,7 @@ lng: -87.5500
 zipSample: ["60438"]
 zipCodes: ["60438"]
 localPaths: ["Cook County / coords 41.5600, -87.5500", "Cook County / elevation 650 ft band", "Cook County / ZIP 60438 sector", "Cook County / primary ZIP 60438"]
+zillowHomeValueUsd: 194848
 ---
 
 **Engineering Notice for Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

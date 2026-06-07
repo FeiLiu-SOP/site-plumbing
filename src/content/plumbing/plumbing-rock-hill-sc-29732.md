@@ -12,6 +12,7 @@ lng: -81.0200
 zipSample: ["29730", "29733", "29732", "29731"]
 zipCodes: ["29732", "29730", "29731", "29733"]
 localPaths: ["York County / elevation 679 ft band", "York County / ZIP 29731 sector", "York County / coords 34.9400, -81.0200", "York County / ZIP 29733 sector", "York County / primary ZIP 29732"]
+zillowHomeValueUsd: 354349
 ---
 
 **Engineering Notice for Rock Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.

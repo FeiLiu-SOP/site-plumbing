@@ -12,6 +12,7 @@ lng: -104.7900
 zipSample: ["82002", "82001", "82007", "82003", "82009"]
 zipCodes: ["82002", "82001", "82007", "82009", "82003"]
 localPaths: ["Laramie County / ZIP 82003 sector", "Laramie County / primary ZIP 82009", "Laramie County / coords 41.1300, -104.7900", "Laramie County / elevation 6083 ft band", "Laramie County / ZIP 82002 sector"]
+zillowHomeValueUsd: 490966
 ---
 
 **Engineering Notice for Cheyenne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Laramie County.

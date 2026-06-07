@@ -12,6 +12,7 @@ lng: -88.0200
 zipSample: ["60148"]
 zipCodes: ["60148"]
 localPaths: ["DuPage County / coords 41.8700, -88.0200", "DuPage County / elevation 748 ft band", "DuPage County / ZIP 60148 sector", "DuPage County / primary ZIP 60148"]
+zillowHomeValueUsd: 381229
 ---
 
 **Engineering Notice for Lombard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.

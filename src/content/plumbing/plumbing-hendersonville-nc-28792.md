@@ -12,6 +12,7 @@ lng: -82.4600
 zipSample: ["28793", "28792", "28739", "28791"]
 zipCodes: ["28739", "28792", "28793", "28791"]
 localPaths: ["Henderson County / primary ZIP 28792", "Henderson County / ZIP 28793 sector", "Henderson County / ZIP 28792 sector", "Henderson County / elevation 2103 ft band", "Henderson County / ZIP 28791 sector"]
+zillowHomeValueUsd: 370046
 ---
 
 **Engineering Notice for Hendersonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henderson County.

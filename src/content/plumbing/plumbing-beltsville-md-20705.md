@@ -12,6 +12,7 @@ lng: -76.9200
 zipSample: ["20740", "20705", "20697", "20704"]
 zipCodes: ["20740", "20705", "20704", "20697"]
 localPaths: ["Prince George's County / primary ZIP 20705", "Prince George's County / elevation 253 ft band", "Prince George's County / ZIP 20697 sector", "Prince George's County / ZIP 20740 sector", "Prince George's County / ZIP 20705 sector"]
+zillowHomeValueUsd: 460414
 ---
 
 **Engineering Notice for Beltsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

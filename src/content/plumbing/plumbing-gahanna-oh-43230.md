@@ -12,6 +12,7 @@ lng: -82.8600
 zipSample: ["43230"]
 zipCodes: ["43230"]
 localPaths: ["Franklin County / elevation 830 ft band", "Franklin County / ZIP 43230 sector", "Franklin County / primary ZIP 43230", "Franklin County / coords 40.0300, -82.8600"]
+zillowHomeValueUsd: 343026
 ---
 
 **Engineering Notice for Gahanna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

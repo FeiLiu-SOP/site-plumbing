@@ -12,6 +12,7 @@ lng: -71.0500
 zipSample: ["02149"]
 zipCodes: ["02149"]
 localPaths: ["Middlesex County / ZIP 02149 sector", "Middlesex County / coords 42.4100, -71.0500", "Middlesex County / primary ZIP 02149", "Middlesex County / elevation 49 ft band"]
+zillowHomeValueUsd: 639362
 ---
 
 **Engineering Notice for Everett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

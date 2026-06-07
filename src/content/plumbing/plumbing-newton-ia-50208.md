@@ -12,6 +12,7 @@ lng: -93.0400
 zipSample: ["50208"]
 zipCodes: ["50208"]
 localPaths: ["Jasper County / ZIP 50208 sector", "Jasper County / coords 41.7000, -93.0400", "Jasper County / elevation 958 ft band", "Jasper County / primary ZIP 50208"]
+zillowHomeValueUsd: 201408
 ---
 
 **Engineering Notice for Newton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jasper County.

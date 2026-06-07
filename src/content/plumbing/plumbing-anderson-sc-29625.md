@@ -12,6 +12,7 @@ lng: -82.6500
 zipSample: ["29624", "29625", "29621", "29622"]
 zipCodes: ["29624", "29622", "29621", "29625"]
 localPaths: ["Anderson County / ZIP 29624 sector", "Anderson County / elevation 791 ft band", "Anderson County / ZIP 29625 sector", "Anderson County / ZIP 29621 sector", "Anderson County / primary ZIP 29625"]
+zillowHomeValueUsd: 263743
 ---
 
 **Engineering Notice for Anderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anderson County.

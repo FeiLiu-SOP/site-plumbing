@@ -12,6 +12,7 @@ lng: -87.2500
 zipSample: ["32503", "32520", "32505"]
 zipCodes: ["32503", "32505", "32520"]
 localPaths: ["Escambia County / ZIP 32505 sector", "Escambia County / ZIP 32520 sector", "Escambia County / ZIP 32503 sector", "Escambia County / coords 30.4700, -87.2500", "Escambia County / elevation 125 ft band"]
+zillowHomeValueUsd: 294328
 ---
 
 **Engineering Notice for Brent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.

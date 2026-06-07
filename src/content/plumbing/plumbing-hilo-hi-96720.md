@@ -12,6 +12,7 @@ lng: -155.0900
 zipSample: ["96720"]
 zipCodes: ["96720"]
 localPaths: ["Hawaii County / elevation 374 ft band", "Hawaii County / coords 19.6900, -155.0900", "Hawaii County / primary ZIP 96720", "Hawaii County / ZIP 96720 sector"]
+zillowHomeValueUsd: 542564
 ---
 
 **Engineering Notice for Hilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hawaii County.

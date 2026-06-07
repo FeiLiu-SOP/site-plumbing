@@ -12,6 +12,7 @@ lng: -94.8200
 zipSample: ["66062", "66063", "66051", "66061"]
 zipCodes: ["66063", "66061", "66051", "66062"]
 localPaths: ["Johnson County / elevation 1050 ft band", "Johnson County / ZIP 66051 sector", "Johnson County / ZIP 66061 sector", "Johnson County / coords 38.8800, -94.8200", "Johnson County / ZIP 66062 sector"]
+zillowHomeValueUsd: 438508
 ---
 
 **Engineering Notice for Olathe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["36619", "36582"]
 zipCodes: ["36619", "36582"]
 localPaths: ["Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / ZIP 36582 sector"]
+zillowHomeValueUsd: 203037
 ---
 
 **Engineering Notice for Tillmans Corner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.

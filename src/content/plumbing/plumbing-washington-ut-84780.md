@@ -12,6 +12,7 @@ lng: -113.4900
 zipSample: ["84780", "84771"]
 zipCodes: ["84780", "84771"]
 localPaths: ["Washington County / ZIP 84771 sector", "Washington County / elevation 2841 ft band", "Washington County / coords 37.1300, -113.4900", "Washington County / ZIP 84780 sector", "Washington County / primary ZIP 84780"]
+zillowHomeValueUsd: 544579
 ---
 
 **Engineering Notice for Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.

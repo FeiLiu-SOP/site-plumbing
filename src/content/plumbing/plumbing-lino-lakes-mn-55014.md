@@ -12,6 +12,7 @@ lng: -93.0800
 zipSample: ["55038", "55014"]
 zipCodes: ["55014", "55038"]
 localPaths: ["Anoka County / ZIP 55038 sector", "Anoka County / coords 45.1700, -93.0800", "Anoka County / elevation 889 ft band", "Anoka County / ZIP 55014 sector", "Anoka County / primary ZIP 55014"]
+zillowHomeValueUsd: 375771
 ---
 
 **Engineering Notice for Lino Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.

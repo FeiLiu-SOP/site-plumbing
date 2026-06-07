@@ -12,6 +12,8 @@ lng: -72.2500
 zipSample: ["06268", "06269"]
 zipCodes: ["06268", "06269"]
 localPaths: ["Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269", "Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 526154
 ---
 
 **Engineering Notice for Storrs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Capitol County.

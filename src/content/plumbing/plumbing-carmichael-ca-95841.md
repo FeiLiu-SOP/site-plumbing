@@ -12,6 +12,7 @@ lng: -121.3300
 zipSample: ["95608", "95841", "95628", "95609"]
 zipCodes: ["95841", "95608", "95628", "95609"]
 localPaths: ["Sacramento County / ZIP 95608 sector", "Sacramento County / ZIP 95628 sector", "Sacramento County / coords 38.6300, -121.3300", "Sacramento County / ZIP 95841 sector", "Sacramento County / primary ZIP 95841"]
+zillowHomeValueUsd: 433326
 ---
 
 **Engineering Notice for Carmichael:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

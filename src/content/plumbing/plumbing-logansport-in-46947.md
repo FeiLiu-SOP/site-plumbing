@@ -12,6 +12,7 @@ lng: -86.3500
 zipSample: ["46947"]
 zipCodes: ["46947"]
 localPaths: ["Cass County / coords 40.7500, -86.3500", "Cass County / primary ZIP 46947", "Cass County / ZIP 46947 sector", "Cass County / elevation 614 ft band"]
+zillowHomeValueUsd: 154645
 ---
 
 **Engineering Notice for Logansport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cass County.

@@ -12,6 +12,7 @@ lng: -81.6000
 zipSample: ["33898", "33859", "33853"]
 zipCodes: ["33898", "33859", "33853"]
 localPaths: ["Polk County / elevation 184 ft band", "Polk County / ZIP 33853 sector", "Polk County / coords 27.9200, -81.6000", "Polk County / ZIP 33898 sector", "Polk County / primary ZIP 33898"]
+zillowHomeValueUsd: 251334
 ---
 
 **Engineering Notice for Lake Wales:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

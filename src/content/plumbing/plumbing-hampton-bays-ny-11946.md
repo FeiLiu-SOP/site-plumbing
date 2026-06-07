@@ -12,6 +12,7 @@ lng: -72.5200
 zipSample: ["11946"]
 zipCodes: ["11946"]
 localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8700, -72.5200", "Suffolk County / primary ZIP 11946"]
+zillowHomeValueUsd: 933949
 ---
 
 **Engineering Notice for Hampton Bays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

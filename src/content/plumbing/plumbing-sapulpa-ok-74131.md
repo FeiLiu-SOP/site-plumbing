@@ -12,6 +12,7 @@ lng: -96.1000
 zipSample: ["74066", "74067", "74131"]
 zipCodes: ["74067", "74066", "74131"]
 localPaths: ["Creek County / coords 36.0100, -96.1000", "Creek County / primary ZIP 74131", "Creek County / ZIP 74131 sector", "Creek County / ZIP 74067 sector", "Creek County / ZIP 74066 sector"]
+zillowHomeValueUsd: 277155
 ---
 
 **Engineering Notice for Sapulpa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Creek County.

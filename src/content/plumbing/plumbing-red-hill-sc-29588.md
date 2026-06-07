@@ -12,6 +12,7 @@ lng: -79.0100
 zipSample: ["29526", "29588"]
 zipCodes: ["29588", "29526"]
 localPaths: ["Horry County / ZIP 29526 sector", "Horry County / ZIP 29588 sector", "Horry County / primary ZIP 29588", "Horry County / elevation 69 ft band", "Horry County / coords 33.7800, -79.0100"]
+zillowHomeValueUsd: 320347
 ---
 
 **Engineering Notice for Red Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.

@@ -12,6 +12,7 @@ lng: -82.2600
 zipSample: ["29680", "29681"]
 zipCodes: ["29680", "29681"]
 localPaths: ["Greenville County / ZIP 29680 sector", "Greenville County / coords 34.7300, -82.2600", "Greenville County / elevation 889 ft band", "Greenville County / ZIP 29681 sector", "Greenville County / primary ZIP 29680"]
+zillowHomeValueUsd: 343600
 ---
 
 **Engineering Notice for Simpsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.

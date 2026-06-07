@@ -12,6 +12,7 @@ lng: -87.6000
 zipSample: ["60473"]
 zipCodes: ["60473"]
 localPaths: ["Cook County / coords 41.6000, -87.6000", "Cook County / ZIP 60473 sector", "Cook County / elevation 614 ft band", "Cook County / primary ZIP 60473"]
+zillowHomeValueUsd: 223003
 ---
 
 **Engineering Notice for South Holland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.

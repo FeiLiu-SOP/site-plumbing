@@ -12,6 +12,7 @@ lng: -118.3600
 zipSample: ["90304"]
 zipCodes: ["90304"]
 localPaths: ["Los Angeles County / elevation 82 ft band", "Los Angeles County / coords 33.9400, -118.3600", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304"]
+zillowHomeValueUsd: 739021
 ---
 
 **Engineering Notice for Lennox:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

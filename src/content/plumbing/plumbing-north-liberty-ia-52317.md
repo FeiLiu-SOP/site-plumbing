@@ -12,6 +12,7 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / elevation 768 ft band", "Johnson County / ZIP 52317 sector", "Johnson County / primary ZIP 52317", "Johnson County / coords 41.7400, -91.6100"]
+zillowHomeValueUsd: 307501
 ---
 
 **Engineering Notice for North Liberty:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.

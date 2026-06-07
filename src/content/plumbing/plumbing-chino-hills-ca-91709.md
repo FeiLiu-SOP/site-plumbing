@@ -12,6 +12,7 @@ lng: -117.7300
 zipSample: ["91709"]
 zipCodes: ["91709"]
 localPaths: ["San Bernardino County / coords 33.9500, -117.7300", "San Bernardino County / elevation 965 ft band", "San Bernardino County / ZIP 91709 sector", "San Bernardino County / primary ZIP 91709"]
+zillowHomeValueUsd: 997429
 ---
 
 **Engineering Notice for Chino Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

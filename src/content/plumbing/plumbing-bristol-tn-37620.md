@@ -12,6 +12,7 @@ lng: -82.2200
 zipSample: ["37620", "37625", "37621"]
 zipCodes: ["37625", "37620", "37621"]
 localPaths: ["Sullivan County / ZIP 37625 sector", "Sullivan County / ZIP 37620 sector", "Sullivan County / ZIP 37621 sector", "Sullivan County / elevation 1647 ft band", "Sullivan County / primary ZIP 37620"]
+zillowHomeValueUsd: 229894
 ---
 
 **Engineering Notice for Bristol:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sullivan County.

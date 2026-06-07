@@ -12,6 +12,7 @@ lng: -117.2300
 zipSample: ["92088", "92028"]
 zipCodes: ["92088", "92028"]
 localPaths: ["San Diego County / ZIP 92028 sector", "San Diego County / primary ZIP 92028", "San Diego County / coords 33.3700, -117.2300", "San Diego County / ZIP 92088 sector", "San Diego County / elevation 705 ft band"]
+zillowHomeValueUsd: 885138
 ---
 
 **Engineering Notice for Fallbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

@@ -12,6 +12,7 @@ lng: -116.9900
 zipSample: ["92583", "92582", "92581"]
 zipCodes: ["92581", "92582", "92583"]
 localPaths: ["Riverside County / elevation 1496 ft band", "Riverside County / ZIP 92583 sector", "Riverside County / coords 33.8000, -116.9900", "Riverside County / primary ZIP 92583", "Riverside County / ZIP 92581 sector"]
+zillowHomeValueUsd: 451195
 ---
 
 **Engineering Notice for San Jacinto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

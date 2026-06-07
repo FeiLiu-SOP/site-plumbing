@@ -12,6 +12,7 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / coords 36.4400, -121.3400", "Monterey County / elevation 174 ft band", "Monterey County / primary ZIP 93960", "Monterey County / ZIP 93960 sector"]
+zillowHomeValueUsd: 631379
 ---
 
 **Engineering Notice for Soledad:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.

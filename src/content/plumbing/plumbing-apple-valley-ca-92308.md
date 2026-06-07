@@ -12,6 +12,7 @@ lng: -117.2100
 zipSample: ["92308", "92307"]
 zipCodes: ["92308", "92307"]
 localPaths: ["San Bernardino County / coords 34.5400, -117.2100", "San Bernardino County / ZIP 92307 sector", "San Bernardino County / elevation 2927 ft band", "San Bernardino County / primary ZIP 92308", "San Bernardino County / ZIP 92308 sector"]
+zillowHomeValueUsd: 412283
 ---
 
 **Engineering Notice for Apple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["44691"]
 zipCodes: ["44691"]
 localPaths: ["Wayne County / coords 40.8200, -81.9300", "Wayne County / primary ZIP 44691", "Wayne County / elevation 1138 ft band", "Wayne County / ZIP 44691 sector"]
+zillowHomeValueUsd: 260215
 ---
 
 **Engineering Notice for Wooster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

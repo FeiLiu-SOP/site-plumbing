@@ -12,6 +12,7 @@ lng: -74.3400
 zipSample: ["07090"]
 zipCodes: ["07090"]
 localPaths: ["Union County / ZIP 07090 sector", "Union County / primary ZIP 07090", "Union County / coords 40.6500, -74.3400", "Union County / elevation 121 ft band"]
+zillowHomeValueUsd: 1270844
 ---
 
 **Engineering Notice for Westfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.

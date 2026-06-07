@@ -12,6 +12,7 @@ lng: -122.9700
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / primary ZIP 98531", "Lewis County / elevation 174 ft band", "Lewis County / coords 46.7200, -122.9700", "Lewis County / ZIP 98531 sector"]
+zillowHomeValueUsd: 396425
 ---
 
 **Engineering Notice for Centralia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lewis County.

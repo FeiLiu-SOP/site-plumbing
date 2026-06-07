@@ -12,6 +12,7 @@ lng: -117.1700
 zipSample: ["99163", "99164"]
 zipCodes: ["99164", "99163"]
 localPaths: ["Whitman County / elevation 2530 ft band", "Whitman County / ZIP 99164 sector", "Whitman County / ZIP 99163 sector", "Whitman County / coords 46.7300, -117.1700", "Whitman County / primary ZIP 99163"]
+zillowHomeValueUsd: 422895
 ---
 
 **Engineering Notice for Pullman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whitman County.

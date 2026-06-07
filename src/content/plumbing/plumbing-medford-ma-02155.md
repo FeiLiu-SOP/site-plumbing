@@ -12,6 +12,7 @@ lng: -71.1100
 zipSample: ["02153", "02155", "02156"]
 zipCodes: ["02153", "02156", "02155"]
 localPaths: ["Middlesex County / coords 42.4200, -71.1100", "Middlesex County / elevation 52 ft band", "Middlesex County / primary ZIP 02155", "Middlesex County / ZIP 02153 sector", "Middlesex County / ZIP 02155 sector"]
+zillowHomeValueUsd: 842768
 ---
 
 **Engineering Notice for Medford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

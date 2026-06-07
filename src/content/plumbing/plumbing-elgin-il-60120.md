@@ -12,6 +12,7 @@ lng: -88.3200
 zipSample: ["60123", "60124", "60122", "60121", "60120"]
 zipCodes: ["60121", "60123", "60122", "60124", "60120"]
 localPaths: ["Kane County / ZIP 60124 sector", "Kane County / ZIP 60122 sector", "Kane County / primary ZIP 60120", "Kane County / elevation 823 ft band", "Kane County / ZIP 60123 sector"]
+zillowHomeValueUsd: 293665
 ---
 
 **Engineering Notice for Elgin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.

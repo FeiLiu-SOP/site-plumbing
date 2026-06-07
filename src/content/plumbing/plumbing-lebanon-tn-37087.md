@@ -12,6 +12,7 @@ lng: -86.3500
 zipSample: ["37136", "37071", "37087", "37088", "37090"]
 zipCodes: ["37087", "37136", "37088", "37090", "37071"]
 localPaths: ["Wilson County / coords 36.2000, -86.3500", "Wilson County / ZIP 37071 sector", "Wilson County / ZIP 37136 sector", "Wilson County / ZIP 37087 sector", "Wilson County / ZIP 37090 sector"]
+zillowHomeValueUsd: 439031
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wilson County.

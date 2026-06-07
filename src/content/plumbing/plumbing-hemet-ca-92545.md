@@ -12,6 +12,7 @@ lng: -117.0000
 zipSample: ["92543", "92546", "92545"]
 zipCodes: ["92546", "92545", "92543"]
 localPaths: ["Riverside County / primary ZIP 92545", "Riverside County / ZIP 92543 sector", "Riverside County / elevation 1549 ft band", "Riverside County / ZIP 92546 sector", "Riverside County / ZIP 92545 sector"]
+zillowHomeValueUsd: 451574
 ---
 
 **Engineering Notice for Hemet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.

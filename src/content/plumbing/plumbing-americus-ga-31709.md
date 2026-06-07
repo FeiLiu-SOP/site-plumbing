@@ -12,6 +12,7 @@ lng: -84.2200
 zipSample: ["31719", "31709"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / ZIP 31719 sector", "Sumter County / primary ZIP 31709", "Sumter County / coords 32.0700, -84.2200", "Sumter County / ZIP 31709 sector", "Sumter County / elevation 433 ft band"]
+zillowHomeValueUsd: 141919
 ---
 
 **Engineering Notice for Americus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumter County.

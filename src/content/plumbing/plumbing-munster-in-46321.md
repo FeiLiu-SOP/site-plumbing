@@ -12,6 +12,7 @@ lng: -87.5000
 zipSample: ["46321"]
 zipCodes: ["46321"]
 localPaths: ["Lake County / primary ZIP 46321", "Lake County / ZIP 46321 sector", "Lake County / coords 41.5500, -87.5000", "Lake County / elevation 623 ft band"]
+zillowHomeValueUsd: 347662
 ---
 
 **Engineering Notice for Munster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

@@ -12,6 +12,7 @@ lng: -74.3300
 zipSample: ["07078"]
 zipCodes: ["07078"]
 localPaths: ["Essex County / elevation 413 ft band", "Essex County / primary ZIP 07078", "Essex County / coords 40.7400, -74.3300", "Essex County / ZIP 07078 sector"]
+zillowHomeValueUsd: 2306001
 ---
 
 **Engineering Notice for Short Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.

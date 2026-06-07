@@ -12,6 +12,7 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / primary ZIP 91763", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / elevation 1017 ft band", "San Bernardino County / coords 34.0700, -117.7000"]
+zillowHomeValueUsd: 661830
 ---
 
 **Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.

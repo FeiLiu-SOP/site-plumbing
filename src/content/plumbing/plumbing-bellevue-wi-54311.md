@@ -12,6 +12,7 @@ lng: -87.9500
 zipSample: ["54311"]
 zipCodes: ["54311"]
 localPaths: ["Brown County / coords 44.4600, -87.9500", "Brown County / ZIP 54311 sector", "Brown County / primary ZIP 54311", "Brown County / elevation 682 ft band"]
+zillowHomeValueUsd: 386528
 ---
 
 **Engineering Notice for Bellevue:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.

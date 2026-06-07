@@ -12,6 +12,7 @@ lng: -73.5500
 zipSample: ["11566"]
 zipCodes: ["11566"]
 localPaths: ["Nassau County / elevation 13 ft band", "Nassau County / ZIP 11566 sector", "Nassau County / primary ZIP 11566", "Nassau County / coords 40.6500, -73.5500"]
+zillowHomeValueUsd: 878711
 ---
 
 **Engineering Notice for Merrick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.

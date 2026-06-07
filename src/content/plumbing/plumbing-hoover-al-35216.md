@@ -12,6 +12,7 @@ lng: -86.8100
 zipSample: ["35236", "35226", "35260", "35216", "35242"]
 zipCodes: ["35226", "35260", "35216", "35242", "35236", "35244"]
 localPaths: ["Jefferson County / ZIP 35226 sector", "Jefferson County / elevation 492 ft band", "Jefferson County / primary ZIP 35216", "Jefferson County / ZIP 35216 sector", "Jefferson County / coords 33.3800, -86.8100"]
+zillowHomeValueUsd: 411538
 ---
 
 **Engineering Notice for Hoover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.

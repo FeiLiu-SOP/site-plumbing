@@ -12,6 +12,7 @@ lng: -84.0700
 zipSample: ["30024"]
 zipCodes: ["30024"]
 localPaths: ["Gwinnett County / ZIP 30024 sector", "Gwinnett County / primary ZIP 30024", "Gwinnett County / coords 34.0500, -84.0700", "Gwinnett County / elevation 1027 ft band"]
+zillowHomeValueUsd: 615396
 ---
 
 **Engineering Notice for Suwanee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

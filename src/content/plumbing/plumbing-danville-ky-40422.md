@@ -12,6 +12,7 @@ lng: -84.7800
 zipSample: ["40423", "40422"]
 zipCodes: ["40423", "40422"]
 localPaths: ["Boyle County / primary ZIP 40422", "Boyle County / coords 37.6400, -84.7800", "Boyle County / ZIP 40422 sector", "Boyle County / elevation 961 ft band", "Boyle County / ZIP 40423 sector"]
+zillowHomeValueUsd: 247936
 ---
 
 **Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boyle County.

@@ -12,6 +12,7 @@ lng: -71.4400
 zipSample: ["03105", "03108", "03103", "03109", "03104"]
 zipCodes: ["03111", "03109", "03102", "03104", "03105", "03108", "03103", "03101"]
 localPaths: ["Hillsborough County / coords 42.9800, -71.4400", "Hillsborough County / elevation 266 ft band", "Hillsborough County / primary ZIP 03109", "Hillsborough County / ZIP 03109 sector", "Hillsborough County / ZIP 03104 sector"]
+zillowHomeValueUsd: 461143
 ---
 
 **Engineering Notice for Manchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.

@@ -12,6 +12,7 @@ lng: -80.6700
 zipSample: ["33430"]
 zipCodes: ["33430"]
 localPaths: ["Palm Beach County / primary ZIP 33430", "Palm Beach County / ZIP 33430 sector", "Palm Beach County / elevation 30 ft band", "Palm Beach County / coords 26.6900, -80.6700"]
+zillowHomeValueUsd: 285377
 ---
 
 **Engineering Notice for Belle Glade:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

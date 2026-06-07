@@ -12,6 +12,7 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / elevation 348 ft band", "Linn County / primary ZIP 97355", "Linn County / coords 44.5300, -122.9100", "Linn County / ZIP 97355 sector"]
+zillowHomeValueUsd: 390853
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.

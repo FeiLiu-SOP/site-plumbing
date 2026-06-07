@@ -12,6 +12,7 @@ lng: -112.3200
 zipSample: ["85392", "85353", "85323", "85329"]
 zipCodes: ["85353", "85323", "85392", "85329"]
 localPaths: ["Maricopa County / ZIP 85392 sector", "Maricopa County / elevation 925 ft band", "Maricopa County / coords 33.3900, -112.3200", "Maricopa County / ZIP 85323 sector", "Maricopa County / ZIP 85353 sector"]
+zillowHomeValueUsd: 393976
 ---
 
 **Engineering Notice for Avondale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

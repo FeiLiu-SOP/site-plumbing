@@ -12,6 +12,7 @@ lng: -81.5700
 zipSample: ["31558"]
 zipCodes: ["31558"]
 localPaths: ["Camden County / elevation 39 ft band", "Camden County / ZIP 31558 sector", "Camden County / coords 30.7600, -81.5700", "Camden County / primary ZIP 31558"]
+zillowHomeValueUsd: 309045
 ---
 
 **Engineering Notice for St. Marys:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.

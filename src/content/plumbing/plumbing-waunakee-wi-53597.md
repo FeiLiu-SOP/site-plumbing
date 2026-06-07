@@ -12,6 +12,7 @@ lng: -89.4400
 zipSample: ["53597"]
 zipCodes: ["53597"]
 localPaths: ["Dane County / elevation 899 ft band", "Dane County / ZIP 53597 sector", "Dane County / primary ZIP 53597", "Dane County / coords 43.1800, -89.4400"]
+zillowHomeValueUsd: 597399
 ---
 
 **Engineering Notice for Waunakee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.

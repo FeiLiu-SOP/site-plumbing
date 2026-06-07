@@ -12,6 +12,7 @@ lng: -122.2600
 zipSample: ["94503"]
 zipCodes: ["94503"]
 localPaths: ["Napa County / coords 38.1800, -122.2600", "Napa County / primary ZIP 94503", "Napa County / elevation 62 ft band", "Napa County / ZIP 94503 sector"]
+zillowHomeValueUsd: 748811
 ---
 
 **Engineering Notice for American Canyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Napa County.

@@ -12,6 +12,7 @@ lng: -87.3500
 zipSample: ["46307", "46308"]
 zipCodes: ["46308", "46307"]
 localPaths: ["Lake County / coords 41.4100, -87.3500", "Lake County / elevation 705 ft band", "Lake County / ZIP 46308 sector", "Lake County / primary ZIP 46307", "Lake County / ZIP 46307 sector"]
+zillowHomeValueUsd: 353887
 ---
 
 **Engineering Notice for Crown Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

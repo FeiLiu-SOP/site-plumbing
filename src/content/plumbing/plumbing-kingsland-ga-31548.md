@@ -12,6 +12,7 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / elevation 62 ft band", "Camden County / coords 30.8200, -81.7200", "Camden County / primary ZIP 31548", "Camden County / ZIP 31548 sector"]
+zillowHomeValueUsd: 297357
 ---
 
 **Engineering Notice for Kingsland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.

@@ -12,6 +12,7 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63366", "63368"]
 localPaths: ["St. Charles County / primary ZIP 63367", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63366 sector", "St. Charles County / ZIP 63367 sector", "St. Charles County / ZIP 63368 sector"]
+zillowHomeValueUsd: 441365
 ---
 
 **Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.

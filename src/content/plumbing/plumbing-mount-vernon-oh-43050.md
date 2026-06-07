@@ -12,6 +12,7 @@ lng: -82.4700
 zipSample: ["43050"]
 zipCodes: ["43050"]
 localPaths: ["Knox County / primary ZIP 43050", "Knox County / coords 40.3900, -82.4700", "Knox County / ZIP 43050 sector", "Knox County / elevation 978 ft band"]
+zillowHomeValueUsd: 244526
 ---
 
 **Engineering Notice for Mount Vernon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.

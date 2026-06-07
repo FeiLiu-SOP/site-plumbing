@@ -12,6 +12,7 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / elevation 98 ft band", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / ZIP 08840 sector"]
+zillowHomeValueUsd: 682599
 ---
 
 **Engineering Notice for Metuchen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

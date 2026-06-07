@@ -12,6 +12,7 @@ lng: -79.4000
 zipSample: ["28388", "28374", "28327", "28387"]
 zipCodes: ["28387", "28327", "28388", "28374"]
 localPaths: ["Moore County / primary ZIP 28327", "Moore County / elevation 522 ft band", "Moore County / ZIP 28387 sector", "Moore County / ZIP 28388 sector", "Moore County / ZIP 28374 sector"]
+zillowHomeValueUsd: 405842
 ---
 
 **Engineering Notice for Southern Pines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Moore County.

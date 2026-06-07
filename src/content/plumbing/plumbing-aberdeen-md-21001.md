@@ -12,6 +12,7 @@ lng: -76.1700
 zipSample: ["21001"]
 zipCodes: ["21001"]
 localPaths: ["Harford County / elevation 135 ft band", "Harford County / coords 39.5200, -76.1700", "Harford County / primary ZIP 21001", "Harford County / ZIP 21001 sector"]
+zillowHomeValueUsd: 345695
 ---
 
 **Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.

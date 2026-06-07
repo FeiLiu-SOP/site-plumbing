@@ -12,6 +12,7 @@ lng: -84.4500
 zipSample: ["45212", "45277", "45280"]
 zipCodes: ["45277", "45212", "45280"]
 localPaths: ["Hamilton County / ZIP 45212 sector", "Hamilton County / primary ZIP 45212", "Hamilton County / elevation 633 ft band", "Hamilton County / ZIP 45280 sector", "Hamilton County / coords 39.1600, -84.4500"]
+zillowHomeValueUsd: 252528
 ---
 
 **Engineering Notice for Norwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

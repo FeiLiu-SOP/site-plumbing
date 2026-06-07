@@ -12,6 +12,7 @@ lng: -118.3800
 zipSample: ["90277", "90278"]
 zipCodes: ["90277", "90278"]
 localPaths: ["Los Angeles County / coords 33.8600, -118.3800", "Los Angeles County / elevation 144 ft band", "Los Angeles County / ZIP 90277 sector", "Los Angeles County / primary ZIP 90278", "Los Angeles County / ZIP 90278 sector"]
+zillowHomeValueUsd: 1416862
 ---
 
 **Engineering Notice for Redondo Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

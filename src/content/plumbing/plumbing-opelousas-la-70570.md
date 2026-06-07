@@ -12,6 +12,7 @@ lng: -92.0800
 zipSample: ["70571", "70570"]
 zipCodes: ["70571", "70570"]
 localPaths: ["St. Landry Parish / coords 30.5300, -92.0800", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / ZIP 70571 sector", "St. Landry Parish / primary ZIP 70570"]
+zillowHomeValueUsd: 122657
 ---
 
 **Engineering Notice for Opelousas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Landry Parish.

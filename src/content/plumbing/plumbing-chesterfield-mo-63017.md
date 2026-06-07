@@ -12,6 +12,7 @@ lng: -90.5800
 zipSample: ["63017", "63005", "63006"]
 zipCodes: ["63017", "63005", "63006"]
 localPaths: ["St. Louis County / ZIP 63005 sector", "St. Louis County / ZIP 63017 sector", "St. Louis County / coords 38.6600, -90.5800", "St. Louis County / ZIP 63006 sector", "St. Louis County / primary ZIP 63017"]
+zillowHomeValueUsd: 552576
 ---
 
 **Engineering Notice for Chesterfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.

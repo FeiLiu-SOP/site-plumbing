@@ -12,6 +12,7 @@ lng: -72.8400
 zipSample: ["11951"]
 zipCodes: ["11951"]
 localPaths: ["Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11951", "Suffolk County / ZIP 11951 sector", "Suffolk County / coords 40.7700, -72.8400"]
+zillowHomeValueUsd: 470354
 ---
 
 **Engineering Notice for Mastic Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

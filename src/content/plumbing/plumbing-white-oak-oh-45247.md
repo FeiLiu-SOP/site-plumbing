@@ -12,6 +12,7 @@ lng: -84.6100
 zipSample: ["45239", "45247"]
 zipCodes: ["45239", "45247"]
 localPaths: ["Hamilton County / elevation 883 ft band", "Hamilton County / primary ZIP 45247", "Hamilton County / ZIP 45247 sector", "Hamilton County / ZIP 45239 sector", "Hamilton County / coords 39.2100, -84.6100"]
+zillowHomeValueUsd: 323902
 ---
 
 **Engineering Notice for White Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.

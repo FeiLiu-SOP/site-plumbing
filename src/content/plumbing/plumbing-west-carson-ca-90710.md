@@ -12,6 +12,7 @@ lng: -118.2900
 zipSample: ["90710", "90502"]
 zipCodes: ["90710", "90502"]
 localPaths: ["Los Angeles County / coords 33.8200, -118.2900", "Los Angeles County / ZIP 90502 sector", "Los Angeles County / primary ZIP 90710", "Los Angeles County / ZIP 90710 sector", "Los Angeles County / elevation 52 ft band"]
+zillowHomeValueUsd: 843449
 ---
 
 **Engineering Notice for West Carson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

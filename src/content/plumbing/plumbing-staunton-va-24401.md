@@ -12,6 +12,7 @@ lng: -79.0600
 zipSample: ["24402", "24401"]
 zipCodes: ["24401", "24402"]
 localPaths: ["Staunton County / primary ZIP 24401", "Staunton County / elevation 1411 ft band", "Staunton County / ZIP 24401 sector", "Staunton County / coords 38.1600, -79.0600", "Staunton County / ZIP 24402 sector"]
+zillowHomeValueUsd: 308866
 ---
 
 **Engineering Notice for Staunton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Staunton County.

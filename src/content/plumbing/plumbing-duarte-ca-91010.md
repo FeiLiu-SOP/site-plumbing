@@ -12,6 +12,7 @@ lng: -117.9500
 zipSample: ["91009", "91010"]
 zipCodes: ["91009", "91010"]
 localPaths: ["Los Angeles County / primary ZIP 91010", "Los Angeles County / coords 34.1600, -117.9500", "Los Angeles County / ZIP 91009 sector", "Los Angeles County / ZIP 91010 sector", "Los Angeles County / elevation 1617 ft band"]
+zillowHomeValueUsd: 785078
 ---
 
 **Engineering Notice for Duarte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

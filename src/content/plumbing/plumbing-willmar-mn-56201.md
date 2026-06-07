@@ -12,6 +12,7 @@ lng: -95.0600
 zipSample: ["56201"]
 zipCodes: ["56201"]
 localPaths: ["Kandiyohi County / coords 45.1200, -95.0600", "Kandiyohi County / primary ZIP 56201", "Kandiyohi County / elevation 1122 ft band", "Kandiyohi County / ZIP 56201 sector"]
+zillowHomeValueUsd: 236391
 ---
 
 **Engineering Notice for Willmar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kandiyohi County.

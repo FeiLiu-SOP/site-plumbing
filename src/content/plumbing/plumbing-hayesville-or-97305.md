@@ -12,6 +12,7 @@ lng: -122.9700
 zipSample: ["97305"]
 zipCodes: ["97305"]
 localPaths: ["Marion County / primary ZIP 97305", "Marion County / coords 44.9800, -122.9700", "Marion County / elevation 190 ft band", "Marion County / ZIP 97305 sector"]
+zillowHomeValueUsd: 421153
 ---
 
 **Engineering Notice for Hayesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

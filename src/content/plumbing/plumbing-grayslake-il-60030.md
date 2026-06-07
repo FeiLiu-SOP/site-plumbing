@@ -12,6 +12,7 @@ lng: -88.0300
 zipSample: ["60030"]
 zipCodes: ["60030"]
 localPaths: ["Lake County / ZIP 60030 sector", "Lake County / coords 42.3400, -88.0300", "Lake County / elevation 781 ft band", "Lake County / primary ZIP 60030"]
+zillowHomeValueUsd: 346428
 ---
 
 **Engineering Notice for Grayslake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

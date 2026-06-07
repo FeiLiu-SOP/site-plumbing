@@ -12,6 +12,7 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / elevation 587 ft band", "Madison County / ZIP 62035 sector", "Madison County / primary ZIP 62035", "Madison County / coords 38.9600, -90.2200"]
+zillowHomeValueUsd: 213355
 ---
 
 **Engineering Notice for Godfrey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.

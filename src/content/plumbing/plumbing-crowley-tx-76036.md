@@ -12,6 +12,7 @@ lng: -97.3600
 zipSample: ["76036"]
 zipCodes: ["76036"]
 localPaths: ["Tarrant County / ZIP 76036 sector", "Tarrant County / elevation 771 ft band", "Tarrant County / coords 32.5800, -97.3600", "Tarrant County / primary ZIP 76036"]
+zillowHomeValueUsd: 316359
 ---
 
 **Engineering Notice for Crowley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.

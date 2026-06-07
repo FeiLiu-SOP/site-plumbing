@@ -12,6 +12,7 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600", "Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313"]
+zillowHomeValueUsd: 375241
 ---
 
 **Engineering Notice for Buffalo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.

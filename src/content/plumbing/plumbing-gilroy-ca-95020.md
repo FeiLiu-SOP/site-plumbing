@@ -12,6 +12,7 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / elevation 210 ft band", "Santa Clara County / primary ZIP 95020", "Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900"]
+zillowHomeValueUsd: 1080100
 ---
 
 **Engineering Notice for Gilroy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.

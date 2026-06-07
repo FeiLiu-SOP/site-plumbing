@@ -12,6 +12,7 @@ lng: -84.3100
 zipSample: ["30338", "30356", "30360", "30346", "31146"]
 zipCodes: ["30346", "30360", "30338", "30356", "31146"]
 localPaths: ["DeKalb County / ZIP 31146 sector", "DeKalb County / ZIP 30338 sector", "DeKalb County / elevation 1030 ft band", "DeKalb County / ZIP 30360 sector", "DeKalb County / coords 33.9400, -84.3100"]
+zillowHomeValueUsd: 713485
 ---
 
 **Engineering Notice for Dunwoody:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.

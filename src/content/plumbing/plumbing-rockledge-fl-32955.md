@@ -12,6 +12,7 @@ lng: -80.7400
 zipSample: ["32956", "32955", "32926"]
 zipCodes: ["32926", "32956", "32955"]
 localPaths: ["Brevard County / elevation 36 ft band", "Brevard County / coords 28.3200, -80.7400", "Brevard County / primary ZIP 32955", "Brevard County / ZIP 32926 sector", "Brevard County / ZIP 32956 sector"]
+zillowHomeValueUsd: 369251
 ---
 
 **Engineering Notice for Rockledge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.

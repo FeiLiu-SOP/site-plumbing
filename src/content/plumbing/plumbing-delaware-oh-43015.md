@@ -12,6 +12,7 @@ lng: -83.0700
 zipSample: ["43015"]
 zipCodes: ["43015"]
 localPaths: ["Delaware County / elevation 915 ft band", "Delaware County / ZIP 43015 sector", "Delaware County / coords 40.2900, -83.0700", "Delaware County / primary ZIP 43015"]
+zillowHomeValueUsd: 408693
 ---
 
 **Engineering Notice for Delaware:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Delaware County.

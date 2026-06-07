@@ -12,6 +12,7 @@ lng: -118.0600
 zipSample: ["90671", "90670"]
 zipCodes: ["90671", "90670"]
 localPaths: ["Los Angeles County / elevation 154 ft band", "Los Angeles County / primary ZIP 90670", "Los Angeles County / ZIP 90670 sector", "Los Angeles County / ZIP 90671 sector", "Los Angeles County / coords 33.9300, -118.0600"]
+zillowHomeValueUsd: 783128
 ---
 
 **Engineering Notice for Santa Fe Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

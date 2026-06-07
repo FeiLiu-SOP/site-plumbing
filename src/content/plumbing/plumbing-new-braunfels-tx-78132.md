@@ -12,6 +12,7 @@ lng: -98.1100
 zipSample: ["78132", "78131", "78135", "78130"]
 zipCodes: ["78132", "78131", "78135", "78130"]
 localPaths: ["Comal County / coords 29.7000, -98.1100", "Comal County / ZIP 78131 sector", "Comal County / ZIP 78130 sector", "Comal County / ZIP 78132 sector", "Comal County / primary ZIP 78132"]
+zillowHomeValueUsd: 561014
 ---
 
 **Engineering Notice for New Braunfels:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Comal County.

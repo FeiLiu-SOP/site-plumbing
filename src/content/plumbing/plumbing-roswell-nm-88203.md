@@ -12,6 +12,7 @@ lng: -104.5300
 zipSample: ["88203", "88201"]
 zipCodes: ["88201", "88203"]
 localPaths: ["Chaves County / coords 33.3700, -104.5300", "Chaves County / elevation 3629 ft band", "Chaves County / primary ZIP 88203", "Chaves County / ZIP 88203 sector", "Chaves County / ZIP 88201 sector"]
+zillowHomeValueUsd: 142003
 ---
 
 **Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chaves County.

@@ -12,6 +12,7 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / elevation 623 ft band", "Will County / primary ZIP 60404", "Will County / ZIP 60404 sector", "Will County / coords 41.5200, -88.2100"]
+zillowHomeValueUsd: 404155
 ---
 
 **Engineering Notice for Shorewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.

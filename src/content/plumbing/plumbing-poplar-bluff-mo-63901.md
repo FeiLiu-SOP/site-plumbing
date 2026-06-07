@@ -12,6 +12,7 @@ lng: -90.4100
 zipSample: ["63902", "63901"]
 zipCodes: ["63901", "63902"]
 localPaths: ["Butler County / primary ZIP 63901", "Butler County / ZIP 63902 sector", "Butler County / elevation 354 ft band", "Butler County / ZIP 63901 sector", "Butler County / coords 36.7600, -90.4100"]
+zillowHomeValueUsd: 169496
 ---
 
 **Engineering Notice for Poplar Bluff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.

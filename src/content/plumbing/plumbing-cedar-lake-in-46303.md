@@ -12,6 +12,7 @@ lng: -87.4400
 zipSample: ["46303"]
 zipCodes: ["46303"]
 localPaths: ["Lake County / coords 41.3700, -87.4400", "Lake County / primary ZIP 46303", "Lake County / ZIP 46303 sector", "Lake County / elevation 719 ft band"]
+zillowHomeValueUsd: 328361
 ---
 
 **Engineering Notice for Cedar Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

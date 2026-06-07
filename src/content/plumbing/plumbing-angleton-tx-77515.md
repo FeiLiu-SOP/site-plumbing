@@ -12,6 +12,7 @@ lng: -95.4300
 zipSample: ["77515", "77516"]
 zipCodes: ["77515", "77516"]
 localPaths: ["Brazoria County / elevation 49 ft band", "Brazoria County / ZIP 77515 sector", "Brazoria County / ZIP 77516 sector", "Brazoria County / primary ZIP 77515", "Brazoria County / coords 29.1700, -95.4300"]
+zillowHomeValueUsd: 240698
 ---
 
 **Engineering Notice for Angleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.

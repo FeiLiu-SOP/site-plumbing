@@ -12,6 +12,7 @@ lng: -83.1500
 zipSample: ["43017", "43016"]
 zipCodes: ["43016", "43017"]
 localPaths: ["Franklin County / ZIP 43017 sector", "Franklin County / ZIP 43016 sector", "Franklin County / coords 40.1100, -83.1500", "Franklin County / primary ZIP 43017", "Franklin County / elevation 902 ft band"]
+zillowHomeValueUsd: 575991
 ---
 
 **Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

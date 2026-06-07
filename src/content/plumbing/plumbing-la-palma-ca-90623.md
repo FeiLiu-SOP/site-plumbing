@@ -12,6 +12,7 @@ lng: -118.0400
 zipSample: ["90623"]
 zipCodes: ["90623"]
 localPaths: ["Orange County / ZIP 90623 sector", "Orange County / primary ZIP 90623", "Orange County / elevation 66 ft band", "Orange County / coords 33.8500, -118.0400"]
+zillowHomeValueUsd: 1212322
 ---
 
 **Engineering Notice for La Palma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

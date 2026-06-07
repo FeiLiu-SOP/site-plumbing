@@ -12,6 +12,8 @@ lng: -65.8200
 zipSample: ["00792", "00791"]
 zipCodes: ["00791", "00792"]
 localPaths: ["Humacao County / ZIP 00792 sector", "Humacao County / elevation 66 ft band", "Humacao County / coords 18.1500, -65.8200", "Humacao County / primary ZIP 00791", "Humacao County / ZIP 00791 sector"]
+data_fidelity: "synthetic"
+zillowHomeValueUsd: 356197
 ---
 
 **Engineering Notice for Humacao:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humacao County.

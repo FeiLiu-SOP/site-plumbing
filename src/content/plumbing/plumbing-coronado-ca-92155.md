@@ -12,6 +12,7 @@ lng: -117.1600
 zipSample: ["92178", "92155", "92118", "92135"]
 zipCodes: ["92155", "92135", "92118", "92178"]
 localPaths: ["San Diego County / ZIP 92178 sector", "San Diego County / elevation 16 ft band", "San Diego County / ZIP 92135 sector", "San Diego County / ZIP 92155 sector", "San Diego County / ZIP 92118 sector"]
+zillowHomeValueUsd: 2513960
 ---
 
 **Engineering Notice for Coronado:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

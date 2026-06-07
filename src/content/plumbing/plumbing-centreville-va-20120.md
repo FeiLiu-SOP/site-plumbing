@@ -12,6 +12,7 @@ lng: -77.4400
 zipSample: ["20121", "20120", "20124"]
 zipCodes: ["20120", "20124", "20121"]
 localPaths: ["Fairfax County / primary ZIP 20120", "Fairfax County / ZIP 20124 sector", "Fairfax County / coords 38.8400, -77.4400", "Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 20121 sector"]
+zillowHomeValueUsd: 702195
 ---
 
 **Engineering Notice for Centreville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.

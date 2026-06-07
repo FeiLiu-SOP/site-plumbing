@@ -12,6 +12,7 @@ lng: -118.7600
 zipSample: ["91376", "91301"]
 zipCodes: ["91376", "91301"]
 localPaths: ["Los Angeles County / coords 34.1500, -118.7600", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / ZIP 91376 sector", "Los Angeles County / elevation 965 ft band", "Los Angeles County / primary ZIP 91301"]
+zillowHomeValueUsd: 1248805
 ---
 
 **Engineering Notice for Agoura Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

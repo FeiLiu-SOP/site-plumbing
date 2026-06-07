@@ -12,6 +12,7 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / ZIP 46750 sector", "Huntington County / primary ZIP 46750", "Huntington County / elevation 794 ft band", "Huntington County / coords 40.8800, -85.5100"]
+zillowHomeValueUsd: 191604
 ---
 
 **Engineering Notice for Huntington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Huntington County.

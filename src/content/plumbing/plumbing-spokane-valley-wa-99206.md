@@ -12,6 +12,7 @@ lng: -117.2300
 zipSample: ["99213", "99016", "99216", "99212", "99206"]
 zipCodes: ["99215", "99213", "99206", "99216", "99016", "99211", "99037", "99212"]
 localPaths: ["Spokane County / primary ZIP 99206", "Spokane County / ZIP 99216 sector", "Spokane County / ZIP 99212 sector", "Spokane County / ZIP 99206 sector", "Spokane County / ZIP 99213 sector"]
+zillowHomeValueUsd: 418794
 ---
 
 **Engineering Notice for Spokane Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Spokane County.

@@ -12,6 +12,7 @@ lng: -123.4600
 zipSample: ["98363", "98362"]
 zipCodes: ["98362", "98363"]
 localPaths: ["Clallam County / primary ZIP 98363", "Clallam County / ZIP 98363 sector", "Clallam County / elevation 177 ft band", "Clallam County / coords 48.1100, -123.4600", "Clallam County / ZIP 98362 sector"]
+zillowHomeValueUsd: 450686
 ---
 
 **Engineering Notice for Port Angeles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clallam County.

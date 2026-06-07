@@ -12,6 +12,7 @@ lng: -85.9900
 zipSample: ["46249", "46226", "46216", "46235", "46236"]
 zipCodes: ["46216", "46226", "46235", "46249", "46236"]
 localPaths: ["Marion County / coords 39.8700, -85.9900", "Marion County / ZIP 46249 sector", "Marion County / ZIP 46235 sector", "Marion County / ZIP 46226 sector", "Marion County / elevation 856 ft band"]
+zillowHomeValueUsd: 309752
 ---
 
 **Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.

@@ -12,6 +12,7 @@ lng: -121.3800
 zipSample: ["95759", "95758", "95624", "95757"]
 zipCodes: ["95624", "95759", "95758", "95757"]
 localPaths: ["Sacramento County / ZIP 95758 sector", "Sacramento County / primary ZIP 95624", "Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95757 sector", "Sacramento County / coords 38.4200, -121.3800"]
+zillowHomeValueUsd: 641699
 ---
 
 **Engineering Notice for Elk Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.

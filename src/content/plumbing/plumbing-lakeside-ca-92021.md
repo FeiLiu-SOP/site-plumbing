@@ -12,6 +12,7 @@ lng: -116.9000
 zipSample: ["92040", "92021"]
 zipCodes: ["92021", "92040"]
 localPaths: ["San Diego County / elevation 463 ft band", "San Diego County / primary ZIP 92021", "San Diego County / ZIP 92040 sector", "San Diego County / coords 32.8600, -116.9000", "San Diego County / ZIP 92021 sector"]
+zillowHomeValueUsd: 770771
 ---
 
 **Engineering Notice for Lakeside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.

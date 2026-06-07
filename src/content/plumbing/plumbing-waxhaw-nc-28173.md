@@ -12,6 +12,7 @@ lng: -80.7400
 zipSample: ["28173"]
 zipCodes: ["28173"]
 localPaths: ["Union County / elevation 627 ft band", "Union County / primary ZIP 28173", "Union County / coords 34.9400, -80.7400", "Union County / ZIP 28173 sector"]
+zillowHomeValueUsd: 702773
 ---
 
 **Engineering Notice for Waxhaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.

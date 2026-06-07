@@ -12,6 +12,7 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / primary ZIP 97603", "Klamath County / elevation 4140 ft band", "Klamath County / ZIP 97603 sector", "Klamath County / coords 42.2000, -121.7200"]
+zillowHomeValueUsd: 325561
 ---
 
 **Engineering Notice for Altamont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Klamath County.

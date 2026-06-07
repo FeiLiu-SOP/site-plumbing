@@ -12,6 +12,7 @@ lng: -76.9500
 zipSample: ["20788", "20781", "20782"]
 zipCodes: ["20782", "20781", "20788"]
 localPaths: ["Prince George's County / ZIP 20781 sector", "Prince George's County / ZIP 20788 sector", "Prince George's County / primary ZIP 20781", "Prince George's County / ZIP 20782 sector", "Prince George's County / coords 38.9600, -76.9500"]
+zillowHomeValueUsd: 434842
 ---
 
 **Engineering Notice for Hyattsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

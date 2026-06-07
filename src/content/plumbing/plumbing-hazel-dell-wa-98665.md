@@ -12,6 +12,7 @@ lng: -122.6600
 zipSample: ["98665"]
 zipCodes: ["98665"]
 localPaths: ["Clark County / elevation 236 ft band", "Clark County / coords 45.6800, -122.6600", "Clark County / primary ZIP 98665", "Clark County / ZIP 98665 sector"]
+zillowHomeValueUsd: 502096
 ---
 
 **Engineering Notice for Hazel Dell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.

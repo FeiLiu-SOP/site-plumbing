@@ -12,6 +12,7 @@ lng: -79.0100
 zipSample: ["29588"]
 zipCodes: ["29588"]
 localPaths: ["Horry County / coords 33.6900, -79.0100", "Horry County / elevation 33 ft band", "Horry County / primary ZIP 29588", "Horry County / ZIP 29588 sector"]
+zillowHomeValueUsd: 320348
 ---
 
 **Engineering Notice for Socastee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.

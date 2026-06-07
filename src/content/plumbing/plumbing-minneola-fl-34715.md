@@ -12,6 +12,7 @@ lng: -81.7300
 zipSample: ["34755", "34715"]
 zipCodes: ["34715", "34755"]
 localPaths: ["Lake County / ZIP 34755 sector", "Lake County / ZIP 34715 sector", "Lake County / primary ZIP 34715", "Lake County / coords 28.6100, -81.7300", "Lake County / elevation 144 ft band"]
+zillowHomeValueUsd: 461783
 ---
 
 **Engineering Notice for Minneola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

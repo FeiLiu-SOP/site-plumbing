@@ -12,6 +12,7 @@ lng: -76.9800
 zipSample: ["20903", "20783"]
 zipCodes: ["20783", "20903"]
 localPaths: ["Prince George's County / coords 38.9900, -76.9800", "Prince George's County / ZIP 20903 sector", "Prince George's County / elevation 157 ft band", "Prince George's County / primary ZIP 20783", "Prince George's County / ZIP 20783 sector"]
+zillowHomeValueUsd: 405959
 ---
 
 **Engineering Notice for Langley Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

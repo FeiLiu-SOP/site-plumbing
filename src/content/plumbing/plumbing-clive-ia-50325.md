@@ -12,6 +12,7 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / elevation 883 ft band", "Polk County / primary ZIP 50325", "Polk County / ZIP 50325 sector", "Polk County / coords 41.6100, -93.8000"]
+zillowHomeValueUsd: 428787
 ---
 
 **Engineering Notice for Clive:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.

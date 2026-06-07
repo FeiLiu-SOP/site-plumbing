@@ -12,6 +12,7 @@ lng: -104.9200
 zipSample: ["80550", "80551"]
 zipCodes: ["80551", "80550"]
 localPaths: ["Weld County / primary ZIP 80550", "Weld County / coords 40.4700, -104.9200", "Weld County / elevation 4777 ft band", "Weld County / ZIP 80550 sector", "Weld County / ZIP 80551 sector"]
+zillowHomeValueUsd: 547336
 ---
 
 **Engineering Notice for Windsor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.

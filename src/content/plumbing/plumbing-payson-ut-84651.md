@@ -12,6 +12,7 @@ lng: -111.7400
 zipSample: ["84651"]
 zipCodes: ["84651"]
 localPaths: ["Utah County / elevation 4678 ft band", "Utah County / coords 40.0400, -111.7400", "Utah County / primary ZIP 84651", "Utah County / ZIP 84651 sector"]
+zillowHomeValueUsd: 518345
 ---
 
 **Engineering Notice for Payson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

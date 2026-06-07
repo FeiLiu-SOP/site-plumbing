@@ -12,6 +12,7 @@ lng: -116.3900
 zipSample: ["83634", "83642"]
 zipCodes: ["83634", "83642"]
 localPaths: ["Ada County / coords 43.4900, -116.3900", "Ada County / ZIP 83642 sector", "Ada County / elevation 2726 ft band", "Ada County / primary ZIP 83634", "Ada County / ZIP 83634 sector"]
+zillowHomeValueUsd: 459305
 ---
 
 **Engineering Notice for Kuna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ada County.

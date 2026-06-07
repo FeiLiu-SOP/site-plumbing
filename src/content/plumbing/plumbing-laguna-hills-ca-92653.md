@@ -12,6 +12,7 @@ lng: -117.7000
 zipSample: ["92653"]
 zipCodes: ["92653"]
 localPaths: ["Orange County / coords 33.5900, -117.7000", "Orange County / primary ZIP 92653", "Orange County / elevation 308 ft band", "Orange County / ZIP 92653 sector"]
+zillowHomeValueUsd: 1291194
 ---
 
 **Engineering Notice for Laguna Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

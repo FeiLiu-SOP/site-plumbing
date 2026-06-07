@@ -12,6 +12,7 @@ lng: -85.4900
 zipSample: ["49355", "49516", "49357", "49301", "49356"]
 zipCodes: ["49355", "49516", "49356", "49301", "49357", "49546"]
 localPaths: ["Kent County / elevation 646 ft band", "Kent County / ZIP 49301 sector", "Kent County / ZIP 49516 sector", "Kent County / ZIP 49355 sector", "Kent County / primary ZIP 49301"]
+zillowHomeValueUsd: 648970
 ---
 
 **Engineering Notice for Forest Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.

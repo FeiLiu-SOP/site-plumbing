@@ -12,6 +12,7 @@ lng: -88.5500
 zipSample: ["39595", "39568", "39581", "39569", "39567"]
 zipCodes: ["39568", "39569", "39567", "39581", "39595"]
 localPaths: ["Jackson County / elevation 20 ft band", "Jackson County / ZIP 39568 sector", "Jackson County / ZIP 39595 sector", "Jackson County / primary ZIP 39581", "Jackson County / ZIP 39567 sector"]
+zillowHomeValueUsd: 139270
 ---
 
 **Engineering Notice for Pascagoula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

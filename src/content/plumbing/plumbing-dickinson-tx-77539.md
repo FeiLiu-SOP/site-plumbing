@@ -12,6 +12,7 @@ lng: -95.0600
 zipSample: ["77539"]
 zipCodes: ["77539"]
 localPaths: ["Galveston County / elevation 30 ft band", "Galveston County / primary ZIP 77539", "Galveston County / coords 29.4500, -95.0600", "Galveston County / ZIP 77539 sector"]
+zillowHomeValueUsd: 282689
 ---
 
 **Engineering Notice for Dickinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.

@@ -12,6 +12,7 @@ lng: -84.3000
 zipSample: ["45040"]
 zipCodes: ["45040"]
 localPaths: ["Warren County / elevation 784 ft band", "Warren County / primary ZIP 45040", "Warren County / coords 39.3600, -84.3000", "Warren County / ZIP 45040 sector"]
+zillowHomeValueUsd: 503760
 ---
 
 **Engineering Notice for Mason:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.

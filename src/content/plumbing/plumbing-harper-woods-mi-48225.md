@@ -12,6 +12,7 @@ lng: -82.9300
 zipSample: ["48265", "48225"]
 zipCodes: ["48225", "48265"]
 localPaths: ["Wayne County / elevation 597 ft band", "Wayne County / primary ZIP 48225", "Wayne County / ZIP 48265 sector", "Wayne County / ZIP 48225 sector", "Wayne County / coords 42.4400, -82.9300"]
+zillowHomeValueUsd: 150473
 ---
 
 **Engineering Notice for Harper Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

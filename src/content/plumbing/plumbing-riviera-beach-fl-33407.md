@@ -12,6 +12,7 @@ lng: -80.0700
 zipSample: ["33404", "33407", "33419"]
 zipCodes: ["33419", "33404", "33407"]
 localPaths: ["Palm Beach County / primary ZIP 33407", "Palm Beach County / ZIP 33419 sector", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / coords 26.7800, -80.0700", "Palm Beach County / elevation 30 ft band"]
+zillowHomeValueUsd: 347020
 ---
 
 **Engineering Notice for Riviera Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

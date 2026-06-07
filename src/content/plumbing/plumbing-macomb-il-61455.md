@@ -12,6 +12,7 @@ lng: -90.6800
 zipSample: ["61455"]
 zipCodes: ["61455"]
 localPaths: ["McDonough County / coords 40.4700, -90.6800", "McDonough County / ZIP 61455 sector", "McDonough County / elevation 643 ft band", "McDonough County / primary ZIP 61455"]
+zillowHomeValueUsd: 105405
 ---
 
 **Engineering Notice for Macomb:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McDonough County.

@@ -12,6 +12,7 @@ lng: -76.9600
 zipSample: ["20748"]
 zipCodes: ["20748"]
 localPaths: ["Prince George's County / primary ZIP 20748", "Prince George's County / ZIP 20748 sector", "Prince George's County / elevation 276 ft band", "Prince George's County / coords 38.8400, -76.9600"]
+zillowHomeValueUsd: 364487
 ---
 
 **Engineering Notice for Hillcrest Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.

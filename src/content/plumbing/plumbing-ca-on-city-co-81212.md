@@ -12,6 +12,7 @@ lng: -105.2200
 zipSample: ["81215", "81212"]
 zipCodes: ["81215", "81212"]
 localPaths: ["Fremont County / elevation 5315 ft band", "Fremont County / coords 38.4400, -105.2200", "Fremont County / primary ZIP 81212", "Fremont County / ZIP 81212 sector", "Fremont County / ZIP 81215 sector"]
+zillowHomeValueUsd: 329662
 ---
 
 **Engineering Notice for Cañon City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fremont County.

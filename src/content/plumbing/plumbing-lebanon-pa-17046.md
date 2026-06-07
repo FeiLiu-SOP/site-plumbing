@@ -12,6 +12,7 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17042", "17046"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / primary ZIP 17046", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / ZIP 17046 sector", "Lebanon County / ZIP 17042 sector"]
+zillowHomeValueUsd: 258532
 ---
 
 **Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lebanon County.

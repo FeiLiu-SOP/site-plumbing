@@ -12,6 +12,7 @@ lng: -85.5600
 zipSample: ["40047"]
 zipCodes: ["40047"]
 localPaths: ["Bullitt County / ZIP 40047 sector", "Bullitt County / elevation 666 ft band", "Bullitt County / primary ZIP 40047", "Bullitt County / coords 38.0400, -85.5600"]
+zillowHomeValueUsd: 324511
 ---
 
 **Engineering Notice for Mount Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bullitt County.

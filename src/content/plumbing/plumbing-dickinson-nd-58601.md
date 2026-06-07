@@ -12,6 +12,7 @@ lng: -102.7900
 zipSample: ["58601", "58602"]
 zipCodes: ["58602", "58601"]
 localPaths: ["Stark County / ZIP 58602 sector", "Stark County / elevation 2467 ft band", "Stark County / coords 46.8900, -102.7900", "Stark County / primary ZIP 58601", "Stark County / ZIP 58601 sector"]
+zillowHomeValueUsd: 319293
 ---
 
 **Engineering Notice for Dickinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stark County.

@@ -12,6 +12,7 @@ lng: -121.8200
 zipSample: ["95926", "95927", "95928", "95973", "95929"]
 zipCodes: ["95976", "95973", "95926", "95929", "95927", "95928"]
 localPaths: ["Butte County / ZIP 95926 sector", "Butte County / ZIP 95929 sector", "Butte County / ZIP 95927 sector", "Butte County / primary ZIP 95973", "Butte County / elevation 243 ft band"]
+zillowHomeValueUsd: 502714
 ---
 
 **Engineering Notice for Chico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butte County.

@@ -12,6 +12,7 @@ lng: -118.4100
 zipSample: ["91394", "91413", "91333", "91406", "90082"]
 zipCodes: ["90026", "90055", "90017", "91470", "90058", "91343", "91357", "90049", "91352", "90077", "90748", "90089"]
 localPaths: ["Los Angeles County / ZIP 91413 sector", "Los Angeles County / primary ZIP 91367", "Los Angeles County / ZIP 91406 sector", "Los Angeles County / ZIP 91333 sector", "Los Angeles County / elevation 1106 ft band"]
+zillowHomeValueUsd: 1122272
 ---
 
 **Engineering Notice for Los Angeles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.

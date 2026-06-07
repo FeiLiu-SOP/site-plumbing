@@ -12,6 +12,7 @@ lng: -87.8500
 zipSample: ["60015"]
 zipCodes: ["60015"]
 localPaths: ["Lake County / elevation 679 ft band", "Lake County / coords 42.1700, -87.8500", "Lake County / ZIP 60015 sector", "Lake County / primary ZIP 60015"]
+zillowHomeValueUsd: 700492
 ---
 
 **Engineering Notice for Deerfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

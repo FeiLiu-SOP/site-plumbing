@@ -12,6 +12,7 @@ lng: -94.0000
 zipSample: ["71854"]
 zipCodes: ["71854"]
 localPaths: ["Miller County / elevation 387 ft band", "Miller County / primary ZIP 71854", "Miller County / coords 33.4400, -94.0000", "Miller County / ZIP 71854 sector"]
+zillowHomeValueUsd: 167074
 ---
 
 **Engineering Notice for Texarkana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miller County.

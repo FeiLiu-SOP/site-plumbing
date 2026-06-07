@@ -12,6 +12,7 @@ lng: -83.6400
 zipSample: ["43552", "43551"]
 zipCodes: ["43551", "43552"]
 localPaths: ["Wood County / ZIP 43551 sector", "Wood County / primary ZIP 43551", "Wood County / ZIP 43552 sector", "Wood County / coords 41.5400, -83.6400", "Wood County / elevation 633 ft band"]
+zillowHomeValueUsd: 333094
 ---
 
 **Engineering Notice for Perrysburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wood County.

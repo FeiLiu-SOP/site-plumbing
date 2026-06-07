@@ -12,6 +12,7 @@ lng: -80.2700
 zipSample: ["33449", "33414", "33470"]
 zipCodes: ["33414", "33470", "33449"]
 localPaths: ["Palm Beach County / primary ZIP 33449", "Palm Beach County / elevation 26 ft band", "Palm Beach County / coords 26.6500, -80.2700", "Palm Beach County / ZIP 33414 sector", "Palm Beach County / ZIP 33449 sector"]
+zillowHomeValueUsd: 733765
 ---
 
 **Engineering Notice for Wellington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

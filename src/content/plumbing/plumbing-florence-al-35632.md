@@ -12,6 +12,7 @@ lng: -87.6700
 zipSample: ["35632", "35630", "35631", "35633"]
 zipCodes: ["35633", "35632", "35631", "35630"]
 localPaths: ["Lauderdale County / primary ZIP 35632", "Lauderdale County / ZIP 35633 sector", "Lauderdale County / coords 34.8300, -87.6700", "Lauderdale County / ZIP 35630 sector", "Lauderdale County / ZIP 35632 sector"]
+zillowHomeValueUsd: 174234
 ---
 
 **Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lauderdale County.

@@ -12,6 +12,7 @@ lng: -93.9800
 zipSample: ["56002", "56001"]
 zipCodes: ["56001", "56002"]
 localPaths: ["Blue Earth County / coords 44.1700, -93.9800", "Blue Earth County / elevation 1007 ft band", "Blue Earth County / ZIP 56001 sector", "Blue Earth County / primary ZIP 56001", "Blue Earth County / ZIP 56002 sector"]
+zillowHomeValueUsd: 300658
 ---
 
 **Engineering Notice for Mankato:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Blue Earth County.

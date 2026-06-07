@@ -12,6 +12,7 @@ lng: -77.2600
 zipSample: ["20876", "20874", "20875"]
 zipCodes: ["20876", "20875", "20874"]
 localPaths: ["Montgomery County / primary ZIP 20876", "Montgomery County / coords 39.1800, -77.2600", "Montgomery County / elevation 492 ft band", "Montgomery County / ZIP 20874 sector", "Montgomery County / ZIP 20875 sector"]
+zillowHomeValueUsd: 484237
 ---
 
 **Engineering Notice for Germantown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.

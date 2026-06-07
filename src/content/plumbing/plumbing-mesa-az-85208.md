@@ -12,6 +12,7 @@ lng: -111.7200
 zipSample: ["85213", "85274", "85212", "85206", "85216"]
 zipCodes: ["85274", "85206", "85213", "85208", "85215", "85202", "85211", "85214", "85203", "85201", "85277", "85216"]
 localPaths: ["Maricopa County / ZIP 85212 sector", "Maricopa County / ZIP 85216 sector", "Maricopa County / coords 33.4000, -111.7200", "Maricopa County / elevation 1319 ft band", "Maricopa County / ZIP 85213 sector"]
+zillowHomeValueUsd: 379584
 ---
 
 **Engineering Notice for Mesa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.

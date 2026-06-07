@@ -12,6 +12,7 @@ lng: -81.9300
 zipSample: ["44140"]
 zipCodes: ["44140"]
 localPaths: ["Cuyahoga County / elevation 646 ft band", "Cuyahoga County / primary ZIP 44140", "Cuyahoga County / coords 41.4900, -81.9300", "Cuyahoga County / ZIP 44140 sector"]
+zillowHomeValueUsd: 410445
 ---
 
 **Engineering Notice for Bay Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

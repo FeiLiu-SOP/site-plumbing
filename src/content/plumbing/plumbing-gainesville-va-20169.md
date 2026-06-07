@@ -12,6 +12,7 @@ lng: -77.6300
 zipSample: ["20169", "20156", "20155"]
 zipCodes: ["20156", "20169", "20155"]
 localPaths: ["Prince William County / ZIP 20169 sector", "Prince William County / elevation 387 ft band", "Prince William County / ZIP 20156 sector", "Prince William County / primary ZIP 20169", "Prince William County / coords 38.7900, -77.6300"]
+zillowHomeValueUsd: 832956
 ---
 
 **Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.

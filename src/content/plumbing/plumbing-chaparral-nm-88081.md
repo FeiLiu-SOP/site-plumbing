@@ -12,6 +12,7 @@ lng: -106.4100
 zipSample: ["88081"]
 zipCodes: ["88081"]
 localPaths: ["Doña Ana County / elevation 4062 ft band", "Doña Ana County / coords 32.0400, -106.4100", "Doña Ana County / primary ZIP 88081", "Doña Ana County / ZIP 88081 sector"]
+zillowHomeValueUsd: 216191
 ---
 
 **Engineering Notice for Chaparral:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Doña Ana County.

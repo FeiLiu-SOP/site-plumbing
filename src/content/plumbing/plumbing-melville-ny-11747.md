@@ -12,6 +12,7 @@ lng: -73.4100
 zipSample: ["11775", "11747"]
 zipCodes: ["11747", "11775"]
 localPaths: ["Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / ZIP 11747 sector", "Suffolk County / coords 40.7800, -73.4100", "Suffolk County / elevation 135 ft band"]
+zillowHomeValueUsd: 870063
 ---
 
 **Engineering Notice for Melville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.

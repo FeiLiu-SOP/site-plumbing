@@ -12,6 +12,7 @@ lng: -111.7000
 zipSample: ["84057", "84058", "84059", "84097"]
 zipCodes: ["84097", "84057", "84059", "84058"]
 localPaths: ["Utah County / ZIP 84057 sector", "Utah County / ZIP 84058 sector", "Utah County / ZIP 84059 sector", "Utah County / ZIP 84097 sector", "Utah County / primary ZIP 84097"]
+zillowHomeValueUsd: 596541
 ---
 
 **Engineering Notice for Orem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.

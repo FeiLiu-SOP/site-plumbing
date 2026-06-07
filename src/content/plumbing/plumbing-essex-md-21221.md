@@ -12,6 +12,7 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / elevation 26 ft band", "Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector", "Baltimore County / primary ZIP 21221"]
+zillowHomeValueUsd: 292838
 ---
 
 **Engineering Notice for Essex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.

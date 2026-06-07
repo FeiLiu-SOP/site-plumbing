@@ -12,6 +12,7 @@ lng: -117.8700
 zipSample: ["92822", "92823", "92821"]
 zipCodes: ["92822", "92821", "92823"]
 localPaths: ["Orange County / coords 33.9300, -117.8700", "Orange County / ZIP 92823 sector", "Orange County / ZIP 92822 sector", "Orange County / ZIP 92821 sector", "Orange County / primary ZIP 92821"]
+zillowHomeValueUsd: 1120930
 ---
 
 **Engineering Notice for Brea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.

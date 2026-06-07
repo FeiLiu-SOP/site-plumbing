@@ -12,6 +12,7 @@ lng: -84.1400
 zipSample: ["30048", "30047"]
 zipCodes: ["30047", "30048"]
 localPaths: ["Gwinnett County / ZIP 30048 sector", "Gwinnett County / elevation 932 ft band", "Gwinnett County / ZIP 30047 sector", "Gwinnett County / coords 33.8900, -84.1400", "Gwinnett County / primary ZIP 30047"]
+zillowHomeValueUsd: 398190
 ---
 
 **Engineering Notice for Lilburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

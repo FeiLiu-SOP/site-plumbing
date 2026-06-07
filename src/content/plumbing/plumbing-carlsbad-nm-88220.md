@@ -12,6 +12,7 @@ lng: -104.2400
 zipSample: ["88220", "88221"]
 zipCodes: ["88221", "88220"]
 localPaths: ["Eddy County / primary ZIP 88220", "Eddy County / coords 32.4000, -104.2400", "Eddy County / ZIP 88221 sector", "Eddy County / elevation 3127 ft band", "Eddy County / ZIP 88220 sector"]
+zillowHomeValueUsd: 251247
 ---
 
 **Engineering Notice for Carlsbad:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Eddy County.

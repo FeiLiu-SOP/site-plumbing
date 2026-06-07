@@ -12,6 +12,7 @@ lng: -120.8600
 zipSample: ["95382", "95381", "95380"]
 zipCodes: ["95381", "95382", "95380"]
 localPaths: ["Stanislaus County / ZIP 95381 sector", "Stanislaus County / coords 37.5100, -120.8600", "Stanislaus County / elevation 102 ft band", "Stanislaus County / ZIP 95380 sector", "Stanislaus County / ZIP 95382 sector"]
+zillowHomeValueUsd: 445901
 ---
 
 **Engineering Notice for Turlock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stanislaus County.

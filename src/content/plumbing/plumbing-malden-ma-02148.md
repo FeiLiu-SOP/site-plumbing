@@ -12,6 +12,7 @@ lng: -71.0600
 zipSample: ["02148"]
 zipCodes: ["02148"]
 localPaths: ["Middlesex County / elevation 39 ft band", "Middlesex County / primary ZIP 02148", "Middlesex County / coords 42.4300, -71.0600", "Middlesex County / ZIP 02148 sector"]
+zillowHomeValueUsd: 682987
 ---
 
 **Engineering Notice for Malden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.

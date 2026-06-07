@@ -12,6 +12,7 @@ lng: -84.2300
 zipSample: ["30010", "30092", "30360", "30071"]
 zipCodes: ["30360", "30010", "30092", "30071"]
 localPaths: ["Gwinnett County / primary ZIP 30071", "Gwinnett County / ZIP 30092 sector", "Gwinnett County / elevation 1014 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9700, -84.2300"]
+zillowHomeValueUsd: 360265
 ---
 
 **Engineering Notice for Peachtree Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.

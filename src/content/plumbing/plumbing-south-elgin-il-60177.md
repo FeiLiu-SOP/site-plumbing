@@ -12,6 +12,7 @@ lng: -88.3100
 zipSample: ["60177"]
 zipCodes: ["60177"]
 localPaths: ["Kane County / ZIP 60177 sector", "Kane County / primary ZIP 60177", "Kane County / elevation 804 ft band", "Kane County / coords 41.9900, -88.3100"]
+zillowHomeValueUsd: 366425
 ---
 
 **Engineering Notice for South Elgin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.

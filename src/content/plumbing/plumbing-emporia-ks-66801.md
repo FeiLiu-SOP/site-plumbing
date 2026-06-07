@@ -12,6 +12,7 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / primary ZIP 66801", "Lyon County / coords 38.4000, -96.1900"]
+zillowHomeValueUsd: 168952
 ---
 
 **Engineering Notice for Emporia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.

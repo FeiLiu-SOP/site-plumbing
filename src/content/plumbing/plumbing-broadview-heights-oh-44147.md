@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["44147"]
 zipCodes: ["44147"]
 localPaths: ["Cuyahoga County / elevation 1181 ft band", "Cuyahoga County / coords 41.3200, -81.6800", "Cuyahoga County / primary ZIP 44147", "Cuyahoga County / ZIP 44147 sector"]
+zillowHomeValueUsd: 366159
 ---
 
 **Engineering Notice for Broadview Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.

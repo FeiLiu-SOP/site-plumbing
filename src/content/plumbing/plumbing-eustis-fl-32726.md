@@ -12,6 +12,7 @@ lng: -81.6800
 zipSample: ["32726", "32736", "32727"]
 zipCodes: ["32726", "32736", "32727"]
 localPaths: ["Lake County / coords 28.8600, -81.6800", "Lake County / elevation 105 ft band", "Lake County / ZIP 32726 sector", "Lake County / ZIP 32727 sector", "Lake County / ZIP 32736 sector"]
+zillowHomeValueUsd: 286702
 ---
 
 **Engineering Notice for Eustis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.

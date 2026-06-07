@@ -12,6 +12,7 @@ lng: -80.8000
 zipSample: ["44005", "44004"]
 zipCodes: ["44004", "44005"]
 localPaths: ["Ashtabula County / primary ZIP 44004", "Ashtabula County / ZIP 44004 sector", "Ashtabula County / elevation 640 ft band", "Ashtabula County / coords 41.8800, -80.8000", "Ashtabula County / ZIP 44005 sector"]
+zillowHomeValueUsd: 151164
 ---
 
 **Engineering Notice for Ashtabula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ashtabula County.

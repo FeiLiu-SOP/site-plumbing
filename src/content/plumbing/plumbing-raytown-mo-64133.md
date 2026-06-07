@@ -12,6 +12,7 @@ lng: -94.4600
 zipSample: ["64133", "64138"]
 zipCodes: ["64138", "64133"]
 localPaths: ["Jackson County / primary ZIP 64133", "Jackson County / coords 38.9900, -94.4600", "Jackson County / elevation 961 ft band", "Jackson County / ZIP 64133 sector", "Jackson County / ZIP 64138 sector"]
+zillowHomeValueUsd: 212541
 ---
 
 **Engineering Notice for Raytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

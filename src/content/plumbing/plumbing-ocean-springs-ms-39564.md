@@ -12,6 +12,7 @@ lng: -88.7900
 zipSample: ["39566", "39564"]
 zipCodes: ["39566", "39564"]
 localPaths: ["Jackson County / ZIP 39564 sector", "Jackson County / ZIP 39566 sector", "Jackson County / coords 30.4100, -88.7900", "Jackson County / primary ZIP 39564", "Jackson County / elevation 39 ft band"]
+zillowHomeValueUsd: 268078
 ---
 
 **Engineering Notice for Ocean Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.

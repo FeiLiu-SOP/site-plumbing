@@ -12,6 +12,7 @@ lng: -82.9000
 zipSample: ["48236"]
 zipCodes: ["48236"]
 localPaths: ["Wayne County / elevation 584 ft band", "Wayne County / ZIP 48236 sector", "Wayne County / coords 42.4400, -82.9000", "Wayne County / primary ZIP 48236"]
+zillowHomeValueUsd: 398265
 ---
 
 **Engineering Notice for Grosse Pointe Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.

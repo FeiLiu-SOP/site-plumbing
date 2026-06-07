@@ -12,6 +12,7 @@ lng: -83.7200
 zipSample: ["30680"]
 zipCodes: ["30680"]
 localPaths: ["Barrow County / coords 33.9900, -83.7200", "Barrow County / primary ZIP 30680", "Barrow County / elevation 978 ft band", "Barrow County / ZIP 30680 sector"]
+zillowHomeValueUsd: 339344
 ---
 
 **Engineering Notice for Winder:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Barrow County.
