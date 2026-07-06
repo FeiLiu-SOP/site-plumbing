@@ -96,6 +96,7 @@ import {
   buildPlumbingV2PageTitle,
   PLUMBING_V2_META_MAX,
 } from "../lib/plumbing-v2-serp-title";
+import { getPlumbingV2SerpOverride } from "../lib/plumbing-v2-serp-overrides";
 import {
   buildRockwellMaineEntityGraph,
   matchesRockwellMaine,
@@ -496,6 +497,7 @@ const plumbingV2ConvHead =
         pick: baitPickRaw,
       })
     : null;
+const plumbingV2SerpOverride = isPlumbingV2Hub ? getPlumbingV2SerpOverride(entrySlug) : null;
 const baitHead =
   pageCity && stateCodeFromSlug
     ? isCommunityStewardshipNpo
@@ -557,7 +559,8 @@ const pageTitle = isWaterDamageHub
           })
         : post.data.title)
     : isPlumbingV2Hub
-      ? plumbingV2ConvHead?.pageTitle ??
+      ? plumbingV2SerpOverride?.pageTitle ??
+        plumbingV2ConvHead?.pageTitle ??
         (pageCity
           ? buildPlumbingV2PageTitle({
               city: pageCity,
@@ -634,7 +637,8 @@ const pageH1Plain = isWaterDamageHub
           })
         : post.data.title)
     : isPlumbingV2Hub
-      ? plumbingV2ConvHead?.pageH1 ??
+      ? plumbingV2SerpOverride?.pageH1 ??
+        plumbingV2ConvHead?.pageH1 ??
         (pageCity
           ? buildPlumbingV2H1({ city: pageCity, zLabel, zLabelExact })
           : post.data.title)
@@ -677,7 +681,8 @@ const pageMetaDescriptionDefault = isWaterDamageHub
       plumbingConvHead?.metaDescription ??
       clipMetaDescription(post.data.description, PLUMBING_META_MAX))
     : isPlumbingV2Hub
-      ? (plumbingV2ConvHead?.metaDescription ??
+      ? (plumbingV2SerpOverride?.metaDescription ??
+        plumbingV2ConvHead?.metaDescription ??
         clipMetaDescription(post.data.description, PLUMBING_V2_META_MAX))
       : isSidingHub
       ? (sidingConvHead?.metaDescription ??

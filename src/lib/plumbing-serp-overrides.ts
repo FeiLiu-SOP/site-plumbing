@@ -38,6 +38,12 @@ const RAW: Record<string, Omit<PlumbingSerpOverride, "metaDescription"> & { meta
     metaDescription:
       "Licensed plumber for Reynoldsburg OH 43068 & 43069. Emergency leaks, drains & repairs. Same-day local plumbing service.",
   },
+  "plumbing-lemon-hill-ca-95824": {
+    pageTitle: "Plumber Open Now Lemon Hill CA | FixitGrid",
+    pageH1: "Plumber Open Now — Lemon Hill, CA — ZIP 95824",
+    metaDescription:
+      "Plumber open now in Lemon Hill CA 95824. Licensed local service for leaks, drains & emergencies. Call for same-day help.",
+  },
 };
 
 export function getPlumbingSerpOverride(slug: string): PlumbingSerpOverride | null {
