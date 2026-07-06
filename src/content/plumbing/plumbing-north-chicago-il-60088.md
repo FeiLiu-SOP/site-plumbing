@@ -8,15 +8,18 @@ zipCode: "60088"
 county: "Lake County"
 elevationFt: 705
 lat: 42.3200
-lng: -87.8600
+lng: -87.8900
 zipSample: ["60088", "60064", "60086"]
 zipCodes: ["60088", "60064", "60086"]
-localPaths: ["Lake County / elevation 705 ft band", "Lake County / primary ZIP 60088", "Lake County / ZIP 60064 sector", "Lake County / ZIP 60088 sector", "Lake County / coords 42.3200, -87.8600"]
-zillowHomeValueUsd: 209962
+localPaths: ["Lake County / elevation 705 ft band", "Lake County / primary ZIP 60088", "Lake County / ZIP 60064 sector", "Lake County / ZIP 60088 sector", "Lake County / coords 42.3200, -87.8900"]
 ---
 
-**Engineering Notice for North Chicago:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for North Chicago:** Supply line, cleanout, and water heater scope recorded at 705 ft elevation context (Lake County).
 
+
+Burst pipe and drain clog calls in North Chicago, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in North Chicago, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -44,8 +47,8 @@ Sewer gas odors in North Chicago, IL should trigger trap seal and vent path revi
 
 Drain map 707647: camera-pass priority and expansion-tank pre-charge noted for North Chicago, IL postal sector 60088.
 
-plumbing brief: dielectric union checklist and PRV outlet curve were cross-checked for the North Chicago intake packet.
+Plumbing restoration brief: dielectric union checklist and PRV outlet curve were cross-checked for the North Chicago pipe and leak scope.
 
-On-site sector marker: Lake County / coords 42.3200, -87.8600 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Lake County / coords 42.3200, -87.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60088-c5c53170

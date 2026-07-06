@@ -12,11 +12,14 @@ lng: -122.4200
 zipSample: ["94083", "94080"]
 zipCodes: ["94080", "94083"]
 localPaths: ["San Mateo County / ZIP 94080 sector", "San Mateo County / primary ZIP 94080", "San Mateo County / coords 37.6500, -122.4200", "San Mateo County / ZIP 94083 sector", "San Mateo County / elevation 20 ft band"]
-zillowHomeValueUsd: 1239976
 ---
 
-**Engineering Notice for South San Francisco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for South San Francisco:** Supply line, cleanout, and water heater scope recorded at 20 ft elevation context (San Mateo County).
 
+
+When a main line backs up in South San Francisco, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving South San Francisco, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -48,7 +51,7 @@ Intake ledger 958108: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 958108: recirculation pump amp draw captured before South San Francisco, CA branch isolation.
 
-Field routing: sewer cleanout cap thread paired with gas water heater draft hood gap near ZIP 94080.
+Local service note: sewer cleanout cap thread paired with gas water heater draft hood gap near ZIP 94080 for emergency plumbing pro repairs.
 
 On-site sector marker: San Mateo County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 

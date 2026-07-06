@@ -12,11 +12,14 @@ lng: -92.4000
 zipSample: ["72113"]
 zipCodes: ["72113"]
 localPaths: ["Pulaski County / primary ZIP 72113", "Pulaski County / elevation 299 ft band", "Pulaski County / ZIP 72113 sector", "Pulaski County / coords 34.8500, -92.4000"]
-zillowHomeValueUsd: 303760
 ---
 
-**Engineering Notice for Maumelle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Maumelle:** Supply line, cleanout, and water heater scope recorded at 299 ft elevation context (Pulaski County).
 
+
+Burst pipe and drain clog calls in Maumelle, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pulaski County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Maumelle, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Pulaski County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: photograph curb-stop and meter pit before trenching.
 

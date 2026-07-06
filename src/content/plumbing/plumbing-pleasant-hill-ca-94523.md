@@ -12,11 +12,14 @@ lng: -122.0800
 zipSample: ["94523"]
 zipCodes: ["94523"]
 localPaths: ["Contra Costa County / ZIP 94523 sector", "Contra Costa County / primary ZIP 94523", "Contra Costa County / coords 37.9500, -122.0800", "Contra Costa County / elevation 59 ft band"]
-zillowHomeValueUsd: 996099
 ---
 
-**Engineering Notice for Pleasant Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Pleasant Hill:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Contra Costa County).
 
+
+When a main line backs up in Pleasant Hill, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency qualified plumber service in Pleasant Hill, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Contra Costa County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,6 +50,8 @@ Hydro-jetting in Pleasant Hill, CA requires camera confirmation before nozzle pr
 Supply audit 243999: curb-stop orientation and hose-bib freeze flag reviewed for Pleasant Hill, CA at coords 37.9500/-122.0800.
 
 Drain map 243999: camera-pass priority and expansion-tank pre-charge noted for Pleasant Hill, CA postal sector 94523.
+
+Plumbing service brief: gas water heater draft hood gap and backflow test cock orientation were cross-checked for the Pleasant Hill pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 37.9500, -122.0800 at elevation ~59 ft aligns with Contra Costa County intake staging.
 

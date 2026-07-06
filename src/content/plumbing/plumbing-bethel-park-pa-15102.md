@@ -12,11 +12,14 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15102", "15234"]
 localPaths: ["Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector", "Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400"]
-zillowHomeValueUsd: 301030
 ---
 
-**Engineering Notice for Bethel Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Bethel Park:** Emergency leak and drain triage uses ~168 mg/L hardness context with Allegheny County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Bethel Park, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Bethel Park, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Allegheny County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -26,7 +29,7 @@ Expansion tank pre-charge loss in Bethel Park, PA often tracks heater replacemen
 
 In Bethel Park, PA, slab leaks often present as warm spots before wall stains appear.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hard water in Bethel Park, PA accelerates scale on PRV seats and heater elements.
 

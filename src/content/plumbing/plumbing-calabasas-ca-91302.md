@@ -8,15 +8,18 @@ zipCode: "91302"
 county: "Los Angeles County"
 elevationFt: 1430
 lat: 34.1400
-lng: -118.6700
+lng: -118.6400
 zipSample: ["91372", "91302"]
 zipCodes: ["91372", "91302"]
-localPaths: ["Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / ZIP 91372 sector", "Los Angeles County / primary ZIP 91302", "Los Angeles County / elevation 1430 ft band"]
-zillowHomeValueUsd: 1958293
+localPaths: ["Los Angeles County / coords 34.1400, -118.6400", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / ZIP 91372 sector", "Los Angeles County / primary ZIP 91302", "Los Angeles County / elevation 1430 ft band"]
 ---
 
-**Engineering Notice for Calabasas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Calabasas:** Supply line, cleanout, and water heater scope recorded at 1430 ft elevation context (Los Angeles County).
 
+
+Emergency plumbing pro service in Calabasas, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Calabasas, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -26,7 +29,7 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 Risk flag: Seasonal Calabasas, CA irrigation cross-connections can mask domestic pressure loss.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -44,7 +47,9 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Permit note: Main water line replacement in Calabasas, CA may require ROW restoration planning.
 
-Supply audit 553536: curb-stop orientation and hose-bib freeze flag reviewed for Calabasas, CA at coords 34.1400/-118.6700.
+Supply audit 553536: curb-stop orientation and hose-bib freeze flag reviewed for Calabasas, CA at coords 34.1400/-118.6400.
+
+Plumbing remediation brief: sewer cleanout cap thread and thermal expansion loop check were cross-checked for the Calabasas pipe and leak scope.
 
 On-site sector marker: Los Angeles County / ZIP 91302 sector — logged for map parity and ZIP-corridor verification.
 

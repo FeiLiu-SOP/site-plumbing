@@ -12,11 +12,14 @@ lng: -94.2200
 zipSample: ["56377"]
 zipCodes: ["56377"]
 localPaths: ["Stearns County / coords 45.6200, -94.2200", "Stearns County / primary ZIP 56377", "Stearns County / elevation 1040 ft band", "Stearns County / ZIP 56377 sector"]
-zillowHomeValueUsd: 339319
 ---
 
-**Engineering Notice for Sartell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stearns County.
+**Engineering Notice for Sartell:** Supply line, cleanout, and water heater scope recorded at 1040 ft elevation context (Stearns County).
 
+
+Burst pipe and drain clog calls in Sartell, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Stearns County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Sartell, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -28,7 +31,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: In Sartell, MN, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -50,7 +53,7 @@ Flow dossier 748625: branch wet-vent geometry and jetting nozzle envelope logged
 
 Lineage note 748625: recirculation pump amp draw captured before Sartell, MN branch isolation.
 
-Field routing: branch wet vent geometry paired with slab penetration sleeve seal near ZIP 56377.
+Local service note: branch wet vent geometry paired with slab penetration sleeve seal near ZIP 56377 for emergency qualified plumber repairs.
 
 On-site sector marker: Stearns County / ZIP 56377 sector — logged for map parity and ZIP-corridor verification.
 

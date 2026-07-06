@@ -12,11 +12,14 @@ lng: -115.0900
 zipSample: ["89115", "89081", "89033", "89031", "89032"]
 zipCodes: ["89081", "89085", "89084", "89087", "89115", "89030", "89032", "89031", "89086", "89033"]
 localPaths: ["Clark County / ZIP 89115 sector", "Clark County / coords 36.2900, -115.0900", "Clark County / ZIP 89033 sector", "Clark County / primary ZIP 89032", "Clark County / ZIP 89031 sector"]
-zillowHomeValueUsd: 392525
 ---
 
-**Engineering Notice for North Las Vegas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for North Las Vegas:** Supply line, cleanout, and water heater scope recorded at 2096 ft elevation context (Clark County).
 
+
+Burst pipe and drain clog calls in North Las Vegas, NV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in North Las Vegas, NV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Hydro-jetting in North Las Vegas, NV requires camera confirmation before nozzle pressure is raised.
 
@@ -47,6 +50,8 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 890
 Frost-free sillcock failures in North Las Vegas, NV often trace to interior shutoff seats, not exterior stems.
 
 Lineage note 943736: recirculation pump amp draw captured before North Las Vegas, NV branch isolation.
+
+Plumbing remediation brief: thermal expansion loop check and toilet flange spacer kit were cross-checked for the North Las Vegas pipe and leak scope.
 
 Regional mesh label Clark County: moisture and logistics baselines are keyed to North Las Vegas, NV before niche-specific work begins.
 

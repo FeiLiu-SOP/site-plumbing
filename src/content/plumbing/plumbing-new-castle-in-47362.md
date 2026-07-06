@@ -12,11 +12,14 @@ lng: -85.3700
 zipSample: ["47362"]
 zipCodes: ["47362"]
 localPaths: ["Henry County / ZIP 47362 sector", "Henry County / primary ZIP 47362", "Henry County / coords 39.9200, -85.3700", "Henry County / elevation 1063 ft band"]
-zillowHomeValueUsd: 165975
 ---
 
-**Engineering Notice for New Castle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.
+**Engineering Notice for New Castle:** Emergency leak and drain triage uses ~157 mg/L hardness context with Henry County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in New Castle, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Henry County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in New Castle, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Henry County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When should sump battery backups be load-tested? In New Castle, IN, before spring thaw and hurricane remnants.
 
@@ -45,8 +48,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Expansion tank pre-charge loss in New Castle, IN often tracks heater replacement deferrals.
 
 Supply audit 870569: curb-stop orientation and hose-bib freeze flag reviewed for New Castle, IN at coords 39.9200/-85.3700.
-
-plumbing brief: copper pinhole cluster and PEX expansion ring batch were cross-checked for the New Castle intake packet.
 
 Coordinate-anchored dispatch note: center reference 39.9200, -85.3700 at elevation ~1063 ft aligns with Henry County intake staging.
 

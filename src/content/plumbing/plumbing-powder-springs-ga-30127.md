@@ -12,13 +12,16 @@ lng: -84.6800
 zipSample: ["30127"]
 zipCodes: ["30127"]
 localPaths: ["Cobb County / primary ZIP 30127", "Cobb County / coords 33.8700, -84.6800", "Cobb County / ZIP 30127 sector", "Cobb County / elevation 938 ft band"]
-zillowHomeValueUsd: 364141
 ---
 
-**Engineering Notice for Powder Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
+**Engineering Notice for Powder Springs:** Supply line, cleanout, and water heater scope recorded at 938 ft elevation context (Cobb County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Emergency plumbing technician service in Powder Springs, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Cobb County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Powder Springs, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

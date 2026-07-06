@@ -12,11 +12,14 @@ lng: -93.6100
 zipSample: ["55318"]
 zipCodes: ["55318"]
 localPaths: ["Carver County / ZIP 55318 sector", "Carver County / coords 44.8200, -93.6100", "Carver County / primary ZIP 55318", "Carver County / elevation 922 ft band"]
-zillowHomeValueUsd: 478762
 ---
 
-**Engineering Notice for Chaska:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carver County.
+**Engineering Notice for Chaska:** Supply line, cleanout, and water heater scope recorded at 922 ft elevation context (Carver County).
 
+
+Burst pipe and drain clog calls in Chaska, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Carver County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Chaska, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Chaska, MN irrigation zones need backflow logs before line replacement.
 

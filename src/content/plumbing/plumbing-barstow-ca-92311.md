@@ -12,11 +12,14 @@ lng: -117.0500
 zipSample: ["92311"]
 zipCodes: ["92311"]
 localPaths: ["San Bernardino County / ZIP 92311 sector", "San Bernardino County / elevation 2680 ft band", "San Bernardino County / coords 34.8700, -117.0500", "San Bernardino County / primary ZIP 92311"]
-zillowHomeValueUsd: 263394
 ---
 
-**Engineering Notice for Barstow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Barstow:** Supply line, cleanout, and water heater scope recorded at 2680 ft elevation context (San Bernardino County).
 
+
+Burst pipe and drain clog calls in Barstow, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Barstow, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Hose bib split patterns in Barstow, CA often follow missed winterization.
 
@@ -47,6 +50,8 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Supply audit 512411: curb-stop orientation and hose-bib freeze flag reviewed for Barstow, CA at coords 34.8700/-117.0500.
 
 Pressure trace 512411: meter-pit clearance and dielectric union checklist staged for Barstow, CA near elevation 2680 ft.
+
+Plumbing remediation brief: hose bib freeze flag and jetter nozzle envelope were cross-checked for the Barstow pipe and leak scope.
 
 Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Barstow, CA before niche-specific work begins.
 

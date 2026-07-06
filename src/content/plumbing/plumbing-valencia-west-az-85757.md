@@ -12,11 +12,14 @@ lng: -111.1100
 zipSample: ["85757"]
 zipCodes: ["85757"]
 localPaths: ["Pima County / primary ZIP 85757", "Pima County / coords 32.1400, -111.1100", "Pima County / elevation 2484 ft band", "Pima County / ZIP 85757 sector"]
-zillowHomeValueUsd: 324460
 ---
 
-**Engineering Notice for Valencia West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Valencia West:** Supply line, cleanout, and water heater scope recorded at 2484 ft elevation context (Pima County).
 
+
+Certified plumbing crews serving Valencia West, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Valencia West, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pima County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Water heater T&P discharge paths in Valencia West, AZ must terminate safely before replacement quotes.
 
@@ -32,7 +35,7 @@ FAQ: Is hydro-jetting always appropriate? In Valencia West, AZ, pipe material an
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Branch wet vents in Valencia West, AZ can mask gurgling as a main-line issue.
 
@@ -43,6 +46,8 @@ Risk flag: Seasonal Valencia West, AZ irrigation cross-connections can mask dome
 Step: camera-pass main lines in Valencia West, AZ before jetting older clay or cast iron.
 
 Supply audit 975995: curb-stop orientation and hose-bib freeze flag reviewed for Valencia West, AZ at coords 32.1400/-111.1100.
+
+Scope trace: copper pinhole cluster plus toilet flange spacer kit referenced in Pima County drain and water line review.
 
 On-site sector marker: Pima County / primary ZIP 85757 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -115.2700
 zipSample: ["89145", "89140", "89138", "89137", "89107"]
 zipCodes: ["89130", "89155", "89125", "89151", "89127", "89101", "89163", "89128", "89143", "89152", "89149", "89105"]
 localPaths: ["Clark County / ZIP 89140 sector", "Clark County / primary ZIP 89146", "Clark County / elevation 2362 ft band", "Clark County / ZIP 89107 sector", "Clark County / ZIP 89138 sector"]
-zillowHomeValueUsd: 400964
 ---
 
-**Engineering Notice for Las Vegas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Las Vegas:** Emergency leak and drain triage uses ~139 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Las Vegas, NV often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Clark County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Las Vegas, NV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,8 +50,6 @@ Stack vent offsets in Las Vegas, NV older duplexes can mask tub gurgle as a main
 Pressure trace 695879: meter-pit clearance and dielectric union checklist staged for Las Vegas, NV near elevation 2362 ft.
 
 Intake ledger 695879: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Las Vegas, NV at 36.2300, -115.2700.
-
-Field routing: toilet flange spacer kit paired with slab leak listening window near ZIP 89146.
 
 On-site sector marker: Clark County / ZIP 89130 sector — logged for map parity and ZIP-corridor verification.
 

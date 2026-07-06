@@ -12,11 +12,14 @@ lng: -118.1000
 zipSample: ["91776", "91778", "91775"]
 zipCodes: ["91778", "91775", "91776"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / ZIP 91776 sector", "Los Angeles County / primary ZIP 91775", "Los Angeles County / coords 34.0900, -118.1000", "Los Angeles County / elevation 407 ft band"]
-zillowHomeValueUsd: 1282414
 ---
 
-**Engineering Notice for San Gabriel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Gabriel:** Supply line, cleanout, and water heater scope recorded at 407 ft elevation context (Los Angeles County).
 
+
+Burst pipe and drain clog calls in San Gabriel, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in San Gabriel, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -28,7 +31,7 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We coordinate San Gabriel, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate San Gabriel, CA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 91775.
 
@@ -46,7 +49,7 @@ Hydrostatic holds in San Gabriel, CA slab circuits run overnight when listening 
 
 Supply audit 750015: curb-stop orientation and hose-bib freeze flag reviewed for San Gabriel, CA at coords 34.0900/-118.1000.
 
-Scope trace: slab leak listening window plus PEX expansion ring batch referenced in Los Angeles County county grid review.
+Scope trace: slab leak listening window plus PEX expansion ring batch referenced in Los Angeles County drain and water line review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~407 ft across the Los Angeles County area. Coordinates: 34.0900, -118.1000. ZIP sample: 91778, 91775, 91776. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 91775 grid.
 

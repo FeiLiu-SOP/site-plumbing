@@ -12,11 +12,14 @@ lng: -75.5200
 zipSample: ["19902", "19906", "19905", "19901", "19904"]
 zipCodes: ["19904", "19905", "19901", "19906", "19902"]
 localPaths: ["Kent County / ZIP 19902 sector", "Kent County / elevation 13 ft band", "Kent County / ZIP 19906 sector", "Kent County / ZIP 19904 sector", "Kent County / ZIP 19901 sector"]
-zillowHomeValueUsd: 341239
 ---
 
-**Engineering Notice for Dover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Dover:** Supply line, cleanout, and water heater scope recorded at 13 ft elevation context (Kent County).
 
+
+When a main line backs up in Dover, DE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Dover, DE may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kent County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Dover, DE can back-siphon domestic lines during 
 Dual-water-meter setups in Dover, DE irrigation zones need backflow logs before line replacement.
 
 Pressure trace 981813: meter-pit clearance and dielectric union checklist staged for Dover, DE near elevation 13 ft.
-
-Field routing: shower cartridge seat score paired with jetter nozzle envelope near ZIP 19902.
 
 Coordinate-anchored dispatch note: center reference 39.1600, -75.5200 at elevation ~13 ft aligns with Kent County intake staging.
 

@@ -12,11 +12,14 @@ lng: -105.0600
 zipSample: ["80539", "80538", "80537"]
 zipCodes: ["80538", "80539", "80537"]
 localPaths: ["Larimer County / ZIP 80538 sector", "Larimer County / ZIP 80539 sector", "Larimer County / elevation 5003 ft band", "Larimer County / ZIP 80537 sector", "Larimer County / primary ZIP 80537"]
-zillowHomeValueUsd: 497694
 ---
 
-**Engineering Notice for Loveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Larimer County.
+**Engineering Notice for Loveland:** Supply line, cleanout, and water heater scope recorded at 5003 ft elevation context (Larimer County).
 
+
+Burst pipe and drain clog calls in Loveland, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Larimer County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Loveland, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless sleeve pulls near Loveland, CO require pit shoring notes when water tables are high.
 
@@ -43,6 +46,8 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 FAQ: When should sump battery backups be load-tested? In Loveland, CO, before spring thaw and hurricane remnants.
 
 Lineage note 874051: recirculation pump amp draw captured before Loveland, CO branch isolation.
+
+Plumbing restoration brief: copper pinhole cluster and slab penetration sleeve seal were cross-checked for the Loveland pipe and leak scope.
 
 On-site sector marker: Larimer County / coords 40.4200, -105.0600 — logged for map parity and ZIP-corridor verification.
 

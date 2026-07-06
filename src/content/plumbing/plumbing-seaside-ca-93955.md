@@ -12,11 +12,14 @@ lng: -121.8200
 zipSample: ["93955"]
 zipCodes: ["93955"]
 localPaths: ["Monterey County / elevation 272 ft band", "Monterey County / ZIP 93955 sector", "Monterey County / primary ZIP 93955", "Monterey County / coords 36.6200, -121.8200"]
-zillowHomeValueUsd: 801989
 ---
 
-**Engineering Notice for Seaside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
+**Engineering Notice for Seaside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Monterey County.
 
+
+Burst pipe and drain clog calls in Seaside, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Monterey County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Seaside, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -48,7 +51,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Supply audit 255444: curb-stop orientation and hose-bib freeze flag reviewed for Seaside, CA at coords 36.6200/-121.8200.
 
-Scope trace: branch wet vent geometry plus slab penetration sleeve seal referenced in Monterey County county grid review.
+Scope trace: branch wet vent geometry plus slab penetration sleeve seal referenced in Monterey County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 36.6200, -121.8200 at elevation ~272 ft aligns with Monterey County intake staging.
 

@@ -12,11 +12,14 @@ lng: -83.1000
 zipSample: ["48071"]
 zipCodes: ["48071"]
 localPaths: ["Oakland County / elevation 633 ft band", "Oakland County / coords 42.5100, -83.1000", "Oakland County / ZIP 48071 sector", "Oakland County / primary ZIP 48071"]
-zillowHomeValueUsd: 219550
 ---
 
-**Engineering Notice for Madison Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Madison Heights:** Supply line, cleanout, and water heater scope recorded at 633 ft elevation context (Oakland County).
 
+
+Licensed plumbing crews serving Madison Heights, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Madison Heights, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Cast-iron hub corrosion in Madison Heights, MI often concentrates at the third joint upstream of the cleanout.
 
@@ -47,6 +50,8 @@ Step: document dielectric unions before mixed-metal replacements.
 Fixture roster 664010: toilet flange spacer kit and shower cartridge seat score queued for Madison Heights, MI walk-through.
 
 Drain map 664010: camera-pass priority and expansion-tank pre-charge noted for Madison Heights, MI postal sector 48071.
+
+Local service note: jetter nozzle envelope paired with branch wet vent geometry near ZIP 48071 for emergency licensed plumber repairs.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Oakland County and primary ZIP 48071. Terrain reference: 633 ft. Center point: 42.5100, -83.1000. ZIP sample: 48071. Regional routing note: Oakland County traffic flow is balanced around ZIP 48071 service demand.
 

@@ -12,11 +12,14 @@ lng: -92.9600
 zipSample: ["71910", "71909"]
 zipCodes: ["71910", "71909"]
 localPaths: ["Garland County / coords 34.6600, -92.9600", "Garland County / ZIP 71909 sector", "Garland County / primary ZIP 71909", "Garland County / ZIP 71910 sector", "Garland County / elevation 650 ft band"]
-zillowHomeValueUsd: 305707
 ---
 
-**Engineering Notice for Hot Springs Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Garland County.
+**Engineering Notice for Hot Springs Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Garland County.
 
+
+Plumbing remediation in Hot Springs Village, AR, Garland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Hot Springs Village, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Garland County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Expansion tank pre-charge loss in Hot Springs Village, AR often tracks heater replacement deferrals.
 
@@ -49,6 +52,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Lineage note 617318: recirculation pump amp draw captured before Hot Springs Village, AR branch isolation.
 
 Supply audit 617318: curb-stop orientation and hose-bib freeze flag reviewed for Hot Springs Village, AR at coords 34.6600/-92.9600.
+
+Scope trace: sewer cleanout cap thread plus branch wet vent geometry referenced in Garland County drain and water line review.
 
 Primary postal anchor 71909 with multi-ZIP overlap in Hot Springs Village; field packets tag Garland County for county-grid reconciliation.
 

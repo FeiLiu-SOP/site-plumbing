@@ -12,11 +12,14 @@ lng: -85.8100
 zipSample: ["36201", "36204", "36206", "36207", "36205"]
 zipCodes: ["36204", "36207", "36205", "36201", "36206"]
 localPaths: ["Calhoun County / ZIP 36206 sector", "Calhoun County / ZIP 36201 sector", "Calhoun County / ZIP 36207 sector", "Calhoun County / ZIP 36205 sector", "Calhoun County / coords 33.6700, -85.8100"]
-zillowHomeValueUsd: 69360
 ---
 
-**Engineering Notice for Anniston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Anniston:** Emergency leak and drain triage uses ~160 mg/L hardness context with Calhoun County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Anniston, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Anniston, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Calhoun County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,6 +50,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Anniston, AL systems need rebalancing.
 
 Supply audit 694761: curb-stop orientation and hose-bib freeze flag reviewed for Anniston, AL at coords 33.6700/-85.8100.
+
+Plumbing remediation brief: shower cartridge seat score and branch wet vent geometry were cross-checked for the Anniston pipe and leak scope.
 
 On-site sector marker: Calhoun County / ZIP 36207 sector — logged for map parity and ZIP-corridor verification.
 

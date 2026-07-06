@@ -12,11 +12,14 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / primary ZIP 76034", "Tarrant County / elevation 653 ft band", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / ZIP 76034 sector"]
-zillowHomeValueUsd: 912160
 ---
 
-**Engineering Notice for Colleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Colleyville:** Emergency leak and drain triage uses ~172 mg/L hardness context with Tarrant County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Colleyville, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tarrant County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Colleyville, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless sleeve pulls near Colleyville, TX require pit shoring notes when water tables are high.
 
@@ -46,7 +49,7 @@ Supply audit 884914: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Flow dossier 884914: branch wet-vent geometry and jetting nozzle envelope logged for Colleyville, TX county grid Tarrant County (ZIP 76034).
 
-Scope trace: meter pit clearance plus jetter nozzle envelope referenced in Tarrant County county grid review.
+Scope trace: meter pit clearance plus jetter nozzle envelope referenced in Tarrant County drain and water line review.
 
 On-site sector marker: Tarrant County / ZIP 76034 sector — logged for map parity and ZIP-corridor verification.
 

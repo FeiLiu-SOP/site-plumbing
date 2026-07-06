@@ -12,11 +12,14 @@ lng: -73.7500
 zipSample: ["10605", "10602", "10601", "10606", "10604"]
 zipCodes: ["10601", "10603", "10604", "10602", "10606", "10605"]
 localPaths: ["Westchester County / ZIP 10601 sector", "Westchester County / ZIP 10606 sector", "Westchester County / elevation 259 ft band", "Westchester County / coords 41.0200, -73.7500", "Westchester County / ZIP 10604 sector"]
-zillowHomeValueUsd: 652962
 ---
 
-**Engineering Notice for White Plains:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.
+**Engineering Notice for White Plains:** Emergency leak and drain triage uses ~171 mg/L hardness context with Westchester County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving White Plains, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in White Plains, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Westchester County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In White Plains, NY, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -46,7 +49,7 @@ Flow dossier 573445: branch wet-vent geometry and jetting nozzle envelope logged
 
 Pressure trace 573445: meter-pit clearance and dielectric union checklist staged for White Plains, NY near elevation 259 ft.
 
-Scope trace: PEX expansion ring batch plus fixture shutoff torque log referenced in Westchester County county grid review.
+Scope trace: PEX expansion ring batch plus fixture shutoff torque log referenced in Westchester County drain and water line review.
 
 On-site sector marker: Westchester County / ZIP 10603 sector — logged for map parity and ZIP-corridor verification.
 

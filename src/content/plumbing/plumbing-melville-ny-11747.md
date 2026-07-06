@@ -12,13 +12,16 @@ lng: -73.4100
 zipSample: ["11775", "11747"]
 zipCodes: ["11747", "11775"]
 localPaths: ["Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / ZIP 11747 sector", "Suffolk County / coords 40.7800, -73.4100", "Suffolk County / elevation 135 ft band"]
-zillowHomeValueUsd: 870063
 ---
 
-**Engineering Notice for Melville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Melville:** Emergency leak and drain triage uses ~122 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Melville, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Suffolk County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Melville, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: map sump float travel and check-valve orientation for Melville, NY basements.
 
@@ -47,8 +50,6 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Lineage note 941835: recirculation pump amp draw captured before Melville, NY branch isolation.
-
-Field routing: sump float travel paired with backflow test cock orientation near ZIP 11747.
 
 Coordinate-anchored dispatch note: center reference 40.7800, -73.4100 at elevation ~135 ft aligns with Suffolk County intake staging.
 

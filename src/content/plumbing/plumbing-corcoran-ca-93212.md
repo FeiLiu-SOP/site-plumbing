@@ -12,11 +12,14 @@ lng: -119.5600
 zipSample: ["93212"]
 zipCodes: ["93212"]
 localPaths: ["Kings County / ZIP 93212 sector", "Kings County / primary ZIP 93212", "Kings County / coords 36.0800, -119.5600", "Kings County / elevation 203 ft band"]
-zillowHomeValueUsd: 268909
 ---
 
-**Engineering Notice for Corcoran:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
+**Engineering Notice for Corcoran:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kings County.
 
+
+Plumbing restoration in Corcoran, CA, Kings County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Corcoran, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kings County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -38,7 +41,7 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 93212.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch packets reference county grid Kings County near ZIP 93212.
+Our Corcoran, CA service packets reference Kings County near ZIP 93212 for pipe and leak scope.
 
 Cast-iron hub corrosion in Corcoran, CA often concentrates at the third joint upstream of the cleanout.
 
@@ -50,7 +53,7 @@ Lineage note 663433: recirculation pump amp draw captured before Corcoran, CA br
 
 Drain map 663433: camera-pass priority and expansion-tank pre-charge noted for Corcoran, CA postal sector 93212.
 
-plumbing brief: meter pit clearance and backflow test cock orientation were cross-checked for the Corcoran intake packet.
+Plumbing restoration brief: meter pit clearance and backflow test cock orientation were cross-checked for the Corcoran pipe and leak scope.
 
 On-site sector marker: Kings County / elevation 203 ft band — logged for map parity and ZIP-corridor verification.
 

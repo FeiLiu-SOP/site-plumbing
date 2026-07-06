@@ -12,11 +12,14 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75225", "75205", "75275"]
 localPaths: ["Dallas County / primary ZIP 75225", "Dallas County / coords 32.8500, -96.7900", "Dallas County / ZIP 75275 sector", "Dallas County / elevation 571 ft band", "Dallas County / ZIP 75205 sector"]
-zillowHomeValueUsd: 2057943
 ---
 
-**Engineering Notice for University Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for University Park:** Emergency leak and drain triage uses ~140 mg/L hardness context with Dallas County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in University Park, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Dallas County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing remediation in University Park, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

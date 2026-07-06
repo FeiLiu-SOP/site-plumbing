@@ -12,13 +12,16 @@ lng: -77.5600
 zipSample: ["20105"]
 zipCodes: ["20105"]
 localPaths: ["Loudoun County / coords 38.9300, -77.5600", "Loudoun County / primary ZIP 20105", "Loudoun County / elevation 344 ft band", "Loudoun County / ZIP 20105 sector"]
-zillowHomeValueUsd: 1102694
 ---
 
-**Engineering Notice for Stone Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Stone Ridge:** Emergency leak and drain triage uses ~160 mg/L hardness context with Loudoun County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Stone Ridge, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Loudoun County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Stone Ridge, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Loudoun County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Stone Ridge, VA.
 
@@ -49,8 +52,6 @@ Permit note: Main water line replacement in Stone Ridge, VA may require ROW rest
 Lineage note 791403: recirculation pump amp draw captured before Stone Ridge, VA branch isolation.
 
 Pressure trace 791403: meter-pit clearance and dielectric union checklist staged for Stone Ridge, VA near elevation 344 ft.
-
-plumbing brief: branch wet vent geometry and floor drain trap primer drip were cross-checked for the Stone Ridge intake packet.
 
 On-site sector marker: Loudoun County / ZIP 20105 sector — logged for map parity and ZIP-corridor verification.
 

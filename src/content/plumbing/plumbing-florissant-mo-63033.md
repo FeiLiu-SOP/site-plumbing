@@ -12,13 +12,16 @@ lng: -90.3300
 zipSample: ["63031", "63033", "63032"]
 zipCodes: ["63033", "63031", "63032"]
 localPaths: ["St. Louis County / ZIP 63032 sector", "St. Louis County / ZIP 63033 sector", "St. Louis County / coords 38.8000, -90.3300", "St. Louis County / elevation 535 ft band", "St. Louis County / primary ZIP 63033"]
-zillowHomeValueUsd: 196450
 ---
 
-**Engineering Notice for Florissant:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Florissant:** Emergency leak and drain triage uses ~116 mg/L hardness context with St. Louis County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Florissant, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing remediation in Florissant, MO, St. Louis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydrostatic holds in Florissant, MO slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -26,7 +29,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

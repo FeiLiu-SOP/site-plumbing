@@ -12,15 +12,18 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / ZIP 07070 sector", "Bergen County / primary ZIP 07070", "Bergen County / coords 40.8200, -74.1100", "Bergen County / elevation 72 ft band"]
-zillowHomeValueUsd: 738686
 ---
 
-**Engineering Notice for Rutherford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Rutherford:** Supply line, cleanout, and water heater scope recorded at 72 ft elevation context (Bergen County).
 
+
+Burst pipe and drain clog calls in Rutherford, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Rutherford, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Fixture shutoff stiffness in Rutherford, NJ may indicate mineral bridging behind stems.
 
-Dispatch packets reference county grid Bergen County near ZIP 07070.
+Our Rutherford, NJ service packets reference Bergen County near ZIP 07070 for pipe and leak scope.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -44,7 +47,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Fixture roster 945381: toilet flange spacer kit and shower cartridge seat score queued for Rutherford, NJ walk-through.
 
-Scope trace: sump float travel plus cleanout riser height referenced in Bergen County county grid review.
+Scope trace: sump float travel plus cleanout riser height referenced in Bergen County drain and water line review.
 
 ZIP-corridor snapshot for Rutherford, NJ: sampled sectors include 07070; county routing grid remains Bergen County.
 

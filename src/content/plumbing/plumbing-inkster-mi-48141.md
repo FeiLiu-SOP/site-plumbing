@@ -12,15 +12,18 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48141", "Wayne County / coords 42.2900, -83.3100", "Wayne County / ZIP 48141 sector"]
-zillowHomeValueUsd: 108033
 ---
 
-**Engineering Notice for Inkster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Inkster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wayne County.
 
+
+When a main line backs up in Inkster, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Inkster, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -49,8 +52,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Drain map 755187: camera-pass priority and expansion-tank pre-charge noted for Inkster, MI postal sector 48141.
 
 Fixture roster 755187: toilet flange spacer kit and shower cartridge seat score queued for Inkster, MI walk-through.
-
-plumbing brief: dielectric union checklist and jetter nozzle envelope were cross-checked for the Inkster intake packet.
 
 Primary postal anchor 48141 with multi-ZIP overlap in Inkster; field packets tag Wayne County for county-grid reconciliation.
 

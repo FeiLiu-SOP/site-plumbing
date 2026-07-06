@@ -12,11 +12,14 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / ZIP 95035 sector", "Santa Clara County / primary ZIP 95035", "Santa Clara County / elevation 30 ft band"]
-zillowHomeValueUsd: 1501892
 ---
 
-**Engineering Notice for Milpitas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Milpitas:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Santa Clara County).
 
+
+Qualified plumbing crews serving Milpitas, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Milpitas, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Clara County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -44,11 +47,11 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 FAQ: Is hydro-jetting always appropriate? In Milpitas, CA, pipe material and blockage type dictate method.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 959459: toilet flange spacer kit and shower cartridge seat score queued for Milpitas, CA walk-through.
 
-Scope trace: jetter nozzle envelope plus slab penetration sleeve seal referenced in Santa Clara County county grid review.
+Scope trace: jetter nozzle envelope plus slab penetration sleeve seal referenced in Santa Clara County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 37.4300, -121.8900 at elevation ~30 ft aligns with Santa Clara County intake staging.
 

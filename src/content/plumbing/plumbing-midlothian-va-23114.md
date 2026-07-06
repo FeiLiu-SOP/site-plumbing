@@ -12,11 +12,14 @@ lng: -77.6500
 zipSample: ["23113", "23114"]
 zipCodes: ["23114", "23113"]
 localPaths: ["Chesterfield County / primary ZIP 23114", "Chesterfield County / coords 37.4900, -77.6500", "Chesterfield County / ZIP 23113 sector", "Chesterfield County / ZIP 23114 sector", "Chesterfield County / elevation 285 ft band"]
-zillowHomeValueUsd: 466274
 ---
 
-**Engineering Notice for Midlothian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chesterfield County.
+**Engineering Notice for Midlothian:** Emergency leak and drain triage uses ~174 mg/L hardness context with Chesterfield County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Midlothian, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Midlothian, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Trenchless pulls in Midlothian, VA require pit dimensions verified against utility locate marks.
 
@@ -46,7 +49,7 @@ Flow dossier 430772: branch wet-vent geometry and jetting nozzle envelope logged
 
 Pressure trace 430772: meter-pit clearance and dielectric union checklist staged for Midlothian, VA near elevation 285 ft.
 
-Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Chesterfield County county grid review.
+Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Chesterfield County drain and water line review.
 
 On-site sector marker: Chesterfield County / elevation 285 ft band — logged for map parity and ZIP-corridor verification.
 

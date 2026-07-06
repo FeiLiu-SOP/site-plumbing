@@ -12,17 +12,20 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60187", "60189"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / coords 41.8600, -88.1100", "DuPage County / primary ZIP 60187", "DuPage County / ZIP 60189 sector", "DuPage County / ZIP 60187 sector"]
-zillowHomeValueUsd: 490758
 ---
 
-**Engineering Notice for Wheaton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Wheaton:** Supply line, cleanout, and water heater scope recorded at 761 ft elevation context (DuPage County).
 
+
+When a main line backs up in Wheaton, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Wheaton, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Wheaton, IL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,8 +46,6 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Intake ledger 648366: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wheaton, IL at 41.8600, -88.1100.
-
-Scope trace: cleanout riser height plus fixture shutoff torque log referenced in DuPage County county grid review.
 
 On-site sector marker: DuPage County / coords 41.8600, -88.1100 — logged for map parity and ZIP-corridor verification.
 

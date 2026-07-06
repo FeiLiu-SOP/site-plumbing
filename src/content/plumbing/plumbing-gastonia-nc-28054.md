@@ -12,11 +12,14 @@ lng: -81.1900
 zipSample: ["28054", "28052", "28056"]
 zipCodes: ["28056", "28054", "28052"]
 localPaths: ["Gaston County / ZIP 28056 sector", "Gaston County / primary ZIP 28054", "Gaston County / coords 35.2500, -81.1900", "Gaston County / ZIP 28054 sector", "Gaston County / elevation 768 ft band"]
-zillowHomeValueUsd: 270923
 ---
 
-**Engineering Notice for Gastonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.
+**Engineering Notice for Gastonia:** Supply line, cleanout, and water heater scope recorded at 768 ft elevation context (Gaston County).
 
+
+Burst pipe and drain clog calls in Gastonia, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gaston County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Gastonia, NC, Gaston County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Gastonia, NC should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -38,7 +41,7 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 28054.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,8 +50,6 @@ Irrigation cross-connections in Gastonia, NC can back-siphon domestic lines duri
 Supply audit 785561: curb-stop orientation and hose-bib freeze flag reviewed for Gastonia, NC at coords 35.2500/-81.1900.
 
 Pressure trace 785561: meter-pit clearance and dielectric union checklist staged for Gastonia, NC near elevation 768 ft.
-
-Scope trace: gas water heater draft hood gap plus recirculation pump amp draw referenced in Gaston County county grid review.
 
 On-site sector marker: Gaston County / elevation 768 ft band — logged for map parity and ZIP-corridor verification.
 

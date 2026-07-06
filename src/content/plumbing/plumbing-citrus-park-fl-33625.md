@@ -12,11 +12,14 @@ lng: -82.5600
 zipSample: ["33556", "33625"]
 zipCodes: ["33556", "33625"]
 localPaths: ["Hillsborough County / ZIP 33556 sector", "Hillsborough County / ZIP 33625 sector", "Hillsborough County / primary ZIP 33625", "Hillsborough County / coords 28.0700, -82.5600", "Hillsborough County / elevation 56 ft band"]
-zillowHomeValueUsd: 426969
 ---
 
-**Engineering Notice for Citrus Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Citrus Park:** Emergency leak and drain triage uses ~167 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Citrus Park, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Citrus Park, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Water heater T&P discharge paths in Citrus Park, FL must terminate safely before replacement quotes.
 
@@ -45,6 +48,8 @@ FAQ: When should sump battery backups be load-tested? In Citrus Park, FL, before
 Supply audit 926525: curb-stop orientation and hose-bib freeze flag reviewed for Citrus Park, FL at coords 28.0700/-82.5600.
 
 Intake ledger 926525: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Citrus Park, FL at 28.0700, -82.5600.
+
+Plumbing restoration brief: slab leak listening window and water softener bypass lever were cross-checked for the Citrus Park pipe and leak scope.
 
 On-site sector marker: Hillsborough County / primary ZIP 33625 — logged for map parity and ZIP-corridor verification.
 

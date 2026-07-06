@@ -12,11 +12,14 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / ZIP 04106 sector", "Cumberland County / elevation 33 ft band", "Cumberland County / primary ZIP 04106", "Cumberland County / coords 43.6300, -70.2900"]
-zillowHomeValueUsd: 518084
 ---
 
-**Engineering Notice for South Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.
+**Engineering Notice for South Portland:** Emergency leak and drain triage uses ~152 mg/L hardness context with Cumberland County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving South Portland, ME review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in South Portland, ME may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cumberland County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with South Portland, ME hardness profiles.
 
@@ -49,8 +52,6 @@ Irrigation cross-connections in South Portland, ME can back-siphon domestic line
 Intake ledger 311186: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Portland, ME at 43.6300, -70.2900.
 
 Lineage note 311186: recirculation pump amp draw captured before South Portland, ME branch isolation.
-
-Scope trace: slab leak listening window plus backflow test cock orientation referenced in Cumberland County county grid review.
 
 Primary postal anchor 04106 with multi-ZIP overlap in South Portland; field packets tag Cumberland County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -74.0000
 zipSample: ["12401", "12402"]
 zipCodes: ["12402", "12401"]
 localPaths: ["Ulster County / ZIP 12401 sector", "Ulster County / ZIP 12402 sector", "Ulster County / primary ZIP 12401", "Ulster County / elevation 190 ft band", "Ulster County / coords 41.9300, -74.0000"]
-zillowHomeValueUsd: 380942
 ---
 
-**Engineering Notice for Kingston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ulster County.
+**Engineering Notice for Kingston:** Emergency leak and drain triage uses ~166 mg/L hardness context with Ulster County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Kingston, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Kingston, NY, Ulster County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -47,8 +50,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 124
 Pressure trace 796046: meter-pit clearance and dielectric union checklist staged for Kingston, NY near elevation 190 ft.
 
 Drain map 796046: camera-pass priority and expansion-tank pre-charge noted for Kingston, NY postal sector 12401.
-
-Scope trace: sewer cleanout cap thread plus gas water heater draft hood gap referenced in Ulster County county grid review.
 
 Primary postal anchor 12401 with multi-ZIP overlap in Kingston; field packets tag Ulster County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / ZIP 55304 sector", "Anoka County / coords 45.2600, -93.3300", "Anoka County / primary ZIP 55304"]
-zillowHomeValueUsd: 451276
 ---
 
-**Engineering Notice for Andover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
+**Engineering Notice for Andover:** Supply line, cleanout, and water heater scope recorded at 876 ft elevation context (Anoka County).
 
+
+Burst pipe and drain clog calls in Andover, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anoka County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Andover, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 55304.
 
@@ -30,7 +33,7 @@ Permit note: Main water line replacement in Andover, MN may require ROW restorat
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch packets reference county grid Anoka County near ZIP 55304.
+Our Andover, MN service packets reference Anoka County near ZIP 55304 for pipe and leak scope.
 
 Irrigation cross-connections in Andover, MN can back-siphon domestic lines during main breaks.
 

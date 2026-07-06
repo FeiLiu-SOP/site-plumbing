@@ -12,11 +12,14 @@ lng: -96.6800
 zipSample: ["68505", "68583", "68508", "68503", "68514"]
 zipCodes: ["68506", "68521", "68529", "68544", "68508", "68516", "68542", "68583", "68588", "68503", "68524", "68526"]
 localPaths: ["Lancaster County / ZIP 68503 sector", "Lancaster County / ZIP 68508 sector", "Lancaster County / primary ZIP 68528", "Lancaster County / elevation 1224 ft band", "Lancaster County / ZIP 68583 sector"]
-zillowHomeValueUsd: 287536
 ---
 
-**Engineering Notice for Lincoln:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lancaster County.
+**Engineering Notice for Lincoln:** Supply line, cleanout, and water heater scope recorded at 1224 ft elevation context (Lancaster County).
 
+
+Burst pipe and drain clog calls in Lincoln, NE may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lancaster County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Lincoln, NE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,8 +52,6 @@ CPVC solvent weld times shift with ambient humidity during Lincoln, NE shoulder 
 Drain map 942431: camera-pass priority and expansion-tank pre-charge noted for Lincoln, NE postal sector 68528.
 
 Pressure trace 942431: meter-pit clearance and dielectric union checklist staged for Lincoln, NE near elevation 1224 ft.
-
-plumbing brief: backflow test cock orientation and floor drain trap primer drip were cross-checked for the Lincoln intake packet.
 
 On-site sector marker: Lancaster County / ZIP 68512 sector — logged for map parity and ZIP-corridor verification.
 

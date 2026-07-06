@@ -12,11 +12,14 @@ lng: -74.1100
 zipSample: ["07450", "07451"]
 zipCodes: ["07450", "07451"]
 localPaths: ["Bergen County / elevation 102 ft band", "Bergen County / ZIP 07450 sector", "Bergen County / primary ZIP 07450", "Bergen County / ZIP 07451 sector", "Bergen County / coords 40.9800, -74.1100"]
-zillowHomeValueUsd: 1199711
 ---
 
-**Engineering Notice for Ridgewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Ridgewood:** Supply line, cleanout, and water heater scope recorded at 102 ft elevation context (Bergen County).
 
+
+Certified plumbing crews serving Ridgewood, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Ridgewood, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -45,8 +48,6 @@ Polybutylene manifold tags in Ridgewood, NJ basements should be photographed bef
 Step: tag shutoffs and meter orientation before opening walls.
 
 Intake ledger 616561: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ridgewood, NJ at 40.9800, -74.1100.
-
-Scope trace: branch wet vent geometry plus scale coupon sampling referenced in Bergen County county grid review.
 
 On-site sector marker: Bergen County / ZIP 07451 sector — logged for map parity and ZIP-corridor verification.
 

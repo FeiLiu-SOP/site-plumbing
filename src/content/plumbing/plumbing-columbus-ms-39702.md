@@ -12,11 +12,14 @@ lng: -88.4100
 zipSample: ["39705", "39702", "39701"]
 zipCodes: ["39702", "39701", "39705"]
 localPaths: ["Lowndes County / coords 33.5100, -88.4100", "Lowndes County / primary ZIP 39702", "Lowndes County / ZIP 39705 sector", "Lowndes County / ZIP 39702 sector", "Lowndes County / ZIP 39701 sector"]
-zillowHomeValueUsd: 173312
 ---
 
-**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lowndes County.
+**Engineering Notice for Columbus:** Emergency leak and drain triage uses ~177 mg/L hardness context with Lowndes County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Columbus, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lowndes County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Columbus, MS, Lowndes County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: Water heater anode type may change with Columbus, MS hardness profiles.
 
@@ -34,7 +37,7 @@ Polybutylene manifold tags in Columbus, MS basements should be photographed befo
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch packets reference county grid Lowndes County near ZIP 39702.
+Our Columbus, MS service packets reference Lowndes County near ZIP 39702 for pipe and leak scope.
 
 Frost-free sillcock failures in Columbus, MS often trace to interior shutoff seats, not exterior stems.
 
@@ -45,6 +48,8 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Pressure trace 429616: meter-pit clearance and dielectric union checklist staged for Columbus, MS near elevation 180 ft.
 
 Lineage note 429616: recirculation pump amp draw captured before Columbus, MS branch isolation.
+
+Plumbing remediation brief: dielectric union checklist and slab penetration sleeve seal were cross-checked for the Columbus pipe and leak scope.
 
 On-site sector marker: Lowndes County / ZIP 39701 sector — logged for map parity and ZIP-corridor verification.
 

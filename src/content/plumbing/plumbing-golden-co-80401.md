@@ -12,11 +12,14 @@ lng: -105.2100
 zipSample: ["80403", "80401", "80419"]
 zipCodes: ["80401", "80403", "80419"]
 localPaths: ["Jefferson County / primary ZIP 80401", "Jefferson County / ZIP 80401 sector", "Jefferson County / ZIP 80419 sector", "Jefferson County / elevation 5797 ft band", "Jefferson County / ZIP 80403 sector"]
-zillowHomeValueUsd: 837769
 ---
 
-**Engineering Notice for Golden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Golden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+Certified plumbing crews serving Golden, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Golden, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -38,7 +41,7 @@ Risk flag: Seasonal Golden, CO irrigation cross-connections can mask domestic pr
 
 Material note: Water heater anode type may change with Golden, CO hardness profiles.
 
-Dispatch packets reference county grid Jefferson County near ZIP 80401.
+Our Golden, CO service packets reference Jefferson County near ZIP 80401 for pipe and leak scope.
 
 Step: camera-pass main lines in Golden, CO before jetting older clay or cast iron.
 
@@ -46,7 +49,7 @@ Drain map 301874: camera-pass priority and expansion-tank pre-charge noted for G
 
 Intake ledger 301874: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Golden, CO at 39.7400, -105.2100.
 
-plumbing brief: slab penetration sleeve seal and hose bib freeze flag were cross-checked for the Golden intake packet.
+Plumbing restoration brief: slab penetration sleeve seal and hose bib freeze flag were cross-checked for the Golden pipe and leak scope.
 
 On-site sector marker: Jefferson County / coords 39.7400, -105.2100 — logged for map parity and ZIP-corridor verification.
 

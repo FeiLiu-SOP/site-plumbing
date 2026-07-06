@@ -12,11 +12,14 @@ lng: -118.1200
 zipSample: ["90712", "90714", "90713", "90715", "90711"]
 zipCodes: ["90712", "90711", "90713", "90714", "90715"]
 localPaths: ["Los Angeles County / elevation 69 ft band", "Los Angeles County / ZIP 90715 sector", "Los Angeles County / ZIP 90714 sector", "Los Angeles County / ZIP 90712 sector", "Los Angeles County / ZIP 90711 sector"]
-zillowHomeValueUsd: 822578
 ---
 
-**Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Burst pipe and drain clog calls in Lakewood, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Lakewood, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Step: document dielectric unions before mixed-metal replacements.
 

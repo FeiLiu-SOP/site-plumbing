@@ -12,11 +12,14 @@ lng: -84.6700
 zipSample: ["30101", "30144"]
 zipCodes: ["30101", "30144"]
 localPaths: ["Cobb County / ZIP 30101 sector", "Cobb County / primary ZIP 30144", "Cobb County / ZIP 30144 sector", "Cobb County / elevation 866 ft band", "Cobb County / coords 34.0600, -84.6700"]
-zillowHomeValueUsd: 382636
 ---
 
-**Engineering Notice for Acworth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
+**Engineering Notice for Acworth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cobb County.
 
+
+Burst pipe and drain clog calls in Acworth, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cobb County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Acworth, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless pulls in Acworth, GA require pit dimensions verified against utility locate marks.
 
@@ -40,7 +43,7 @@ In Acworth, GA, slab leaks often present as warm spots before wall stains appear
 
 Sewer gas odors in Acworth, GA should trigger trap seal and vent path review.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Acworth, GA.
 
@@ -50,7 +53,7 @@ Fixture roster 297099: toilet flange spacer kit and shower cartridge seat score 
 
 Intake ledger 297099: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Acworth, GA at 34.0600, -84.6700.
 
-Field routing: backflow test cock orientation paired with hose bib freeze flag near ZIP 30144.
+Local service note: backflow test cock orientation paired with hose bib freeze flag near ZIP 30144 for emergency plumbing pro repairs.
 
 Regional mesh label Cobb County: moisture and logistics baselines are keyed to Acworth, GA before niche-specific work begins.
 

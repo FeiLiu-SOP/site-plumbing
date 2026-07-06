@@ -12,11 +12,14 @@ lng: -80.7200
 zipSample: ["29903", "29901", "29906", "29902", "29904"]
 zipCodes: ["29902", "29941", "29904", "29903", "29906", "29901"]
 localPaths: ["Beaufort County / primary ZIP 29902", "Beaufort County / ZIP 29901 sector", "Beaufort County / elevation 43 ft band", "Beaufort County / ZIP 29902 sector", "Beaufort County / ZIP 29904 sector"]
-zillowHomeValueUsd: 418942
 ---
 
-**Engineering Notice for Beaufort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.
+**Engineering Notice for Beaufort:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (Beaufort County).
 
+
+Plumbing remediation in Beaufort, SC, Beaufort County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Beaufort, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Beaufort County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

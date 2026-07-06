@@ -12,11 +12,14 @@ lng: -93.3100
 zipSample: ["55433", "55448"]
 zipCodes: ["55448", "55433"]
 localPaths: ["Anoka County / coords 45.1800, -93.3100", "Anoka County / ZIP 55433 sector", "Anoka County / ZIP 55448 sector", "Anoka County / elevation 863 ft band", "Anoka County / primary ZIP 55433"]
-zillowHomeValueUsd: 316991
 ---
 
-**Engineering Notice for Coon Rapids:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
+**Engineering Notice for Coon Rapids:** Supply line, cleanout, and water heater scope recorded at 863 ft elevation context (Anoka County).
 
+
+Certified plumbing crews serving Coon Rapids, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Coon Rapids, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Anoka County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 55433.
 

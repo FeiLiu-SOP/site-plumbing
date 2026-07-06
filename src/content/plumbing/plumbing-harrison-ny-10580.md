@@ -12,11 +12,14 @@ lng: -73.7200
 zipSample: ["10604", "10528", "10577", "10580"]
 zipCodes: ["10577", "10580", "10528", "10604"]
 localPaths: ["Westchester County / ZIP 10604 sector", "Westchester County / primary ZIP 10580", "Westchester County / coords 41.0200, -73.7200", "Westchester County / ZIP 10580 sector", "Westchester County / ZIP 10577 sector"]
-zillowHomeValueUsd: 2216652
 ---
 
-**Engineering Notice for Harrison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.
+**Engineering Notice for Harrison:** Emergency leak and drain triage uses ~167 mg/L hardness context with Westchester County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Harrison, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Westchester County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Harrison, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Frost-free sillcock failures in Harrison, NY often trace to interior shutoff seats, not exterior stems.
 
@@ -43,8 +46,6 @@ Hose bib split patterns in Harrison, NY often follow missed winterization.
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Pressure trace 639615: meter-pit clearance and dielectric union checklist staged for Harrison, NY near elevation 230 ft.
-
-Field routing: copper pinhole cluster paired with slab leak listening window near ZIP 10580.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Westchester County and primary ZIP 10580. Terrain reference: 230 ft. Center point: 41.0200, -73.7200. ZIP sample: 10577, 10604, 10528, 10580. Logistics priority: Serving residential sectors across Westchester County and north-east ZIP 10580 grid.
 

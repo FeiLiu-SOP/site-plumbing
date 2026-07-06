@@ -12,11 +12,14 @@ lng: -94.1700
 zipSample: ["72704", "72703", "72701", "72702"]
 zipCodes: ["72701", "72704", "72703", "72702"]
 localPaths: ["Washington County / ZIP 72702 sector", "Washington County / primary ZIP 72704", "Washington County / ZIP 72701 sector", "Washington County / ZIP 72704 sector", "Washington County / coords 36.0700, -94.1700"]
-zillowHomeValueUsd: 361943
 ---
 
-**Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Fayetteville:** Emergency leak and drain triage uses ~150 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Fayetteville, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Washington County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing service in Fayetteville, AR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 72704.
 
@@ -24,7 +27,7 @@ Cast-iron hub corrosion in Fayetteville, AR often concentrates at the third join
 
 Water heater T&P discharge paths in Fayetteville, AR must terminate safely before replacement quotes.
 
-Dispatch packets reference county grid Washington County near ZIP 72704.
+Our Fayetteville, AR service packets reference Washington County near ZIP 72704 for pipe and leak scope.
 
 Permit note: Main water line replacement in Fayetteville, AR may require ROW restoration planning.
 
@@ -47,8 +50,6 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
 Intake ledger 345879: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fayetteville, AR at 36.0700, -94.1700.
-
-plumbing brief: water softener bypass lever and toilet flange spacer kit were cross-checked for the Fayetteville intake packet.
 
 On-site sector marker: Washington County / ZIP 72703 sector — logged for map parity and ZIP-corridor verification.
 

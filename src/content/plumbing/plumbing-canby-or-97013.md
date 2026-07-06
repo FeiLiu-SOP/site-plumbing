@@ -12,11 +12,14 @@ lng: -122.6900
 zipSample: ["97013"]
 zipCodes: ["97013"]
 localPaths: ["Clackamas County / elevation 144 ft band", "Clackamas County / coords 45.2700, -122.6900", "Clackamas County / primary ZIP 97013", "Clackamas County / ZIP 97013 sector"]
-zillowHomeValueUsd: 591262
 ---
 
-**Engineering Notice for Canby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Canby:** Emergency leak and drain triage uses ~144 mg/L hardness context with Clackamas County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Canby, OR, Clackamas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Canby, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Hydrostatic holds in Canby, OR slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,6 +48,8 @@ Trenchless pulls in Canby, OR require pit dimensions verified against utility lo
 Pressure trace 109829: meter-pit clearance and dielectric union checklist staged for Canby, OR near elevation 144 ft.
 
 Lineage note 109829: recirculation pump amp draw captured before Canby, OR branch isolation.
+
+Scope trace: slab penetration sleeve seal plus cleanout riser height referenced in Clackamas County drain and water line review.
 
 Primary postal anchor 97013 with multi-ZIP overlap in Canby; field packets tag Clackamas County for county-grid reconciliation.
 

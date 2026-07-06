@@ -12,11 +12,14 @@ lng: -121.4700
 zipSample: ["95824", "94250", "95823", "94203", "94262"]
 zipCodes: ["94267", "95851", "95815", "94240", "95838", "95828", "94298", "94278", "94244", "94209", "94287", "95825"]
 localPaths: ["Sacramento County / coords 38.5700, -121.4700", "Sacramento County / ZIP 94203 sector", "Sacramento County / ZIP 94262 sector", "Sacramento County / ZIP 95824 sector", "Sacramento County / ZIP 94250 sector"]
-zillowHomeValueUsd: 498702
 ---
 
-**Engineering Notice for Sacramento:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Sacramento:** Emergency leak and drain triage uses ~115 mg/L hardness context with Sacramento County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Sacramento, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Sacramento, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sacramento County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Irrigation cross-connections in Sacramento, CA can back-siphon domestic lines during main breaks.
 
@@ -46,7 +49,7 @@ Supply audit 322656: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Intake ledger 322656: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Sacramento, CA at 38.5700, -121.4700.
 
-Scope trace: shower cartridge seat score plus copper pinhole cluster referenced in Sacramento County county grid review.
+Scope trace: shower cartridge seat score plus copper pinhole cluster referenced in Sacramento County drain and water line review.
 
 On-site sector marker: Sacramento County / ZIP 94277 sector — logged for map parity and ZIP-corridor verification.
 

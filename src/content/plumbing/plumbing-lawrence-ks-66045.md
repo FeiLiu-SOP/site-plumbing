@@ -12,11 +12,14 @@ lng: -95.2600
 zipSample: ["66047", "66049", "66046", "66045", "66044"]
 zipCodes: ["66049", "66047", "66044", "66045", "66046"]
 localPaths: ["Douglas County / primary ZIP 66045", "Douglas County / ZIP 66044 sector", "Douglas County / ZIP 66047 sector", "Douglas County / ZIP 66045 sector", "Douglas County / coords 38.9600, -95.2600"]
-zillowHomeValueUsd: 391705
 ---
 
-**Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Lawrence:** Emergency leak and drain triage uses ~136 mg/L hardness context with Douglas County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Lawrence, KS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lawrence, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Douglas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Lawrence, KS slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -47,6 +50,8 @@ Expansion tank pre-charge loss in Lawrence, KS often tracks heater replacement d
 Pressure trace 635703: meter-pit clearance and dielectric union checklist staged for Lawrence, KS near elevation 1004 ft.
 
 Flow dossier 635703: branch wet-vent geometry and jetting nozzle envelope logged for Lawrence, KS county grid Douglas County (ZIP 66045).
+
+Local service note: water heater T&P path paired with sump float travel near ZIP 66045 for emergency licensed plumber repairs.
 
 On-site sector marker: Douglas County / ZIP 66046 sector — logged for map parity and ZIP-corridor verification.
 

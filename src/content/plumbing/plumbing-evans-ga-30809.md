@@ -12,11 +12,14 @@ lng: -82.1400
 zipSample: ["30809"]
 zipCodes: ["30809"]
 localPaths: ["Columbia County / ZIP 30809 sector", "Columbia County / elevation 364 ft band", "Columbia County / coords 33.5600, -82.1400", "Columbia County / primary ZIP 30809"]
-zillowHomeValueUsd: 403979
 ---
 
-**Engineering Notice for Evans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Columbia County.
+**Engineering Notice for Evans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Columbia County.
 
+
+Plumbing restoration in Evans, GA, Columbia County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Evans, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Columbia County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Hydro-jetting in Evans, GA requires camera confirmation before nozzle pressure is raised.
 
@@ -43,6 +46,8 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 Hydrostatic holds in Evans, GA slab circuits run overnight when listening mics show ambiguous hits.
 
 Supply audit 734285: curb-stop orientation and hose-bib freeze flag reviewed for Evans, GA at coords 33.5600/-82.1400.
+
+Local service note: PRV outlet curve paired with dielectric union checklist near ZIP 30809 for emergency qualified plumber repairs.
 
 Primary postal anchor 30809 with multi-ZIP overlap in Evans; field packets tag Columbia County for county-grid reconciliation.
 

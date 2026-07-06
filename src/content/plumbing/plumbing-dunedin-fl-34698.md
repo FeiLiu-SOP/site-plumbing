@@ -12,11 +12,14 @@ lng: -82.7900
 zipSample: ["34697", "34698"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / ZIP 34697 sector", "Pinellas County / ZIP 34698 sector", "Pinellas County / primary ZIP 34698", "Pinellas County / coords 28.0300, -82.7900", "Pinellas County / elevation 30 ft band"]
-zillowHomeValueUsd: 407285
 ---
 
-**Engineering Notice for Dunedin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Dunedin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pinellas County.
 
+
+Emergency plumbing technician service in Dunedin, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pinellas County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Dunedin, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Water heater T&P discharge paths in Dunedin, FL must terminate safely before replacement quotes.
 
@@ -32,7 +35,7 @@ FAQ: Is hydro-jetting always appropriate? In Dunedin, FL, pipe material and bloc
 
 Sump discharge freeze risk in Dunedin, FL should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 

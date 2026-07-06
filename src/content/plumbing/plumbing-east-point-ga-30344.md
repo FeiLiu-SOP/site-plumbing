@@ -12,11 +12,14 @@ lng: -84.4700
 zipSample: ["30344", "30385", "30349", "30364"]
 zipCodes: ["30349", "30385", "30364", "30344"]
 localPaths: ["Fulton County / elevation 1001 ft band", "Fulton County / coords 33.6700, -84.4700", "Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30364 sector", "Fulton County / primary ZIP 30344"]
-zillowHomeValueUsd: 224695
 ---
 
-**Engineering Notice for East Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for East Point:** Emergency leak and drain triage uses ~145 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in East Point, GA, Fulton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in East Point, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -49,8 +52,6 @@ Risk flag: In East Point, GA, slab leaks can misroute as foundation issues witho
 Lineage note 723060: recirculation pump amp draw captured before East Point, GA branch isolation.
 
 Pressure trace 723060: meter-pit clearance and dielectric union checklist staged for East Point, GA near elevation 1001 ft.
-
-Scope trace: dielectric union checklist plus water softener bypass lever referenced in Fulton County county grid review.
 
 On-site sector marker: Fulton County / ZIP 30349 sector — logged for map parity and ZIP-corridor verification.
 

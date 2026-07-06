@@ -12,11 +12,14 @@ lng: -69.7300
 zipSample: ["04338", "04333", "04332", "04336", "04330"]
 zipCodes: ["04336", "04333", "04338", "04332", "04330"]
 localPaths: ["Kennebec County / primary ZIP 04330", "Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04332 sector", "Kennebec County / ZIP 04330 sector", "Kennebec County / ZIP 04333 sector"]
-zillowHomeValueUsd: 285973
 ---
 
-**Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kennebec County.
+**Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kennebec County.
 
+
+Plumbing service in Augusta, ME, Kennebec County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Augusta, ME review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Augusta, ME slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -40,7 +43,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Risk flag: Seasonal Augusta, ME irrigation cross-connections can mask domestic pressure loss.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

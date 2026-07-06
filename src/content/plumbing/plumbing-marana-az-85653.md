@@ -12,11 +12,14 @@ lng: -111.1600
 zipSample: ["85742", "85741", "85653", "85743", "85658"]
 zipCodes: ["85653", "85741", "85740", "85743", "85742", "85658", "85652"]
 localPaths: ["Pima County / coords 32.4400, -111.1600", "Pima County / ZIP 85743 sector", "Pima County / ZIP 85741 sector", "Pima County / ZIP 85653 sector", "Pima County / ZIP 85742 sector"]
-zillowHomeValueUsd: 386448
 ---
 
-**Engineering Notice for Marana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Marana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pima County.
 
+
+Emergency plumbing pro service in Marana, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pima County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing restoration in Marana, AZ, Pima County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -49,6 +52,8 @@ FAQ: When should sump battery backups be load-tested? In Marana, AZ, before spri
 Intake ledger 613539: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marana, AZ at 32.4400, -111.1600.
 
 Pressure trace 613539: meter-pit clearance and dielectric union checklist staged for Marana, AZ near elevation 2067 ft.
+
+Plumbing service brief: branch wet vent geometry and sump float travel were cross-checked for the Marana pipe and leak scope.
 
 On-site sector marker: Pima County / elevation 2067 ft band — logged for map parity and ZIP-corridor verification.
 

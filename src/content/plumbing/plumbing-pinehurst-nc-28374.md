@@ -12,15 +12,18 @@ lng: -79.4700
 zipSample: ["28370", "28374"]
 zipCodes: ["28374", "28370"]
 localPaths: ["Moore County / ZIP 28374 sector", "Moore County / ZIP 28370 sector", "Moore County / primary ZIP 28374", "Moore County / coords 35.1900, -79.4700", "Moore County / elevation 522 ft band"]
-zillowHomeValueUsd: 533551
 ---
 
-**Engineering Notice for Pinehurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Moore County.
+**Engineering Notice for Pinehurst:** Supply line, cleanout, and water heater scope recorded at 522 ft elevation context (Moore County).
 
+
+Burst pipe and drain clog calls in Pinehurst, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Moore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Pinehurst, NC, Moore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless sleeve pulls near Pinehurst, NC require pit shoring notes when water tables are high.
 

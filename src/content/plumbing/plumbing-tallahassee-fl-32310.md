@@ -12,11 +12,14 @@ lng: -84.2500
 zipSample: ["32301", "32399", "32306", "32302", "32308"]
 zipCodes: ["32314", "32304", "32311", "32306", "32309", "32308", "32399", "32316", "32312", "32310", "32301", "32317"]
 localPaths: ["Leon County / ZIP 32301 sector", "Leon County / elevation 164 ft band", "Leon County / coords 30.4600, -84.2500", "Leon County / ZIP 32306 sector", "Leon County / ZIP 32308 sector"]
-zillowHomeValueUsd: 177704
 ---
 
-**Engineering Notice for Tallahassee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leon County.
+**Engineering Notice for Tallahassee:** Supply line, cleanout, and water heater scope recorded at 164 ft elevation context (Leon County).
 
+
+When a main line backs up in Tallahassee, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Tallahassee, FL, Leon County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

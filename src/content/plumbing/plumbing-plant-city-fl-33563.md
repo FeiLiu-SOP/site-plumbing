@@ -12,15 +12,18 @@ lng: -82.1200
 zipSample: ["33563", "33565", "33564", "33566"]
 zipCodes: ["33565", "33564", "33566", "33563"]
 localPaths: ["Hillsborough County / elevation 138 ft band", "Hillsborough County / ZIP 33563 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector"]
-zillowHomeValueUsd: 281113
 ---
 
-**Engineering Notice for Plant City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Plant City:** Supply line, cleanout, and water heater scope recorded at 138 ft elevation context (Hillsborough County).
 
+
+Plumbing restoration in Plant City, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Plant City, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Plant City, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Plant City, FL.
 
@@ -43,8 +46,6 @@ Material note: Water heater anode type may change with Plant City, FL hardness p
 Risk flag: Seasonal Plant City, FL irrigation cross-connections can mask domestic pressure loss.
 
 Supply audit 949773: curb-stop orientation and hose-bib freeze flag reviewed for Plant City, FL at coords 28.0100/-82.1200.
-
-Field routing: backflow test cock orientation paired with branch wet vent geometry near ZIP 33563.
 
 On-site sector marker: Hillsborough County / coords 28.0100, -82.1200 — logged for map parity and ZIP-corridor verification.
 

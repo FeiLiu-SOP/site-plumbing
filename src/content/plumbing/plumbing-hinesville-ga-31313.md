@@ -12,11 +12,14 @@ lng: -81.6100
 zipSample: ["31310", "31313"]
 zipCodes: ["31313", "31310"]
 localPaths: ["Liberty County / coords 31.8200, -81.6100", "Liberty County / ZIP 31313 sector", "Liberty County / elevation 102 ft band", "Liberty County / ZIP 31310 sector", "Liberty County / primary ZIP 31313"]
-zillowHomeValueUsd: 236265
 ---
 
-**Engineering Notice for Hinesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Liberty County.
+**Engineering Notice for Hinesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Liberty County.
 
+
+Burst pipe and drain clog calls in Hinesville, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Liberty County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Hinesville, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 31313.
 
@@ -45,6 +48,8 @@ FAQ: When should sump battery backups be load-tested? In Hinesville, GA, before 
 Intake ledger 857340: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Hinesville, GA at 31.8200, -81.6100.
 
 Supply audit 857340: curb-stop orientation and hose-bib freeze flag reviewed for Hinesville, GA at coords 31.8200/-81.6100.
+
+Local service note: cleanout riser height paired with scale coupon sampling near ZIP 31313 for emergency certified plumber repairs.
 
 **Regional Infrastructure Brief:** Grid anchor set to Liberty County. Reference elevation: 102 ft. Primary coordinates: 31.8200, -81.6100. ZIP sample: 31313, 31310. Regional routing note: Liberty County traffic flow is balanced around ZIP 31313 service demand.
 

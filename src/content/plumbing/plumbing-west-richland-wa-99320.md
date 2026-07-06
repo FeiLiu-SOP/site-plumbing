@@ -12,11 +12,14 @@ lng: -119.4000
 zipSample: ["99320", "99353"]
 zipCodes: ["99353", "99320"]
 localPaths: ["Benton County / primary ZIP 99320", "Benton County / ZIP 99320 sector", "Benton County / coords 46.3100, -119.4000", "Benton County / elevation 446 ft band", "Benton County / ZIP 99353 sector"]
-zillowHomeValueUsd: 428002
 ---
 
-**Engineering Notice for West Richland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
+**Engineering Notice for West Richland:** Supply line, cleanout, and water heater scope recorded at 446 ft elevation context (Benton County).
 
+
+Plumbing remediation in West Richland, WA, Benton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in West Richland, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -49,8 +52,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Lineage note 977177: recirculation pump amp draw captured before West Richland, WA branch isolation.
 
 Intake ledger 977177: sump amperage, PRV seat wear, and cleanout riser height cross-checked for West Richland, WA at 46.3100, -119.4000.
-
-Scope trace: cleanout riser height plus PEX expansion ring batch referenced in Benton County county grid review.
 
 On-site sector marker: Benton County / ZIP 99353 sector — logged for map parity and ZIP-corridor verification.
 

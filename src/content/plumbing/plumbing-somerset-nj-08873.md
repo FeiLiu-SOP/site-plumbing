@@ -12,11 +12,14 @@ lng: -74.5000
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / coords 40.5100, -74.5000", "Somerset County / elevation 118 ft band", "Somerset County / primary ZIP 08873", "Somerset County / ZIP 08873 sector"]
-zillowHomeValueUsd: 567120
 ---
 
-**Engineering Notice for Somerset:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Somerset County.
+**Engineering Notice for Somerset:** Supply line, cleanout, and water heater scope recorded at 118 ft elevation context (Somerset County).
 
+
+Plumbing remediation in Somerset, NJ, Somerset County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Somerset, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Somerset County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Hose bib split patterns in Somerset, NJ often follow missed winterization.
 
@@ -45,8 +48,6 @@ Fixture shutoff stiffness in Somerset, NJ may indicate mineral bridging behind s
 Step: camera-pass main lines in Somerset, NJ before jetting older clay or cast iron.
 
 Intake ledger 858115: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Somerset, NJ at 40.5100, -74.5000.
-
-plumbing brief: thermal expansion loop check and PEX expansion ring batch were cross-checked for the Somerset intake packet.
 
 On-site sector marker: Somerset County / ZIP 08873 sector — logged for map parity and ZIP-corridor verification.
 

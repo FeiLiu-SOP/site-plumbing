@@ -12,11 +12,14 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200", "Franklin County / primary ZIP 63090"]
-zillowHomeValueUsd: 307026
 ---
 
-**Engineering Notice for Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Washington:** Emergency leak and drain triage uses ~139 mg/L hardness context with Franklin County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Washington, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Franklin County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Washington, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Franklin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in Washington, MO should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -47,6 +50,8 @@ Step: camera-pass main lines in Washington, MO before jetting older clay or cast
 Hose bib split patterns in Washington, MO often follow missed winterization.
 
 Flow dossier 718335: branch wet-vent geometry and jetting nozzle envelope logged for Washington, MO county grid Franklin County (ZIP 63090).
+
+Local service note: fixture shutoff torque log paired with hose bib freeze flag near ZIP 63090 for emergency plumbing pro repairs.
 
 On-site sector marker: Franklin County / coords 38.5500, -91.0200 — logged for map parity and ZIP-corridor verification.
 

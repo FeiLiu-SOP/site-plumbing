@@ -12,11 +12,14 @@ lng: -77.5000
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / elevation 203 ft band", "Prince William County / primary ZIP 20109", "Prince William County / ZIP 20109 sector", "Prince William County / coords 38.7900, -77.5000"]
-zillowHomeValueUsd: 456346
 ---
 
-**Engineering Notice for Sudley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
+**Engineering Notice for Sudley:** Supply line, cleanout, and water heater scope recorded at 203 ft elevation context (Prince William County).
 
+
+Burst pipe and drain clog calls in Sudley, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Prince William County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Sudley, VA, Prince William County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -45,8 +48,6 @@ Galvanized segments in Sudley, VA may restrict flow long before visible corrosio
 Pressure trace 424074: meter-pit clearance and dielectric union checklist staged for Sudley, VA near elevation 203 ft.
 
 Flow dossier 424074: branch wet-vent geometry and jetting nozzle envelope logged for Sudley, VA county grid Prince William County (ZIP 20109).
-
-Scope trace: PRV outlet curve plus slab leak listening window referenced in Prince William County county grid review.
 
 On-site sector marker: Prince William County / ZIP 20109 sector — logged for map parity and ZIP-corridor verification.
 

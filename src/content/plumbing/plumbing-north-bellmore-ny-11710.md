@@ -12,11 +12,14 @@ lng: -73.5400
 zipSample: ["11710"]
 zipCodes: ["11710"]
 localPaths: ["Nassau County / primary ZIP 11710", "Nassau County / coords 40.6900, -73.5400", "Nassau County / ZIP 11710 sector", "Nassau County / elevation 52 ft band"]
-zillowHomeValueUsd: 804910
 ---
 
-**Engineering Notice for North Bellmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for North Bellmore:** Supply line, cleanout, and water heater scope recorded at 52 ft elevation context (Nassau County).
 
+
+Burst pipe and drain clog calls in North Bellmore, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving North Bellmore, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -45,8 +48,6 @@ Risk flag: In North Bellmore, NY, slab leaks can misroute as foundation issues w
 Fixture roster 457107: toilet flange spacer kit and shower cartridge seat score queued for North Bellmore, NY walk-through.
 
 Intake ledger 457107: sump amperage, PRV seat wear, and cleanout riser height cross-checked for North Bellmore, NY at 40.6900, -73.5400.
-
-plumbing brief: hose bib freeze flag and copper pinhole cluster were cross-checked for the North Bellmore intake packet.
 
 ZIP-corridor snapshot for North Bellmore, NY: sampled sectors include 11710; county routing grid remains Nassau County.
 

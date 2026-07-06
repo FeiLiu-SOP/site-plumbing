@@ -12,11 +12,14 @@ lng: -80.4000
 zipSample: ["33182", "33175", "33265", "33184"]
 zipCodes: ["33175", "33265", "33182", "33184"]
 localPaths: ["Miami-Dade County / primary ZIP 33175", "Miami-Dade County / ZIP 33265 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33184 sector", "Miami-Dade County / ZIP 33182 sector"]
-zillowHomeValueUsd: 622049
 ---
 
-**Engineering Notice for Tamiami:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Tamiami:** Emergency leak and drain triage uses ~131 mg/L hardness context with Miami-Dade County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Tamiami, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Tamiami, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Seasonal Tamiami, FL irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,8 +48,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 CPVC solvent weld times shift with ambient humidity during Tamiami, FL shoulder seasons.
 
 Drain map 381432: camera-pass priority and expansion-tank pre-charge noted for Tamiami, FL postal sector 33175.
-
-plumbing brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the Tamiami intake packet.
 
 Regional mesh label Miami-Dade County: moisture and logistics baselines are keyed to Tamiami, FL before niche-specific work begins.
 

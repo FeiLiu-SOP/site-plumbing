@@ -12,11 +12,14 @@ lng: -80.3200
 zipSample: ["26330", "26306", "26301"]
 zipCodes: ["26330", "26301", "26306"]
 localPaths: ["Harrison County / ZIP 26330 sector", "Harrison County / ZIP 26306 sector", "Harrison County / coords 39.2900, -80.3200", "Harrison County / primary ZIP 26301", "Harrison County / ZIP 26301 sector"]
-zillowHomeValueUsd: 116852
 ---
 
-**Engineering Notice for Clarksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrison County.
+**Engineering Notice for Clarksburg:** Supply line, cleanout, and water heater scope recorded at 1099 ft elevation context (Harrison County).
 
+
+When a main line backs up in Clarksburg, WV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Clarksburg, WV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -45,8 +48,6 @@ Cleanout access limits in Clarksburg, WV frequently extend drain cleaning durati
 Hose bib split patterns in Clarksburg, WV often follow missed winterization.
 
 Flow dossier 652581: branch wet-vent geometry and jetting nozzle envelope logged for Clarksburg, WV county grid Harrison County (ZIP 26301).
-
-plumbing brief: backflow test cock orientation and recirculation pump amp draw were cross-checked for the Clarksburg intake packet.
 
 On-site sector marker: Harrison County / primary ZIP 26301 — logged for map parity and ZIP-corridor verification.
 

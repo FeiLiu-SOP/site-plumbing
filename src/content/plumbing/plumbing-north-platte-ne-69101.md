@@ -12,11 +12,14 @@ lng: -100.7600
 zipSample: ["69103", "69101"]
 zipCodes: ["69101", "69103"]
 localPaths: ["Lincoln County / ZIP 69103 sector", "Lincoln County / primary ZIP 69101", "Lincoln County / coords 41.1300, -100.7600", "Lincoln County / elevation 2812 ft band", "Lincoln County / ZIP 69101 sector"]
-zillowHomeValueUsd: 208949
 ---
 
-**Engineering Notice for North Platte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lincoln County.
+**Engineering Notice for North Platte:** Supply line, cleanout, and water heater scope recorded at 2812 ft elevation context (Lincoln County).
 
+
+Emergency plumbing pro service in North Platte, NE often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lincoln County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in North Platte, NE may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lincoln County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in North Platte, NE should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -43,8 +46,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Galvanized segments in North Platte, NE may restrict flow long before visible corrosion.
 
 Lineage note 698097: recirculation pump amp draw captured before North Platte, NE branch isolation.
-
-plumbing brief: recirculation pump amp draw and water heater T&P path were cross-checked for the North Platte intake packet.
 
 On-site sector marker: Lincoln County / ZIP 69103 sector — logged for map parity and ZIP-corridor verification.
 

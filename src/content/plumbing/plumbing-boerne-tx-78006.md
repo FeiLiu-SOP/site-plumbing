@@ -12,11 +12,14 @@ lng: -98.7300
 zipSample: ["78006"]
 zipCodes: ["78006"]
 localPaths: ["Kendall County / elevation 1463 ft band", "Kendall County / coords 29.7800, -98.7300", "Kendall County / ZIP 78006 sector", "Kendall County / primary ZIP 78006"]
-zillowHomeValueUsd: 590470
 ---
 
-**Engineering Notice for Boerne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.
+**Engineering Notice for Boerne:** Emergency leak and drain triage uses ~146 mg/L hardness context with Kendall County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Boerne, TX, Kendall County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Boerne, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kendall County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -49,8 +52,6 @@ FAQ: When should sump battery backups be load-tested? In Boerne, TX, before spri
 Flow dossier 934369: branch wet-vent geometry and jetting nozzle envelope logged for Boerne, TX county grid Kendall County (ZIP 78006).
 
 Fixture roster 934369: toilet flange spacer kit and shower cartridge seat score queued for Boerne, TX walk-through.
-
-Field routing: scale coupon sampling paired with branch wet vent geometry near ZIP 78006.
 
 ZIP-corridor snapshot for Boerne, TX: sampled sectors include 78006; county routing grid remains Kendall County.
 

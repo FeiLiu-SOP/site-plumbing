@@ -12,11 +12,14 @@ lng: -96.6300
 zipSample: ["75120", "75119"]
 zipCodes: ["75120", "75119"]
 localPaths: ["Ellis County / ZIP 75120 sector", "Ellis County / primary ZIP 75119", "Ellis County / ZIP 75119 sector", "Ellis County / coords 32.3300, -96.6300", "Ellis County / elevation 548 ft band"]
-zillowHomeValueUsd: 265426
 ---
 
-**Engineering Notice for Ennis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.
+**Engineering Notice for Ennis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ellis County.
 
+
+Certified plumbing crews serving Ennis, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in Ennis, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Ellis County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -46,7 +49,7 @@ Supply audit 709768: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 709768: toilet flange spacer kit and shower cartridge seat score queued for Ennis, TX walk-through.
 
-plumbing brief: toilet flange spacer kit and cleanout riser height were cross-checked for the Ennis intake packet.
+Plumbing remediation brief: toilet flange spacer kit and cleanout riser height were cross-checked for the Ennis pipe and leak scope.
 
 On-site sector marker: Ellis County / ZIP 75119 sector — logged for map parity and ZIP-corridor verification.
 

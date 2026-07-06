@@ -12,11 +12,14 @@ lng: -93.2500
 zipSample: ["55044"]
 zipCodes: ["55044"]
 localPaths: ["Dakota County / primary ZIP 55044", "Dakota County / ZIP 55044 sector", "Dakota County / elevation 1079 ft band", "Dakota County / coords 44.6800, -93.2500"]
-zillowHomeValueUsd: 515341
 ---
 
-**Engineering Notice for Lakeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
+**Engineering Notice for Lakeville:** Supply line, cleanout, and water heater scope recorded at 1079 ft elevation context (Dakota County).
 
+
+Burst pipe and drain clog calls in Lakeville, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dakota County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Lakeville, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -34,11 +37,11 @@ Hydrostatic holds in Lakeville, MN slab circuits run overnight when listening mi
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate Lakeville, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Lakeville, MN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Stack vent offsets in Lakeville, MN older duplexes can mask tub gurgle as a main-line failure.
 
@@ -48,7 +51,7 @@ Intake ledger 496759: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 496759: recirculation pump amp draw captured before Lakeville, MN branch isolation.
 
-plumbing brief: thermal expansion loop check and branch wet vent geometry were cross-checked for the Lakeville intake packet.
+Plumbing remediation brief: thermal expansion loop check and branch wet vent geometry were cross-checked for the Lakeville pipe and leak scope.
 
 On-site sector marker: Dakota County / primary ZIP 55044 — logged for map parity and ZIP-corridor verification.
 

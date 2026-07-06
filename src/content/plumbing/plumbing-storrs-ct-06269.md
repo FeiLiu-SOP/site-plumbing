@@ -12,12 +12,14 @@ lng: -72.2500
 zipSample: ["06268", "06269"]
 zipCodes: ["06268", "06269"]
 localPaths: ["Capitol County / elevation 643 ft band", "Capitol County / ZIP 06269 sector", "Capitol County / primary ZIP 06269", "Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 526154
 ---
 
-**Engineering Notice for Storrs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Capitol County.
+**Engineering Notice for Storrs:** Emergency leak and drain triage uses ~142 mg/L hardness context with Capitol County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Storrs, CT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency certified plumber service in Storrs, CT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Capitol County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Permit note: Main water line replacement in Storrs, CT may require ROW restoration planning.
 

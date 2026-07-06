@@ -12,11 +12,14 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07901", "07902"]
 localPaths: ["Union County / ZIP 07902 sector", "Union County / elevation 390 ft band", "Union County / ZIP 07901 sector", "Union County / primary ZIP 07901", "Union County / coords 40.7200, -74.3600"]
-zillowHomeValueUsd: 1360960
 ---
 
-**Engineering Notice for Summit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Summit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Union County.
 
+
+Burst pipe and drain clog calls in Summit, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Union County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Summit, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Union County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 07901.
 
@@ -46,7 +49,7 @@ Intake ledger 573190: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Fixture roster 573190: toilet flange spacer kit and shower cartridge seat score queued for Summit, NJ walk-through.
 
-Field routing: thermal expansion loop check paired with slab penetration sleeve seal near ZIP 07901.
+Local service note: thermal expansion loop check paired with slab penetration sleeve seal near ZIP 07901 for emergency plumbing technician repairs.
 
 On-site sector marker: Union County / ZIP 07902 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -92.9600
 zipSample: ["55025"]
 zipCodes: ["55025"]
 localPaths: ["Washington County / primary ZIP 55025", "Washington County / ZIP 55025 sector", "Washington County / elevation 932 ft band", "Washington County / coords 45.2500, -92.9600"]
-zillowHomeValueUsd: 431151
 ---
 
-**Engineering Notice for Forest Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Forest Lake:** Emergency leak and drain triage uses ~172 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Forest Lake, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Forest Lake, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -34,7 +37,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate Forest Lake, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Forest Lake, MN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -44,7 +47,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Pressure trace 462733: meter-pit clearance and dielectric union checklist staged for Forest Lake, MN near elevation 932 ft.
 
-Scope trace: cleanout riser height plus toilet flange spacer kit referenced in Washington County county grid review.
+Scope trace: cleanout riser height plus toilet flange spacer kit referenced in Washington County drain and water line review.
 
 On-site sector marker: Washington County / elevation 932 ft band — logged for map parity and ZIP-corridor verification.
 

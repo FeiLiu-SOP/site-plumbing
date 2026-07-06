@@ -12,13 +12,16 @@ lng: -117.9100
 zipSample: ["92628", "92627", "92626"]
 zipCodes: ["92628", "92627", "92626"]
 localPaths: ["Orange County / ZIP 92627 sector", "Orange County / ZIP 92628 sector", "Orange County / primary ZIP 92626", "Orange County / coords 33.6700, -117.9100", "Orange County / ZIP 92626 sector"]
-zillowHomeValueUsd: 1442415
 ---
 
-**Engineering Notice for Costa Mesa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Costa Mesa:** Supply line, cleanout, and water heater scope recorded at 75 ft elevation context (Orange County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing remediation in Costa Mesa, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Costa Mesa, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -32,7 +35,7 @@ Expansion tank pre-charge loss in Costa Mesa, CA often tracks heater replacement
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Costa Mesa, CA, slab leaks can misroute as foundation issues without listening equipment.
 

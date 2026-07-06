@@ -12,11 +12,14 @@ lng: -121.0500
 zipSample: ["95682", "95762"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / elevation 1070 ft band", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector", "El Dorado County / primary ZIP 95762", "El Dorado County / ZIP 95682 sector"]
-zillowHomeValueUsd: 911288
 ---
 
-**Engineering Notice for El Dorado Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Dorado County.
+**Engineering Notice for El Dorado Hills:** Emergency leak and drain triage uses ~139 mg/L hardness context with El Dorado County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in El Dorado Hills, CA, El Dorado County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving El Dorado Hills, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -50,7 +53,7 @@ Supply audit 608784: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Pressure trace 608784: meter-pit clearance and dielectric union checklist staged for El Dorado Hills, CA near elevation 1070 ft.
 
-Scope trace: slab leak listening window plus shower cartridge seat score referenced in El Dorado County county grid review.
+Scope trace: slab leak listening window plus shower cartridge seat score referenced in El Dorado County drain and water line review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with El Dorado County and primary ZIP 95762. Terrain reference: 1070 ft. Center point: 38.6700, -121.0500. ZIP sample: 95682, 95762. Service perimeter note: Coverage extends through El Dorado County with dispatch centered near ZIP 95762.
 

@@ -12,11 +12,14 @@ lng: -88.0300
 zipSample: ["60030"]
 zipCodes: ["60030"]
 localPaths: ["Lake County / ZIP 60030 sector", "Lake County / coords 42.3400, -88.0300", "Lake County / elevation 781 ft band", "Lake County / primary ZIP 60030"]
-zillowHomeValueUsd: 346428
 ---
 
-**Engineering Notice for Grayslake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Grayslake:** Supply line, cleanout, and water heater scope recorded at 781 ft elevation context (Lake County).
 
+
+Burst pipe and drain clog calls in Grayslake, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Grayslake, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Lake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless pulls in Grayslake, IL require pit dimensions verified against utility locate marks.
 
@@ -47,6 +50,8 @@ Water heater T&P discharge paths in Grayslake, IL must terminate safely before r
 Technicians log static and dynamic pressure before opening any wall access panel.
 
 Fixture roster 190083: toilet flange spacer kit and shower cartridge seat score queued for Grayslake, IL walk-through.
+
+Plumbing restoration brief: sewer cleanout cap thread and branch wet vent geometry were cross-checked for the Grayslake pipe and leak scope.
 
 On-site sector marker: Lake County / primary ZIP 60030 — logged for map parity and ZIP-corridor verification.
 

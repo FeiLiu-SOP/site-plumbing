@@ -12,11 +12,14 @@ lng: -80.8300
 zipSample: ["28201", "28275", "28227", "28272", "28204"]
 zipCodes: ["28278", "28287", "28228", "28256", "28237", "28242", "28218", "28273", "28221", "28205", "28206", "28255"]
 localPaths: ["Mecklenburg County / ZIP 28275 sector", "Mecklenburg County / ZIP 28201 sector", "Mecklenburg County / ZIP 28272 sector", "Mecklenburg County / primary ZIP 28269", "Mecklenburg County / coords 35.2100, -80.8300"]
-zillowHomeValueUsd: 359442
 ---
 
-**Engineering Notice for Charlotte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Charlotte:** Supply line, cleanout, and water heater scope recorded at 692 ft elevation context (Mecklenburg County).
 
+
+Plumbing restoration in Charlotte, NC, Mecklenburg County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Charlotte, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Basement floor drains in Charlotte, NC should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -36,19 +39,19 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Irrigation cross-connections in Charlotte, NC can back-siphon domestic lines during main breaks.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Pressure trace 474947: meter-pit clearance and dielectric union checklist staged for Charlotte, NC near elevation 692 ft.
 
 Lineage note 474947: recirculation pump amp draw captured before Charlotte, NC branch isolation.
 
-plumbing brief: slab leak listening window and water heater T&P path were cross-checked for the Charlotte intake packet.
+Plumbing remediation brief: slab leak listening window and water heater T&P path were cross-checked for the Charlotte pipe and leak scope.
 
 Primary postal anchor 28269 with multi-ZIP overlap in Charlotte; field packets tag Mecklenburg County for county-grid reconciliation.
 

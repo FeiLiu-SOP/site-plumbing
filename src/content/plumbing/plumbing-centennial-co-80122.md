@@ -12,11 +12,14 @@ lng: -104.8700
 zipSample: ["80111", "80155", "80016", "80121", "80122"]
 zipCodes: ["80111", "80015", "80122", "80121", "80161", "80016", "80155", "80112"]
 localPaths: ["Arapahoe County / ZIP 80111 sector", "Arapahoe County / ZIP 80122 sector", "Arapahoe County / primary ZIP 80122", "Arapahoe County / ZIP 80016 sector", "Arapahoe County / ZIP 80121 sector"]
-zillowHomeValueUsd: 639553
 ---
 
-**Engineering Notice for Centennial:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Centennial:** Emergency leak and drain triage uses ~176 mg/L hardness context with Arapahoe County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Centennial, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Arapahoe County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Centennial, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Arapahoe County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -49,6 +52,8 @@ Trenchless sleeve pulls near Centennial, CO require pit shoring notes when water
 Pressure trace 174901: meter-pit clearance and dielectric union checklist staged for Centennial, CO near elevation 5741 ft.
 
 Lineage note 174901: recirculation pump amp draw captured before Centennial, CO branch isolation.
+
+Local service note: meter pit clearance paired with copper pinhole cluster near ZIP 80122 for emergency qualified plumber repairs.
 
 On-site sector marker: Arapahoe County / ZIP 80016 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,13 +12,16 @@ lng: -87.3700
 zipSample: ["37055", "37056"]
 zipCodes: ["37056", "37055"]
 localPaths: ["Dickson County / ZIP 37055 sector", "Dickson County / elevation 866 ft band", "Dickson County / ZIP 37056 sector", "Dickson County / coords 36.0600, -87.3700", "Dickson County / primary ZIP 37055"]
-zillowHomeValueUsd: 343231
 ---
 
-**Engineering Notice for Dickson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dickson County.
+**Engineering Notice for Dickson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dickson County.
 
 
-We coordinate Dickson, TN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+When a main line backs up in Dickson, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing remediation in Dickson, TN, Dickson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+We coordinate Dickson, TN plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Stack vent offsets in Dickson, TN older duplexes can mask tub gurgle as a main-line failure.
 
@@ -43,8 +46,6 @@ Trenchless pulls in Dickson, TN require pit dimensions verified against utility 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 37055.
 
 Flow dossier 201421: branch wet-vent geometry and jetting nozzle envelope logged for Dickson, TN county grid Dickson County (ZIP 37055).
-
-plumbing brief: PEX expansion ring batch and jetter nozzle envelope were cross-checked for the Dickson intake packet.
 
 Coordinate-anchored dispatch note: center reference 36.0600, -87.3700 at elevation ~866 ft aligns with Dickson County intake staging.
 

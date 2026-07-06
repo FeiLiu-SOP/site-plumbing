@@ -12,11 +12,14 @@ lng: -111.8300
 zipSample: ["84117", "84106", "84109", "84107", "84124"]
 zipCodes: ["84109", "84124", "84106", "84107", "84117"]
 localPaths: ["Salt Lake County / ZIP 84109 sector", "Salt Lake County / ZIP 84106 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / primary ZIP 84117", "Salt Lake County / ZIP 84117 sector"]
-zillowHomeValueUsd: 694524
 ---
 
-**Engineering Notice for Millcreek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Millcreek:** Supply line, cleanout, and water heater scope recorded at 4573 ft elevation context (Salt Lake County).
 
+
+Certified plumbing crews serving Millcreek, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Millcreek, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 84117.
 
@@ -26,7 +29,7 @@ Hydrostatic holds in Millcreek, UT slab circuits run overnight when listening mi
 
 CPVC solvent weld times shift with ambient humidity during Millcreek, UT shoulder seasons.
 
-We coordinate Millcreek, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Millcreek, UT plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Millcreek, UT.
 

@@ -12,11 +12,14 @@ lng: -118.0300
 zipSample: ["91731", "91732", "91734", "91735", "91733"]
 zipCodes: ["91734", "91735", "91733", "91732", "91731"]
 localPaths: ["Los Angeles County / ZIP 91734 sector", "Los Angeles County / elevation 292 ft band", "Los Angeles County / primary ZIP 91731", "Los Angeles County / ZIP 91733 sector", "Los Angeles County / coords 34.0700, -118.0300"]
-zillowHomeValueUsd: 777250
 ---
 
-**Engineering Notice for El Monte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for El Monte:** Emergency leak and drain triage uses ~173 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in El Monte, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving El Monte, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in El Monte, CA should be reviewed before spring thaw cycles.
 
@@ -26,7 +29,7 @@ Across El Monte, CA, main-line bellies can trap debris even when fixtures drain 
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in El Monte, CA.
 
@@ -46,7 +49,7 @@ Supply audit 125009: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Flow dossier 125009: branch wet-vent geometry and jetting nozzle envelope logged for El Monte, CA county grid Los Angeles County (ZIP 91731).
 
-Field routing: sewer cleanout cap thread paired with thermal expansion loop check near ZIP 91731.
+Local service note: sewer cleanout cap thread paired with thermal expansion loop check near ZIP 91731 for emergency certified plumber repairs.
 
 On-site sector marker: Los Angeles County / ZIP 91734 sector — logged for map parity and ZIP-corridor verification.
 

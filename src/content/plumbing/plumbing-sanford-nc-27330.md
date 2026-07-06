@@ -12,11 +12,14 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27330", "27331", "27332"]
 localPaths: ["Lee County / ZIP 27330 sector", "Lee County / ZIP 27331 sector", "Lee County / coords 35.4900, -79.1800", "Lee County / elevation 354 ft band", "Lee County / ZIP 27332 sector"]
-zillowHomeValueUsd: 294234
 ---
 
-**Engineering Notice for Sanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Sanford:** Emergency leak and drain triage uses ~130 mg/L hardness context with Lee County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Sanford, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Lee County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Sanford, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lee County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Sanford, NC slab circuits run overnight when listening mics show ambiguous hits.
 

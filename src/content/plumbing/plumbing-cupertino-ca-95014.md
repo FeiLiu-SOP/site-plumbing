@@ -12,13 +12,16 @@ lng: -122.0500
 zipSample: ["95108", "95170", "95015", "95014"]
 zipCodes: ["95108", "95014", "95170", "95015"]
 localPaths: ["Santa Clara County / primary ZIP 95014", "Santa Clara County / ZIP 95170 sector", "Santa Clara County / ZIP 95108 sector", "Santa Clara County / coords 37.3200, -122.0500", "Santa Clara County / elevation 305 ft band"]
-zillowHomeValueUsd: 3188373
 ---
 
-**Engineering Notice for Cupertino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Cupertino:** Emergency leak and drain triage uses ~139 mg/L hardness context with Santa Clara County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing remediation in Cupertino, CA, Santa Clara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Cupertino, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Santa Clara County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95014.
 

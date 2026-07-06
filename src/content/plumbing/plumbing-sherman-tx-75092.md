@@ -12,11 +12,14 @@ lng: -96.6200
 zipSample: ["75090", "75091", "75092"]
 zipCodes: ["75090", "75092", "75091"]
 localPaths: ["Grayson County / primary ZIP 75092", "Grayson County / coords 33.6300, -96.6200", "Grayson County / ZIP 75090 sector", "Grayson County / ZIP 75092 sector", "Grayson County / elevation 692 ft band"]
-zillowHomeValueUsd: 291284
 ---
 
-**Engineering Notice for Sherman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grayson County.
+**Engineering Notice for Sherman:** Emergency leak and drain triage uses ~147 mg/L hardness context with Grayson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Sherman, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Grayson County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Sherman, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Grayson County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Sump discharge freeze risk in Sherman, TX should be reviewed before spring thaw cycles.
 
@@ -45,8 +48,6 @@ Trenchless sleeve pulls near Sherman, TX require pit shoring notes when water ta
 Flow dossier 203225: branch wet-vent geometry and jetting nozzle envelope logged for Sherman, TX county grid Grayson County (ZIP 75092).
 
 Intake ledger 203225: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Sherman, TX at 33.6300, -96.6200.
-
-Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in Grayson County county grid review.
 
 On-site sector marker: Grayson County / primary ZIP 75092 — logged for map parity and ZIP-corridor verification.
 

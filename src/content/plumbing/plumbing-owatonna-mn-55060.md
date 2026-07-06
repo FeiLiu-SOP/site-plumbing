@@ -12,11 +12,14 @@ lng: -93.2300
 zipSample: ["55060"]
 zipCodes: ["55060"]
 localPaths: ["Steele County / coords 44.0900, -93.2300", "Steele County / primary ZIP 55060", "Steele County / ZIP 55060 sector", "Steele County / elevation 1132 ft band"]
-zillowHomeValueUsd: 293943
 ---
 
-**Engineering Notice for Owatonna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Steele County.
+**Engineering Notice for Owatonna:** Supply line, cleanout, and water heater scope recorded at 1132 ft elevation context (Steele County).
 
+
+Burst pipe and drain clog calls in Owatonna, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Steele County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Owatonna, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -47,8 +50,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Flow dossier 320923: branch wet-vent geometry and jetting nozzle envelope logged for Owatonna, MN county grid Steele County (ZIP 55060).
-
-Field routing: PRV outlet curve paired with gas water heater draft hood gap near ZIP 55060.
 
 Regional mesh label Steele County: moisture and logistics baselines are keyed to Owatonna, MN before niche-specific work begins.
 

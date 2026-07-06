@@ -12,11 +12,14 @@ lng: -111.6400
 zipSample: ["84660"]
 zipCodes: ["84660"]
 localPaths: ["Utah County / coords 40.1100, -111.6400", "Utah County / primary ZIP 84660", "Utah County / elevation 4682 ft band", "Utah County / ZIP 84660 sector"]
-zillowHomeValueUsd: 515219
 ---
 
-**Engineering Notice for Spanish Fork:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Spanish Fork:** Emergency leak and drain triage uses ~138 mg/L hardness context with Utah County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Spanish Fork, UT, Utah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Spanish Fork, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Spanish Fork, UT systems need rebalancing.
 
@@ -48,7 +51,7 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 
 Flow dossier 328891: branch wet-vent geometry and jetting nozzle envelope logged for Spanish Fork, UT county grid Utah County (ZIP 84660).
 
-Scope trace: thermal expansion loop check plus slab leak listening window referenced in Utah County county grid review.
+Scope trace: thermal expansion loop check plus slab leak listening window referenced in Utah County drain and water line review.
 
 On-site sector marker: Utah County / ZIP 84660 sector — logged for map parity and ZIP-corridor verification.
 

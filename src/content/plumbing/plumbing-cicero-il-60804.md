@@ -12,11 +12,14 @@ lng: -87.7600
 zipSample: ["60804"]
 zipCodes: ["60804"]
 localPaths: ["Cook County / primary ZIP 60804", "Cook County / coords 41.8400, -87.7600", "Cook County / ZIP 60804 sector", "Cook County / elevation 614 ft band"]
-zillowHomeValueUsd: 264529
 ---
 
-**Engineering Notice for Cicero:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Cicero:** Emergency leak and drain triage uses ~122 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Cicero, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Cicero, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -48,7 +51,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Drain map 731692: camera-pass priority and expansion-tank pre-charge noted for Cicero, IL postal sector 60804.
 
-plumbing brief: thermal expansion loop check and hose bib freeze flag were cross-checked for the Cicero intake packet.
+Plumbing service brief: thermal expansion loop check and hose bib freeze flag were cross-checked for the Cicero pipe and leak scope.
 
 On-site sector marker: Cook County / primary ZIP 60804 — logged for map parity and ZIP-corridor verification.
 

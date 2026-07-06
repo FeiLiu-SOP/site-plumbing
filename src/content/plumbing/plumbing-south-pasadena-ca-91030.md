@@ -12,17 +12,20 @@ lng: -118.1600
 zipSample: ["91031", "91030"]
 zipCodes: ["91031", "91030"]
 localPaths: ["Los Angeles County / ZIP 91031 sector", "Los Angeles County / ZIP 91030 sector", "Los Angeles County / primary ZIP 91030", "Los Angeles County / elevation 653 ft band", "Los Angeles County / coords 34.1100, -118.1600"]
-zillowHomeValueUsd: 1693548
 ---
 
-**Engineering Notice for South Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Pasadena:** Supply line, cleanout, and water heater scope recorded at 653 ft elevation context (Los Angeles County).
 
+
+When a main line backs up in South Pasadena, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency plumbing technician service in South Pasadena, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
 Risk flag: In South Pasadena, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,8 +48,6 @@ Material note: Water heater anode type may change with South Pasadena, CA hardne
 Supply audit 391011: curb-stop orientation and hose-bib freeze flag reviewed for South Pasadena, CA at coords 34.1100/-118.1600.
 
 Intake ledger 391011: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Pasadena, CA at 34.1100, -118.1600.
-
-plumbing brief: floor drain trap primer drip and thermal expansion loop check were cross-checked for the South Pasadena intake packet.
 
 On-site sector marker: Los Angeles County / primary ZIP 91030 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -112.1200
 zipSample: ["85086"]
 zipCodes: ["85086"]
 localPaths: ["Maricopa County / elevation 1860 ft band", "Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / coords 33.8600, -112.1200"]
-zillowHomeValueUsd: 624732
 ---
 
-**Engineering Notice for Anthem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Anthem:** Supply line, cleanout, and water heater scope recorded at 1860 ft elevation context (Maricopa County).
 
+
+Emergency plumbing pro service in Anthem, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Maricopa County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Anthem, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -48,7 +51,7 @@ Pressure trace 181307: meter-pit clearance and dielectric union checklist staged
 
 Fixture roster 181307: toilet flange spacer kit and shower cartridge seat score queued for Anthem, AZ walk-through.
 
-Scope trace: scale coupon sampling plus sump float travel referenced in Maricopa County county grid review.
+Scope trace: scale coupon sampling plus sump float travel referenced in Maricopa County drain and water line review.
 
 On-site sector marker: Maricopa County / primary ZIP 85086 — logged for map parity and ZIP-corridor verification.
 

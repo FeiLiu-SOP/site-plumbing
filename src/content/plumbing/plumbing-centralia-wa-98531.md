@@ -12,11 +12,14 @@ lng: -122.9700
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / primary ZIP 98531", "Lewis County / elevation 174 ft band", "Lewis County / coords 46.7200, -122.9700", "Lewis County / ZIP 98531 sector"]
-zillowHomeValueUsd: 396425
 ---
 
-**Engineering Notice for Centralia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lewis County.
+**Engineering Notice for Centralia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lewis County.
 
+
+Burst pipe and drain clog calls in Centralia, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lewis County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Centralia, WA, Lewis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -49,6 +52,8 @@ Dual-water-meter setups in Centralia, WA irrigation zones need backflow logs bef
 Lineage note 638265: recirculation pump amp draw captured before Centralia, WA branch isolation.
 
 Drain map 638265: camera-pass priority and expansion-tank pre-charge noted for Centralia, WA postal sector 98531.
+
+Local service note: sump float travel paired with floor drain trap primer drip near ZIP 98531 for emergency certified plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 46.7200, -122.9700 at elevation ~174 ft aligns with Lewis County intake staging.
 

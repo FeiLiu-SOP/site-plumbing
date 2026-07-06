@@ -12,17 +12,20 @@ lng: -93.4400
 zipSample: ["65619", "65738", "65802"]
 zipCodes: ["65619", "65738", "65802"]
 localPaths: ["Greene County / primary ZIP 65738", "Greene County / coords 37.1500, -93.4400", "Greene County / ZIP 65619 sector", "Greene County / elevation 1273 ft band", "Greene County / ZIP 65738 sector"]
-zillowHomeValueUsd: 266746
 ---
 
-**Engineering Notice for Republic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.
+**Engineering Notice for Republic:** Supply line, cleanout, and water heater scope recorded at 1273 ft elevation context (Greene County).
 
+
+Plumbing service in Republic, MO, Greene County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Republic, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Risk flag: In Republic, MO, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

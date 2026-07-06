@@ -12,11 +12,14 @@ lng: -87.9400
 zipSample: ["60106", "60105", "60399"]
 zipCodes: ["60105", "60399", "60106"]
 localPaths: ["DuPage County / ZIP 60399 sector", "DuPage County / elevation 679 ft band", "DuPage County / ZIP 60105 sector", "DuPage County / coords 41.9600, -87.9400", "DuPage County / ZIP 60106 sector"]
-zillowHomeValueUsd: 343945
 ---
 
-**Engineering Notice for Bensenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bensenville:** Supply line, cleanout, and water heater scope recorded at 679 ft elevation context (DuPage County).
 
+
+Plumbing remediation in Bensenville, IL, DuPage County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Bensenville, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -49,8 +52,6 @@ Trenchless pulls in Bensenville, IL require pit dimensions verified against util
 Pressure trace 979237: meter-pit clearance and dielectric union checklist staged for Bensenville, IL near elevation 679 ft.
 
 Supply audit 979237: curb-stop orientation and hose-bib freeze flag reviewed for Bensenville, IL at coords 41.9600/-87.9400.
-
-Field routing: slab leak listening window paired with backflow test cock orientation near ZIP 60106.
 
 On-site sector marker: DuPage County / primary ZIP 60106 — logged for map parity and ZIP-corridor verification.
 

@@ -8,15 +8,18 @@ zipCode: "60714"
 county: "Cook County"
 elevationFt: 653
 lat: 42.0300
-lng: -87.8100
+lng: -87.8400
 zipSample: ["60701", "60714"]
 zipCodes: ["60714", "60701"]
-localPaths: ["Cook County / ZIP 60701 sector", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60714", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8100"]
-zillowHomeValueUsd: 398484
+localPaths: ["Cook County / ZIP 60701 sector", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60714", "Cook County / ZIP 60714 sector", "Cook County / coords 42.0300, -87.8400"]
 ---
 
-**Engineering Notice for Niles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Niles:** Supply line, cleanout, and water heater scope recorded at 653 ft elevation context (Cook County).
 
+
+Burst pipe and drain clog calls in Niles, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Niles, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -43,8 +46,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Niles, IL.
 Permit note: Main water line replacement in Niles, IL may require ROW restoration planning.
 
 Flow dossier 183304: branch wet-vent geometry and jetting nozzle envelope logged for Niles, IL county grid Cook County (ZIP 60714).
-
-Field routing: gas water heater draft hood gap paired with meter pit clearance near ZIP 60714.
 
 On-site sector marker: Cook County / primary ZIP 60714 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / primary ZIP 97116", "Washington County / ZIP 97116 sector"]
-zillowHomeValueUsd: 526975
 ---
 
-**Engineering Notice for Forest Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Forest Grove:** Supply line, cleanout, and water heater scope recorded at 194 ft elevation context (Washington County).
 
+
+Burst pipe and drain clog calls in Forest Grove, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Forest Grove, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -32,7 +35,7 @@ Permit note: Main water line replacement in Forest Grove, OR may require ROW res
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Galvanized segments in Forest Grove, OR may restrict flow long before visible corrosion.
 
@@ -45,8 +48,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Fixture roster 863255: toilet flange spacer kit and shower cartridge seat score queued for Forest Grove, OR walk-through.
 
 Lineage note 863255: recirculation pump amp draw captured before Forest Grove, OR branch isolation.
-
-plumbing brief: PEX expansion ring batch and cleanout riser height were cross-checked for the Forest Grove intake packet.
 
 On-site sector marker: Washington County / coords 45.5200, -123.1100 — logged for map parity and ZIP-corridor verification.
 

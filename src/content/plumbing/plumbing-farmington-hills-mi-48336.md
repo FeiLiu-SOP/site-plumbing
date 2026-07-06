@@ -12,11 +12,14 @@ lng: -83.3800
 zipSample: ["48335", "48331", "48336", "48334"]
 zipCodes: ["48335", "48334", "48336", "48331"]
 localPaths: ["Oakland County / ZIP 48331 sector", "Oakland County / ZIP 48336 sector", "Oakland County / primary ZIP 48336", "Oakland County / ZIP 48334 sector", "Oakland County / ZIP 48335 sector"]
-zillowHomeValueUsd: 300823
 ---
 
-**Engineering Notice for Farmington Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Farmington Hills:** Emergency leak and drain triage uses ~162 mg/L hardness context with Oakland County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Farmington Hills, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Farmington Hills, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: Water heater anode type may change with Farmington Hills, MI hardness profiles.
 

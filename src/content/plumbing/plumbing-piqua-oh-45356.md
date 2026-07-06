@@ -12,11 +12,14 @@ lng: -84.2400
 zipSample: ["45356"]
 zipCodes: ["45356"]
 localPaths: ["Miami County / ZIP 45356 sector", "Miami County / elevation 883 ft band", "Miami County / coords 40.1500, -84.2400", "Miami County / primary ZIP 45356"]
-zillowHomeValueUsd: 180336
 ---
 
-**Engineering Notice for Piqua:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami County.
+**Engineering Notice for Piqua:** Supply line, cleanout, and water heater scope recorded at 883 ft elevation context (Miami County).
 
+
+Certified plumbing crews serving Piqua, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Piqua, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Stack vent offsets in Piqua, OH older duplexes can mask tub gurgle as a main-line failure.
 
@@ -32,7 +35,7 @@ Fixture shutoff stiffness in Piqua, OH may indicate mineral bridging behind stem
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 45356.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -50,7 +53,7 @@ Supply audit 911289: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Drain map 911289: camera-pass priority and expansion-tank pre-charge noted for Piqua, OH postal sector 45356.
 
-Field routing: cleanout riser height paired with copper pinhole cluster near ZIP 45356.
+Local service note: cleanout riser height paired with copper pinhole cluster near ZIP 45356 for emergency plumbing pro repairs.
 
 On-site sector marker: Miami County / elevation 883 ft band — logged for map parity and ZIP-corridor verification.
 

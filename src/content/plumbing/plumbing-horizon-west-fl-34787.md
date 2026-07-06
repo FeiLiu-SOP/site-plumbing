@@ -12,11 +12,14 @@ lng: -81.6100
 zipSample: ["34778", "34777", "32836", "34786", "34787"]
 zipCodes: ["32836", "34777", "34786", "34787", "34778"]
 localPaths: ["Orange County / primary ZIP 34787", "Orange County / elevation 125 ft band", "Orange County / ZIP 32836 sector", "Orange County / ZIP 34786 sector", "Orange County / coords 28.4400, -81.6100"]
-zillowHomeValueUsd: 571229
 ---
 
-**Engineering Notice for Horizon West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Horizon West:** Supply line, cleanout, and water heater scope recorded at 125 ft elevation context (Orange County).
 
+
+Burst pipe and drain clog calls in Horizon West, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Horizon West, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Horizon West, FL may require ROW res
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Lineage note 218825: recirculation pump amp draw captured before Horizon West, FL branch isolation.
-
-Scope trace: fixture shutoff torque log plus thermal expansion loop check referenced in Orange County county grid review.
 
 On-site sector marker: Orange County / ZIP 34786 sector — logged for map parity and ZIP-corridor verification.
 

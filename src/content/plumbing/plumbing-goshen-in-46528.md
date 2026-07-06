@@ -12,15 +12,18 @@ lng: -85.8300
 zipSample: ["46528", "46526", "46527"]
 zipCodes: ["46528", "46526", "46527"]
 localPaths: ["Elkhart County / ZIP 46528 sector", "Elkhart County / ZIP 46526 sector", "Elkhart County / coords 41.5700, -85.8300", "Elkhart County / ZIP 46527 sector", "Elkhart County / elevation 804 ft band"]
-zillowHomeValueUsd: 303725
 ---
 
-**Engineering Notice for Goshen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elkhart County.
+**Engineering Notice for Goshen:** Supply line, cleanout, and water heater scope recorded at 804 ft elevation context (Elkhart County).
 
+
+Licensed plumbing crews serving Goshen, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Goshen, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-We coordinate Goshen, IN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Goshen, IN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -49,8 +52,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Supply audit 236878: curb-stop orientation and hose-bib freeze flag reviewed for Goshen, IN at coords 41.5700/-85.8300.
 
 Flow dossier 236878: branch wet-vent geometry and jetting nozzle envelope logged for Goshen, IN county grid Elkhart County (ZIP 46528).
-
-Field routing: dielectric union checklist paired with sewer cleanout cap thread near ZIP 46528.
 
 ZIP-corridor snapshot for Goshen, IN: sampled sectors include 46526, 46527, 46528; county routing grid remains Elkhart County.
 

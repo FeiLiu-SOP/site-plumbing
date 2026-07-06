@@ -12,11 +12,14 @@ lng: -73.6800
 zipSample: ["11010"]
 zipCodes: ["11010"]
 localPaths: ["Nassau County / primary ZIP 11010", "Nassau County / coords 40.7000, -73.6800", "Nassau County / elevation 59 ft band", "Nassau County / ZIP 11010 sector"]
-zillowHomeValueUsd: 810371
 ---
 
-**Engineering Notice for Franklin Square:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Franklin Square:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Nassau County.
 
+
+Certified plumbing crews serving Franklin Square, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Franklin Square, NY, Nassau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Across Franklin Square, NY, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -49,6 +52,8 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Drain map 251407: camera-pass priority and expansion-tank pre-charge noted for Franklin Square, NY postal sector 11010.
 
 Pressure trace 251407: meter-pit clearance and dielectric union checklist staged for Franklin Square, NY near elevation 59 ft.
+
+Scope trace: hose bib freeze flag plus sump float travel referenced in Nassau County drain and water line review.
 
 On-site sector marker: Nassau County / coords 40.7000, -73.6800 — logged for map parity and ZIP-corridor verification.
 

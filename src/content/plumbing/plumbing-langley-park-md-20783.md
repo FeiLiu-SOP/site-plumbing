@@ -12,11 +12,14 @@ lng: -76.9800
 zipSample: ["20903", "20783"]
 zipCodes: ["20783", "20903"]
 localPaths: ["Prince George's County / coords 38.9900, -76.9800", "Prince George's County / ZIP 20903 sector", "Prince George's County / elevation 157 ft band", "Prince George's County / primary ZIP 20783", "Prince George's County / ZIP 20783 sector"]
-zillowHomeValueUsd: 405959
 ---
 
-**Engineering Notice for Langley Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Langley Park:** Supply line, cleanout, and water heater scope recorded at 157 ft elevation context (Prince George's County).
 
+
+When a main line backs up in Langley Park, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Langley Park, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Prince George's County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,8 +50,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Drain map 604230: camera-pass priority and expansion-tank pre-charge noted for Langley Park, MD postal sector 20783.
-
-Scope trace: slab leak listening window plus slab penetration sleeve seal referenced in Prince George's County county grid review.
 
 ZIP-corridor snapshot for Langley Park, MD: sampled sectors include 20783, 20903; county routing grid remains Prince George's County.
 

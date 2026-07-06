@@ -12,15 +12,18 @@ lng: -110.9300
 zipSample: ["85621"]
 zipCodes: ["85621"]
 localPaths: ["Santa Cruz County / primary ZIP 85621", "Santa Cruz County / elevation 3770 ft band", "Santa Cruz County / coords 31.3600, -110.9300", "Santa Cruz County / ZIP 85621 sector"]
-zillowHomeValueUsd: 220979
 ---
 
-**Engineering Notice for Nogales:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Nogales:** Emergency leak and drain triage uses ~134 mg/L hardness context with Santa Cruz County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Nogales, AZ, Santa Cruz County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Nogales, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate Nogales, AZ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Nogales, AZ plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless sleeve pulls near Nogales, AZ require pit shoring notes when water tables are high.
 

@@ -12,11 +12,14 @@ lng: -82.5800
 zipSample: ["34207", "34205", "34210"]
 zipCodes: ["34207", "34205", "34210"]
 localPaths: ["Manatee County / ZIP 34207 sector", "Manatee County / elevation 30 ft band", "Manatee County / ZIP 34210 sector", "Manatee County / coords 27.4600, -82.5800", "Manatee County / primary ZIP 34205"]
-zillowHomeValueUsd: 266879
 ---
 
-**Engineering Notice for South Bradenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manatee County.
+**Engineering Notice for South Bradenton:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Manatee County).
 
+
+Emergency plumbing pro service in South Bradenton, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Manatee County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in South Bradenton, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Manatee County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

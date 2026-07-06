@@ -12,11 +12,14 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / elevation 705 ft band", "Honolulu County / coords 21.3600, -158.0800", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
-zillowHomeValueUsd: 860432
 ---
 
-**Engineering Notice for Makakilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Makakilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Honolulu County.
 
+
+Burst pipe and drain clog calls in Makakilo, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Honolulu County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Makakilo, HI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -49,8 +52,6 @@ Cast-iron hub corrosion in Makakilo, HI often concentrates at the third joint up
 Pressure trace 814368: meter-pit clearance and dielectric union checklist staged for Makakilo, HI near elevation 705 ft.
 
 Fixture roster 814368: toilet flange spacer kit and shower cartridge seat score queued for Makakilo, HI walk-through.
-
-Scope trace: recirculation pump amp draw plus shower cartridge seat score referenced in Honolulu County county grid review.
 
 On-site sector marker: Honolulu County / coords 21.3600, -158.0800 — logged for map parity and ZIP-corridor verification.
 

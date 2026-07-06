@@ -12,11 +12,14 @@ lng: -82.3300
 zipSample: ["29615", "29687", "29606"]
 zipCodes: ["29687", "29606", "29615"]
 localPaths: ["Greenville County / ZIP 29615 sector", "Greenville County / ZIP 29606 sector", "Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29615", "Greenville County / coords 34.8800, -82.3300"]
-zillowHomeValueUsd: 437334
 ---
 
-**Engineering Notice for Wade Hampton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
+**Engineering Notice for Wade Hampton:** Emergency leak and drain triage uses ~128 mg/L hardness context with Greenville County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Wade Hampton, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenville County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Wade Hampton, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -43,6 +46,8 @@ FAQ: Is hydro-jetting always appropriate? In Wade Hampton, SC, pipe material and
 Hydrostatic holds in Wade Hampton, SC slab circuits run overnight when listening mics show ambiguous hits.
 
 Supply audit 666717: curb-stop orientation and hose-bib freeze flag reviewed for Wade Hampton, SC at coords 34.8800/-82.3300.
+
+Local service note: floor drain trap primer drip paired with water heater T&P path near ZIP 29615 for emergency plumbing technician repairs.
 
 ZIP-corridor snapshot for Wade Hampton, SC: sampled sectors include 29606, 29615, 29687; county routing grid remains Greenville County.
 

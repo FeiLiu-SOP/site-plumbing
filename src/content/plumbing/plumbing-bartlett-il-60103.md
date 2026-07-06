@@ -12,11 +12,14 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / elevation 797 ft band", "DuPage County / ZIP 60103 sector", "DuPage County / primary ZIP 60103", "DuPage County / coords 41.9800, -88.2100"]
-zillowHomeValueUsd: 427228
 ---
 
-**Engineering Notice for Bartlett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bartlett:** Supply line, cleanout, and water heater scope recorded at 797 ft elevation context (DuPage County).
 
+
+Emergency plumbing technician service in Bartlett, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in DuPage County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+When a main line backs up in Bartlett, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Permit note: Main water line replacement in Bartlett, IL may require ROW restoration planning.
 
@@ -34,7 +37,7 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 60103.
 
@@ -45,8 +48,6 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Pressure trace 210528: meter-pit clearance and dielectric union checklist staged for Bartlett, IL near elevation 797 ft.
 
 Lineage note 210528: recirculation pump amp draw captured before Bartlett, IL branch isolation.
-
-Field routing: slab penetration sleeve seal paired with PRV outlet curve near ZIP 60103.
 
 On-site sector marker: DuPage County / ZIP 60103 sector — logged for map parity and ZIP-corridor verification.
 

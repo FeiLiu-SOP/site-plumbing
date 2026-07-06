@@ -12,11 +12,14 @@ lng: -87.8800
 zipSample: ["53144", "53142", "53140", "53143", "53141"]
 zipCodes: ["53143", "53144", "53141", "53140", "53142"]
 localPaths: ["Kenosha County / elevation 719 ft band", "Kenosha County / ZIP 53144 sector", "Kenosha County / ZIP 53143 sector", "Kenosha County / ZIP 53140 sector", "Kenosha County / ZIP 53141 sector"]
-zillowHomeValueUsd: 319752
 ---
 
-**Engineering Notice for Kenosha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenosha County.
+**Engineering Notice for Kenosha:** Emergency leak and drain triage uses ~149 mg/L hardness context with Kenosha County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Kenosha, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Kenosha, WI, Kenosha County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -48,7 +51,7 @@ Flow dossier 743349: branch wet-vent geometry and jetting nozzle envelope logged
 
 Fixture roster 743349: toilet flange spacer kit and shower cartridge seat score queued for Kenosha, WI walk-through.
 
-plumbing brief: cleanout riser height and hose bib freeze flag were cross-checked for the Kenosha intake packet.
+Plumbing service brief: cleanout riser height and hose bib freeze flag were cross-checked for the Kenosha pipe and leak scope.
 
 On-site sector marker: Kenosha County / ZIP 53142 sector — logged for map parity and ZIP-corridor verification.
 

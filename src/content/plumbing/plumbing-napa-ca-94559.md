@@ -12,11 +12,14 @@ lng: -122.3000
 zipSample: ["94558", "94559", "94581"]
 zipCodes: ["94559", "94558", "94581"]
 localPaths: ["Napa County / elevation 49 ft band", "Napa County / ZIP 94558 sector", "Napa County / coords 38.3000, -122.3000", "Napa County / ZIP 94581 sector", "Napa County / primary ZIP 94559"]
-zillowHomeValueUsd: 807839
 ---
 
-**Engineering Notice for Napa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Napa County.
+**Engineering Notice for Napa:** Supply line, cleanout, and water heater scope recorded at 49 ft elevation context (Napa County).
 
+
+Plumbing restoration in Napa, CA, Napa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Napa, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Water heater anode type may change with Napa, CA hardness profiles.
 
@@ -46,7 +49,7 @@ Pressure trace 894962: meter-pit clearance and dielectric union checklist staged
 
 Intake ledger 894962: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Napa, CA at 38.3000, -122.3000.
 
-Scope trace: gas water heater draft hood gap plus scale coupon sampling referenced in Napa County county grid review.
+Scope trace: gas water heater draft hood gap plus scale coupon sampling referenced in Napa County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 38.3000, -122.3000 at elevation ~49 ft aligns with Napa County intake staging.
 

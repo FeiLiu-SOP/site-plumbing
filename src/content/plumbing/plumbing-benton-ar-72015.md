@@ -12,11 +12,14 @@ lng: -92.5700
 zipSample: ["72019", "72015", "72158", "72018"]
 zipCodes: ["72015", "72158", "72018", "72019"]
 localPaths: ["Saline County / ZIP 72158 sector", "Saline County / ZIP 72019 sector", "Saline County / ZIP 72015 sector", "Saline County / elevation 509 ft band", "Saline County / coords 34.5800, -92.5700"]
-zillowHomeValueUsd: 205616
 ---
 
-**Engineering Notice for Benton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Saline County.
+**Engineering Notice for Benton:** Supply line, cleanout, and water heater scope recorded at 509 ft elevation context (Saline County).
 
+
+Emergency qualified plumber service in Benton, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Saline County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing restoration in Benton, AR, Saline County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -49,6 +52,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Flow dossier 718537: branch wet-vent geometry and jetting nozzle envelope logged for Benton, AR county grid Saline County (ZIP 72015).
 
 Supply audit 718537: curb-stop orientation and hose-bib freeze flag reviewed for Benton, AR at coords 34.5800/-92.5700.
+
+Plumbing remediation brief: hose bib freeze flag and gas water heater draft hood gap were cross-checked for the Benton pipe and leak scope.
 
 ZIP-corridor snapshot for Benton, AR: sampled sectors include 72018, 72158, 72019, 72015; county routing grid remains Saline County.
 

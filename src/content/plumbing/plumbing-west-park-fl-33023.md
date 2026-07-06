@@ -12,11 +12,14 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / primary ZIP 33023", "Broward County / coords 25.9800, -80.1900", "Broward County / ZIP 33023 sector", "Broward County / elevation 30 ft band"]
-zillowHomeValueUsd: 450425
 ---
 
-**Engineering Notice for West Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for West Park:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Broward County).
 
+
+When a main line backs up in West Park, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in West Park, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broward County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33023.
 

@@ -12,11 +12,14 @@ lng: -97.7200
 zipSample: ["73064"]
 zipCodes: ["73064"]
 localPaths: ["Canadian County / ZIP 73064 sector", "Canadian County / elevation 1345 ft band", "Canadian County / primary ZIP 73064", "Canadian County / coords 35.3900, -97.7200"]
-zillowHomeValueUsd: 276351
 ---
 
-**Engineering Notice for Mustang:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Canadian County.
+**Engineering Notice for Mustang:** Supply line, cleanout, and water heater scope recorded at 1345 ft elevation context (Canadian County).
 
+
+Burst pipe and drain clog calls in Mustang, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Canadian County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Mustang, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Canadian County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Irrigation cross-connections in Mustang, OK can back-siphon domestic lines during main breaks.
 
@@ -47,8 +50,6 @@ Sump discharge freeze risk in Mustang, OK should be reviewed before spring thaw 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
 Lineage note 448854: recirculation pump amp draw captured before Mustang, OK branch isolation.
-
-Scope trace: gas water heater draft hood gap plus PEX expansion ring batch referenced in Canadian County county grid review.
 
 Coordinate-anchored dispatch note: center reference 35.3900, -97.7200 at elevation ~1345 ft aligns with Canadian County intake staging.
 

@@ -12,11 +12,14 @@ lng: -95.9500
 zipSample: ["74006", "74005", "74003", "74004"]
 zipCodes: ["74004", "74006", "74003", "74005"]
 localPaths: ["Washington County / ZIP 74006 sector", "Washington County / ZIP 74005 sector", "Washington County / primary ZIP 74006", "Washington County / ZIP 74004 sector", "Washington County / ZIP 74003 sector"]
-zillowHomeValueUsd: 216059
 ---
 
-**Engineering Notice for Bartlesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Bartlesville:** Emergency leak and drain triage uses ~163 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Bartlesville, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Bartlesville, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Washington County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Cast-iron hub corrosion in Bartlesville, OK often concentrates at the third joint upstream of the cleanout.
 
@@ -36,7 +39,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Basement floor drains in Bartlesville, OK should be snaked only after trap arm geometry is confirmed on camera.
 

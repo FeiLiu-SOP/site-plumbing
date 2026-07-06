@@ -12,11 +12,14 @@ lng: -84.9400
 zipSample: ["30701", "30703"]
 zipCodes: ["30701", "30703"]
 localPaths: ["Gordon County / ZIP 30701 sector", "Gordon County / coords 34.4900, -84.9400", "Gordon County / elevation 666 ft band", "Gordon County / ZIP 30703 sector", "Gordon County / primary ZIP 30701"]
-zillowHomeValueUsd: 273340
 ---
 
-**Engineering Notice for Calhoun:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gordon County.
+**Engineering Notice for Calhoun:** Emergency leak and drain triage uses ~145 mg/L hardness context with Gordon County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Calhoun, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Calhoun, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gordon County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -43,8 +46,6 @@ Irrigation cross-connections in Calhoun, GA can back-siphon domestic lines durin
 Polybutylene manifold tags in Calhoun, GA basements should be photographed before any wall chase opens.
 
 Intake ledger 459882: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Calhoun, GA at 34.4900, -84.9400.
-
-Field routing: backflow test cock orientation paired with slab penetration sleeve seal near ZIP 30701.
 
 On-site sector marker: Gordon County / ZIP 30703 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -86.8100
 zipSample: ["35236", "35226", "35260", "35216", "35242"]
 zipCodes: ["35226", "35260", "35216", "35242", "35236", "35244"]
 localPaths: ["Jefferson County / ZIP 35226 sector", "Jefferson County / elevation 492 ft band", "Jefferson County / primary ZIP 35216", "Jefferson County / ZIP 35216 sector", "Jefferson County / coords 33.3800, -86.8100"]
-zillowHomeValueUsd: 411538
 ---
 
-**Engineering Notice for Hoover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Hoover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+Certified plumbing crews serving Hoover, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Hoover, AL, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Irrigation cross-connections in Hoover, AL can back-siphon domestic lines during main breaks.
 
@@ -47,8 +50,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Technicians log static and dynamic pressure before opening any wall access panel.
 
 Supply audit 396154: curb-stop orientation and hose-bib freeze flag reviewed for Hoover, AL at coords 33.3800/-86.8100.
-
-Field routing: dielectric union checklist paired with PRV outlet curve near ZIP 35216.
 
 On-site sector marker: Jefferson County / ZIP 35260 sector — logged for map parity and ZIP-corridor verification.
 

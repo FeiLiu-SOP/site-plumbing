@@ -12,11 +12,14 @@ lng: -157.8500
 zipSample: ["96836", "96813", "96809", "96846", "96802"]
 zipCodes: ["96803", "96816", "96809", "96859", "96817", "96836", "96820", "96837", "96846", "96811", "96805", "96828"]
 localPaths: ["Honolulu County / coords 21.3300, -157.8500", "Honolulu County / ZIP 96813 sector", "Honolulu County / ZIP 96846 sector", "Honolulu County / elevation 256 ft band", "Honolulu County / ZIP 96802 sector"]
-zillowHomeValueUsd: 530524
 ---
 
-**Engineering Notice for Honolulu:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Honolulu:** Emergency leak and drain triage uses ~163 mg/L hardness context with Honolulu County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Honolulu, HI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Qualified plumbing crews serving Honolulu, HI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

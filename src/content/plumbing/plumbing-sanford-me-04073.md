@@ -12,11 +12,14 @@ lng: -70.7600
 zipSample: ["04073", "04083"]
 zipCodes: ["04073", "04083"]
 localPaths: ["York County / primary ZIP 04073", "York County / ZIP 04083 sector", "York County / elevation 243 ft band", "York County / ZIP 04073 sector", "York County / coords 43.4200, -70.7600"]
-zillowHomeValueUsd: 367559
 ---
 
-**Engineering Notice for Sanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
+**Engineering Notice for Sanford:** Supply line, cleanout, and water heater scope recorded at 243 ft elevation context (York County).
 
+
+Certified plumbing crews serving Sanford, ME review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Sanford, ME may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in York County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Is hydro-jetting always appropriate? In Sanford, ME, pipe material and blockage type dictate method.
 

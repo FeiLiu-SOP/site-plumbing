@@ -12,11 +12,14 @@ lng: -101.8900
 zipSample: ["79464", "79412", "79411", "79409", "79452"]
 zipCodes: ["79413", "79407", "79406", "79409", "79452", "79411", "79402", "79415", "79493", "79412", "79414", "79423"]
 localPaths: ["Lubbock County / ZIP 79452 sector", "Lubbock County / primary ZIP 79406", "Lubbock County / ZIP 79409 sector", "Lubbock County / elevation 3232 ft band", "Lubbock County / coords 33.5700, -101.8900"]
-zillowHomeValueUsd: 298211
 ---
 
-**Engineering Notice for Lubbock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lubbock County.
+**Engineering Notice for Lubbock:** Emergency leak and drain triage uses ~167 mg/L hardness context with Lubbock County service-area notes for pipe and fixture repairs.
 
+
+Emergency qualified plumber service in Lubbock, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Lubbock County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Lubbock, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -46,7 +49,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Flow dossier 734751: branch wet-vent geometry and jetting nozzle envelope logged for Lubbock, TX county grid Lubbock County (ZIP 79406).
 
-Scope trace: sewer cleanout cap thread plus slab penetration sleeve seal referenced in Lubbock County county grid review.
+Scope trace: sewer cleanout cap thread plus slab penetration sleeve seal referenced in Lubbock County drain and water line review.
 
 On-site sector marker: Lubbock County / ZIP 79407 sector — logged for map parity and ZIP-corridor verification.
 

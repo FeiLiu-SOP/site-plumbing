@@ -12,11 +12,14 @@ lng: -84.1800
 zipSample: ["31706", "31701", "31702", "31703", "31721"]
 zipCodes: ["31707", "31702", "31703", "31706", "31721", "31708", "31701", "31705"]
 localPaths: ["Dougherty County / ZIP 31702 sector", "Dougherty County / primary ZIP 31705", "Dougherty County / ZIP 31701 sector", "Dougherty County / ZIP 31706 sector", "Dougherty County / ZIP 31703 sector"]
-zillowHomeValueUsd: 91162
 ---
 
-**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dougherty County.
+**Engineering Notice for Albany:** Supply line, cleanout, and water heater scope recorded at 220 ft elevation context (Dougherty County).
 
+
+When a main line backs up in Albany, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Albany, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dougherty County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -45,6 +48,8 @@ Expansion tank pre-charge loss in Albany, GA often tracks heater replacement def
 Fixture roster 515320: toilet flange spacer kit and shower cartridge seat score queued for Albany, GA walk-through.
 
 Flow dossier 515320: branch wet-vent geometry and jetting nozzle envelope logged for Albany, GA county grid Dougherty County (ZIP 31705).
+
+Scope trace: dielectric union checklist plus recirculation pump amp draw referenced in Dougherty County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 31.5800, -84.1800 at elevation ~220 ft aligns with Dougherty County intake staging.
 

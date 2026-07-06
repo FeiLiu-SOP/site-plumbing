@@ -12,11 +12,14 @@ lng: -70.9700
 zipSample: ["01961", "01960"]
 zipCodes: ["01960", "01961"]
 localPaths: ["Essex County / ZIP 01960 sector", "Essex County / primary ZIP 01960", "Essex County / coords 42.5300, -70.9700", "Essex County / ZIP 01961 sector", "Essex County / elevation 184 ft band"]
-zillowHomeValueUsd: 695254
 ---
 
-**Engineering Notice for Peabody:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.
+**Engineering Notice for Peabody:** Emergency leak and drain triage uses ~138 mg/L hardness context with Essex County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Peabody, MA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Certified plumbing crews serving Peabody, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Expansion tank pre-charge loss in Peabody, MA often tracks heater replacement deferrals.
 

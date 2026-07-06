@@ -12,11 +12,14 @@ lng: -116.6600
 zipSample: ["83607", "83605"]
 zipCodes: ["83607", "83605"]
 localPaths: ["Canyon County / ZIP 83607 sector", "Canyon County / primary ZIP 83607", "Canyon County / elevation 2398 ft band", "Canyon County / ZIP 83605 sector", "Canyon County / coords 43.6500, -116.6600"]
-zillowHomeValueUsd: 448736
 ---
 
-**Engineering Notice for Caldwell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Canyon County.
+**Engineering Notice for Caldwell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Canyon County.
 
+
+Licensed plumbing crews serving Caldwell, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Caldwell, ID, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Branch wet vents in Caldwell, ID can mask gurgling as a main-line issue.
 

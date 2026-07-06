@@ -12,11 +12,14 @@ lng: -80.3900
 zipSample: ["27103", "27012"]
 zipCodes: ["27103", "27012"]
 localPaths: ["Forsyth County / primary ZIP 27012", "Forsyth County / ZIP 27012 sector", "Forsyth County / ZIP 27103 sector", "Forsyth County / coords 36.0300, -80.3900", "Forsyth County / elevation 814 ft band"]
-zillowHomeValueUsd: 388280
 ---
 
-**Engineering Notice for Clemmons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forsyth County.
+**Engineering Notice for Clemmons:** Emergency leak and drain triage uses ~120 mg/L hardness context with Forsyth County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Clemmons, NC, Forsyth County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Clemmons, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -49,6 +52,8 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Fixture roster 107064: toilet flange spacer kit and shower cartridge seat score queued for Clemmons, NC walk-through.
 
 Drain map 107064: camera-pass priority and expansion-tank pre-charge noted for Clemmons, NC postal sector 27012.
+
+Plumbing remediation brief: cleanout riser height and sewer cleanout cap thread were cross-checked for the Clemmons pipe and leak scope.
 
 ZIP-corridor snapshot for Clemmons, NC: sampled sectors include 27012, 27103; county routing grid remains Forsyth County.
 

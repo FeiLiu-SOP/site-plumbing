@@ -12,11 +12,14 @@ lng: -86.7600
 zipSample: ["35124"]
 zipCodes: ["35124"]
 localPaths: ["Shelby County / primary ZIP 35124", "Shelby County / ZIP 35124 sector", "Shelby County / coords 33.3100, -86.7600", "Shelby County / elevation 883 ft band"]
-zillowHomeValueUsd: 348416
 ---
 
-**Engineering Notice for Pelham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Pelham:** Supply line, cleanout, and water heater scope recorded at 883 ft elevation context (Shelby County).
 
+
+Plumbing restoration in Pelham, AL, Shelby County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Pelham, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -40,7 +43,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch packets reference county grid Shelby County near ZIP 35124.
+Our Pelham, AL service packets reference Shelby County near ZIP 35124 for pipe and leak scope.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -48,7 +51,7 @@ Stack vent offsets in Pelham, AL older duplexes can mask tub gurgle as a main-li
 
 Fixture roster 663004: toilet flange spacer kit and shower cartridge seat score queued for Pelham, AL walk-through.
 
-Scope trace: scale coupon sampling plus gas water heater draft hood gap referenced in Shelby County county grid review.
+Scope trace: scale coupon sampling plus gas water heater draft hood gap referenced in Shelby County drain and water line review.
 
 On-site sector marker: Shelby County / primary ZIP 35124 — logged for map parity and ZIP-corridor verification.
 

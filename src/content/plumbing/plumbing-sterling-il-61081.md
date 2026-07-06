@@ -12,17 +12,20 @@ lng: -89.7000
 zipSample: ["61081"]
 zipCodes: ["61081"]
 localPaths: ["Whiteside County / elevation 689 ft band", "Whiteside County / coords 41.8000, -89.7000", "Whiteside County / primary ZIP 61081", "Whiteside County / ZIP 61081 sector"]
-zillowHomeValueUsd: 137360
 ---
 
-**Engineering Notice for Sterling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whiteside County.
+**Engineering Notice for Sterling:** Supply line, cleanout, and water heater scope recorded at 689 ft elevation context (Whiteside County).
 
+
+Licensed plumbing crews serving Sterling, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Sterling, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Whiteside County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
 Expansion tank pre-charge loss in Sterling, IL often tracks heater replacement deferrals.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -43,6 +46,8 @@ Basement floor drains in Sterling, IL should be snaked only after trap arm geome
 Cast-iron hub corrosion in Sterling, IL often concentrates at the third joint upstream of the cleanout.
 
 Lineage note 441521: recirculation pump amp draw captured before Sterling, IL branch isolation.
+
+Plumbing remediation brief: floor drain trap primer drip and slab leak listening window were cross-checked for the Sterling pipe and leak scope.
 
 On-site sector marker: Whiteside County / ZIP 61081 sector — logged for map parity and ZIP-corridor verification.
 

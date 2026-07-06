@@ -12,11 +12,14 @@ lng: -114.0100
 zipSample: ["86401", "86409"]
 zipCodes: ["86401", "86409"]
 localPaths: ["Mohave County / primary ZIP 86409", "Mohave County / ZIP 86401 sector", "Mohave County / coords 35.2200, -114.0100", "Mohave County / ZIP 86409 sector", "Mohave County / elevation 3478 ft band"]
-zillowHomeValueUsd: 263523
 ---
 
-**Engineering Notice for Kingman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.
+**Engineering Notice for Kingman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Mohave County.
 
+
+Burst pipe and drain clog calls in Kingman, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Mohave County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Kingman, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Kingman, AZ hardness profiles.
 
@@ -50,7 +53,7 @@ Pressure trace 829849: meter-pit clearance and dielectric union checklist staged
 
 Lineage note 829849: recirculation pump amp draw captured before Kingman, AZ branch isolation.
 
-plumbing brief: branch wet vent geometry and toilet flange spacer kit were cross-checked for the Kingman intake packet.
+Plumbing restoration brief: branch wet vent geometry and toilet flange spacer kit were cross-checked for the Kingman pipe and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Mohave County. Reference elevation: 3478 ft. Primary coordinates: 35.2200, -114.0100. ZIP sample: 86409, 86401. Service perimeter note: Coverage extends through Mohave County with dispatch centered near ZIP 86409.
 

@@ -12,11 +12,14 @@ lng: -93.3600
 zipSample: ["55416", "55426"]
 zipCodes: ["55426", "55416"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55416 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / primary ZIP 55426", "Hennepin County / coords 44.9500, -93.3600"]
-zillowHomeValueUsd: 370756
 ---
 
-**Engineering Notice for St. Louis Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for St. Louis Park:** Supply line, cleanout, and water heater scope recorded at 909 ft elevation context (Hennepin County).
 
+
+When a main line backs up in St. Louis Park, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving St. Louis Park, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In St. Louis Park, MN, before spring thaw and hurricane remnants.
 
@@ -36,7 +39,7 @@ Hard water in St. Louis Park, MN accelerates scale on PRV seats and heater eleme
 
 Material note: Water heater anode type may change with St. Louis Park, MN hardness profiles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

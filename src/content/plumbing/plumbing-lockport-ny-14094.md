@@ -12,11 +12,14 @@ lng: -78.7000
 zipSample: ["14094", "14095"]
 zipCodes: ["14094", "14095"]
 localPaths: ["Niagara County / ZIP 14095 sector", "Niagara County / coords 43.1700, -78.7000", "Niagara County / ZIP 14094 sector", "Niagara County / primary ZIP 14094", "Niagara County / elevation 587 ft band"]
-zillowHomeValueUsd: 257255
 ---
 
-**Engineering Notice for Lockport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Niagara County.
+**Engineering Notice for Lockport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Niagara County.
 
+
+Emergency plumbing pro service in Lockport, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Niagara County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+When a main line backs up in Lockport, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Seasonal Lockport, NY irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,6 +48,8 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 Supply audit 524439: curb-stop orientation and hose-bib freeze flag reviewed for Lockport, NY at coords 43.1700/-78.7000.
 
 Lineage note 524439: recirculation pump amp draw captured before Lockport, NY branch isolation.
+
+Scope trace: jetter nozzle envelope plus dielectric union checklist referenced in Niagara County drain and water line review.
 
 On-site sector marker: Niagara County / ZIP 14095 sector — logged for map parity and ZIP-corridor verification.
 

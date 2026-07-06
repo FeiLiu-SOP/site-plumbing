@@ -12,11 +12,14 @@ lng: -120.1800
 zipSample: ["96161", "96160"]
 zipCodes: ["96160", "96161"]
 localPaths: ["Nevada County / ZIP 96161 sector", "Nevada County / elevation 6201 ft band", "Nevada County / primary ZIP 96161", "Nevada County / ZIP 96160 sector", "Nevada County / coords 39.3500, -120.1800"]
-zillowHomeValueUsd: 1014762
 ---
 
-**Engineering Notice for Truckee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nevada County.
+**Engineering Notice for Truckee:** Emergency leak and drain triage uses ~166 mg/L hardness context with Nevada County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Truckee, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nevada County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Truckee, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Nevada County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Trenchless sleeve pulls near Truckee, CA require pit shoring notes when water tables are high.
 
@@ -42,15 +45,13 @@ CPVC solvent weld times shift with ambient humidity during Truckee, CA shoulder 
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We coordinate Truckee, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Truckee, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Pressure trace 684356: meter-pit clearance and dielectric union checklist staged for Truckee, CA near elevation 6201 ft.
 
 Fixture roster 684356: toilet flange spacer kit and shower cartridge seat score queued for Truckee, CA walk-through.
-
-Scope trace: thermal expansion loop check plus jetter nozzle envelope referenced in Nevada County county grid review.
 
 On-site sector marker: Nevada County / coords 39.3500, -120.1800 — logged for map parity and ZIP-corridor verification.
 

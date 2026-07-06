@@ -12,11 +12,14 @@ lng: -121.3000
 zipSample: ["95632"]
 zipCodes: ["95632"]
 localPaths: ["Sacramento County / coords 38.2700, -121.3000", "Sacramento County / ZIP 95632 sector", "Sacramento County / elevation 52 ft band", "Sacramento County / primary ZIP 95632"]
-zillowHomeValueUsd: 533036
 ---
 
-**Engineering Notice for Galt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Galt:** Supply line, cleanout, and water heater scope recorded at 52 ft elevation context (Sacramento County).
 
+
+Licensed plumbing crews serving Galt, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Galt, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sacramento County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 

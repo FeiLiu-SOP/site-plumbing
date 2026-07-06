@@ -12,11 +12,14 @@ lng: -74.2800
 zipSample: ["07065"]
 zipCodes: ["07065"]
 localPaths: ["Union County / ZIP 07065 sector", "Union County / coords 40.6100, -74.2800", "Union County / elevation 36 ft band", "Union County / primary ZIP 07065"]
-zillowHomeValueUsd: 529874
 ---
 
-**Engineering Notice for Rahway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Rahway:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Union County).
 
+
+When a main line backs up in Rahway, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Rahway, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Union County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

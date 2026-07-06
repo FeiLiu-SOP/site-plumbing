@@ -12,11 +12,14 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / primary ZIP 54220", "Manitowoc County / ZIP 54220 sector", "Manitowoc County / elevation 630 ft band"]
-zillowHomeValueUsd: 236147
 ---
 
-**Engineering Notice for Manitowoc:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manitowoc County.
+**Engineering Notice for Manitowoc:** Supply line, cleanout, and water heater scope recorded at 630 ft elevation context (Manitowoc County).
 
+
+Plumbing remediation in Manitowoc, WI, Manitowoc County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Manitowoc, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -47,8 +50,6 @@ Irrigation cross-connections in Manitowoc, WI can back-siphon domestic lines dur
 Cleanout access limits in Manitowoc, WI frequently extend drain cleaning duration.
 
 Fixture roster 440549: toilet flange spacer kit and shower cartridge seat score queued for Manitowoc, WI walk-through.
-
-plumbing brief: dielectric union checklist and toilet flange spacer kit were cross-checked for the Manitowoc intake packet.
 
 Primary postal anchor 54220 with multi-ZIP overlap in Manitowoc; field packets tag Manitowoc County for county-grid reconciliation.
 

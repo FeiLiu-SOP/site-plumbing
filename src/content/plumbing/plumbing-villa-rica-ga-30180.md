@@ -12,11 +12,14 @@ lng: -84.9200
 zipSample: ["30180"]
 zipCodes: ["30180"]
 localPaths: ["Carroll County / primary ZIP 30180", "Carroll County / coords 33.7300, -84.9200", "Carroll County / ZIP 30180 sector", "Carroll County / elevation 1155 ft band"]
-zillowHomeValueUsd: 311913
 ---
 
-**Engineering Notice for Villa Rica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.
+**Engineering Notice for Villa Rica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Carroll County.
 
+
+Plumbing service in Villa Rica, GA, Carroll County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Villa Rica, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Frost-free sillcock failures in Villa Rica, GA often trace to interior shutoff seats, not exterior stems.
 

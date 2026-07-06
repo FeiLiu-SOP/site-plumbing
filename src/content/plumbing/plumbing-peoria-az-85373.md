@@ -12,11 +12,14 @@ lng: -112.3000
 zipSample: ["85373", "85324", "85383", "85380", "85381"]
 zipCodes: ["85382", "85385", "85383", "85303", "85373", "85381", "85324", "85345", "85380"]
 localPaths: ["Maricopa County / elevation 1568 ft band", "Maricopa County / ZIP 85381 sector", "Maricopa County / ZIP 85373 sector", "Maricopa County / ZIP 85324 sector", "Maricopa County / coords 33.7800, -112.3000"]
-zillowHomeValueUsd: 366487
 ---
 
-**Engineering Notice for Peoria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Peoria:** Supply line, cleanout, and water heater scope recorded at 1568 ft elevation context (Maricopa County).
 
+
+Licensed plumbing crews serving Peoria, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Peoria, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Branch wet vents in Peoria, AZ can mask gurgling as a main-line issue.
 

@@ -12,11 +12,14 @@ lng: -110.9800
 zipSample: ["85737", "85704", "85755", "85742"]
 zipCodes: ["85755", "85742", "85737", "85704"]
 localPaths: ["Pima County / elevation 2740 ft band", "Pima County / primary ZIP 85755", "Pima County / ZIP 85704 sector", "Pima County / ZIP 85737 sector", "Pima County / coords 32.4200, -110.9800"]
-zillowHomeValueUsd: 513222
 ---
 
-**Engineering Notice for Oro Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Oro Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pima County.
 
+
+Emergency plumbing technician service in Oro Valley, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Pima County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Oro Valley, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,6 +50,8 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Hose bib split patterns in Oro Valley, AZ often follow missed winterization.
 
 Fixture roster 458514: toilet flange spacer kit and shower cartridge seat score queued for Oro Valley, AZ walk-through.
+
+Local service note: cleanout riser height paired with backflow test cock orientation near ZIP 85755 for emergency licensed plumber repairs.
 
 On-site sector marker: Pima County / ZIP 85742 sector — logged for map parity and ZIP-corridor verification.
 

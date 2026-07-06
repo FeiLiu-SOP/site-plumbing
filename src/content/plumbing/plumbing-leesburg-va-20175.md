@@ -12,11 +12,14 @@ lng: -77.5500
 zipSample: ["20177", "20178", "20176", "20175"]
 zipCodes: ["20177", "20175", "20176", "20178"]
 localPaths: ["Loudoun County / coords 39.1100, -77.5500", "Loudoun County / ZIP 20175 sector", "Loudoun County / ZIP 20177 sector", "Loudoun County / ZIP 20176 sector", "Loudoun County / elevation 289 ft band"]
-zillowHomeValueUsd: 840014
 ---
 
-**Engineering Notice for Leesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Leesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Loudoun County.
 
+
+When a main line backs up in Leesburg, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Emergency plumbing pro service in Leesburg, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Loudoun County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in Leesburg, VA may require ROW restoration planning.
 
@@ -46,7 +49,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Flow dossier 823762: branch wet-vent geometry and jetting nozzle envelope logged for Leesburg, VA county grid Loudoun County (ZIP 20175).
 
-plumbing brief: backflow test cock orientation and branch wet vent geometry were cross-checked for the Leesburg intake packet.
+Plumbing service brief: backflow test cock orientation and branch wet vent geometry were cross-checked for the Leesburg pipe and leak scope.
 
 On-site sector marker: Loudoun County / elevation 289 ft band — logged for map parity and ZIP-corridor verification.
 

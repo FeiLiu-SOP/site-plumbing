@@ -12,11 +12,14 @@ lng: -81.7000
 zipSample: ["28680", "28655"]
 zipCodes: ["28655", "28680"]
 localPaths: ["Burke County / ZIP 28680 sector", "Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28655", "Burke County / elevation 1201 ft band", "Burke County / coords 35.7400, -81.7000"]
-zillowHomeValueUsd: 259495
 ---
 
-**Engineering Notice for Morganton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Burke County.
+**Engineering Notice for Morganton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Burke County.
 
+
+Plumbing restoration in Morganton, NC, Burke County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Morganton, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 28655.
 
@@ -47,8 +50,6 @@ Hard water in Morganton, NC accelerates scale on PRV seats and heater elements.
 Fixture roster 396152: toilet flange spacer kit and shower cartridge seat score queued for Morganton, NC walk-through.
 
 Supply audit 396152: curb-stop orientation and hose-bib freeze flag reviewed for Morganton, NC at coords 35.7400/-81.7000.
-
-Field routing: slab leak listening window paired with sump float travel near ZIP 28655.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Burke County. Reference elevation: 1201 ft. Primary coordinates: 35.7400, -81.7000. ZIP sample: 28680, 28655. Service perimeter note: Coverage extends through Burke County with dispatch centered near ZIP 28655.
 

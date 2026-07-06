@@ -12,11 +12,14 @@ lng: -84.2300
 zipSample: ["30010", "30092", "30360", "30071"]
 zipCodes: ["30360", "30010", "30092", "30071"]
 localPaths: ["Gwinnett County / primary ZIP 30071", "Gwinnett County / ZIP 30092 sector", "Gwinnett County / elevation 1014 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9700, -84.2300"]
-zillowHomeValueUsd: 360265
 ---
 
-**Engineering Notice for Peachtree Corners:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Peachtree Corners:** Supply line, cleanout, and water heater scope recorded at 1014 ft elevation context (Gwinnett County).
 
+
+Burst pipe and drain clog calls in Peachtree Corners, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gwinnett County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Peachtree Corners, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -40,13 +43,13 @@ Frost-free sillcock failures in Peachtree Corners, GA often trace to interior sh
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-We coordinate Peachtree Corners, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Peachtree Corners, GA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Drain map 563653: camera-pass priority and expansion-tank pre-charge noted for Peachtree Corners, GA postal sector 30071.
 
-plumbing brief: recirculation pump amp draw and water softener bypass lever were cross-checked for the Peachtree Corners intake packet.
+Plumbing restoration brief: recirculation pump amp draw and water softener bypass lever were cross-checked for the Peachtree Corners pipe and leak scope.
 
 On-site sector marker: Gwinnett County / ZIP 30010 sector — logged for map parity and ZIP-corridor verification.
 

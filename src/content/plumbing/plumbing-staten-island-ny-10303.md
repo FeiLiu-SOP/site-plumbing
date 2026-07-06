@@ -12,11 +12,14 @@ lng: -74.1500
 zipSample: ["10314", "10310", "10311", "10309", "10305"]
 zipCodes: ["10313", "10306", "10302", "10305", "10311", "10307", "10301", "10304", "10310", "10303", "10308", "10309"]
 localPaths: ["Richmond County / ZIP 10309 sector", "Richmond County / coords 40.5800, -74.1500", "Richmond County / ZIP 10310 sector", "Richmond County / ZIP 10311 sector", "Richmond County / ZIP 10305 sector"]
-zillowHomeValueUsd: 547249
 ---
 
-**Engineering Notice for Staten Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richmond County.
+**Engineering Notice for Staten Island:** Emergency leak and drain triage uses ~151 mg/L hardness context with Richmond County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Staten Island, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Richmond County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Staten Island, NY, Richmond County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -24,7 +27,7 @@ FAQ: Is hydro-jetting always appropriate? In Staten Island, NY, pipe material an
 
 Cleanout access limits in Staten Island, NY frequently extend drain cleaning duration.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

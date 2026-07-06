@@ -12,11 +12,14 @@ lng: -86.2100
 zipSample: ["35951", "35950"]
 zipCodes: ["35950", "35951"]
 localPaths: ["Marshall County / primary ZIP 35951", "Marshall County / coords 34.2600, -86.2100", "Marshall County / ZIP 35950 sector", "Marshall County / ZIP 35951 sector", "Marshall County / elevation 1037 ft band"]
-zillowHomeValueUsd: 221495
 ---
 
-**Engineering Notice for Albertville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marshall County.
+**Engineering Notice for Albertville:** Emergency leak and drain triage uses ~140 mg/L hardness context with Marshall County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Albertville, AL, Marshall County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Albertville, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marshall County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -40,7 +43,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Pressure trace 153649: meter-pit clearance and dielectric union checklist staged for Albertville, AL near elevation 1037 ft.
 

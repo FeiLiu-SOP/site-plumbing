@@ -12,11 +12,14 @@ lng: -87.9800
 zipSample: ["53092", "53097"]
 zipCodes: ["53092", "53097"]
 localPaths: ["Ozaukee County / primary ZIP 53097", "Ozaukee County / ZIP 53097 sector", "Ozaukee County / coords 43.2400, -87.9800", "Ozaukee County / ZIP 53092 sector", "Ozaukee County / elevation 666 ft band"]
-zillowHomeValueUsd: 673228
 ---
 
-**Engineering Notice for Mequon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ozaukee County.
+**Engineering Notice for Mequon:** Emergency leak and drain triage uses ~149 mg/L hardness context with Ozaukee County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Mequon, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ozaukee County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Mequon, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -43,8 +46,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mequon, WI.
 Trenchless pulls in Mequon, WI require pit dimensions verified against utility locate marks.
 
 Fixture roster 713175: toilet flange spacer kit and shower cartridge seat score queued for Mequon, WI walk-through.
-
-Scope trace: gas water heater draft hood gap plus slab leak listening window referenced in Ozaukee County county grid review.
 
 Coordinate-anchored dispatch note: center reference 43.2400, -87.9800 at elevation ~666 ft aligns with Ozaukee County intake staging.
 

@@ -8,15 +8,18 @@ zipCode: "49534"
 county: "Kent County"
 elevationFt: 755
 lat: 42.9900
-lng: -85.7400
+lng: -85.7100
 zipSample: ["49544", "49534"]
 zipCodes: ["49534", "49544"]
-localPaths: ["Kent County / elevation 755 ft band", "Kent County / ZIP 49534 sector", "Kent County / coords 42.9900, -85.7400", "Kent County / ZIP 49544 sector", "Kent County / primary ZIP 49534"]
-zillowHomeValueUsd: 378611
+localPaths: ["Kent County / elevation 755 ft band", "Kent County / ZIP 49534 sector", "Kent County / coords 42.9900, -85.7100", "Kent County / ZIP 49544 sector", "Kent County / primary ZIP 49534"]
 ---
 
-**Engineering Notice for Walker:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Walker:** Supply line, cleanout, and water heater scope recorded at 755 ft elevation context (Kent County).
 
+
+Emergency certified plumber service in Walker, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Kent County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing service in Walker, MI, Kent County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -32,7 +35,7 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Step: map sump float travel and check-valve orientation for Walker, MI basements.
 
-We coordinate Walker, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Walker, MI plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -46,8 +49,6 @@ Fixture shutoff stiffness in Walker, MI may indicate mineral bridging behind ste
 
 Drain map 413890: camera-pass priority and expansion-tank pre-charge noted for Walker, MI postal sector 49534.
 
-plumbing brief: toilet flange spacer kit and slab penetration sleeve seal were cross-checked for the Walker intake packet.
-
-On-site sector marker: Kent County / coords 42.9900, -85.7400 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Kent County / coords 42.9900, -85.7100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49534-667190ff

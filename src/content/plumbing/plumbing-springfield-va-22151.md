@@ -12,11 +12,14 @@ lng: -77.1800
 zipSample: ["22159", "22150", "22156", "22313", "22161"]
 zipCodes: ["22150", "22161", "22159", "22156", "22313", "22151"]
 localPaths: ["Fairfax County / elevation 256 ft band", "Fairfax County / coords 38.7800, -77.1800", "Fairfax County / ZIP 22313 sector", "Fairfax County / ZIP 22156 sector", "Fairfax County / ZIP 22150 sector"]
-zillowHomeValueUsd: 718967
 ---
 
-**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Springfield:** Supply line, cleanout, and water heater scope recorded at 256 ft elevation context (Fairfax County).
 
+
+Burst pipe and drain clog calls in Springfield, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Springfield, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When is cabling enough? In Springfield, VA, pipe material and blockage type dictate method.
 
@@ -40,11 +43,9 @@ CPVC solvent weld times shift with ambient humidity during Springfield, VA shoul
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 22151.
 
-Dispatch packets reference county grid Fairfax County near ZIP 22151.
+Our Springfield, VA service packets reference Fairfax County near ZIP 22151 for pipe and leak scope.
 
 Flow dossier 819856: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, VA county grid Fairfax County (ZIP 22151).
-
-plumbing brief: slab leak listening window and hose bib freeze flag were cross-checked for the Springfield intake packet.
 
 On-site sector marker: Fairfax County / ZIP 22151 sector — logged for map parity and ZIP-corridor verification.
 

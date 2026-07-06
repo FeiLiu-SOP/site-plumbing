@@ -12,11 +12,14 @@ lng: -119.5600
 zipSample: ["93657"]
 zipCodes: ["93657"]
 localPaths: ["Fresno County / primary ZIP 93657", "Fresno County / coords 36.7000, -119.5600", "Fresno County / ZIP 93657 sector", "Fresno County / elevation 371 ft band"]
-zillowHomeValueUsd: 412130
 ---
 
-**Engineering Notice for Sanger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
+**Engineering Notice for Sanger:** Emergency leak and drain triage uses ~157 mg/L hardness context with Fresno County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Sanger, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fresno County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Sanger, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Fresno County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Hose bib split patterns in Sanger, CA often follow missed winterization.
 
@@ -43,8 +46,6 @@ Galvanized segments in Sanger, CA may restrict flow long before visible corrosio
 Irrigation cross-connections in Sanger, CA can back-siphon domestic lines during main breaks.
 
 Pressure trace 577002: meter-pit clearance and dielectric union checklist staged for Sanger, CA near elevation 371 ft.
-
-Field routing: jetter nozzle envelope paired with meter pit clearance near ZIP 93657.
 
 Coordinate-anchored dispatch note: center reference 36.7000, -119.5600 at elevation ~371 ft aligns with Fresno County intake staging.
 

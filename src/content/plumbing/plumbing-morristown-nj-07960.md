@@ -12,11 +12,14 @@ lng: -74.4800
 zipSample: ["07963", "07960"]
 zipCodes: ["07963", "07960"]
 localPaths: ["Morris County / coords 40.8000, -74.4800", "Morris County / elevation 341 ft band", "Morris County / ZIP 07963 sector", "Morris County / primary ZIP 07960", "Morris County / ZIP 07960 sector"]
-zillowHomeValueUsd: 887066
 ---
 
-**Engineering Notice for Morristown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.
+**Engineering Notice for Morristown:** Supply line, cleanout, and water heater scope recorded at 341 ft elevation context (Morris County).
 
+
+Burst pipe and drain clog calls in Morristown, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Morris County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Morristown, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Morristown, NJ hardness profiles.
 
@@ -30,7 +33,7 @@ Risk flag: Seasonal Morristown, NJ irrigation cross-connections can mask domesti
 
 Basement floor drains in Morristown, NJ should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch packets reference county grid Morris County near ZIP 07960.
+Our Morristown, NJ service packets reference Morris County near ZIP 07960 for pipe and leak scope.
 
 Trenchless sleeve pulls near Morristown, NJ require pit shoring notes when water tables are high.
 
@@ -50,7 +53,7 @@ Pressure trace 240858: meter-pit clearance and dielectric union checklist staged
 
 Supply audit 240858: curb-stop orientation and hose-bib freeze flag reviewed for Morristown, NJ at coords 40.8000/-74.4800.
 
-Field routing: fixture shutoff torque log paired with branch wet vent geometry near ZIP 07960.
+Local service note: fixture shutoff torque log paired with branch wet vent geometry near ZIP 07960 for emergency licensed plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 40.8000, -74.4800 at elevation ~341 ft aligns with Morris County intake staging.
 

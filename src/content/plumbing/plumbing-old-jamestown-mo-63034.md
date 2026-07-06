@@ -12,11 +12,14 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63034", "St. Louis County / coords 38.8400, -90.2800", "St. Louis County / ZIP 63034 sector"]
-zillowHomeValueUsd: 272176
 ---
 
-**Engineering Notice for Old Jamestown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Old Jamestown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+When a main line backs up in Old Jamestown, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Old Jamestown, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

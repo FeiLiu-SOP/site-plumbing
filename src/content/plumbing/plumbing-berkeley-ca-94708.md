@@ -12,11 +12,14 @@ lng: -122.2800
 zipSample: ["94705", "94709", "94703", "94710", "94708"]
 zipCodes: ["94720", "94710", "94707", "94708", "94705", "94703", "94712", "94709", "94701", "94704", "94702"]
 localPaths: ["Alameda County / ZIP 94709 sector", "Alameda County / ZIP 94708 sector", "Alameda County / ZIP 94705 sector", "Alameda County / ZIP 94703 sector", "Alameda County / ZIP 94710 sector"]
-zillowHomeValueUsd: 1635569
 ---
 
-**Engineering Notice for Berkeley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
+**Engineering Notice for Berkeley:** Emergency leak and drain triage uses ~149 mg/L hardness context with Alameda County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Berkeley, CA, Alameda County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Berkeley, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Alameda County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

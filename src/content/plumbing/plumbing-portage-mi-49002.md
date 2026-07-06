@@ -8,15 +8,18 @@ zipCode: "49002"
 county: "Kalamazoo County"
 elevationFt: 869
 lat: 42.2000
-lng: -85.5900
+lng: -85.5600
 zipSample: ["49024", "49002", "49081"]
 zipCodes: ["49002", "49024", "49081"]
-localPaths: ["Kalamazoo County / ZIP 49002 sector", "Kalamazoo County / ZIP 49024 sector", "Kalamazoo County / coords 42.2000, -85.5900", "Kalamazoo County / ZIP 49081 sector", "Kalamazoo County / elevation 869 ft band"]
-zillowHomeValueUsd: 268942
+localPaths: ["Kalamazoo County / ZIP 49002 sector", "Kalamazoo County / ZIP 49024 sector", "Kalamazoo County / coords 42.2000, -85.5600", "Kalamazoo County / ZIP 49081 sector", "Kalamazoo County / elevation 869 ft band"]
 ---
 
-**Engineering Notice for Portage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kalamazoo County.
+**Engineering Notice for Portage:** Emergency leak and drain triage uses ~140 mg/L hardness context with Kalamazoo County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Portage, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kalamazoo County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Portage, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -47,8 +50,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Portage, MI systems need rebalancing.
 
 Fixture roster 228031: toilet flange spacer kit and shower cartridge seat score queued for Portage, MI walk-through.
-
-Field routing: scale coupon sampling paired with water heater T&P path near ZIP 49002.
 
 On-site sector marker: Kalamazoo County / ZIP 49024 sector — logged for map parity and ZIP-corridor verification.
 

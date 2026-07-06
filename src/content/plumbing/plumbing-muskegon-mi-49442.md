@@ -8,15 +8,18 @@ zipCode: "49442"
 county: "Muskegon County"
 elevationFt: 623
 lat: 43.2300
-lng: -86.2600
+lng: -86.2900
 zipSample: ["49442", "49440", "49443", "49441"]
 zipCodes: ["49441", "49440", "49443", "49442"]
 localPaths: ["Muskegon County / elevation 623 ft band", "Muskegon County / ZIP 49441 sector", "Muskegon County / primary ZIP 49442", "Muskegon County / ZIP 49440 sector", "Muskegon County / ZIP 49443 sector"]
-zillowHomeValueUsd: 176237
 ---
 
-**Engineering Notice for Muskegon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskegon County.
+**Engineering Notice for Muskegon:** Supply line, cleanout, and water heater scope recorded at 623 ft elevation context (Muskegon County).
 
+
+Emergency plumbing pro service in Muskegon, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Muskegon County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Muskegon, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Muskegon County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -44,13 +47,11 @@ Basement floor drains in Muskegon, MI should be snaked only after trap arm geome
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch packets reference county grid Muskegon County near ZIP 49442.
+Our Muskegon, MI service packets reference Muskegon County near ZIP 49442 for pipe and leak scope.
 
 Lineage note 243925: recirculation pump amp draw captured before Muskegon, MI branch isolation.
 
-Supply audit 243925: curb-stop orientation and hose-bib freeze flag reviewed for Muskegon, MI at coords 43.2300/-86.2600.
-
-Field routing: fixture shutoff torque log paired with water heater T&P path near ZIP 49442.
+Supply audit 243925: curb-stop orientation and hose-bib freeze flag reviewed for Muskegon, MI at coords 43.2300/-86.2900.
 
 On-site sector marker: Muskegon County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 

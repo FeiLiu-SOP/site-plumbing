@@ -12,11 +12,14 @@ lng: -117.0000
 zipSample: ["91977"]
 zipCodes: ["91977"]
 localPaths: ["San Diego County / primary ZIP 91977", "San Diego County / ZIP 91977 sector", "San Diego County / elevation 295 ft band", "San Diego County / coords 32.7100, -117.0000"]
-zillowHomeValueUsd: 768705
 ---
 
-**Engineering Notice for La Presa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for La Presa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Diego County.
 
+
+When a main line backs up in La Presa, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in La Presa, CA, San Diego County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

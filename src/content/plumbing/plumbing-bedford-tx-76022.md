@@ -12,11 +12,14 @@ lng: -97.1400
 zipSample: ["76022", "76021", "75064", "76095"]
 zipCodes: ["76095", "76021", "76022", "75064"]
 localPaths: ["Tarrant County / primary ZIP 76022", "Tarrant County / ZIP 76095 sector", "Tarrant County / elevation 617 ft band", "Tarrant County / ZIP 76022 sector", "Tarrant County / coords 32.8500, -97.1400"]
-zillowHomeValueUsd: 317280
 ---
 
-**Engineering Notice for Bedford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Bedford:** Emergency leak and drain triage uses ~113 mg/L hardness context with Tarrant County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Bedford, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Bedford, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Tarrant County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Expansion tank pre-charge loss in Bedford, TX often tracks heater replacement deferrals.
 
@@ -47,8 +50,6 @@ CPVC solvent weld times shift with ambient humidity during Bedford, TX shoulder 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bedford, TX systems need rebalancing.
 
 Drain map 796539: camera-pass priority and expansion-tank pre-charge noted for Bedford, TX postal sector 76022.
-
-Scope trace: toilet flange spacer kit plus PEX expansion ring batch referenced in Tarrant County county grid review.
 
 On-site sector marker: Tarrant County / coords 32.8500, -97.1400 — logged for map parity and ZIP-corridor verification.
 

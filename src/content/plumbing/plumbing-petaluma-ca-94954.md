@@ -12,11 +12,14 @@ lng: -122.6300
 zipSample: ["94952", "94954", "94953"]
 zipCodes: ["94952", "94953", "94954"]
 localPaths: ["Sonoma County / coords 38.2400, -122.6300", "Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94954 sector", "Sonoma County / ZIP 94953 sector"]
-zillowHomeValueUsd: 836266
 ---
 
-**Engineering Notice for Petaluma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Petaluma:** Supply line, cleanout, and water heater scope recorded at 13 ft elevation context (Sonoma County).
 
+
+Certified plumbing crews serving Petaluma, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Petaluma, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sonoma County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Recirculation pump failures in Petaluma, CA can mimic fixture-specific clogs.
 
@@ -43,8 +46,6 @@ Risk flag: In Petaluma, CA, slab leaks can misroute as foundation issues without
 Material note: Water heater anode type may change with Petaluma, CA hardness profiles.
 
 Fixture roster 119675: toilet flange spacer kit and shower cartridge seat score queued for Petaluma, CA walk-through.
-
-Scope trace: dielectric union checklist plus backflow test cock orientation referenced in Sonoma County county grid review.
 
 Coordinate-anchored dispatch note: center reference 38.2400, -122.6300 at elevation ~13 ft aligns with Sonoma County intake staging.
 

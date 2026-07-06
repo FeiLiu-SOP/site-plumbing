@@ -12,15 +12,18 @@ lng: -111.9200
 zipSample: ["84054"]
 zipCodes: ["84054"]
 localPaths: ["Davis County / elevation 4255 ft band", "Davis County / primary ZIP 84054", "Davis County / coords 40.8400, -111.9200", "Davis County / ZIP 84054 sector"]
-zillowHomeValueUsd: 560851
 ---
 
-**Engineering Notice for North Salt Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
+**Engineering Notice for North Salt Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Davis County.
 
+
+Burst pipe and drain clog calls in North Salt Lake, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Davis County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in North Salt Lake, UT, Davis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in North Salt Lake, UT slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Expansion tank pre-charge loss in North Salt Lake, UT often tracks heater replacement deferrals.
 
@@ -48,7 +51,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Drain map 200062: camera-pass priority and expansion-tank pre-charge noted for North Salt Lake, UT postal sector 84054.
 
-Field routing: gas water heater draft hood gap paired with branch wet vent geometry near ZIP 84054.
+Local service note: gas water heater draft hood gap paired with branch wet vent geometry near ZIP 84054 for emergency qualified plumber repairs.
 
 On-site sector marker: Davis County / ZIP 84054 sector — logged for map parity and ZIP-corridor verification.
 

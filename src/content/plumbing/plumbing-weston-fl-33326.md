@@ -12,11 +12,14 @@ lng: -80.4100
 zipSample: ["33327", "33331", "33332", "33326"]
 zipCodes: ["33327", "33326", "33331", "33332"]
 localPaths: ["Broward County / ZIP 33327 sector", "Broward County / ZIP 33332 sector", "Broward County / ZIP 33331 sector", "Broward County / elevation 23 ft band", "Broward County / coords 26.1000, -80.4100"]
-zillowHomeValueUsd: 559083
 ---
 
-**Engineering Notice for Weston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for Weston:** Supply line, cleanout, and water heater scope recorded at 23 ft elevation context (Broward County).
 
+
+Licensed plumbing crews serving Weston, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Weston, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broward County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Weston, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -47,6 +50,8 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Lineage note 971478: recirculation pump amp draw captured before Weston, FL branch isolation.
+
+Local service note: fixture shutoff torque log paired with toilet flange spacer kit near ZIP 33326 for emergency plumbing technician repairs.
 
 Regional mesh label Broward County: moisture and logistics baselines are keyed to Weston, FL before niche-specific work begins.
 

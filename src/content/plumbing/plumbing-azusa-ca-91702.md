@@ -12,11 +12,14 @@ lng: -117.9100
 zipSample: ["91010", "91702"]
 zipCodes: ["91010", "91702"]
 localPaths: ["Los Angeles County / coords 34.1400, -117.9100", "Los Angeles County / primary ZIP 91702", "Los Angeles County / ZIP 91010 sector", "Los Angeles County / elevation 646 ft band", "Los Angeles County / ZIP 91702 sector"]
-zillowHomeValueUsd: 715441
 ---
 
-**Engineering Notice for Azusa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Azusa:** Supply line, cleanout, and water heater scope recorded at 646 ft elevation context (Los Angeles County).
 
+
+Burst pipe and drain clog calls in Azusa, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Azusa, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When should sump battery backups be load-tested? In Azusa, CA, before spring thaw and hurricane remnants.
 
@@ -34,7 +37,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 FAQ: Is hydro-jetting always appropriate? In Azusa, CA, pipe material and blockage type dictate method.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

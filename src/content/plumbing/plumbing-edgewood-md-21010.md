@@ -12,11 +12,14 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21010", "21040"]
 localPaths: ["Harford County / coords 39.4200, -76.3000", "Harford County / ZIP 21040 sector", "Harford County / primary ZIP 21010", "Harford County / elevation 82 ft band", "Harford County / ZIP 21010 sector"]
-zillowHomeValueUsd: 264043
 ---
 
-**Engineering Notice for Edgewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.
+**Engineering Notice for Edgewood:** Supply line, cleanout, and water heater scope recorded at 82 ft elevation context (Harford County).
 
+
+Burst pipe and drain clog calls in Edgewood, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harford County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Edgewood, MD, Harford County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Edgewood, MD, slab leaks can misroute as foundation issues without listening equipment.
 

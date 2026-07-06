@@ -12,11 +12,14 @@ lng: -80.6500
 zipSample: ["28079", "28104", "28110"]
 zipCodes: ["28079", "28104", "28110"]
 localPaths: ["Union County / elevation 659 ft band", "Union County / coords 35.0700, -80.6500", "Union County / ZIP 28079 sector", "Union County / primary ZIP 28104", "Union County / ZIP 28110 sector"]
-zillowHomeValueUsd: 594932
 ---
 
-**Engineering Notice for Indian Trail:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Indian Trail:** Supply line, cleanout, and water heater scope recorded at 659 ft elevation context (Union County).
 
+
+Plumbing service in Indian Trail, NC, Union County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Indian Trail, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 28104.
 

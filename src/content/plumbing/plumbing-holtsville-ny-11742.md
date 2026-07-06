@@ -7,18 +7,21 @@ state: "NY"
 zipCode: "11742"
 county: "Suffolk County"
 elevationFt: 98
-lat: 40.8100
-lng: -73.0400
+lat: 40.8205
+lng: -73.0700
 zipSample: ["11742", "00544", "00501"]
 zipCodes: ["11742", "00501", "00544"]
-localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / elevation 98 ft band", "Suffolk County / ZIP 00544 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8100, -73.0400"]
-zillowHomeValueUsd: 630849
+localPaths: ["Suffolk County / primary ZIP 11742", "Suffolk County / elevation 98 ft band", "Suffolk County / ZIP 00544 sector", "Suffolk County / ZIP 11742 sector", "Suffolk County / coords 40.8205, -73.0700"]
 ---
 
-**Engineering Notice for Holtsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Holtsville:** Emergency leak and drain triage uses ~113 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Qualified plumbing crews serving Holtsville, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Holtsville, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -44,8 +47,6 @@ Hydrostatic holds in Holtsville, NY slab circuits run overnight when listening m
 
 Drain map 651074: camera-pass priority and expansion-tank pre-charge noted for Holtsville, NY postal sector 11742.
 
-plumbing brief: gas water heater draft hood gap and PRV outlet curve were cross-checked for the Holtsville intake packet.
-
-**Regional Infrastructure Brief:** Service coverage aligns with Suffolk County and primary ZIP 11742. Terrain reference: 98 ft. Center point: 40.8100, -73.0400. ZIP sample: 11742, 00501, 00544. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11742 service demand.
+**Regional Infrastructure Brief:** Service coverage aligns with Suffolk County and primary ZIP 11742. Terrain reference: 98 ft. Center point: 40.8205, -73.0700. ZIP sample: 11742, 00501, 00544. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11742 service demand.
 
 Service reference: NY-11742-bb67a852

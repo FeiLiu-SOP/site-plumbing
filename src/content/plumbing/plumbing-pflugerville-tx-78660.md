@@ -12,11 +12,14 @@ lng: -97.6000
 zipSample: ["78691", "78660"]
 zipCodes: ["78691", "78660"]
 localPaths: ["Travis County / coords 30.4500, -97.6000", "Travis County / ZIP 78660 sector", "Travis County / ZIP 78691 sector", "Travis County / elevation 696 ft band", "Travis County / primary ZIP 78660"]
-zillowHomeValueUsd: 378257
 ---
 
-**Engineering Notice for Pflugerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.
+**Engineering Notice for Pflugerville:** Supply line, cleanout, and water heater scope recorded at 696 ft elevation context (Travis County).
 
+
+Burst pipe and drain clog calls in Pflugerville, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Travis County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Pflugerville, TX, Travis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hose bib split patterns in Pflugerville, TX often follow missed winterization.
 

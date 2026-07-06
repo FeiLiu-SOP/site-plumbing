@@ -12,11 +12,14 @@ lng: -90.3900
 zipSample: ["61244", "61257"]
 zipCodes: ["61257", "61244"]
 localPaths: ["Rock Island County / ZIP 61257 sector", "Rock Island County / coords 41.5200, -90.3900", "Rock Island County / ZIP 61244 sector", "Rock Island County / primary ZIP 61244", "Rock Island County / elevation 584 ft band"]
-zillowHomeValueUsd: 143002
 ---
 
-**Engineering Notice for East Moline:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rock Island County.
+**Engineering Notice for East Moline:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Rock Island County.
 
+
+Plumbing remediation in East Moline, IL, Rock Island County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in East Moline, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Across East Moline, IL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -44,7 +47,7 @@ Fixture shutoff stiffness in East Moline, IL may indicate mineral bridging behin
 
 Supply audit 997552: curb-stop orientation and hose-bib freeze flag reviewed for East Moline, IL at coords 41.5200/-90.3900.
 
-Scope trace: floor drain trap primer drip plus slab penetration sleeve seal referenced in Rock Island County county grid review.
+Scope trace: floor drain trap primer drip plus slab penetration sleeve seal referenced in Rock Island County drain and water line review.
 
 On-site sector marker: Rock Island County / primary ZIP 61244 — logged for map parity and ZIP-corridor verification.
 

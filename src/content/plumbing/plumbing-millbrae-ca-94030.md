@@ -12,11 +12,14 @@ lng: -122.4000
 zipSample: ["94030"]
 zipCodes: ["94030"]
 localPaths: ["San Mateo County / coords 37.6000, -122.4000", "San Mateo County / ZIP 94030 sector", "San Mateo County / elevation 92 ft band", "San Mateo County / primary ZIP 94030"]
-zillowHomeValueUsd: 2081745
 ---
 
-**Engineering Notice for Millbrae:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Millbrae:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Mateo County.
 
+
+Plumbing service in Millbrae, CA, San Mateo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Millbrae, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Frost-free sillcock failures in Millbrae, CA often trace to interior shutoff seats, not exterior stems.
 
@@ -47,8 +50,6 @@ Material note: Water heater anode type may change with Millbrae, CA hardness pro
 Fixture roster 635892: toilet flange spacer kit and shower cartridge seat score queued for Millbrae, CA walk-through.
 
 Flow dossier 635892: branch wet-vent geometry and jetting nozzle envelope logged for Millbrae, CA county grid San Mateo County (ZIP 94030).
-
-plumbing brief: recirculation pump amp draw and copper pinhole cluster were cross-checked for the Millbrae intake packet.
 
 On-site sector marker: San Mateo County / primary ZIP 94030 — logged for map parity and ZIP-corridor verification.
 

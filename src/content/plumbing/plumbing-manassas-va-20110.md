@@ -12,11 +12,14 @@ lng: -77.4800
 zipSample: ["20108", "20110"]
 zipCodes: ["20108", "20110"]
 localPaths: ["Manassas County / primary ZIP 20110", "Manassas County / elevation 279 ft band", "Manassas County / ZIP 20108 sector", "Manassas County / coords 38.7500, -77.4800", "Manassas County / ZIP 20110 sector"]
-zillowHomeValueUsd: 515147
 ---
 
-**Engineering Notice for Manassas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Manassas County.
+**Engineering Notice for Manassas:** Supply line, cleanout, and water heater scope recorded at 279 ft elevation context (Manassas County).
 
+
+Qualified plumbing crews serving Manassas, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Manassas, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

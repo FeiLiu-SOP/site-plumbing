@@ -12,11 +12,14 @@ lng: -122.7100
 zipSample: ["95404", "95407", "95406", "95401", "95405"]
 zipCodes: ["95406", "95401", "95407", "95409", "95405", "95404", "95403"]
 localPaths: ["Sonoma County / ZIP 95405 sector", "Sonoma County / elevation 184 ft band", "Sonoma County / ZIP 95407 sector", "Sonoma County / ZIP 95401 sector", "Sonoma County / primary ZIP 95409"]
-zillowHomeValueUsd: 780316
 ---
 
-**Engineering Notice for Santa Rosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Santa Rosa:** Emergency leak and drain triage uses ~124 mg/L hardness context with Sonoma County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Santa Rosa, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Santa Rosa, CA, Sonoma County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -45,8 +48,6 @@ CPVC solvent weld times shift with ambient humidity during Santa Rosa, CA should
 Drain map 248310: camera-pass priority and expansion-tank pre-charge noted for Santa Rosa, CA postal sector 95409.
 
 Fixture roster 248310: toilet flange spacer kit and shower cartridge seat score queued for Santa Rosa, CA walk-through.
-
-plumbing brief: cleanout riser height and dielectric union checklist were cross-checked for the Santa Rosa intake packet.
 
 ZIP-corridor snapshot for Santa Rosa, CA: sampled sectors include 95407, 95401, 95405, 95403, 95404, 95409, 95406; county routing grid remains Sonoma County.
 

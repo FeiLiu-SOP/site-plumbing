@@ -12,11 +12,14 @@ lng: -89.4800
 zipSample: ["61021"]
 zipCodes: ["61021"]
 localPaths: ["Lee County / coords 41.8400, -89.4800", "Lee County / elevation 709 ft band", "Lee County / primary ZIP 61021", "Lee County / ZIP 61021 sector"]
-zillowHomeValueUsd: 166129
 ---
 
-**Engineering Notice for Dixon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Dixon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lee County.
 
+
+When a main line backs up in Dixon, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Dixon, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lee County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

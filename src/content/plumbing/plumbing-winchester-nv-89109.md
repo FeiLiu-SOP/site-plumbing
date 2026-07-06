@@ -12,11 +12,14 @@ lng: -115.1400
 zipSample: ["89199", "89121", "89109", "89169"]
 zipCodes: ["89169", "89121", "89109", "89199"]
 localPaths: ["Clark County / coords 36.1400, -115.1400", "Clark County / ZIP 89199 sector", "Clark County / primary ZIP 89109", "Clark County / elevation 2014 ft band", "Clark County / ZIP 89109 sector"]
-zillowHomeValueUsd: 377739
 ---
 
-**Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Winchester:** Supply line, cleanout, and water heater scope recorded at 2014 ft elevation context (Clark County).
 
+
+Certified plumbing crews serving Winchester, NV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Winchester, NV, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -45,6 +48,8 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Permit note: Main water line replacement in Winchester, NV may require ROW restoration planning.
 
 Lineage note 846565: recirculation pump amp draw captured before Winchester, NV branch isolation.
+
+Scope trace: floor drain trap primer drip plus hose bib freeze flag referenced in Clark County drain and water line review.
 
 On-site sector marker: Clark County / coords 36.1400, -115.1400 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -72.7600
 zipSample: ["01085", "01086"]
 zipCodes: ["01086", "01085"]
 localPaths: ["Hampden County / coords 42.1400, -72.7600", "Hampden County / ZIP 01085 sector", "Hampden County / ZIP 01086 sector", "Hampden County / primary ZIP 01085", "Hampden County / elevation 230 ft band"]
-zillowHomeValueUsd: 380492
 ---
 
-**Engineering Notice for Westfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampden County.
+**Engineering Notice for Westfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hampden County.
 
+
+Burst pipe and drain clog calls in Westfield, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hampden County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Westfield, MA, Hampden County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 CPVC solvent weld times shift with ambient humidity during Westfield, MA shoulder seasons.
 

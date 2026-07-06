@@ -12,11 +12,14 @@ lng: -119.2800
 zipSample: ["98837"]
 zipCodes: ["98837"]
 localPaths: ["Grant County / primary ZIP 98837", "Grant County / elevation 1050 ft band", "Grant County / ZIP 98837 sector", "Grant County / coords 47.1300, -119.2800"]
-zillowHomeValueUsd: 364625
 ---
 
-**Engineering Notice for Moses Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grant County.
+**Engineering Notice for Moses Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Grant County.
 
+
+Burst pipe and drain clog calls in Moses Lake, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Grant County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Moses Lake, WA, Grant County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Moses Lake, WA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -47,8 +50,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 988
 FAQ: When is cabling enough? In Moses Lake, WA, pipe material and blockage type dictate method.
 
 Supply audit 373127: curb-stop orientation and hose-bib freeze flag reviewed for Moses Lake, WA at coords 47.1300/-119.2800.
-
-Scope trace: thermal expansion loop check plus dielectric union checklist referenced in Grant County county grid review.
 
 Primary postal anchor 98837 with multi-ZIP overlap in Moses Lake; field packets tag Grant County for county-grid reconciliation.
 

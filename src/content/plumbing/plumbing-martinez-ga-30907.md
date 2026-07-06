@@ -12,11 +12,14 @@ lng: -82.1000
 zipSample: ["30809", "30907"]
 zipCodes: ["30907", "30809"]
 localPaths: ["Columbia County / coords 33.5200, -82.1000", "Columbia County / ZIP 30809 sector", "Columbia County / elevation 338 ft band", "Columbia County / primary ZIP 30907", "Columbia County / ZIP 30907 sector"]
-zillowHomeValueUsd: 267164
 ---
 
-**Engineering Notice for Martinez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Columbia County.
+**Engineering Notice for Martinez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Columbia County.
 
+
+Burst pipe and drain clog calls in Martinez, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Columbia County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Martinez, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Martinez, GA.
 
@@ -49,8 +52,6 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 Flow dossier 174523: branch wet-vent geometry and jetting nozzle envelope logged for Martinez, GA county grid Columbia County (ZIP 30907).
 
 Pressure trace 174523: meter-pit clearance and dielectric union checklist staged for Martinez, GA near elevation 338 ft.
-
-Scope trace: recirculation pump amp draw plus PEX expansion ring batch referenced in Columbia County county grid review.
 
 ZIP-corridor snapshot for Martinez, GA: sampled sectors include 30907, 30809; county routing grid remains Columbia County.
 

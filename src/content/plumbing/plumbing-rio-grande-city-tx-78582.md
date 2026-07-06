@@ -12,13 +12,16 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 187 ft band", "Starr County / primary ZIP 78582", "Starr County / ZIP 78582 sector", "Starr County / coords 26.3800, -98.8200"]
-zillowHomeValueUsd: 146553
 ---
 
-**Engineering Notice for Rio Grande City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Starr County.
+**Engineering Notice for Rio Grande City:** Emergency leak and drain triage uses ~153 mg/L hardness context with Starr County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Starr County near ZIP 78582.
+Emergency plumbing pro service in Rio Grande City, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Starr County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Licensed plumbing crews serving Rio Grande City, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Our Rio Grande City, TX service packets reference Starr County near ZIP 78582 for pipe and leak scope.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -38,11 +41,13 @@ Branch wet vents in Rio Grande City, TX can mask gurgling as a main-line issue.
 
 Recirculation pump failures in Rio Grande City, TX can mimic fixture-specific clogs.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: document dielectric unions before mixed-metal replacements.
 
 Lineage note 590578: recirculation pump amp draw captured before Rio Grande City, TX branch isolation.
+
+Local service note: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 78582 for emergency plumbing pro repairs.
 
 Regional mesh label Starr County: moisture and logistics baselines are keyed to Rio Grande City, TX before niche-specific work begins.
 

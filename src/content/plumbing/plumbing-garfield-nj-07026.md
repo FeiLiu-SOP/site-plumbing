@@ -12,11 +12,14 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / elevation 112 ft band", "Bergen County / primary ZIP 07026", "Bergen County / ZIP 07026 sector", "Bergen County / coords 40.8800, -74.1100"]
-zillowHomeValueUsd: 579897
 ---
 
-**Engineering Notice for Garfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Garfield:** Emergency leak and drain triage uses ~147 mg/L hardness context with Bergen County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Garfield, NJ, Bergen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Garfield, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -26,13 +29,13 @@ Hydrostatic holds in Garfield, NJ slab circuits run overnight when listening mic
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Garfield, NJ hardness profiles.
 
 CPVC solvent weld times shift with ambient humidity during Garfield, NJ shoulder seasons.
 
-We coordinate Garfield, NJ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Garfield, NJ plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Garfield, NJ require pit shoring notes when water t
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Lineage note 874580: recirculation pump amp draw captured before Garfield, NJ branch isolation.
+
+Scope trace: slab leak listening window plus gas water heater draft hood gap referenced in Bergen County drain and water line review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Bergen County. Reference elevation: 112 ft. Primary coordinates: 40.8800, -74.1100. ZIP sample: 07026. Logistics priority: Serving residential sectors across Bergen County and north-east ZIP 07026 grid.
 

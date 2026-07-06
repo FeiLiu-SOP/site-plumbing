@@ -12,11 +12,14 @@ lng: -82.7700
 zipSample: ["33770", "33774", "33764", "33779", "33760"]
 zipCodes: ["33773", "33779", "33771", "33774", "33778", "33764", "33756", "33760", "33770"]
 localPaths: ["Pinellas County / ZIP 33760 sector", "Pinellas County / coords 27.9100, -82.7700", "Pinellas County / ZIP 33774 sector", "Pinellas County / ZIP 33764 sector", "Pinellas County / elevation 16 ft band"]
-zillowHomeValueUsd: 354076
 ---
 
-**Engineering Notice for Largo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Largo:** Supply line, cleanout, and water heater scope recorded at 16 ft elevation context (Pinellas County).
 
+
+Qualified plumbing crews serving Largo, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Largo, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When should sump battery backups be load-tested? In Largo, FL, before spring thaw and hurricane remnants.
 
@@ -45,6 +48,8 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Flow dossier 269913: branch wet-vent geometry and jetting nozzle envelope logged for Largo, FL county grid Pinellas County (ZIP 33756).
 
 Drain map 269913: camera-pass priority and expansion-tank pre-charge noted for Largo, FL postal sector 33756.
+
+Scope trace: PEX expansion ring batch plus meter pit clearance referenced in Pinellas County drain and water line review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~16 ft across the Pinellas County area. Coordinates: 27.9100, -82.7700. ZIP sample: 33771, 33773, 33779, 33778, 33764. Logistics priority: Serving residential sectors across Pinellas County and north-east ZIP 33756 grid.
 

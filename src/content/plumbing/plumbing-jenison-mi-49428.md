@@ -8,15 +8,18 @@ zipCode: "49428"
 county: "Ottawa County"
 elevationFt: 659
 lat: 42.9100
-lng: -85.8300
+lng: -85.8000
 zipSample: ["49429", "49428"]
 zipCodes: ["49429", "49428"]
-localPaths: ["Ottawa County / primary ZIP 49428", "Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / elevation 659 ft band", "Ottawa County / coords 42.9100, -85.8300"]
-zillowHomeValueUsd: 360144
+localPaths: ["Ottawa County / primary ZIP 49428", "Ottawa County / ZIP 49428 sector", "Ottawa County / ZIP 49429 sector", "Ottawa County / elevation 659 ft band", "Ottawa County / coords 42.9100, -85.8000"]
 ---
 
-**Engineering Notice for Jenison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.
+**Engineering Notice for Jenison:** Supply line, cleanout, and water heater scope recorded at 659 ft elevation context (Ottawa County).
 
+
+Burst pipe and drain clog calls in Jenison, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ottawa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Jenison, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -28,7 +31,7 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 
 Recirculation pump failures in Jenison, MI can mimic fixture-specific clogs.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -48,6 +51,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Fixture roster 783185: toilet flange spacer kit and shower cartridge seat score queued for Jenison, MI walk-through.
 
-On-site sector marker: Ottawa County / coords 42.9100, -85.8300 — logged for map parity and ZIP-corridor verification.
+Scope trace: slab penetration sleeve seal plus gas water heater draft hood gap referenced in Ottawa County drain and water line review.
+
+On-site sector marker: Ottawa County / coords 42.9100, -85.8000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49428-900c0093

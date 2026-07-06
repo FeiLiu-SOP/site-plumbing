@@ -12,11 +12,14 @@ lng: -82.9200
 zipSample: ["43081", "43086", "43082"]
 zipCodes: ["43082", "43081", "43086"]
 localPaths: ["Franklin County / ZIP 43086 sector", "Franklin County / elevation 883 ft band", "Franklin County / coords 40.1200, -82.9200", "Franklin County / primary ZIP 43081", "Franklin County / ZIP 43082 sector"]
-zillowHomeValueUsd: 356512
 ---
 
-**Engineering Notice for Westerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Westerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Franklin County.
 
+
+When a main line backs up in Westerville, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Westerville, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Franklin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 

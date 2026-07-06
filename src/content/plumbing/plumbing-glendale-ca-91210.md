@@ -12,11 +12,14 @@ lng: -118.2500
 zipSample: ["91210", "91221", "91222", "91214", "91201"]
 zipCodes: ["91202", "91221", "91222", "91208", "91203", "91205", "91210", "91206", "91046", "91226", "91201", "91204"]
 localPaths: ["Los Angeles County / coords 34.1800, -118.2500", "Los Angeles County / primary ZIP 91210", "Los Angeles County / ZIP 91214 sector", "Los Angeles County / ZIP 91210 sector", "Los Angeles County / ZIP 91201 sector"]
-zillowHomeValueUsd: 1157576
 ---
 
-**Engineering Notice for Glendale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Glendale:** Emergency leak and drain triage uses ~167 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Glendale, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Glendale, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Glendale, CA irrigation zones need backflow logs before line replacement.
 

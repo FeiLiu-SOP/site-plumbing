@@ -12,11 +12,14 @@ lng: -122.3500
 zipSample: ["98671"]
 zipCodes: ["98671"]
 localPaths: ["Clark County / ZIP 98671 sector", "Clark County / elevation 92 ft band", "Clark County / coords 45.5800, -122.3500", "Clark County / primary ZIP 98671"]
-zillowHomeValueUsd: 639824
 ---
 
-**Engineering Notice for Washougal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Washougal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Clark County.
 
+
+Plumbing restoration in Washougal, WA, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Washougal, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -26,7 +29,7 @@ Across Washougal, WA, main-line bellies can trap debris even when fixtures drain
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal Washougal, WA irrigation cross-connections can mask domestic pressure loss.
 
@@ -42,11 +45,11 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
-We coordinate Washougal, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Washougal, WA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Lineage note 350572: recirculation pump amp draw captured before Washougal, WA branch isolation.
 
-plumbing brief: dielectric union checklist and PRV outlet curve were cross-checked for the Washougal intake packet.
+Plumbing restoration brief: dielectric union checklist and PRV outlet curve were cross-checked for the Washougal pipe and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Clark County. Reference elevation: 92 ft. Primary coordinates: 45.5800, -122.3500. ZIP sample: 98671. Regional routing note: Clark County traffic flow is balanced around ZIP 98671 service demand.
 

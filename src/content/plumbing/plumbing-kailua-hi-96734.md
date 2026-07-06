@@ -12,11 +12,14 @@ lng: -157.7400
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / elevation 23 ft band", "Honolulu County / coords 21.3900, -157.7400", "Honolulu County / ZIP 96734 sector", "Honolulu County / primary ZIP 96734"]
-zillowHomeValueUsd: 1523568
 ---
 
-**Engineering Notice for Kailua:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Kailua:** Emergency leak and drain triage uses ~148 mg/L hardness context with Honolulu County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Kailua, HI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Honolulu County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Kailua, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Honolulu County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Kailua, HI hardness profiles.
 
@@ -38,7 +41,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 FAQ: When should sump battery backups be load-tested? In Kailua, HI, before spring thaw and hurricane remnants.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 96734.
 

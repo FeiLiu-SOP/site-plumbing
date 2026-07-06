@@ -12,11 +12,14 @@ lng: -80.6500
 zipSample: ["28227"]
 zipCodes: ["28227"]
 localPaths: ["Mecklenburg County / ZIP 28227 sector", "Mecklenburg County / coords 35.1800, -80.6500", "Mecklenburg County / elevation 791 ft band", "Mecklenburg County / primary ZIP 28227"]
-zillowHomeValueUsd: 390100
 ---
 
-**Engineering Notice for Mint Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Mint Hill:** Supply line, cleanout, and water heater scope recorded at 791 ft elevation context (Mecklenburg County).
 
+
+Certified plumbing crews serving Mint Hill, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Mint Hill, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Mecklenburg County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Mint Hill, NC may require ROW restor
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Fixture roster 122077: toilet flange spacer kit and shower cartridge seat score queued for Mint Hill, NC walk-through.
-
-plumbing brief: water heater T&P path and recirculation pump amp draw were cross-checked for the Mint Hill intake packet.
 
 Primary postal anchor 28227 with multi-ZIP overlap in Mint Hill; field packets tag Mecklenburg County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -87.9900
 zipSample: ["54301", "54303", "54304", "54302", "54311"]
 zipCodes: ["54303", "54306", "54304", "54301", "54305", "54311", "54308", "54302"]
 localPaths: ["Brown County / coords 44.5100, -87.9900", "Brown County / primary ZIP 54304", "Brown County / ZIP 54302 sector", "Brown County / ZIP 54303 sector", "Brown County / elevation 591 ft band"]
-zillowHomeValueUsd: 289059
 ---
 
-**Engineering Notice for Green Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
+**Engineering Notice for Green Bay:** Supply line, cleanout, and water heater scope recorded at 591 ft elevation context (Brown County).
 
+
+Emergency plumbing technician service in Green Bay, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Brown County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Licensed plumbing crews serving Green Bay, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,8 +52,6 @@ FAQ: When should sump battery backups be load-tested? In Green Bay, WI, before s
 Pressure trace 807278: meter-pit clearance and dielectric union checklist staged for Green Bay, WI near elevation 591 ft.
 
 Lineage note 807278: recirculation pump amp draw captured before Green Bay, WI branch isolation.
-
-plumbing brief: slab penetration sleeve seal and meter pit clearance were cross-checked for the Green Bay intake packet.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~591 ft across the Brown County area. Coordinates: 44.5100, -87.9900. ZIP sample: 54303, 54308, 54306, 54301, 54311. Regional routing note: Brown County traffic flow is balanced around ZIP 54304 service demand.
 

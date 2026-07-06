@@ -12,11 +12,14 @@ lng: -79.2400
 zipSample: ["14701", "14702"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / ZIP 14701 sector", "Chautauqua County / elevation 1398 ft band", "Chautauqua County / primary ZIP 14701", "Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14702 sector"]
-zillowHomeValueUsd: 117887
 ---
 
-**Engineering Notice for Jamestown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chautauqua County.
+**Engineering Notice for Jamestown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Chautauqua County.
 
+
+Certified plumbing crews serving Jamestown, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Jamestown, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Chautauqua County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -24,7 +27,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless sleeve pulls near Jamestown, NY require pit shoring notes when water tables are high.
 
@@ -43,8 +46,6 @@ Frost-free sillcock failures in Jamestown, NY often trace to interior shutoff se
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Intake ledger 421417: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Jamestown, NY at 42.1000, -79.2400.
-
-plumbing brief: thermal expansion loop check and shower cartridge seat score were cross-checked for the Jamestown intake packet.
 
 On-site sector marker: Chautauqua County / ZIP 14701 sector — logged for map parity and ZIP-corridor verification.
 

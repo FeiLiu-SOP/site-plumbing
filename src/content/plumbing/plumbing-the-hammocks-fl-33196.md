@@ -12,11 +12,14 @@ lng: -80.4500
 zipSample: ["33186", "33196"]
 zipCodes: ["33196", "33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500"]
-zillowHomeValueUsd: 567248
 ---
 
-**Engineering Notice for The Hammocks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for The Hammocks:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Miami-Dade County).
 
+
+Certified plumbing crews serving The Hammocks, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in The Hammocks, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Trenchless sleeve pulls near The Hammocks, FL require pit shoring notes when water tables are high.
 
@@ -47,8 +50,6 @@ Frost-free sillcock failures in The Hammocks, FL often trace to interior shutoff
 Supply audit 110891: curb-stop orientation and hose-bib freeze flag reviewed for The Hammocks, FL at coords 25.6700/-80.4500.
 
 Pressure trace 110891: meter-pit clearance and dielectric union checklist staged for The Hammocks, FL near elevation 33 ft.
-
-plumbing brief: floor drain trap primer drip and water softener bypass lever were cross-checked for the The Hammocks intake packet.
 
 Coordinate-anchored dispatch note: center reference 25.6700, -80.4500 at elevation ~33 ft aligns with Miami-Dade County intake staging.
 

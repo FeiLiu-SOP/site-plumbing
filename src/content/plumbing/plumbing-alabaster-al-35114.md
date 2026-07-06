@@ -12,11 +12,14 @@ lng: -86.8200
 zipSample: ["35114", "35007"]
 zipCodes: ["35114", "35007"]
 localPaths: ["Shelby County / coords 33.2200, -86.8200", "Shelby County / ZIP 35007 sector", "Shelby County / primary ZIP 35114", "Shelby County / elevation 495 ft band", "Shelby County / ZIP 35114 sector"]
-zillowHomeValueUsd: 344564
 ---
 
-**Engineering Notice for Alabaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Alabaster:** Supply line, cleanout, and water heater scope recorded at 495 ft elevation context (Shelby County).
 
+
+Licensed plumbing crews serving Alabaster, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Alabaster, AL, Shelby County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Alabaster, AL systems need rebalancing.
 
@@ -32,7 +35,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Cleanout access limits in Alabaster, AL frequently extend drain cleaning duration.
 

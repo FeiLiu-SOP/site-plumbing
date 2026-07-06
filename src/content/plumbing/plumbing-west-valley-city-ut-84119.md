@@ -12,11 +12,14 @@ lng: -112.0100
 zipSample: ["84130", "84131", "84118", "84126", "84125"]
 zipCodes: ["84120", "84126", "84128", "84119", "84130", "84127", "84118", "84125", "84131", "84170"]
 localPaths: ["Salt Lake County / ZIP 84118 sector", "Salt Lake County / elevation 4364 ft band", "Salt Lake County / ZIP 84125 sector", "Salt Lake County / primary ZIP 84119", "Salt Lake County / ZIP 84126 sector"]
-zillowHomeValueUsd: 437618
 ---
 
-**Engineering Notice for West Valley City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for West Valley City:** Supply line, cleanout, and water heater scope recorded at 4364 ft elevation context (Salt Lake County).
 
+
+Emergency licensed plumber service in West Valley City, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Salt Lake County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving West Valley City, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -49,8 +52,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Fixture roster 101023: toilet flange spacer kit and shower cartridge seat score queued for West Valley City, UT walk-through.
 
 Pressure trace 101023: meter-pit clearance and dielectric union checklist staged for West Valley City, UT near elevation 4364 ft.
-
-plumbing brief: fixture shutoff torque log and slab penetration sleeve seal were cross-checked for the West Valley City intake packet.
 
 Primary postal anchor 84119 with multi-ZIP overlap in West Valley City; field packets tag Salt Lake County for county-grid reconciliation.
 

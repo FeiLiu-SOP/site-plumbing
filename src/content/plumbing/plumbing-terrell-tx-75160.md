@@ -12,11 +12,14 @@ lng: -96.2900
 zipSample: ["75161", "75160"]
 zipCodes: ["75161", "75160"]
 localPaths: ["Kaufman County / ZIP 75161 sector", "Kaufman County / elevation 528 ft band", "Kaufman County / ZIP 75160 sector", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / primary ZIP 75160"]
-zillowHomeValueUsd: 261887
 ---
 
-**Engineering Notice for Terrell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kaufman County.
+**Engineering Notice for Terrell:** Emergency leak and drain triage uses ~152 mg/L hardness context with Kaufman County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Terrell, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Kaufman County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Terrell, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -28,7 +31,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Dual-water-meter setups in Terrell, TX irrigation zones need backflow logs before line replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Across Terrell, TX, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -48,7 +51,7 @@ Risk flag: Seasonal Terrell, TX irrigation cross-connections can mask domestic p
 
 Drain map 550422: camera-pass priority and expansion-tank pre-charge noted for Terrell, TX postal sector 75160.
 
-Scope trace: scale coupon sampling plus toilet flange spacer kit referenced in Kaufman County county grid review.
+Scope trace: scale coupon sampling plus toilet flange spacer kit referenced in Kaufman County drain and water line review.
 
 On-site sector marker: Kaufman County / coords 32.7300, -96.2900 — logged for map parity and ZIP-corridor verification.
 

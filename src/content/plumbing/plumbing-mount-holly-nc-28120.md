@@ -12,11 +12,14 @@ lng: -81.0100
 zipSample: ["28120", "28012", "28236"]
 zipCodes: ["28012", "28236", "28120"]
 localPaths: ["Gaston County / primary ZIP 28120", "Gaston County / ZIP 28120 sector", "Gaston County / ZIP 28236 sector", "Gaston County / elevation 666 ft band", "Gaston County / coords 35.3100, -81.0100"]
-zillowHomeValueUsd: 366793
 ---
 
-**Engineering Notice for Mount Holly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.
+**Engineering Notice for Mount Holly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Gaston County.
 
+
+Emergency plumbing pro service in Mount Holly, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Gaston County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing service in Mount Holly, NC, Gaston County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -30,7 +33,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Basement floor drains in Mount Holly, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch packets reference county grid Gaston County near ZIP 28120.
+Our Mount Holly, NC service packets reference Gaston County near ZIP 28120 for pipe and leak scope.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,8 +50,6 @@ Stack vent offsets in Mount Holly, NC older duplexes can mask tub gurgle as a ma
 Intake ledger 101571: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Mount Holly, NC at 35.3100, -81.0100.
 
 Pressure trace 101571: meter-pit clearance and dielectric union checklist staged for Mount Holly, NC near elevation 666 ft.
-
-Field routing: floor drain trap primer drip paired with water heater T&P path near ZIP 28120.
 
 Primary postal anchor 28120 with multi-ZIP overlap in Mount Holly; field packets tag Gaston County for county-grid reconciliation.
 

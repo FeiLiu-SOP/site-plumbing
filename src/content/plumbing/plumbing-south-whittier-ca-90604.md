@@ -12,11 +12,14 @@ lng: -118.0300
 zipSample: ["90605", "90604"]
 zipCodes: ["90605", "90604"]
 localPaths: ["Los Angeles County / primary ZIP 90604", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / coords 33.9300, -118.0300"]
-zillowHomeValueUsd: 828661
 ---
 
-**Engineering Notice for South Whittier:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Whittier:** Supply line, cleanout, and water heater scope recorded at 174 ft elevation context (Los Angeles County).
 
+
+Plumbing remediation in South Whittier, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in South Whittier, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Frost-free sillcock failures in South Whittier, CA often trace to interior shutoff seats, not exterior stems.
 
 Intake ledger 962355: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Whittier, CA at 33.9300, -118.0300.
-
-Field routing: shower cartridge seat score paired with backflow test cock orientation near ZIP 90604.
 
 ZIP-corridor snapshot for South Whittier, CA: sampled sectors include 90605, 90604; county routing grid remains Los Angeles County.
 

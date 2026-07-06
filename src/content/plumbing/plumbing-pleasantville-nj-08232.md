@@ -12,11 +12,14 @@ lng: -74.5200
 zipSample: ["08232"]
 zipCodes: ["08232"]
 localPaths: ["Atlantic County / ZIP 08232 sector", "Atlantic County / coords 39.3900, -74.5200", "Atlantic County / primary ZIP 08232", "Atlantic County / elevation 10 ft band"]
-zillowHomeValueUsd: 239828
 ---
 
-**Engineering Notice for Pleasantville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Atlantic County.
+**Engineering Notice for Pleasantville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Atlantic County.
 
+
+Burst pipe and drain clog calls in Pleasantville, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Atlantic County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Pleasantville, NJ, Atlantic County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

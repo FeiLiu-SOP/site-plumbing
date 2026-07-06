@@ -12,11 +12,14 @@ lng: -121.8000
 zipSample: ["94509", "94531"]
 zipCodes: ["94531", "94509"]
 localPaths: ["Contra Costa County / primary ZIP 94531", "Contra Costa County / ZIP 94509 sector", "Contra Costa County / coords 37.9800, -121.8000", "Contra Costa County / ZIP 94531 sector", "Contra Costa County / elevation 213 ft band"]
-zillowHomeValueUsd: 669708
 ---
 
-**Engineering Notice for Antioch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Antioch:** Supply line, cleanout, and water heater scope recorded at 213 ft elevation context (Contra Costa County).
 
+
+When a main line backs up in Antioch, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Antioch, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Sewer gas odors in Antioch, CA should trigger trap seal and vent path review.
 

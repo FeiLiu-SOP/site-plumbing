@@ -12,12 +12,14 @@ lng: -66.1600
 zipSample: ["00916", "00934", "00960", "00957", "00959"]
 zipCodes: ["00960", "00957", "00934", "00959", "00916", "00956", "00961"]
 localPaths: ["Bayamón County / ZIP 00959 sector", "Bayamón County / ZIP 00957 sector", "Bayamón County / ZIP 00960 sector", "Bayamón County / ZIP 00934 sector", "Bayamón County / elevation 59 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 373224
 ---
 
-**Engineering Notice for Bayamón:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bayamón County.
+**Engineering Notice for Bayamón:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bayamón County.
 
+
+Qualified plumbing crews serving Bayamón, PR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Bayamón, PR, Bayamón County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

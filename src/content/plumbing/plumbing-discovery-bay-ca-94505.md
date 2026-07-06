@@ -12,11 +12,14 @@ lng: -121.6000
 zipSample: ["94505"]
 zipCodes: ["94505"]
 localPaths: ["Contra Costa County / primary ZIP 94505", "Contra Costa County / coords 37.9100, -121.6000", "Contra Costa County / ZIP 94505 sector", "Contra Costa County / elevation 10 ft band"]
-zillowHomeValueUsd: 794997
 ---
 
-**Engineering Notice for Discovery Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Discovery Bay:** Emergency leak and drain triage uses ~178 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Discovery Bay, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Discovery Bay, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 94505.
 
@@ -43,8 +46,6 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
 Drain map 510231: camera-pass priority and expansion-tank pre-charge noted for Discovery Bay, CA postal sector 94505.
-
-Scope trace: slab leak listening window plus scale coupon sampling referenced in Contra Costa County county grid review.
 
 On-site sector marker: Contra Costa County / ZIP 94505 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,15 +12,18 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / elevation 965 ft band", "Polk County / coords 41.6800, -93.7900", "Polk County / ZIP 50111 sector", "Polk County / primary ZIP 50111"]
-zillowHomeValueUsd: 346223
 ---
 
-**Engineering Notice for Grimes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for Grimes:** Supply line, cleanout, and water heater scope recorded at 965 ft elevation context (Polk County).
 
+
+Emergency plumbing technician service in Grimes, IA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Polk County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Grimes, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Grimes, IA systems need rebalancing.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydro-jetting in Grimes, IA requires camera confirmation before nozzle pressure is raised.
 

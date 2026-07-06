@@ -12,11 +12,14 @@ lng: -81.1400
 zipSample: ["29227", "29210", "29212"]
 zipCodes: ["29210", "29227", "29212"]
 localPaths: ["Lexington County / coords 34.0500, -81.1400", "Lexington County / ZIP 29212 sector", "Lexington County / ZIP 29210 sector", "Lexington County / primary ZIP 29212", "Lexington County / elevation 262 ft band"]
-zillowHomeValueUsd: 277806
 ---
 
-**Engineering Notice for Seven Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lexington County.
+**Engineering Notice for Seven Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lexington County.
 
+
+Burst pipe and drain clog calls in Seven Oaks, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lexington County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Seven Oaks, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lexington County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Branch wet vents in Seven Oaks, SC can mask gurgling as a main-line issue.
 

@@ -12,11 +12,14 @@ lng: -104.7200
 zipSample: ["80045", "80014", "80046", "80013", "80040"]
 zipCodes: ["80047", "80013", "80042", "80137", "80017", "80018", "80041", "80015", "80019", "80014", "80011", "80046"]
 localPaths: ["Arapahoe County / ZIP 80013 sector", "Arapahoe County / coords 39.7100, -104.7200", "Arapahoe County / ZIP 80046 sector", "Arapahoe County / ZIP 80045 sector", "Arapahoe County / ZIP 80014 sector"]
-zillowHomeValueUsd: 262393
 ---
 
-**Engineering Notice for Aurora:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Aurora:** Emergency leak and drain triage uses ~141 mg/L hardness context with Arapahoe County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Aurora, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Aurora, CO, Arapahoe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 

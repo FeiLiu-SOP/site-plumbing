@@ -12,11 +12,14 @@ lng: -84.5800
 zipSample: ["30272", "30349", "30296", "31136", "30336"]
 zipCodes: ["30378", "30291", "30272", "30331", "31136", "30213", "30336", "31131", "30296", "30349"]
 localPaths: ["Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30336 sector", "Fulton County / elevation 932 ft band", "Fulton County / ZIP 30296 sector", "Fulton County / coords 33.6300, -84.5800"]
-zillowHomeValueUsd: 282690
 ---
 
-**Engineering Notice for South Fulton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for South Fulton:** Emergency leak and drain triage uses ~174 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in South Fulton, GA, Fulton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving South Fulton, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in South Fulton, GA.
 

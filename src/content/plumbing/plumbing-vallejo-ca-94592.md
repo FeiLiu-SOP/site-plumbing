@@ -12,17 +12,20 @@ lng: -122.2300
 zipSample: ["94589", "94590", "94591", "94592"]
 zipCodes: ["94591", "94589", "94592", "94590"]
 localPaths: ["Solano County / coords 38.1100, -122.2300", "Solano County / ZIP 94589 sector", "Solano County / ZIP 94591 sector", "Solano County / primary ZIP 94592", "Solano County / ZIP 94590 sector"]
-zillowHomeValueUsd: 721288
 ---
 
-**Engineering Notice for Vallejo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.
+**Engineering Notice for Vallejo:** Emergency leak and drain triage uses ~157 mg/L hardness context with Solano County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Vallejo, CA, Solano County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Vallejo, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless sleeve pulls near Vallejo, CA require pit shoring notes when water tables are high.
 
 Cast-iron hub corrosion in Vallejo, CA often concentrates at the third joint upstream of the cleanout.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Polybutylene manifold tags in Vallejo, CA basements should be photographed before any wall chase opens.
 
@@ -45,8 +48,6 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Pressure trace 970591: meter-pit clearance and dielectric union checklist staged for Vallejo, CA near elevation 66 ft.
-
-Scope trace: dielectric union checklist plus cleanout riser height referenced in Solano County county grid review.
 
 On-site sector marker: Solano County / ZIP 94589 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -122.8200
 zipSample: ["97005", "97075", "97007", "97008", "97225"]
 zipCodes: ["97076", "97005", "97225", "97007", "97003", "97079", "97006", "97008", "97075", "97077"]
 localPaths: ["Washington County / coords 45.4800, -122.8200", "Washington County / ZIP 97225 sector", "Washington County / ZIP 97005 sector", "Washington County / ZIP 97007 sector", "Washington County / primary ZIP 97225"]
-zillowHomeValueUsd: 743431
 ---
 
-**Engineering Notice for Beaverton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Beaverton:** Emergency leak and drain triage uses ~151 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Beaverton, OR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Beaverton, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Beaverton, OR hardness profiles.
 
@@ -46,7 +49,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Intake ledger 470030: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Beaverton, OR at 45.4800, -122.8200.
 
-plumbing brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Beaverton intake packet.
+Plumbing service brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Beaverton pipe and leak scope.
 
 On-site sector marker: Washington County / ZIP 97007 sector — logged for map parity and ZIP-corridor verification.
 

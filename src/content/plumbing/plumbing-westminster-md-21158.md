@@ -12,11 +12,14 @@ lng: -77.0100
 zipSample: ["21157", "21158"]
 zipCodes: ["21157", "21158"]
 localPaths: ["Carroll County / elevation 781 ft band", "Carroll County / ZIP 21157 sector", "Carroll County / ZIP 21158 sector", "Carroll County / coords 39.5800, -77.0100", "Carroll County / primary ZIP 21158"]
-zillowHomeValueUsd: 471337
 ---
 
-**Engineering Notice for Westminster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.
+**Engineering Notice for Westminster:** Supply line, cleanout, and water heater scope recorded at 781 ft elevation context (Carroll County).
 
+
+Burst pipe and drain clog calls in Westminster, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Carroll County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Westminster, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in Westminster, MD should be reviewed before spring thaw cycles.
 

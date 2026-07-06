@@ -12,11 +12,14 @@ lng: -70.6900
 zipSample: ["01931", "01930"]
 zipCodes: ["01931", "01930"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 42.6300, -70.6900", "Essex County / ZIP 01931 sector", "Essex County / ZIP 01930 sector", "Essex County / primary ZIP 01930"]
-zillowHomeValueUsd: 760879
 ---
 
-**Engineering Notice for Gloucester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.
+**Engineering Notice for Gloucester:** Emergency leak and drain triage uses ~141 mg/L hardness context with Essex County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Gloucester, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Essex County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Gloucester, MA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during Gloucester, MA shoulder seasons.
 
@@ -32,7 +35,7 @@ Fixture shutoff stiffness in Gloucester, MA may indicate mineral bridging behind
 
 Polybutylene manifold tags in Gloucester, MA basements should be photographed before any wall chase opens.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When should sump battery backups be load-tested? In Gloucester, MA, before spring thaw and hurricane remnants.
 

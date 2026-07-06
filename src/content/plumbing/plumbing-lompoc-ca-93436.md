@@ -12,11 +12,14 @@ lng: -120.4700
 zipSample: ["93436", "93438"]
 zipCodes: ["93436", "93438"]
 localPaths: ["Santa Barbara County / elevation 85 ft band", "Santa Barbara County / coords 34.6600, -120.4700", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / primary ZIP 93436", "Santa Barbara County / ZIP 93436 sector"]
-zillowHomeValueUsd: 590079
 ---
 
-**Engineering Notice for Lompoc:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Lompoc:** Emergency leak and drain triage uses ~113 mg/L hardness context with Santa Barbara County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Lompoc, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lompoc, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Barbara County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Lompoc, CA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -47,6 +50,8 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Flow dossier 985747: branch wet-vent geometry and jetting nozzle envelope logged for Lompoc, CA county grid Santa Barbara County (ZIP 93436).
 
 Lineage note 985747: recirculation pump amp draw captured before Lompoc, CA branch isolation.
+
+Plumbing remediation brief: branch wet vent geometry and PRV outlet curve were cross-checked for the Lompoc pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 34.6600, -120.4700 at elevation ~85 ft aligns with Santa Barbara County intake staging.
 

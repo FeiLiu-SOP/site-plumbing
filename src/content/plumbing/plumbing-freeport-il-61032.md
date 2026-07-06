@@ -12,11 +12,14 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032", "Stephenson County / elevation 801 ft band", "Stephenson County / coords 42.2900, -89.6300"]
-zillowHomeValueUsd: 123017
 ---
 
-**Engineering Notice for Freeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stephenson County.
+**Engineering Notice for Freeport:** Supply line, cleanout, and water heater scope recorded at 801 ft elevation context (Stephenson County).
 
+
+Plumbing service in Freeport, IL, Stephenson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Freeport, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Stephenson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -47,6 +50,8 @@ Basement floor drains in Freeport, IL should be snaked only after trap arm geome
 Expansion tank pre-charge loss in Freeport, IL often tracks heater replacement deferrals.
 
 Supply audit 442328: curb-stop orientation and hose-bib freeze flag reviewed for Freeport, IL at coords 42.2900/-89.6300.
+
+Plumbing service brief: meter pit clearance and cleanout riser height were cross-checked for the Freeport pipe and leak scope.
 
 ZIP-corridor snapshot for Freeport, IL: sampled sectors include 61032; county routing grid remains Stephenson County.
 

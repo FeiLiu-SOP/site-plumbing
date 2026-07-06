@@ -12,11 +12,14 @@ lng: -71.1500
 zipSample: ["01815", "01801", "01888"]
 zipCodes: ["01815", "01888", "01801"]
 localPaths: ["Middlesex County / coords 42.4900, -71.1500", "Middlesex County / primary ZIP 01801", "Middlesex County / ZIP 01888 sector", "Middlesex County / ZIP 01815 sector", "Middlesex County / ZIP 01801 sector"]
-zillowHomeValueUsd: 758850
 ---
 
-**Engineering Notice for Woburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Woburn:** Supply line, cleanout, and water heater scope recorded at 121 ft elevation context (Middlesex County).
 
+
+Licensed plumbing crews serving Woburn, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Woburn, MA, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cleanout access limits in Woburn, MA frequently extend drain cleaning duration.
 
@@ -47,6 +50,8 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Flow dossier 962852: branch wet-vent geometry and jetting nozzle envelope logged for Woburn, MA county grid Middlesex County (ZIP 01801).
 
 Pressure trace 962852: meter-pit clearance and dielectric union checklist staged for Woburn, MA near elevation 121 ft.
+
+Plumbing service brief: dielectric union checklist and toilet flange spacer kit were cross-checked for the Woburn pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 42.4900, -71.1500 at elevation ~121 ft aligns with Middlesex County intake staging.
 

@@ -12,11 +12,14 @@ lng: -122.2300
 zipSample: ["98040"]
 zipCodes: ["98040"]
 localPaths: ["King County / elevation 92 ft band", "King County / primary ZIP 98040", "King County / ZIP 98040 sector", "King County / coords 47.5700, -122.2300"]
-zillowHomeValueUsd: 2327625
 ---
 
-**Engineering Notice for Mercer Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Mercer Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in King County.
 
+
+Burst pipe and drain clog calls in Mercer Island, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Mercer Island, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 98040.
 
@@ -34,13 +37,13 @@ Permit note: Main water line replacement in Mercer Island, WA may require ROW re
 
 Risk flag: In Mercer Island, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch packets reference county grid King County near ZIP 98040.
+Our Mercer Island, WA service packets reference King County near ZIP 98040 for pipe and leak scope.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless sleeve pulls near Mercer Island, WA require pit shoring notes when water tables are high.
 
@@ -48,7 +51,7 @@ Lineage note 464216: recirculation pump amp draw captured before Mercer Island, 
 
 Supply audit 464216: curb-stop orientation and hose-bib freeze flag reviewed for Mercer Island, WA at coords 47.5700/-122.2300.
 
-Scope trace: sewer cleanout cap thread plus cleanout riser height referenced in King County county grid review.
+Scope trace: sewer cleanout cap thread plus cleanout riser height referenced in King County drain and water line review.
 
 On-site sector marker: King County / ZIP 98040 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -118.3400
 zipSample: ["90504", "90503", "90507", "90508", "90501"]
 zipCodes: ["90503", "90501", "90505", "90510", "90508", "90509", "90504", "90277", "90507"]
 localPaths: ["Los Angeles County / ZIP 90503 sector", "Los Angeles County / elevation 95 ft band", "Los Angeles County / ZIP 90501 sector", "Los Angeles County / ZIP 90507 sector", "Los Angeles County / ZIP 90508 sector"]
-zillowHomeValueUsd: 1645180
 ---
 
-**Engineering Notice for Torrance:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Torrance:** Emergency leak and drain triage uses ~131 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Torrance, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing service in Torrance, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Torrance, CA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -50,7 +53,7 @@ Fixture roster 649001: toilet flange spacer kit and shower cartridge seat score 
 
 Pressure trace 649001: meter-pit clearance and dielectric union checklist staged for Torrance, CA near elevation 95 ft.
 
-Scope trace: slab leak listening window plus shower cartridge seat score referenced in Los Angeles County county grid review.
+Scope trace: slab leak listening window plus shower cartridge seat score referenced in Los Angeles County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 33.8300, -118.3400 at elevation ~95 ft aligns with Los Angeles County intake staging.
 

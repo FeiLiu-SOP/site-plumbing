@@ -12,11 +12,14 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / elevation 3241 ft band", "Gray County / ZIP 79065 sector", "Gray County / primary ZIP 79065", "Gray County / coords 35.5500, -100.9700"]
-zillowHomeValueUsd: 102761
 ---
 
-**Engineering Notice for Pampa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gray County.
+**Engineering Notice for Pampa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Gray County.
 
+
+Burst pipe and drain clog calls in Pampa, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gray County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Pampa, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Expansion tank pre-charge loss in Pampa, TX often tracks heater replacement deferrals.
 

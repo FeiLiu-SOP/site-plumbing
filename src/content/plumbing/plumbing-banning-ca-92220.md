@@ -12,11 +12,14 @@ lng: -116.9000
 zipSample: ["92220"]
 zipCodes: ["92220"]
 localPaths: ["Riverside County / primary ZIP 92220", "Riverside County / elevation 2930 ft band", "Riverside County / coords 33.9500, -116.9000", "Riverside County / ZIP 92220 sector"]
-zillowHomeValueUsd: 414151
 ---
 
-**Engineering Notice for Banning:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Banning:** Emergency leak and drain triage uses ~153 mg/L hardness context with Riverside County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Banning, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Banning, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Basement floor drains in Banning, CA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -44,7 +47,7 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 922
 
 Lineage note 893260: recirculation pump amp draw captured before Banning, CA branch isolation.
 
-Field routing: gas water heater draft hood gap paired with water softener bypass lever near ZIP 92220.
+Local service note: gas water heater draft hood gap paired with water softener bypass lever near ZIP 92220 for emergency plumbing technician repairs.
 
 On-site sector marker: Riverside County / coords 33.9500, -116.9000 — logged for map parity and ZIP-corridor verification.
 

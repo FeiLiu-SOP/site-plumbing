@@ -12,11 +12,14 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / primary ZIP 07087", "Hudson County / ZIP 07087 sector", "Hudson County / coords 40.7700, -74.0300", "Hudson County / elevation 210 ft band"]
-zillowHomeValueUsd: 567892
 ---
 
-**Engineering Notice for Union City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
+**Engineering Notice for Union City:** Emergency leak and drain triage uses ~118 mg/L hardness context with Hudson County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Union City, NJ, Hudson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Union City, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Fixture shutoff stiffness in Union City, NJ may indicate mineral bridging behind stems.
 

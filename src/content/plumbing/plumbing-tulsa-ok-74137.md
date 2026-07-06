@@ -12,11 +12,14 @@ lng: -95.9000
 zipSample: ["74117", "74170", "74115", "74132", "74186"]
 zipCodes: ["74186", "74158", "74193", "74110", "74119", "74115", "74169", "74105", "74135", "74149", "74155", "74136"]
 localPaths: ["Tulsa County / ZIP 74117 sector", "Tulsa County / ZIP 74132 sector", "Tulsa County / ZIP 74170 sector", "Tulsa County / elevation 728 ft band", "Tulsa County / ZIP 74186 sector"]
-zillowHomeValueUsd: 429429
 ---
 
-**Engineering Notice for Tulsa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Tulsa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Tulsa County.
 
+
+Emergency qualified plumber service in Tulsa, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Tulsa County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Tulsa, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tulsa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Stack vent offsets in Tulsa, OK older duplexes can mask tub gurgle as a main-line failure.
 
@@ -45,8 +48,6 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Lineage note 766262: recirculation pump amp draw captured before Tulsa, OK branch isolation.
-
-plumbing brief: shower cartridge seat score and PEX expansion ring batch were cross-checked for the Tulsa intake packet.
 
 On-site sector marker: Tulsa County / ZIP 74116 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,15 +12,18 @@ lng: -111.8900
 zipSample: ["84123", "84157", "84107", "84121", "84117"]
 zipCodes: ["84107", "84121", "84123", "84157", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / ZIP 84157 sector", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / elevation 4354 ft band"]
-zillowHomeValueUsd: 694525
 ---
 
-**Engineering Notice for Murray:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Murray:** Supply line, cleanout, and water heater scope recorded at 4354 ft elevation context (Salt Lake County).
 
+
+Emergency plumbing pro service in Murray, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Salt Lake County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Murray, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 84117.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Stack vent offsets in Murray, UT older duplexes can mask tub gurgle as a main-line failure.
 

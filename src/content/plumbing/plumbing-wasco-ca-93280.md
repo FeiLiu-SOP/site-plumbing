@@ -12,11 +12,14 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / ZIP 93280 sector", "Kern County / coords 35.5900, -119.3700", "Kern County / elevation 318 ft band", "Kern County / primary ZIP 93280"]
-zillowHomeValueUsd: 316611
 ---
 
-**Engineering Notice for Wasco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.
+**Engineering Notice for Wasco:** Supply line, cleanout, and water heater scope recorded at 318 ft elevation context (Kern County).
 
+
+When a main line backs up in Wasco, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Wasco, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kern County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -49,8 +52,6 @@ Polybutylene manifold tags in Wasco, CA basements should be photographed before 
 Intake ledger 239242: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wasco, CA at 35.5900, -119.3700.
 
 Flow dossier 239242: branch wet-vent geometry and jetting nozzle envelope logged for Wasco, CA county grid Kern County (ZIP 93280).
-
-Scope trace: slab leak listening window plus copper pinhole cluster referenced in Kern County county grid review.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Kern County and primary ZIP 93280. Terrain reference: 318 ft. Center point: 35.5900, -119.3700. ZIP sample: 93280. Logistics priority: Serving residential sectors across Kern County and north-east ZIP 93280 grid.
 

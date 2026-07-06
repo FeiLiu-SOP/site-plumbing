@@ -12,11 +12,14 @@ lng: -87.8800
 zipSample: ["60131"]
 zipCodes: ["60131"]
 localPaths: ["Cook County / primary ZIP 60131", "Cook County / elevation 653 ft band", "Cook County / coords 41.9400, -87.8800", "Cook County / ZIP 60131 sector"]
-zillowHomeValueUsd: 308644
 ---
 
-**Engineering Notice for Franklin Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Franklin Park:** Supply line, cleanout, and water heater scope recorded at 653 ft elevation context (Cook County).
 
+
+Licensed plumbing crews serving Franklin Park, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Franklin Park, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -45,8 +48,6 @@ Polybutylene manifold tags in Franklin Park, IL basements should be photographed
 Lineage note 486039: recirculation pump amp draw captured before Franklin Park, IL branch isolation.
 
 Drain map 486039: camera-pass priority and expansion-tank pre-charge noted for Franklin Park, IL postal sector 60131.
-
-Field routing: water heater T&P path paired with PEX expansion ring batch near ZIP 60131.
 
 On-site sector marker: Cook County / primary ZIP 60131 — logged for map parity and ZIP-corridor verification.
 

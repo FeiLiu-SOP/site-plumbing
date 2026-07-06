@@ -12,11 +12,14 @@ lng: -94.3800
 zipSample: ["64086", "64081", "64063", "64002", "64082"]
 zipCodes: ["64081", "64002", "64063", "64064", "64082", "64086"]
 localPaths: ["Jackson County / ZIP 64082 sector", "Jackson County / primary ZIP 64086", "Jackson County / elevation 1030 ft band", "Jackson County / ZIP 64086 sector", "Jackson County / coords 38.9200, -94.3800"]
-zillowHomeValueUsd: 375396
 ---
 
-**Engineering Notice for Lee's Summit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Lee's Summit:** Emergency leak and drain triage uses ~123 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Lee's Summit, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jackson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Lee's Summit, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,8 +50,6 @@ FAQ: When should sump battery backups be load-tested? In Lee's Summit, MO, befor
 Recirculation pump failures in Lee's Summit, MO can mimic fixture-specific clogs.
 
 Lineage note 632132: recirculation pump amp draw captured before Lee's Summit, MO branch isolation.
-
-plumbing brief: shower cartridge seat score and slab leak listening window were cross-checked for the Lee's Summit intake packet.
 
 **Regional Infrastructure Brief:** Grid anchor set to Jackson County. Reference elevation: 1030 ft. Primary coordinates: 38.9200, -94.3800. ZIP sample: 64081, 64063, 64002, 64086, 64082. Regional routing note: Jackson County traffic flow is balanced around ZIP 64086 service demand.
 

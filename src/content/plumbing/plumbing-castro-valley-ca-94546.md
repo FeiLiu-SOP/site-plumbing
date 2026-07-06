@@ -12,17 +12,20 @@ lng: -122.0600
 zipSample: ["94552", "94578", "94546"]
 zipCodes: ["94546", "94578", "94552"]
 localPaths: ["Alameda County / ZIP 94552 sector", "Alameda County / elevation 361 ft band", "Alameda County / ZIP 94546 sector", "Alameda County / primary ZIP 94546", "Alameda County / ZIP 94578 sector"]
-zillowHomeValueUsd: 1035782
 ---
 
-**Engineering Notice for Castro Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
+**Engineering Notice for Castro Valley:** Emergency leak and drain triage uses ~179 mg/L hardness context with Alameda County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Castro Valley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Alameda County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Castro Valley, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Alameda County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Hydrostatic holds in Castro Valley, CA slab circuits run overnight when listening mics show ambiguous hits.
 
 Step: document dielectric unions before mixed-metal replacements.
 
-We coordinate Castro Valley, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Castro Valley, CA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

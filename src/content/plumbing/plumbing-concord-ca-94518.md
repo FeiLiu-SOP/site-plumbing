@@ -12,11 +12,14 @@ lng: -122.0000
 zipSample: ["94565", "94524", "94521", "94522", "94519"]
 zipCodes: ["94520", "94521", "94527", "94518", "94524", "94565", "94519", "94522"]
 localPaths: ["Contra Costa County / coords 37.9700, -122.0000", "Contra Costa County / ZIP 94521 sector", "Contra Costa County / primary ZIP 94518", "Contra Costa County / ZIP 94519 sector", "Contra Costa County / ZIP 94565 sector"]
-zillowHomeValueUsd: 867955
 ---
 
-**Engineering Notice for Concord:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Concord:** Emergency leak and drain triage uses ~174 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Concord, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Qualified plumbing crews serving Concord, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -34,7 +37,7 @@ Sump discharge freeze risk in Concord, CA should be reviewed before spring thaw 
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

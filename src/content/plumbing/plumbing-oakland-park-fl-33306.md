@@ -12,11 +12,14 @@ lng: -80.1500
 zipSample: ["33334", "33335", "33306", "33310", "33309"]
 zipCodes: ["33334", "33306", "33310", "33309", "33335"]
 localPaths: ["Broward County / ZIP 33309 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33335 sector", "Broward County / ZIP 33334 sector", "Broward County / ZIP 33310 sector"]
-zillowHomeValueUsd: 583688
 ---
 
-**Engineering Notice for Oakland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for Oakland Park:** Supply line, cleanout, and water heater scope recorded at 23 ft elevation context (Broward County).
 
+
+Certified plumbing crews serving Oakland Park, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Oakland Park, FL, Broward County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Oakland Park, FL irrigation zones need backflow logs before line replacement.
 
@@ -45,8 +48,6 @@ Stack vent offsets in Oakland Park, FL older duplexes can mask tub gurgle as a m
 Sewer gas odors in Oakland Park, FL should trigger trap seal and vent path review.
 
 Pressure trace 988609: meter-pit clearance and dielectric union checklist staged for Oakland Park, FL near elevation 23 ft.
-
-Scope trace: thermal expansion loop check plus dielectric union checklist referenced in Broward County county grid review.
 
 On-site sector marker: Broward County / ZIP 33306 sector — logged for map parity and ZIP-corridor verification.
 

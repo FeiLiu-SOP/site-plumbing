@@ -12,11 +12,14 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / coords 36.1000, -115.0400", "Clark County / elevation 1667 ft band", "Clark County / ZIP 89122 sector", "Clark County / primary ZIP 89122"]
-zillowHomeValueUsd: 356255
 ---
 
-**Engineering Notice for Whitney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Whitney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Clark County.
 
+
+When a main line backs up in Whitney, NV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Whitney, NV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -45,8 +48,6 @@ Risk flag: In Whitney, NV, slab leaks can misroute as foundation issues without 
 FAQ: When should sump battery backups be load-tested? In Whitney, NV, before spring thaw and hurricane remnants.
 
 Drain map 855328: camera-pass priority and expansion-tank pre-charge noted for Whitney, NV postal sector 89122.
-
-plumbing brief: toilet flange spacer kit and shower cartridge seat score were cross-checked for the Whitney intake packet.
 
 Coordinate-anchored dispatch note: center reference 36.1000, -115.0400 at elevation ~1667 ft aligns with Clark County intake staging.
 

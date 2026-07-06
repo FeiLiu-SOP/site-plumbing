@@ -12,11 +12,14 @@ lng: -80.1000
 zipSample: ["15090", "15237", "15143"]
 zipCodes: ["15237", "15090", "15143"]
 localPaths: ["Allegheny County / elevation 1257 ft band", "Allegheny County / ZIP 15237 sector", "Allegheny County / coords 40.5900, -80.1000", "Allegheny County / primary ZIP 15237", "Allegheny County / ZIP 15090 sector"]
-zillowHomeValueUsd: 356632
 ---
 
-**Engineering Notice for Franklin Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Franklin Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Allegheny County.
 
+
+Certified plumbing crews serving Franklin Park, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Franklin Park, PA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Allegheny County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,6 +48,8 @@ Hose bib split patterns in Franklin Park, PA often follow missed winterization.
 Intake ledger 226274: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Franklin Park, PA at 40.5900, -80.1000.
 
 Lineage note 226274: recirculation pump amp draw captured before Franklin Park, PA branch isolation.
+
+Plumbing service brief: PEX expansion ring batch and water heater T&P path were cross-checked for the Franklin Park pipe and leak scope.
 
 Regional mesh label Allegheny County: moisture and logistics baselines are keyed to Franklin Park, PA before niche-specific work begins.
 

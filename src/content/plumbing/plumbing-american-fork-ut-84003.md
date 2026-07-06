@@ -12,11 +12,14 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / elevation 4629 ft band", "Utah County / primary ZIP 84003", "Utah County / coords 40.3800, -111.8000", "Utah County / ZIP 84003 sector"]
-zillowHomeValueUsd: 598750
 ---
 
-**Engineering Notice for American Fork:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for American Fork:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Utah County.
 
+
+Burst pipe and drain clog calls in American Fork, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in American Fork, UT, Utah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,6 +50,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Intake ledger 627134: sump amperage, PRV seat wear, and cleanout riser height cross-checked for American Fork, UT at 40.3800, -111.8000.
 
 Pressure trace 627134: meter-pit clearance and dielectric union checklist staged for American Fork, UT near elevation 4629 ft.
+
+Local service note: cleanout riser height paired with gas water heater draft hood gap near ZIP 84003 for emergency plumbing pro repairs.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Utah County and primary ZIP 84003. Terrain reference: 4629 ft. Center point: 40.3800, -111.8000. ZIP sample: 84003. Regional routing note: Utah County traffic flow is balanced around ZIP 84003 service demand.
 

@@ -12,11 +12,14 @@ lng: -117.1200
 zipSample: ["92103", "92174", "92197", "92165", "92187"]
 zipCodes: ["92071", "92199", "92139", "92170", "92072", "92161", "92114", "92163", "92159", "92168", "92109", "92119"]
 localPaths: ["San Diego County / ZIP 92103 sector", "San Diego County / ZIP 92174 sector", "San Diego County / ZIP 92165 sector", "San Diego County / elevation 404 ft band", "San Diego County / primary ZIP 92182"]
-zillowHomeValueUsd: 746733
 ---
 
-**Engineering Notice for San Diego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for San Diego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Diego County.
 
+
+Burst pipe and drain clog calls in San Diego, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Diego County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in San Diego, CA, San Diego County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,6 +50,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Pressure trace 242632: meter-pit clearance and dielectric union checklist staged for San Diego, CA near elevation 404 ft.
 
 Intake ledger 242632: sump amperage, PRV seat wear, and cleanout riser height cross-checked for San Diego, CA at 32.8300, -117.1200.
+
+Local service note: slab leak listening window paired with cleanout riser height near ZIP 92182 for emergency plumbing technician repairs.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to San Diego County. Reference elevation: 404 ft. Primary coordinates: 32.8300, -117.1200. ZIP sample: 92192, 92159, 92132, 92128, 92168. Logistics priority: Serving residential sectors across San Diego County and north-east ZIP 92182 grid.
 

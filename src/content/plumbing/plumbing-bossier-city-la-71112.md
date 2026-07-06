@@ -12,11 +12,14 @@ lng: -93.6700
 zipSample: ["71111", "71171", "71172", "71112", "71110"]
 zipCodes: ["71113", "71172", "71171", "71112", "71110", "71111"]
 localPaths: ["Bossier Parish / ZIP 71171 sector", "Bossier Parish / primary ZIP 71112", "Bossier Parish / ZIP 71111 sector", "Bossier Parish / ZIP 71112 sector", "Bossier Parish / elevation 167 ft band"]
-zillowHomeValueUsd: 182406
 ---
 
-**Engineering Notice for Bossier City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bossier Parish.
+**Engineering Notice for Bossier City:** Emergency leak and drain triage uses ~112 mg/L hardness context with Bossier Parish service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Bossier City, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Bossier City, LA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Seasonal Bossier City, LA irrigation cross-connections can mask domestic pressure loss.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Bossier City, LA irrigation zones need backflow logs 
 Fixture roster 783485: toilet flange spacer kit and shower cartridge seat score queued for Bossier City, LA walk-through.
 
 Flow dossier 783485: branch wet-vent geometry and jetting nozzle envelope logged for Bossier City, LA county grid Bossier Parish (ZIP 71112).
-
-plumbing brief: slab penetration sleeve seal and floor drain trap primer drip were cross-checked for the Bossier City intake packet.
 
 Primary postal anchor 71112 with multi-ZIP overlap in Bossier City; field packets tag Bossier Parish for county-grid reconciliation.
 

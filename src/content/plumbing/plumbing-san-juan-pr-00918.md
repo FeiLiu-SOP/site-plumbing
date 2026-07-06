@@ -12,12 +12,14 @@ lng: -66.0600
 zipSample: ["00955", "00913", "00975", "00907", "00929"]
 zipCodes: ["00908", "00928", "00909", "00907", "00969", "00939", "00975", "00935", "00913", "00926", "00955", "00936"]
 localPaths: ["San Juan County / ZIP 00975 sector", "San Juan County / ZIP 00913 sector", "San Juan County / elevation 43 ft band", "San Juan County / ZIP 00955 sector", "San Juan County / ZIP 00907 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 367762
 ---
 
-**Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Juan County.
+**Engineering Notice for San Juan:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (San Juan County).
 
+
+Burst pipe and drain clog calls in San Juan, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Juan County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in San Juan, PR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in San Juan County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 

@@ -12,11 +12,14 @@ lng: -120.0600
 zipSample: ["93630"]
 zipCodes: ["93630"]
 localPaths: ["Fresno County / ZIP 93630 sector", "Fresno County / elevation 236 ft band", "Fresno County / coords 36.7200, -120.0600", "Fresno County / primary ZIP 93630"]
-zillowHomeValueUsd: 414686
 ---
 
-**Engineering Notice for Kerman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
+**Engineering Notice for Kerman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fresno County.
 
+
+Plumbing remediation in Kerman, CA, Fresno County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Kerman, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Fresno County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Step: camera-pass main lines in Kerman, CA before jetting older clay or cast iron.
 
@@ -47,8 +50,6 @@ In Kerman, CA, slab leaks often present as warm spots before wall stains appear.
 Pressure trace 914975: meter-pit clearance and dielectric union checklist staged for Kerman, CA near elevation 236 ft.
 
 Lineage note 914975: recirculation pump amp draw captured before Kerman, CA branch isolation.
-
-plumbing brief: scale coupon sampling and water softener bypass lever were cross-checked for the Kerman intake packet.
 
 ZIP-corridor snapshot for Kerman, CA: sampled sectors include 93630; county routing grid remains Fresno County.
 

@@ -12,17 +12,20 @@ lng: -82.4300
 zipSample: ["33612", "33549", "33613", "33559"]
 zipCodes: ["33559", "33549", "33613", "33612"]
 localPaths: ["Hillsborough County / elevation 69 ft band", "Hillsborough County / ZIP 33612 sector", "Hillsborough County / ZIP 33549 sector", "Hillsborough County / ZIP 33613 sector", "Hillsborough County / coords 28.0800, -82.4300"]
-zillowHomeValueUsd: 436494
 ---
 
-**Engineering Notice for University:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for University:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hillsborough County.
 
 
-We coordinate University, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Plumbing service in University, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in University, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+We coordinate University, FL plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Fixture shutoff stiffness in University, FL may indicate mineral bridging behind stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -47,6 +50,8 @@ Risk flag: In University, FL, slab leaks can misroute as foundation issues witho
 Confirm cleanout locations during the same visit. Serving ZIP Code: 33549.
 
 Lineage note 440352: recirculation pump amp draw captured before University, FL branch isolation.
+
+Plumbing remediation brief: PRV outlet curve and copper pinhole cluster were cross-checked for the University pipe and leak scope.
 
 On-site sector marker: Hillsborough County / primary ZIP 33549 — logged for map parity and ZIP-corridor verification.
 

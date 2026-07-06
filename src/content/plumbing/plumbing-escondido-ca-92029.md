@@ -12,11 +12,14 @@ lng: -117.0700
 zipSample: ["92033", "92027", "92046", "92029", "92026"]
 zipCodes: ["92033", "92046", "92025", "92029", "92030", "92026", "92027"]
 localPaths: ["San Diego County / coords 33.1300, -117.0700", "San Diego County / ZIP 92029 sector", "San Diego County / ZIP 92026 sector", "San Diego County / ZIP 92046 sector", "San Diego County / primary ZIP 92029"]
-zillowHomeValueUsd: 1177997
 ---
 
-**Engineering Notice for Escondido:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Escondido:** Supply line, cleanout, and water heater scope recorded at 673 ft elevation context (San Diego County).
 
+
+Emergency licensed plumber service in Escondido, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in San Diego County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Licensed plumbing crews serving Escondido, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hard water in Escondido, CA accelerates scale on PRV seats and heater elements.
 
@@ -47,8 +50,6 @@ Hydrostatic holds in Escondido, CA slab circuits run overnight when listening mi
 Drain map 593796: camera-pass priority and expansion-tank pre-charge noted for Escondido, CA postal sector 92029.
 
 Intake ledger 593796: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Escondido, CA at 33.1300, -117.0700.
-
-Field routing: sewer cleanout cap thread paired with sump float travel near ZIP 92029.
 
 Regional mesh label San Diego County: moisture and logistics baselines are keyed to Escondido, CA before niche-specific work begins.
 

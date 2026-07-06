@@ -12,11 +12,14 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33188", "33142"]
 localPaths: ["Miami-Dade County / primary ZIP 33142", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33142 sector"]
-zillowHomeValueUsd: 422044
 ---
 
-**Engineering Notice for Brownsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Brownsville:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Miami-Dade County).
 
+
+Plumbing restoration in Brownsville, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Brownsville, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 33142.
 

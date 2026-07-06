@@ -12,11 +12,14 @@ lng: -81.6400
 zipSample: ["33972", "33976", "33973", "33974", "33971"]
 zipCodes: ["33936", "33976", "33970", "33971", "33973", "33972", "33974"]
 localPaths: ["Lee County / ZIP 33974 sector", "Lee County / ZIP 33972 sector", "Lee County / primary ZIP 33936", "Lee County / ZIP 33976 sector", "Lee County / ZIP 33973 sector"]
-zillowHomeValueUsd: 243007
 ---
 
-**Engineering Notice for Lehigh Acres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Lehigh Acres:** Emergency leak and drain triage uses ~136 mg/L hardness context with Lee County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Lehigh Acres, FL, Lee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Lehigh Acres, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: In Lehigh Acres, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,8 +46,6 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Lineage note 507151: recirculation pump amp draw captured before Lehigh Acres, FL branch isolation.
-
-Field routing: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 33936.
 
 On-site sector marker: Lee County / coords 26.6100, -81.6400 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -118.9200
 zipSample: ["93306", "93307"]
 zipCodes: ["93307", "93306"]
 localPaths: ["Kern County / elevation 479 ft band", "Kern County / coords 35.3700, -118.9200", "Kern County / ZIP 93306 sector", "Kern County / primary ZIP 93306", "Kern County / ZIP 93307 sector"]
-zillowHomeValueUsd: 348734
 ---
 
-**Engineering Notice for East Niles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.
+**Engineering Notice for East Niles:** Emergency leak and drain triage uses ~162 mg/L hardness context with Kern County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving East Niles, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in East Niles, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kern County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Stack vent offsets in East Niles, CA older duplexes can mask tub gurgle as a main-line failure.
 

@@ -12,11 +12,14 @@ lng: -89.3800
 zipSample: ["38024", "38025"]
 zipCodes: ["38025", "38024"]
 localPaths: ["Dyer County / coords 36.0500, -89.3800", "Dyer County / primary ZIP 38024", "Dyer County / ZIP 38024 sector", "Dyer County / elevation 348 ft band", "Dyer County / ZIP 38025 sector"]
-zillowHomeValueUsd: 166554
 ---
 
-**Engineering Notice for Dyersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dyer County.
+**Engineering Notice for Dyersburg:** Emergency leak and drain triage uses ~130 mg/L hardness context with Dyer County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Dyersburg, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Dyersburg, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -38,13 +41,15 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Polybutylene manifold tags in Dyersburg, TN basements should be photographed before any wall chase opens.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Intake ledger 481472: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Dyersburg, TN at 36.0500, -89.3800.
+
+Plumbing restoration brief: backflow test cock orientation and PEX expansion ring batch were cross-checked for the Dyersburg pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 36.0500, -89.3800 at elevation ~348 ft aligns with Dyer County intake staging.
 

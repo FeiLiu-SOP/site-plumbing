@@ -12,15 +12,18 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / ZIP 47933 sector", "Montgomery County / elevation 764 ft band", "Montgomery County / coords 40.0400, -86.9000", "Montgomery County / primary ZIP 47933"]
-zillowHomeValueUsd: 223649
 ---
 
-**Engineering Notice for Crawfordsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Crawfordsville:** Emergency leak and drain triage uses ~124 mg/L hardness context with Montgomery County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Crawfordsville, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Crawfordsville, IN, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch packets reference county grid Montgomery County near ZIP 47933.
+Our Crawfordsville, IN service packets reference Montgomery County near ZIP 47933 for pipe and leak scope.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Basement floor drains in Crawfordsville, IN should be snaked only after trap arm geometry is confirmed on camera.
 
 Supply audit 322824: curb-stop orientation and hose-bib freeze flag reviewed for Crawfordsville, IN at coords 40.0400/-86.9000.
-
-Field routing: water softener bypass lever paired with recirculation pump amp draw near ZIP 47933.
 
 On-site sector marker: Montgomery County / coords 40.0400, -86.9000 — logged for map parity and ZIP-corridor verification.
 

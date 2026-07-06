@@ -12,11 +12,14 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / ZIP 08028 sector", "Gloucester County / primary ZIP 08028", "Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100"]
-zillowHomeValueUsd: 366258
 ---
 
-**Engineering Notice for Glassboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gloucester County.
+**Engineering Notice for Glassboro:** Emergency leak and drain triage uses ~164 mg/L hardness context with Gloucester County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Glassboro, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Gloucester County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Glassboro, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -26,7 +29,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Glassboro, NJ systems need rebalancing.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -45,8 +48,6 @@ Risk flag: In Glassboro, NJ, slab leaks can misroute as foundation issues withou
 Drain map 878223: camera-pass priority and expansion-tank pre-charge noted for Glassboro, NJ postal sector 08028.
 
 Intake ledger 878223: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Glassboro, NJ at 39.7000, -75.1100.
-
-Scope trace: jetter nozzle envelope plus hose bib freeze flag referenced in Gloucester County county grid review.
 
 **Regional Infrastructure Brief:** Grid anchor set to Gloucester County. Reference elevation: 148 ft. Primary coordinates: 39.7000, -75.1100. ZIP sample: 08028. Logistics priority: Serving residential sectors across Gloucester County and north-east ZIP 08028 grid.
 

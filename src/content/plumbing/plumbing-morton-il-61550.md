@@ -12,11 +12,14 @@ lng: -89.4700
 zipSample: ["61650", "61550"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / ZIP 61650 sector", "Tazewell County / elevation 722 ft band", "Tazewell County / ZIP 61550 sector", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / primary ZIP 61550"]
-zillowHomeValueUsd: 280475
 ---
 
-**Engineering Notice for Morton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tazewell County.
+**Engineering Notice for Morton:** Emergency leak and drain triage uses ~119 mg/L hardness context with Tazewell County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Morton, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Morton, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tazewell County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Dual-water-meter setups in Morton, IL irrigation zones need backflow logs before line replacement.
 
@@ -47,8 +50,6 @@ FAQ: Is hydro-jetting always appropriate? In Morton, IL, pipe material and block
 Flow dossier 412098: branch wet-vent geometry and jetting nozzle envelope logged for Morton, IL county grid Tazewell County (ZIP 61550).
 
 Pressure trace 412098: meter-pit clearance and dielectric union checklist staged for Morton, IL near elevation 722 ft.
-
-Scope trace: backflow test cock orientation plus PEX expansion ring batch referenced in Tazewell County county grid review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~722 ft across the Tazewell County area. Coordinates: 40.6100, -89.4700. ZIP sample: 61550, 61650. Logistics priority: Serving residential sectors across Tazewell County and north-east ZIP 61550 grid.
 

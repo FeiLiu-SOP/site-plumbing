@@ -12,11 +12,14 @@ lng: -100.4800
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / ZIP 78852 sector", "Maverick County / primary ZIP 78852", "Maverick County / elevation 787 ft band", "Maverick County / coords 28.7100, -100.4800"]
-zillowHomeValueUsd: 230776
 ---
 
-**Engineering Notice for Eagle Pass:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maverick County.
+**Engineering Notice for Eagle Pass:** Emergency leak and drain triage uses ~149 mg/L hardness context with Maverick County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Eagle Pass, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Maverick County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing restoration in Eagle Pass, TX, Maverick County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cleanout access limits in Eagle Pass, TX frequently extend drain cleaning duration.
 
@@ -46,7 +49,7 @@ Intake ledger 888305: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Flow dossier 888305: branch wet-vent geometry and jetting nozzle envelope logged for Eagle Pass, TX county grid Maverick County (ZIP 78852).
 
-Scope trace: toilet flange spacer kit plus dielectric union checklist referenced in Maverick County county grid review.
+Scope trace: toilet flange spacer kit plus dielectric union checklist referenced in Maverick County drain and water line review.
 
 ZIP-corridor snapshot for Eagle Pass, TX: sampled sectors include 78852; county routing grid remains Maverick County.
 

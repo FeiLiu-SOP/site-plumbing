@@ -12,11 +12,14 @@ lng: -78.8300
 zipSample: ["14218"]
 zipCodes: ["14218"]
 localPaths: ["Erie County / primary ZIP 14218", "Erie County / ZIP 14218 sector", "Erie County / elevation 591 ft band", "Erie County / coords 42.8200, -78.8300"]
-zillowHomeValueUsd: 212858
 ---
 
-**Engineering Notice for Lackawanna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
+**Engineering Notice for Lackawanna:** Supply line, cleanout, and water heater scope recorded at 591 ft elevation context (Erie County).
 
+
+When a main line backs up in Lackawanna, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Licensed plumbing crews serving Lackawanna, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 In Lackawanna, NY, slab leaks often present as warm spots before wall stains appear.
 
@@ -40,11 +43,13 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 14218.
 
 Frost-free sillcock failures in Lackawanna, NY often trace to interior shutoff seats, not exterior stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 519954: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lackawanna, NY at 42.8200, -78.8300.
 
 Flow dossier 519954: branch wet-vent geometry and jetting nozzle envelope logged for Lackawanna, NY county grid Erie County (ZIP 14218).
+
+Plumbing service brief: branch wet vent geometry and dielectric union checklist were cross-checked for the Lackawanna pipe and leak scope.
 
 On-site sector marker: Erie County / primary ZIP 14218 — logged for map parity and ZIP-corridor verification.
 

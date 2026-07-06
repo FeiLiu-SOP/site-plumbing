@@ -12,11 +12,14 @@ lng: -96.8200
 zipSample: ["75033", "75035", "75036", "75034"]
 zipCodes: ["75036", "75035", "75033", "75034"]
 localPaths: ["Collin County / ZIP 75034 sector", "Collin County / ZIP 75035 sector", "Collin County / primary ZIP 75034", "Collin County / ZIP 75033 sector", "Collin County / coords 33.1600, -96.8200"]
-zillowHomeValueUsd: 676165
 ---
 
-**Engineering Notice for Frisco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
+**Engineering Notice for Frisco:** Supply line, cleanout, and water heater scope recorded at 705 ft elevation context (Collin County).
 
+
+Licensed plumbing crews serving Frisco, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Frisco, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -49,6 +52,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Supply audit 764074: curb-stop orientation and hose-bib freeze flag reviewed for Frisco, TX at coords 33.1600/-96.8200.
 
 Flow dossier 764074: branch wet-vent geometry and jetting nozzle envelope logged for Frisco, TX county grid Collin County (ZIP 75034).
+
+Local service note: sewer cleanout cap thread paired with copper pinhole cluster near ZIP 75034 for emergency plumbing pro repairs.
 
 On-site sector marker: Collin County / ZIP 75036 sector — logged for map parity and ZIP-corridor verification.
 

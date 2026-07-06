@@ -12,11 +12,14 @@ lng: -81.6300
 zipSample: ["25304", "25350", "25334", "25330", "25326"]
 zipCodes: ["25324", "25322", "25337", "25334", "25396", "25302", "25375", "25314", "25328", "25321", "25304", "25331"]
 localPaths: ["Kanawha County / ZIP 25304 sector", "Kanawha County / primary ZIP 25387", "Kanawha County / ZIP 25334 sector", "Kanawha County / coords 38.3500, -81.6300", "Kanawha County / elevation 617 ft band"]
-zillowHomeValueUsd: 57433
 ---
 
-**Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kanawha County.
+**Engineering Notice for Charleston:** Emergency leak and drain triage uses ~129 mg/L hardness context with Kanawha County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Charleston, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kanawha County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Charleston, WV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless pulls in Charleston, WV require pit dimensions verified against utility locate marks.
 
@@ -32,7 +35,7 @@ Galvanized segments in Charleston, WV may restrict flow long before visible corr
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 25387.
 
@@ -46,7 +49,7 @@ Pressure trace 853807: meter-pit clearance and dielectric union checklist staged
 
 Drain map 853807: camera-pass priority and expansion-tank pre-charge noted for Charleston, WV postal sector 25387.
 
-plumbing brief: backflow test cock orientation and cleanout riser height were cross-checked for the Charleston intake packet.
+Plumbing remediation brief: backflow test cock orientation and cleanout riser height were cross-checked for the Charleston pipe and leak scope.
 
 On-site sector marker: Kanawha County / ZIP 25317 sector — logged for map parity and ZIP-corridor verification.
 

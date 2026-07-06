@@ -12,11 +12,14 @@ lng: -96.8500
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Dallas County / ZIP 75154 sector", "Dallas County / elevation 689 ft band", "Dallas County / primary ZIP 75154", "Dallas County / coords 32.5500, -96.8500"]
-zillowHomeValueUsd: 350938
 ---
 
-**Engineering Notice for Glenn Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Glenn Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dallas County.
 
+
+Burst pipe and drain clog calls in Glenn Heights, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Glenn Heights, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Dallas County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -32,7 +35,7 @@ Risk flag: In Glenn Heights, TX, slab leaks can misroute as foundation issues wi
 
 Hydrostatic holds in Glenn Heights, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When is cabling enough? In Glenn Heights, TX, pipe material and blockage type dictate method.
 

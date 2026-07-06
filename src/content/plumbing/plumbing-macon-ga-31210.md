@@ -12,15 +12,18 @@ lng: -83.7000
 zipSample: ["31208", "31211", "31295", "31217", "31213"]
 zipCodes: ["31216", "31217", "31213", "31296", "31221", "31210", "31208", "31295", "31209", "31220", "31201", "31205"]
 localPaths: ["Bibb County / ZIP 31211 sector", "Bibb County / ZIP 31213 sector", "Bibb County / ZIP 31295 sector", "Bibb County / elevation 413 ft band", "Bibb County / ZIP 31217 sector"]
-zillowHomeValueUsd: 286888
 ---
 
-**Engineering Notice for Macon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bibb County.
+**Engineering Notice for Macon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bibb County.
 
+
+Plumbing service in Macon, GA, Bibb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Macon, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Bibb County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Hydro-jetting in Macon, GA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch packets reference county grid Bibb County near ZIP 31210.
+Our Macon, GA service packets reference Bibb County near ZIP 31210 for pipe and leak scope.
 
 Dual-water-meter setups in Macon, GA irrigation zones need backflow logs before line replacement.
 
@@ -38,7 +41,7 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Basement floor drains in Macon, GA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -49,6 +52,8 @@ CPVC solvent weld times shift with ambient humidity during Macon, GA shoulder se
 Lineage note 641553: recirculation pump amp draw captured before Macon, GA branch isolation.
 
 Flow dossier 641553: branch wet-vent geometry and jetting nozzle envelope logged for Macon, GA county grid Bibb County (ZIP 31210).
+
+Local service note: backflow test cock orientation paired with branch wet vent geometry near ZIP 31210 for emergency plumbing pro repairs.
 
 Primary postal anchor 31210 with multi-ZIP overlap in Macon; field packets tag Bibb County for county-grid reconciliation.
 

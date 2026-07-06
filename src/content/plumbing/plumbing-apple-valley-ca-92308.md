@@ -12,11 +12,14 @@ lng: -117.2100
 zipSample: ["92308", "92307"]
 zipCodes: ["92308", "92307"]
 localPaths: ["San Bernardino County / coords 34.5400, -117.2100", "San Bernardino County / ZIP 92307 sector", "San Bernardino County / elevation 2927 ft band", "San Bernardino County / primary ZIP 92308", "San Bernardino County / ZIP 92308 sector"]
-zillowHomeValueUsd: 412283
 ---
 
-**Engineering Notice for Apple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Apple Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Bernardino County.
 
+
+Qualified plumbing crews serving Apple Valley, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Apple Valley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Cleanout access limits in Apple Valley, CA frequently extend drain cleaning duration.
 
@@ -45,8 +48,6 @@ Material note: Water heater anode type may change with Apple Valley, CA hardness
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Supply audit 772343: curb-stop orientation and hose-bib freeze flag reviewed for Apple Valley, CA at coords 34.5400/-117.2100.
-
-Scope trace: recirculation pump amp draw plus scale coupon sampling referenced in San Bernardino County county grid review.
 
 Coordinate-anchored dispatch note: center reference 34.5400, -117.2100 at elevation ~2927 ft aligns with San Bernardino County intake staging.
 

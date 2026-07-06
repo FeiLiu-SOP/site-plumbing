@@ -12,11 +12,14 @@ lng: -76.8900
 zipSample: ["20784", "20785"]
 zipCodes: ["20784", "20785"]
 localPaths: ["Prince George's County / ZIP 20784 sector", "Prince George's County / primary ZIP 20784", "Prince George's County / coords 38.9200, -76.8900", "Prince George's County / elevation 59 ft band", "Prince George's County / ZIP 20785 sector"]
-zillowHomeValueUsd: 374915
 ---
 
-**Engineering Notice for Landover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Landover:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Prince George's County).
 
+
+Licensed plumbing crews serving Landover, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Landover, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Permit note: Main water line replacement in Landover, MD may require ROW restoration planning.
 
@@ -36,7 +39,7 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Landover, MD.
 
@@ -45,8 +48,6 @@ Stack vent offsets in Landover, MD older duplexes can mask tub gurgle as a main-
 Flow dossier 286361: branch wet-vent geometry and jetting nozzle envelope logged for Landover, MD county grid Prince George's County (ZIP 20784).
 
 Lineage note 286361: recirculation pump amp draw captured before Landover, MD branch isolation.
-
-Field routing: scale coupon sampling paired with PRV outlet curve near ZIP 20784.
 
 On-site sector marker: Prince George's County / ZIP 20785 sector — logged for map parity and ZIP-corridor verification.
 

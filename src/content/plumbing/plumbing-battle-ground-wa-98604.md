@@ -12,11 +12,14 @@ lng: -122.5400
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / coords 45.7800, -122.5400", "Clark County / ZIP 98604 sector", "Clark County / elevation 282 ft band", "Clark County / primary ZIP 98604"]
-zillowHomeValueUsd: 605374
 ---
 
-**Engineering Notice for Battle Ground:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Battle Ground:** Emergency leak and drain triage uses ~128 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Battle Ground, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Battle Ground, WA, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 98604.
 
@@ -36,9 +39,9 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate Battle Ground, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Battle Ground, WA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -49,8 +52,6 @@ Dual-water-meter setups in Battle Ground, WA irrigation zones need backflow logs
 Fixture roster 638286: toilet flange spacer kit and shower cartridge seat score queued for Battle Ground, WA walk-through.
 
 Intake ledger 638286: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Battle Ground, WA at 45.7800, -122.5400.
-
-plumbing brief: backflow test cock orientation and thermal expansion loop check were cross-checked for the Battle Ground intake packet.
 
 On-site sector marker: Clark County / primary ZIP 98604 — logged for map parity and ZIP-corridor verification.
 

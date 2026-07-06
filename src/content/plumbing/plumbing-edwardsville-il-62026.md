@@ -12,11 +12,14 @@ lng: -89.9900
 zipSample: ["62026", "62025"]
 zipCodes: ["62025", "62026"]
 localPaths: ["Madison County / primary ZIP 62026", "Madison County / ZIP 62026 sector", "Madison County / ZIP 62025 sector", "Madison County / coords 38.7900, -89.9900", "Madison County / elevation 587 ft band"]
-zillowHomeValueUsd: 326559
 ---
 
-**Engineering Notice for Edwardsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Edwardsville:** Supply line, cleanout, and water heater scope recorded at 587 ft elevation context (Madison County).
 
+
+When a main line backs up in Edwardsville, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Emergency licensed plumber service in Edwardsville, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Madison County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: Water heater anode type may change with Edwardsville, IL hardness profiles.
 
@@ -47,8 +50,6 @@ FAQ: Is hydro-jetting always appropriate? In Edwardsville, IL, pipe material and
 Intake ledger 609008: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Edwardsville, IL at 38.7900, -89.9900.
 
 Fixture roster 609008: toilet flange spacer kit and shower cartridge seat score queued for Edwardsville, IL walk-through.
-
-Scope trace: toilet flange spacer kit plus PRV outlet curve referenced in Madison County county grid review.
 
 On-site sector marker: Madison County / primary ZIP 62026 — logged for map parity and ZIP-corridor verification.
 

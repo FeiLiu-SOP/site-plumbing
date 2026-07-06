@@ -12,11 +12,14 @@ lng: -120.6700
 zipSample: ["93405", "93403", "93406", "93401"]
 zipCodes: ["93403", "93406", "93405", "93401"]
 localPaths: ["San Luis Obispo County / ZIP 93403 sector", "San Luis Obispo County / coords 35.2700, -120.6700", "San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector"]
-zillowHomeValueUsd: 1103796
 ---
 
-**Engineering Notice for San Luis Obispo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for San Luis Obispo:** Emergency leak and drain triage uses ~168 mg/L hardness context with San Luis Obispo County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in San Luis Obispo, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving San Luis Obispo, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -49,8 +52,6 @@ Hard water in San Luis Obispo, CA accelerates scale on PRV seats and heater elem
 Fixture roster 886819: toilet flange spacer kit and shower cartridge seat score queued for San Luis Obispo, CA walk-through.
 
 Pressure trace 886819: meter-pit clearance and dielectric union checklist staged for San Luis Obispo, CA near elevation 167 ft.
-
-plumbing brief: shower cartridge seat score and dielectric union checklist were cross-checked for the San Luis Obispo intake packet.
 
 Regional mesh label San Luis Obispo County: moisture and logistics baselines are keyed to San Luis Obispo, CA before niche-specific work begins.
 

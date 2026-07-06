@@ -12,11 +12,14 @@ lng: -87.2700
 zipSample: ["32505", "32507", "32506"]
 zipCodes: ["32505", "32506", "32507"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32506 sector", "Escambia County / ZIP 32505 sector", "Escambia County / coords 30.4300, -87.2700", "Escambia County / elevation 98 ft band"]
-zillowHomeValueUsd: 148965
 ---
 
-**Engineering Notice for West Pensacola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.
+**Engineering Notice for West Pensacola:** Emergency leak and drain triage uses ~162 mg/L hardness context with Escambia County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in West Pensacola, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Escambia County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving West Pensacola, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 CPVC solvent weld times shift with ambient humidity during West Pensacola, FL shoulder seasons.
 
@@ -45,8 +48,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 FAQ: When should sump battery backups be load-tested? In West Pensacola, FL, before spring thaw and hurricane remnants.
 
 Drain map 176848: camera-pass priority and expansion-tank pre-charge noted for West Pensacola, FL postal sector 32505.
-
-plumbing brief: slab penetration sleeve seal and water heater T&P path were cross-checked for the West Pensacola intake packet.
 
 ZIP-corridor snapshot for West Pensacola, FL: sampled sectors include 32506, 32507, 32505; county routing grid remains Escambia County.
 

@@ -12,11 +12,14 @@ lng: -122.8600
 zipSample: ["97071"]
 zipCodes: ["97071"]
 localPaths: ["Marion County / elevation 187 ft band", "Marion County / ZIP 97071 sector", "Marion County / coords 45.1500, -122.8600", "Marion County / primary ZIP 97071"]
-zillowHomeValueUsd: 423731
 ---
 
-**Engineering Notice for Woodburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Woodburn:** Supply line, cleanout, and water heater scope recorded at 187 ft elevation context (Marion County).
 
+
+Burst pipe and drain clog calls in Woodburn, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marion County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Woodburn, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Marion County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Trenchless sleeve pulls near Woodburn, OR require pit shoring notes when water tables are high.
 
@@ -32,7 +35,7 @@ In Woodburn, OR, slab leaks often present as warm spots before wall stains appea
 
 Irrigation cross-connections in Woodburn, OR can back-siphon domestic lines during main breaks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

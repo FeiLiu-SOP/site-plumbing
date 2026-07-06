@@ -12,11 +12,14 @@ lng: -111.8900
 zipSample: ["84047"]
 zipCodes: ["84047"]
 localPaths: ["Salt Lake County / ZIP 84047 sector", "Salt Lake County / primary ZIP 84047", "Salt Lake County / coords 40.6100, -111.8900", "Salt Lake County / elevation 4406 ft band"]
-zillowHomeValueUsd: 483882
 ---
 
-**Engineering Notice for Midvale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Midvale:** Emergency leak and drain triage uses ~155 mg/L hardness context with Salt Lake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Midvale, UT, Salt Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Midvale, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: Is hydro-jetting always appropriate? In Midvale, UT, pipe material and blockage type dictate method.
 
@@ -26,7 +29,7 @@ Trenchless pulls in Midvale, UT require pit dimensions verified against utility 
 
 Cleanout access limits in Midvale, UT frequently extend drain cleaning duration.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Irrigation cross-connections in Midvale, UT can back-siphon domestic lines during main breaks.
 
@@ -46,7 +49,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Lineage note 151316: recirculation pump amp draw captured before Midvale, UT branch isolation.
 
-plumbing brief: toilet flange spacer kit and sump float travel were cross-checked for the Midvale intake packet.
+Plumbing service brief: toilet flange spacer kit and sump float travel were cross-checked for the Midvale pipe and leak scope.
 
 On-site sector marker: Salt Lake County / elevation 4406 ft band — logged for map parity and ZIP-corridor verification.
 

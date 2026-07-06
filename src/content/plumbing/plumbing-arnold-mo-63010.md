@@ -12,11 +12,14 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / coords 38.4300, -90.3700", "Jefferson County / primary ZIP 63010", "Jefferson County / ZIP 63010 sector", "Jefferson County / elevation 531 ft band"]
-zillowHomeValueUsd: 272886
 ---
 
-**Engineering Notice for Arnold:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Arnold:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+When a main line backs up in Arnold, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Arnold, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

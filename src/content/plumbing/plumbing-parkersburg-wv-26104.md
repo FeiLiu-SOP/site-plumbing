@@ -12,11 +12,14 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26101", "26104", "26103"]
 localPaths: ["Wood County / primary ZIP 26104", "Wood County / coords 39.2600, -81.5400", "Wood County / ZIP 26104 sector", "Wood County / elevation 627 ft band", "Wood County / ZIP 26103 sector"]
-zillowHomeValueUsd: 172475
 ---
 
-**Engineering Notice for Parkersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wood County.
+**Engineering Notice for Parkersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wood County.
 
+
+Certified plumbing crews serving Parkersburg, WV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Parkersburg, WV, Wood County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -28,7 +31,7 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Trenchless pulls in Parkersburg, WV require pit dimensions verified against utility locate marks.
 
-We coordinate Parkersburg, WV plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Parkersburg, WV plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 

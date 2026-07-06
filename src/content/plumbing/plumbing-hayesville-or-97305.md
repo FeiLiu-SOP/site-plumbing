@@ -12,11 +12,14 @@ lng: -122.9700
 zipSample: ["97305"]
 zipCodes: ["97305"]
 localPaths: ["Marion County / primary ZIP 97305", "Marion County / coords 44.9800, -122.9700", "Marion County / elevation 190 ft band", "Marion County / ZIP 97305 sector"]
-zillowHomeValueUsd: 421153
 ---
 
-**Engineering Notice for Hayesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Hayesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Marion County.
 
+
+Certified plumbing crews serving Hayesville, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Hayesville, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 97305.
 
@@ -40,7 +43,7 @@ FAQ: Is hydro-jetting always appropriate? In Hayesville, OR, pipe material and b
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 97305.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 97305.
 

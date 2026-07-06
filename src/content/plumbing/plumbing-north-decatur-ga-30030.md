@@ -12,11 +12,14 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / ZIP 30030 sector", "DeKalb County / coords 33.8100, -84.2900", "DeKalb County / elevation 955 ft band", "DeKalb County / ZIP 30033 sector", "DeKalb County / primary ZIP 30030"]
-zillowHomeValueUsd: 639042
 ---
 
-**Engineering Notice for North Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Decatur:** Supply line, cleanout, and water heater scope recorded at 955 ft elevation context (DeKalb County).
 
+
+When a main line backs up in North Decatur, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving North Decatur, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In North Decatur, GA, slab leaks can misroute as foundation issues without listening equipment.
 

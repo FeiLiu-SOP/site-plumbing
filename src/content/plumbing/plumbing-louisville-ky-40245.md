@@ -12,11 +12,14 @@ lng: -85.6500
 zipSample: ["40027", "40216", "40207", "40268", "40299"]
 zipCodes: ["40018", "40281", "40229", "40228", "40216", "40269", "40214", "40291", "40245", "40223", "40209", "40027"]
 localPaths: ["Jefferson County / coords 38.1700, -85.6500", "Jefferson County / elevation 571 ft band", "Jefferson County / ZIP 40027 sector", "Jefferson County / ZIP 40216 sector", "Jefferson County / ZIP 40268 sector"]
-zillowHomeValueUsd: 480832
 ---
 
-**Engineering Notice for Louisville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Louisville:** Emergency leak and drain triage uses ~166 mg/L hardness context with Jefferson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Louisville, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Louisville, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during Louisville, KY shoulder seasons.
 
@@ -43,8 +46,6 @@ Hose bib split patterns in Louisville, KY often follow missed winterization.
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
 Fixture roster 582477: toilet flange spacer kit and shower cartridge seat score queued for Louisville, KY walk-through.
-
-Field routing: PRV outlet curve paired with floor drain trap primer drip near ZIP 40245.
 
 Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Louisville, KY before niche-specific work begins.
 

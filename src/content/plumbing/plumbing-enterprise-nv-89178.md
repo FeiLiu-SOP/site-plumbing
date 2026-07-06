@@ -12,11 +12,14 @@ lng: -115.2300
 zipSample: ["89123", "89118", "89113", "89183", "89148"]
 zipCodes: ["89118", "89123", "89139", "89183", "89113", "89178", "89119", "89141", "89148"]
 localPaths: ["Clark County / elevation 2464 ft band", "Clark County / ZIP 89148 sector", "Clark County / primary ZIP 89178", "Clark County / ZIP 89118 sector", "Clark County / ZIP 89113 sector"]
-zillowHomeValueUsd: 480984
 ---
 
-**Engineering Notice for Enterprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Enterprise:** Emergency leak and drain triage uses ~176 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Enterprise, NV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency plumbing technician service in Enterprise, NV often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Clark County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Across Enterprise, NV, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -47,6 +50,8 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Intake ledger 336839: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Enterprise, NV at 36.0100, -115.2300.
 
 Fixture roster 336839: toilet flange spacer kit and shower cartridge seat score queued for Enterprise, NV walk-through.
+
+Scope trace: sewer cleanout cap thread plus PEX expansion ring batch referenced in Clark County drain and water line review.
 
 On-site sector marker: Clark County / ZIP 89118 sector — logged for map parity and ZIP-corridor verification.
 

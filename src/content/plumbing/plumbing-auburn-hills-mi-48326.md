@@ -12,11 +12,14 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / primary ZIP 48326", "Oakland County / coords 42.6700, -83.2400", "Oakland County / ZIP 48321 sector", "Oakland County / ZIP 48326 sector", "Oakland County / elevation 965 ft band"]
-zillowHomeValueUsd: 280663
 ---
 
-**Engineering Notice for Auburn Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Auburn Hills:** Emergency leak and drain triage uses ~125 mg/L hardness context with Oakland County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Auburn Hills, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Auburn Hills, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Flow dossier 400883: branch wet-vent geometry and jetting nozzle envelope logged for Auburn Hills, MI county grid Oakland County (ZIP 48326).
 
 Drain map 400883: camera-pass priority and expansion-tank pre-charge noted for Auburn Hills, MI postal sector 48326.
-
-Field routing: sump float travel paired with gas water heater draft hood gap near ZIP 48326.
 
 On-site sector marker: Oakland County / coords 42.6700, -83.2400 — logged for map parity and ZIP-corridor verification.
 

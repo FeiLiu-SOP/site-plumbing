@@ -12,11 +12,14 @@ lng: -83.6900
 zipSample: ["48504", "48502", "48551", "48550", "48503"]
 zipCodes: ["48550", "48507", "48553", "48557", "48503", "48551", "48552", "48556", "48505", "48506", "48504", "48502"]
 localPaths: ["Genesee County / ZIP 48502 sector", "Genesee County / coords 43.0200, -83.6900", "Genesee County / elevation 732 ft band", "Genesee County / ZIP 48503 sector", "Genesee County / primary ZIP 48502"]
-zillowHomeValueUsd: 105700
 ---
 
-**Engineering Notice for Flint:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.
+**Engineering Notice for Flint:** Emergency leak and drain triage uses ~161 mg/L hardness context with Genesee County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Flint, MI, Genesee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Flint, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Genesee County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -47,8 +50,6 @@ Step: document dielectric unions before mixed-metal replacements.
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
 Pressure trace 285176: meter-pit clearance and dielectric union checklist staged for Flint, MI near elevation 732 ft.
-
-plumbing brief: shower cartridge seat score and dielectric union checklist were cross-checked for the Flint intake packet.
 
 On-site sector marker: Genesee County / elevation 732 ft band — logged for map parity and ZIP-corridor verification.
 

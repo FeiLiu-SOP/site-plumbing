@@ -12,13 +12,16 @@ lng: -80.2700
 zipSample: ["27292", "27294", "27295"]
 zipCodes: ["27294", "27292", "27295"]
 localPaths: ["Davidson County / elevation 735 ft band", "Davidson County / ZIP 27295 sector", "Davidson County / primary ZIP 27292", "Davidson County / ZIP 27294 sector", "Davidson County / ZIP 27292 sector"]
-zillowHomeValueUsd: 251159
 ---
 
-**Engineering Notice for Lexington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davidson County.
+**Engineering Notice for Lexington:** Supply line, cleanout, and water heater scope recorded at 735 ft elevation context (Davidson County).
 
 
-We coordinate Lexington, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Emergency licensed plumber service in Lexington, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Davidson County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Lexington, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Davidson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+We coordinate Lexington, NC plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless pulls in Lexington, NC require pit dimensions verified against utility locate marks.
 

@@ -12,13 +12,16 @@ lng: -122.4400
 zipSample: ["98447", "98444", "98445"]
 zipCodes: ["98445", "98444", "98447"]
 localPaths: ["Pierce County / coords 47.1400, -122.4400", "Pierce County / ZIP 98444 sector", "Pierce County / ZIP 98447 sector", "Pierce County / primary ZIP 98444", "Pierce County / ZIP 98445 sector"]
-zillowHomeValueUsd: 447013
 ---
 
-**Engineering Notice for Parkland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
+**Engineering Notice for Parkland:** Supply line, cleanout, and water heater scope recorded at 292 ft elevation context (Pierce County).
 
 
-We coordinate Parkland, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Burst pipe and drain clog calls in Parkland, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pierce County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Parkland, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+We coordinate Parkland, WA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -48,7 +51,7 @@ Intake ledger 200008: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Drain map 200008: camera-pass priority and expansion-tank pre-charge noted for Parkland, WA postal sector 98444.
 
-plumbing brief: cleanout riser height and dielectric union checklist were cross-checked for the Parkland intake packet.
+Plumbing service brief: cleanout riser height and dielectric union checklist were cross-checked for the Parkland pipe and leak scope.
 
 Primary postal anchor 98444 with multi-ZIP overlap in Parkland; field packets tag Pierce County for county-grid reconciliation.
 

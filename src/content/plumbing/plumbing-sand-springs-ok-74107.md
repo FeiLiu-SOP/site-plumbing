@@ -12,11 +12,14 @@ lng: -96.1300
 zipSample: ["74063", "74107"]
 zipCodes: ["74063", "74107"]
 localPaths: ["Tulsa County / elevation 666 ft band", "Tulsa County / ZIP 74107 sector", "Tulsa County / primary ZIP 74107", "Tulsa County / coords 36.1400, -96.1300", "Tulsa County / ZIP 74063 sector"]
-zillowHomeValueUsd: 158161
 ---
 
-**Engineering Notice for Sand Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Sand Springs:** Emergency leak and drain triage uses ~112 mg/L hardness context with Tulsa County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Sand Springs, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tulsa County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Sand Springs, OK, Tulsa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

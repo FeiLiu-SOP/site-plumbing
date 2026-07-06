@@ -12,11 +12,14 @@ lng: -94.3500
 zipSample: ["72957", "72956"]
 zipCodes: ["72957", "72956"]
 localPaths: ["Crawford County / coords 35.4500, -94.3500", "Crawford County / primary ZIP 72956", "Crawford County / elevation 653 ft band", "Crawford County / ZIP 72957 sector", "Crawford County / ZIP 72956 sector"]
-zillowHomeValueUsd: 205189
 ---
 
-**Engineering Notice for Van Buren:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crawford County.
+**Engineering Notice for Van Buren:** Supply line, cleanout, and water heater scope recorded at 653 ft elevation context (Crawford County).
 
+
+Plumbing restoration in Van Buren, AR, Crawford County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Van Buren, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Crawford County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Van Buren, AR, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -38,7 +41,7 @@ Risk flag: Seasonal Van Buren, AR irrigation cross-connections can mask domestic
 
 Hydro-jetting in Van Buren, AR requires camera confirmation before nozzle pressure is raised.
 
-Dispatch packets reference county grid Crawford County near ZIP 72956.
+Our Van Buren, AR service packets reference Crawford County near ZIP 72956 for pipe and leak scope.
 
 Irrigation cross-connections in Van Buren, AR can back-siphon domestic lines during main breaks.
 

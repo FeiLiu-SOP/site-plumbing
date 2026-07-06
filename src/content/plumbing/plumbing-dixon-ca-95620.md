@@ -12,11 +12,14 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / ZIP 95620 sector", "Solano County / primary ZIP 95620", "Solano County / coords 38.4500, -121.8300", "Solano County / elevation 66 ft band"]
-zillowHomeValueUsd: 606805
 ---
 
-**Engineering Notice for Dixon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Solano County.
+**Engineering Notice for Dixon:** Emergency leak and drain triage uses ~120 mg/L hardness context with Solano County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Dixon, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Dixon, CA, Solano County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Expansion tank pre-charge loss in Dixon, CA often tracks heater replacement deferrals.
 

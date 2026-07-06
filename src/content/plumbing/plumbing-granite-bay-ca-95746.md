@@ -12,11 +12,14 @@ lng: -121.1700
 zipSample: ["95650", "95746"]
 zipCodes: ["95746", "95650"]
 localPaths: ["Placer County / ZIP 95650 sector", "Placer County / primary ZIP 95746", "Placer County / coords 38.7600, -121.1700", "Placer County / ZIP 95746 sector", "Placer County / elevation 420 ft band"]
-zillowHomeValueUsd: 1153372
 ---
 
-**Engineering Notice for Granite Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Placer County.
+**Engineering Notice for Granite Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Placer County.
 
+
+Plumbing service in Granite Bay, CA, Placer County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Granite Bay, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hose bib split patterns in Granite Bay, CA often follow missed winterization.
 
@@ -36,7 +39,7 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 95746.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate Granite Bay, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Granite Bay, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,6 +50,8 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95746.
 
 Supply audit 649858: curb-stop orientation and hose-bib freeze flag reviewed for Granite Bay, CA at coords 38.7600/-121.1700.
+
+Scope trace: PRV outlet curve plus meter pit clearance referenced in Placer County drain and water line review.
 
 On-site sector marker: Placer County / ZIP 95746 sector — logged for map parity and ZIP-corridor verification.
 

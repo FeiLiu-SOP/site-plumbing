@@ -12,11 +12,14 @@ lng: -111.6500
 zipSample: ["84602", "84606", "84605", "84601", "84603"]
 zipCodes: ["84604", "84602", "84601", "84606", "84605", "84603"]
 localPaths: ["Utah County / ZIP 84606 sector", "Utah County / ZIP 84602 sector", "Utah County / ZIP 84601 sector", "Utah County / elevation 4626 ft band", "Utah County / ZIP 84603 sector"]
-zillowHomeValueUsd: 430226
 ---
 
-**Engineering Notice for Provo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Provo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Utah County.
 
+
+Burst pipe and drain clog calls in Provo, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Provo, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless pulls in Provo, UT require pit dimensions verified against utility locate marks.
 
@@ -44,11 +47,9 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Supply audit 162901: curb-stop orientation and hose-bib freeze flag reviewed for Provo, UT at coords 40.2500/-111.6500.
-
-Field routing: water heater T&P path paired with sewer cleanout cap thread near ZIP 84606.
 
 Regional mesh label Utah County: moisture and logistics baselines are keyed to Provo, UT before niche-specific work begins.
 

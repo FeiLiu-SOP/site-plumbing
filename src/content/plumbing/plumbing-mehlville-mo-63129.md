@@ -12,11 +12,14 @@ lng: -90.3100
 zipSample: ["63129", "63125"]
 zipCodes: ["63125", "63129"]
 localPaths: ["St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63125 sector", "St. Louis County / coords 38.5000, -90.3100", "St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band"]
-zillowHomeValueUsd: 340013
 ---
 
-**Engineering Notice for Mehlville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Mehlville:** Supply line, cleanout, and water heater scope recorded at 597 ft elevation context (St. Louis County).
 
+
+When a main line backs up in Mehlville, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Mehlville, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Frost-free sillcock failures in Mehlville, MO often trace to interior shutoff seats, not exterior stems.
 
@@ -47,8 +50,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mehlville, MO.
 Pressure trace 659026: meter-pit clearance and dielectric union checklist staged for Mehlville, MO near elevation 597 ft.
 
 Flow dossier 659026: branch wet-vent geometry and jetting nozzle envelope logged for Mehlville, MO county grid St. Louis County (ZIP 63129).
-
-Field routing: backflow test cock orientation paired with scale coupon sampling near ZIP 63129.
 
 On-site sector marker: St. Louis County / coords 38.5000, -90.3100 — logged for map parity and ZIP-corridor verification.
 

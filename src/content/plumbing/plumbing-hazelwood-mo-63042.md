@@ -12,15 +12,18 @@ lng: -90.3900
 zipSample: ["63031", "63044", "63042"]
 zipCodes: ["63031", "63044", "63042"]
 localPaths: ["St. Louis County / ZIP 63031 sector", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63044 sector", "St. Louis County / elevation 479 ft band", "St. Louis County / ZIP 63042 sector"]
-zillowHomeValueUsd: 164344
 ---
 
-**Engineering Notice for Hazelwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hazelwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+Certified plumbing crews serving Hazelwood, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Hazelwood, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Hazelwood, MO.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -46,7 +49,7 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 Flow dossier 698611: branch wet-vent geometry and jetting nozzle envelope logged for Hazelwood, MO county grid St. Louis County (ZIP 63042).
 
-Field routing: slab leak listening window paired with toilet flange spacer kit near ZIP 63042.
+Local service note: slab leak listening window paired with toilet flange spacer kit near ZIP 63042 for emergency plumbing technician repairs.
 
 On-site sector marker: St. Louis County / coords 38.7900, -90.3900 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -117.1700
 zipSample: ["92375", "92374", "92346", "92359", "92373"]
 zipCodes: ["92375", "92374", "92373", "92359", "92346"]
 localPaths: ["San Bernardino County / elevation 1453 ft band", "San Bernardino County / ZIP 92359 sector", "San Bernardino County / ZIP 92374 sector", "San Bernardino County / ZIP 92375 sector", "San Bernardino County / primary ZIP 92359"]
-zillowHomeValueUsd: 511509
 ---
 
-**Engineering Notice for Redlands:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Redlands:** Supply line, cleanout, and water heater scope recorded at 1453 ft elevation context (San Bernardino County).
 
+
+When a main line backs up in Redlands, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Redlands, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 92359.
 
@@ -50,7 +53,7 @@ Intake ledger 165533: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Supply audit 165533: curb-stop orientation and hose-bib freeze flag reviewed for Redlands, CA at coords 34.0500/-117.1700.
 
-Field routing: backflow test cock orientation paired with PEX expansion ring batch near ZIP 92359.
+Local service note: backflow test cock orientation paired with PEX expansion ring batch near ZIP 92359 for emergency plumbing pro repairs.
 
 On-site sector marker: San Bernardino County / ZIP 92346 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -80.2100
 zipSample: ["33137", "33127", "33255", "33130", "33149"]
 zipCodes: ["33138", "33137", "33109", "33139", "33222", "33145", "33231", "33144", "33299", "33149", "33129", "33132"]
 localPaths: ["Miami-Dade County / elevation 36 ft band", "Miami-Dade County / coords 25.7800, -80.2100", "Miami-Dade County / ZIP 33149 sector", "Miami-Dade County / primary ZIP 33128", "Miami-Dade County / ZIP 33255 sector"]
-zillowHomeValueUsd: 430590
 ---
 
-**Engineering Notice for Miami:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Miami:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Miami-Dade County).
 
+
+When a main line backs up in Miami, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency plumbing pro service in Miami, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Miami-Dade County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hose bib split patterns in Miami, FL often follow missed winterization.
 
@@ -32,7 +35,7 @@ Irrigation cross-connections in Miami, FL can back-siphon domestic lines during 
 
 Basement floor drains in Miami, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -48,7 +51,7 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Pressure trace 761720: meter-pit clearance and dielectric union checklist staged for Miami, FL near elevation 36 ft.
 
-Scope trace: copper pinhole cluster plus cleanout riser height referenced in Miami-Dade County county grid review.
+Scope trace: copper pinhole cluster plus cleanout riser height referenced in Miami-Dade County drain and water line review.
 
 On-site sector marker: Miami-Dade County / coords 25.7800, -80.2100 — logged for map parity and ZIP-corridor verification.
 

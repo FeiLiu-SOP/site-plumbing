@@ -12,11 +12,14 @@ lng: -83.6200
 zipSample: ["48197", "48198"]
 zipCodes: ["48197", "48198"]
 localPaths: ["Washtenaw County / ZIP 48198 sector", "Washtenaw County / primary ZIP 48198", "Washtenaw County / ZIP 48197 sector", "Washtenaw County / elevation 761 ft band", "Washtenaw County / coords 42.2400, -83.6200"]
-zillowHomeValueUsd: 225269
 ---
 
-**Engineering Notice for Ypsilanti:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washtenaw County.
+**Engineering Notice for Ypsilanti:** Emergency leak and drain triage uses ~150 mg/L hardness context with Washtenaw County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Ypsilanti, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Washtenaw County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Ypsilanti, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Galvanized segments in Ypsilanti, MI may restrict flow long before visible corrosion.
 
@@ -45,6 +48,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Drain map 680566: camera-pass priority and expansion-tank pre-charge noted for Ypsilanti, MI postal sector 48198.
 
 Supply audit 680566: curb-stop orientation and hose-bib freeze flag reviewed for Ypsilanti, MI at coords 42.2400/-83.6200.
+
+Local service note: backflow test cock orientation paired with shower cartridge seat score near ZIP 48198 for emergency certified plumber repairs.
 
 ZIP-corridor snapshot for Ypsilanti, MI: sampled sectors include 48198, 48197; county routing grid remains Washtenaw County.
 

@@ -12,11 +12,14 @@ lng: -74.6700
 zipSample: ["08540", "08542", "08541", "08544"]
 zipCodes: ["08541", "08542", "08540", "08544"]
 localPaths: ["Mercer County / ZIP 08540 sector", "Mercer County / ZIP 08542 sector", "Mercer County / primary ZIP 08544", "Mercer County / ZIP 08541 sector", "Mercer County / coords 40.3600, -74.6700"]
-zillowHomeValueUsd: 969741
 ---
 
-**Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mercer County.
+**Engineering Notice for Princeton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Mercer County.
 
+
+When a main line backs up in Princeton, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Princeton, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Mercer County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 In Princeton, NJ, slab leaks often present as warm spots before wall stains appear.
 
@@ -45,6 +48,8 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Pressure trace 959990: meter-pit clearance and dielectric union checklist staged for Princeton, NJ near elevation 148 ft.
 
 Intake ledger 959990: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Princeton, NJ at 40.3600, -74.6700.
+
+Plumbing remediation brief: water heater T&P path and fixture shutoff torque log were cross-checked for the Princeton pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 40.3600, -74.6700 at elevation ~148 ft aligns with Mercer County intake staging.
 

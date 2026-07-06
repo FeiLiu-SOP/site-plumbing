@@ -12,11 +12,14 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / coords 40.7900, -74.1300", "Bergen County / elevation 92 ft band", "Bergen County / ZIP 07031 sector", "Bergen County / primary ZIP 07031"]
-zillowHomeValueUsd: 619421
 ---
 
-**Engineering Notice for North Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for North Arlington:** Supply line, cleanout, and water heater scope recorded at 92 ft elevation context (Bergen County).
 
+
+Burst pipe and drain clog calls in North Arlington, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in North Arlington, NJ, Bergen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -28,7 +31,7 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with North Arlington, NJ hardness profiles.
 
@@ -43,8 +46,6 @@ Step: document dielectric unions before mixed-metal replacements.
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in North Arlington, NJ.
 
 Flow dossier 176812: branch wet-vent geometry and jetting nozzle envelope logged for North Arlington, NJ county grid Bergen County (ZIP 07031).
-
-Scope trace: slab penetration sleeve seal plus shower cartridge seat score referenced in Bergen County county grid review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Bergen County and primary ZIP 07031. Terrain reference: 92 ft. Center point: 40.7900, -74.1300. ZIP sample: 07031. Logistics priority: Serving residential sectors across Bergen County and north-east ZIP 07031 grid.
 

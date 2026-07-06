@@ -12,11 +12,14 @@ lng: -76.4900
 zipSample: ["21122"]
 zipCodes: ["21122"]
 localPaths: ["Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / coords 39.1000, -76.4900", "Anne Arundel County / elevation 75 ft band", "Anne Arundel County / primary ZIP 21122"]
-zillowHomeValueUsd: 454605
 ---
 
-**Engineering Notice for Lake Shore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Lake Shore:** Emergency leak and drain triage uses ~168 mg/L hardness context with Anne Arundel County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Lake Shore, MD, Anne Arundel County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Lake Shore, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anne Arundel County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -38,15 +41,13 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Fixture roster 759379: toilet flange spacer kit and shower cartridge seat score queued for Lake Shore, MD walk-through.
 
 Flow dossier 759379: branch wet-vent geometry and jetting nozzle envelope logged for Lake Shore, MD county grid Anne Arundel County (ZIP 21122).
-
-Field routing: meter pit clearance paired with PEX expansion ring batch near ZIP 21122.
 
 On-site sector marker: Anne Arundel County / ZIP 21122 sector — logged for map parity and ZIP-corridor verification.
 

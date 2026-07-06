@@ -12,11 +12,14 @@ lng: -76.7400
 zipSample: ["20718", "20720", "20717", "20719", "20721"]
 zipCodes: ["20720", "20715", "20721", "20716", "20719", "20717", "20718"]
 localPaths: ["Prince George's County / ZIP 20719 sector", "Prince George's County / coords 38.9500, -76.7400", "Prince George's County / ZIP 20721 sector", "Prince George's County / ZIP 20720 sector", "Prince George's County / ZIP 20717 sector"]
-zillowHomeValueUsd: 582778
 ---
 
-**Engineering Notice for Bowie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Bowie:** Emergency leak and drain triage uses ~180 mg/L hardness context with Prince George's County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Bowie, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Bowie, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Prince George's County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

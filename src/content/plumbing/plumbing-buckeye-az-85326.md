@@ -12,11 +12,14 @@ lng: -112.6400
 zipSample: ["85326", "85396", "85340"]
 zipCodes: ["85340", "85396", "85326"]
 localPaths: ["Maricopa County / coords 33.4300, -112.6400", "Maricopa County / ZIP 85326 sector", "Maricopa County / ZIP 85340 sector", "Maricopa County / elevation 1070 ft band", "Maricopa County / ZIP 85396 sector"]
-zillowHomeValueUsd: 373721
 ---
 
-**Engineering Notice for Buckeye:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Buckeye:** Supply line, cleanout, and water heater scope recorded at 1070 ft elevation context (Maricopa County).
 
+
+Plumbing service in Buckeye, AZ, Maricopa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Buckeye, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -45,8 +48,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Supply audit 392405: curb-stop orientation and hose-bib freeze flag reviewed for Buckeye, AZ at coords 33.4300/-112.6400.
 
 Pressure trace 392405: meter-pit clearance and dielectric union checklist staged for Buckeye, AZ near elevation 1070 ft.
-
-plumbing brief: copper pinhole cluster and PRV outlet curve were cross-checked for the Buckeye intake packet.
 
 Regional mesh label Maricopa County: moisture and logistics baselines are keyed to Buckeye, AZ before niche-specific work begins.
 

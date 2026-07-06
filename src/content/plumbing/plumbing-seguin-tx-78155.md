@@ -12,13 +12,16 @@ lng: -97.9700
 zipSample: ["78155", "78156", "78115"]
 zipCodes: ["78156", "78155", "78115"]
 localPaths: ["Guadalupe County / ZIP 78155 sector", "Guadalupe County / primary ZIP 78155", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector", "Guadalupe County / coords 29.5900, -97.9700"]
-zillowHomeValueUsd: 272071
 ---
 
-**Engineering Notice for Seguin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guadalupe County.
+**Engineering Notice for Seguin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Guadalupe County.
 
 
-Step: log PRV inlet and outlet readings during intake.
+Plumbing service in Seguin, TX, Guadalupe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Seguin, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Seguin, TX systems need rebalancing.
 

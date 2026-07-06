@@ -12,11 +12,14 @@ lng: -111.9400
 zipSample: ["84065"]
 zipCodes: ["84065"]
 localPaths: ["Salt Lake County / elevation 4521 ft band", "Salt Lake County / coords 40.4700, -111.9400", "Salt Lake County / ZIP 84065 sector", "Salt Lake County / primary ZIP 84065"]
-zillowHomeValueUsd: 643128
 ---
 
-**Engineering Notice for Bluffdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Bluffdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Salt Lake County.
 
+
+When a main line backs up in Bluffdale, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Bluffdale, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -47,6 +50,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Supply audit 608333: curb-stop orientation and hose-bib freeze flag reviewed for Bluffdale, UT at coords 40.4700/-111.9400.
 
 Flow dossier 608333: branch wet-vent geometry and jetting nozzle envelope logged for Bluffdale, UT county grid Salt Lake County (ZIP 84065).
+
+Scope trace: hose bib freeze flag plus copper pinhole cluster referenced in Salt Lake County drain and water line review.
 
 On-site sector marker: Salt Lake County / primary ZIP 84065 — logged for map parity and ZIP-corridor verification.
 

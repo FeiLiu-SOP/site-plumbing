@@ -12,11 +12,14 @@ lng: -92.3500
 zipSample: ["50703", "50702", "50701", "50707"]
 zipCodes: ["50703", "50701", "50702", "50707"]
 localPaths: ["Black Hawk County / ZIP 50702 sector", "Black Hawk County / ZIP 50703 sector", "Black Hawk County / coords 42.4900, -92.3500", "Black Hawk County / ZIP 50701 sector", "Black Hawk County / primary ZIP 50707"]
-zillowHomeValueUsd: 153491
 ---
 
-**Engineering Notice for Waterloo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Black Hawk County.
+**Engineering Notice for Waterloo:** Emergency leak and drain triage uses ~117 mg/L hardness context with Black Hawk County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Waterloo, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Waterloo, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Black Hawk County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -48,7 +51,7 @@ Intake ledger 724744: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 724744: recirculation pump amp draw captured before Waterloo, IA branch isolation.
 
-Field routing: water heater T&P path paired with PRV outlet curve near ZIP 50707.
+Local service note: water heater T&P path paired with PRV outlet curve near ZIP 50707 for emergency plumbing technician repairs.
 
 On-site sector marker: Black Hawk County / ZIP 50707 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -76.5000
 zipSample: ["21411", "21401", "21404", "21403"]
 zipCodes: ["21401", "21411", "21404", "21403"]
 localPaths: ["Anne Arundel County / elevation 20 ft band", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21403 sector", "Anne Arundel County / ZIP 21411 sector", "Anne Arundel County / ZIP 21401 sector"]
-zillowHomeValueUsd: 625135
 ---
 
-**Engineering Notice for Annapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Annapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Anne Arundel County.
 
+
+When a main line backs up in Annapolis, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Annapolis, MD, Anne Arundel County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -49,8 +52,6 @@ Branch wet vents in Annapolis, MD can mask gurgling as a main-line issue.
 Supply audit 998446: curb-stop orientation and hose-bib freeze flag reviewed for Annapolis, MD at coords 38.9700/-76.5000.
 
 Lineage note 998446: recirculation pump amp draw captured before Annapolis, MD branch isolation.
-
-Field routing: PRV outlet curve paired with meter pit clearance near ZIP 21401.
 
 On-site sector marker: Anne Arundel County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 

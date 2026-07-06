@@ -12,12 +12,14 @@ lng: -73.9700
 zipSample: ["10014", "10278", "10173", "10282", "10152"]
 zipCodes: ["10120", "10108", "10004", "10123", "10016", "10024", "10029", "10090", "10155", "10102", "10178", "10168"]
 localPaths: ["New York County / ZIP 10173 sector", "New York County / ZIP 10152 sector", "New York County / elevation 128 ft band", "New York County / ZIP 10282 sector", "New York County / coords 40.7800, -73.9700"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 493732
 ---
 
-**Engineering Notice for Manhattan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New York County.
+**Engineering Notice for Manhattan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in New York County.
 
+
+Plumbing restoration in Manhattan, NY, New York County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Manhattan, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in New York County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -51,7 +53,7 @@ Intake ledger 113950: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Pressure trace 113950: meter-pit clearance and dielectric union checklist staged for Manhattan, NY near elevation 128 ft.
 
-Scope trace: shower cartridge seat score plus meter pit clearance referenced in New York County county grid review.
+Scope trace: shower cartridge seat score plus meter pit clearance referenced in New York County drain and water line review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~128 ft across the New York County area. Coordinates: 40.7800, -73.9700. ZIP sample: 10157, 10024, 10125, 10211, 10021. Logistics priority: Serving residential sectors across New York County and north-east ZIP 10169 grid.
 

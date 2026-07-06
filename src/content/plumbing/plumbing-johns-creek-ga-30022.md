@@ -12,13 +12,16 @@ lng: -84.2000
 zipSample: ["30005", "30022", "30097"]
 zipCodes: ["30097", "30005", "30022"]
 localPaths: ["Fulton County / elevation 965 ft band", "Fulton County / ZIP 30097 sector", "Fulton County / ZIP 30022 sector", "Fulton County / primary ZIP 30022", "Fulton County / ZIP 30005 sector"]
-zillowHomeValueUsd: 678078
 ---
 
-**Engineering Notice for Johns Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Johns Creek:** Supply line, cleanout, and water heater scope recorded at 965 ft elevation context (Fulton County).
 
 
-We coordinate Johns Creek, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Qualified plumbing crews serving Johns Creek, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Johns Creek, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Fulton County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+We coordinate Johns Creek, GA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Hydrostatic holds in Johns Creek, GA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -46,7 +49,7 @@ Fixture shutoff stiffness in Johns Creek, GA may indicate mineral bridging behin
 
 Flow dossier 834840: branch wet-vent geometry and jetting nozzle envelope logged for Johns Creek, GA county grid Fulton County (ZIP 30022).
 
-Scope trace: water softener bypass lever plus meter pit clearance referenced in Fulton County county grid review.
+Scope trace: water softener bypass lever plus meter pit clearance referenced in Fulton County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 34.0300, -84.2000 at elevation ~965 ft aligns with Fulton County intake staging.
 

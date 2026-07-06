@@ -12,11 +12,14 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / elevation 909 ft band", "Dakota County / ZIP 55024 sector", "Dakota County / primary ZIP 55024", "Dakota County / coords 44.6600, -93.1700"]
-zillowHomeValueUsd: 400268
 ---
 
-**Engineering Notice for Farmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
+**Engineering Notice for Farmington:** Supply line, cleanout, and water heater scope recorded at 909 ft elevation context (Dakota County).
 
+
+When a main line backs up in Farmington, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Farmington, MN, Dakota County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -42,11 +45,9 @@ Hydrostatic holds in Farmington, MN slab circuits run overnight when listening m
 
 Galvanized segments in Farmington, MN may restrict flow long before visible corrosion.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Supply audit 103086: curb-stop orientation and hose-bib freeze flag reviewed for Farmington, MN at coords 44.6600/-93.1700.
-
-Field routing: meter pit clearance paired with scale coupon sampling near ZIP 55024.
 
 ZIP-corridor snapshot for Farmington, MN: sampled sectors include 55024; county routing grid remains Dakota County.
 

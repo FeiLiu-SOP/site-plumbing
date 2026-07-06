@@ -12,13 +12,16 @@ lng: -121.9600
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / primary ZIP 94565", "Contra Costa County / ZIP 94565 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 38.0300, -121.9600"]
-zillowHomeValueUsd: 569626
 ---
 
-**Engineering Notice for Bay Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Bay Point:** Supply line, cleanout, and water heater scope recorded at 52 ft elevation context (Contra Costa County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Bay Point, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Bay Point, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 94565.
 
@@ -45,8 +48,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Flow dossier 351730: branch wet-vent geometry and jetting nozzle envelope logged for Bay Point, CA county grid Contra Costa County (ZIP 94565).
 
 Supply audit 351730: curb-stop orientation and hose-bib freeze flag reviewed for Bay Point, CA at coords 38.0300/-121.9600.
-
-Scope trace: meter pit clearance plus sump float travel referenced in Contra Costa County county grid review.
 
 On-site sector marker: Contra Costa County / coords 38.0300, -121.9600 — logged for map parity and ZIP-corridor verification.
 

@@ -8,15 +8,18 @@ zipCode: "90266"
 county: "Los Angeles County"
 elevationFt: 135
 lat: 33.8900
-lng: -118.4000
+lng: -118.3700
 zipSample: ["90267", "90266"]
 zipCodes: ["90267", "90266"]
-localPaths: ["Los Angeles County / elevation 135 ft band", "Los Angeles County / primary ZIP 90266", "Los Angeles County / coords 33.8900, -118.4000", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / ZIP 90267 sector"]
-zillowHomeValueUsd: 3229612
+localPaths: ["Los Angeles County / elevation 135 ft band", "Los Angeles County / primary ZIP 90266", "Los Angeles County / coords 33.8900, -118.3700", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / ZIP 90267 sector"]
 ---
 
-**Engineering Notice for Manhattan Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Manhattan Beach:** Supply line, cleanout, and water heater scope recorded at 135 ft elevation context (Los Angeles County).
 
+
+Licensed plumbing crews serving Manhattan Beach, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Manhattan Beach, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

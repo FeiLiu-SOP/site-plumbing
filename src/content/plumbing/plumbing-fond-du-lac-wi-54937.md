@@ -12,11 +12,14 @@ lng: -88.4400
 zipSample: ["54936", "54937", "54935"]
 zipCodes: ["54936", "54937", "54935"]
 localPaths: ["Fond du Lac County / ZIP 54936 sector", "Fond du Lac County / elevation 768 ft band", "Fond du Lac County / ZIP 54937 sector", "Fond du Lac County / primary ZIP 54937", "Fond du Lac County / coords 43.7700, -88.4400"]
-zillowHomeValueUsd: 338905
 ---
 
-**Engineering Notice for Fond du Lac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fond du Lac County.
+**Engineering Notice for Fond du Lac:** Emergency leak and drain triage uses ~153 mg/L hardness context with Fond du Lac County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Fond du Lac, WI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Fond du Lac, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In Fond du Lac, WI, before spring thaw and hurricane remnants.
 
@@ -34,7 +37,7 @@ Permit note: Main water line replacement in Fond du Lac, WI may require ROW rest
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Hydro-jetting in Fond du Lac, WI requires camera confirmation before nozzle pres
 Supply audit 502886: curb-stop orientation and hose-bib freeze flag reviewed for Fond du Lac, WI at coords 43.7700/-88.4400.
 
 Fixture roster 502886: toilet flange spacer kit and shower cartridge seat score queued for Fond du Lac, WI walk-through.
-
-Scope trace: scale coupon sampling plus sump float travel referenced in Fond du Lac County county grid review.
 
 Coordinate-anchored dispatch note: center reference 43.7700, -88.4400 at elevation ~768 ft aligns with Fond du Lac County intake staging.
 

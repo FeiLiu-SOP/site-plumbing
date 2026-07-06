@@ -12,11 +12,14 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / primary ZIP 84067", "Weber County / ZIP 84067 sector", "Weber County / elevation 4383 ft band", "Weber County / coords 41.1700, -112.0500"]
-zillowHomeValueUsd: 436575
 ---
 
-**Engineering Notice for Roy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.
+**Engineering Notice for Roy:** Supply line, cleanout, and water heater scope recorded at 4383 ft elevation context (Weber County).
 
+
+Burst pipe and drain clog calls in Roy, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weber County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Roy, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in Roy, UT should be reviewed before spring thaw cycles.
 
@@ -45,6 +48,8 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Supply audit 634524: curb-stop orientation and hose-bib freeze flag reviewed for Roy, UT at coords 41.1700/-112.0500.
+
+Scope trace: dielectric union checklist plus water softener bypass lever referenced in Weber County drain and water line review.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Weber County and primary ZIP 84067. Terrain reference: 4383 ft. Center point: 41.1700, -112.0500. ZIP sample: 84067. Regional routing note: Weber County traffic flow is balanced around ZIP 84067 service demand.
 

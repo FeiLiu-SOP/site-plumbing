@@ -12,11 +12,14 @@ lng: -91.9100
 zipSample: ["54751"]
 zipCodes: ["54751"]
 localPaths: ["Dunn County / ZIP 54751 sector", "Dunn County / primary ZIP 54751", "Dunn County / elevation 833 ft band", "Dunn County / coords 44.8900, -91.9100"]
-zillowHomeValueUsd: 300379
 ---
 
-**Engineering Notice for Menomonie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dunn County.
+**Engineering Notice for Menomonie:** Supply line, cleanout, and water heater scope recorded at 833 ft elevation context (Dunn County).
 
+
+Burst pipe and drain clog calls in Menomonie, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dunn County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Menomonie, WI, Dunn County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

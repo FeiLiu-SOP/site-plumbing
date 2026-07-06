@@ -12,11 +12,14 @@ lng: -106.4100
 zipSample: ["88081"]
 zipCodes: ["88081"]
 localPaths: ["Doña Ana County / elevation 4062 ft band", "Doña Ana County / coords 32.0400, -106.4100", "Doña Ana County / primary ZIP 88081", "Doña Ana County / ZIP 88081 sector"]
-zillowHomeValueUsd: 216191
 ---
 
-**Engineering Notice for Chaparral:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Chaparral:** Supply line, cleanout, and water heater scope recorded at 4062 ft elevation context (Doña Ana County).
 
+
+When a main line backs up in Chaparral, NM, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Chaparral, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Doña Ana County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -30,7 +33,7 @@ Permit note: Main water line replacement in Chaparral, NM may require ROW restor
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: document dielectric unions before mixed-metal replacements.
 

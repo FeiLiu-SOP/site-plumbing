@@ -12,11 +12,14 @@ lng: -101.9200
 zipSample: ["79015", "79016"]
 zipCodes: ["79015", "79016"]
 localPaths: ["Randall County / coords 34.9900, -101.9200", "Randall County / ZIP 79015 sector", "Randall County / elevation 3533 ft band", "Randall County / ZIP 79016 sector", "Randall County / primary ZIP 79016"]
-zillowHomeValueUsd: 297141
 ---
 
-**Engineering Notice for Canyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Randall County.
+**Engineering Notice for Canyon:** Supply line, cleanout, and water heater scope recorded at 3533 ft elevation context (Randall County).
 
+
+Emergency plumbing pro service in Canyon, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Randall County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Canyon, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Canyon, TX.
 
@@ -26,7 +29,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Hydrostatic holds in Canyon, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 

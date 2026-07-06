@@ -12,11 +12,14 @@ lng: -77.4400
 zipSample: ["20121", "20120", "20124"]
 zipCodes: ["20120", "20124", "20121"]
 localPaths: ["Fairfax County / primary ZIP 20120", "Fairfax County / ZIP 20124 sector", "Fairfax County / coords 38.8400, -77.4400", "Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 20121 sector"]
-zillowHomeValueUsd: 702195
 ---
 
-**Engineering Notice for Centreville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Centreville:** Supply line, cleanout, and water heater scope recorded at 259 ft elevation context (Fairfax County).
 
+
+Plumbing remediation in Centreville, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Centreville, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Fairfax County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -49,8 +52,6 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 Lineage note 714796: recirculation pump amp draw captured before Centreville, VA branch isolation.
 
 Fixture roster 714796: toilet flange spacer kit and shower cartridge seat score queued for Centreville, VA walk-through.
-
-Field routing: water heater T&P path paired with toilet flange spacer kit near ZIP 20120.
 
 Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Centreville, VA before niche-specific work begins.
 

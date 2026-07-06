@@ -12,11 +12,14 @@ lng: -75.9700
 zipSample: ["18201"]
 zipCodes: ["18201"]
 localPaths: ["Luzerne County / ZIP 18201 sector", "Luzerne County / coords 40.9500, -75.9700", "Luzerne County / primary ZIP 18201", "Luzerne County / elevation 1677 ft band"]
-zillowHomeValueUsd: 193204
 ---
 
-**Engineering Notice for Hazleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Luzerne County.
+**Engineering Notice for Hazleton:** Emergency leak and drain triage uses ~141 mg/L hardness context with Luzerne County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Hazleton, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Hazleton, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Luzerne County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: camera-pass main lines in Hazleton, PA before jetting older clay or cast iron.
 
@@ -34,7 +37,7 @@ Hydrostatic holds in Hazleton, PA slab circuits run overnight when listening mic
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 18201.
 
-We coordinate Hazleton, PA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Hazleton, PA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless pulls in Hazleton, PA require pit dimensions verified against utility locate marks.
 
@@ -50,7 +53,7 @@ Intake ledger 273055: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Drain map 273055: camera-pass priority and expansion-tank pre-charge noted for Hazleton, PA postal sector 18201.
 
-plumbing brief: branch wet vent geometry and cleanout riser height were cross-checked for the Hazleton intake packet.
+Plumbing restoration brief: branch wet vent geometry and cleanout riser height were cross-checked for the Hazleton pipe and leak scope.
 
 ZIP-corridor snapshot for Hazleton, PA: sampled sectors include 18201; county routing grid remains Luzerne County.
 

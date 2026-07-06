@@ -12,17 +12,20 @@ lng: -74.0500
 zipSample: ["07602", "07601"]
 zipCodes: ["07602", "07601"]
 localPaths: ["Bergen County / coords 40.8900, -74.0500", "Bergen County / ZIP 07602 sector", "Bergen County / elevation 23 ft band", "Bergen County / ZIP 07601 sector", "Bergen County / primary ZIP 07601"]
-zillowHomeValueUsd: 464957
 ---
 
-**Engineering Notice for Hackensack:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Hackensack:** Emergency leak and drain triage uses ~162 mg/L hardness context with Bergen County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Hackensack, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Hackensack, NJ, Bergen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 In Hackensack, NJ, slab leaks often present as warm spots before wall stains appear.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -46,7 +49,7 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Drain map 480442: camera-pass priority and expansion-tank pre-charge noted for Hackensack, NJ postal sector 07601.
 
-Scope trace: cleanout riser height plus sewer cleanout cap thread referenced in Bergen County county grid review.
+Scope trace: cleanout riser height plus sewer cleanout cap thread referenced in Bergen County drain and water line review.
 
 On-site sector marker: Bergen County / ZIP 07601 sector — logged for map parity and ZIP-corridor verification.
 

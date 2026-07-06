@@ -12,11 +12,14 @@ lng: -82.9000
 zipSample: ["48236"]
 zipCodes: ["48236"]
 localPaths: ["Wayne County / elevation 584 ft band", "Wayne County / ZIP 48236 sector", "Wayne County / coords 42.4400, -82.9000", "Wayne County / primary ZIP 48236"]
-zillowHomeValueUsd: 398265
 ---
 
-**Engineering Notice for Grosse Pointe Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Grosse Pointe Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wayne County.
 
+
+Plumbing remediation in Grosse Pointe Woods, MI, Wayne County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Grosse Pointe Woods, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Grosse Pointe Woods, MI basements should be photographed before any wall chase opens.
 
@@ -49,8 +52,6 @@ Frost-free sillcock failures in Grosse Pointe Woods, MI often trace to interior 
 Drain map 958188: camera-pass priority and expansion-tank pre-charge noted for Grosse Pointe Woods, MI postal sector 48236.
 
 Fixture roster 958188: toilet flange spacer kit and shower cartridge seat score queued for Grosse Pointe Woods, MI walk-through.
-
-plumbing brief: dielectric union checklist and slab leak listening window were cross-checked for the Grosse Pointe Woods intake packet.
 
 On-site sector marker: Wayne County / elevation 584 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -12,17 +12,20 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / ZIP 98208 sector", "Snohomish County / coords 47.9000, -122.1800", "Snohomish County / primary ZIP 98208", "Snohomish County / elevation 387 ft band"]
-zillowHomeValueUsd: 771446
 ---
 
-**Engineering Notice for Eastmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Eastmont:** Supply line, cleanout, and water heater scope recorded at 387 ft elevation context (Snohomish County).
 
+
+Burst pipe and drain clog calls in Eastmont, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Snohomish County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Eastmont, WA, Snohomish County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Cast-iron hub corrosion in Eastmont, WA often concentrates at the third joint upstream of the cleanout.
 
@@ -47,8 +50,6 @@ Risk flag: Seasonal Eastmont, WA irrigation cross-connections can mask domestic 
 Flow dossier 511037: branch wet-vent geometry and jetting nozzle envelope logged for Eastmont, WA county grid Snohomish County (ZIP 98208).
 
 Drain map 511037: camera-pass priority and expansion-tank pre-charge noted for Eastmont, WA postal sector 98208.
-
-Scope trace: meter pit clearance plus water heater T&P path referenced in Snohomish County county grid review.
 
 On-site sector marker: Snohomish County / coords 47.9000, -122.1800 — logged for map parity and ZIP-corridor verification.
 

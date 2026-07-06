@@ -12,13 +12,16 @@ lng: -88.8400
 zipSample: ["38301", "38314", "38305", "38303"]
 zipCodes: ["38314", "38301", "38303", "38305"]
 localPaths: ["Madison County / primary ZIP 38305", "Madison County / ZIP 38303 sector", "Madison County / elevation 463 ft band", "Madison County / ZIP 38314 sector", "Madison County / ZIP 38301 sector"]
-zillowHomeValueUsd: 279900
 ---
 
-**Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Jackson:** Supply line, cleanout, and water heater scope recorded at 463 ft elevation context (Madison County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Jackson, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Jackson, TN, Madison County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -43,8 +46,6 @@ Tip: Log sump cycle frequency during heavy rain windows.
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Pressure trace 211752: meter-pit clearance and dielectric union checklist staged for Jackson, TN near elevation 463 ft.
-
-plumbing brief: PEX expansion ring batch and copper pinhole cluster were cross-checked for the Jackson intake packet.
 
 Primary postal anchor 38305 with multi-ZIP overlap in Jackson; field packets tag Madison County for county-grid reconciliation.
 

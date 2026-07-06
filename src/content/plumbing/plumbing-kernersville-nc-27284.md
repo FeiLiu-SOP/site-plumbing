@@ -12,11 +12,14 @@ lng: -80.0800
 zipSample: ["27284", "27285"]
 zipCodes: ["27285", "27284"]
 localPaths: ["Forsyth County / primary ZIP 27284", "Forsyth County / elevation 951 ft band", "Forsyth County / coords 36.1100, -80.0800", "Forsyth County / ZIP 27284 sector", "Forsyth County / ZIP 27285 sector"]
-zillowHomeValueUsd: 322980
 ---
 
-**Engineering Notice for Kernersville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forsyth County.
+**Engineering Notice for Kernersville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Forsyth County.
 
+
+Burst pipe and drain clog calls in Kernersville, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Forsyth County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Kernersville, NC, Forsyth County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -43,8 +46,6 @@ Water heater T&P discharge paths in Kernersville, NC must terminate safely befor
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
 Fixture roster 334173: toilet flange spacer kit and shower cartridge seat score queued for Kernersville, NC walk-through.
-
-Scope trace: water heater T&P path plus copper pinhole cluster referenced in Forsyth County county grid review.
 
 On-site sector marker: Forsyth County / elevation 951 ft band — logged for map parity and ZIP-corridor verification.
 

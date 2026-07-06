@@ -12,11 +12,14 @@ lng: -78.8200
 zipSample: ["27560", "27518", "27519", "27513", "27511"]
 zipCodes: ["27519", "27511", "27518", "27512", "27560", "27513"]
 localPaths: ["Wake County / ZIP 27519 sector", "Wake County / elevation 420 ft band", "Wake County / ZIP 27560 sector", "Wake County / ZIP 27511 sector", "Wake County / primary ZIP 27560"]
-zillowHomeValueUsd: 501914
 ---
 
-**Engineering Notice for Cary:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Cary:** Emergency leak and drain triage uses ~167 mg/L hardness context with Wake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Cary, NC, Wake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Cary, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -43,8 +46,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Risk flag: In Cary, NC, slab leaks can misroute as foundation issues without listening equipment.
 
 Drain map 932611: camera-pass priority and expansion-tank pre-charge noted for Cary, NC postal sector 27560.
-
-plumbing brief: scale coupon sampling and shower cartridge seat score were cross-checked for the Cary intake packet.
 
 On-site sector marker: Wake County / primary ZIP 27560 — logged for map parity and ZIP-corridor verification.
 

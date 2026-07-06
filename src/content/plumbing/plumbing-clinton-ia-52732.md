@@ -12,11 +12,14 @@ lng: -90.2400
 zipSample: ["52734", "52732", "52733", "52736"]
 zipCodes: ["52732", "52734", "52733", "52736"]
 localPaths: ["Clinton County / ZIP 52732 sector", "Clinton County / ZIP 52734 sector", "Clinton County / coords 41.8400, -90.2400", "Clinton County / ZIP 52733 sector", "Clinton County / primary ZIP 52732"]
-zillowHomeValueUsd: 127186
 ---
 
-**Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.
+**Engineering Notice for Clinton:** Emergency leak and drain triage uses ~115 mg/L hardness context with Clinton County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Clinton, IA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Clinton, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless sleeve pulls near Clinton, IA require pit shoring notes when water tables are high.
 
@@ -45,8 +48,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Fixture roster 311743: toilet flange spacer kit and shower cartridge seat score queued for Clinton, IA walk-through.
 
 Lineage note 311743: recirculation pump amp draw captured before Clinton, IA branch isolation.
-
-plumbing brief: water softener bypass lever and jetter nozzle envelope were cross-checked for the Clinton intake packet.
 
 On-site sector marker: Clinton County / primary ZIP 52732 — logged for map parity and ZIP-corridor verification.
 

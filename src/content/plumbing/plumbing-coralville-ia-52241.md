@@ -12,11 +12,14 @@ lng: -91.6000
 zipSample: ["52241"]
 zipCodes: ["52241"]
 localPaths: ["Johnson County / elevation 751 ft band", "Johnson County / primary ZIP 52241", "Johnson County / ZIP 52241 sector", "Johnson County / coords 41.7000, -91.6000"]
-zillowHomeValueUsd: 256946
 ---
 
-**Engineering Notice for Coralville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Coralville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Johnson County.
 
+
+Plumbing remediation in Coralville, IA, Johnson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Coralville, IA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Johnson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -30,7 +33,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Hydro-jetting in Coralville, IA requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hose bib split patterns in Coralville, IA often follow missed winterization.
 
@@ -45,8 +48,6 @@ Cast-iron hub corrosion in Coralville, IA often concentrates at the third joint 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
 Intake ledger 729839: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Coralville, IA at 41.7000, -91.6000.
-
-Field routing: thermal expansion loop check paired with slab leak listening window near ZIP 52241.
 
 Regional mesh label Johnson County: moisture and logistics baselines are keyed to Coralville, IA before niche-specific work begins.
 

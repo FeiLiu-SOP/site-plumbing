@@ -12,11 +12,14 @@ lng: -86.6300
 zipSample: ["35051", "35043"]
 zipCodes: ["35051", "35043"]
 localPaths: ["Shelby County / elevation 548 ft band", "Shelby County / coords 33.3300, -86.6300", "Shelby County / ZIP 35051 sector", "Shelby County / primary ZIP 35051", "Shelby County / ZIP 35043 sector"]
-zillowHomeValueUsd: 322559
 ---
 
-**Engineering Notice for Chelsea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Chelsea:** Emergency leak and drain triage uses ~133 mg/L hardness context with Shelby County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Chelsea, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Shelby County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Chelsea, AL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Shelby County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

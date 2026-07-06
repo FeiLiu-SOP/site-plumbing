@@ -12,11 +12,14 @@ lng: -93.4600
 zipSample: ["55441", "55447", "55446", "55442"]
 zipCodes: ["55442", "55441", "55446", "55447"]
 localPaths: ["Hennepin County / ZIP 55447 sector", "Hennepin County / primary ZIP 55442", "Hennepin County / elevation 955 ft band", "Hennepin County / ZIP 55441 sector", "Hennepin County / ZIP 55446 sector"]
-zillowHomeValueUsd: 471668
 ---
 
-**Engineering Notice for Plymouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Plymouth:** Emergency leak and drain triage uses ~115 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Plymouth, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Plymouth, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -42,9 +45,11 @@ Hard water in Plymouth, MN accelerates scale on PRV seats and heater elements.
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch packets reference county grid Hennepin County near ZIP 55442.
+Our Plymouth, MN service packets reference Hennepin County near ZIP 55442 for pipe and leak scope.
 
 Lineage note 710111: recirculation pump amp draw captured before Plymouth, MN branch isolation.
+
+Plumbing remediation brief: slab penetration sleeve seal and slab leak listening window were cross-checked for the Plymouth pipe and leak scope.
 
 Primary postal anchor 55442 with multi-ZIP overlap in Plymouth; field packets tag Hennepin County for county-grid reconciliation.
 

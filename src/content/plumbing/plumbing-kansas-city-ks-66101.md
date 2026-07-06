@@ -12,17 +12,20 @@ lng: -94.7400
 zipSample: ["66160", "66102", "66119", "66118", "66111"]
 zipCodes: ["66105", "66117", "66110", "66102", "66118", "66104", "66106", "66101", "66103", "66112", "66115", "66119"]
 localPaths: ["Wyandotte County / ZIP 66119 sector", "Wyandotte County / ZIP 66111 sector", "Wyandotte County / ZIP 66160 sector", "Wyandotte County / coords 39.1200, -94.7400", "Wyandotte County / ZIP 66118 sector"]
-zillowHomeValueUsd: 123563
 ---
 
-**Engineering Notice for Kansas City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wyandotte County.
+**Engineering Notice for Kansas City:** Supply line, cleanout, and water heater scope recorded at 965 ft elevation context (Wyandotte County).
 
+
+Burst pipe and drain clog calls in Kansas City, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wyandotte County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Kansas City, KS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

@@ -12,11 +12,14 @@ lng: -85.8500
 zipSample: ["36330", "36331"]
 zipCodes: ["36331", "36330"]
 localPaths: ["Coffee County / elevation 338 ft band", "Coffee County / ZIP 36330 sector", "Coffee County / coords 31.3300, -85.8500", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36331 sector"]
-zillowHomeValueUsd: 203851
 ---
 
-**Engineering Notice for Enterprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coffee County.
+**Engineering Notice for Enterprise:** Supply line, cleanout, and water heater scope recorded at 338 ft elevation context (Coffee County).
 
+
+Plumbing restoration in Enterprise, AL, Coffee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Enterprise, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Coffee County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Enterprise, AL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -44,7 +47,7 @@ Hydrostatic holds in Enterprise, AL slab circuits run overnight when listening m
 
 Pressure trace 402516: meter-pit clearance and dielectric union checklist staged for Enterprise, AL near elevation 338 ft.
 
-Scope trace: PRV outlet curve plus sump float travel referenced in Coffee County county grid review.
+Scope trace: PRV outlet curve plus sump float travel referenced in Coffee County drain and water line review.
 
 Regional mesh label Coffee County: moisture and logistics baselines are keyed to Enterprise, AL before niche-specific work begins.
 

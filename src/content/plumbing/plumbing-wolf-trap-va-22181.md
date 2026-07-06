@@ -12,11 +12,14 @@ lng: -77.2800
 zipSample: ["22181", "22182"]
 zipCodes: ["22182", "22181"]
 localPaths: ["Fairfax County / ZIP 22181 sector", "Fairfax County / elevation 328 ft band", "Fairfax County / coords 38.9400, -77.2800", "Fairfax County / primary ZIP 22181", "Fairfax County / ZIP 22182 sector"]
-zillowHomeValueUsd: 1126204
 ---
 
-**Engineering Notice for Wolf Trap:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Wolf Trap:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fairfax County.
 
+
+Plumbing service in Wolf Trap, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Wolf Trap, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -45,6 +48,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Hydro-jetting in Wolf Trap, VA requires camera confirmation before nozzle pressure is raised.
 
 Supply audit 370918: curb-stop orientation and hose-bib freeze flag reviewed for Wolf Trap, VA at coords 38.9400/-77.2800.
+
+Plumbing service brief: slab leak listening window and branch wet vent geometry were cross-checked for the Wolf Trap pipe and leak scope.
 
 On-site sector marker: Fairfax County / ZIP 22181 sector — logged for map parity and ZIP-corridor verification.
 

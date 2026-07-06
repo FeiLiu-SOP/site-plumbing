@@ -12,11 +12,14 @@ lng: -97.6800
 zipSample: ["78644"]
 zipCodes: ["78644"]
 localPaths: ["Caldwell County / primary ZIP 78644", "Caldwell County / ZIP 78644 sector", "Caldwell County / elevation 558 ft band", "Caldwell County / coords 29.8800, -97.6800"]
-zillowHomeValueUsd: 284176
 ---
 
-**Engineering Notice for Lockhart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.
+**Engineering Notice for Lockhart:** Supply line, cleanout, and water heater scope recorded at 558 ft elevation context (Caldwell County).
 
+
+When a main line backs up in Lockhart, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Lockhart, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hose bib split patterns in Lockhart, TX often follow missed winterization.
 
@@ -43,8 +46,6 @@ Irrigation cross-connections in Lockhart, TX can back-siphon domestic lines duri
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Lineage note 497463: recirculation pump amp draw captured before Lockhart, TX branch isolation.
-
-plumbing brief: slab leak listening window and thermal expansion loop check were cross-checked for the Lockhart intake packet.
 
 On-site sector marker: Caldwell County / elevation 558 ft band — logged for map parity and ZIP-corridor verification.
 

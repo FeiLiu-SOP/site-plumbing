@@ -12,11 +12,14 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / elevation 909 ft band", "Uvalde County / primary ZIP 78801", "Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800"]
-zillowHomeValueUsd: 182586
 ---
 
-**Engineering Notice for Uvalde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Uvalde County.
+**Engineering Notice for Uvalde:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Uvalde County.
 
+
+Licensed plumbing crews serving Uvalde, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Uvalde, TX, Uvalde County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Uvalde, TX irrigation zones need backflow logs before line replacement.
 

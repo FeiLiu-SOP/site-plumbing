@@ -12,13 +12,16 @@ lng: -96.9000
 zipSample: ["75056", "75036"]
 zipCodes: ["75036", "75056"]
 localPaths: ["Denton County / ZIP 75056 sector", "Denton County / primary ZIP 75036", "Denton County / elevation 551 ft band", "Denton County / coords 33.0900, -96.9000", "Denton County / ZIP 75036 sector"]
-zillowHomeValueUsd: 567507
 ---
 
-**Engineering Notice for The Colony:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denton County.
+**Engineering Notice for The Colony:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Denton County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in The Colony, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Denton County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in The Colony, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Denton County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydrostatic holds in The Colony, TX slab circuits run overnight when listening mics show ambiguous hits.
 

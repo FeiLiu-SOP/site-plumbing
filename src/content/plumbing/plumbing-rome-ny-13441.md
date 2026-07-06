@@ -12,11 +12,14 @@ lng: -75.4900
 zipSample: ["13441", "13449", "13442", "13308", "13440"]
 zipCodes: ["13440", "13308", "13441", "13442", "13449"]
 localPaths: ["Oneida County / primary ZIP 13441", "Oneida County / ZIP 13441 sector", "Oneida County / ZIP 13442 sector", "Oneida County / coords 43.2300, -75.4900", "Oneida County / ZIP 13440 sector"]
-zillowHomeValueUsd: 201268
 ---
 
-**Engineering Notice for Rome:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oneida County.
+**Engineering Notice for Rome:** Emergency leak and drain triage uses ~114 mg/L hardness context with Oneida County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Rome, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oneida County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Rome, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Rome, NY hardness profiles.
 
@@ -48,7 +51,7 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 134
 
 Intake ledger 646449: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Rome, NY at 43.2300, -75.4900.
 
-Scope trace: copper pinhole cluster plus slab leak listening window referenced in Oneida County county grid review.
+Scope trace: copper pinhole cluster plus slab leak listening window referenced in Oneida County drain and water line review.
 
 ZIP-corridor snapshot for Rome, NY: sampled sectors include 13449, 13441, 13308, 13442, 13440; county routing grid remains Oneida County.
 

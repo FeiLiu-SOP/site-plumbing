@@ -12,15 +12,18 @@ lng: -71.4400
 zipSample: ["01704", "01701", "01705", "01703", "01702"]
 zipCodes: ["01704", "01705", "01703", "01702", "01701"]
 localPaths: ["Middlesex County / ZIP 01704 sector", "Middlesex County / primary ZIP 01701", "Middlesex County / ZIP 01703 sector", "Middlesex County / elevation 177 ft band", "Middlesex County / ZIP 01701 sector"]
-zillowHomeValueUsd: 705071
 ---
 
-**Engineering Notice for Framingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Framingham:** Emergency leak and drain triage uses ~174 mg/L hardness context with Middlesex County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Framingham, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Framingham, MA, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Framingham, MA.
 
-Dispatch packets reference county grid Middlesex County near ZIP 01701.
+Our Framingham, MA service packets reference Middlesex County near ZIP 01701 for pipe and leak scope.
 
 Trenchless sleeve pulls near Framingham, MA require pit shoring notes when water tables are high.
 
@@ -34,7 +37,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Step: camera-pass main lines in Framingham, MA before jetting older clay or cast iron.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Framingham, MA require pit dimensions verified against utility locate marks.
 
@@ -49,8 +52,6 @@ Polybutylene manifold tags in Framingham, MA basements should be photographed be
 Fixture roster 755270: toilet flange spacer kit and shower cartridge seat score queued for Framingham, MA walk-through.
 
 Pressure trace 755270: meter-pit clearance and dielectric union checklist staged for Framingham, MA near elevation 177 ft.
-
-plumbing brief: fixture shutoff torque log and thermal expansion loop check were cross-checked for the Framingham intake packet.
 
 On-site sector marker: Middlesex County / ZIP 01703 sector — logged for map parity and ZIP-corridor verification.
 

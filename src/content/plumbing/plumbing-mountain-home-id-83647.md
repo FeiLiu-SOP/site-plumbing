@@ -12,11 +12,14 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / coords 43.1300, -115.7000", "Elmore County / primary ZIP 83647", "Elmore County / elevation 3143 ft band", "Elmore County / ZIP 83647 sector"]
-zillowHomeValueUsd: 355932
 ---
 
-**Engineering Notice for Mountain Home:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Elmore County.
+**Engineering Notice for Mountain Home:** Supply line, cleanout, and water heater scope recorded at 3143 ft elevation context (Elmore County).
 
+
+Emergency plumbing technician service in Mountain Home, ID often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Elmore County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Mountain Home, ID may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Elmore County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: tag shutoffs and meter orientation before opening walls.
 

@@ -12,11 +12,14 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / primary ZIP 14020", "Genesee County / elevation 906 ft band", "Genesee County / ZIP 14020 sector", "Genesee County / coords 43.0000, -78.1800"]
-zillowHomeValueUsd: 197635
 ---
 
-**Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.
+**Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Genesee County.
 
+
+When a main line backs up in Batavia, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in Batavia, NY, Genesee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Batavia, NY basements should be photographed before any wall chase opens.
 
@@ -45,6 +48,8 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Drain map 488896: camera-pass priority and expansion-tank pre-charge noted for Batavia, NY postal sector 14020.
 
 Fixture roster 488896: toilet flange spacer kit and shower cartridge seat score queued for Batavia, NY walk-through.
+
+Scope trace: PEX expansion ring batch plus cleanout riser height referenced in Genesee County drain and water line review.
 
 On-site sector marker: Genesee County / coords 43.0000, -78.1800 — logged for map parity and ZIP-corridor verification.
 

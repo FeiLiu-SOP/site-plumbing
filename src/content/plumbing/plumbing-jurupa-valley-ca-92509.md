@@ -12,11 +12,14 @@ lng: -117.4700
 zipSample: ["92509", "92519", "91752"]
 zipCodes: ["91752", "92519", "92509"]
 localPaths: ["Riverside County / ZIP 92519 sector", "Riverside County / ZIP 91752 sector", "Riverside County / ZIP 92509 sector", "Riverside County / elevation 761 ft band", "Riverside County / primary ZIP 92509"]
-zillowHomeValueUsd: 636891
 ---
 
-**Engineering Notice for Jurupa Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Jurupa Valley:** Supply line, cleanout, and water heater scope recorded at 761 ft elevation context (Riverside County).
 
+
+Emergency licensed plumber service in Jurupa Valley, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Riverside County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Jurupa Valley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -49,8 +52,6 @@ FAQ: When should sump battery backups be load-tested? In Jurupa Valley, CA, befo
 Supply audit 222131: curb-stop orientation and hose-bib freeze flag reviewed for Jurupa Valley, CA at coords 34.0000/-117.4700.
 
 Lineage note 222131: recirculation pump amp draw captured before Jurupa Valley, CA branch isolation.
-
-plumbing brief: PEX expansion ring batch and fixture shutoff torque log were cross-checked for the Jurupa Valley intake packet.
 
 On-site sector marker: Riverside County / ZIP 92509 sector — logged for map parity and ZIP-corridor verification.
 

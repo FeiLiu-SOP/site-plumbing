@@ -12,11 +12,14 @@ lng: -97.3700
 zipSample: ["76179", "76131"]
 zipCodes: ["76179", "76131"]
 localPaths: ["Tarrant County / ZIP 76131 sector", "Tarrant County / primary ZIP 76131", "Tarrant County / coords 32.8700, -97.3700", "Tarrant County / ZIP 76179 sector", "Tarrant County / elevation 745 ft band"]
-zillowHomeValueUsd: 337697
 ---
 
-**Engineering Notice for Saginaw:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Saginaw:** Emergency leak and drain triage uses ~161 mg/L hardness context with Tarrant County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Saginaw, TX, Tarrant County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Saginaw, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tarrant County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

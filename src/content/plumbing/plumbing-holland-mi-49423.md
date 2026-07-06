@@ -8,15 +8,18 @@ zipCode: "49423"
 county: "Ottawa County"
 elevationFt: 656
 lat: 42.7700
-lng: -86.1000
+lng: -86.1300
 zipSample: ["49423", "49422"]
 zipCodes: ["49423", "49422"]
-localPaths: ["Ottawa County / coords 42.7700, -86.1000", "Ottawa County / elevation 656 ft band", "Ottawa County / primary ZIP 49423", "Ottawa County / ZIP 49422 sector", "Ottawa County / ZIP 49423 sector"]
-zillowHomeValueUsd: 347217
+localPaths: ["Ottawa County / coords 42.7700, -86.1300", "Ottawa County / elevation 656 ft band", "Ottawa County / primary ZIP 49423", "Ottawa County / ZIP 49422 sector", "Ottawa County / ZIP 49423 sector"]
 ---
 
-**Engineering Notice for Holland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ottawa County.
+**Engineering Notice for Holland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ottawa County.
 
+
+Emergency certified plumber service in Holland, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Ottawa County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Holland, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ottawa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Holland, MI systems need rebalancing.
 
@@ -44,8 +47,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Flow dossier 465551: branch wet-vent geometry and jetting nozzle envelope logged for Holland, MI county grid Ottawa County (ZIP 49423).
 
-Scope trace: sump float travel plus jetter nozzle envelope referenced in Ottawa County county grid review.
+Scope trace: sump float travel plus jetter nozzle envelope referenced in Ottawa County drain and water line review.
 
-Coordinate-anchored dispatch note: center reference 42.7700, -86.1000 at elevation ~656 ft aligns with Ottawa County intake staging.
+Coordinate-anchored dispatch note: center reference 42.7700, -86.1300 at elevation ~656 ft aligns with Ottawa County intake staging.
 
 Service reference: MI-49423-8d7c749d

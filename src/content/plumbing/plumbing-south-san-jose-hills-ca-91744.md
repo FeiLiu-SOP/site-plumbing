@@ -12,11 +12,14 @@ lng: -117.9000
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / primary ZIP 91744", "Los Angeles County / elevation 420 ft band", "Los Angeles County / coords 34.0100, -117.9000", "Los Angeles County / ZIP 91744 sector"]
-zillowHomeValueUsd: 740954
 ---
 
-**Engineering Notice for South San Jose Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South San Jose Hills:** Emergency leak and drain triage uses ~166 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in South San Jose Hills, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving South San Jose Hills, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Irrigation cross-connections in South San Jose Hills, CA can back-siphon domestic lines during main breaks.
 
@@ -47,6 +50,8 @@ Permit note: Main water line replacement in South San Jose Hills, CA may require
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Pressure trace 355387: meter-pit clearance and dielectric union checklist staged for South San Jose Hills, CA near elevation 420 ft.
+
+Local service note: cleanout riser height paired with jetter nozzle envelope near ZIP 91744 for emergency plumbing pro repairs.
 
 Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to South San Jose Hills, CA before niche-specific work begins.
 

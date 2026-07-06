@@ -12,11 +12,14 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28035", "28036"]
 localPaths: ["Mecklenburg County / ZIP 28035 sector", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / primary ZIP 28036"]
-zillowHomeValueUsd: 655813
 ---
 
-**Engineering Notice for Davidson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Davidson:** Emergency leak and drain triage uses ~110 mg/L hardness context with Mecklenburg County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Davidson, NC, Mecklenburg County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency qualified plumber service in Davidson, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Mecklenburg County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 FAQ: When is cabling enough? In Davidson, NC, pipe material and blockage type dictate method.
 
@@ -42,11 +45,11 @@ Basement floor drains in Davidson, NC should be snaked only after trap arm geome
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 105794: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Davidson, NC at 35.4800, -80.8200.
 
-plumbing brief: slab leak listening window and water softener bypass lever were cross-checked for the Davidson intake packet.
+Plumbing service brief: slab leak listening window and water softener bypass lever were cross-checked for the Davidson pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 35.4800, -80.8200 at elevation ~751 ft aligns with Mecklenburg County intake staging.
 

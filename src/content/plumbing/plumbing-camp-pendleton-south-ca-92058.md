@@ -12,11 +12,14 @@ lng: -117.3900
 zipSample: ["92058"]
 zipCodes: ["92058"]
 localPaths: ["San Diego County / ZIP 92058 sector", "San Diego County / coords 33.2300, -117.3900", "San Diego County / elevation 33 ft band", "San Diego County / primary ZIP 92058"]
-zillowHomeValueUsd: 780445
 ---
 
-**Engineering Notice for Camp Pendleton South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Camp Pendleton South:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (San Diego County).
 
+
+Burst pipe and drain clog calls in Camp Pendleton South, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Diego County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Camp Pendleton South, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Camp Pendleton South, CA slab circuits run overnight when listening mics show ambiguous hits.
 

@@ -12,11 +12,14 @@ lng: -104.7700
 zipSample: ["80639", "80638", "80631", "80634", "80632"]
 zipCodes: ["80638", "80634", "80632", "80631", "80633", "80639"]
 localPaths: ["Weld County / primary ZIP 80631", "Weld County / ZIP 80639 sector", "Weld County / ZIP 80631 sector", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80632 sector"]
-zillowHomeValueUsd: 366486
 ---
 
-**Engineering Notice for Greeley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
+**Engineering Notice for Greeley:** Emergency leak and drain triage uses ~110 mg/L hardness context with Weld County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Greeley, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weld County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Greeley, CO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Across Greeley, CO, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -43,8 +46,6 @@ Cast-iron hub corrosion in Greeley, CO often concentrates at the third joint ups
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Fixture roster 838169: toilet flange spacer kit and shower cartridge seat score queued for Greeley, CO walk-through.
-
-Field routing: floor drain trap primer drip paired with copper pinhole cluster near ZIP 80631.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Weld County. Reference elevation: 4882 ft. Primary coordinates: 40.4200, -104.7700. ZIP sample: 80634, 80633, 80632, 80631, 80638. Service perimeter note: Coverage extends through Weld County with dispatch centered near ZIP 80631.
 

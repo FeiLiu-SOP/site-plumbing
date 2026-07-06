@@ -12,11 +12,14 @@ lng: -88.2300
 zipSample: ["60585", "60586", "60544"]
 zipCodes: ["60586", "60585", "60544"]
 localPaths: ["Will County / primary ZIP 60544", "Will County / coords 41.6200, -88.2300", "Will County / ZIP 60544 sector", "Will County / elevation 627 ft band", "Will County / ZIP 60585 sector"]
-zillowHomeValueUsd: 383369
 ---
 
-**Engineering Notice for Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Plainfield:** Emergency leak and drain triage uses ~136 mg/L hardness context with Will County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Plainfield, IL, Will County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Plainfield, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Seasonal Plainfield, IL irrigation cross-connections can mask domestic pressure loss.
 
@@ -28,7 +31,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Risk flag: In Plainfield, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

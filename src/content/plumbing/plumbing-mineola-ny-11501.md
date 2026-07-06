@@ -12,11 +12,14 @@ lng: -73.6400
 zipSample: ["11501"]
 zipCodes: ["11501"]
 localPaths: ["Nassau County / coords 40.7500, -73.6400", "Nassau County / primary ZIP 11501", "Nassau County / ZIP 11501 sector", "Nassau County / elevation 118 ft band"]
-zillowHomeValueUsd: 814864
 ---
 
-**Engineering Notice for Mineola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Mineola:** Supply line, cleanout, and water heater scope recorded at 118 ft elevation context (Nassau County).
 
+
+Licensed plumbing crews serving Mineola, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Mineola, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Nassau County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -46,7 +49,7 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 11501.
 
 Lineage note 842492: recirculation pump amp draw captured before Mineola, NY branch isolation.
 
-Field routing: gas water heater draft hood gap paired with floor drain trap primer drip near ZIP 11501.
+Local service note: gas water heater draft hood gap paired with floor drain trap primer drip near ZIP 11501 for emergency plumbing technician repairs.
 
 On-site sector marker: Nassau County / elevation 118 ft band — logged for map parity and ZIP-corridor verification.
 

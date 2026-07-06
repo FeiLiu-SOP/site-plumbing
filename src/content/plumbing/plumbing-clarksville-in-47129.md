@@ -12,11 +12,14 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / ZIP 47129 sector", "Clark County / coords 38.3200, -85.7700", "Clark County / ZIP 47172 sector", "Clark County / primary ZIP 47129", "Clark County / elevation 472 ft band"]
-zillowHomeValueUsd: 203433
 ---
 
-**Engineering Notice for Clarksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Clarksville:** Supply line, cleanout, and water heater scope recorded at 472 ft elevation context (Clark County).
 
+
+Licensed plumbing crews serving Clarksville, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Clarksville, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

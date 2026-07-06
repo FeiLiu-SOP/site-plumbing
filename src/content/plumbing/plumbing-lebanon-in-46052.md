@@ -12,11 +12,14 @@ lng: -86.4600
 zipSample: ["46052"]
 zipCodes: ["46052"]
 localPaths: ["Boone County / primary ZIP 46052", "Boone County / coords 40.0300, -86.4600", "Boone County / ZIP 46052 sector", "Boone County / elevation 945 ft band"]
-zillowHomeValueUsd: 295154
 ---
 
-**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.
+**Engineering Notice for Lebanon:** Emergency leak and drain triage uses ~147 mg/L hardness context with Boone County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Lebanon, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Boone County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Lebanon, IN, Boone County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -42,11 +45,11 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Permit note: Main water line replacement in Lebanon, IN may require ROW restoration planning.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Pressure trace 765342: meter-pit clearance and dielectric union checklist staged for Lebanon, IN near elevation 945 ft.
 
-Field routing: backflow test cock orientation paired with hose bib freeze flag near ZIP 46052.
+Local service note: backflow test cock orientation paired with hose bib freeze flag near ZIP 46052 for emergency certified plumber repairs.
 
 Primary postal anchor 46052 with multi-ZIP overlap in Lebanon; field packets tag Boone County for county-grid reconciliation.
 

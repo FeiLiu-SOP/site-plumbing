@@ -12,13 +12,16 @@ lng: -120.5500
 zipSample: ["98907", "98908", "98901", "98903", "98904"]
 zipCodes: ["98902", "98908", "98903", "98904", "98901", "98907"]
 localPaths: ["Yakima County / ZIP 98907 sector", "Yakima County / primary ZIP 98901", "Yakima County / ZIP 98901 sector", "Yakima County / ZIP 98904 sector", "Yakima County / coords 46.5900, -120.5500"]
-zillowHomeValueUsd: 333772
 ---
 
-**Engineering Notice for Yakima:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yakima County.
+**Engineering Notice for Yakima:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Yakima County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Certified plumbing crews serving Yakima, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Yakima, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Yakima County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 

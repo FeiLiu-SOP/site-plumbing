@@ -12,11 +12,14 @@ lng: -122.9200
 zipSample: ["98511", "98512", "98501"]
 zipCodes: ["98501", "98512", "98511"]
 localPaths: ["Thurston County / coords 46.9900, -122.9200", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98501 sector", "Thurston County / ZIP 98511 sector", "Thurston County / ZIP 98512 sector"]
-zillowHomeValueUsd: 549723
 ---
 
-**Engineering Notice for Tumwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Thurston County.
+**Engineering Notice for Tumwater:** Emergency leak and drain triage uses ~156 mg/L hardness context with Thurston County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Tumwater, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Tumwater, WA, Thurston County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Irrigation cross-connections in Tumwater, WA can back-siphon domestic lines during main breaks.
 
@@ -40,7 +43,7 @@ Step: camera-pass main lines in Tumwater, WA before jetting older clay or cast i
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Tumwater, WA systems need rebalancing.
 
-We coordinate Tumwater, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Tumwater, WA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Drain map 286142: camera-pass priority and expansion-tank pre-charge noted for Tumwater, WA postal sector 98501.
 

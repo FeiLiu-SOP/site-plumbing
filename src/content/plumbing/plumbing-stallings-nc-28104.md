@@ -12,11 +12,14 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / elevation 679 ft band", "Union County / ZIP 28104 sector", "Union County / primary ZIP 28104", "Union County / coords 35.1100, -80.6600"]
-zillowHomeValueUsd: 594933
 ---
 
-**Engineering Notice for Stallings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Stallings:** Emergency leak and drain triage uses ~141 mg/L hardness context with Union County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Stallings, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Union County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Stallings, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -40,7 +43,7 @@ Hydrostatic holds in Stallings, NC slab circuits run overnight when listening mi
 
 FAQ: Is hydro-jetting always appropriate? In Stallings, NC, pipe material and blockage type dictate method.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Galvanized segments in Stallings, NC may restrict flow long before visible corrosion.
 
@@ -49,8 +52,6 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 28104.
 Intake ledger 349967: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Stallings, NC at 35.1100, -80.6600.
 
 Supply audit 349967: curb-stop orientation and hose-bib freeze flag reviewed for Stallings, NC at coords 35.1100/-80.6600.
-
-plumbing brief: meter pit clearance and jetter nozzle envelope were cross-checked for the Stallings intake packet.
 
 On-site sector marker: Union County / coords 35.1100, -80.6600 — logged for map parity and ZIP-corridor verification.
 

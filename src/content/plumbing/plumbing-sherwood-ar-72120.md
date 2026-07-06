@@ -12,15 +12,18 @@ lng: -92.2000
 zipSample: ["72120", "72216", "72076", "72117"]
 zipCodes: ["72120", "72216", "72076", "72117"]
 localPaths: ["Pulaski County / ZIP 72120 sector", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72216 sector", "Pulaski County / coords 34.8500, -92.2000", "Pulaski County / primary ZIP 72120"]
-zillowHomeValueUsd: 235055
 ---
 
-**Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pulaski County.
 
+
+Plumbing service in Sherwood, AR, Pulaski County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Sherwood, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch packets reference county grid Pulaski County near ZIP 72120.
+Our Sherwood, AR service packets reference Pulaski County near ZIP 72120 for pipe and leak scope.
 
 Step: map sump float travel and check-valve orientation for Sherwood, AR basements.
 
@@ -34,7 +37,7 @@ Sewer gas odors in Sherwood, AR should trigger trap seal and vent path review.
 
 Trenchless pulls in Sherwood, AR require pit dimensions verified against utility locate marks.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Sherwood, AR, slab leaks can misroute as foundation issues without listening equipment.
 

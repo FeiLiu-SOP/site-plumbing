@@ -12,11 +12,14 @@ lng: -119.1800
 zipSample: ["93036", "93035", "93031", "93033", "93030"]
 zipCodes: ["93032", "93031", "93035", "93030", "93034", "93036", "93033"]
 localPaths: ["Ventura County / ZIP 93031 sector", "Ventura County / ZIP 93033 sector", "Ventura County / elevation 52 ft band", "Ventura County / primary ZIP 93035", "Ventura County / ZIP 93035 sector"]
-zillowHomeValueUsd: 906973
 ---
 
-**Engineering Notice for Oxnard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
+**Engineering Notice for Oxnard:** Supply line, cleanout, and water heater scope recorded at 52 ft elevation context (Ventura County).
 
+
+Emergency plumbing pro service in Oxnard, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Ventura County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Oxnard, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ventura County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

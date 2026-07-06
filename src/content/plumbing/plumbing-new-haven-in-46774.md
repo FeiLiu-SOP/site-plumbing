@@ -12,11 +12,14 @@ lng: -85.0200
 zipSample: ["46803", "46774"]
 zipCodes: ["46803", "46774"]
 localPaths: ["Allen County / ZIP 46774 sector", "Allen County / primary ZIP 46774", "Allen County / coords 41.0700, -85.0200", "Allen County / ZIP 46803 sector", "Allen County / elevation 771 ft band"]
-zillowHomeValueUsd: 245297
 ---
 
-**Engineering Notice for New Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allen County.
+**Engineering Notice for New Haven:** Emergency leak and drain triage uses ~137 mg/L hardness context with Allen County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in New Haven, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Qualified plumbing crews serving New Haven, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -26,11 +29,11 @@ Cast-iron hub corrosion in New Haven, IN often concentrates at the third joint u
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate New Haven, IN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate New Haven, IN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

@@ -12,11 +12,14 @@ lng: -122.1500
 zipSample: ["98208", "98296", "98012"]
 zipCodes: ["98208", "98012", "98296"]
 localPaths: ["Snohomish County / primary ZIP 98296", "Snohomish County / elevation 522 ft band", "Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8600, -122.1500", "Snohomish County / ZIP 98208 sector"]
-zillowHomeValueUsd: 1058987
 ---
 
-**Engineering Notice for Silver Firs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Silver Firs:** Supply line, cleanout, and water heater scope recorded at 522 ft elevation context (Snohomish County).
 
+
+Burst pipe and drain clog calls in Silver Firs, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Snohomish County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Silver Firs, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ Basement floor drains in Silver Firs, WA should be snaked only after trap arm ge
 Permit note: Main water line replacement in Silver Firs, WA may require ROW restoration planning.
 
 Intake ledger 527755: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Silver Firs, WA at 47.8600, -122.1500.
-
-plumbing brief: floor drain trap primer drip and meter pit clearance were cross-checked for the Silver Firs intake packet.
 
 Primary postal anchor 98296 with multi-ZIP overlap in Silver Firs; field packets tag Snohomish County for county-grid reconciliation.
 

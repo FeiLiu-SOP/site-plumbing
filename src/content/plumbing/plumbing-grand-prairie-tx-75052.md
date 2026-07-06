@@ -12,13 +12,16 @@ lng: -97.0200
 zipSample: ["75265", "75054", "75052", "75053", "75050"]
 zipCodes: ["75052", "75104", "75051", "75265", "75050", "75054", "75053"]
 localPaths: ["Dallas County / ZIP 75053 sector", "Dallas County / ZIP 75052 sector", "Dallas County / ZIP 75050 sector", "Dallas County / coords 32.6900, -97.0200", "Dallas County / elevation 535 ft band"]
-zillowHomeValueUsd: 324319
 ---
 
-**Engineering Notice for Grand Prairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Grand Prairie:** Supply line, cleanout, and water heater scope recorded at 535 ft elevation context (Dallas County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+Plumbing remediation in Grand Prairie, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Grand Prairie, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When should sump battery backups be load-tested? In Grand Prairie, TX, before spring thaw and hurricane remnants.
 
@@ -26,7 +29,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Grand Prairie, TX require pit shoring notes when wa
 Fixture roster 959912: toilet flange spacer kit and shower cartridge seat score queued for Grand Prairie, TX walk-through.
 
 Lineage note 959912: recirculation pump amp draw captured before Grand Prairie, TX branch isolation.
+
+Local service note: meter pit clearance paired with PEX expansion ring batch near ZIP 75052 for emergency qualified plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 32.6900, -97.0200 at elevation ~535 ft aligns with Dallas County intake staging.
 

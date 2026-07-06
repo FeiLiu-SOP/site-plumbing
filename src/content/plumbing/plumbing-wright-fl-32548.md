@@ -12,11 +12,14 @@ lng: -86.6400
 zipSample: ["32547", "32548"]
 zipCodes: ["32548", "32547"]
 localPaths: ["Okaloosa County / ZIP 32547 sector", "Okaloosa County / primary ZIP 32548", "Okaloosa County / coords 30.4400, -86.6400", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / elevation 56 ft band"]
-zillowHomeValueUsd: 338684
 ---
 
-**Engineering Notice for Wright:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Okaloosa County.
+**Engineering Notice for Wright:** Emergency leak and drain triage uses ~111 mg/L hardness context with Okaloosa County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Wright, FL, Okaloosa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Wright, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Okaloosa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Wright, FL may require ROW restoration planning.
 
@@ -38,7 +41,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 CPVC solvent weld times shift with ambient humidity during Wright, FL shoulder seasons.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Wright, FL hardness profiles.
 
@@ -47,8 +50,6 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Drain map 884440: camera-pass priority and expansion-tank pre-charge noted for Wright, FL postal sector 32548.
 
 Lineage note 884440: recirculation pump amp draw captured before Wright, FL branch isolation.
-
-Field routing: copper pinhole cluster paired with floor drain trap primer drip near ZIP 32548.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~56 ft across the Okaloosa County area. Coordinates: 30.4400, -86.6400. ZIP sample: 32547, 32548. Logistics priority: Serving residential sectors across Okaloosa County and north-east ZIP 32548 grid.
 

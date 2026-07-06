@@ -12,11 +12,14 @@ lng: -121.5600
 zipSample: ["95961"]
 zipCodes: ["95961"]
 localPaths: ["Yuba County / primary ZIP 95961", "Yuba County / ZIP 95961 sector", "Yuba County / coords 39.0800, -121.5600", "Yuba County / elevation 56 ft band"]
-zillowHomeValueUsd: 448237
 ---
 
-**Engineering Notice for Olivehurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yuba County.
+**Engineering Notice for Olivehurst:** Emergency leak and drain triage uses ~173 mg/L hardness context with Yuba County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Olivehurst, CA, Yuba County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Olivehurst, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 95961.
 
@@ -47,8 +50,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Fixture roster 290864: toilet flange spacer kit and shower cartridge seat score queued for Olivehurst, CA walk-through.
 
 Lineage note 290864: recirculation pump amp draw captured before Olivehurst, CA branch isolation.
-
-plumbing brief: copper pinhole cluster and dielectric union checklist were cross-checked for the Olivehurst intake packet.
 
 ZIP-corridor snapshot for Olivehurst, CA: sampled sectors include 95961; county routing grid remains Yuba County.
 

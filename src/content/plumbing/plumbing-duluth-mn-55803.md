@@ -12,11 +12,14 @@ lng: -92.1400
 zipSample: ["55816", "55807", "55811", "55803", "55804"]
 zipCodes: ["55803", "55816", "55802", "55811", "55807", "55806", "55815", "55812", "55805", "55804", "55808", "55810"]
 localPaths: ["St. Louis County / coords 46.7800, -92.1400", "St. Louis County / ZIP 55816 sector", "St. Louis County / ZIP 55807 sector", "St. Louis County / ZIP 55803 sector", "St. Louis County / elevation 1047 ft band"]
-zillowHomeValueUsd: 341379
 ---
 
-**Engineering Notice for Duluth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Duluth:** Supply line, cleanout, and water heater scope recorded at 1047 ft elevation context (St. Louis County).
 
+
+Emergency plumbing pro service in Duluth, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in St. Louis County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Duluth, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -26,7 +29,7 @@ Risk flag: Seasonal Duluth, MN irrigation cross-connections can mask domestic pr
 
 Stack vent offsets in Duluth, MN older duplexes can mask tub gurgle as a main-line failure.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hard water in Duluth, MN accelerates scale on PRV seats and heater elements.
 

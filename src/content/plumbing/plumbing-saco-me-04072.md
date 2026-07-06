@@ -12,11 +12,14 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / elevation 151 ft band", "York County / primary ZIP 04072", "York County / coords 43.5400, -70.4600", "York County / ZIP 04072 sector"]
-zillowHomeValueUsd: 520349
 ---
 
-**Engineering Notice for Saco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
+**Engineering Notice for Saco:** Emergency leak and drain triage uses ~165 mg/L hardness context with York County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Saco, ME, York County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Saco, ME, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Cleanout access limits in Saco, ME frequently extend drain cleaning duration.
 
@@ -48,7 +51,7 @@ Flow dossier 404751: branch wet-vent geometry and jetting nozzle envelope logged
 
 Fixture roster 404751: toilet flange spacer kit and shower cartridge seat score queued for Saco, ME walk-through.
 
-Scope trace: slab penetration sleeve seal plus backflow test cock orientation referenced in York County county grid review.
+Scope trace: slab penetration sleeve seal plus backflow test cock orientation referenced in York County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 43.5400, -70.4600 at elevation ~151 ft aligns with York County intake staging.
 

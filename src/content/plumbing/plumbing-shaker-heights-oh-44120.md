@@ -12,11 +12,14 @@ lng: -81.5500
 zipSample: ["44120", "44122"]
 zipCodes: ["44122", "44120"]
 localPaths: ["Cuyahoga County / elevation 1027 ft band", "Cuyahoga County / ZIP 44122 sector", "Cuyahoga County / ZIP 44120 sector", "Cuyahoga County / primary ZIP 44120", "Cuyahoga County / coords 41.4700, -81.5500"]
-zillowHomeValueUsd: 132995
 ---
 
-**Engineering Notice for Shaker Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Shaker Heights:** Emergency leak and drain triage uses ~119 mg/L hardness context with Cuyahoga County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Shaker Heights, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cuyahoga County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Shaker Heights, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Stack vent offsets in Shaker Heights, OH older duplexes can mask tub gurgle as a main-line failure.
 
@@ -46,7 +49,7 @@ Sump discharge freeze risk in Shaker Heights, OH should be reviewed before sprin
 
 Pressure trace 243201: meter-pit clearance and dielectric union checklist staged for Shaker Heights, OH near elevation 1027 ft.
 
-Scope trace: PEX expansion ring batch plus branch wet vent geometry referenced in Cuyahoga County county grid review.
+Scope trace: PEX expansion ring batch plus branch wet vent geometry referenced in Cuyahoga County drain and water line review.
 
 ZIP-corridor snapshot for Shaker Heights, OH: sampled sectors include 44122, 44120; county routing grid remains Cuyahoga County.
 

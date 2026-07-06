@@ -12,17 +12,20 @@ lng: -73.5900
 zipSample: ["11530", "11556", "11553", "11549", "11555"]
 zipCodes: ["11555", "11549", "11530", "11590", "11553", "11556"]
 localPaths: ["Nassau County / coords 40.7200, -73.5900", "Nassau County / ZIP 11553 sector", "Nassau County / ZIP 11530 sector", "Nassau County / ZIP 11549 sector", "Nassau County / primary ZIP 11549"]
-zillowHomeValueUsd: 661497
 ---
 
-**Engineering Notice for Uniondale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Uniondale:** Supply line, cleanout, and water heater scope recorded at 79 ft elevation context (Nassau County).
 
+
+When a main line backs up in Uniondale, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Uniondale, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Hydro-jetting in Uniondale, NY requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Frost-free sillcock failures in Uniondale, NY often trace to interior shutoff seats, not exterior stems.
 
@@ -40,9 +43,11 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 
 Risk flag: Seasonal Uniondale, NY irrigation cross-connections can mask domestic pressure loss.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Intake ledger 316475: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Uniondale, NY at 40.7200, -73.5900.
+
+Plumbing restoration brief: backflow test cock orientation and PRV outlet curve were cross-checked for the Uniondale pipe and leak scope.
 
 On-site sector marker: Nassau County / primary ZIP 11549 — logged for map parity and ZIP-corridor verification.
 

@@ -12,13 +12,16 @@ lng: -74.4400
 zipSample: ["07063", "07062", "07060"]
 zipCodes: ["07060", "07063", "07062"]
 localPaths: ["Somerset County / ZIP 07062 sector", "Somerset County / coords 40.6200, -74.4400", "Somerset County / ZIP 07063 sector", "Somerset County / elevation 85 ft band", "Somerset County / ZIP 07060 sector"]
-zillowHomeValueUsd: 498024
 ---
 
-**Engineering Notice for North Plainfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Somerset County.
+**Engineering Notice for North Plainfield:** Emergency leak and drain triage uses ~172 mg/L hardness context with Somerset County service-area notes for pipe and fixture repairs.
 
 
-We coordinate North Plainfield, NJ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Burst pipe and drain clog calls in North Plainfield, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Somerset County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving North Plainfield, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+We coordinate North Plainfield, NJ plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -49,6 +52,8 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Supply audit 947675: curb-stop orientation and hose-bib freeze flag reviewed for North Plainfield, NJ at coords 40.6200/-74.4400.
 
 Lineage note 947675: recirculation pump amp draw captured before North Plainfield, NJ branch isolation.
+
+Local service note: PEX expansion ring batch paired with copper pinhole cluster near ZIP 07062 for emergency plumbing pro repairs.
 
 On-site sector marker: Somerset County / ZIP 07063 sector — logged for map parity and ZIP-corridor verification.
 

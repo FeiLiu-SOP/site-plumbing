@@ -12,11 +12,14 @@ lng: -122.2800
 zipSample: ["98338"]
 zipCodes: ["98338"]
 localPaths: ["Pierce County / coords 47.0300, -122.2800", "Pierce County / primary ZIP 98338", "Pierce County / ZIP 98338 sector", "Pierce County / elevation 853 ft band"]
-zillowHomeValueUsd: 591878
 ---
 
-**Engineering Notice for Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
+**Engineering Notice for Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pierce County.
 
+
+Burst pipe and drain clog calls in Graham, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pierce County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Graham, WA, Pierce County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Sump discharge freeze risk in Graham, WA should be reviewed before spring thaw cycles.
 
@@ -43,8 +46,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Hydrostatic holds in Graham, WA slab circuits run overnight when listening mics show ambiguous hits.
 
 Pressure trace 725977: meter-pit clearance and dielectric union checklist staged for Graham, WA near elevation 853 ft.
-
-plumbing brief: toilet flange spacer kit and meter pit clearance were cross-checked for the Graham intake packet.
 
 On-site sector marker: Pierce County / elevation 853 ft band — logged for map parity and ZIP-corridor verification.
 

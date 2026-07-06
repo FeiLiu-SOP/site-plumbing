@@ -12,11 +12,14 @@ lng: -89.4400
 zipSample: ["53597"]
 zipCodes: ["53597"]
 localPaths: ["Dane County / elevation 899 ft band", "Dane County / ZIP 53597 sector", "Dane County / primary ZIP 53597", "Dane County / coords 43.1800, -89.4400"]
-zillowHomeValueUsd: 597399
 ---
 
-**Engineering Notice for Waunakee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
+**Engineering Notice for Waunakee:** Supply line, cleanout, and water heater scope recorded at 899 ft elevation context (Dane County).
 
+
+Emergency plumbing technician service in Waunakee, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Dane County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Waunakee, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dane County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -47,8 +50,6 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Drain map 604192: camera-pass priority and expansion-tank pre-charge noted for Waunakee, WI postal sector 53597.
 
 Flow dossier 604192: branch wet-vent geometry and jetting nozzle envelope logged for Waunakee, WI county grid Dane County (ZIP 53597).
-
-Field routing: water heater T&P path paired with gas water heater draft hood gap near ZIP 53597.
 
 On-site sector marker: Dane County / coords 43.1800, -89.4400 — logged for map parity and ZIP-corridor verification.
 

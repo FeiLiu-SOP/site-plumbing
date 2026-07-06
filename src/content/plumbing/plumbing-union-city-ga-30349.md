@@ -12,11 +12,14 @@ lng: -84.5600
 zipSample: ["30213", "30291", "30349", "31192"]
 zipCodes: ["31192", "30349", "30213", "30291"]
 localPaths: ["Fulton County / ZIP 31192 sector", "Fulton County / ZIP 30349 sector", "Fulton County / ZIP 30291 sector", "Fulton County / elevation 981 ft band", "Fulton County / ZIP 30213 sector"]
-zillowHomeValueUsd: 251869
 ---
 
-**Engineering Notice for Union City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Union City:** Emergency leak and drain triage uses ~179 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Union City, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Union City, GA, Fulton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Union City, GA irrigation zones need backflow logs before line replacement.
 
@@ -24,7 +27,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Union City, GA
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch packets reference county grid Fulton County near ZIP 30349.
+Our Union City, GA service packets reference Fulton County near ZIP 30349 for pipe and leak scope.
 
 Trenchless sleeve pulls near Union City, GA require pit shoring notes when water tables are high.
 

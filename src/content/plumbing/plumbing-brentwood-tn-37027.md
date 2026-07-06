@@ -12,11 +12,14 @@ lng: -86.7800
 zipSample: ["37027", "37024"]
 zipCodes: ["37024", "37027"]
 localPaths: ["Williamson County / coords 35.9900, -86.7800", "Williamson County / elevation 735 ft band", "Williamson County / ZIP 37024 sector", "Williamson County / ZIP 37027 sector", "Williamson County / primary ZIP 37027"]
-zillowHomeValueUsd: 1222867
 ---
 
-**Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
+**Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Williamson County.
 
+
+Burst pipe and drain clog calls in Brentwood, TN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Williamson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Brentwood, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -36,7 +39,7 @@ Across Brentwood, TN, main-line bellies can trap debris even when fixtures drain
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Permit note: Main water line replacement in Brentwood, TN may require ROW restoration planning.
 

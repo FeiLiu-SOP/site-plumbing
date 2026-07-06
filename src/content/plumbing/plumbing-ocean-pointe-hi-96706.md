@@ -12,11 +12,14 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / ZIP 96706 sector", "Honolulu County / elevation 30 ft band", "Honolulu County / coords 21.3100, -158.0300", "Honolulu County / primary ZIP 96706"]
-zillowHomeValueUsd: 830557
 ---
 
-**Engineering Notice for Ocean Pointe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Ocean Pointe:** Emergency leak and drain triage uses ~145 mg/L hardness context with Honolulu County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Ocean Pointe, HI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Ocean Pointe, HI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Ocean Pointe, HI.
 
@@ -28,7 +31,7 @@ Material note: Water heater anode type may change with Ocean Pointe, HI hardness
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

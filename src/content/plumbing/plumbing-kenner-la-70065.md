@@ -12,11 +12,14 @@ lng: -90.2500
 zipSample: ["70062", "70063", "70065", "70064", "70141"]
 zipCodes: ["70097", "70064", "70065", "70062", "70141", "70063"]
 localPaths: ["Jefferson Parish / ZIP 70063 sector", "Jefferson Parish / primary ZIP 70065", "Jefferson Parish / ZIP 70141 sector", "Jefferson Parish / elevation 0 ft band", "Jefferson Parish / ZIP 70062 sector"]
-zillowHomeValueUsd: 282389
 ---
 
-**Engineering Notice for Kenner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Kenner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson Parish.
 
+
+Plumbing service in Kenner, LA, Jefferson Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Kenner, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson Parish clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Kenner, LA systems need rebalancing.
 
@@ -45,8 +48,6 @@ Risk flag: Seasonal Kenner, LA irrigation cross-connections can mask domestic pr
 Pressure trace 869763: meter-pit clearance and dielectric union checklist staged for Kenner, LA near elevation 0 ft.
 
 Lineage note 869763: recirculation pump amp draw captured before Kenner, LA branch isolation.
-
-Scope trace: floor drain trap primer drip plus cleanout riser height referenced in Jefferson Parish county grid review.
 
 On-site sector marker: Jefferson Parish / ZIP 70065 sector — logged for map parity and ZIP-corridor verification.
 

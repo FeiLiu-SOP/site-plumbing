@@ -12,11 +12,14 @@ lng: -83.2600
 zipSample: ["48075", "48033", "48076", "48086", "48037"]
 zipCodes: ["48037", "48034", "48075", "48033", "48076", "48086"]
 localPaths: ["Oakland County / ZIP 48086 sector", "Oakland County / ZIP 48076 sector", "Oakland County / ZIP 48033 sector", "Oakland County / ZIP 48075 sector", "Oakland County / primary ZIP 48033"]
-zillowHomeValueUsd: 223539
 ---
 
-**Engineering Notice for Southfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Southfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Oakland County.
 
+
+Burst pipe and drain clog calls in Southfield, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Southfield, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Basement floor drains in Southfield, MI should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -38,9 +41,9 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
-Dispatch packets reference county grid Oakland County near ZIP 48033.
+Our Southfield, MI service packets reference Oakland County near ZIP 48033 for pipe and leak scope.
 
 Lineage note 941898: recirculation pump amp draw captured before Southfield, MI branch isolation.
 

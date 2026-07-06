@@ -12,11 +12,14 @@ lng: -86.1500
 zipSample: ["46226", "46231", "46234", "46221", "46260"]
 zipCodes: ["46228", "46250", "46255", "46224", "46282", "46262", "46205", "46225", "46234", "46268", "46253", "46217"]
 localPaths: ["Marion County / ZIP 46221 sector", "Marion County / ZIP 46234 sector", "Marion County / ZIP 46231 sector", "Marion County / ZIP 46226 sector", "Marion County / primary ZIP 46234"]
-zillowHomeValueUsd: 279539
 ---
 
-**Engineering Notice for Indianapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Indianapolis:** Supply line, cleanout, and water heater scope recorded at 719 ft elevation context (Marion County).
 
+
+Emergency plumbing technician service in Indianapolis, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Marion County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Indianapolis, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -42,11 +45,11 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Risk flag: In Indianapolis, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Flow dossier 802103: branch wet-vent geometry and jetting nozzle envelope logged for Indianapolis, IN county grid Marion County (ZIP 46234).
 
-Field routing: hose bib freeze flag paired with fixture shutoff torque log near ZIP 46234.
+Local service note: hose bib freeze flag paired with fixture shutoff torque log near ZIP 46234 for emergency plumbing technician repairs.
 
 On-site sector marker: Marion County / primary ZIP 46234 — logged for map parity and ZIP-corridor verification.
 

@@ -12,21 +12,24 @@ lng: -79.9600
 zipSample: ["24013", "24024", "24026", "24025", "24002"]
 zipCodes: ["24023", "24015", "24025", "24008", "24017", "24003", "24030", "24001", "24035", "24027", "24029", "24005"]
 localPaths: ["Roanoke County / ZIP 24026 sector", "Roanoke County / ZIP 24013 sector", "Roanoke County / coords 37.2800, -79.9600", "Roanoke County / elevation 971 ft band", "Roanoke County / ZIP 24002 sector"]
-zillowHomeValueUsd: 306193
 ---
 
-**Engineering Notice for Roanoke:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Roanoke:** Supply line, cleanout, and water heater scope recorded at 971 ft elevation context (Roanoke County).
 
+
+When a main line backs up in Roanoke, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in Roanoke, VA, Roanoke County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: map sump float travel and check-valve orientation for Roanoke, VA basements.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Dual-water-meter setups in Roanoke, VA irrigation zones need backflow logs before line replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -46,7 +49,7 @@ Lineage note 626857: recirculation pump amp draw captured before Roanoke, VA bra
 
 Intake ledger 626857: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roanoke, VA at 37.2800, -79.9600.
 
-Field routing: backflow test cock orientation paired with recirculation pump amp draw near ZIP 24019.
+Local service note: backflow test cock orientation paired with recirculation pump amp draw near ZIP 24019 for emergency certified plumber repairs.
 
 On-site sector marker: Roanoke County / elevation 971 ft band — logged for map parity and ZIP-corridor verification.
 

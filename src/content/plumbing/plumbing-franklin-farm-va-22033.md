@@ -12,11 +12,14 @@ lng: -77.4000
 zipSample: ["20171", "22033"]
 zipCodes: ["20171", "22033"]
 localPaths: ["Fairfax County / coords 38.9100, -77.4000", "Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 20171 sector", "Fairfax County / ZIP 22033 sector", "Fairfax County / elevation 374 ft band"]
-zillowHomeValueUsd: 711141
 ---
 
-**Engineering Notice for Franklin Farm:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franklin Farm:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fairfax County.
 
+
+When a main line backs up in Franklin Farm, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Franklin Farm, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Franklin Farm, VA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Franklin Farm, VA may require ROW re
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Supply audit 801605: curb-stop orientation and hose-bib freeze flag reviewed for Franklin Farm, VA at coords 38.9100/-77.4000.
-
-Scope trace: shower cartridge seat score plus fixture shutoff torque log referenced in Fairfax County county grid review.
 
 On-site sector marker: Fairfax County / coords 38.9100, -77.4000 — logged for map parity and ZIP-corridor verification.
 

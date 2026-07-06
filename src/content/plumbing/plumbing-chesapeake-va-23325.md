@@ -12,11 +12,14 @@ lng: -76.3000
 zipSample: ["23321", "23328", "23325", "23322", "23320"]
 zipCodes: ["23328", "23323", "23327", "23325", "23321", "23320", "23322", "23326", "23324"]
 localPaths: ["Chesapeake County / ZIP 23321 sector", "Chesapeake County / ZIP 23322 sector", "Chesapeake County / ZIP 23320 sector", "Chesapeake County / primary ZIP 23325", "Chesapeake County / coords 36.6800, -76.3000"]
-zillowHomeValueUsd: 321705
 ---
 
-**Engineering Notice for Chesapeake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chesapeake County.
+**Engineering Notice for Chesapeake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Chesapeake County.
 
+
+Plumbing service in Chesapeake, VA, Chesapeake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Chesapeake, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 

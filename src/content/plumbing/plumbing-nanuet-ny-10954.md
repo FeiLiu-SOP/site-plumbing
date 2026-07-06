@@ -12,11 +12,14 @@ lng: -74.0200
 zipSample: ["10954"]
 zipCodes: ["10954"]
 localPaths: ["Rockland County / coords 41.1000, -74.0200", "Rockland County / ZIP 10954 sector", "Rockland County / elevation 322 ft band", "Rockland County / primary ZIP 10954"]
-zillowHomeValueUsd: 625983
 ---
 
-**Engineering Notice for Nanuet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.
+**Engineering Notice for Nanuet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Rockland County.
 
+
+Emergency plumbing pro service in Nanuet, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Rockland County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing remediation in Nanuet, NY, Rockland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Irrigation cross-connections in Nanuet, NY can back-siphon domestic lines during main breaks.
 
@@ -24,7 +27,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Branch wet vents in Nanuet, NY can mask gurgling as a main-line issue.
 
@@ -49,8 +52,6 @@ Stack vent offsets in Nanuet, NY older duplexes can mask tub gurgle as a main-li
 Intake ledger 831873: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Nanuet, NY at 41.1000, -74.0200.
 
 Pressure trace 831873: meter-pit clearance and dielectric union checklist staged for Nanuet, NY near elevation 322 ft.
-
-Scope trace: toilet flange spacer kit plus fixture shutoff torque log referenced in Rockland County county grid review.
 
 On-site sector marker: Rockland County / coords 41.1000, -74.0200 — logged for map parity and ZIP-corridor verification.
 

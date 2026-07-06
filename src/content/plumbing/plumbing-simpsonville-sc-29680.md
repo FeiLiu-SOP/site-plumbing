@@ -12,11 +12,14 @@ lng: -82.2600
 zipSample: ["29680", "29681"]
 zipCodes: ["29680", "29681"]
 localPaths: ["Greenville County / ZIP 29680 sector", "Greenville County / coords 34.7300, -82.2600", "Greenville County / elevation 889 ft band", "Greenville County / ZIP 29681 sector", "Greenville County / primary ZIP 29680"]
-zillowHomeValueUsd: 343600
 ---
 
-**Engineering Notice for Simpsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
+**Engineering Notice for Simpsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Greenville County.
 
+
+Qualified plumbing crews serving Simpsonville, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Simpsonville, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenville County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -43,6 +46,8 @@ Trenchless sleeve pulls near Simpsonville, SC require pit shoring notes when wat
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
 Drain map 625756: camera-pass priority and expansion-tank pre-charge noted for Simpsonville, SC postal sector 29680.
+
+Scope trace: gas water heater draft hood gap plus PEX expansion ring batch referenced in Greenville County drain and water line review.
 
 On-site sector marker: Greenville County / primary ZIP 29680 — logged for map parity and ZIP-corridor verification.
 

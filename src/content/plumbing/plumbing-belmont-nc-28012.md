@@ -12,11 +12,14 @@ lng: -81.0400
 zipSample: ["28012"]
 zipCodes: ["28012"]
 localPaths: ["Gaston County / coords 35.2200, -81.0400", "Gaston County / primary ZIP 28012", "Gaston County / elevation 709 ft band", "Gaston County / ZIP 28012 sector"]
-zillowHomeValueUsd: 418766
 ---
 
-**Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gaston County.
+**Engineering Notice for Belmont:** Supply line, cleanout, and water heater scope recorded at 709 ft elevation context (Gaston County).
 
+
+Burst pipe and drain clog calls in Belmont, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gaston County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Belmont, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Gaston County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless pulls in Belmont, NC require pit dimensions verified against utility locate marks.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Belmont, NC require pit shoring notes when water ta
 Drain map 518639: camera-pass priority and expansion-tank pre-charge noted for Belmont, NC postal sector 28012.
 
 Pressure trace 518639: meter-pit clearance and dielectric union checklist staged for Belmont, NC near elevation 709 ft.
+
+Local service note: copper pinhole cluster paired with branch wet vent geometry near ZIP 28012 for emergency qualified plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 35.2200, -81.0400 at elevation ~709 ft aligns with Gaston County intake staging.
 

@@ -12,11 +12,14 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / elevation 883 ft band", "Polk County / primary ZIP 50325", "Polk County / ZIP 50325 sector", "Polk County / coords 41.6100, -93.8000"]
-zillowHomeValueUsd: 428787
 ---
 
-**Engineering Notice for Clive:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for Clive:** Supply line, cleanout, and water heater scope recorded at 883 ft elevation context (Polk County).
 
+
+Licensed plumbing crews serving Clive, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Clive, IA, Polk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 

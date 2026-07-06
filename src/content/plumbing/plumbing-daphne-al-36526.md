@@ -12,11 +12,14 @@ lng: -87.8800
 zipSample: ["36526"]
 zipCodes: ["36526"]
 localPaths: ["Baldwin County / primary ZIP 36526", "Baldwin County / coords 30.6300, -87.8800", "Baldwin County / ZIP 36526 sector", "Baldwin County / elevation 125 ft band"]
-zillowHomeValueUsd: 326665
 ---
 
-**Engineering Notice for Daphne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Daphne:** Emergency leak and drain triage uses ~136 mg/L hardness context with Baldwin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Daphne, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baldwin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Daphne, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Recirculation pump failures in Daphne, AL can mimic fixture-specific clogs.
 
@@ -47,8 +50,6 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 Flow dossier 253497: branch wet-vent geometry and jetting nozzle envelope logged for Daphne, AL county grid Baldwin County (ZIP 36526).
 
 Lineage note 253497: recirculation pump amp draw captured before Daphne, AL branch isolation.
-
-plumbing brief: water heater T&P path and dielectric union checklist were cross-checked for the Daphne intake packet.
 
 On-site sector marker: Baldwin County / primary ZIP 36526 — logged for map parity and ZIP-corridor verification.
 

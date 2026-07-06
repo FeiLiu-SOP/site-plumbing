@@ -12,15 +12,18 @@ lng: -80.1700
 zipSample: ["33181", "33161", "33167", "33160", "33261"]
 zipCodes: ["33160", "33167", "33168", "33181", "33261", "33161"]
 localPaths: ["Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33181 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9000, -80.1700", "Miami-Dade County / ZIP 33167 sector"]
-zillowHomeValueUsd: 462273
 ---
 
-**Engineering Notice for North Miami:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for North Miami:** Emergency leak and drain triage uses ~123 mg/L hardness context with Miami-Dade County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in North Miami, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in North Miami, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with North Miami, FL hardness profiles.
 
@@ -45,6 +48,8 @@ Trenchless sleeve pulls near North Miami, FL require pit shoring notes when wate
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Lineage note 776177: recirculation pump amp draw captured before North Miami, FL branch isolation.
+
+Plumbing service brief: thermal expansion loop check and sewer cleanout cap thread were cross-checked for the North Miami pipe and leak scope.
 
 On-site sector marker: Miami-Dade County / ZIP 33160 sector — logged for map parity and ZIP-corridor verification.
 

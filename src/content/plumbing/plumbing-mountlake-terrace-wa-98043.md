@@ -12,13 +12,16 @@ lng: -122.3100
 zipSample: ["98043"]
 zipCodes: ["98043"]
 localPaths: ["Snohomish County / coords 47.7900, -122.3100", "Snohomish County / elevation 495 ft band", "Snohomish County / primary ZIP 98043", "Snohomish County / ZIP 98043 sector"]
-zillowHomeValueUsd: 699217
 ---
 
-**Engineering Notice for Mountlake Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mountlake Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Snohomish County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Mountlake Terrace, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Snohomish County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Mountlake Terrace, WA, Snohomish County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

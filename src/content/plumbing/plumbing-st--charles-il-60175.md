@@ -12,11 +12,14 @@ lng: -88.3100
 zipSample: ["60174", "60175"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / ZIP 60175 sector", "Kane County / elevation 768 ft band", "Kane County / ZIP 60174 sector", "Kane County / primary ZIP 60175", "Kane County / coords 41.9200, -88.3100"]
-zillowHomeValueUsd: 624848
 ---
 
-**Engineering Notice for St. Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for St. Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kane County.
 
+
+Burst pipe and drain clog calls in St. Charles, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kane County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in St. Charles, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

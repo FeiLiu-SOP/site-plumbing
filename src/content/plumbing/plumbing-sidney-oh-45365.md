@@ -12,11 +12,14 @@ lng: -84.1700
 zipSample: ["45365", "45367"]
 zipCodes: ["45367", "45365"]
 localPaths: ["Shelby County / elevation 1043 ft band", "Shelby County / coords 40.2900, -84.1700", "Shelby County / primary ZIP 45365", "Shelby County / ZIP 45367 sector", "Shelby County / ZIP 45365 sector"]
-zillowHomeValueUsd: 211318
 ---
 
-**Engineering Notice for Sidney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Sidney:** Supply line, cleanout, and water heater scope recorded at 1043 ft elevation context (Shelby County).
 
+
+Plumbing remediation in Sidney, OH, Shelby County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Sidney, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

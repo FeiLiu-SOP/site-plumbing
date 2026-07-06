@@ -12,11 +12,14 @@ lng: -84.4700
 zipSample: ["30214", "30215"]
 zipCodes: ["30215", "30214"]
 localPaths: ["Fayette County / primary ZIP 30215", "Fayette County / elevation 883 ft band", "Fayette County / ZIP 30214 sector", "Fayette County / coords 33.4500, -84.4700", "Fayette County / ZIP 30215 sector"]
-zillowHomeValueUsd: 491814
 ---
 
-**Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fayette County.
+**Engineering Notice for Fayetteville:** Supply line, cleanout, and water heater scope recorded at 883 ft elevation context (Fayette County).
 
+
+Plumbing restoration in Fayetteville, GA, Fayette County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Fayetteville, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Fayette County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: When is cabling enough? In Fayetteville, GA, pipe material and blockage type dictate method.
 
@@ -49,8 +52,6 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Drain map 680603: camera-pass priority and expansion-tank pre-charge noted for Fayetteville, GA postal sector 30215.
 
 Intake ledger 680603: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fayetteville, GA at 33.4500, -84.4700.
-
-Scope trace: fixture shutoff torque log plus PEX expansion ring batch referenced in Fayette County county grid review.
 
 Coordinate-anchored dispatch note: center reference 33.4500, -84.4700 at elevation ~883 ft aligns with Fayette County intake staging.
 

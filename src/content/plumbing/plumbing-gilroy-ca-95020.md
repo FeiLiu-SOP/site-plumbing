@@ -12,11 +12,14 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / elevation 210 ft band", "Santa Clara County / primary ZIP 95020", "Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900"]
-zillowHomeValueUsd: 1080100
 ---
 
-**Engineering Notice for Gilroy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Gilroy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Santa Clara County.
 
+
+When a main line backs up in Gilroy, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Gilroy, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Clara County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near Gilroy, CA require pit shoring notes when water tables are high.
 
@@ -45,8 +48,6 @@ CPVC solvent weld times shift with ambient humidity during Gilroy, CA shoulder s
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 95020.
 
 Intake ledger 417831: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Gilroy, CA at 37.0000, -121.5900.
-
-plumbing brief: jetter nozzle envelope and PEX expansion ring batch were cross-checked for the Gilroy intake packet.
 
 ZIP-corridor snapshot for Gilroy, CA: sampled sectors include 95020; county routing grid remains Santa Clara County.
 

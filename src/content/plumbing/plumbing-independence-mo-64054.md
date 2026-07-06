@@ -12,11 +12,14 @@ lng: -94.3500
 zipSample: ["64056", "64016", "64015", "64052", "64055"]
 zipCodes: ["64050", "64054", "64051", "64055", "64015", "64056", "64053", "64052", "64016", "64057"]
 localPaths: ["Jackson County / primary ZIP 64054", "Jackson County / elevation 869 ft band", "Jackson County / ZIP 64015 sector", "Jackson County / ZIP 64055 sector", "Jackson County / coords 39.0900, -94.3500"]
-zillowHomeValueUsd: 159672
 ---
 
-**Engineering Notice for Independence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Independence:** Emergency leak and drain triage uses ~124 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Independence, MO, Jackson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Independence, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Jackson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -49,8 +52,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Flow dossier 420776: branch wet-vent geometry and jetting nozzle envelope logged for Independence, MO county grid Jackson County (ZIP 64054).
 
 Intake ledger 420776: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Independence, MO at 39.0900, -94.3500.
-
-Scope trace: dielectric union checklist plus floor drain trap primer drip referenced in Jackson County county grid review.
 
 On-site sector marker: Jackson County / ZIP 64015 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -79.0400
 zipSample: ["29528", "29527", "29526"]
 zipCodes: ["29528", "29526", "29527"]
 localPaths: ["Horry County / coords 33.8400, -79.0400", "Horry County / ZIP 29528 sector", "Horry County / elevation 39 ft band", "Horry County / ZIP 29527 sector", "Horry County / primary ZIP 29527"]
-zillowHomeValueUsd: 259493
 ---
 
-**Engineering Notice for Conway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.
+**Engineering Notice for Conway:** Supply line, cleanout, and water heater scope recorded at 39 ft elevation context (Horry County).
 
+
+Burst pipe and drain clog calls in Conway, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Horry County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Conway, SC, Horry County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -47,6 +50,8 @@ Basement floor drains in Conway, SC should be snaked only after trap arm geometr
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
 Flow dossier 397893: branch wet-vent geometry and jetting nozzle envelope logged for Conway, SC county grid Horry County (ZIP 29527).
+
+Local service note: branch wet vent geometry paired with sump float travel near ZIP 29527 for emergency plumbing technician repairs.
 
 Coordinate-anchored dispatch note: center reference 33.8400, -79.0400 at elevation ~39 ft aligns with Horry County intake staging.
 

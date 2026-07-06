@@ -12,11 +12,14 @@ lng: -74.1600
 zipSample: ["07506"]
 zipCodes: ["07506"]
 localPaths: ["Passaic County / elevation 89 ft band", "Passaic County / primary ZIP 07506", "Passaic County / coords 40.9600, -74.1600", "Passaic County / ZIP 07506 sector"]
-zillowHomeValueUsd: 628605
 ---
 
-**Engineering Notice for Hawthorne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.
+**Engineering Notice for Hawthorne:** Emergency leak and drain triage uses ~143 mg/L hardness context with Passaic County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Hawthorne, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Hawthorne, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Passaic County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Cleanout access limits in Hawthorne, NJ frequently extend drain cleaning duration.
 

@@ -12,11 +12,14 @@ lng: -69.6600
 zipSample: ["04901", "04903"]
 zipCodes: ["04903", "04901"]
 localPaths: ["Kennebec County / ZIP 04901 sector", "Kennebec County / primary ZIP 04901", "Kennebec County / elevation 249 ft band", "Kennebec County / ZIP 04903 sector", "Kennebec County / coords 44.5400, -69.6600"]
-zillowHomeValueUsd: 264554
 ---
 
-**Engineering Notice for Waterville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kennebec County.
+**Engineering Notice for Waterville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kennebec County.
 
+
+Certified plumbing crews serving Waterville, ME review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Waterville, ME, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -32,7 +35,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Risk flag: Seasonal Waterville, ME irrigation cross-connections can mask domestic pressure loss.
 
-We coordinate Waterville, ME plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Waterville, ME plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Hard water in Waterville, ME accelerates scale on PRV seats and heater elements.
 
@@ -45,8 +48,6 @@ Hydro-jetting in Waterville, ME requires camera confirmation before nozzle press
 Technicians log static and dynamic pressure before opening any wall access panel.
 
 Fixture roster 751166: toilet flange spacer kit and shower cartridge seat score queued for Waterville, ME walk-through.
-
-Field routing: shower cartridge seat score paired with recirculation pump amp draw near ZIP 04901.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~249 ft across the Kennebec County area. Coordinates: 44.5400, -69.6600. ZIP sample: 04903, 04901. Regional routing note: Kennebec County traffic flow is balanced around ZIP 04901 service demand.
 

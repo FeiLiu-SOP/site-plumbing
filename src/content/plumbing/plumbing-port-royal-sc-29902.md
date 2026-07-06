@@ -12,11 +12,14 @@ lng: -80.7000
 zipSample: ["29906", "29935", "29905", "29902"]
 zipCodes: ["29935", "29905", "29902", "29906"]
 localPaths: ["Beaufort County / ZIP 29905 sector", "Beaufort County / ZIP 29935 sector", "Beaufort County / elevation 3 ft band", "Beaufort County / ZIP 29906 sector", "Beaufort County / coords 32.3600, -80.7000"]
-zillowHomeValueUsd: 418943
 ---
 
-**Engineering Notice for Port Royal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Beaufort County.
+**Engineering Notice for Port Royal:** Emergency leak and drain triage uses ~134 mg/L hardness context with Beaufort County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Port Royal, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Port Royal, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Beaufort County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

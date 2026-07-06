@@ -12,11 +12,14 @@ lng: -88.2900
 zipSample: ["60505", "60507", "60568", "60503", "60519"]
 zipCodes: ["60598", "60507", "60502", "60506", "60569", "60503", "60519", "60599", "60505", "60572", "60504", "60568"]
 localPaths: ["Kane County / ZIP 60519 sector", "Kane County / elevation 728 ft band", "Kane County / ZIP 60503 sector", "Kane County / ZIP 60505 sector", "Kane County / primary ZIP 60505"]
-zillowHomeValueUsd: 243441
 ---
 
-**Engineering Notice for Aurora:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for Aurora:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kane County.
 
+
+Burst pipe and drain clog calls in Aurora, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kane County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Aurora, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Kane County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Aurora, IL.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Aurora, IL can back-siphon domestic lines during
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Lineage note 168048: recirculation pump amp draw captured before Aurora, IL branch isolation.
-
-Field routing: scale coupon sampling paired with PRV outlet curve near ZIP 60505.
 
 On-site sector marker: Kane County / ZIP 60569 sector — logged for map parity and ZIP-corridor verification.
 

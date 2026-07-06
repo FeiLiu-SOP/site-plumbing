@@ -12,11 +12,14 @@ lng: -96.7300
 zipSample: ["57109", "57117", "57110", "57193", "57107"]
 zipCodes: ["57105", "57107", "57197", "57110", "57103", "57109", "57108", "57101", "57106", "57186", "57117", "57193"]
 localPaths: ["Minnehaha County / ZIP 57117 sector", "Minnehaha County / ZIP 57193 sector", "Minnehaha County / ZIP 57110 sector", "Minnehaha County / elevation 1467 ft band", "Minnehaha County / coords 43.5400, -96.7300"]
-zillowHomeValueUsd: 434356
 ---
 
-**Engineering Notice for Sioux Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Minnehaha County.
+**Engineering Notice for Sioux Falls:** Supply line, cleanout, and water heater scope recorded at 1467 ft elevation context (Minnehaha County).
 
+
+Licensed plumbing crews serving Sioux Falls, SD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Sioux Falls, SD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Minnehaha County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

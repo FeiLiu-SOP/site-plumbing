@@ -12,11 +12,14 @@ lng: -117.9500
 zipSample: ["90631", "90633", "90632"]
 zipCodes: ["90632", "90633", "90631"]
 localPaths: ["Orange County / coords 33.9300, -117.9500", "Orange County / primary ZIP 90631", "Orange County / ZIP 90633 sector", "Orange County / ZIP 90631 sector", "Orange County / elevation 279 ft band"]
-zillowHomeValueUsd: 942849
 ---
 
-**Engineering Notice for La Habra:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for La Habra:** Emergency leak and drain triage uses ~135 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in La Habra, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving La Habra, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -46,7 +49,7 @@ Intake ledger 468113: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 468113: recirculation pump amp draw captured before La Habra, CA branch isolation.
 
-Scope trace: scale coupon sampling plus slab leak listening window referenced in Orange County county grid review.
+Scope trace: scale coupon sampling plus slab leak listening window referenced in Orange County drain and water line review.
 
 **Regional Infrastructure Brief:** Grid anchor set to Orange County. Reference elevation: 279 ft. Primary coordinates: 33.9300, -117.9500. ZIP sample: 90633, 90631, 90632. Logistics priority: Serving residential sectors across Orange County and north-east ZIP 90631 grid.
 

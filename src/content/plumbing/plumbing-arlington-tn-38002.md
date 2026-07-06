@@ -12,11 +12,14 @@ lng: -89.6700
 zipSample: ["38002", "38028"]
 zipCodes: ["38002", "38028"]
 localPaths: ["Shelby County / ZIP 38002 sector", "Shelby County / coords 35.2600, -89.6700", "Shelby County / ZIP 38028 sector", "Shelby County / primary ZIP 38002", "Shelby County / elevation 302 ft band"]
-zillowHomeValueUsd: 407824
 ---
 
-**Engineering Notice for Arlington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Arlington:** Supply line, cleanout, and water heater scope recorded at 302 ft elevation context (Shelby County).
 
+
+Emergency licensed plumber service in Arlington, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Shelby County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Arlington, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
@@ -30,7 +33,7 @@ Permit note: Main water line replacement in Arlington, TN may require ROW restor
 
 Across Arlington, TN, main-line bellies can trap debris even when fixtures drain normally.
 
-Dispatch packets reference county grid Shelby County near ZIP 38002.
+Our Arlington, TN service packets reference Shelby County near ZIP 38002 for pipe and leak scope.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 

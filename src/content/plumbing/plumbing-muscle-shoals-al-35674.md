@@ -12,11 +12,14 @@ lng: -87.6300
 zipSample: ["35661", "35674", "35662"]
 zipCodes: ["35662", "35661", "35674"]
 localPaths: ["Colbert County / ZIP 35662 sector", "Colbert County / ZIP 35661 sector", "Colbert County / elevation 535 ft band", "Colbert County / primary ZIP 35674", "Colbert County / ZIP 35674 sector"]
-zillowHomeValueUsd: 200163
 ---
 
-**Engineering Notice for Muscle Shoals:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Colbert County.
+**Engineering Notice for Muscle Shoals:** Supply line, cleanout, and water heater scope recorded at 535 ft elevation context (Colbert County).
 
+
+Burst pipe and drain clog calls in Muscle Shoals, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Colbert County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Muscle Shoals, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -32,21 +35,19 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Basement floor drains in Muscle Shoals, AL should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch packets reference county grid Colbert County near ZIP 35674.
+Our Muscle Shoals, AL service packets reference Colbert County near ZIP 35674 for pipe and leak scope.
 
 Recirculation pump failures in Muscle Shoals, AL can mimic fixture-specific clogs.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Muscle Shoals, AL.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Muscle Shoals, AL systems need rebalancing.
 
 In Muscle Shoals, AL, slab leaks often present as warm spots before wall stains appear.
 
 Flow dossier 578397: branch wet-vent geometry and jetting nozzle envelope logged for Muscle Shoals, AL county grid Colbert County (ZIP 35674).
-
-Field routing: cleanout riser height paired with slab leak listening window near ZIP 35674.
 
 On-site sector marker: Colbert County / coords 34.7400, -87.6300 — logged for map parity and ZIP-corridor verification.
 

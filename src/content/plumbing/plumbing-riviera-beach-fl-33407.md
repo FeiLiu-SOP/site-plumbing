@@ -12,15 +12,18 @@ lng: -80.0700
 zipSample: ["33404", "33407", "33419"]
 zipCodes: ["33419", "33404", "33407"]
 localPaths: ["Palm Beach County / primary ZIP 33407", "Palm Beach County / ZIP 33419 sector", "Palm Beach County / ZIP 33407 sector", "Palm Beach County / coords 26.7800, -80.0700", "Palm Beach County / elevation 30 ft band"]
-zillowHomeValueUsd: 347020
 ---
 
-**Engineering Notice for Riviera Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Riviera Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Palm Beach County.
 
+
+Burst pipe and drain clog calls in Riviera Beach, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Palm Beach County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Riviera Beach, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Palm Beach County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Sump discharge freeze risk in Riviera Beach, FL should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -49,6 +52,8 @@ Risk flag: Seasonal Riviera Beach, FL irrigation cross-connections can mask dome
 Fixture roster 540568: toilet flange spacer kit and shower cartridge seat score queued for Riviera Beach, FL walk-through.
 
 Lineage note 540568: recirculation pump amp draw captured before Riviera Beach, FL branch isolation.
+
+Scope trace: floor drain trap primer drip plus shower cartridge seat score referenced in Palm Beach County drain and water line review.
 
 ZIP-corridor snapshot for Riviera Beach, FL: sampled sectors include 33404, 33419, 33407; county routing grid remains Palm Beach County.
 

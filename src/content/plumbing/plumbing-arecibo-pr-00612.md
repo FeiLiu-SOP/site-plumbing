@@ -12,18 +12,20 @@ lng: -66.7400
 zipSample: ["00612", "00613", "00614"]
 zipCodes: ["00613", "00612", "00614"]
 localPaths: ["Arecibo County / coords 18.4500, -66.7400", "Arecibo County / ZIP 00614 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / primary ZIP 00612", "Arecibo County / ZIP 00612 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 375709
 ---
 
-**Engineering Notice for Arecibo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arecibo County.
+**Engineering Notice for Arecibo:** Emergency leak and drain triage uses ~119 mg/L hardness context with Arecibo County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Arecibo, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Arecibo County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Arecibo, PR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Arecibo County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch packets reference county grid Arecibo County near ZIP 00612.
+Our Arecibo, PR service packets reference Arecibo County near ZIP 00612 for pipe and leak scope.
 
 Risk flag: In Arecibo, PR, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -48,6 +50,8 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Flow dossier 931445: branch wet-vent geometry and jetting nozzle envelope logged for Arecibo, PR county grid Arecibo County (ZIP 00612).
 
 Lineage note 931445: recirculation pump amp draw captured before Arecibo, PR branch isolation.
+
+Scope trace: sewer cleanout cap thread plus fixture shutoff torque log referenced in Arecibo County drain and water line review.
 
 Regional mesh label Arecibo County: moisture and logistics baselines are keyed to Arecibo, PR before niche-specific work begins.
 

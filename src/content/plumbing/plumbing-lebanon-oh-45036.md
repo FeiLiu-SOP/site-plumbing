@@ -12,11 +12,14 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / coords 39.4300, -84.2100", "Warren County / ZIP 45036 sector", "Warren County / primary ZIP 45036", "Warren County / elevation 764 ft band"]
-zillowHomeValueUsd: 405128
 ---
 
-**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
+**Engineering Notice for Lebanon:** Supply line, cleanout, and water heater scope recorded at 764 ft elevation context (Warren County).
 
+
+Burst pipe and drain clog calls in Lebanon, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Warren County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Lebanon, OH, Warren County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hose bib split patterns in Lebanon, OH often follow missed winterization.
 
@@ -28,9 +31,9 @@ Frost-free sillcock failures in Lebanon, OH often trace to interior shutoff seat
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

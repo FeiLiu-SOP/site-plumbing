@@ -12,11 +12,14 @@ lng: -74.0300
 zipSample: ["07030"]
 zipCodes: ["07030"]
 localPaths: ["Hudson County / primary ZIP 07030", "Hudson County / elevation 43 ft band", "Hudson County / coords 40.7500, -74.0300", "Hudson County / ZIP 07030 sector"]
-zillowHomeValueUsd: 854758
 ---
 
-**Engineering Notice for Hoboken:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
+**Engineering Notice for Hoboken:** Emergency leak and drain triage uses ~171 mg/L hardness context with Hudson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Hoboken, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hudson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Hoboken, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Water heater anode type may change with Hoboken, NJ hardness profiles.
 

@@ -12,11 +12,14 @@ lng: -81.8200
 zipSample: ["34736", "34737"]
 zipCodes: ["34737", "34736"]
 localPaths: ["Lake County / ZIP 34737 sector", "Lake County / ZIP 34736 sector", "Lake County / primary ZIP 34736", "Lake County / elevation 121 ft band", "Lake County / coords 28.6100, -81.8200"]
-zillowHomeValueUsd: 370422
 ---
 
-**Engineering Notice for Groveland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Groveland:** Supply line, cleanout, and water heater scope recorded at 121 ft elevation context (Lake County).
 
+
+Licensed plumbing crews serving Groveland, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Groveland, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Groveland, FL irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,8 +48,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Lineage note 492140: recirculation pump amp draw captured before Groveland, FL branch isolation.
 
 Drain map 492140: camera-pass priority and expansion-tank pre-charge noted for Groveland, FL postal sector 34736.
-
-Scope trace: water heater T&P path plus thermal expansion loop check referenced in Lake County county grid review.
 
 On-site sector marker: Lake County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
 

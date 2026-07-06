@@ -12,11 +12,14 @@ lng: -94.5500
 zipSample: ["64146", "64121", "64105", "64170", "64111"]
 zipCodes: ["64106", "64121", "64130", "64165", "64108", "64157", "64137", "64145", "64119", "64138", "64147", "64171"]
 localPaths: ["Jackson County / ZIP 64170 sector", "Jackson County / primary ZIP 64161", "Jackson County / coords 39.1200, -94.5500", "Jackson County / ZIP 64146 sector", "Jackson County / elevation 745 ft band"]
-zillowHomeValueUsd: 199499
 ---
 
-**Engineering Notice for Kansas City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Kansas City:** Emergency leak and drain triage uses ~155 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Kansas City, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Jackson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Kansas City, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,8 +50,6 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 Lineage note 155106: recirculation pump amp draw captured before Kansas City, MO branch isolation.
 
 Drain map 155106: camera-pass priority and expansion-tank pre-charge noted for Kansas City, MO postal sector 64161.
-
-Scope trace: thermal expansion loop check plus floor drain trap primer drip referenced in Jackson County county grid review.
 
 On-site sector marker: Jackson County / ZIP 64148 sector — logged for map parity and ZIP-corridor verification.
 

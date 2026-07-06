@@ -12,15 +12,18 @@ lng: -95.1500
 zipSample: ["77058", "77059", "77502", "77504", "77258"]
 zipCodes: ["77059", "77505", "77506", "77502", "77501", "77503", "77258", "77508", "77504", "77586", "77507", "77058"]
 localPaths: ["Harris County / coords 29.6600, -95.1500", "Harris County / elevation 33 ft band", "Harris County / primary ZIP 77058", "Harris County / ZIP 77258 sector", "Harris County / ZIP 77058 sector"]
-zillowHomeValueUsd: 239179
 ---
 
-**Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for Pasadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Harris County.
 
+
+When a main line backs up in Pasadena, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Pasadena, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harris County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -48,7 +51,7 @@ Pressure trace 126138: meter-pit clearance and dielectric union checklist staged
 
 Supply audit 126138: curb-stop orientation and hose-bib freeze flag reviewed for Pasadena, TX at coords 29.6600/-95.1500.
 
-plumbing brief: recirculation pump amp draw and copper pinhole cluster were cross-checked for the Pasadena intake packet.
+Plumbing remediation brief: recirculation pump amp draw and copper pinhole cluster were cross-checked for the Pasadena pipe and leak scope.
 
 Primary postal anchor 77058 with multi-ZIP overlap in Pasadena; field packets tag Harris County for county-grid reconciliation.
 

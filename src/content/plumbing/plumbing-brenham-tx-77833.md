@@ -12,13 +12,16 @@ lng: -96.4000
 zipSample: ["77834", "77833"]
 zipCodes: ["77834", "77833"]
 localPaths: ["Washington County / elevation 325 ft band", "Washington County / ZIP 77834 sector", "Washington County / ZIP 77833 sector", "Washington County / primary ZIP 77833", "Washington County / coords 30.1600, -96.4000"]
-zillowHomeValueUsd: 332608
 ---
 
-**Engineering Notice for Brenham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Brenham:** Supply line, cleanout, and water heater scope recorded at 325 ft elevation context (Washington County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Brenham, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Brenham, TX, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -28,7 +31,7 @@ Material note: Water heater anode type may change with Brenham, TX hardness prof
 
 Across Brenham, TX, main-line bellies can trap debris even when fixtures drain normally.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hydrostatic holds in Brenham, TX slab circuits run overnight when listening mics show ambiguous hits.
 

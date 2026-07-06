@@ -12,17 +12,20 @@ lng: -86.1100
 zipSample: ["46142", "46143"]
 zipCodes: ["46143", "46142"]
 localPaths: ["Johnson County / elevation 807 ft band", "Johnson County / coords 39.6000, -86.1100", "Johnson County / ZIP 46142 sector", "Johnson County / ZIP 46143 sector", "Johnson County / primary ZIP 46142"]
-zillowHomeValueUsd: 317816
 ---
 
-**Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Greenwood:** Supply line, cleanout, and water heater scope recorded at 807 ft elevation context (Johnson County).
 
+
+Emergency licensed plumber service in Greenwood, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Johnson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+When a main line backs up in Greenwood, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Irrigation cross-connections in Greenwood, IN can back-siphon domestic lines during main breaks.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sewer gas odors in Greenwood, IN should trigger trap seal and vent path review.
 
@@ -47,8 +50,6 @@ Risk flag: In Greenwood, IN, slab leaks can misroute as foundation issues withou
 Lineage note 656459: recirculation pump amp draw captured before Greenwood, IN branch isolation.
 
 Drain map 656459: camera-pass priority and expansion-tank pre-charge noted for Greenwood, IN postal sector 46142.
-
-Field routing: thermal expansion loop check paired with scale coupon sampling near ZIP 46142.
 
 On-site sector marker: Johnson County / elevation 807 ft band — logged for map parity and ZIP-corridor verification.
 

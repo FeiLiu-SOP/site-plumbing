@@ -12,11 +12,14 @@ lng: -89.9700
 zipSample: ["70032", "70044", "70043"]
 zipCodes: ["70043", "70032", "70044"]
 localPaths: ["St. Bernard Parish / elevation 20 ft band", "St. Bernard Parish / primary ZIP 70043", "St. Bernard Parish / ZIP 70032 sector", "St. Bernard Parish / ZIP 70044 sector", "St. Bernard Parish / coords 29.9400, -89.9700"]
-zillowHomeValueUsd: 207628
 ---
 
-**Engineering Notice for Chalmette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Bernard Parish.
+**Engineering Notice for Chalmette:** Supply line, cleanout, and water heater scope recorded at 20 ft elevation context (St. Bernard Parish).
 
+
+Qualified plumbing crews serving Chalmette, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Chalmette, LA, St. Bernard Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -30,11 +33,11 @@ In Chalmette, LA, slab leaks often present as warm spots before wall stains appe
 
 Basement floor drains in Chalmette, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate Chalmette, LA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Chalmette, LA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

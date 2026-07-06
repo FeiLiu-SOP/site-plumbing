@@ -12,11 +12,14 @@ lng: -121.5400
 zipSample: ["95391"]
 zipCodes: ["95391"]
 localPaths: ["San Joaquin County / primary ZIP 95391", "San Joaquin County / elevation 75 ft band", "San Joaquin County / ZIP 95391 sector", "San Joaquin County / coords 37.7700, -121.5400"]
-zillowHomeValueUsd: 927577
 ---
 
-**Engineering Notice for Mountain House:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Mountain House:** Supply line, cleanout, and water heater scope recorded at 75 ft elevation context (San Joaquin County).
 
+
+Qualified plumbing crews serving Mountain House, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Mountain House, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in San Joaquin County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Hydrostatic holds in Mountain House, CA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -47,8 +50,6 @@ Step: map sump float travel and check-valve orientation for Mountain House, CA b
 Lineage note 163691: recirculation pump amp draw captured before Mountain House, CA branch isolation.
 
 Supply audit 163691: curb-stop orientation and hose-bib freeze flag reviewed for Mountain House, CA at coords 37.7700/-121.5400.
-
-plumbing brief: fixture shutoff torque log and toilet flange spacer kit were cross-checked for the Mountain House intake packet.
 
 ZIP-corridor snapshot for Mountain House, CA: sampled sectors include 95391; county routing grid remains San Joaquin County.
 

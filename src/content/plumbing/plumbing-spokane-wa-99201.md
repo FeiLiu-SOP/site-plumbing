@@ -12,11 +12,14 @@ lng: -117.4300
 zipSample: ["99202", "99209", "99219", "99204", "99210"]
 zipCodes: ["99258", "99212", "99224", "99223", "99252", "99210", "99260", "99207", "99203", "99201", "99219", "99256"]
 localPaths: ["Spokane County / ZIP 99209 sector", "Spokane County / ZIP 99219 sector", "Spokane County / elevation 1900 ft band", "Spokane County / ZIP 99210 sector", "Spokane County / ZIP 99204 sector"]
-zillowHomeValueUsd: 325750
 ---
 
-**Engineering Notice for Spokane:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Spokane County.
+**Engineering Notice for Spokane:** Emergency leak and drain triage uses ~180 mg/L hardness context with Spokane County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Spokane, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Spokane County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Spokane, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Spokane County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless sleeve pulls near Spokane, WA require pit shoring notes when water tables are high.
 
@@ -45,6 +48,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
 Fixture roster 625884: toilet flange spacer kit and shower cartridge seat score queued for Spokane, WA walk-through.
+
+Plumbing remediation brief: slab penetration sleeve seal and backflow test cock orientation were cross-checked for the Spokane pipe and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Spokane County and primary ZIP 99201. Terrain reference: 1900 ft. Center point: 47.6700, -117.4300. ZIP sample: 99258, 99204, 99202, 99207, 99252. Logistics priority: Serving residential sectors across Spokane County and north-east ZIP 99201 grid.
 

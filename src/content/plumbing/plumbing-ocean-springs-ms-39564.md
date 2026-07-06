@@ -12,11 +12,14 @@ lng: -88.7900
 zipSample: ["39566", "39564"]
 zipCodes: ["39566", "39564"]
 localPaths: ["Jackson County / ZIP 39564 sector", "Jackson County / ZIP 39566 sector", "Jackson County / coords 30.4100, -88.7900", "Jackson County / primary ZIP 39564", "Jackson County / elevation 39 ft band"]
-zillowHomeValueUsd: 268078
 ---
 
-**Engineering Notice for Ocean Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Ocean Springs:** Supply line, cleanout, and water heater scope recorded at 39 ft elevation context (Jackson County).
 
+
+When a main line backs up in Ocean Springs, MS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Ocean Springs, MS, Jackson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -30,7 +33,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 39564.
 
-We coordinate Ocean Springs, MS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Ocean Springs, MS plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -45,8 +48,6 @@ Trenchless pulls in Ocean Springs, MS require pit dimensions verified against ut
 Lineage note 697228: recirculation pump amp draw captured before Ocean Springs, MS branch isolation.
 
 Pressure trace 697228: meter-pit clearance and dielectric union checklist staged for Ocean Springs, MS near elevation 39 ft.
-
-Field routing: backflow test cock orientation paired with meter pit clearance near ZIP 39564.
 
 On-site sector marker: Jackson County / primary ZIP 39564 — logged for map parity and ZIP-corridor verification.
 

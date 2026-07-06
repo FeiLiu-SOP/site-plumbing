@@ -12,13 +12,16 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / ZIP 46750 sector", "Huntington County / primary ZIP 46750", "Huntington County / elevation 794 ft band", "Huntington County / coords 40.8800, -85.5100"]
-zillowHomeValueUsd: 191604
 ---
 
-**Engineering Notice for Huntington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Huntington County.
+**Engineering Notice for Huntington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Huntington County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing service in Huntington, IN, Huntington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Huntington, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Huntington County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,6 +48,8 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Drain map 126578: camera-pass priority and expansion-tank pre-charge noted for Huntington, IN postal sector 46750.
 
 Intake ledger 126578: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Huntington, IN at 40.8800, -85.5100.
+
+Plumbing service brief: floor drain trap primer drip and scale coupon sampling were cross-checked for the Huntington pipe and leak scope.
 
 ZIP-corridor snapshot for Huntington, IN: sampled sectors include 46750; county routing grid remains Huntington County.
 

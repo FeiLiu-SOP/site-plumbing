@@ -12,11 +12,14 @@ lng: -94.5600
 zipSample: ["64118", "64119"]
 zipCodes: ["64119", "64118"]
 localPaths: ["Clay County / ZIP 64119 sector", "Clay County / ZIP 64118 sector", "Clay County / primary ZIP 64118", "Clay County / elevation 1027 ft band", "Clay County / coords 39.2100, -94.5600"]
-zillowHomeValueUsd: 267034
 ---
 
-**Engineering Notice for Gladstone:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.
+**Engineering Notice for Gladstone:** Emergency leak and drain triage uses ~161 mg/L hardness context with Clay County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Gladstone, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Clay County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing remediation in Gladstone, MO, Clay County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -47,6 +50,8 @@ Hydrostatic holds in Gladstone, MO slab circuits run overnight when listening mi
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Intake ledger 810444: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Gladstone, MO at 39.2100, -94.5600.
+
+Plumbing service brief: recirculation pump amp draw and dielectric union checklist were cross-checked for the Gladstone pipe and leak scope.
 
 On-site sector marker: Clay County / elevation 1027 ft band — logged for map parity and ZIP-corridor verification.
 

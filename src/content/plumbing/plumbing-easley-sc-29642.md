@@ -12,11 +12,14 @@ lng: -82.5800
 zipSample: ["29642", "29640"]
 zipCodes: ["29640", "29642"]
 localPaths: ["Pickens County / ZIP 29642 sector", "Pickens County / ZIP 29640 sector", "Pickens County / primary ZIP 29642", "Pickens County / coords 34.8200, -82.5800", "Pickens County / elevation 1024 ft band"]
-zillowHomeValueUsd: 349289
 ---
 
-**Engineering Notice for Easley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pickens County.
+**Engineering Notice for Easley:** Emergency leak and drain triage uses ~122 mg/L hardness context with Pickens County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Easley, SC, Pickens County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Easley, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Pickens County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Sewer gas odors in Easley, SC should trigger trap seal and vent path review.
 
@@ -42,11 +45,13 @@ Basement floor drains in Easley, SC should be snaked only after trap arm geometr
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch packets reference county grid Pickens County near ZIP 29642.
+Our Easley, SC service packets reference Pickens County near ZIP 29642 for pipe and leak scope.
 
 Pressure trace 386688: meter-pit clearance and dielectric union checklist staged for Easley, SC near elevation 1024 ft.
 
 Fixture roster 386688: toilet flange spacer kit and shower cartridge seat score queued for Easley, SC walk-through.
+
+Scope trace: backflow test cock orientation plus toilet flange spacer kit referenced in Pickens County drain and water line review.
 
 On-site sector marker: Pickens County / ZIP 29640 sector — logged for map parity and ZIP-corridor verification.
 

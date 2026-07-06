@@ -12,11 +12,14 @@ lng: -76.5500
 zipSample: ["21401"]
 zipCodes: ["21401"]
 localPaths: ["Anne Arundel County / elevation 95 ft band", "Anne Arundel County / coords 38.9900, -76.5500", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / ZIP 21401 sector"]
-zillowHomeValueUsd: 625136
 ---
 
-**Engineering Notice for Parole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Parole:** Emergency leak and drain triage uses ~151 mg/L hardness context with Anne Arundel County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Parole, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anne Arundel County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Parole, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -34,7 +37,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Material note: Water heater anode type may change with Parole, MD hardness profiles.
 
-Dispatch packets reference county grid Anne Arundel County near ZIP 21401.
+Our Parole, MD service packets reference Anne Arundel County near ZIP 21401 for pipe and leak scope.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,8 +50,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Supply audit 915623: curb-stop orientation and hose-bib freeze flag reviewed for Parole, MD at coords 38.9900/-76.5500.
 
 Fixture roster 915623: toilet flange spacer kit and shower cartridge seat score queued for Parole, MD walk-through.
-
-Scope trace: recirculation pump amp draw plus fixture shutoff torque log referenced in Anne Arundel County county grid review.
 
 On-site sector marker: Anne Arundel County / primary ZIP 21401 — logged for map parity and ZIP-corridor verification.
 

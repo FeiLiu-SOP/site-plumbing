@@ -12,11 +12,14 @@ lng: -75.3400
 zipSample: ["19409", "19415", "19404", "19401"]
 zipCodes: ["19415", "19409", "19404", "19401"]
 localPaths: ["Montgomery County / ZIP 19404 sector", "Montgomery County / ZIP 19409 sector", "Montgomery County / coords 40.1200, -75.3400", "Montgomery County / ZIP 19401 sector", "Montgomery County / primary ZIP 19401"]
-zillowHomeValueUsd: 267647
 ---
 
-**Engineering Notice for Norristown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Norristown:** Supply line, cleanout, and water heater scope recorded at 141 ft elevation context (Montgomery County).
 
+
+Plumbing restoration in Norristown, PA, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Norristown, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Dual-water-meter setups in Norristown, PA irrigation zones need backflow logs before line replacement.
 
@@ -38,7 +41,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate Norristown, PA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Norristown, PA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 19401.
 
@@ -47,8 +50,6 @@ Risk flag: Seasonal Norristown, PA irrigation cross-connections can mask domesti
 Supply audit 671140: curb-stop orientation and hose-bib freeze flag reviewed for Norristown, PA at coords 40.1200/-75.3400.
 
 Intake ledger 671140: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norristown, PA at 40.1200, -75.3400.
-
-Field routing: water softener bypass lever paired with dielectric union checklist near ZIP 19401.
 
 On-site sector marker: Montgomery County / coords 40.1200, -75.3400 — logged for map parity and ZIP-corridor verification.
 

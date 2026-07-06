@@ -12,11 +12,14 @@ lng: -87.7900
 zipSample: ["60402"]
 zipCodes: ["60402"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60402 sector", "Cook County / primary ZIP 60402", "Cook County / coords 41.8400, -87.7900"]
-zillowHomeValueUsd: 303494
 ---
 
-**Engineering Notice for Berwyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Berwyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cook County.
 
+
+Certified plumbing crews serving Berwyn, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Berwyn, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -49,8 +52,6 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 Pressure trace 693835: meter-pit clearance and dielectric union checklist staged for Berwyn, IL near elevation 614 ft.
 
 Drain map 693835: camera-pass priority and expansion-tank pre-charge noted for Berwyn, IL postal sector 60402.
-
-Field routing: fixture shutoff torque log paired with copper pinhole cluster near ZIP 60402.
 
 On-site sector marker: Cook County / ZIP 60402 sector — logged for map parity and ZIP-corridor verification.
 

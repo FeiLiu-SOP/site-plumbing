@@ -12,11 +12,14 @@ lng: -90.1500
 zipSample: ["62018", "62002"]
 zipCodes: ["62018", "62002"]
 localPaths: ["Madison County / ZIP 62002 sector", "Madison County / elevation 535 ft band", "Madison County / ZIP 62018 sector", "Madison County / primary ZIP 62018", "Madison County / coords 38.9000, -90.1500"]
-zillowHomeValueUsd: 108006
 ---
 
-**Engineering Notice for Alton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Alton:** Emergency leak and drain triage uses ~126 mg/L hardness context with Madison County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Alton, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Alton, IL, Madison County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -46,7 +49,7 @@ Pressure trace 120410: meter-pit clearance and dielectric union checklist staged
 
 Flow dossier 120410: branch wet-vent geometry and jetting nozzle envelope logged for Alton, IL county grid Madison County (ZIP 62018).
 
-Scope trace: gas water heater draft hood gap plus sewer cleanout cap thread referenced in Madison County county grid review.
+Scope trace: gas water heater draft hood gap plus sewer cleanout cap thread referenced in Madison County drain and water line review.
 
 On-site sector marker: Madison County / ZIP 62018 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -89.9900
 zipSample: ["62221", "62220", "62223", "62226"]
 zipCodes: ["62220", "62223", "62221", "62226"]
 localPaths: ["St. Clair County / coords 38.5200, -89.9900", "St. Clair County / ZIP 62223 sector", "St. Clair County / ZIP 62221 sector", "St. Clair County / elevation 505 ft band", "St. Clair County / ZIP 62220 sector"]
-zillowHomeValueUsd: 248073
 ---
 
-**Engineering Notice for Belleville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Belleville:** Supply line, cleanout, and water heater scope recorded at 505 ft elevation context (St. Clair County).
 
+
+Plumbing service in Belleville, IL, St. Clair County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Belleville, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Clair County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Branch wet vents in Belleville, IL can mask gurgling as a main-line issue.
 
@@ -46,7 +49,7 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 
 Fixture roster 813947: toilet flange spacer kit and shower cartridge seat score queued for Belleville, IL walk-through.
 
-plumbing brief: copper pinhole cluster and water heater T&P path were cross-checked for the Belleville intake packet.
+Plumbing service brief: copper pinhole cluster and water heater T&P path were cross-checked for the Belleville pipe and leak scope.
 
 On-site sector marker: St. Clair County / coords 38.5200, -89.9900 — logged for map parity and ZIP-corridor verification.
 

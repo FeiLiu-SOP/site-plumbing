@@ -12,11 +12,14 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / ZIP 97062 sector", "Washington County / elevation 164 ft band", "Washington County / coords 45.3800, -122.7700", "Washington County / primary ZIP 97062"]
-zillowHomeValueUsd: 640362
 ---
 
-**Engineering Notice for Tualatin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Tualatin:** Supply line, cleanout, and water heater scope recorded at 164 ft elevation context (Washington County).
 
+
+Burst pipe and drain clog calls in Tualatin, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Tualatin, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97062.
 

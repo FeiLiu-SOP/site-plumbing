@@ -12,11 +12,14 @@ lng: -111.8600
 zipSample: ["84020"]
 zipCodes: ["84020"]
 localPaths: ["Salt Lake County / ZIP 84020 sector", "Salt Lake County / primary ZIP 84020", "Salt Lake County / elevation 4757 ft band", "Salt Lake County / coords 40.5000, -111.8600"]
-zillowHomeValueUsd: 806284
 ---
 
-**Engineering Notice for Draper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Draper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Salt Lake County.
 
+
+When a main line backs up in Draper, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Draper, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Salt Lake County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 84020.
 
@@ -47,8 +50,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 Hard water in Draper, UT accelerates scale on PRV seats and heater elements.
 
 Fixture roster 753087: toilet flange spacer kit and shower cartridge seat score queued for Draper, UT walk-through.
-
-plumbing brief: PRV outlet curve and cleanout riser height were cross-checked for the Draper intake packet.
 
 ZIP-corridor snapshot for Draper, UT: sampled sectors include 84020; county routing grid remains Salt Lake County.
 

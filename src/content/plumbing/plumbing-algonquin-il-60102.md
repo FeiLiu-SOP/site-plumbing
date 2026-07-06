@@ -12,11 +12,14 @@ lng: -88.3200
 zipSample: ["60102"]
 zipCodes: ["60102"]
 localPaths: ["McHenry County / elevation 886 ft band", "McHenry County / primary ZIP 60102", "McHenry County / coords 42.1600, -88.3200", "McHenry County / ZIP 60102 sector"]
-zillowHomeValueUsd: 407653
 ---
 
-**Engineering Notice for Algonquin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
+**Engineering Notice for Algonquin:** Supply line, cleanout, and water heater scope recorded at 886 ft elevation context (McHenry County).
 
+
+Plumbing remediation in Algonquin, IL, McHenry County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency qualified plumber service in Algonquin, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in McHenry County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Branch wet vents in Algonquin, IL can mask gurgling as a main-line issue.
 
@@ -43,6 +46,8 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Flow dossier 472563: branch wet-vent geometry and jetting nozzle envelope logged for Algonquin, IL county grid McHenry County (ZIP 60102).
+
+Scope trace: toilet flange spacer kit plus water heater T&P path referenced in McHenry County drain and water line review.
 
 On-site sector marker: McHenry County / coords 42.1600, -88.3200 — logged for map parity and ZIP-corridor verification.
 

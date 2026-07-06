@@ -12,11 +12,14 @@ lng: -116.8800
 zipSample: ["92065"]
 zipCodes: ["92065"]
 localPaths: ["San Diego County / primary ZIP 92065", "San Diego County / elevation 1467 ft band", "San Diego County / ZIP 92065 sector", "San Diego County / coords 33.0500, -116.8800"]
-zillowHomeValueUsd: 812894
 ---
 
-**Engineering Notice for Ramona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Ramona:** Emergency leak and drain triage uses ~133 mg/L hardness context with San Diego County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Ramona, CA, San Diego County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Ramona, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in San Diego County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Cleanout access limits in Ramona, CA frequently extend drain cleaning duration.
 
@@ -45,8 +48,6 @@ Expansion tank pre-charge loss in Ramona, CA often tracks heater replacement def
 Lineage note 976217: recirculation pump amp draw captured before Ramona, CA branch isolation.
 
 Intake ledger 976217: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ramona, CA at 33.0500, -116.8800.
-
-Field routing: slab penetration sleeve seal paired with floor drain trap primer drip near ZIP 92065.
 
 Primary postal anchor 92065 with multi-ZIP overlap in Ramona; field packets tag San Diego County for county-grid reconciliation.
 

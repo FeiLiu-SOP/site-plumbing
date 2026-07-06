@@ -12,11 +12,14 @@ lng: -95.3900
 zipSample: ["77234", "77073", "77245", "77064", "77325"]
 zipCodes: ["77235", "77222", "77085", "77242", "77062", "77024", "77007", "77092", "77040", "77407", "77098", "77450"]
 localPaths: ["Harris County / ZIP 77245 sector", "Harris County / elevation 69 ft band", "Harris County / ZIP 77073 sector", "Harris County / ZIP 77234 sector", "Harris County / primary ZIP 77069"]
-zillowHomeValueUsd: 330514
 ---
 
-**Engineering Notice for Houston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for Houston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Harris County.
 
+
+Plumbing service in Houston, TX, Harris County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Houston, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Water heater T&P discharge paths in Houston, TX must terminate safely before replacement quotes.
 

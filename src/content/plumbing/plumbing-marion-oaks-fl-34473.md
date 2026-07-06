@@ -12,11 +12,14 @@ lng: -82.2000
 zipSample: ["34473"]
 zipCodes: ["34473"]
 localPaths: ["Marion County / ZIP 34473 sector", "Marion County / coords 29.0000, -82.2000", "Marion County / elevation 112 ft band", "Marion County / primary ZIP 34473"]
-zillowHomeValueUsd: 270134
 ---
 
-**Engineering Notice for Marion Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Marion Oaks:** Supply line, cleanout, and water heater scope recorded at 112 ft elevation context (Marion County).
 
+
+Burst pipe and drain clog calls in Marion Oaks, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marion County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Marion Oaks, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless pulls in Marion Oaks, FL require pit dimensions verified against utility locate marks.
 

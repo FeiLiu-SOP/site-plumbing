@@ -12,11 +12,14 @@ lng: -122.1000
 zipSample: ["94023", "94024", "94022"]
 zipCodes: ["94022", "94023", "94024"]
 localPaths: ["Santa Clara County / ZIP 94022 sector", "Santa Clara County / ZIP 94024 sector", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / elevation 174 ft band", "Santa Clara County / coords 37.3700, -122.1000"]
-zillowHomeValueUsd: 5191308
 ---
 
-**Engineering Notice for Los Altos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Los Altos:** Emergency leak and drain triage uses ~151 mg/L hardness context with Santa Clara County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Los Altos, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Los Altos, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Santa Clara County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 

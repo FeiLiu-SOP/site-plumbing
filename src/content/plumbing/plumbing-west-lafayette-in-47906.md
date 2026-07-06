@@ -12,11 +12,14 @@ lng: -86.9200
 zipSample: ["47907", "47996", "47906"]
 zipCodes: ["47907", "47996", "47906"]
 localPaths: ["Tippecanoe County / primary ZIP 47906", "Tippecanoe County / coords 40.4400, -86.9200", "Tippecanoe County / ZIP 47906 sector", "Tippecanoe County / elevation 725 ft band", "Tippecanoe County / ZIP 47996 sector"]
-zillowHomeValueUsd: 363777
 ---
 
-**Engineering Notice for West Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tippecanoe County.
+**Engineering Notice for West Lafayette:** Emergency leak and drain triage uses ~169 mg/L hardness context with Tippecanoe County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in West Lafayette, IN, Tippecanoe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving West Lafayette, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -47,6 +50,8 @@ CPVC solvent weld times shift with ambient humidity during West Lafayette, IN sh
 Fixture roster 356386: toilet flange spacer kit and shower cartridge seat score queued for West Lafayette, IN walk-through.
 
 Supply audit 356386: curb-stop orientation and hose-bib freeze flag reviewed for West Lafayette, IN at coords 40.4400/-86.9200.
+
+Plumbing remediation brief: jetter nozzle envelope and water softener bypass lever were cross-checked for the West Lafayette pipe and leak scope.
 
 Regional mesh label Tippecanoe County: moisture and logistics baselines are keyed to West Lafayette, IN before niche-specific work begins.
 

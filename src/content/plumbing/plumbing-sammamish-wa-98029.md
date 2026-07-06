@@ -12,11 +12,14 @@ lng: -122.0400
 zipSample: ["98075", "98074", "98029"]
 zipCodes: ["98074", "98029", "98075"]
 localPaths: ["King County / ZIP 98074 sector", "King County / elevation 397 ft band", "King County / ZIP 98029 sector", "King County / primary ZIP 98029", "King County / ZIP 98075 sector"]
-zillowHomeValueUsd: 1195271
 ---
 
-**Engineering Notice for Sammamish:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Sammamish:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in King County.
 
+
+When a main line backs up in Sammamish, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Sammamish, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Sammamish, WA hardness profiles.
 
@@ -47,8 +50,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Lineage note 302916: recirculation pump amp draw captured before Sammamish, WA branch isolation.
 
 Supply audit 302916: curb-stop orientation and hose-bib freeze flag reviewed for Sammamish, WA at coords 47.6000/-122.0400.
-
-plumbing brief: scale coupon sampling and backflow test cock orientation were cross-checked for the Sammamish intake packet.
 
 Coordinate-anchored dispatch note: center reference 47.6000, -122.0400 at elevation ~397 ft aligns with King County intake staging.
 

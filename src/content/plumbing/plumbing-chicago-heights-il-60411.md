@@ -12,11 +12,14 @@ lng: -87.6300
 zipSample: ["60412", "60411"]
 zipCodes: ["60412", "60411"]
 localPaths: ["Cook County / primary ZIP 60411", "Cook County / ZIP 60412 sector", "Cook County / ZIP 60411 sector", "Cook County / elevation 663 ft band", "Cook County / coords 41.5100, -87.6300"]
-zillowHomeValueUsd: 168675
 ---
 
-**Engineering Notice for Chicago Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Chicago Heights:** Supply line, cleanout, and water heater scope recorded at 663 ft elevation context (Cook County).
 
+
+Burst pipe and drain clog calls in Chicago Heights, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Chicago Heights, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Trenchless sleeve pulls near Chicago Heights, IL require pit shoring notes when water tables are high.
 

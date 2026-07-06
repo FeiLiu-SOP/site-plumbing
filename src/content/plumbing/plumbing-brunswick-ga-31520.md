@@ -12,11 +12,14 @@ lng: -81.4700
 zipSample: ["31521", "31520"]
 zipCodes: ["31521", "31520"]
 localPaths: ["Glynn County / coords 31.1400, -81.4700", "Glynn County / ZIP 31520 sector", "Glynn County / ZIP 31521 sector", "Glynn County / elevation 3 ft band", "Glynn County / primary ZIP 31520"]
-zillowHomeValueUsd: 148450
 ---
 
-**Engineering Notice for Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Glynn County.
+**Engineering Notice for Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Glynn County.
 
+
+Emergency plumbing pro service in Brunswick, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Glynn County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Brunswick, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Frost-free sillcock failures in Brunswick, GA often trace to interior shutoff seats, not exterior stems.
 
@@ -43,8 +46,6 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 Technicians log static and dynamic pressure before opening any wall access panel.
 
 Supply audit 617925: curb-stop orientation and hose-bib freeze flag reviewed for Brunswick, GA at coords 31.1400/-81.4700.
-
-Field routing: PRV outlet curve paired with thermal expansion loop check near ZIP 31520.
 
 ZIP-corridor snapshot for Brunswick, GA: sampled sectors include 31521, 31520; county routing grid remains Glynn County.
 

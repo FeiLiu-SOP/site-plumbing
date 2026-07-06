@@ -12,11 +12,14 @@ lng: -110.3200
 zipSample: ["85613", "85650", "85670", "85635"]
 zipCodes: ["85635", "85670", "85613", "85650"]
 localPaths: ["Cochise County / ZIP 85650 sector", "Cochise County / ZIP 85670 sector", "Cochise County / primary ZIP 85650", "Cochise County / coords 31.5600, -110.3200", "Cochise County / ZIP 85635 sector"]
-zillowHomeValueUsd: 359405
 ---
 
-**Engineering Notice for Sierra Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cochise County.
+**Engineering Notice for Sierra Vista:** Supply line, cleanout, and water heater scope recorded at 4649 ft elevation context (Cochise County).
 
+
+Burst pipe and drain clog calls in Sierra Vista, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cochise County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Sierra Vista, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless sleeve pulls near Sierra Vista, AZ require pit shoring notes when water tables are high.
 
@@ -48,7 +51,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Flow dossier 163905: branch wet-vent geometry and jetting nozzle envelope logged for Sierra Vista, AZ county grid Cochise County (ZIP 85650).
 
-plumbing brief: shower cartridge seat score and meter pit clearance were cross-checked for the Sierra Vista intake packet.
+Plumbing restoration brief: shower cartridge seat score and meter pit clearance were cross-checked for the Sierra Vista pipe and leak scope.
 
 On-site sector marker: Cochise County / ZIP 85670 sector — logged for map parity and ZIP-corridor verification.
 

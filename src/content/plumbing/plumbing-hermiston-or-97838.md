@@ -12,17 +12,20 @@ lng: -119.2900
 zipSample: ["97838"]
 zipCodes: ["97838"]
 localPaths: ["Umatilla County / primary ZIP 97838", "Umatilla County / ZIP 97838 sector", "Umatilla County / coords 45.8300, -119.2900", "Umatilla County / elevation 486 ft band"]
-zillowHomeValueUsd: 340754
 ---
 
-**Engineering Notice for Hermiston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Umatilla County.
+**Engineering Notice for Hermiston:** Supply line, cleanout, and water heater scope recorded at 486 ft elevation context (Umatilla County).
 
+
+Emergency plumbing pro service in Hermiston, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Umatilla County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Hermiston, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Umatilla County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Hermiston, OR slab circuits run overnight when listening mics show ambiguous hits.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Hermiston, OR basements should be photographed before any wall chase opens.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Hermiston, OR can back-siphon domestic lines dur
 Supply audit 933545: curb-stop orientation and hose-bib freeze flag reviewed for Hermiston, OR at coords 45.8300/-119.2900.
 
 Lineage note 933545: recirculation pump amp draw captured before Hermiston, OR branch isolation.
-
-Scope trace: scale coupon sampling plus slab leak listening window referenced in Umatilla County county grid review.
 
 On-site sector marker: Umatilla County / ZIP 97838 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -77.1600
 zipSample: ["20849", "20852", "20848", "20851", "20847"]
 zipCodes: ["20848", "20850", "20851", "20852", "20847", "20857", "20849"]
 localPaths: ["Montgomery County / ZIP 20849 sector", "Montgomery County / elevation 463 ft band", "Montgomery County / ZIP 20851 sector", "Montgomery County / ZIP 20847 sector", "Montgomery County / primary ZIP 20850"]
-zillowHomeValueUsd: 697014
 ---
 
-**Engineering Notice for Rockville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Rockville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Montgomery County.
 
+
+Emergency certified plumber service in Rockville, MD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Montgomery County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Rockville, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Frost-free sillcock failures in Rockville, MD often trace to interior shutoff seats, not exterior stems.
 
@@ -28,7 +31,7 @@ Polybutylene manifold tags in Rockville, MD basements should be photographed bef
 
 In Rockville, MD, slab leaks often present as warm spots before wall stains appear.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Cast-iron hub corrosion in Rockville, MD often concentrates at the third joint upstream of the cleanout.
 
@@ -48,7 +51,7 @@ Drain map 125334: camera-pass priority and expansion-tank pre-charge noted for R
 
 Supply audit 125334: curb-stop orientation and hose-bib freeze flag reviewed for Rockville, MD at coords 39.0800/-77.1600.
 
-plumbing brief: slab leak listening window and gas water heater draft hood gap were cross-checked for the Rockville intake packet.
+Plumbing service brief: slab leak listening window and gas water heater draft hood gap were cross-checked for the Rockville pipe and leak scope.
 
 On-site sector marker: Montgomery County / ZIP 20857 sector — logged for map parity and ZIP-corridor verification.
 

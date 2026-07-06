@@ -12,11 +12,14 @@ lng: -81.2500
 zipSample: ["32135", "32142", "32143", "32164", "32136"]
 zipCodes: ["32137", "32143", "32164", "32142", "32136", "32135"]
 localPaths: ["Flagler County / ZIP 32136 sector", "Flagler County / ZIP 32143 sector", "Flagler County / ZIP 32164 sector", "Flagler County / elevation 46 ft band", "Flagler County / coords 29.5400, -81.2500"]
-zillowHomeValueUsd: 322311
 ---
 
-**Engineering Notice for Palm Coast:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flagler County.
+**Engineering Notice for Palm Coast:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Flagler County).
 
+
+Licensed plumbing crews serving Palm Coast, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Palm Coast, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Flagler County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Water heater T&P discharge paths in Palm Coast, FL must terminate safely before replacement quotes.
 
@@ -36,7 +39,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -46,7 +49,7 @@ In Palm Coast, FL, slab leaks often present as warm spots before wall stains app
 
 Pressure trace 883977: meter-pit clearance and dielectric union checklist staged for Palm Coast, FL near elevation 46 ft.
 
-Scope trace: slab leak listening window plus backflow test cock orientation referenced in Flagler County county grid review.
+Scope trace: slab leak listening window plus backflow test cock orientation referenced in Flagler County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 29.5400, -81.2500 at elevation ~46 ft aligns with Flagler County intake staging.
 

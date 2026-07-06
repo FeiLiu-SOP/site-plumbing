@@ -12,11 +12,14 @@ lng: -104.9800
 zipSample: ["80234", "80233", "80603", "80260"]
 zipCodes: ["80603", "80233", "80234", "80260"]
 localPaths: ["Adams County / ZIP 80603 sector", "Adams County / ZIP 80233 sector", "Adams County / ZIP 80260 sector", "Adams County / ZIP 80234 sector", "Adams County / primary ZIP 80260"]
-zillowHomeValueUsd: 403835
 ---
 
-**Engineering Notice for Northglenn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.
+**Engineering Notice for Northglenn:** Emergency leak and drain triage uses ~123 mg/L hardness context with Adams County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Northglenn, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Adams County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Northglenn, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -45,6 +48,8 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 Intake ledger 454997: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Northglenn, CO at 39.9100, -104.9800.
 
 Flow dossier 454997: branch wet-vent geometry and jetting nozzle envelope logged for Northglenn, CO county grid Adams County (ZIP 80260).
+
+Local service note: floor drain trap primer drip paired with PEX expansion ring batch near ZIP 80260 for emergency plumbing pro repairs.
 
 On-site sector marker: Adams County / elevation 5384 ft band — logged for map parity and ZIP-corridor verification.
 

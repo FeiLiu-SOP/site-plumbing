@@ -8,15 +8,18 @@ zipCode: "91367"
 county: "Los Angeles County"
 elevationFt: 1106
 lat: 34.1100
-lng: -118.4100
+lng: -118.3800
 zipSample: ["91394", "91413", "91333", "91406", "90082"]
 zipCodes: ["90026", "90055", "90017", "91470", "90058", "91343", "91357", "90049", "91352", "90077", "90748", "90089"]
 localPaths: ["Los Angeles County / ZIP 91413 sector", "Los Angeles County / primary ZIP 91367", "Los Angeles County / ZIP 91406 sector", "Los Angeles County / ZIP 91333 sector", "Los Angeles County / elevation 1106 ft band"]
-zillowHomeValueUsd: 1122272
 ---
 
-**Engineering Notice for Los Angeles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Los Angeles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Plumbing service in Los Angeles, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Los Angeles, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hard water in Los Angeles, CA accelerates scale on PRV seats and heater elements.
 
@@ -26,7 +29,7 @@ Trenchless pulls in Los Angeles, CA require pit dimensions verified against util
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -44,7 +47,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Drain map 407174: camera-pass priority and expansion-tank pre-charge noted for Los Angeles, CA postal sector 91367.
 
-Scope trace: scale coupon sampling plus recirculation pump amp draw referenced in Los Angeles County county grid review.
+Scope trace: scale coupon sampling plus recirculation pump amp draw referenced in Los Angeles County drain and water line review.
 
 Primary postal anchor 91367 with multi-ZIP overlap in Los Angeles; field packets tag Los Angeles County for county-grid reconciliation.
 

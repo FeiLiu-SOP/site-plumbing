@@ -12,11 +12,14 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27510", "27516"]
 localPaths: ["Orange County / elevation 525 ft band", "Orange County / ZIP 27510 sector", "Orange County / coords 35.9300, -79.0900", "Orange County / primary ZIP 27516", "Orange County / ZIP 27516 sector"]
-zillowHomeValueUsd: 604906
 ---
 
-**Engineering Notice for Carrboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Carrboro:** Supply line, cleanout, and water heater scope recorded at 525 ft elevation context (Orange County).
 
+
+Emergency plumbing technician service in Carrboro, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Carrboro, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

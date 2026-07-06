@@ -12,15 +12,18 @@ lng: -89.9300
 zipSample: ["70151", "70131", "70130", "70160", "70175"]
 zipCodes: ["70119", "70113", "70163", "70179", "70185", "70157", "70150", "70177", "70190", "70153", "70158", "70184"]
 localPaths: ["Orleans Parish / ZIP 70175 sector", "Orleans Parish / primary ZIP 70139", "Orleans Parish / ZIP 70131 sector", "Orleans Parish / ZIP 70151 sector", "Orleans Parish / elevation 33 ft band"]
-zillowHomeValueUsd: 364588
 ---
 
-**Engineering Notice for New Orleans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orleans Parish.
+**Engineering Notice for New Orleans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orleans Parish.
 
+
+When a main line backs up in New Orleans, LA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in New Orleans, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orleans Parish clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -45,6 +48,8 @@ Galvanized segments in New Orleans, LA may restrict flow long before visible cor
 Flow dossier 362321: branch wet-vent geometry and jetting nozzle envelope logged for New Orleans, LA county grid Orleans Parish (ZIP 70139).
 
 Supply audit 362321: curb-stop orientation and hose-bib freeze flag reviewed for New Orleans, LA at coords 30.0700/-89.9300.
+
+Local service note: meter pit clearance paired with dielectric union checklist near ZIP 70139 for emergency plumbing pro repairs.
 
 On-site sector marker: Orleans Parish / ZIP 70145 sector — logged for map parity and ZIP-corridor verification.
 

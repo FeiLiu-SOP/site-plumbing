@@ -12,11 +12,14 @@ lng: -117.8800
 zipSample: ["91722", "91724", "91723"]
 zipCodes: ["91723", "91724", "91722"]
 localPaths: ["Los Angeles County / ZIP 91724 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / elevation 584 ft band", "Los Angeles County / ZIP 91723 sector", "Los Angeles County / coords 34.0900, -117.8800"]
-zillowHomeValueUsd: 886122
 ---
 
-**Engineering Notice for Covina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Covina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+When a main line backs up in Covina, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Covina, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Covina, CA irrigation cross-connections can mask domestic pressure loss.
 
@@ -49,8 +52,6 @@ Basement floor drains in Covina, CA should be snaked only after trap arm geometr
 Fixture roster 893503: toilet flange spacer kit and shower cartridge seat score queued for Covina, CA walk-through.
 
 Flow dossier 893503: branch wet-vent geometry and jetting nozzle envelope logged for Covina, CA county grid Los Angeles County (ZIP 91724).
-
-plumbing brief: meter pit clearance and jetter nozzle envelope were cross-checked for the Covina intake packet.
 
 On-site sector marker: Los Angeles County / coords 34.0900, -117.8800 — logged for map parity and ZIP-corridor verification.
 

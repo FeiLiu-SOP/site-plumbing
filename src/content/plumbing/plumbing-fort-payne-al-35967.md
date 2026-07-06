@@ -12,11 +12,14 @@ lng: -85.7000
 zipSample: ["35968", "35967"]
 zipCodes: ["35967", "35968"]
 localPaths: ["DeKalb County / coords 34.4600, -85.7000", "DeKalb County / ZIP 35968 sector", "DeKalb County / primary ZIP 35967", "DeKalb County / ZIP 35967 sector", "DeKalb County / elevation 1122 ft band"]
-zillowHomeValueUsd: 196196
 ---
 
-**Engineering Notice for Fort Payne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Fort Payne:** Supply line, cleanout, and water heater scope recorded at 1122 ft elevation context (DeKalb County).
 
+
+Plumbing restoration in Fort Payne, AL, DeKalb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Fort Payne, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -45,8 +48,6 @@ Polybutylene manifold tags in Fort Payne, AL basements should be photographed be
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Fort Payne, AL.
 
 Pressure trace 679120: meter-pit clearance and dielectric union checklist staged for Fort Payne, AL near elevation 1122 ft.
-
-Scope trace: branch wet vent geometry plus slab leak listening window referenced in DeKalb County county grid review.
 
 On-site sector marker: DeKalb County / ZIP 35968 sector — logged for map parity and ZIP-corridor verification.
 

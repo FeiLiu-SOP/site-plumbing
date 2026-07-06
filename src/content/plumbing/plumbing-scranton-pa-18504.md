@@ -12,11 +12,14 @@ lng: -75.6600
 zipSample: ["18540", "18510", "18515", "18504", "18503"]
 zipCodes: ["18515", "18505", "18503", "18507", "18508", "18510", "18540", "18504", "18509"]
 localPaths: ["Lackawanna County / coords 41.4000, -75.6600", "Lackawanna County / ZIP 18540 sector", "Lackawanna County / elevation 748 ft band", "Lackawanna County / primary ZIP 18504", "Lackawanna County / ZIP 18515 sector"]
-zillowHomeValueUsd: 177394
 ---
 
-**Engineering Notice for Scranton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lackawanna County.
+**Engineering Notice for Scranton:** Emergency leak and drain triage uses ~152 mg/L hardness context with Lackawanna County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Scranton, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Scranton, PA, Lackawanna County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Galvanized segments in Scranton, PA may restrict flow long before visible corrosion.
 
@@ -46,7 +49,7 @@ Cleanout access limits in Scranton, PA frequently extend drain cleaning duration
 
 Supply audit 349776: curb-stop orientation and hose-bib freeze flag reviewed for Scranton, PA at coords 41.4000/-75.6600.
 
-plumbing brief: PEX expansion ring batch and cleanout riser height were cross-checked for the Scranton intake packet.
+Plumbing service brief: PEX expansion ring batch and cleanout riser height were cross-checked for the Scranton pipe and leak scope.
 
 On-site sector marker: Lackawanna County / ZIP 18508 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,15 +12,18 @@ lng: -111.8500
 zipSample: ["84090", "84092", "84093", "84070", "84091"]
 zipCodes: ["84090", "84092", "84070", "84094", "84091", "84093"]
 localPaths: ["Salt Lake County / ZIP 84090 sector", "Salt Lake County / primary ZIP 84092", "Salt Lake County / coords 40.5700, -111.8500", "Salt Lake County / ZIP 84093 sector", "Salt Lake County / ZIP 84092 sector"]
-zillowHomeValueUsd: 866651
 ---
 
-**Engineering Notice for Sandy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Sandy:** Supply line, cleanout, and water heater scope recorded at 4793 ft elevation context (Salt Lake County).
 
+
+Licensed plumbing crews serving Sandy, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Sandy, UT, Salt Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Galvanized segments in Sandy, UT may restrict flow long before visible corrosion.
 
-We coordinate Sandy, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Sandy, UT plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

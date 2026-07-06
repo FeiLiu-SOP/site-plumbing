@@ -12,11 +12,14 @@ lng: -83.3600
 zipSample: ["43040", "43041"]
 zipCodes: ["43041", "43040"]
 localPaths: ["Union County / elevation 997 ft band", "Union County / primary ZIP 43040", "Union County / ZIP 43040 sector", "Union County / ZIP 43041 sector", "Union County / coords 40.2300, -83.3600"]
-zillowHomeValueUsd: 366079
 ---
 
-**Engineering Notice for Marysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Marysville:** Supply line, cleanout, and water heater scope recorded at 997 ft elevation context (Union County).
 
+
+Burst pipe and drain clog calls in Marysville, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Union County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Marysville, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in Marysville, OH should be reviewed before spring thaw cycles.
 
@@ -47,8 +50,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Intake ledger 816981: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marysville, OH at 40.2300, -83.3600.
 
 Pressure trace 816981: meter-pit clearance and dielectric union checklist staged for Marysville, OH near elevation 997 ft.
-
-plumbing brief: sewer cleanout cap thread and copper pinhole cluster were cross-checked for the Marysville intake packet.
 
 On-site sector marker: Union County / ZIP 43040 sector — logged for map parity and ZIP-corridor verification.
 

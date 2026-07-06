@@ -12,11 +12,14 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76097", "76028"]
 localPaths: ["Johnson County / coords 32.5200, -97.3300", "Johnson County / ZIP 76097 sector", "Johnson County / primary ZIP 76028", "Johnson County / ZIP 76028 sector", "Johnson County / elevation 748 ft band"]
-zillowHomeValueUsd: 339903
 ---
 
-**Engineering Notice for Burleson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Burleson:** Emergency leak and drain triage uses ~165 mg/L hardness context with Johnson County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Burleson, TX, Johnson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Burleson, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Johnson County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: In Burleson, TX, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,6 +46,8 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Burleson, TX.
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Drain map 786039: camera-pass priority and expansion-tank pre-charge noted for Burleson, TX postal sector 76028.
+
+Local service note: jetter nozzle envelope paired with water heater T&P path near ZIP 76028 for emergency plumbing technician repairs.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Johnson County. Reference elevation: 748 ft. Primary coordinates: 32.5200, -97.3300. ZIP sample: 76097, 76028. Logistics priority: Serving residential sectors across Johnson County and north-east ZIP 76028 grid.
 

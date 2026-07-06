@@ -12,11 +12,14 @@ lng: -79.1900
 zipSample: ["24515", "24514", "24506", "24502", "24503"]
 zipCodes: ["24501", "24503", "24513", "24506", "24504", "24514", "24502", "24515", "24505"]
 localPaths: ["Lynchburg County / coords 37.4000, -79.1900", "Lynchburg County / primary ZIP 24515", "Lynchburg County / ZIP 24503 sector", "Lynchburg County / ZIP 24502 sector", "Lynchburg County / ZIP 24515 sector"]
-zillowHomeValueUsd: 274448
 ---
 
-**Engineering Notice for Lynchburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lynchburg County.
+**Engineering Notice for Lynchburg:** Supply line, cleanout, and water heater scope recorded at 692 ft elevation context (Lynchburg County).
 
+
+Emergency plumbing pro service in Lynchburg, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Lynchburg County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing service in Lynchburg, VA, Lynchburg County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Frost-free sillcock failures in Lynchburg, VA often trace to interior shutoff seats, not exterior stems.
 
@@ -44,13 +47,13 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 
 Galvanized segments in Lynchburg, VA may restrict flow long before visible corrosion.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Fixture roster 364083: toilet flange spacer kit and shower cartridge seat score queued for Lynchburg, VA walk-through.
 
 Supply audit 364083: curb-stop orientation and hose-bib freeze flag reviewed for Lynchburg, VA at coords 37.4000/-79.1900.
 
-plumbing brief: shower cartridge seat score and backflow test cock orientation were cross-checked for the Lynchburg intake packet.
+Plumbing remediation brief: shower cartridge seat score and backflow test cock orientation were cross-checked for the Lynchburg pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 37.4000, -79.1900 at elevation ~692 ft aligns with Lynchburg County intake staging.
 

@@ -12,11 +12,14 @@ lng: -81.0200
 zipSample: ["29730", "29733", "29732", "29731"]
 zipCodes: ["29732", "29730", "29731", "29733"]
 localPaths: ["York County / elevation 679 ft band", "York County / ZIP 29731 sector", "York County / coords 34.9400, -81.0200", "York County / ZIP 29733 sector", "York County / primary ZIP 29732"]
-zillowHomeValueUsd: 354349
 ---
 
-**Engineering Notice for Rock Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
+**Engineering Notice for Rock Hill:** Supply line, cleanout, and water heater scope recorded at 679 ft elevation context (York County).
 
+
+Qualified plumbing crews serving Rock Hill, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Rock Hill, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in York County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 29732.
 
@@ -26,7 +29,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Branch wet vents in Rock Hill, SC can mask gurgling as a main-line issue.
 
@@ -36,7 +39,7 @@ Step: tag shutoffs and meter orientation before opening walls.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch packets reference county grid York County near ZIP 29732.
+Our Rock Hill, SC service packets reference York County near ZIP 29732 for pipe and leak scope.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -47,6 +50,8 @@ Risk flag: In Rock Hill, SC, slab leaks can misroute as foundation issues withou
 Across Rock Hill, SC, main-line bellies can trap debris even when fixtures drain normally.
 
 Fixture roster 947885: toilet flange spacer kit and shower cartridge seat score queued for Rock Hill, SC walk-through.
+
+Scope trace: gas water heater draft hood gap plus backflow test cock orientation referenced in York County drain and water line review.
 
 ZIP-corridor snapshot for Rock Hill, SC: sampled sectors include 29731, 29732, 29730, 29733; county routing grid remains York County.
 

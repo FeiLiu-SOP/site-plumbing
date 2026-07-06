@@ -12,11 +12,14 @@ lng: -82.3500
 zipSample: ["32604", "32635", "32610", "32608", "32653"]
 zipCodes: ["32603", "32610", "32635", "32607", "32605", "32611", "32627", "32612", "32653", "32614", "32609", "32608"]
 localPaths: ["Alachua County / ZIP 32610 sector", "Alachua County / ZIP 32653 sector", "Alachua County / ZIP 32608 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / primary ZIP 32608"]
-zillowHomeValueUsd: 337052
 ---
 
-**Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alachua County.
+**Engineering Notice for Gainesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Alachua County.
 
+
+Burst pipe and drain clog calls in Gainesville, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Alachua County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Gainesville, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -43,8 +46,6 @@ FAQ: When is cabling enough? In Gainesville, FL, pipe material and blockage type
 Step: document dielectric unions before mixed-metal replacements.
 
 Fixture roster 725451: toilet flange spacer kit and shower cartridge seat score queued for Gainesville, FL walk-through.
-
-Scope trace: gas water heater draft hood gap plus slab penetration sleeve seal referenced in Alachua County county grid review.
 
 On-site sector marker: Alachua County / ZIP 32611 sector — logged for map parity and ZIP-corridor verification.
 

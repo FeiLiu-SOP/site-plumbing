@@ -12,11 +12,14 @@ lng: -98.5300
 zipSample: ["76305", "76302", "76308", "76306", "76301"]
 zipCodes: ["76302", "76305", "76309", "76307", "76301", "76310", "76306", "76311", "76308"]
 localPaths: ["Wichita County / primary ZIP 76309", "Wichita County / ZIP 76302 sector", "Wichita County / ZIP 76308 sector", "Wichita County / coords 33.9100, -98.5300", "Wichita County / ZIP 76305 sector"]
-zillowHomeValueUsd: 121402
 ---
 
-**Engineering Notice for Wichita Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wichita County.
+**Engineering Notice for Wichita Falls:** Supply line, cleanout, and water heater scope recorded at 961 ft elevation context (Wichita County).
 
+
+Plumbing service in Wichita Falls, TX, Wichita County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Wichita Falls, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When should sump battery backups be load-tested? In Wichita Falls, TX, before spring thaw and hurricane remnants.
 
@@ -38,13 +41,11 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate Wichita Falls, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Wichita Falls, TX plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Drain map 662255: camera-pass priority and expansion-tank pre-charge noted for Wichita Falls, TX postal sector 76309.
-
-Field routing: recirculation pump amp draw paired with cleanout riser height near ZIP 76309.
 
 **Regional Infrastructure Brief:** Grid anchor set to Wichita County. Reference elevation: 961 ft. Primary coordinates: 33.9100, -98.5300. ZIP sample: 76305, 76308, 76311, 76306, 76309. Logistics priority: Serving residential sectors across Wichita County and north-east ZIP 76309 grid.
 

@@ -12,11 +12,14 @@ lng: -76.6800
 zipSample: ["21114", "21054"]
 zipCodes: ["21054", "21114"]
 localPaths: ["Anne Arundel County / coords 39.0100, -76.6800", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / ZIP 21114 sector", "Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / elevation 121 ft band"]
-zillowHomeValueUsd: 613041
 ---
 
-**Engineering Notice for Crofton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Crofton:** Supply line, cleanout, and water heater scope recorded at 121 ft elevation context (Anne Arundel County).
 
+
+Emergency plumbing pro service in Crofton, MD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Anne Arundel County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Crofton, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anne Arundel County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Crofton, MD hardness profiles.
 
@@ -38,15 +41,13 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 21054.
 
 Trenchless pulls in Crofton, MD require pit dimensions verified against utility locate marks.
 
-Dispatch packets reference county grid Anne Arundel County near ZIP 21054.
+Our Crofton, MD service packets reference Anne Arundel County near ZIP 21054 for pipe and leak scope.
 
 Permit note: Main water line replacement in Crofton, MD may require ROW restoration planning.
 
 Intake ledger 104879: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Crofton, MD at 39.0100, -76.6800.
 
 Flow dossier 104879: branch wet-vent geometry and jetting nozzle envelope logged for Crofton, MD county grid Anne Arundel County (ZIP 21054).
-
-Field routing: meter pit clearance paired with water heater T&P path near ZIP 21054.
 
 Coordinate-anchored dispatch note: center reference 39.0100, -76.6800 at elevation ~121 ft aligns with Anne Arundel County intake staging.
 

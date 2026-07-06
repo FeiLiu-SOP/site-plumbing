@@ -12,11 +12,14 @@ lng: -118.2000
 zipSample: ["91011", "91012"]
 zipCodes: ["91012", "91011"]
 localPaths: ["Los Angeles County / ZIP 91011 sector", "Los Angeles County / coords 34.2100, -118.2000", "Los Angeles County / elevation 1421 ft band", "Los Angeles County / primary ZIP 91011", "Los Angeles County / ZIP 91012 sector"]
-zillowHomeValueUsd: 2488631
 ---
 
-**Engineering Notice for La Cañada Flintridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Cañada Flintridge:** Emergency leak and drain triage uses ~144 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in La Cañada Flintridge, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in La Cañada Flintridge, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Stack vent offsets in La Cañada Flintridge, CA older duplexes can mask tub gurgle as a main-line failure.
 

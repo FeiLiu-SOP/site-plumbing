@@ -12,11 +12,14 @@ lng: -80.6700
 zipSample: ["32952", "32937", "32953", "32954"]
 zipCodes: ["32953", "32954", "32952", "32937"]
 localPaths: ["Brevard County / ZIP 32953 sector", "Brevard County / elevation 0 ft band", "Brevard County / ZIP 32952 sector", "Brevard County / ZIP 32954 sector", "Brevard County / primary ZIP 32952"]
-zillowHomeValueUsd: 432985
 ---
 
-**Engineering Notice for Merritt Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
+**Engineering Notice for Merritt Island:** Supply line, cleanout, and water heater scope recorded at 0 ft elevation context (Brevard County).
 
+
+Burst pipe and drain clog calls in Merritt Island, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brevard County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Merritt Island, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ Polybutylene manifold tags in Merritt Island, FL basements should be photographe
 Supply audit 967130: curb-stop orientation and hose-bib freeze flag reviewed for Merritt Island, FL at coords 28.3100/-80.6700.
 
 Pressure trace 967130: meter-pit clearance and dielectric union checklist staged for Merritt Island, FL near elevation 0 ft.
-
-Scope trace: jetter nozzle envelope plus sump float travel referenced in Brevard County county grid review.
 
 Coordinate-anchored dispatch note: center reference 28.3100, -80.6700 at elevation ~0 ft aligns with Brevard County intake staging.
 

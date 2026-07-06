@@ -12,11 +12,14 @@ lng: -101.2800
 zipSample: ["58707", "58701", "58702", "58703"]
 zipCodes: ["58707", "58703", "58701", "58702"]
 localPaths: ["Ward County / coords 48.2400, -101.2800", "Ward County / primary ZIP 58707", "Ward County / ZIP 58707 sector", "Ward County / ZIP 58701 sector", "Ward County / elevation 1555 ft band"]
-zillowHomeValueUsd: 281828
 ---
 
-**Engineering Notice for Minot:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ward County.
+**Engineering Notice for Minot:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ward County.
 
+
+Burst pipe and drain clog calls in Minot, ND may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ward County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Minot, ND review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hose bib split patterns in Minot, ND often follow missed winterization.
 
@@ -30,7 +33,7 @@ Hydrostatic holds in Minot, ND slab circuits run overnight when listening mics s
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hard water in Minot, ND accelerates scale on PRV seats and heater elements.
 
@@ -47,8 +50,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Supply audit 623174: curb-stop orientation and hose-bib freeze flag reviewed for Minot, ND at coords 48.2400/-101.2800.
 
 Fixture roster 623174: toilet flange spacer kit and shower cartridge seat score queued for Minot, ND walk-through.
-
-plumbing brief: toilet flange spacer kit and dielectric union checklist were cross-checked for the Minot intake packet.
 
 Regional mesh label Ward County: moisture and logistics baselines are keyed to Minot, ND before niche-specific work begins.
 

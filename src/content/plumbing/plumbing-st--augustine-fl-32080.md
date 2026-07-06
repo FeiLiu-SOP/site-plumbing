@@ -12,11 +12,14 @@ lng: -81.3100
 zipSample: ["32095", "32084", "32080"]
 zipCodes: ["32080", "32084", "32095"]
 localPaths: ["St. Johns County / ZIP 32084 sector", "St. Johns County / elevation 0 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / coords 29.9000, -81.3100", "St. Johns County / ZIP 32080 sector"]
-zillowHomeValueUsd: 538470
 ---
 
-**Engineering Notice for St. Augustine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Johns County.
+**Engineering Notice for St. Augustine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Johns County.
 
+
+Emergency plumbing pro service in St. Augustine, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in St. Johns County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in St. Augustine, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Johns County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In St. Augustine, FL, slab leaks can misroute as foundation issues without listening equipment.
 

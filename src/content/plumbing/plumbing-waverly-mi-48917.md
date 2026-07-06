@@ -12,11 +12,14 @@ lng: -84.6400
 zipSample: ["48908", "48917"]
 zipCodes: ["48908", "48917"]
 localPaths: ["Eaton County / elevation 869 ft band", "Eaton County / coords 42.7400, -84.6400", "Eaton County / ZIP 48917 sector", "Eaton County / primary ZIP 48917", "Eaton County / ZIP 48908 sector"]
-zillowHomeValueUsd: 260259
 ---
 
-**Engineering Notice for Waverly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Eaton County.
+**Engineering Notice for Waverly:** Emergency leak and drain triage uses ~177 mg/L hardness context with Eaton County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Waverly, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Eaton County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing remediation in Waverly, MI, Eaton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -45,8 +48,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Fixture roster 195440: toilet flange spacer kit and shower cartridge seat score queued for Waverly, MI walk-through.
 
 Supply audit 195440: curb-stop orientation and hose-bib freeze flag reviewed for Waverly, MI at coords 42.7400/-84.6400.
-
-plumbing brief: fixture shutoff torque log and slab penetration sleeve seal were cross-checked for the Waverly intake packet.
 
 Coordinate-anchored dispatch note: center reference 42.7400, -84.6400 at elevation ~869 ft aligns with Eaton County intake staging.
 

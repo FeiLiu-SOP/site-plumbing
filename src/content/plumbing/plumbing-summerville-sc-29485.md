@@ -12,11 +12,14 @@ lng: -80.1800
 zipSample: ["29484", "29483", "29485", "29486"]
 zipCodes: ["29486", "29484", "29485", "29483"]
 localPaths: ["Dorchester County / ZIP 29484 sector", "Dorchester County / coords 33.0000, -80.1800", "Dorchester County / ZIP 29486 sector", "Dorchester County / primary ZIP 29485", "Dorchester County / elevation 66 ft band"]
-zillowHomeValueUsd: 366095
 ---
 
-**Engineering Notice for Summerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dorchester County.
+**Engineering Notice for Summerville:** Emergency leak and drain triage uses ~144 mg/L hardness context with Dorchester County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Summerville, SC, Dorchester County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Summerville, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dorchester County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -40,15 +43,13 @@ Cast-iron hub corrosion in Summerville, SC often concentrates at the third joint
 
 Expansion tank pre-charge loss in Summerville, SC often tracks heater replacement deferrals.
 
-Dispatch packets reference county grid Dorchester County near ZIP 29485.
+Our Summerville, SC service packets reference Dorchester County near ZIP 29485 for pipe and leak scope.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Flow dossier 231215: branch wet-vent geometry and jetting nozzle envelope logged for Summerville, SC county grid Dorchester County (ZIP 29485).
 
 Supply audit 231215: curb-stop orientation and hose-bib freeze flag reviewed for Summerville, SC at coords 33.0000/-80.1800.
-
-Field routing: water softener bypass lever paired with copper pinhole cluster near ZIP 29485.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~66 ft across the Dorchester County area. Coordinates: 33.0000, -80.1800. ZIP sample: 29483, 29484, 29486, 29485. Service perimeter note: Coverage extends through Dorchester County with dispatch centered near ZIP 29485.
 

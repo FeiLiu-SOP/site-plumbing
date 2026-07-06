@@ -12,11 +12,14 @@ lng: -87.6700
 zipSample: ["36535", "36536"]
 zipCodes: ["36536", "36535"]
 localPaths: ["Baldwin County / primary ZIP 36535", "Baldwin County / coords 30.4000, -87.6700", "Baldwin County / elevation 75 ft band", "Baldwin County / ZIP 36536 sector", "Baldwin County / ZIP 36535 sector"]
-zillowHomeValueUsd: 301624
 ---
 
-**Engineering Notice for Foley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Foley:** Emergency leak and drain triage uses ~175 mg/L hardness context with Baldwin County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Foley, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Foley, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 36535.
 
@@ -48,7 +51,7 @@ Fixture roster 182386: toilet flange spacer kit and shower cartridge seat score 
 
 Lineage note 182386: recirculation pump amp draw captured before Foley, AL branch isolation.
 
-plumbing brief: slab leak listening window and floor drain trap primer drip were cross-checked for the Foley intake packet.
+Plumbing service brief: slab leak listening window and floor drain trap primer drip were cross-checked for the Foley pipe and leak scope.
 
 On-site sector marker: Baldwin County / coords 30.4000, -87.6700 — logged for map parity and ZIP-corridor verification.
 

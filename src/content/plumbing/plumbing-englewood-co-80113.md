@@ -12,11 +12,14 @@ lng: -104.9900
 zipSample: ["80110", "80113", "80150", "80151"]
 zipCodes: ["80151", "80110", "80150", "80113"]
 localPaths: ["Arapahoe County / ZIP 80151 sector", "Arapahoe County / ZIP 80110 sector", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / elevation 5367 ft band", "Arapahoe County / ZIP 80150 sector"]
-zillowHomeValueUsd: 646676
 ---
 
-**Engineering Notice for Englewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Englewood:** Emergency leak and drain triage uses ~139 mg/L hardness context with Arapahoe County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Englewood, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Englewood, CO, Arapahoe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hard water in Englewood, CO accelerates scale on PRV seats and heater elements.
 
@@ -47,8 +50,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Pressure trace 873338: meter-pit clearance and dielectric union checklist staged for Englewood, CO near elevation 5367 ft.
-
-Field routing: meter pit clearance paired with sump float travel near ZIP 80113.
 
 ZIP-corridor snapshot for Englewood, CO: sampled sectors include 80113, 80110, 80150, 80151; county routing grid remains Arapahoe County.
 

@@ -12,11 +12,14 @@ lng: -73.2000
 zipSample: ["06606", "06608", "06607", "06602", "06605"]
 zipCodes: ["06608", "06601", "06602", "06607", "06606", "06610", "06604", "06605"]
 localPaths: ["Greater Bridgeport County / ZIP 06607 sector", "Greater Bridgeport County / primary ZIP 06605", "Greater Bridgeport County / elevation 33 ft band", "Greater Bridgeport County / ZIP 06608 sector", "Greater Bridgeport County / ZIP 06605 sector"]
-zillowHomeValueUsd: 372541
 ---
 
-**Engineering Notice for Bridgeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greater Bridgeport County.
+**Engineering Notice for Bridgeport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Greater Bridgeport County.
 
+
+Burst pipe and drain clog calls in Bridgeport, CT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greater Bridgeport County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Bridgeport, CT, Greater Bridgeport County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Permit note: Main water line replacement in Bridgeport, CT may require ROW restoration planning.
 

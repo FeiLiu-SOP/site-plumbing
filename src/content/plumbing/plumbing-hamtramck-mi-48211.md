@@ -12,11 +12,14 @@ lng: -83.0600
 zipSample: ["48212", "48211"]
 zipCodes: ["48212", "48211"]
 localPaths: ["Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48211", "Wayne County / ZIP 48211 sector", "Wayne County / ZIP 48212 sector", "Wayne County / coords 42.4000, -83.0600"]
-zillowHomeValueUsd: 56328
 ---
 
-**Engineering Notice for Hamtramck:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Hamtramck:** Supply line, cleanout, and water heater scope recorded at 636 ft elevation context (Wayne County).
 
+
+Plumbing service in Hamtramck, MI, Wayne County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Hamtramck, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -36,7 +39,7 @@ Permit note: Main water line replacement in Hamtramck, MI may require ROW restor
 
 CPVC solvent weld times shift with ambient humidity during Hamtramck, MI shoulder seasons.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Hamtramck, MI require pit dimensions verified against utility locate marks.
 

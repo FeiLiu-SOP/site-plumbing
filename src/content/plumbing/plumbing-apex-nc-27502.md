@@ -12,11 +12,14 @@ lng: -78.8700
 zipSample: ["27523", "27539", "27502"]
 zipCodes: ["27539", "27502", "27523"]
 localPaths: ["Wake County / ZIP 27502 sector", "Wake County / primary ZIP 27502", "Wake County / coords 35.7200, -78.8700", "Wake County / elevation 436 ft band", "Wake County / ZIP 27539 sector"]
-zillowHomeValueUsd: 569717
 ---
 
-**Engineering Notice for Apex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Apex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wake County.
 
+
+Plumbing remediation in Apex, NC, Wake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Apex, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Wake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Frost-free sillcock failures in Apex, NC often trace to interior shutoff seats, not exterior stems.
 
@@ -49,8 +52,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Fixture roster 193657: toilet flange spacer kit and shower cartridge seat score queued for Apex, NC walk-through.
 
 Supply audit 193657: curb-stop orientation and hose-bib freeze flag reviewed for Apex, NC at coords 35.7200/-78.8700.
-
-Scope trace: cleanout riser height plus branch wet vent geometry referenced in Wake County county grid review.
 
 On-site sector marker: Wake County / ZIP 27523 sector — logged for map parity and ZIP-corridor verification.
 

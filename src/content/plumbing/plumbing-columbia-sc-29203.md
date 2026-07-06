@@ -12,13 +12,16 @@ lng: -80.9000
 zipSample: ["29220", "29217", "29212", "29207", "29208"]
 zipCodes: ["29208", "29202", "29205", "29204", "29215", "29209", "29218", "29226", "29212", "29210", "29206", "29250"]
 localPaths: ["Richland County / coords 34.0400, -80.9000", "Richland County / primary ZIP 29203", "Richland County / ZIP 29212 sector", "Richland County / ZIP 29220 sector", "Richland County / ZIP 29217 sector"]
-zillowHomeValueUsd: 134199
 ---
 
-**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richland County.
+**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Richland County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Columbia, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Columbia, SC, Richland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -43,8 +46,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Pressure trace 655314: meter-pit clearance and dielectric union checklist staged for Columbia, SC near elevation 308 ft.
-
-Field routing: PRV outlet curve paired with fixture shutoff torque log near ZIP 29203.
 
 Regional mesh label Richland County: moisture and logistics baselines are keyed to Columbia, SC before niche-specific work begins.
 

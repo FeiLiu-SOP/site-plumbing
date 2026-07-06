@@ -12,11 +12,14 @@ lng: -122.6600
 zipSample: ["98665"]
 zipCodes: ["98665"]
 localPaths: ["Clark County / elevation 236 ft band", "Clark County / coords 45.6800, -122.6600", "Clark County / primary ZIP 98665", "Clark County / ZIP 98665 sector"]
-zillowHomeValueUsd: 502096
 ---
 
-**Engineering Notice for Hazel Dell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Hazel Dell:** Emergency leak and drain triage uses ~145 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Hazel Dell, WA, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Hazel Dell, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Hydrostatic holds in Hazel Dell, WA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ Stack vent offsets in Hazel Dell, WA older duplexes can mask tub gurgle as a mai
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Pressure trace 307832: meter-pit clearance and dielectric union checklist staged for Hazel Dell, WA near elevation 236 ft.
-
-plumbing brief: cleanout riser height and slab leak listening window were cross-checked for the Hazel Dell intake packet.
 
 On-site sector marker: Clark County / elevation 236 ft band — logged for map parity and ZIP-corridor verification.
 

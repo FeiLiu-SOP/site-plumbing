@@ -12,11 +12,14 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / primary ZIP 07646", "Bergen County / coords 40.9300, -74.0200", "Bergen County / elevation 36 ft band", "Bergen County / ZIP 07646 sector"]
-zillowHomeValueUsd: 728337
 ---
 
-**Engineering Notice for New Milford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for New Milford:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Bergen County).
 
+
+Plumbing restoration in New Milford, NJ, Bergen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving New Milford, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -30,7 +33,7 @@ Permit note: Main water line replacement in New Milford, NJ may require ROW rest
 
 Hard water in New Milford, NJ accelerates scale on PRV seats and heater elements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with New Milford, NJ hardness profiles.
 
@@ -44,7 +47,7 @@ Irrigation cross-connections in New Milford, NJ can back-siphon domestic lines d
 
 Drain map 660679: camera-pass priority and expansion-tank pre-charge noted for New Milford, NJ postal sector 07646.
 
-plumbing brief: PRV outlet curve and sewer cleanout cap thread were cross-checked for the New Milford intake packet.
+Plumbing service brief: PRV outlet curve and sewer cleanout cap thread were cross-checked for the New Milford pipe and leak scope.
 
 On-site sector marker: Bergen County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

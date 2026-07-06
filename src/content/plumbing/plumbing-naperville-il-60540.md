@@ -12,15 +12,18 @@ lng: -88.1700
 zipSample: ["60565", "60567", "60540", "60564", "60563"]
 zipCodes: ["60565", "60563", "60567", "60564", "60540"]
 localPaths: ["DuPage County / primary ZIP 60540", "DuPage County / ZIP 60564 sector", "DuPage County / ZIP 60565 sector", "DuPage County / ZIP 60567 sector", "DuPage County / ZIP 60563 sector"]
-zillowHomeValueUsd: 633145
 ---
 
-**Engineering Notice for Naperville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Naperville:** Emergency leak and drain triage uses ~171 mg/L hardness context with DuPage County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Naperville, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DuPage County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Naperville, IL, DuPage County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate Naperville, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Naperville, IL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 60540.
 

@@ -12,11 +12,14 @@ lng: -82.5100
 zipSample: ["33688", "33618", "33624"]
 zipCodes: ["33688", "33624", "33618"]
 localPaths: ["Hillsborough County / elevation 69 ft band", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / ZIP 33624 sector", "Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33688 sector"]
-zillowHomeValueUsd: 410822
 ---
 
-**Engineering Notice for Carrollwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Carrollwood:** Emergency leak and drain triage uses ~134 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Carrollwood, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Carrollwood, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Carrollwood, FL may require ROW rest
 Drain map 207724: camera-pass priority and expansion-tank pre-charge noted for Carrollwood, FL postal sector 33624.
 
 Supply audit 207724: curb-stop orientation and hose-bib freeze flag reviewed for Carrollwood, FL at coords 28.0600/-82.5100.
-
-plumbing brief: thermal expansion loop check and dielectric union checklist were cross-checked for the Carrollwood intake packet.
 
 ZIP-corridor snapshot for Carrollwood, FL: sampled sectors include 33618, 33688, 33624; county routing grid remains Hillsborough County.
 

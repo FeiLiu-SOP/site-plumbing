@@ -12,11 +12,14 @@ lng: -82.3800
 zipSample: ["33637", "33617", "33687"]
 zipCodes: ["33617", "33687", "33637"]
 localPaths: ["Hillsborough County / coords 28.0400, -82.3800", "Hillsborough County / ZIP 33617 sector", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / primary ZIP 33637", "Hillsborough County / ZIP 33687 sector"]
-zillowHomeValueUsd: 295156
 ---
 
-**Engineering Notice for Temple Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Temple Terrace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hillsborough County.
 
+
+Licensed plumbing crews serving Temple Terrace, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Temple Terrace, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Temple Terrace, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -34,7 +37,7 @@ Permit note: Main water line replacement in Temple Terrace, FL may require ROW r
 
 Trenchless sleeve pulls near Temple Terrace, FL require pit shoring notes when water tables are high.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 

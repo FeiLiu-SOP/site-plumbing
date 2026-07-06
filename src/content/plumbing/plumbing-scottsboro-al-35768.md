@@ -12,11 +12,14 @@ lng: -86.0500
 zipSample: ["35768", "35769"]
 zipCodes: ["35769", "35768"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / ZIP 35769 sector", "Jackson County / elevation 623 ft band", "Jackson County / coords 34.6400, -86.0500", "Jackson County / ZIP 35768 sector"]
-zillowHomeValueUsd: 172957
 ---
 
-**Engineering Notice for Scottsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Scottsboro:** Emergency leak and drain triage uses ~166 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Scottsboro, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in Scottsboro, AL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Jackson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 35768.
 
@@ -34,7 +37,7 @@ Cast-iron hub corrosion in Scottsboro, AL often concentrates at the third joint 
 
 Step: photograph curb-stop and meter pit before trenching.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sewer gas odors in Scottsboro, AL should trigger trap seal and vent path review.
 

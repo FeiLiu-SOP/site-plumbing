@@ -12,11 +12,14 @@ lng: -117.3900
 zipSample: ["92376", "92316", "92377"]
 zipCodes: ["92376", "92377", "92316"]
 localPaths: ["San Bernardino County / coords 34.1200, -117.3900", "San Bernardino County / ZIP 92316 sector", "San Bernardino County / primary ZIP 92316", "San Bernardino County / ZIP 92376 sector", "San Bernardino County / ZIP 92377 sector"]
-zillowHomeValueUsd: 564828
 ---
 
-**Engineering Notice for Rialto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Rialto:** Supply line, cleanout, and water heater scope recorded at 1342 ft elevation context (San Bernardino County).
 
+
+When a main line backs up in Rialto, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Rialto, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -42,7 +45,7 @@ FAQ: When should sump battery backups be load-tested? In Rialto, CA, before spri
 
 Hydro-jetting in Rialto, CA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch packets reference county grid San Bernardino County near ZIP 92316.
+Our Rialto, CA service packets reference San Bernardino County near ZIP 92316 for pipe and leak scope.
 
 Pressure trace 272412: meter-pit clearance and dielectric union checklist staged for Rialto, CA near elevation 1342 ft.
 

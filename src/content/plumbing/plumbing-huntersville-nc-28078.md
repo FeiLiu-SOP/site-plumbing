@@ -12,11 +12,14 @@ lng: -80.8700
 zipSample: ["28070", "28078"]
 zipCodes: ["28070", "28078"]
 localPaths: ["Mecklenburg County / primary ZIP 28078", "Mecklenburg County / ZIP 28078 sector", "Mecklenburg County / ZIP 28070 sector", "Mecklenburg County / coords 35.4100, -80.8700", "Mecklenburg County / elevation 696 ft band"]
-zillowHomeValueUsd: 541660
 ---
 
-**Engineering Notice for Huntersville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Huntersville:** Supply line, cleanout, and water heater scope recorded at 696 ft elevation context (Mecklenburg County).
 
+
+Licensed plumbing crews serving Huntersville, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Huntersville, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 28078.
 
@@ -48,7 +51,7 @@ Supply audit 636764: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 636764: toilet flange spacer kit and shower cartridge seat score queued for Huntersville, NC walk-through.
 
-Scope trace: sump float travel plus thermal expansion loop check referenced in Mecklenburg County county grid review.
+Scope trace: sump float travel plus thermal expansion loop check referenced in Mecklenburg County drain and water line review.
 
 On-site sector marker: Mecklenburg County / coords 35.4100, -80.8700 — logged for map parity and ZIP-corridor verification.
 

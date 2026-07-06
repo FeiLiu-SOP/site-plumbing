@@ -12,11 +12,14 @@ lng: -85.6400
 zipSample: ["40207", "40222"]
 zipCodes: ["40222", "40207"]
 localPaths: ["Jefferson County / primary ZIP 40222", "Jefferson County / coords 38.2500, -85.6400", "Jefferson County / ZIP 40207 sector", "Jefferson County / ZIP 40222 sector", "Jefferson County / elevation 545 ft band"]
-zillowHomeValueUsd: 391866
 ---
 
-**Engineering Notice for St. Matthews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for St. Matthews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+When a main line backs up in St. Matthews, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in St. Matthews, KY, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,8 +50,6 @@ Recirculation pump failures in St. Matthews, KY can mimic fixture-specific clogs
 Hose bib split patterns in St. Matthews, KY often follow missed winterization.
 
 Pressure trace 113046: meter-pit clearance and dielectric union checklist staged for St. Matthews, KY near elevation 545 ft.
-
-Field routing: slab penetration sleeve seal paired with sewer cleanout cap thread near ZIP 40222.
 
 On-site sector marker: Jefferson County / elevation 545 ft band — logged for map parity and ZIP-corridor verification.
 

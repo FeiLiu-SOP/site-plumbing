@@ -12,11 +12,14 @@ lng: -80.0800
 zipSample: ["27360", "27361"]
 zipCodes: ["27360", "27361"]
 localPaths: ["Davidson County / elevation 840 ft band", "Davidson County / primary ZIP 27360", "Davidson County / ZIP 27360 sector", "Davidson County / ZIP 27361 sector", "Davidson County / coords 35.8800, -80.0800"]
-zillowHomeValueUsd: 238334
 ---
 
-**Engineering Notice for Thomasville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davidson County.
+**Engineering Notice for Thomasville:** Supply line, cleanout, and water heater scope recorded at 840 ft elevation context (Davidson County).
 
+
+Burst pipe and drain clog calls in Thomasville, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Davidson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Thomasville, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Davidson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hydro-jetting in Thomasville, NC requires camera confirmation before nozzle pressure is raised.
 
@@ -47,6 +50,8 @@ Risk flag: Seasonal Thomasville, NC irrigation cross-connections can mask domest
 Hydrostatic holds in Thomasville, NC slab circuits run overnight when listening mics show ambiguous hits.
 
 Flow dossier 401850: branch wet-vent geometry and jetting nozzle envelope logged for Thomasville, NC county grid Davidson County (ZIP 27360).
+
+Scope trace: cleanout riser height plus branch wet vent geometry referenced in Davidson County drain and water line review.
 
 On-site sector marker: Davidson County / primary ZIP 27360 — logged for map parity and ZIP-corridor verification.
 

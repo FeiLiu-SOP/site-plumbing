@@ -12,11 +12,14 @@ lng: -81.8000
 zipSample: ["44107"]
 zipCodes: ["44107"]
 localPaths: ["Cuyahoga County / coords 41.4800, -81.8000", "Cuyahoga County / elevation 705 ft band", "Cuyahoga County / ZIP 44107 sector", "Cuyahoga County / primary ZIP 44107"]
-zillowHomeValueUsd: 285856
 ---
 
-**Engineering Notice for Lakewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Lakewood:** Emergency leak and drain triage uses ~136 mg/L hardness context with Cuyahoga County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Lakewood, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cuyahoga County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Lakewood, OH, Cuyahoga County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Lakewood, OH irrigation zones need backflow logs before line replacement.
 
@@ -47,8 +50,6 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 44107.
 Drain map 718025: camera-pass priority and expansion-tank pre-charge noted for Lakewood, OH postal sector 44107.
 
 Fixture roster 718025: toilet flange spacer kit and shower cartridge seat score queued for Lakewood, OH walk-through.
-
-Scope trace: PRV outlet curve plus slab penetration sleeve seal referenced in Cuyahoga County county grid review.
 
 On-site sector marker: Cuyahoga County / ZIP 44107 sector — logged for map parity and ZIP-corridor verification.
 

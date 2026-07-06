@@ -12,11 +12,14 @@ lng: -76.1800
 zipSample: ["13045"]
 zipCodes: ["13045"]
 localPaths: ["Cortland County / primary ZIP 13045", "Cortland County / coords 42.6000, -76.1800", "Cortland County / elevation 1122 ft band", "Cortland County / ZIP 13045 sector"]
-zillowHomeValueUsd: 197168
 ---
 
-**Engineering Notice for Cortland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cortland County.
+**Engineering Notice for Cortland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cortland County.
 
+
+When a main line backs up in Cortland, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Cortland, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -30,7 +33,7 @@ Galvanized segments in Cortland, NY may restrict flow long before visible corros
 
 Step: photograph curb-stop and meter pit before trenching.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -43,8 +46,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Drain map 190466: camera-pass priority and expansion-tank pre-charge noted for Cortland, NY postal sector 13045.
-
-plumbing brief: branch wet vent geometry and dielectric union checklist were cross-checked for the Cortland intake packet.
 
 On-site sector marker: Cortland County / elevation 1122 ft band — logged for map parity and ZIP-corridor verification.
 

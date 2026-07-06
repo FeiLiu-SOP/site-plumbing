@@ -12,11 +12,14 @@ lng: -87.5300
 zipSample: ["35407", "35476", "35486", "35404", "35406"]
 zipCodes: ["35403", "35476", "35401", "35407", "35486", "35404", "35487", "35405", "35406", "35475"]
 localPaths: ["Tuscaloosa County / ZIP 35404 sector", "Tuscaloosa County / ZIP 35486 sector", "Tuscaloosa County / coords 33.2300, -87.5300", "Tuscaloosa County / elevation 253 ft band", "Tuscaloosa County / ZIP 35476 sector"]
-zillowHomeValueUsd: 299977
 ---
 
-**Engineering Notice for Tuscaloosa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscaloosa County.
+**Engineering Notice for Tuscaloosa:** Emergency leak and drain triage uses ~168 mg/L hardness context with Tuscaloosa County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Tuscaloosa, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Tuscaloosa, AL, Tuscaloosa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -50,7 +53,7 @@ Drain map 617986: camera-pass priority and expansion-tank pre-charge noted for T
 
 Pressure trace 617986: meter-pit clearance and dielectric union checklist staged for Tuscaloosa, AL near elevation 253 ft.
 
-Scope trace: recirculation pump amp draw plus branch wet vent geometry referenced in Tuscaloosa County county grid review.
+Scope trace: recirculation pump amp draw plus branch wet vent geometry referenced in Tuscaloosa County drain and water line review.
 
 ZIP-corridor snapshot for Tuscaloosa, AL: sampled sectors include 35401, 35406, 35476, 35405, 35403, 35407, 35475, 35486; county routing grid remains Tuscaloosa County.
 

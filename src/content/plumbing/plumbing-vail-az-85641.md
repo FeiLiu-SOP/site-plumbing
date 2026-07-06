@@ -12,11 +12,14 @@ lng: -110.6900
 zipSample: ["85744", "85641"]
 zipCodes: ["85744", "85641"]
 localPaths: ["Pima County / ZIP 85641 sector", "Pima County / primary ZIP 85641", "Pima County / ZIP 85744 sector", "Pima County / coords 32.0200, -110.6900", "Pima County / elevation 3346 ft band"]
-zillowHomeValueUsd: 407204
 ---
 
-**Engineering Notice for Vail:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Vail:** Emergency leak and drain triage uses ~146 mg/L hardness context with Pima County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Vail, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Vail, AZ, Pima County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Vail, AZ.
 

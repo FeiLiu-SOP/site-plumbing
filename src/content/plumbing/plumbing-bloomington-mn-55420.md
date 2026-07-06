@@ -12,11 +12,14 @@ lng: -93.3200
 zipSample: ["55431", "55435", "55425", "55437", "55420"]
 zipCodes: ["55420", "55435", "55425", "55437", "55438", "55431"]
 localPaths: ["Hennepin County / ZIP 55431 sector", "Hennepin County / ZIP 55425 sector", "Hennepin County / coords 44.8300, -93.3200", "Hennepin County / ZIP 55420 sector", "Hennepin County / elevation 804 ft band"]
-zillowHomeValueUsd: 333325
 ---
 
-**Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Bloomington:** Supply line, cleanout, and water heater scope recorded at 804 ft elevation context (Hennepin County).
 
+
+Licensed plumbing crews serving Bloomington, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Bloomington, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Hennepin County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

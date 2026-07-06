@@ -12,11 +12,14 @@ lng: -83.9400
 zipSample: ["45385"]
 zipCodes: ["45385"]
 localPaths: ["Greene County / coords 39.6800, -83.9400", "Greene County / primary ZIP 45385", "Greene County / elevation 925 ft band", "Greene County / ZIP 45385 sector"]
-zillowHomeValueUsd: 253875
 ---
 
-**Engineering Notice for Xenia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greene County.
+**Engineering Notice for Xenia:** Emergency leak and drain triage uses ~175 mg/L hardness context with Greene County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Xenia, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Xenia, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Hydrostatic holds in Xenia, OH slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -38,7 +41,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Cast-iron hub corrosion in Xenia, OH often concentrates at the third joint upstream of the cleanout.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -46,7 +49,7 @@ Lineage note 827334: recirculation pump amp draw captured before Xenia, OH branc
 
 Supply audit 827334: curb-stop orientation and hose-bib freeze flag reviewed for Xenia, OH at coords 39.6800/-83.9400.
 
-Scope trace: hose bib freeze flag plus fixture shutoff torque log referenced in Greene County county grid review.
+Scope trace: hose bib freeze flag plus fixture shutoff torque log referenced in Greene County drain and water line review.
 
 Primary postal anchor 45385 with multi-ZIP overlap in Xenia; field packets tag Greene County for county-grid reconciliation.
 

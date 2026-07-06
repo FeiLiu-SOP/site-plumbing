@@ -12,11 +12,14 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / ZIP 93245 sector", "Kings County / primary ZIP 93245", "Kings County / elevation 220 ft band", "Kings County / coords 36.2900, -119.8000"]
-zillowHomeValueUsd: 384341
 ---
 
-**Engineering Notice for Lemoore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
+**Engineering Notice for Lemoore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kings County.
 
+
+Licensed plumbing crews serving Lemoore, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lemoore, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kings County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in Lemoore, CA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -34,7 +37,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -49,6 +52,8 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Pressure trace 630279: meter-pit clearance and dielectric union checklist staged for Lemoore, CA near elevation 220 ft.
 
 Intake ledger 630279: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lemoore, CA at 36.2900, -119.8000.
+
+Plumbing remediation brief: jetter nozzle envelope and copper pinhole cluster were cross-checked for the Lemoore pipe and leak scope.
 
 On-site sector marker: Kings County / coords 36.2900, -119.8000 — logged for map parity and ZIP-corridor verification.
 

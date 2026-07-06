@@ -12,11 +12,14 @@ lng: -86.3200
 zipSample: ["46075", "46077", "46052"]
 zipCodes: ["46075", "46052", "46077"]
 localPaths: ["Boone County / ZIP 46052 sector", "Boone County / coords 39.9900, -86.3200", "Boone County / ZIP 46075 sector", "Boone County / primary ZIP 46052", "Boone County / ZIP 46077 sector"]
-zillowHomeValueUsd: 295157
 ---
 
-**Engineering Notice for Zionsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.
+**Engineering Notice for Zionsville:** Supply line, cleanout, and water heater scope recorded at 925 ft elevation context (Boone County).
 
+
+Emergency licensed plumber service in Zionsville, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Boone County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Zionsville, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Zionsville, IN irrigation zones need backflow logs be
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Drain map 212231: camera-pass priority and expansion-tank pre-charge noted for Zionsville, IN postal sector 46052.
-
-Scope trace: shower cartridge seat score plus scale coupon sampling referenced in Boone County county grid review.
 
 On-site sector marker: Boone County / coords 39.9900, -86.3200 — logged for map parity and ZIP-corridor verification.
 

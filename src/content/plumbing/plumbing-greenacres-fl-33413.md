@@ -12,11 +12,14 @@ lng: -80.1400
 zipSample: ["33413", "33463"]
 zipCodes: ["33463", "33413"]
 localPaths: ["Palm Beach County / primary ZIP 33413", "Palm Beach County / coords 26.6300, -80.1400", "Palm Beach County / ZIP 33463 sector", "Palm Beach County / elevation 39 ft band", "Palm Beach County / ZIP 33413 sector"]
-zillowHomeValueUsd: 482190
 ---
 
-**Engineering Notice for Greenacres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Greenacres:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Palm Beach County.
 
+
+Certified plumbing crews serving Greenacres, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Greenacres, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Palm Beach County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -44,7 +47,7 @@ Risk flag: Seasonal Greenacres, FL irrigation cross-connections can mask domesti
 
 Lineage note 256691: recirculation pump amp draw captured before Greenacres, FL branch isolation.
 
-plumbing brief: slab penetration sleeve seal and scale coupon sampling were cross-checked for the Greenacres intake packet.
+Plumbing service brief: slab penetration sleeve seal and scale coupon sampling were cross-checked for the Greenacres pipe and leak scope.
 
 On-site sector marker: Palm Beach County / coords 26.6300, -80.1400 — logged for map parity and ZIP-corridor verification.
 

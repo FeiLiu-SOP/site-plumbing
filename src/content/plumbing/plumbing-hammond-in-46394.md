@@ -12,11 +12,14 @@ lng: -87.4900
 zipSample: ["46323", "46325", "46394", "46320", "46324"]
 zipCodes: ["46323", "46325", "46394", "46320", "46324", "46327"]
 localPaths: ["Lake County / elevation 597 ft band", "Lake County / ZIP 46323 sector", "Lake County / ZIP 46325 sector", "Lake County / coords 41.6200, -87.4900", "Lake County / ZIP 46394 sector"]
-zillowHomeValueUsd: 200661
 ---
 
-**Engineering Notice for Hammond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Hammond:** Emergency leak and drain triage uses ~171 mg/L hardness context with Lake County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Hammond, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Hammond, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -47,8 +50,6 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 46394.
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Flow dossier 757874: branch wet-vent geometry and jetting nozzle envelope logged for Hammond, IN county grid Lake County (ZIP 46394).
-
-Field routing: fixture shutoff torque log paired with floor drain trap primer drip near ZIP 46394.
 
 On-site sector marker: Lake County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
 

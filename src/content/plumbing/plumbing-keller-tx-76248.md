@@ -12,11 +12,14 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / elevation 669 ft band", "Tarrant County / ZIP 76248 sector", "Tarrant County / primary ZIP 76248", "Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9300, -97.2300"]
-zillowHomeValueUsd: 589569
 ---
 
-**Engineering Notice for Keller:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Keller:** Supply line, cleanout, and water heater scope recorded at 669 ft elevation context (Tarrant County).
 
+
+When a main line backs up in Keller, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Keller, TX, Tarrant County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -24,7 +27,7 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Step: photograph curb-stop and meter pit before trenching.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 

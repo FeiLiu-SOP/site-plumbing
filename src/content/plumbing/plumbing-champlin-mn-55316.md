@@ -12,13 +12,16 @@ lng: -93.3900
 zipSample: ["55316"]
 zipCodes: ["55316"]
 localPaths: ["Hennepin County / ZIP 55316 sector", "Hennepin County / coords 45.1700, -93.3900", "Hennepin County / elevation 873 ft band", "Hennepin County / primary ZIP 55316"]
-zillowHomeValueUsd: 370717
 ---
 
-**Engineering Notice for Champlin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Champlin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hennepin County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Champlin, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Champlin, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -46,7 +49,7 @@ Cast-iron hub corrosion in Champlin, MN often concentrates at the third joint up
 
 Lineage note 702769: recirculation pump amp draw captured before Champlin, MN branch isolation.
 
-Scope trace: recirculation pump amp draw plus slab penetration sleeve seal referenced in Hennepin County county grid review.
+Scope trace: recirculation pump amp draw plus slab penetration sleeve seal referenced in Hennepin County drain and water line review.
 
 ZIP-corridor snapshot for Champlin, MN: sampled sectors include 55316; county routing grid remains Hennepin County.
 

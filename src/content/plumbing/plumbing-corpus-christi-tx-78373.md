@@ -12,11 +12,14 @@ lng: -97.3800
 zipSample: ["78404", "78408", "78411", "78427", "78409"]
 zipCodes: ["78426", "78409", "78406", "78412", "78460", "78403", "78415", "78413", "78469", "78373", "78414", "78467"]
 localPaths: ["Nueces County / primary ZIP 78373", "Nueces County / ZIP 78404 sector", "Nueces County / ZIP 78409 sector", "Nueces County / coords 27.7300, -97.3800", "Nueces County / ZIP 78427 sector"]
-zillowHomeValueUsd: 527911
 ---
 
-**Engineering Notice for Corpus Christi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nueces County.
+**Engineering Notice for Corpus Christi:** Supply line, cleanout, and water heater scope recorded at 39 ft elevation context (Nueces County).
 
+
+Qualified plumbing crews serving Corpus Christi, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Corpus Christi, TX, Nueces County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 In Corpus Christi, TX, slab leaks often present as warm spots before wall stains appear.
 
@@ -38,7 +41,7 @@ Cleanout access limits in Corpus Christi, TX frequently extend drain cleaning du
 
 FAQ: When should sump battery backups be load-tested? In Corpus Christi, TX, before spring thaw and hurricane remnants.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Seasonal Corpus Christi, TX irrigation cross-connections can mask domestic pressure loss.
 
@@ -46,7 +49,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Intake ledger 397454: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Corpus Christi, TX at 27.7300, -97.3800.
 
-Field routing: toilet flange spacer kit paired with water softener bypass lever near ZIP 78373.
+Local service note: toilet flange spacer kit paired with water softener bypass lever near ZIP 78373 for emergency plumbing technician repairs.
 
 On-site sector marker: Nueces County / ZIP 78412 sector — logged for map parity and ZIP-corridor verification.
 

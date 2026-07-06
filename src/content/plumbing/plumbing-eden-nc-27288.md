@@ -12,11 +12,14 @@ lng: -79.7400
 zipSample: ["27289", "27288"]
 zipCodes: ["27289", "27288"]
 localPaths: ["Rockingham County / primary ZIP 27288", "Rockingham County / ZIP 27288 sector", "Rockingham County / coords 36.5000, -79.7400", "Rockingham County / ZIP 27289 sector", "Rockingham County / elevation 643 ft band"]
-zillowHomeValueUsd: 149518
 ---
 
-**Engineering Notice for Eden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockingham County.
+**Engineering Notice for Eden:** Supply line, cleanout, and water heater scope recorded at 643 ft elevation context (Rockingham County).
 
+
+Emergency plumbing pro service in Eden, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Rockingham County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Eden, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rockingham County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydro-jetting in Eden, NC requires camera confirmation before nozzle pressure is raised.
 
@@ -47,8 +50,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Pressure trace 452287: meter-pit clearance and dielectric union checklist staged for Eden, NC near elevation 643 ft.
 
 Drain map 452287: camera-pass priority and expansion-tank pre-charge noted for Eden, NC postal sector 27288.
-
-Scope trace: cleanout riser height plus thermal expansion loop check referenced in Rockingham County county grid review.
 
 On-site sector marker: Rockingham County / primary ZIP 27288 — logged for map parity and ZIP-corridor verification.
 

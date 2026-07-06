@@ -12,11 +12,14 @@ lng: -78.1800
 zipSample: ["22630"]
 zipCodes: ["22630"]
 localPaths: ["Warren County / ZIP 22630 sector", "Warren County / elevation 561 ft band", "Warren County / coords 38.9300, -78.1800", "Warren County / primary ZIP 22630"]
-zillowHomeValueUsd: 403056
 ---
 
-**Engineering Notice for Front Royal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
+**Engineering Notice for Front Royal:** Supply line, cleanout, and water heater scope recorded at 561 ft elevation context (Warren County).
 
+
+Plumbing service in Front Royal, VA, Warren County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Front Royal, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Warren County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

@@ -12,11 +12,14 @@ lng: -77.2600
 zipSample: ["22015", "22152", "22009", "22153"]
 zipCodes: ["22152", "22009", "22153", "22015"]
 localPaths: ["Fairfax County / ZIP 22015 sector", "Fairfax County / primary ZIP 22015", "Fairfax County / elevation 348 ft band", "Fairfax County / ZIP 22152 sector", "Fairfax County / coords 38.7800, -77.2600"]
-zillowHomeValueUsd: 733859
 ---
 
-**Engineering Notice for Burke:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Burke:** Supply line, cleanout, and water heater scope recorded at 348 ft elevation context (Fairfax County).
 
+
+Licensed plumbing crews serving Burke, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Burke, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 22015.
 
@@ -32,7 +35,7 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 
 Stack vent offsets in Burke, VA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch packets reference county grid Fairfax County near ZIP 22015.
+Our Burke, VA service packets reference Fairfax County near ZIP 22015 for pipe and leak scope.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

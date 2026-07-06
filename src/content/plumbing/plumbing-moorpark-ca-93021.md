@@ -12,11 +12,14 @@ lng: -118.8800
 zipSample: ["93021", "93020"]
 zipCodes: ["93020", "93021"]
 localPaths: ["Ventura County / coords 34.2900, -118.8800", "Ventura County / primary ZIP 93021", "Ventura County / elevation 538 ft band", "Ventura County / ZIP 93021 sector", "Ventura County / ZIP 93020 sector"]
-zillowHomeValueUsd: 939735
 ---
 
-**Engineering Notice for Moorpark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
+**Engineering Notice for Moorpark:** Supply line, cleanout, and water heater scope recorded at 538 ft elevation context (Ventura County).
 
+
+When a main line backs up in Moorpark, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Moorpark, CA, Ventura County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Fixture shutoff stiffness in Moorpark, CA may indicate mineral bridging behind stems.
 

@@ -12,11 +12,14 @@ lng: -82.7800
 zipSample: ["33775", "33772", "33778", "33777"]
 zipCodes: ["33778", "33777", "33775", "33772"]
 localPaths: ["Pinellas County / ZIP 33778 sector", "Pinellas County / elevation 20 ft band", "Pinellas County / ZIP 33772 sector", "Pinellas County / primary ZIP 33777", "Pinellas County / ZIP 33775 sector"]
-zillowHomeValueUsd: 325122
 ---
 
-**Engineering Notice for Seminole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Seminole:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pinellas County.
 
+
+Plumbing remediation in Seminole, FL, Pinellas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Seminole, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When is cabling enough? In Seminole, FL, pipe material and blockage type dictate method.
 
@@ -45,6 +48,8 @@ Step: photograph curb-stop and meter pit before trenching.
 Lineage note 697998: recirculation pump amp draw captured before Seminole, FL branch isolation.
 
 Fixture roster 697998: toilet flange spacer kit and shower cartridge seat score queued for Seminole, FL walk-through.
+
+Scope trace: shower cartridge seat score plus PEX expansion ring batch referenced in Pinellas County drain and water line review.
 
 Primary postal anchor 33777 with multi-ZIP overlap in Seminole; field packets tag Pinellas County for county-grid reconciliation.
 

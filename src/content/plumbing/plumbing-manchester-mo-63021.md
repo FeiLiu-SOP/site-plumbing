@@ -12,11 +12,14 @@ lng: -90.5100
 zipSample: ["63021", "63011"]
 zipCodes: ["63021", "63011"]
 localPaths: ["St. Louis County / ZIP 63011 sector", "St. Louis County / coords 38.5800, -90.5100", "St. Louis County / primary ZIP 63021", "St. Louis County / ZIP 63021 sector", "St. Louis County / elevation 600 ft band"]
-zillowHomeValueUsd: 386306
 ---
 
-**Engineering Notice for Manchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Manchester:** Emergency leak and drain triage uses ~170 mg/L hardness context with St. Louis County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Manchester, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in St. Louis County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Manchester, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Fixture shutoff stiffness in Manchester, MO may indicate mineral bridging behind stems.
 
@@ -32,7 +35,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 63021.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -47,8 +50,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 630
 Lineage note 356037: recirculation pump amp draw captured before Manchester, MO branch isolation.
 
 Drain map 356037: camera-pass priority and expansion-tank pre-charge noted for Manchester, MO postal sector 63021.
-
-plumbing brief: fixture shutoff torque log and toilet flange spacer kit were cross-checked for the Manchester intake packet.
 
 On-site sector marker: St. Louis County / ZIP 63021 sector — logged for map parity and ZIP-corridor verification.
 

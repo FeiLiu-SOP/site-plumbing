@@ -12,11 +12,14 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / primary ZIP 91763", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / elevation 1017 ft band", "San Bernardino County / coords 34.0700, -117.7000"]
-zillowHomeValueUsd: 661830
 ---
 
-**Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Bernardino County.
 
+
+When a main line backs up in Montclair, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Licensed plumbing crews serving Montclair, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Montclair, CA may require ROW restoration planning.
 

@@ -12,11 +12,14 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / elevation 52 ft band", "San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
-zillowHomeValueUsd: 267399
 ---
 
-**Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Patricio County.
+**Engineering Notice for Portland:** Emergency leak and drain triage uses ~126 mg/L hardness context with San Patricio County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Portland, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Patricio County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Portland, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 78374.
 
@@ -49,6 +52,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Fixture roster 881477: toilet flange spacer kit and shower cartridge seat score queued for Portland, TX walk-through.
 
 Drain map 881477: camera-pass priority and expansion-tank pre-charge noted for Portland, TX postal sector 78374.
+
+Plumbing restoration brief: sewer cleanout cap thread and dielectric union checklist were cross-checked for the Portland pipe and leak scope.
 
 ZIP-corridor snapshot for Portland, TX: sampled sectors include 78374, 78390; county routing grid remains San Patricio County.
 

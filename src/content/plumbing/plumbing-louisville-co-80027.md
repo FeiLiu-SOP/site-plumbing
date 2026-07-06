@@ -12,11 +12,14 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / primary ZIP 80027", "Boulder County / elevation 5407 ft band", "Boulder County / coords 39.9700, -105.1400", "Boulder County / ZIP 80027 sector"]
-zillowHomeValueUsd: 837472
 ---
 
-**Engineering Notice for Louisville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boulder County.
+**Engineering Notice for Louisville:** Supply line, cleanout, and water heater scope recorded at 5407 ft elevation context (Boulder County).
 
+
+Plumbing service in Louisville, CO, Boulder County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Louisville, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Boulder County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

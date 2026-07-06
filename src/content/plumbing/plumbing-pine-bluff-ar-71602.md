@@ -12,11 +12,14 @@ lng: -92.0200
 zipSample: ["71612", "71603", "71601", "71611", "71602"]
 zipCodes: ["71602", "71611", "71601", "71603", "71612"]
 localPaths: ["Jefferson County / coords 34.2100, -92.0200", "Jefferson County / elevation 240 ft band", "Jefferson County / ZIP 71601 sector", "Jefferson County / ZIP 71611 sector", "Jefferson County / ZIP 71612 sector"]
-zillowHomeValueUsd: 135550
 ---
 
-**Engineering Notice for Pine Bluff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Pine Bluff:** Emergency leak and drain triage uses ~137 mg/L hardness context with Jefferson County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Pine Bluff, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in Pine Bluff, AR, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -32,7 +35,7 @@ Cast-iron hub corrosion in Pine Bluff, AR often concentrates at the third joint 
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -43,8 +46,6 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Polybutylene manifold tags in Pine Bluff, AR basements should be photographed before any wall chase opens.
 
 Fixture roster 193570: toilet flange spacer kit and shower cartridge seat score queued for Pine Bluff, AR walk-through.
-
-Scope trace: slab penetration sleeve seal plus meter pit clearance referenced in Jefferson County county grid review.
 
 On-site sector marker: Jefferson County / ZIP 71603 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / elevation 26 ft band", "Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector", "Baltimore County / primary ZIP 21221"]
-zillowHomeValueUsd: 292838
 ---
 
-**Engineering Notice for Essex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Essex:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Baltimore County).
 
+
+Burst pipe and drain clog calls in Essex, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Essex, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -26,7 +29,7 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 
 Irrigation cross-connections in Essex, MD can back-siphon domestic lines during main breaks.
 
-Dispatch packets reference county grid Baltimore County near ZIP 21221.
+Our Essex, MD service packets reference Baltimore County near ZIP 21221 for pipe and leak scope.
 
 FAQ: When should sump battery backups be load-tested? In Essex, MD, before spring thaw and hurricane remnants.
 
@@ -43,6 +46,8 @@ Recirculation pump failures in Essex, MD can mimic fixture-specific clogs.
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Lineage note 781988: recirculation pump amp draw captured before Essex, MD branch isolation.
+
+Scope trace: sewer cleanout cap thread plus backflow test cock orientation referenced in Baltimore County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 39.3000, -76.4400 at elevation ~26 ft aligns with Baltimore County intake staging.
 

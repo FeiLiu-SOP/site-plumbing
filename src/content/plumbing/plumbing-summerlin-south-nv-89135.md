@@ -12,11 +12,14 @@ lng: -115.3300
 zipSample: ["89135"]
 zipCodes: ["89135"]
 localPaths: ["Clark County / ZIP 89135 sector", "Clark County / coords 36.1200, -115.3300", "Clark County / primary ZIP 89135", "Clark County / elevation 2887 ft band"]
-zillowHomeValueUsd: 720074
 ---
 
-**Engineering Notice for Summerlin South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Summerlin South:** Emergency leak and drain triage uses ~135 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Summerlin South, NV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Summerlin South, NV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -49,8 +52,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Pressure trace 265545: meter-pit clearance and dielectric union checklist staged for Summerlin South, NV near elevation 2887 ft.
 
 Supply audit 265545: curb-stop orientation and hose-bib freeze flag reviewed for Summerlin South, NV at coords 36.1200/-115.3300.
-
-plumbing brief: dielectric union checklist and hose bib freeze flag were cross-checked for the Summerlin South intake packet.
 
 On-site sector marker: Clark County / ZIP 89135 sector — logged for map parity and ZIP-corridor verification.
 

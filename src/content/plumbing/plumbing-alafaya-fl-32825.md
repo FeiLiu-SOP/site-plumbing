@@ -12,11 +12,14 @@ lng: -81.1900
 zipSample: ["32834", "32878", "32829", "32825", "32828"]
 zipCodes: ["32825", "32834", "32878", "32829", "32828"]
 localPaths: ["Orange County / ZIP 32825 sector", "Orange County / coords 28.5300, -81.1900", "Orange County / elevation 85 ft band", "Orange County / ZIP 32878 sector", "Orange County / ZIP 32829 sector"]
-zillowHomeValueUsd: 389225
 ---
 
-**Engineering Notice for Alafaya:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Alafaya:** Supply line, cleanout, and water heater scope recorded at 85 ft elevation context (Orange County).
 
+
+When a main line backs up in Alafaya, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Alafaya, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

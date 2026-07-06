@@ -12,11 +12,14 @@ lng: -80.9400
 zipSample: ["29715", "29716"]
 zipCodes: ["29715", "29716"]
 localPaths: ["York County / ZIP 29716 sector", "York County / coords 35.0100, -80.9400", "York County / ZIP 29715 sector", "York County / elevation 656 ft band", "York County / primary ZIP 29715"]
-zillowHomeValueUsd: 486336
 ---
 
-**Engineering Notice for Fort Mill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
+**Engineering Notice for Fort Mill:** Supply line, cleanout, and water heater scope recorded at 656 ft elevation context (York County).
 
+
+When a main line backs up in Fort Mill, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Fort Mill, SC, York County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cast-iron hub corrosion in Fort Mill, SC often concentrates at the third joint upstream of the cleanout.
 

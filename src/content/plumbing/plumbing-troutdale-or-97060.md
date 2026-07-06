@@ -12,11 +12,14 @@ lng: -122.4000
 zipSample: ["97060"]
 zipCodes: ["97060"]
 localPaths: ["Multnomah County / elevation 161 ft band", "Multnomah County / primary ZIP 97060", "Multnomah County / coords 45.5400, -122.4000", "Multnomah County / ZIP 97060 sector"]
-zillowHomeValueUsd: 485948
 ---
 
-**Engineering Notice for Troutdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Troutdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Multnomah County.
 
+
+Qualified plumbing crews serving Troutdale, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Troutdale, OR, Multnomah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -43,8 +46,6 @@ Branch wet vents in Troutdale, OR can mask gurgling as a main-line issue.
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Drain map 418285: camera-pass priority and expansion-tank pre-charge noted for Troutdale, OR postal sector 97060.
-
-plumbing brief: water heater T&P path and cleanout riser height were cross-checked for the Troutdale intake packet.
 
 On-site sector marker: Multnomah County / elevation 161 ft band — logged for map parity and ZIP-corridor verification.
 

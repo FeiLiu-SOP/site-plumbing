@@ -12,11 +12,14 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / elevation 2841 ft band", "Finney County / primary ZIP 67846", "Finney County / coords 37.9800, -100.8500", "Finney County / ZIP 67846 sector"]
-zillowHomeValueUsd: 233473
 ---
 
-**Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Finney County.
+**Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Finney County.
 
+
+Plumbing restoration in Garden City, KS, Finney County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Garden City, KS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: Water heater anode type may change with Garden City, KS hardness profiles.
 
@@ -36,7 +39,7 @@ Step: document dielectric unions before mixed-metal replacements.
 
 Expansion tank pre-charge loss in Garden City, KS often tracks heater replacement deferrals.
 
-Dispatch packets reference county grid Finney County near ZIP 67846.
+Our Garden City, KS service packets reference Finney County near ZIP 67846 for pipe and leak scope.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

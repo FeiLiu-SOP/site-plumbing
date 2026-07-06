@@ -12,11 +12,14 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / primary ZIP 20152", "Loudoun County / elevation 285 ft band", "Loudoun County / ZIP 20152 sector", "Loudoun County / coords 38.9100, -77.5100"]
-zillowHomeValueUsd: 853542
 ---
 
-**Engineering Notice for South Riding:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Loudoun County.
+**Engineering Notice for South Riding:** Emergency leak and drain triage uses ~164 mg/L hardness context with Loudoun County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in South Riding, VA, Loudoun County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving South Riding, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -43,6 +46,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Risk flag: In South Riding, VA, slab leaks can misroute as foundation issues without listening equipment.
 
 Drain map 729897: camera-pass priority and expansion-tank pre-charge noted for South Riding, VA postal sector 20152.
+
+Plumbing restoration brief: thermal expansion loop check and gas water heater draft hood gap were cross-checked for the South Riding pipe and leak scope.
 
 On-site sector marker: Loudoun County / primary ZIP 20152 — logged for map parity and ZIP-corridor verification.
 

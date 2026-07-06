@@ -12,11 +12,14 @@ lng: -83.3700
 zipSample: ["48242", "48174"]
 zipCodes: ["48242", "48174"]
 localPaths: ["Wayne County / coords 42.2200, -83.3700", "Wayne County / elevation 636 ft band", "Wayne County / ZIP 48174 sector", "Wayne County / primary ZIP 48242", "Wayne County / ZIP 48242 sector"]
-zillowHomeValueUsd: 215274
 ---
 
-**Engineering Notice for Romulus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Romulus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wayne County.
 
+
+Burst pipe and drain clog calls in Romulus, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Romulus, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Wayne County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -38,7 +41,7 @@ Permit note: Main water line replacement in Romulus, MI may require ROW restorat
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -47,8 +50,6 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Drain map 155306: camera-pass priority and expansion-tank pre-charge noted for Romulus, MI postal sector 48242.
-
-plumbing brief: jetter nozzle envelope and slab leak listening window were cross-checked for the Romulus intake packet.
 
 On-site sector marker: Wayne County / primary ZIP 48242 — logged for map parity and ZIP-corridor verification.
 

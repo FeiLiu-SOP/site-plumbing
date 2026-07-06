@@ -12,11 +12,14 @@ lng: -89.7000
 zipSample: ["38139", "38017", "38027"]
 zipCodes: ["38139", "38017", "38027"]
 localPaths: ["Shelby County / ZIP 38139 sector", "Shelby County / primary ZIP 38017", "Shelby County / ZIP 38017 sector", "Shelby County / coords 35.0500, -89.7000", "Shelby County / ZIP 38027 sector"]
-zillowHomeValueUsd: 512204
 ---
 
-**Engineering Notice for Collierville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Collierville:** Supply line, cleanout, and water heater scope recorded at 361 ft elevation context (Shelby County).
 
+
+Qualified plumbing crews serving Collierville, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Collierville, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

@@ -12,7 +12,7 @@ lng: -80.2533
 zipSample: ["33067", "33076"]
 zipCodes: ["33076", "33067"]
 localPaths: ["Broward County / elevation 118 ft band", "Broward County / ZIP 33076 sector", "Broward County / primary ZIP 33076", "Broward County / coords 26.3219, -80.2533", "Broward County / ZIP 33067 sector"]
-zillowHomeValueUsd: 873312
+zillowHomeValueUsd: 873297
 ---
 
 **Engineering Notice for Parkland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.

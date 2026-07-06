@@ -12,21 +12,24 @@ lng: -84.4600
 zipSample: ["40513", "40516", "40533", "40510", "40505"]
 zipCodes: ["40513", "40509", "40581", "40588", "40514", "40516", "40504", "40580", "40533", "40579", "40546", "40502"]
 localPaths: ["Fayette County / ZIP 40533 sector", "Fayette County / elevation 1056 ft band", "Fayette County / ZIP 40513 sector", "Fayette County / coords 38.0400, -84.4600", "Fayette County / primary ZIP 40526"]
-zillowHomeValueUsd: 398589
 ---
 
-**Engineering Notice for Lexington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fayette County.
+**Engineering Notice for Lexington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fayette County.
 
+
+When a main line backs up in Lexington, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Lexington, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fayette County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Lexington, KY can back-siphon domestic lines during main breaks.
 
-Dispatch packets reference county grid Fayette County near ZIP 40526.
+Our Lexington, KY service packets reference Fayette County near ZIP 40526 for pipe and leak scope.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,6 +50,8 @@ Permit note: Main water line replacement in Lexington, KY may require ROW restor
 Lineage note 824227: recirculation pump amp draw captured before Lexington, KY branch isolation.
 
 Supply audit 824227: curb-stop orientation and hose-bib freeze flag reviewed for Lexington, KY at coords 38.0400/-84.4600.
+
+Local service note: branch wet vent geometry paired with fixture shutoff torque log near ZIP 40526 for emergency plumbing technician repairs.
 
 On-site sector marker: Fayette County / ZIP 40574 sector — logged for map parity and ZIP-corridor verification.
 

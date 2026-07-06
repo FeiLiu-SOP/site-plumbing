@@ -12,11 +12,14 @@ lng: -96.9600
 zipSample: ["75104", "75106"]
 zipCodes: ["75104", "75106"]
 localPaths: ["Dallas County / elevation 810 ft band", "Dallas County / primary ZIP 75104", "Dallas County / coords 32.5800, -96.9600", "Dallas County / ZIP 75104 sector", "Dallas County / ZIP 75106 sector"]
-zillowHomeValueUsd: 310987
 ---
 
-**Engineering Notice for Cedar Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Cedar Hill:** Supply line, cleanout, and water heater scope recorded at 810 ft elevation context (Dallas County).
 
+
+Burst pipe and drain clog calls in Cedar Hill, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Cedar Hill, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 75104.
 
@@ -47,6 +50,8 @@ Expansion tank pre-charge loss in Cedar Hill, TX often tracks heater replacement
 Fixture roster 857728: toilet flange spacer kit and shower cartridge seat score queued for Cedar Hill, TX walk-through.
 
 Supply audit 857728: curb-stop orientation and hose-bib freeze flag reviewed for Cedar Hill, TX at coords 32.5800/-96.9600.
+
+Scope trace: sump float travel plus backflow test cock orientation referenced in Dallas County drain and water line review.
 
 On-site sector marker: Dallas County / ZIP 75104 sector — logged for map parity and ZIP-corridor verification.
 

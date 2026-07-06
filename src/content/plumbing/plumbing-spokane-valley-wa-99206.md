@@ -12,11 +12,14 @@ lng: -117.2300
 zipSample: ["99213", "99016", "99216", "99212", "99206"]
 zipCodes: ["99215", "99213", "99206", "99216", "99016", "99211", "99037", "99212"]
 localPaths: ["Spokane County / primary ZIP 99206", "Spokane County / ZIP 99216 sector", "Spokane County / ZIP 99212 sector", "Spokane County / ZIP 99206 sector", "Spokane County / ZIP 99213 sector"]
-zillowHomeValueUsd: 418794
 ---
 
-**Engineering Notice for Spokane Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Spokane County.
+**Engineering Notice for Spokane Valley:** Supply line, cleanout, and water heater scope recorded at 2031 ft elevation context (Spokane County).
 
+
+Burst pipe and drain clog calls in Spokane Valley, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Spokane County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Spokane Valley, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Spokane County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,6 +50,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Intake ledger 727246: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Spokane Valley, WA at 47.6600, -117.2300.
+
+Scope trace: slab leak listening window plus scale coupon sampling referenced in Spokane County drain and water line review.
 
 On-site sector marker: Spokane County / ZIP 99016 sector — logged for map parity and ZIP-corridor verification.
 

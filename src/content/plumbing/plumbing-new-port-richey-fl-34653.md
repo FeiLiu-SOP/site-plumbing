@@ -12,11 +12,14 @@ lng: -82.7200
 zipSample: ["34653", "34656", "34652"]
 zipCodes: ["34656", "34653", "34652"]
 localPaths: ["Pasco County / elevation 46 ft band", "Pasco County / primary ZIP 34653", "Pasco County / ZIP 34656 sector", "Pasco County / ZIP 34653 sector", "Pasco County / coords 28.2500, -82.7200"]
-zillowHomeValueUsd: 249437
 ---
 
-**Engineering Notice for New Port Richey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.
+**Engineering Notice for New Port Richey:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Pasco County).
 
+
+Qualified plumbing crews serving New Port Richey, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in New Port Richey, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pasco County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near New Port Richey, FL require pit shoring notes when water tables are high.
 

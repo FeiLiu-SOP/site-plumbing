@@ -12,11 +12,14 @@ lng: -116.3700
 zipSample: ["92255", "92211", "92260"]
 zipCodes: ["92255", "92260", "92211"]
 localPaths: ["Riverside County / elevation 154 ft band", "Riverside County / ZIP 92211 sector", "Riverside County / coords 33.7400, -116.3700", "Riverside County / ZIP 92255 sector", "Riverside County / ZIP 92260 sector"]
-zillowHomeValueUsd: 589958
 ---
 
-**Engineering Notice for Palm Desert:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Palm Desert:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Riverside County.
 
+
+Qualified plumbing crews serving Palm Desert, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Palm Desert, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Frost-free sillcock failures in Palm Desert, CA often trace to interior shutoff seats, not exterior stems.
 
@@ -36,7 +39,7 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 
 Branch wet vents in Palm Desert, CA can mask gurgling as a main-line issue.
 
-We coordinate Palm Desert, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Palm Desert, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 Fixture roster 298756: toilet flange spacer kit and shower cartridge seat score queued for Palm Desert, CA walk-through.
 
 Supply audit 298756: curb-stop orientation and hose-bib freeze flag reviewed for Palm Desert, CA at coords 33.7400/-116.3700.
-
-Scope trace: dielectric union checklist plus recirculation pump amp draw referenced in Riverside County county grid review.
 
 On-site sector marker: Riverside County / elevation 154 ft band — logged for map parity and ZIP-corridor verification.
 

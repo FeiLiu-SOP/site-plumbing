@@ -12,11 +12,14 @@ lng: -122.6600
 zipSample: ["98686", "98685"]
 zipCodes: ["98685", "98686"]
 localPaths: ["Clark County / primary ZIP 98686", "Clark County / ZIP 98686 sector", "Clark County / elevation 92 ft band", "Clark County / coords 45.7100, -122.6600", "Clark County / ZIP 98685 sector"]
-zillowHomeValueUsd: 590609
 ---
 
-**Engineering Notice for Salmon Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Salmon Creek:** Emergency leak and drain triage uses ~117 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Salmon Creek, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Salmon Creek, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

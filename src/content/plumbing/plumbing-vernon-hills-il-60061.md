@@ -12,11 +12,14 @@ lng: -87.9600
 zipSample: ["60061"]
 zipCodes: ["60061"]
 localPaths: ["Lake County / ZIP 60061 sector", "Lake County / coords 42.2300, -87.9600", "Lake County / elevation 689 ft band", "Lake County / primary ZIP 60061"]
-zillowHomeValueUsd: 449133
 ---
 
-**Engineering Notice for Vernon Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Vernon Hills:** Supply line, cleanout, and water heater scope recorded at 689 ft elevation context (Lake County).
 
+
+Plumbing restoration in Vernon Hills, IL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Vernon Hills, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -45,8 +48,6 @@ CPVC solvent weld times shift with ambient humidity during Vernon Hills, IL shou
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Intake ledger 553521: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Vernon Hills, IL at 42.2300, -87.9600.
-
-Field routing: scale coupon sampling paired with water heater T&P path near ZIP 60061.
 
 On-site sector marker: Lake County / primary ZIP 60061 — logged for map parity and ZIP-corridor verification.
 

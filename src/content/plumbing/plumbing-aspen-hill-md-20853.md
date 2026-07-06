@@ -12,11 +12,14 @@ lng: -77.0800
 zipSample: ["20897", "20916", "20906", "20908", "20853"]
 zipCodes: ["20906", "20853", "20897", "20908", "20916"]
 localPaths: ["Montgomery County / ZIP 20908 sector", "Montgomery County / primary ZIP 20853", "Montgomery County / ZIP 20916 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / coords 39.0900, -77.0800"]
-zillowHomeValueUsd: 636792
 ---
 
-**Engineering Notice for Aspen Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Aspen Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Montgomery County.
 
+
+Burst pipe and drain clog calls in Aspen Hill, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Aspen Hill, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -48,7 +51,7 @@ Lineage note 210617: recirculation pump amp draw captured before Aspen Hill, MD 
 
 Intake ledger 210617: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Aspen Hill, MD at 39.0900, -77.0800.
 
-Field routing: cleanout riser height paired with slab leak listening window near ZIP 20853.
+Local service note: cleanout riser height paired with slab leak listening window near ZIP 20853 for emergency plumbing pro repairs.
 
 Coordinate-anchored dispatch note: center reference 39.0900, -77.0800 at elevation ~440 ft aligns with Montgomery County intake staging.
 

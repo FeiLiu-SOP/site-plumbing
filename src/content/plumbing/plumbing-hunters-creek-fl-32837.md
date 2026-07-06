@@ -12,11 +12,14 @@ lng: -81.4400
 zipSample: ["32837"]
 zipCodes: ["32837"]
 localPaths: ["Orange County / elevation 69 ft band", "Orange County / primary ZIP 32837", "Orange County / ZIP 32837 sector", "Orange County / coords 28.3600, -81.4400"]
-zillowHomeValueUsd: 411455
 ---
 
-**Engineering Notice for Hunters Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Hunters Creek:** Supply line, cleanout, and water heater scope recorded at 69 ft elevation context (Orange County).
 
+
+Emergency plumbing technician service in Hunters Creek, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing remediation in Hunters Creek, FL, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cleanout access limits in Hunters Creek, FL frequently extend drain cleaning duration.
 
@@ -47,6 +50,8 @@ Material note: Water heater anode type may change with Hunters Creek, FL hardnes
 Flow dossier 394748: branch wet-vent geometry and jetting nozzle envelope logged for Hunters Creek, FL county grid Orange County (ZIP 32837).
 
 Intake ledger 394748: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Hunters Creek, FL at 28.3600, -81.4400.
+
+Scope trace: meter pit clearance plus PRV outlet curve referenced in Orange County drain and water line review.
 
 On-site sector marker: Orange County / ZIP 32837 sector — logged for map parity and ZIP-corridor verification.
 

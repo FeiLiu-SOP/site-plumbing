@@ -12,15 +12,18 @@ lng: -108.7400
 zipSample: ["87301"]
 zipCodes: ["87301"]
 localPaths: ["McKinley County / elevation 6647 ft band", "McKinley County / ZIP 87301 sector", "McKinley County / coords 35.5200, -108.7400", "McKinley County / primary ZIP 87301"]
-zillowHomeValueUsd: 222750
 ---
 
-**Engineering Notice for Gallup:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McKinley County.
+**Engineering Notice for Gallup:** Supply line, cleanout, and water heater scope recorded at 6647 ft elevation context (McKinley County).
 
+
+Emergency plumbing pro service in Gallup, NM often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in McKinley County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Gallup, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in McKinley County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate Gallup, NM plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Gallup, NM plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -49,8 +52,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Drain map 166231: camera-pass priority and expansion-tank pre-charge noted for Gallup, NM postal sector 87301.
 
 Supply audit 166231: curb-stop orientation and hose-bib freeze flag reviewed for Gallup, NM at coords 35.5200/-108.7400.
-
-plumbing brief: backflow test cock orientation and floor drain trap primer drip were cross-checked for the Gallup intake packet.
 
 On-site sector marker: McKinley County / coords 35.5200, -108.7400 — logged for map parity and ZIP-corridor verification.
 

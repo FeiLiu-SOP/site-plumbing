@@ -12,11 +12,14 @@ lng: -81.3400
 zipSample: ["32807", "32808", "32832", "32839", "32861"]
 zipCodes: ["32805", "32835", "32822", "32804", "32807", "32801", "32806", "32824", "32802", "32872", "32891", "32827"]
 localPaths: ["Orange County / ZIP 32808 sector", "Orange County / elevation 108 ft band", "Orange County / ZIP 32807 sector", "Orange County / coords 28.4800, -81.3400", "Orange County / primary ZIP 32829"]
-zillowHomeValueUsd: 406894
 ---
 
-**Engineering Notice for Orlando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Orlando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Plumbing remediation in Orlando, FL, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Orlando, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

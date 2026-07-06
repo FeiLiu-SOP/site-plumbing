@@ -12,11 +12,14 @@ lng: -89.5500
 zipSample: ["54476"]
 zipCodes: ["54476"]
 localPaths: ["Marathon County / primary ZIP 54476", "Marathon County / ZIP 54476 sector", "Marathon County / elevation 1266 ft band", "Marathon County / coords 44.8900, -89.5500"]
-zillowHomeValueUsd: 290174
 ---
 
-**Engineering Notice for Weston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marathon County.
+**Engineering Notice for Weston:** Supply line, cleanout, and water heater scope recorded at 1266 ft elevation context (Marathon County).
 
+
+Burst pipe and drain clog calls in Weston, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marathon County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Weston, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Weston, WI hardness profiles.
 
@@ -48,7 +51,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Drain map 719952: camera-pass priority and expansion-tank pre-charge noted for Weston, WI postal sector 54476.
 
-Field routing: thermal expansion loop check paired with PRV outlet curve near ZIP 54476.
+Local service note: thermal expansion loop check paired with PRV outlet curve near ZIP 54476 for emergency plumbing pro repairs.
 
 Coordinate-anchored dispatch note: center reference 44.8900, -89.5500 at elevation ~1266 ft aligns with Marathon County intake staging.
 

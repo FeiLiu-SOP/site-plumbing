@@ -12,11 +12,14 @@ lng: -94.6400
 zipSample: ["66208", "66207"]
 zipCodes: ["66208", "66207"]
 localPaths: ["Johnson County / coords 38.9900, -94.6400", "Johnson County / primary ZIP 66208", "Johnson County / ZIP 66208 sector", "Johnson County / ZIP 66207 sector", "Johnson County / elevation 1060 ft band"]
-zillowHomeValueUsd: 492479
 ---
 
-**Engineering Notice for Prairie Village:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Prairie Village:** Emergency leak and drain triage uses ~120 mg/L hardness context with Johnson County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Prairie Village, KS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Johnson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Prairie Village, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Johnson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Prairie Village, KS hardness profiles.
 

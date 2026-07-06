@@ -12,11 +12,14 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / elevation 36 ft band", "New Hanover County / coords 34.2900, -77.8400", "New Hanover County / primary ZIP 28411", "New Hanover County / ZIP 28411 sector"]
-zillowHomeValueUsd: 463607
 ---
 
-**Engineering Notice for Murraysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Hanover County.
+**Engineering Notice for Murraysville:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (New Hanover County).
 
+
+Qualified plumbing crews serving Murraysville, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Murraysville, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Cast-iron hub corrosion in Murraysville, NC often concentrates at the third joint upstream of the cleanout.
 
@@ -28,7 +31,7 @@ Step: photograph curb-stop and meter pit before trenching.
 
 Stack vent offsets in Murraysville, NC older duplexes can mask tub gurgle as a main-line failure.
 
-We coordinate Murraysville, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Murraysville, NC plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

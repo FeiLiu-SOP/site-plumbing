@@ -12,11 +12,14 @@ lng: -118.0800
 zipSample: ["91776", "91775"]
 zipCodes: ["91776", "91775"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / coords 34.1200, -118.0800", "Los Angeles County / ZIP 91776 sector", "Los Angeles County / elevation 495 ft band", "Los Angeles County / primary ZIP 91775"]
-zillowHomeValueUsd: 1282413
 ---
 
-**Engineering Notice for East San Gabriel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for East San Gabriel:** Supply line, cleanout, and water heater scope recorded at 495 ft elevation context (Los Angeles County).
 
+
+Burst pipe and drain clog calls in East San Gabriel, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving East San Gabriel, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 

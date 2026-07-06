@@ -12,11 +12,14 @@ lng: -98.2100
 zipSample: ["78108", "78124"]
 zipCodes: ["78108", "78124"]
 localPaths: ["Guadalupe County / primary ZIP 78124", "Guadalupe County / ZIP 78108 sector", "Guadalupe County / ZIP 78124 sector", "Guadalupe County / elevation 705 ft band", "Guadalupe County / coords 29.5600, -98.2100"]
-zillowHomeValueUsd: 344728
 ---
 
-**Engineering Notice for Cibolo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guadalupe County.
+**Engineering Notice for Cibolo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Guadalupe County.
 
+
+Plumbing remediation in Cibolo, TX, Guadalupe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Cibolo, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Tip: Log sump cycle frequency during heavy rain windows.
 
 Lineage note 695377: recirculation pump amp draw captured before Cibolo, TX branch isolation.
-
-plumbing brief: copper pinhole cluster and slab leak listening window were cross-checked for the Cibolo intake packet.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Guadalupe County and primary ZIP 78124. Terrain reference: 705 ft. Center point: 29.5600, -98.2100. ZIP sample: 78108, 78124. Regional routing note: Guadalupe County traffic flow is balanced around ZIP 78124 service demand.
 

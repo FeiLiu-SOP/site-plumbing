@@ -12,11 +12,14 @@ lng: -112.3600
 zipSample: ["85375", "85376"]
 zipCodes: ["85376", "85375"]
 localPaths: ["Maricopa County / ZIP 85375 sector", "Maricopa County / primary ZIP 85375", "Maricopa County / coords 33.6700, -112.3600", "Maricopa County / ZIP 85376 sector", "Maricopa County / elevation 1247 ft band"]
-zillowHomeValueUsd: 382121
 ---
 
-**Engineering Notice for Sun City West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Sun City West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Maricopa County.
 
+
+Certified plumbing crews serving Sun City West, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Sun City West, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Water heater T&P discharge paths in Sun City West, AZ must terminate safely before replacement quotes.
 
@@ -30,7 +33,7 @@ Step: tag shutoffs and meter orientation before opening walls.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 85375.
 
-We coordinate Sun City West, AZ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Sun City West, AZ plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 85375.
 
@@ -48,7 +51,7 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 
 Fixture roster 917695: toilet flange spacer kit and shower cartridge seat score queued for Sun City West, AZ walk-through.
 
-Scope trace: slab penetration sleeve seal plus cleanout riser height referenced in Maricopa County county grid review.
+Scope trace: slab penetration sleeve seal plus cleanout riser height referenced in Maricopa County drain and water line review.
 
 On-site sector marker: Maricopa County / elevation 1247 ft band — logged for map parity and ZIP-corridor verification.
 

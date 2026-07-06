@@ -8,15 +8,18 @@ zipCode: "49509"
 county: "Kent County"
 elevationFt: 663
 lat: 42.8900
-lng: -85.7100
+lng: -85.6800
 zipSample: ["49528", "49509", "49519", "49548", "49418"]
 zipCodes: ["49519", "49418", "49509", "49548", "49528"]
 localPaths: ["Kent County / ZIP 49528 sector", "Kent County / elevation 663 ft band", "Kent County / ZIP 49548 sector", "Kent County / ZIP 49509 sector", "Kent County / ZIP 49418 sector"]
-zillowHomeValueUsd: 257911
 ---
 
-**Engineering Notice for Wyoming:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Wyoming:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kent County.
 
+
+Licensed plumbing crews serving Wyoming, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Wyoming, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Dual-water-meter setups in Wyoming, MI irrigation zones need backflow logs before line replacement.
 
@@ -42,13 +45,11 @@ Material note: Water heater anode type may change with Wyoming, MI hardness prof
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate Wyoming, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Wyoming, MI plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Lineage note 813317: recirculation pump amp draw captured before Wyoming, MI branch isolation.
-
-Scope trace: toilet flange spacer kit plus sewer cleanout cap thread referenced in Kent County county grid review.
 
 On-site sector marker: Kent County / ZIP 49509 sector — logged for map parity and ZIP-corridor verification.
 

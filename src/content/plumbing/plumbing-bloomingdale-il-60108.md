@@ -12,11 +12,14 @@ lng: -88.0900
 zipSample: ["60108", "60117"]
 zipCodes: ["60108", "60117"]
 localPaths: ["DuPage County / ZIP 60117 sector", "DuPage County / primary ZIP 60108", "DuPage County / ZIP 60108 sector", "DuPage County / coords 41.9500, -88.0900", "DuPage County / elevation 794 ft band"]
-zillowHomeValueUsd: 432923
 ---
 
-**Engineering Notice for Bloomingdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bloomingdale:** Emergency leak and drain triage uses ~120 mg/L hardness context with DuPage County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Bloomingdale, IL, DuPage County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency qualified plumber service in Bloomingdale, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in DuPage County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -43,8 +46,6 @@ Risk flag: Seasonal Bloomingdale, IL irrigation cross-connections can mask domes
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Supply audit 958334: curb-stop orientation and hose-bib freeze flag reviewed for Bloomingdale, IL at coords 41.9500/-88.0900.
-
-plumbing brief: cleanout riser height and branch wet vent geometry were cross-checked for the Bloomingdale intake packet.
 
 On-site sector marker: DuPage County / coords 41.9500, -88.0900 — logged for map parity and ZIP-corridor verification.
 

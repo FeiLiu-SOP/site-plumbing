@@ -12,11 +12,14 @@ lng: -117.1700
 zipSample: ["92069", "92096", "92078", "92079"]
 zipCodes: ["92069", "92079", "92096", "92078"]
 localPaths: ["San Diego County / elevation 545 ft band", "San Diego County / ZIP 92069 sector", "San Diego County / ZIP 92096 sector", "San Diego County / ZIP 92079 sector", "San Diego County / coords 33.1300, -117.1700"]
-zillowHomeValueUsd: 1025279
 ---
 
-**Engineering Notice for San Marcos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for San Marcos:** Emergency leak and drain triage uses ~118 mg/L hardness context with San Diego County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in San Marcos, CA, San Diego County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in San Marcos, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during San Marcos, CA shoulder seasons.
 
@@ -46,7 +49,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Fixture roster 600271: toilet flange spacer kit and shower cartridge seat score queued for San Marcos, CA walk-through.
 
-Scope trace: copper pinhole cluster plus hose bib freeze flag referenced in San Diego County county grid review.
+Scope trace: copper pinhole cluster plus hose bib freeze flag referenced in San Diego County drain and water line review.
 
 On-site sector marker: San Diego County / coords 33.1300, -117.1700 — logged for map parity and ZIP-corridor verification.
 

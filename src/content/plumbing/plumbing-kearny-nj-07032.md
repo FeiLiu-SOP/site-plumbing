@@ -12,13 +12,16 @@ lng: -74.1200
 zipSample: ["07099", "07032"]
 zipCodes: ["07032", "07099"]
 localPaths: ["Hudson County / coords 40.7500, -74.1200", "Hudson County / elevation -1 ft band", "Hudson County / ZIP 07032 sector", "Hudson County / ZIP 07099 sector", "Hudson County / primary ZIP 07032"]
-zillowHomeValueUsd: 583860
 ---
 
-**Engineering Notice for Kearny:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
+**Engineering Notice for Kearny:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hudson County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Kearny, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Kearny, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hudson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -30,7 +33,7 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 
 Water heater T&P discharge paths in Kearny, NJ must terminate safely before replacement quotes.
 
-We coordinate Kearny, NJ plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Kearny, NJ plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -40,15 +43,13 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Kearny, NJ.
 
 Lineage note 461622: recirculation pump amp draw captured before Kearny, NJ branch isolation.
 
 Supply audit 461622: curb-stop orientation and hose-bib freeze flag reviewed for Kearny, NJ at coords 40.7500/-74.1200.
-
-plumbing brief: branch wet vent geometry and jetter nozzle envelope were cross-checked for the Kearny intake packet.
 
 Coordinate-anchored dispatch note: center reference 40.7500, -74.1200 at elevation ~-1 ft aligns with Hudson County intake staging.
 

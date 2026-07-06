@@ -12,11 +12,14 @@ lng: -71.1000
 zipSample: ["02724", "02717", "02722", "02790", "02723"]
 zipCodes: ["02790", "02723", "02720", "02721", "02747", "02717", "02724", "02722"]
 localPaths: ["Bristol County / ZIP 02717 sector", "Bristol County / elevation 108 ft band", "Bristol County / ZIP 02790 sector", "Bristol County / ZIP 02723 sector", "Bristol County / ZIP 02722 sector"]
-zillowHomeValueUsd: 431390
 ---
 
-**Engineering Notice for Fall River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bristol County.
+**Engineering Notice for Fall River:** Emergency leak and drain triage uses ~139 mg/L hardness context with Bristol County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Fall River, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bristol County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Fall River, MA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Bristol County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 02724.
 
@@ -24,7 +27,7 @@ Polybutylene manifold tags in Fall River, MA basements should be photographed be
 
 Trenchless sleeve pulls near Fall River, MA require pit shoring notes when water tables are high.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -49,8 +52,6 @@ Sump discharge freeze risk in Fall River, MA should be reviewed before spring th
 Lineage note 516558: recirculation pump amp draw captured before Fall River, MA branch isolation.
 
 Supply audit 516558: curb-stop orientation and hose-bib freeze flag reviewed for Fall River, MA at coords 41.7100/-71.1000.
-
-Field routing: toilet flange spacer kit paired with water softener bypass lever near ZIP 02724.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Bristol County. Reference elevation: 108 ft. Primary coordinates: 41.7100, -71.1000. ZIP sample: 02721, 02747, 02717, 02722, 02723. Logistics priority: Serving residential sectors across Bristol County and north-east ZIP 02724 grid.
 

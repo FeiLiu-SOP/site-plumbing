@@ -12,11 +12,14 @@ lng: -87.5100
 zipSample: ["46311"]
 zipCodes: ["46311"]
 localPaths: ["Lake County / elevation 630 ft band", "Lake County / coords 41.5000, -87.5100", "Lake County / ZIP 46311 sector", "Lake County / primary ZIP 46311"]
-zillowHomeValueUsd: 361182
 ---
 
-**Engineering Notice for Dyer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Dyer:** Emergency leak and drain triage uses ~144 mg/L hardness context with Lake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Dyer, IN, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Dyer, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -43,8 +46,6 @@ Polybutylene manifold tags in Dyer, IN basements should be photographed before a
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Pressure trace 274159: meter-pit clearance and dielectric union checklist staged for Dyer, IN near elevation 630 ft.
-
-Field routing: sewer cleanout cap thread paired with PEX expansion ring batch near ZIP 46311.
 
 Coordinate-anchored dispatch note: center reference 41.5000, -87.5100 at elevation ~630 ft aligns with Lake County intake staging.
 

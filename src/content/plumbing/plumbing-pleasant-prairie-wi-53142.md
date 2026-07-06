@@ -12,11 +12,14 @@ lng: -87.8900
 zipSample: ["53158", "53142"]
 zipCodes: ["53142", "53158"]
 localPaths: ["Kenosha County / ZIP 53158 sector", "Kenosha County / primary ZIP 53142", "Kenosha County / coords 42.5300, -87.8900", "Kenosha County / ZIP 53142 sector", "Kenosha County / elevation 725 ft band"]
-zillowHomeValueUsd: 321242
 ---
 
-**Engineering Notice for Pleasant Prairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenosha County.
+**Engineering Notice for Pleasant Prairie:** Supply line, cleanout, and water heater scope recorded at 725 ft elevation context (Kenosha County).
 
+
+Plumbing service in Pleasant Prairie, WI, Kenosha County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Pleasant Prairie, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Pleasant Prairie, WI systems need rebalancing.
 
@@ -50,7 +53,7 @@ Drain map 174662: camera-pass priority and expansion-tank pre-charge noted for P
 
 Flow dossier 174662: branch wet-vent geometry and jetting nozzle envelope logged for Pleasant Prairie, WI county grid Kenosha County (ZIP 53142).
 
-Scope trace: sump float travel plus jetter nozzle envelope referenced in Kenosha County county grid review.
+Scope trace: sump float travel plus jetter nozzle envelope referenced in Kenosha County drain and water line review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Kenosha County and primary ZIP 53142. Terrain reference: 725 ft. Center point: 42.5300, -87.8900. ZIP sample: 53158, 53142. Service perimeter note: Coverage extends through Kenosha County with dispatch centered near ZIP 53142.
 

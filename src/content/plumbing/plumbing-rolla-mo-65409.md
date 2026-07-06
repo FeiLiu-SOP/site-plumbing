@@ -12,11 +12,14 @@ lng: -91.7600
 zipSample: ["65401", "65402", "65409"]
 zipCodes: ["65401", "65409", "65402"]
 localPaths: ["Phelps County / ZIP 65402 sector", "Phelps County / coords 37.9500, -91.7600", "Phelps County / ZIP 65409 sector", "Phelps County / primary ZIP 65409", "Phelps County / elevation 1099 ft band"]
-zillowHomeValueUsd: 236227
 ---
 
-**Engineering Notice for Rolla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Phelps County.
+**Engineering Notice for Rolla:** Supply line, cleanout, and water heater scope recorded at 1099 ft elevation context (Phelps County).
 
+
+Burst pipe and drain clog calls in Rolla, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Phelps County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Rolla, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rolla, MO.
 
@@ -24,7 +27,7 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Sewer gas odors in Rolla, MO should trigger trap seal and vent path review.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 65409.
 

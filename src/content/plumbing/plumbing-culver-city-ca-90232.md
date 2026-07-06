@@ -8,15 +8,18 @@ zipCode: "90232"
 county: "Los Angeles County"
 elevationFt: 59
 lat: 34.0100
-lng: -118.4000
+lng: -118.3700
 zipSample: ["90232", "90231", "90230"]
 zipCodes: ["90231", "90230", "90232"]
 localPaths: ["Los Angeles County / ZIP 90231 sector", "Los Angeles County / ZIP 90230 sector", "Los Angeles County / elevation 59 ft band", "Los Angeles County / ZIP 90232 sector", "Los Angeles County / primary ZIP 90232"]
-zillowHomeValueUsd: 1737096
 ---
 
-**Engineering Notice for Culver City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Culver City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Burst pipe and drain clog calls in Culver City, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Culver City, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

@@ -12,11 +12,14 @@ lng: -98.0700
 zipSample: ["78333", "78332"]
 zipCodes: ["78332", "78333"]
 localPaths: ["Jim Wells County / primary ZIP 78332", "Jim Wells County / ZIP 78332 sector", "Jim Wells County / elevation 210 ft band", "Jim Wells County / coords 27.7600, -98.0700", "Jim Wells County / ZIP 78333 sector"]
-zillowHomeValueUsd: 133837
 ---
 
-**Engineering Notice for Alice:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jim Wells County.
+**Engineering Notice for Alice:** Emergency leak and drain triage uses ~134 mg/L hardness context with Jim Wells County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Alice, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jim Wells County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Alice, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Alice, TX irrigation zones need backflow logs before line replacement.
 
@@ -36,11 +39,11 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 78332.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Sewer gas odors in Alice, TX should trigger trap seal and vent path review.
 

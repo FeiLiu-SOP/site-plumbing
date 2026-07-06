@@ -12,11 +12,14 @@ lng: -96.9600
 zipSample: ["74804", "74801", "74802"]
 zipCodes: ["74802", "74804", "74801"]
 localPaths: ["Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / primary ZIP 74804", "Pottawatomie County / elevation 1047 ft band", "Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74802 sector"]
-zillowHomeValueUsd: 226556
 ---
 
-**Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pottawatomie County.
+**Engineering Notice for Shawnee:** Supply line, cleanout, and water heater scope recorded at 1047 ft elevation context (Pottawatomie County).
 
+
+Emergency licensed plumber service in Shawnee, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Pottawatomie County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Shawnee, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pottawatomie County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Cast-iron hub corrosion in Shawnee, OK often concentrates at the third joint upstream of the cleanout.
 
@@ -40,13 +43,15 @@ Hydrostatic holds in Shawnee, OK slab circuits run overnight when listening mics
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 74804.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Shawnee, OK can back-siphon domestic lines during main breaks.
 
 Risk flag: Seasonal Shawnee, OK irrigation cross-connections can mask domestic pressure loss.
 
 Fixture roster 841027: toilet flange spacer kit and shower cartridge seat score queued for Shawnee, OK walk-through.
+
+Scope trace: toilet flange spacer kit plus fixture shutoff torque log referenced in Pottawatomie County drain and water line review.
 
 On-site sector marker: Pottawatomie County / ZIP 74804 sector — logged for map parity and ZIP-corridor verification.
 

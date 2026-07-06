@@ -12,11 +12,14 @@ lng: -71.2400
 zipSample: ["02453", "02454", "02451", "02455", "02452"]
 zipCodes: ["02453", "02454", "02451", "02455", "02452"]
 localPaths: ["Middlesex County / ZIP 02451 sector", "Middlesex County / ZIP 02454 sector", "Middlesex County / ZIP 02453 sector", "Middlesex County / primary ZIP 02453", "Middlesex County / ZIP 02452 sector"]
-zillowHomeValueUsd: 814618
 ---
 
-**Engineering Notice for Waltham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Waltham:** Emergency leak and drain triage uses ~170 mg/L hardness context with Middlesex County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Waltham, MA, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Waltham, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Middlesex County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydro-jetting in Waltham, MA requires camera confirmation before nozzle pressure is raised.
 
@@ -30,7 +33,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

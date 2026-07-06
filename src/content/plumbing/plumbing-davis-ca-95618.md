@@ -12,11 +12,14 @@ lng: -121.7400
 zipSample: ["95617", "95616", "95618"]
 zipCodes: ["95618", "95616", "95617"]
 localPaths: ["Yolo County / elevation 43 ft band", "Yolo County / ZIP 95617 sector", "Yolo County / coords 38.5600, -121.7400", "Yolo County / primary ZIP 95618", "Yolo County / ZIP 95618 sector"]
-zillowHomeValueUsd: 846421
 ---
 
-**Engineering Notice for Davis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yolo County.
+**Engineering Notice for Davis:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (Yolo County).
 
+
+Plumbing restoration in Davis, CA, Yolo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Davis, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When is cabling enough? In Davis, CA, pipe material and blockage type dictate method.
 

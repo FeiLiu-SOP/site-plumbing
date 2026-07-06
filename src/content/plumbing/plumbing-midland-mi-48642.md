@@ -12,11 +12,14 @@ lng: -84.2300
 zipSample: ["48667", "48642", "48640", "48670", "48686"]
 zipCodes: ["48642", "48667", "48686", "48670", "48640"]
 localPaths: ["Midland County / ZIP 48667 sector", "Midland County / ZIP 48670 sector", "Midland County / primary ZIP 48642", "Midland County / ZIP 48640 sector", "Midland County / elevation 630 ft band"]
-zillowHomeValueUsd: 247792
 ---
 
-**Engineering Notice for Midland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Supply line, cleanout, and water heater scope recorded at 630 ft elevation context (Midland County).
 
+
+Emergency plumbing pro service in Midland, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Midland County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing restoration in Midland, MI, Midland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Water heater T&P discharge paths in Midland, MI must terminate safely before replacement quotes.
 
@@ -48,7 +51,7 @@ Flow dossier 193107: branch wet-vent geometry and jetting nozzle envelope logged
 
 Supply audit 193107: curb-stop orientation and hose-bib freeze flag reviewed for Midland, MI at coords 43.6200/-84.2300.
 
-plumbing brief: water heater T&P path and sump float travel were cross-checked for the Midland intake packet.
+Plumbing restoration brief: water heater T&P path and sump float travel were cross-checked for the Midland pipe and leak scope.
 
 On-site sector marker: Midland County / ZIP 48642 sector — logged for map parity and ZIP-corridor verification.
 

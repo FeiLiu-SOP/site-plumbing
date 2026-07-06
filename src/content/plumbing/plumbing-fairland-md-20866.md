@@ -12,11 +12,14 @@ lng: -76.9500
 zipSample: ["20904", "20866", "20905"]
 zipCodes: ["20904", "20866", "20905"]
 localPaths: ["Montgomery County / elevation 453 ft band", "Montgomery County / primary ZIP 20866", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20905 sector", "Montgomery County / ZIP 20866 sector"]
-zillowHomeValueUsd: 468445
 ---
 
-**Engineering Notice for Fairland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Fairland:** Supply line, cleanout, and water heater scope recorded at 453 ft elevation context (Montgomery County).
 
+
+Qualified plumbing crews serving Fairland, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Fairland, MD, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Across Fairland, MD, main-line bellies can trap debris even when fixtures drain normally.
 

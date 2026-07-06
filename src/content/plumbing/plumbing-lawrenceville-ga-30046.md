@@ -12,11 +12,14 @@ lng: -83.9900
 zipSample: ["30046", "30049"]
 zipCodes: ["30046", "30049"]
 localPaths: ["Gwinnett County / elevation 1083 ft band", "Gwinnett County / ZIP 30049 sector", "Gwinnett County / ZIP 30046 sector", "Gwinnett County / primary ZIP 30046", "Gwinnett County / coords 33.9500, -83.9900"]
-zillowHomeValueUsd: 345108
 ---
 
-**Engineering Notice for Lawrenceville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Lawrenceville:** Supply line, cleanout, and water heater scope recorded at 1083 ft elevation context (Gwinnett County).
 
+
+Burst pipe and drain clog calls in Lawrenceville, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gwinnett County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Lawrenceville, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Lawrenceville, GA basements should be photographed before any wall chase opens.
 

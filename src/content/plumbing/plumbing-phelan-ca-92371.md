@@ -12,11 +12,14 @@ lng: -117.5200
 zipSample: ["92371"]
 zipCodes: ["92371"]
 localPaths: ["San Bernardino County / ZIP 92371 sector", "San Bernardino County / coords 34.4400, -117.5200", "San Bernardino County / elevation 3812 ft band", "San Bernardino County / primary ZIP 92371"]
-zillowHomeValueUsd: 465022
 ---
 
-**Engineering Notice for Phelan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Phelan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Bernardino County.
 
+
+Burst pipe and drain clog calls in Phelan, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Phelan, CA, San Bernardino County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -34,7 +37,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate Phelan, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Phelan, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

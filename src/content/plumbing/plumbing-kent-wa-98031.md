@@ -12,11 +12,14 @@ lng: -122.2100
 zipSample: ["98030", "98064", "98042", "98089", "98035"]
 zipCodes: ["98032", "98031", "98089", "98042", "98035", "98030", "98064"]
 localPaths: ["King County / ZIP 98089 sector", "King County / ZIP 98035 sector", "King County / primary ZIP 98031", "King County / elevation 400 ft band", "King County / ZIP 98042 sector"]
-zillowHomeValueUsd: 679963
 ---
 
-**Engineering Notice for Kent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Kent:** Emergency leak and drain triage uses ~162 mg/L hardness context with King County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Kent, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in King County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing service in Kent, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -50,7 +53,7 @@ Lineage note 591955: recirculation pump amp draw captured before Kent, WA branch
 
 Pressure trace 591955: meter-pit clearance and dielectric union checklist staged for Kent, WA near elevation 400 ft.
 
-plumbing brief: shower cartridge seat score and slab leak listening window were cross-checked for the Kent intake packet.
+Plumbing service brief: shower cartridge seat score and slab leak listening window were cross-checked for the Kent pipe and leak scope.
 
 On-site sector marker: King County / ZIP 98031 sector — logged for map parity and ZIP-corridor verification.
 

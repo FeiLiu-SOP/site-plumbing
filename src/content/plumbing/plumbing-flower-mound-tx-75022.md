@@ -12,11 +12,14 @@ lng: -97.1100
 zipSample: ["75027", "75022", "75028"]
 zipCodes: ["75027", "75028", "75022"]
 localPaths: ["Denton County / primary ZIP 75022", "Denton County / ZIP 75027 sector", "Denton County / coords 33.0300, -97.1100", "Denton County / elevation 636 ft band", "Denton County / ZIP 75028 sector"]
-zillowHomeValueUsd: 772868
 ---
 
-**Engineering Notice for Flower Mound:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Denton County.
+**Engineering Notice for Flower Mound:** Emergency leak and drain triage uses ~112 mg/L hardness context with Denton County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Flower Mound, TX, Denton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Flower Mound, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Denton County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Flower Mound, TX slab circuits run overnight when listening mics show ambiguous hits.
 

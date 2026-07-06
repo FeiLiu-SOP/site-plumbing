@@ -12,11 +12,14 @@ lng: -121.7700
 zipSample: ["95019", "95077", "95076"]
 zipCodes: ["95076", "95019", "95077"]
 localPaths: ["Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95077 sector", "Santa Cruz County / ZIP 95019 sector", "Santa Cruz County / elevation 66 ft band"]
-zillowHomeValueUsd: 839590
 ---
 
-**Engineering Notice for Watsonville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Watsonville:** Emergency leak and drain triage uses ~151 mg/L hardness context with Santa Cruz County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Watsonville, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Cruz County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Watsonville, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Santa Cruz County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in Watsonville, CA may require ROW restoration planning.
 
@@ -47,6 +50,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Sump discharge freeze risk in Watsonville, CA should be reviewed before spring thaw cycles.
 
 Pressure trace 803704: meter-pit clearance and dielectric union checklist staged for Watsonville, CA near elevation 66 ft.
+
+Scope trace: copper pinhole cluster plus recirculation pump amp draw referenced in Santa Cruz County drain and water line review.
 
 Regional mesh label Santa Cruz County: moisture and logistics baselines are keyed to Watsonville, CA before niche-specific work begins.
 

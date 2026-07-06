@@ -12,11 +12,14 @@ lng: -116.0700
 zipSample: ["92277", "92278"]
 zipCodes: ["92277", "92278"]
 localPaths: ["San Bernardino County / elevation 2116 ft band", "San Bernardino County / coords 34.1500, -116.0700", "San Bernardino County / ZIP 92278 sector", "San Bernardino County / primary ZIP 92277", "San Bernardino County / ZIP 92277 sector"]
-zillowHomeValueUsd: 249538
 ---
 
-**Engineering Notice for Twentynine Palms:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Twentynine Palms:** Supply line, cleanout, and water heater scope recorded at 2116 ft elevation context (San Bernardino County).
 
+
+Burst pipe and drain clog calls in Twentynine Palms, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Twentynine Palms, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in San Bernardino County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Trenchless pulls in Twentynine Palms, CA require pit dimensions verified against utility locate marks.
 
@@ -45,8 +48,6 @@ Frost-free sillcock failures in Twentynine Palms, CA often trace to interior shu
 Intake ledger 609461: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Twentynine Palms, CA at 34.1500, -116.0700.
 
 Flow dossier 609461: branch wet-vent geometry and jetting nozzle envelope logged for Twentynine Palms, CA county grid San Bernardino County (ZIP 92277).
-
-Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in San Bernardino County county grid review.
 
 On-site sector marker: San Bernardino County / primary ZIP 92277 — logged for map parity and ZIP-corridor verification.
 

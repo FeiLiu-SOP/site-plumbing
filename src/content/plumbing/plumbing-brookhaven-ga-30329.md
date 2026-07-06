@@ -12,11 +12,14 @@ lng: -84.3300
 zipSample: ["30324", "30319", "30329", "31119"]
 zipCodes: ["30319", "30324", "30329", "31119"]
 localPaths: ["DeKalb County / ZIP 31119 sector", "DeKalb County / elevation 1024 ft band", "DeKalb County / ZIP 30324 sector", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 30329 sector"]
-zillowHomeValueUsd: 524025
 ---
 
-**Engineering Notice for Brookhaven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Brookhaven:** Emergency leak and drain triage uses ~172 mg/L hardness context with DeKalb County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Brookhaven, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeKalb County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Brookhaven, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in DeKalb County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -32,7 +35,7 @@ Cleanout access limits in Brookhaven, GA frequently extend drain cleaning durati
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Seasonal Brookhaven, GA irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,6 +48,8 @@ Galvanized segments in Brookhaven, GA may restrict flow long before visible corr
 Water heater T&P discharge paths in Brookhaven, GA must terminate safely before replacement quotes.
 
 Lineage note 754597: recirculation pump amp draw captured before Brookhaven, GA branch isolation.
+
+Plumbing restoration brief: gas water heater draft hood gap and cleanout riser height were cross-checked for the Brookhaven pipe and leak scope.
 
 On-site sector marker: DeKalb County / ZIP 30319 sector — logged for map parity and ZIP-corridor verification.
 

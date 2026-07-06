@@ -12,11 +12,14 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / coords 41.8900, -87.9800", "DuPage County / ZIP 60181 sector", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60181"]
-zillowHomeValueUsd: 358480
 ---
 
-**Engineering Notice for Villa Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Villa Park:** Supply line, cleanout, and water heater scope recorded at 705 ft elevation context (DuPage County).
 
+
+Licensed plumbing crews serving Villa Park, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Villa Park, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Irrigation cross-connections in Villa Park, IL can back-siphon domestic lines during main breaks.
 
@@ -45,6 +48,8 @@ In Villa Park, IL, slab leaks often present as warm spots before wall stains app
 Pressure trace 601220: meter-pit clearance and dielectric union checklist staged for Villa Park, IL near elevation 705 ft.
 
 Intake ledger 601220: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Villa Park, IL at 41.8900, -87.9800.
+
+Plumbing restoration brief: thermal expansion loop check and copper pinhole cluster were cross-checked for the Villa Park pipe and leak scope.
 
 ZIP-corridor snapshot for Villa Park, IL: sampled sectors include 60181; county routing grid remains DuPage County.
 

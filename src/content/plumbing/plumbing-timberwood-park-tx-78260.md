@@ -12,15 +12,18 @@ lng: -98.4800
 zipSample: ["78260"]
 zipCodes: ["78260"]
 localPaths: ["Bexar County / coords 29.7000, -98.4800", "Bexar County / primary ZIP 78260", "Bexar County / elevation 1250 ft band", "Bexar County / ZIP 78260 sector"]
-zillowHomeValueUsd: 517698
 ---
 
-**Engineering Notice for Timberwood Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
+**Engineering Notice for Timberwood Park:** Emergency leak and drain triage uses ~134 mg/L hardness context with Bexar County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Timberwood Park, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Bexar County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+When a main line backs up in Timberwood Park, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Stack vent offsets in Timberwood Park, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Timberwood Park, TX hardness profiles.
 
@@ -44,7 +47,7 @@ Risk flag: In Timberwood Park, TX, slab leaks can misroute as foundation issues 
 
 Lineage note 879290: recirculation pump amp draw captured before Timberwood Park, TX branch isolation.
 
-Scope trace: thermal expansion loop check plus recirculation pump amp draw referenced in Bexar County county grid review.
+Scope trace: thermal expansion loop check plus recirculation pump amp draw referenced in Bexar County drain and water line review.
 
 On-site sector marker: Bexar County / coords 29.7000, -98.4800 — logged for map parity and ZIP-corridor verification.
 

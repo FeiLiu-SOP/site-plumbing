@@ -12,11 +12,14 @@ lng: -71.1000
 zipSample: ["02143", "02145", "02144"]
 zipCodes: ["02145", "02143", "02144"]
 localPaths: ["Middlesex County / primary ZIP 02144", "Middlesex County / elevation 72 ft band", "Middlesex County / coords 42.3900, -71.1000", "Middlesex County / ZIP 02145 sector", "Middlesex County / ZIP 02144 sector"]
-zillowHomeValueUsd: 1057605
 ---
 
-**Engineering Notice for Somerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Somerville:** Emergency leak and drain triage uses ~118 mg/L hardness context with Middlesex County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Somerville, MA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Somerville, MA, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When is cabling enough? In Somerville, MA, pipe material and blockage type dictate method.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Somerville, MA require pit shoring notes when water
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Drain map 539409: camera-pass priority and expansion-tank pre-charge noted for Somerville, MA postal sector 02144.
+
+Scope trace: thermal expansion loop check plus cleanout riser height referenced in Middlesex County drain and water line review.
 
 On-site sector marker: Middlesex County / ZIP 02143 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -121.7000
 zipSample: ["94561"]
 zipCodes: ["94561"]
 localPaths: ["Contra Costa County / coords 37.9900, -121.7000", "Contra Costa County / primary ZIP 94561", "Contra Costa County / ZIP 94561 sector", "Contra Costa County / elevation 10 ft band"]
-zillowHomeValueUsd: 665920
 ---
 
-**Engineering Notice for Oakley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Oakley:** Emergency leak and drain triage uses ~159 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Oakley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Oakley, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

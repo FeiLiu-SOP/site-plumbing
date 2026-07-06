@@ -12,11 +12,14 @@ lng: -75.3000
 zipSample: ["19026"]
 zipCodes: ["19026"]
 localPaths: ["Delaware County / coords 39.9500, -75.3000", "Delaware County / primary ZIP 19026", "Delaware County / elevation 240 ft band", "Delaware County / ZIP 19026 sector"]
-zillowHomeValueUsd: 315364
 ---
 
-**Engineering Notice for Drexel Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Delaware County.
+**Engineering Notice for Drexel Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Delaware County.
 
+
+Plumbing remediation in Drexel Hill, PA, Delaware County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Drexel Hill, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Delaware County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Drexel Hill, PA hardness profiles.
 
@@ -32,7 +35,7 @@ Basement floor drains in Drexel Hill, PA should be snaked only after trap arm ge
 
 Stack vent offsets in Drexel Hill, PA older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -45,8 +48,6 @@ FAQ: When should sump battery backups be load-tested? In Drexel Hill, PA, before
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Drexel Hill, PA.
 
 Pressure trace 181339: meter-pit clearance and dielectric union checklist staged for Drexel Hill, PA near elevation 240 ft.
-
-Field routing: shower cartridge seat score paired with scale coupon sampling near ZIP 19026.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~240 ft across the Delaware County area. Coordinates: 39.9500, -75.3000. ZIP sample: 19026. Service perimeter note: Coverage extends through Delaware County with dispatch centered near ZIP 19026.
 

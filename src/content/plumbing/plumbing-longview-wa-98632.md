@@ -12,11 +12,14 @@ lng: -122.9600
 zipSample: ["98632"]
 zipCodes: ["98632"]
 localPaths: ["Cowlitz County / elevation 16 ft band", "Cowlitz County / primary ZIP 98632", "Cowlitz County / ZIP 98632 sector", "Cowlitz County / coords 46.1500, -122.9600"]
-zillowHomeValueUsd: 385600
 ---
 
-**Engineering Notice for Longview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cowlitz County.
+**Engineering Notice for Longview:** Emergency leak and drain triage uses ~136 mg/L hardness context with Cowlitz County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Longview, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Cowlitz County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Longview, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In Longview, WA, before spring thaw and hurricane remnants.
 
@@ -32,7 +35,7 @@ Recirculation pump failures in Longview, WA can mimic fixture-specific clogs.
 
 Frost-free sillcock failures in Longview, WA often trace to interior shutoff seats, not exterior stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 

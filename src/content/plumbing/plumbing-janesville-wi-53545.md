@@ -12,11 +12,14 @@ lng: -89.0100
 zipSample: ["53547", "53546", "53545", "53548"]
 zipCodes: ["53548", "53545", "53546", "53547"]
 localPaths: ["Rock County / coords 42.6900, -89.0100", "Rock County / elevation 866 ft band", "Rock County / ZIP 53546 sector", "Rock County / ZIP 53545 sector", "Rock County / ZIP 53547 sector"]
-zillowHomeValueUsd: 276938
 ---
 
-**Engineering Notice for Janesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rock County.
+**Engineering Notice for Janesville:** Emergency leak and drain triage uses ~159 mg/L hardness context with Rock County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Janesville, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Rock County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Janesville, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rock County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Galvanized segments in Janesville, WI may restrict flow long before visible corrosion.
 

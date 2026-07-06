@@ -12,11 +12,14 @@ lng: -117.9900
 zipSample: ["92804", "90680"]
 zipCodes: ["90680", "92804"]
 localPaths: ["Orange County / primary ZIP 92804", "Orange County / elevation 79 ft band", "Orange County / ZIP 90680 sector", "Orange County / ZIP 92804 sector", "Orange County / coords 33.8000, -117.9900"]
-zillowHomeValueUsd: 940841
 ---
 
-**Engineering Notice for Stanton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Stanton:** Emergency leak and drain triage uses ~174 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Stanton, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Stanton, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When should sump battery backups be load-tested? In Stanton, CA, before spring thaw and hurricane remnants.
 
@@ -34,7 +37,7 @@ Frost-free sillcock failures in Stanton, CA often trace to interior shutoff seat
 
 Expansion tank pre-charge loss in Stanton, CA often tracks heater replacement deferrals.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Permit note: Main water line replacement in Stanton, CA may require ROW restoration planning.
 

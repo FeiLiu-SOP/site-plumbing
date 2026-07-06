@@ -12,11 +12,14 @@ lng: -74.4100
 zipSample: ["07005", "07054"]
 zipCodes: ["07054", "07005"]
 localPaths: ["Morris County / coords 40.8600, -74.4100", "Morris County / elevation 302 ft band", "Morris County / primary ZIP 07054", "Morris County / ZIP 07054 sector", "Morris County / ZIP 07005 sector"]
-zillowHomeValueUsd: 724332
 ---
 
-**Engineering Notice for Parsippany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morris County.
+**Engineering Notice for Parsippany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Morris County.
 
+
+Burst pipe and drain clog calls in Parsippany, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Morris County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Parsippany, NJ, Morris County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,8 +50,6 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Pressure trace 667920: meter-pit clearance and dielectric union checklist staged for Parsippany, NJ near elevation 302 ft.
 
 Supply audit 667920: curb-stop orientation and hose-bib freeze flag reviewed for Parsippany, NJ at coords 40.8600/-74.4100.
-
-Field routing: jetter nozzle envelope paired with water softener bypass lever near ZIP 07054.
 
 On-site sector marker: Morris County / ZIP 07005 sector — logged for map parity and ZIP-corridor verification.
 

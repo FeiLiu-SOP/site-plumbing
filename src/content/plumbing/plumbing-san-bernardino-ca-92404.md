@@ -12,11 +12,14 @@ lng: -117.2900
 zipSample: ["92408", "92405", "92427", "92411", "92404"]
 zipCodes: ["92408", "92415", "92418", "92407", "92403", "92410", "92404", "92427", "92413", "92423", "92405", "92401"]
 localPaths: ["San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / ZIP 92408 sector", "San Bernardino County / ZIP 92405 sector", "San Bernardino County / ZIP 92411 sector", "San Bernardino County / elevation 1201 ft band"]
-zillowHomeValueUsd: 480020
 ---
 
-**Engineering Notice for San Bernardino:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for San Bernardino:** Supply line, cleanout, and water heater scope recorded at 1201 ft elevation context (San Bernardino County).
 
+
+When a main line backs up in San Bernardino, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in San Bernardino, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Cast-iron hub corrosion in San Bernardino, CA often concentrates at the third jo
 Drain map 266034: camera-pass priority and expansion-tank pre-charge noted for San Bernardino, CA postal sector 92404.
 
 Lineage note 266034: recirculation pump amp draw captured before San Bernardino, CA branch isolation.
-
-Scope trace: water heater T&P path plus recirculation pump amp draw referenced in San Bernardino County county grid review.
 
 Primary postal anchor 92404 with multi-ZIP overlap in San Bernardino; field packets tag San Bernardino County for county-grid reconciliation.
 

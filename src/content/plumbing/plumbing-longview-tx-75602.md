@@ -12,11 +12,14 @@ lng: -94.7600
 zipSample: ["75601", "75602", "75604", "75606", "75605"]
 zipCodes: ["75606", "75608", "75615", "75602", "75660", "75604", "75601", "75605"]
 localPaths: ["Gregg County / coords 32.5200, -94.7600", "Gregg County / primary ZIP 75602", "Gregg County / ZIP 75601 sector", "Gregg County / ZIP 75602 sector", "Gregg County / ZIP 75604 sector"]
-zillowHomeValueUsd: 140558
 ---
 
-**Engineering Notice for Longview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gregg County.
+**Engineering Notice for Longview:** Emergency leak and drain triage uses ~124 mg/L hardness context with Gregg County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in Longview, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Gregg County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Longview, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -26,7 +29,7 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 75602.
 
 Risk flag: In Longview, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,6 +50,8 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 Frost-free sillcock failures in Longview, TX often trace to interior shutoff seats, not exterior stems.
 
 Supply audit 278882: curb-stop orientation and hose-bib freeze flag reviewed for Longview, TX at coords 32.5200/-94.7600.
+
+Scope trace: dielectric union checklist plus scale coupon sampling referenced in Gregg County drain and water line review.
 
 On-site sector marker: Gregg County / ZIP 75601 sector — logged for map parity and ZIP-corridor verification.
 

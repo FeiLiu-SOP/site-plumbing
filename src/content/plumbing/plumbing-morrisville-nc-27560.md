@@ -12,11 +12,14 @@ lng: -78.8300
 zipSample: ["27560"]
 zipCodes: ["27560"]
 localPaths: ["Wake County / primary ZIP 27560", "Wake County / coords 35.8400, -78.8300", "Wake County / elevation 348 ft band", "Wake County / ZIP 27560 sector"]
-zillowHomeValueUsd: 501915
 ---
 
-**Engineering Notice for Morrisville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Morrisville:** Supply line, cleanout, and water heater scope recorded at 348 ft elevation context (Wake County).
 
+
+Emergency certified plumber service in Morrisville, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Wake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Licensed plumbing crews serving Morrisville, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Branch wet vents in Morrisville, NC can mask gurgling as a main-line issue.
 
@@ -45,6 +48,8 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Hydrostatic holds in Morrisville, NC slab circuits run overnight when listening mics show ambiguous hits.
 
 Flow dossier 922794: branch wet-vent geometry and jetting nozzle envelope logged for Morrisville, NC county grid Wake County (ZIP 27560).
+
+Scope trace: jetter nozzle envelope plus shower cartridge seat score referenced in Wake County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 35.8400, -78.8300 at elevation ~348 ft aligns with Wake County intake staging.
 

@@ -12,11 +12,14 @@ lng: -90.3800
 zipSample: ["61402", "61401"]
 zipCodes: ["61402", "61401"]
 localPaths: ["Knox County / elevation 774 ft band", "Knox County / coords 40.9500, -90.3800", "Knox County / ZIP 61402 sector", "Knox County / primary ZIP 61401", "Knox County / ZIP 61401 sector"]
-zillowHomeValueUsd: 99720
 ---
 
-**Engineering Notice for Galesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.
+**Engineering Notice for Galesburg:** Supply line, cleanout, and water heater scope recorded at 774 ft elevation context (Knox County).
 
+
+Burst pipe and drain clog calls in Galesburg, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Knox County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Galesburg, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Knox County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Irrigation cross-connections in Galesburg, IL can back-siphon domestic lines during main breaks.
 
@@ -26,7 +29,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Step: camera-pass main lines in Galesburg, IL before jetting older clay or cast iron.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Sump discharge freeze risk in Galesburg, IL should be reviewed before spring thaw cycles.
 

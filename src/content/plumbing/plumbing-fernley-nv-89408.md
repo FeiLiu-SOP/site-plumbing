@@ -12,11 +12,14 @@ lng: -119.1900
 zipSample: ["89408", "89406", "89429"]
 zipCodes: ["89408", "89429", "89406"]
 localPaths: ["Lyon County / elevation 4636 ft band", "Lyon County / primary ZIP 89408", "Lyon County / ZIP 89408 sector", "Lyon County / ZIP 89429 sector", "Lyon County / coords 39.5600, -119.1900"]
-zillowHomeValueUsd: 396016
 ---
 
-**Engineering Notice for Fernley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.
+**Engineering Notice for Fernley:** Supply line, cleanout, and water heater scope recorded at 4636 ft elevation context (Lyon County).
 
+
+Licensed plumbing crews serving Fernley, NV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Fernley, NV, Lyon County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Is hydro-jetting always appropriate? In Fernley, NV, pipe material and blockage type dictate method.
 
@@ -47,8 +50,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Lineage note 182343: recirculation pump amp draw captured before Fernley, NV branch isolation.
 
 Fixture roster 182343: toilet flange spacer kit and shower cartridge seat score queued for Fernley, NV walk-through.
-
-plumbing brief: PRV outlet curve and backflow test cock orientation were cross-checked for the Fernley intake packet.
 
 On-site sector marker: Lyon County / primary ZIP 89408 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -87.9700
 zipSample: ["60048"]
 zipCodes: ["60048"]
 localPaths: ["Lake County / primary ZIP 60048", "Lake County / coords 42.2900, -87.9700", "Lake County / elevation 692 ft band", "Lake County / ZIP 60048 sector"]
-zillowHomeValueUsd: 608267
 ---
 
-**Engineering Notice for Libertyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Libertyville:** Supply line, cleanout, and water heater scope recorded at 692 ft elevation context (Lake County).
 
+
+Certified plumbing crews serving Libertyville, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Libertyville, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

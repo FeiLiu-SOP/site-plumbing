@@ -12,11 +12,14 @@ lng: -82.0200
 zipSample: ["44011"]
 zipCodes: ["44011"]
 localPaths: ["Lorain County / elevation 692 ft band", "Lorain County / coords 41.4500, -82.0200", "Lorain County / primary ZIP 44011", "Lorain County / ZIP 44011 sector"]
-zillowHomeValueUsd: 471666
 ---
 
-**Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.
+**Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lorain County.
 
+
+Burst pipe and drain clog calls in Avon, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lorain County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Avon, OH, Lorain County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hard water in Avon, OH accelerates scale on PRV seats and heater elements.
 

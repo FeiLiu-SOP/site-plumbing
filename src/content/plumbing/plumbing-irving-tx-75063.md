@@ -12,11 +12,14 @@ lng: -96.9700
 zipSample: ["75017", "75039", "75059", "75061", "75014"]
 zipCodes: ["75062", "75059", "75368", "75015", "75014", "75063", "75038", "75060", "75326", "75039", "75017", "75061"]
 localPaths: ["Dallas County / elevation 577 ft band", "Dallas County / primary ZIP 75063", "Dallas County / ZIP 75059 sector", "Dallas County / ZIP 75039 sector", "Dallas County / coords 32.8600, -96.9700"]
-zillowHomeValueUsd: 610912
 ---
 
-**Engineering Notice for Irving:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Irving:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dallas County.
 
+
+Plumbing service in Irving, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Irving, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

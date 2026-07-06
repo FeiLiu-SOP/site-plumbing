@@ -12,15 +12,18 @@ lng: -82.0500
 zipSample: ["33950", "33955"]
 zipCodes: ["33955", "33950"]
 localPaths: ["Charlotte County / coords 26.8900, -82.0500", "Charlotte County / ZIP 33950 sector", "Charlotte County / ZIP 33955 sector", "Charlotte County / primary ZIP 33955", "Charlotte County / elevation 13 ft band"]
-zillowHomeValueUsd: 330588
 ---
 
-**Engineering Notice for Punta Gorda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlotte County.
+**Engineering Notice for Punta Gorda:** Supply line, cleanout, and water heater scope recorded at 13 ft elevation context (Charlotte County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing remediation in Punta Gorda, FL, Charlotte County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
-Dispatch packets reference county grid Charlotte County near ZIP 33955.
+Burst pipe and drain clog calls in Punta Gorda, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Charlotte County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
+
+Our Punta Gorda, FL service packets reference Charlotte County near ZIP 33955 for pipe and leak scope.
 
 Across Punta Gorda, FL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -47,8 +50,6 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 33955.
 Hydrostatic holds in Punta Gorda, FL slab circuits run overnight when listening mics show ambiguous hits.
 
 Drain map 667704: camera-pass priority and expansion-tank pre-charge noted for Punta Gorda, FL postal sector 33955.
-
-plumbing brief: gas water heater draft hood gap and dielectric union checklist were cross-checked for the Punta Gorda intake packet.
 
 Regional mesh label Charlotte County: moisture and logistics baselines are keyed to Punta Gorda, FL before niche-specific work begins.
 

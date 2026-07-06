@@ -12,11 +12,14 @@ lng: -74.4300
 zipSample: ["08904"]
 zipCodes: ["08904"]
 localPaths: ["Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08904 sector", "Middlesex County / coords 40.5000, -74.4300", "Middlesex County / primary ZIP 08904"]
-zillowHomeValueUsd: 584976
 ---
 
-**Engineering Notice for Highland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Highland Park:** Supply line, cleanout, and water heater scope recorded at 85 ft elevation context (Middlesex County).
 
+
+When a main line backs up in Highland Park, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Highland Park, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Branch wet vents in Highland Park, NJ can mask gurgling as a main-line issue.
 
@@ -45,6 +48,8 @@ Trenchless sleeve pulls near Highland Park, NJ require pit shoring notes when wa
 Intake ledger 922086: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Highland Park, NJ at 40.5000, -74.4300.
 
 Supply audit 922086: curb-stop orientation and hose-bib freeze flag reviewed for Highland Park, NJ at coords 40.5000/-74.4300.
+
+Scope trace: copper pinhole cluster plus PEX expansion ring batch referenced in Middlesex County drain and water line review.
 
 On-site sector marker: Middlesex County / ZIP 08904 sector — logged for map parity and ZIP-corridor verification.
 

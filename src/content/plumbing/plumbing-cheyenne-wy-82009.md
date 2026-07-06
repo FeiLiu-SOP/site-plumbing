@@ -12,11 +12,14 @@ lng: -104.7900
 zipSample: ["82002", "82001", "82007", "82003", "82009"]
 zipCodes: ["82002", "82001", "82007", "82009", "82003"]
 localPaths: ["Laramie County / ZIP 82003 sector", "Laramie County / primary ZIP 82009", "Laramie County / coords 41.1300, -104.7900", "Laramie County / elevation 6083 ft band", "Laramie County / ZIP 82002 sector"]
-zillowHomeValueUsd: 490966
 ---
 
-**Engineering Notice for Cheyenne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Laramie County.
+**Engineering Notice for Cheyenne:** Emergency leak and drain triage uses ~114 mg/L hardness context with Laramie County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Cheyenne, WY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Cheyenne, WY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Laramie County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -34,7 +37,7 @@ Water heater T&P discharge paths in Cheyenne, WY must terminate safely before re
 
 Cast-iron hub corrosion in Cheyenne, WY often concentrates at the third joint upstream of the cleanout.
 
-Dispatch packets reference county grid Laramie County near ZIP 82009.
+Our Cheyenne, WY service packets reference Laramie County near ZIP 82009 for pipe and leak scope.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Cheyenne, WY.
 
@@ -46,7 +49,7 @@ Drain map 965576: camera-pass priority and expansion-tank pre-charge noted for C
 
 Pressure trace 965576: meter-pit clearance and dielectric union checklist staged for Cheyenne, WY near elevation 6083 ft.
 
-Scope trace: slab penetration sleeve seal plus recirculation pump amp draw referenced in Laramie County county grid review.
+Scope trace: slab penetration sleeve seal plus recirculation pump amp draw referenced in Laramie County drain and water line review.
 
 On-site sector marker: Laramie County / ZIP 82001 sector — logged for map parity and ZIP-corridor verification.
 

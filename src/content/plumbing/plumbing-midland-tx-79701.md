@@ -12,11 +12,14 @@ lng: -102.1100
 zipSample: ["79701", "79705", "79706", "79707", "79708"]
 zipCodes: ["79703", "79708", "79701", "79706", "79707", "79705", "79711", "79702"]
 localPaths: ["Midland County / elevation 2815 ft band", "Midland County / primary ZIP 79701", "Midland County / ZIP 79708 sector", "Midland County / ZIP 79705 sector", "Midland County / ZIP 79701 sector"]
-zillowHomeValueUsd: 217373
 ---
 
-**Engineering Notice for Midland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Supply line, cleanout, and water heater scope recorded at 2815 ft elevation context (Midland County).
 
+
+Licensed plumbing crews serving Midland, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Midland, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Midland County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

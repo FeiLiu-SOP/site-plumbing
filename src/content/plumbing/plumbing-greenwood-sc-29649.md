@@ -12,11 +12,14 @@ lng: -82.1500
 zipSample: ["29646", "29649", "29647", "29648"]
 zipCodes: ["29649", "29646", "29648", "29647"]
 localPaths: ["Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29649 sector", "Greenwood County / primary ZIP 29649", "Greenwood County / coords 34.1900, -82.1500"]
-zillowHomeValueUsd: 224016
 ---
 
-**Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenwood County.
+**Engineering Notice for Greenwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Greenwood County.
 
+
+Burst pipe and drain clog calls in Greenwood, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenwood County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Greenwood, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 29649.
 

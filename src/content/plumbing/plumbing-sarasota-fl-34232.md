@@ -12,11 +12,14 @@ lng: -82.5400
 zipSample: ["34276", "34234", "34236", "34239", "34232"]
 zipCodes: ["34234", "34237", "34232", "34239", "34276", "34236"]
 localPaths: ["Sarasota County / ZIP 34232 sector", "Sarasota County / ZIP 34276 sector", "Sarasota County / elevation 36 ft band", "Sarasota County / ZIP 34239 sector", "Sarasota County / primary ZIP 34232"]
-zillowHomeValueUsd: 355872
 ---
 
-**Engineering Notice for Sarasota:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.
+**Engineering Notice for Sarasota:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sarasota County.
 
+
+Plumbing remediation in Sarasota, FL, Sarasota County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Sarasota, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: map sump float travel and check-valve orientation for Sarasota, FL basements.
 
@@ -24,7 +27,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Risk flag: In Sarasota, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

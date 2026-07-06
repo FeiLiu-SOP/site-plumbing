@@ -12,11 +12,14 @@ lng: -122.9000
 zipSample: ["98502", "98508", "98501", "98506", "98507"]
 zipCodes: ["98508", "98506", "98507", "98501", "98504", "98502"]
 localPaths: ["Thurston County / ZIP 98502 sector", "Thurston County / ZIP 98506 sector", "Thurston County / ZIP 98507 sector", "Thurston County / primary ZIP 98502", "Thurston County / elevation 30 ft band"]
-zillowHomeValueUsd: 574246
 ---
 
-**Engineering Notice for Olympia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Thurston County.
+**Engineering Notice for Olympia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Thurston County.
 
+
+Licensed plumbing crews serving Olympia, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in Olympia, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Thurston County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Olympia, WA.
 
@@ -24,7 +27,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Recirculation pump failures in Olympia, WA can mimic fixture-specific clogs.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

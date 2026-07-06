@@ -12,11 +12,14 @@ lng: -72.3000
 zipSample: ["03431", "03435"]
 zipCodes: ["03431", "03435"]
 localPaths: ["Cheshire County / ZIP 03431 sector", "Cheshire County / ZIP 03435 sector", "Cheshire County / coords 42.9500, -72.3000", "Cheshire County / elevation 509 ft band", "Cheshire County / primary ZIP 03431"]
-zillowHomeValueUsd: 342908
 ---
 
-**Engineering Notice for Keene:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cheshire County.
+**Engineering Notice for Keene:** Supply line, cleanout, and water heater scope recorded at 509 ft elevation context (Cheshire County).
 
+
+Plumbing restoration in Keene, NH, Cheshire County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Keene, NH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,6 +48,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Drain map 136898: camera-pass priority and expansion-tank pre-charge noted for Keene, NH postal sector 03431.
 
 Flow dossier 136898: branch wet-vent geometry and jetting nozzle envelope logged for Keene, NH county grid Cheshire County (ZIP 03431).
+
+Local service note: backflow test cock orientation paired with PRV outlet curve near ZIP 03431 for emergency plumbing pro repairs.
 
 On-site sector marker: Cheshire County / ZIP 03431 sector — logged for map parity and ZIP-corridor verification.
 

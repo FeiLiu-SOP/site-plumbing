@@ -12,11 +12,14 @@ lng: -96.0500
 zipSample: ["68127", "68197", "68135", "68103", "68117"]
 zipCodes: ["68139", "68106", "68197", "68116", "68111", "68182", "68103", "68107", "68132", "68144", "68198", "68180"]
 localPaths: ["Douglas County / ZIP 68197 sector", "Douglas County / elevation 1152 ft band", "Douglas County / ZIP 68103 sector", "Douglas County / ZIP 68135 sector", "Douglas County / coords 41.2600, -96.0500"]
-zillowHomeValueUsd: 182170
 ---
 
-**Engineering Notice for Omaha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Omaha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Douglas County.
 
+
+When a main line backs up in Omaha, NE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency plumbing pro service in Omaha, NE often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Douglas County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -46,7 +49,7 @@ Flow dossier 966428: branch wet-vent geometry and jetting nozzle envelope logged
 
 Fixture roster 966428: toilet flange spacer kit and shower cartridge seat score queued for Omaha, NE walk-through.
 
-plumbing brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Omaha intake packet.
+Plumbing remediation brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Omaha pipe and leak scope.
 
 ZIP-corridor snapshot for Omaha, NE: sampled sectors include 68179, 68105, 68176, 68178, 68144, 68180, 68145, 68111; county routing grid remains Douglas County.
 

@@ -12,11 +12,14 @@ lng: -86.1300
 zipSample: ["46903", "46901", "46902", "46965"]
 zipCodes: ["46902", "46901", "46903", "46965"]
 localPaths: ["Howard County / ZIP 46903 sector", "Howard County / primary ZIP 46902", "Howard County / elevation 827 ft band", "Howard County / ZIP 46902 sector", "Howard County / ZIP 46965 sector"]
-zillowHomeValueUsd: 198906
 ---
 
-**Engineering Notice for Kokomo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.
+**Engineering Notice for Kokomo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Howard County.
 
+
+Burst pipe and drain clog calls in Kokomo, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Howard County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Kokomo, IN, Howard County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

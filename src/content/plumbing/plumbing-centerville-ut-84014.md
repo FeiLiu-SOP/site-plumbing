@@ -12,11 +12,14 @@ lng: -111.8800
 zipSample: ["84014", "84087"]
 zipCodes: ["84087", "84014"]
 localPaths: ["Davis County / coords 40.9300, -111.8800", "Davis County / primary ZIP 84014", "Davis County / ZIP 84014 sector", "Davis County / elevation 4255 ft band", "Davis County / ZIP 84087 sector"]
-zillowHomeValueUsd: 589789
 ---
 
-**Engineering Notice for Centerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
+**Engineering Notice for Centerville:** Supply line, cleanout, and water heater scope recorded at 4255 ft elevation context (Davis County).
 
+
+Plumbing service in Centerville, UT, Davis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Centerville, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Water heater T&P discharge paths in Centerville, UT must terminate safely before replacement quotes.
 
@@ -36,7 +39,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 84014.
 
-Dispatch packets reference county grid Davis County near ZIP 84014.
+Our Centerville, UT service packets reference Davis County near ZIP 84014 for pipe and leak scope.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 

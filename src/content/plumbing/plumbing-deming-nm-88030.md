@@ -12,11 +12,14 @@ lng: -107.7500
 zipSample: ["88030", "88031"]
 zipCodes: ["88031", "88030"]
 localPaths: ["Luna County / primary ZIP 88030", "Luna County / coords 32.2600, -107.7500", "Luna County / ZIP 88030 sector", "Luna County / elevation 4334 ft band", "Luna County / ZIP 88031 sector"]
-zillowHomeValueUsd: 163711
 ---
 
-**Engineering Notice for Deming:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Luna County.
+**Engineering Notice for Deming:** Emergency leak and drain triage uses ~164 mg/L hardness context with Luna County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Deming, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Luna County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Deming, NM, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -43,6 +46,8 @@ Cast-iron hub corrosion in Deming, NM often concentrates at the third joint upst
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Flow dossier 284866: branch wet-vent geometry and jetting nozzle envelope logged for Deming, NM county grid Luna County (ZIP 88030).
+
+Scope trace: branch wet vent geometry plus jetter nozzle envelope referenced in Luna County drain and water line review.
 
 On-site sector marker: Luna County / ZIP 88031 sector — logged for map parity and ZIP-corridor verification.
 

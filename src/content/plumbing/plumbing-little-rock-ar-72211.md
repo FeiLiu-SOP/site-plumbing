@@ -12,17 +12,20 @@ lng: -92.3600
 zipSample: ["72207", "72209", "72201", "72223", "72255"]
 zipCodes: ["72202", "72223", "72231", "72205", "72227", "72219", "72103", "72260", "72225", "72222", "72210", "72217"]
 localPaths: ["Pulaski County / ZIP 72255 sector", "Pulaski County / ZIP 72223 sector", "Pulaski County / coords 34.7300, -92.3600", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72207 sector"]
-zillowHomeValueUsd: 280198
 ---
 
-**Engineering Notice for Little Rock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Little Rock:** Emergency leak and drain triage uses ~151 mg/L hardness context with Pulaski County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Little Rock, AR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Little Rock, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Water heater anode type may change with Little Rock, AR hardness profiles.
 
 Basement floor drains in Little Rock, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate Little Rock, AR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Little Rock, AR plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Little Rock, AR systems need rebalancing.
 
@@ -46,7 +49,7 @@ Flow dossier 853338: branch wet-vent geometry and jetting nozzle envelope logged
 
 Pressure trace 853338: meter-pit clearance and dielectric union checklist staged for Little Rock, AR near elevation 341 ft.
 
-Scope trace: dielectric union checklist plus slab leak listening window referenced in Pulaski County county grid review.
+Scope trace: dielectric union checklist plus slab leak listening window referenced in Pulaski County drain and water line review.
 
 ZIP-corridor snapshot for Little Rock, AR: sampled sectors include 72207, 72223, 72231, 72210, 72222, 72103, 72255, 72260; county routing grid remains Pulaski County.
 

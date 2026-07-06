@@ -12,11 +12,14 @@ lng: -117.8200
 zipSample: ["92869", "92856", "92864", "92866", "92863"]
 zipCodes: ["92857", "92864", "92856", "92863", "92866", "92865", "92868", "92867", "92869"]
 localPaths: ["Orange County / ZIP 92869 sector", "Orange County / primary ZIP 92868", "Orange County / coords 33.8000, -117.8200", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92863 sector"]
-zillowHomeValueUsd: 907088
 ---
 
-**Engineering Notice for Orange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Orange:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Qualified plumbing crews serving Orange, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Orange, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

@@ -12,11 +12,14 @@ lng: -74.0000
 zipSample: ["07022"]
 zipCodes: ["07022"]
 localPaths: ["Bergen County / coords 40.8200, -74.0000", "Bergen County / ZIP 07022 sector", "Bergen County / primary ZIP 07022", "Bergen County / elevation 262 ft band"]
-zillowHomeValueUsd: 654988
 ---
 
-**Engineering Notice for Fairview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Fairview:** Emergency leak and drain triage uses ~165 mg/L hardness context with Bergen County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Fairview, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Fairview, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Bergen County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -47,8 +50,6 @@ CPVC solvent weld times shift with ambient humidity during Fairview, NJ shoulder
 Supply audit 966804: curb-stop orientation and hose-bib freeze flag reviewed for Fairview, NJ at coords 40.8200/-74.0000.
 
 Intake ledger 966804: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fairview, NJ at 40.8200, -74.0000.
-
-Scope trace: scale coupon sampling plus thermal expansion loop check referenced in Bergen County county grid review.
 
 On-site sector marker: Bergen County / coords 40.8200, -74.0000 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -81.4200
 zipSample: ["44278"]
 zipCodes: ["44278"]
 localPaths: ["Summit County / coords 41.1000, -81.4200", "Summit County / primary ZIP 44278", "Summit County / ZIP 44278 sector", "Summit County / elevation 1204 ft band"]
-zillowHomeValueUsd: 282390
 ---
 
-**Engineering Notice for Tallmadge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Summit County.
+**Engineering Notice for Tallmadge:** Emergency leak and drain triage uses ~170 mg/L hardness context with Summit County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Tallmadge, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Summit County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Tallmadge, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Tallmadge, OH irrigation zones need backflow logs before line replacement.
 

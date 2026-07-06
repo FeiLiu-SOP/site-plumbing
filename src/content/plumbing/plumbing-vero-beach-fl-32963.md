@@ -12,11 +12,14 @@ lng: -80.3900
 zipSample: ["32963", "32961", "32965", "32969", "32964"]
 zipCodes: ["32960", "32961", "32963", "32964", "32969", "32965"]
 localPaths: ["Indian River County / coords 27.6500, -80.3900", "Indian River County / ZIP 32964 sector", "Indian River County / ZIP 32963 sector", "Indian River County / primary ZIP 32963", "Indian River County / ZIP 32965 sector"]
-zillowHomeValueUsd: 1038943
 ---
 
-**Engineering Notice for Vero Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Indian River County.
+**Engineering Notice for Vero Beach:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (Indian River County).
 
+
+Plumbing service in Vero Beach, FL, Indian River County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Vero Beach, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: In Vero Beach, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -28,7 +31,7 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 32963.
 

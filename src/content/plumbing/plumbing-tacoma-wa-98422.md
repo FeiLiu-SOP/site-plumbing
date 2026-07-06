@@ -12,11 +12,14 @@ lng: -122.4500
 zipSample: ["98465", "98416", "98444", "98403", "98405"]
 zipCodes: ["98422", "98402", "98411", "98416", "98401", "98403", "98448", "98406", "98418", "98490", "98421", "98466"]
 localPaths: ["Pierce County / ZIP 98465 sector", "Pierce County / ZIP 98444 sector", "Pierce County / ZIP 98403 sector", "Pierce County / coords 47.2400, -122.4500", "Pierce County / ZIP 98416 sector"]
-zillowHomeValueUsd: 676446
 ---
 
-**Engineering Notice for Tacoma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
+**Engineering Notice for Tacoma:** Emergency leak and drain triage uses ~163 mg/L hardness context with Pierce County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Tacoma, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Tacoma, WA, Pierce County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Tacoma, WA slab circuits run overnight when listening mics show ambiguous hits.
 

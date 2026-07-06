@@ -12,11 +12,14 @@ lng: -83.0700
 zipSample: ["43123"]
 zipCodes: ["43123"]
 localPaths: ["Franklin County / primary ZIP 43123", "Franklin County / ZIP 43123 sector", "Franklin County / elevation 810 ft band", "Franklin County / coords 39.8700, -83.0700"]
-zillowHomeValueUsd: 330365
 ---
 
-**Engineering Notice for Grove City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Grove City:** Emergency leak and drain triage uses ~133 mg/L hardness context with Franklin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Grove City, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Franklin County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Grove City, OH, Franklin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 CPVC solvent weld times shift with ambient humidity during Grove City, OH shoulder seasons.
 
@@ -47,8 +50,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 Drain map 686355: camera-pass priority and expansion-tank pre-charge noted for Grove City, OH postal sector 43123.
 
 Lineage note 686355: recirculation pump amp draw captured before Grove City, OH branch isolation.
-
-Scope trace: PEX expansion ring batch plus hose bib freeze flag referenced in Franklin County county grid review.
 
 Coordinate-anchored dispatch note: center reference 39.8700, -83.0700 at elevation ~810 ft aligns with Franklin County intake staging.
 

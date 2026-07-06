@@ -12,11 +12,14 @@ lng: -117.4700
 zipSample: ["92883"]
 zipCodes: ["92883"]
 localPaths: ["Riverside County / primary ZIP 92883", "Riverside County / ZIP 92883 sector", "Riverside County / elevation 1152 ft band", "Riverside County / coords 33.7600, -117.4700"]
-zillowHomeValueUsd: 761451
 ---
 
-**Engineering Notice for Temescal Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Temescal Valley:** Emergency leak and drain triage uses ~156 mg/L hardness context with Riverside County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Temescal Valley, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Temescal Valley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Temescal Valley, CA.
 

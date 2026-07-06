@@ -12,11 +12,14 @@ lng: -82.6900
 zipSample: ["34668"]
 zipCodes: ["34668"]
 localPaths: ["Pasco County / primary ZIP 34668", "Pasco County / ZIP 34668 sector", "Pasco County / coords 28.2900, -82.6900", "Pasco County / elevation 26 ft band"]
-zillowHomeValueUsd: 227548
 ---
 
-**Engineering Notice for Jasmine Estates:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pasco County.
+**Engineering Notice for Jasmine Estates:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Pasco County).
 
+
+Licensed plumbing crews serving Jasmine Estates, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Jasmine Estates, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pasco County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 In Jasmine Estates, FL, slab leaks often present as warm spots before wall stains appear.
 

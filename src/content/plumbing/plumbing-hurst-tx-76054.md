@@ -12,11 +12,14 @@ lng: -97.1800
 zipSample: ["76053", "76054"]
 zipCodes: ["76054", "76053"]
 localPaths: ["Tarrant County / coords 32.8400, -97.1800", "Tarrant County / ZIP 76053 sector", "Tarrant County / elevation 591 ft band", "Tarrant County / primary ZIP 76054", "Tarrant County / ZIP 76054 sector"]
-zillowHomeValueUsd: 420976
 ---
 
-**Engineering Notice for Hurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Hurst:** Supply line, cleanout, and water heater scope recorded at 591 ft elevation context (Tarrant County).
 
+
+When a main line backs up in Hurst, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Hurst, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Hurst, TX, slab leaks can misroute as foundation issues without listening equipment.
 

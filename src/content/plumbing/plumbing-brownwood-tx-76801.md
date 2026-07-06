@@ -12,11 +12,14 @@ lng: -98.9800
 zipSample: ["76803", "76802", "76801"]
 zipCodes: ["76802", "76803", "76801"]
 localPaths: ["Brown County / coords 31.7100, -98.9800", "Brown County / elevation 1358 ft band", "Brown County / ZIP 76802 sector", "Brown County / ZIP 76801 sector", "Brown County / ZIP 76803 sector"]
-zillowHomeValueUsd: 168901
 ---
 
-**Engineering Notice for Brownwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
+**Engineering Notice for Brownwood:** Supply line, cleanout, and water heater scope recorded at 1358 ft elevation context (Brown County).
 
+
+Burst pipe and drain clog calls in Brownwood, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brown County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Brownwood, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,8 +52,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Flow dossier 956624: branch wet-vent geometry and jetting nozzle envelope logged for Brownwood, TX county grid Brown County (ZIP 76801).
 
 Fixture roster 956624: toilet flange spacer kit and shower cartridge seat score queued for Brownwood, TX walk-through.
-
-plumbing brief: thermal expansion loop check and sewer cleanout cap thread were cross-checked for the Brownwood intake packet.
 
 On-site sector marker: Brown County / primary ZIP 76801 — logged for map parity and ZIP-corridor verification.
 

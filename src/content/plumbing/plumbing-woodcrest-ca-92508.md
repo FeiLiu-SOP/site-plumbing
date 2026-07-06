@@ -12,11 +12,14 @@ lng: -117.3700
 zipSample: ["92504", "92508", "92503", "92506"]
 zipCodes: ["92504", "92508", "92506", "92503"]
 localPaths: ["Riverside County / ZIP 92504 sector", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92503 sector", "Riverside County / ZIP 92506 sector", "Riverside County / ZIP 92508 sector"]
-zillowHomeValueUsd: 767547
 ---
 
-**Engineering Notice for Woodcrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Woodcrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Riverside County.
 
+
+Burst pipe and drain clog calls in Woodcrest, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Woodcrest, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -48,7 +51,7 @@ Fixture roster 266851: toilet flange spacer kit and shower cartridge seat score 
 
 Supply audit 266851: curb-stop orientation and hose-bib freeze flag reviewed for Woodcrest, CA at coords 33.8800/-117.3700.
 
-Scope trace: scale coupon sampling plus dielectric union checklist referenced in Riverside County county grid review.
+Scope trace: scale coupon sampling plus dielectric union checklist referenced in Riverside County drain and water line review.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Riverside County. Reference elevation: 1476 ft. Primary coordinates: 33.8800, -117.3700. ZIP sample: 92506, 92508, 92503, 92504. Service perimeter note: Coverage extends through Riverside County with dispatch centered near ZIP 92508.
 

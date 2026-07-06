@@ -12,11 +12,14 @@ lng: -120.4200
 zipSample: ["93457", "93455"]
 zipCodes: ["93457", "93455"]
 localPaths: ["Santa Barbara County / elevation 453 ft band", "Santa Barbara County / ZIP 93457 sector", "Santa Barbara County / primary ZIP 93455", "Santa Barbara County / coords 34.8700, -120.4200", "Santa Barbara County / ZIP 93455 sector"]
-zillowHomeValueUsd: 716841
 ---
 
-**Engineering Notice for Orcutt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Orcutt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Santa Barbara County.
 
+
+Plumbing restoration in Orcutt, CA, Santa Barbara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Orcutt, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Barbara County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Orcutt, CA may require ROW restoration planning.
 
@@ -45,8 +48,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 Drain map 156003: camera-pass priority and expansion-tank pre-charge noted for Orcutt, CA postal sector 93455.
 
 Intake ledger 156003: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Orcutt, CA at 34.8700, -120.4200.
-
-Field routing: copper pinhole cluster paired with floor drain trap primer drip near ZIP 93455.
 
 On-site sector marker: Santa Barbara County / ZIP 93457 sector — logged for map parity and ZIP-corridor verification.
 

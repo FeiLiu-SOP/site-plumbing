@@ -12,11 +12,14 @@ lng: -96.1100
 zipSample: ["75402", "75401"]
 zipCodes: ["75401", "75402"]
 localPaths: ["Hunt County / coords 33.1100, -96.1100", "Hunt County / elevation 577 ft band", "Hunt County / ZIP 75402 sector", "Hunt County / ZIP 75401 sector", "Hunt County / primary ZIP 75401"]
-zillowHomeValueUsd: 200660
 ---
 
-**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hunt County.
+**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hunt County.
 
+
+Burst pipe and drain clog calls in Greenville, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hunt County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Greenville, TX, Hunt County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 75401.
 
@@ -43,8 +46,6 @@ Risk flag: Seasonal Greenville, TX irrigation cross-connections can mask domesti
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Drain map 659094: camera-pass priority and expansion-tank pre-charge noted for Greenville, TX postal sector 75401.
-
-Field routing: floor drain trap primer drip paired with cleanout riser height near ZIP 75401.
 
 Coordinate-anchored dispatch note: center reference 33.1100, -96.1100 at elevation ~577 ft aligns with Hunt County intake staging.
 

@@ -12,11 +12,14 @@ lng: -80.1600
 zipSample: ["33179", "33180"]
 zipCodes: ["33180", "33179"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33179", "Miami-Dade County / ZIP 33180 sector", "Miami-Dade County / coords 25.9600, -80.1600", "Miami-Dade County / ZIP 33179 sector"]
-zillowHomeValueUsd: 277619
 ---
 
-**Engineering Notice for Ojus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Ojus:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Miami-Dade County).
 
+
+Plumbing remediation in Ojus, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Ojus, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Fixture shutoff stiffness in Ojus, FL may indicate mineral bridging behind stems.
 
@@ -46,7 +49,7 @@ Supply audit 681328: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Drain map 681328: camera-pass priority and expansion-tank pre-charge noted for Ojus, FL postal sector 33179.
 
-Field routing: hose bib freeze flag paired with sump float travel near ZIP 33179.
+Local service note: hose bib freeze flag paired with sump float travel near ZIP 33179 for emergency plumbing pro repairs.
 
 On-site sector marker: Miami-Dade County / primary ZIP 33179 — logged for map parity and ZIP-corridor verification.
 

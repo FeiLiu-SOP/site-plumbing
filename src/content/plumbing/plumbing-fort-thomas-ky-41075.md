@@ -12,11 +12,14 @@ lng: -84.4500
 zipSample: ["41075"]
 zipCodes: ["41075"]
 localPaths: ["Campbell County / elevation 830 ft band", "Campbell County / coords 39.0800, -84.4500", "Campbell County / ZIP 41075 sector", "Campbell County / primary ZIP 41075"]
-zillowHomeValueUsd: 370045
 ---
 
-**Engineering Notice for Fort Thomas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Campbell County.
+**Engineering Notice for Fort Thomas:** Emergency leak and drain triage uses ~171 mg/L hardness context with Campbell County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Fort Thomas, KY, Campbell County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Fort Thomas, KY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Recirculation pump failures in Fort Thomas, KY can mimic fixture-specific clogs.
 
@@ -49,6 +52,8 @@ Risk flag: In Fort Thomas, KY, slab leaks can misroute as foundation issues with
 Pressure trace 458748: meter-pit clearance and dielectric union checklist staged for Fort Thomas, KY near elevation 830 ft.
 
 Supply audit 458748: curb-stop orientation and hose-bib freeze flag reviewed for Fort Thomas, KY at coords 39.0800/-84.4500.
+
+Local service note: branch wet vent geometry paired with fixture shutoff torque log near ZIP 41075 for emergency licensed plumber repairs.
 
 ZIP-corridor snapshot for Fort Thomas, KY: sampled sectors include 41075; county routing grid remains Campbell County.
 

@@ -12,11 +12,14 @@ lng: -95.6100
 zipSample: ["75483", "75482"]
 zipCodes: ["75483", "75482"]
 localPaths: ["Hopkins County / coords 33.1400, -95.6100", "Hopkins County / elevation 522 ft band", "Hopkins County / ZIP 75483 sector", "Hopkins County / ZIP 75482 sector", "Hopkins County / primary ZIP 75482"]
-zillowHomeValueUsd: 243091
 ---
 
-**Engineering Notice for Sulphur Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hopkins County.
+**Engineering Notice for Sulphur Springs:** Supply line, cleanout, and water heater scope recorded at 522 ft elevation context (Hopkins County).
 
+
+Burst pipe and drain clog calls in Sulphur Springs, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hopkins County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Sulphur Springs, TX, Hopkins County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Sulphur Springs, TX should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -24,13 +27,13 @@ Step: tag shutoffs and meter orientation before opening walls.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Cast-iron hub corrosion in Sulphur Springs, TX often concentrates at the third joint upstream of the cleanout.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

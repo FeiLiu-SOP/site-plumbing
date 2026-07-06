@@ -12,11 +12,14 @@ lng: -81.9300
 zipSample: ["44145"]
 zipCodes: ["44145"]
 localPaths: ["Cuyahoga County / elevation 741 ft band", "Cuyahoga County / ZIP 44145 sector", "Cuyahoga County / coords 41.4500, -81.9300", "Cuyahoga County / primary ZIP 44145"]
-zillowHomeValueUsd: 414687
 ---
 
-**Engineering Notice for Westlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Westlake:** Emergency leak and drain triage uses ~158 mg/L hardness context with Cuyahoga County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Westlake, OH, Cuyahoga County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Westlake, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,8 +48,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Intake ledger 625227: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Westlake, OH at 41.4500, -81.9300.
 
 Fixture roster 625227: toilet flange spacer kit and shower cartridge seat score queued for Westlake, OH walk-through.
-
-plumbing brief: gas water heater draft hood gap and shower cartridge seat score were cross-checked for the Westlake intake packet.
 
 On-site sector marker: Cuyahoga County / primary ZIP 44145 — logged for map parity and ZIP-corridor verification.
 

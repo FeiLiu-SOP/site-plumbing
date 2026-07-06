@@ -12,13 +12,16 @@ lng: -106.6500
 zipSample: ["87131", "87106", "87104", "87194", "87102"]
 zipCodes: ["87154", "87101", "87184", "87108", "87114", "87123", "87106", "87197", "87181", "87194", "87112", "87102"]
 localPaths: ["Bernalillo County / primary ZIP 87123", "Bernalillo County / ZIP 87131 sector", "Bernalillo County / elevation 4980 ft band", "Bernalillo County / ZIP 87194 sector", "Bernalillo County / ZIP 87102 sector"]
-zillowHomeValueUsd: 340591
 ---
 
-**Engineering Notice for Albuquerque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bernalillo County.
+**Engineering Notice for Albuquerque:** Emergency leak and drain triage uses ~147 mg/L hardness context with Bernalillo County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Bernalillo County near ZIP 87123.
+Emergency plumbing pro service in Albuquerque, NM often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Bernalillo County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Albuquerque, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bernalillo County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Our Albuquerque, NM service packets reference Bernalillo County near ZIP 87123 for pipe and leak scope.
 
 Polybutylene manifold tags in Albuquerque, NM basements should be photographed before any wall chase opens.
 
@@ -47,8 +50,6 @@ Cast-iron hub corrosion in Albuquerque, NM often concentrates at the third joint
 Pressure trace 471517: meter-pit clearance and dielectric union checklist staged for Albuquerque, NM near elevation 4980 ft.
 
 Intake ledger 471517: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Albuquerque, NM at 35.1100, -106.6500.
-
-Field routing: gas water heater draft hood gap paired with scale coupon sampling near ZIP 87123.
 
 ZIP-corridor snapshot for Albuquerque, NM: sampled sectors include 87108, 87197, 87187, 87102, 87104, 87192, 87113, 87112; county routing grid remains Bernalillo County.
 

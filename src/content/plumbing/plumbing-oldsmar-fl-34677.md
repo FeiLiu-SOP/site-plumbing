@@ -12,11 +12,14 @@ lng: -82.6700
 zipSample: ["34677"]
 zipCodes: ["34677"]
 localPaths: ["Pinellas County / coords 28.0500, -82.6700", "Pinellas County / elevation 39 ft band", "Pinellas County / primary ZIP 34677", "Pinellas County / ZIP 34677 sector"]
-zillowHomeValueUsd: 365766
 ---
 
-**Engineering Notice for Oldsmar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Oldsmar:** Emergency leak and drain triage uses ~110 mg/L hardness context with Pinellas County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Oldsmar, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Oldsmar, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pinellas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydro-jetting in Oldsmar, FL requires camera confirmation before nozzle pressure is raised.
 
@@ -45,6 +48,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
 Flow dossier 220073: branch wet-vent geometry and jetting nozzle envelope logged for Oldsmar, FL county grid Pinellas County (ZIP 34677).
+
+Plumbing restoration brief: slab penetration sleeve seal and shower cartridge seat score were cross-checked for the Oldsmar pipe and leak scope.
 
 On-site sector marker: Pinellas County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 

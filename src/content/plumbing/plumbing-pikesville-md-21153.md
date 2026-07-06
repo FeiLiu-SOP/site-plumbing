@@ -12,11 +12,14 @@ lng: -76.7000
 zipSample: ["21282", "21022", "21153", "21208", "21209"]
 zipCodes: ["21282", "21022", "21153", "21209", "21208"]
 localPaths: ["Baltimore County / coords 39.3900, -76.7000", "Baltimore County / primary ZIP 21153", "Baltimore County / ZIP 21208 sector", "Baltimore County / ZIP 21022 sector", "Baltimore County / elevation 531 ft band"]
-zillowHomeValueUsd: 1083050
 ---
 
-**Engineering Notice for Pikesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Pikesville:** Emergency leak and drain triage uses ~152 mg/L hardness context with Baltimore County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Pikesville, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Pikesville, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -45,8 +48,6 @@ Hydrostatic holds in Pikesville, MD slab circuits run overnight when listening m
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
 Drain map 130485: camera-pass priority and expansion-tank pre-charge noted for Pikesville, MD postal sector 21153.
-
-Field routing: water heater T&P path paired with scale coupon sampling near ZIP 21153.
 
 Regional mesh label Baltimore County: moisture and logistics baselines are keyed to Pikesville, MD before niche-specific work begins.
 

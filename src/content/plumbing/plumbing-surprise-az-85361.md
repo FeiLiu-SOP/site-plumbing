@@ -12,17 +12,20 @@ lng: -112.4500
 zipSample: ["85378", "85361", "85379", "85387", "85388"]
 zipCodes: ["85374", "85387", "85379", "85388", "85378", "85361"]
 localPaths: ["Maricopa County / ZIP 85387 sector", "Maricopa County / elevation 1375 ft band", "Maricopa County / ZIP 85388 sector", "Maricopa County / ZIP 85379 sector", "Maricopa County / coords 33.6800, -112.4500"]
-zillowHomeValueUsd: 514220
 ---
 
-**Engineering Notice for Surprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Surprise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Maricopa County.
 
+
+Licensed plumbing crews serving Surprise, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in Surprise, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Maricopa County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Frost-free sillcock failures in Surprise, AZ often trace to interior shutoff seats, not exterior stems.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Surprise, AZ systems need rebalancing.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Recirculation pump failures in Surprise, AZ can mimic fixture-specific clogs.
 
@@ -43,6 +46,8 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 CPVC solvent weld times shift with ambient humidity during Surprise, AZ shoulder seasons.
 
 Supply audit 100759: curb-stop orientation and hose-bib freeze flag reviewed for Surprise, AZ at coords 33.6800/-112.4500.
+
+Plumbing service brief: sewer cleanout cap thread and PEX expansion ring batch were cross-checked for the Surprise pipe and leak scope.
 
 On-site sector marker: Maricopa County / ZIP 85361 sector — logged for map parity and ZIP-corridor verification.
 

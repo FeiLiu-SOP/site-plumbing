@@ -12,11 +12,14 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / primary ZIP 63122", "St. Louis County / elevation 594 ft band", "St. Louis County / ZIP 63122 sector", "St. Louis County / coords 38.5800, -90.4200"]
-zillowHomeValueUsd: 505151
 ---
 
-**Engineering Notice for Kirkwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Kirkwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+Burst pipe and drain clog calls in Kirkwood, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Kirkwood, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Cast-iron hub corrosion in Kirkwood, MO often concentrates at the third joint upstream of the cleanout.
 
@@ -49,8 +52,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Pressure trace 256399: meter-pit clearance and dielectric union checklist staged for Kirkwood, MO near elevation 594 ft.
 
 Intake ledger 256399: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kirkwood, MO at 38.5800, -90.4200.
-
-Field routing: shower cartridge seat score paired with fixture shutoff torque log near ZIP 63122.
 
 On-site sector marker: St. Louis County / coords 38.5800, -90.4200 — logged for map parity and ZIP-corridor verification.
 

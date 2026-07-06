@@ -12,11 +12,14 @@ lng: -84.1500
 zipSample: ["30253", "30252"]
 zipCodes: ["30252", "30253"]
 localPaths: ["Henry County / coords 33.4400, -84.1500", "Henry County / primary ZIP 30253", "Henry County / elevation 889 ft band", "Henry County / ZIP 30253 sector", "Henry County / ZIP 30252 sector"]
-zillowHomeValueUsd: 311546
 ---
 
-**Engineering Notice for McDonough:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henry County.
+**Engineering Notice for McDonough:** Emergency leak and drain triage uses ~118 mg/L hardness context with Henry County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving McDonough, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in McDonough, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Henry County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -47,8 +50,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 302
 Lineage note 767402: recirculation pump amp draw captured before McDonough, GA branch isolation.
 
 Flow dossier 767402: branch wet-vent geometry and jetting nozzle envelope logged for McDonough, GA county grid Henry County (ZIP 30253).
-
-plumbing brief: copper pinhole cluster and gas water heater draft hood gap were cross-checked for the McDonough intake packet.
 
 On-site sector marker: Henry County / primary ZIP 30253 — logged for map parity and ZIP-corridor verification.
 

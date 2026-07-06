@@ -12,11 +12,14 @@ lng: -80.7700
 zipSample: ["32922", "32926"]
 zipCodes: ["32926", "32922"]
 localPaths: ["Brevard County / coords 28.3800, -80.7700", "Brevard County / elevation 39 ft band", "Brevard County / ZIP 32922 sector", "Brevard County / ZIP 32926 sector", "Brevard County / primary ZIP 32922"]
-zillowHomeValueUsd: 199949
 ---
 
-**Engineering Notice for Cocoa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
+**Engineering Notice for Cocoa:** Emergency leak and drain triage uses ~128 mg/L hardness context with Brevard County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Cocoa, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brevard County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Cocoa, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 

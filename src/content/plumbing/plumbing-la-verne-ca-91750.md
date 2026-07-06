@@ -12,11 +12,14 @@ lng: -117.7700
 zipSample: ["91750"]
 zipCodes: ["91750"]
 localPaths: ["Los Angeles County / primary ZIP 91750", "Los Angeles County / coords 34.1200, -117.7700", "Los Angeles County / ZIP 91750 sector", "Los Angeles County / elevation 1165 ft band"]
-zillowHomeValueUsd: 952468
 ---
 
-**Engineering Notice for La Verne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Verne:** Supply line, cleanout, and water heater scope recorded at 1165 ft elevation context (Los Angeles County).
 
+
+Emergency plumbing pro service in La Verne, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing service in La Verne, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Irrigation cross-connections in La Verne, CA can back-siphon domestic lines during main breaks.
 
@@ -47,8 +50,6 @@ Stack vent offsets in La Verne, CA older duplexes can mask tub gurgle as a main-
 Fixture roster 318029: toilet flange spacer kit and shower cartridge seat score queued for La Verne, CA walk-through.
 
 Drain map 318029: camera-pass priority and expansion-tank pre-charge noted for La Verne, CA postal sector 91750.
-
-Scope trace: slab penetration sleeve seal plus gas water heater draft hood gap referenced in Los Angeles County county grid review.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~1165 ft across the Los Angeles County area. Coordinates: 34.1200, -117.7700. ZIP sample: 91750. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 91750 service demand.
 

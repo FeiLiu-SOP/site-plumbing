@@ -12,11 +12,14 @@ lng: -86.8000
 zipSample: ["35222", "35218", "35295", "35203", "35217"]
 zipCodes: ["35282", "35255", "35235", "35295", "35213", "35215", "35287", "35249", "35094", "35291", "35232", "35222"]
 localPaths: ["Jefferson County / ZIP 35217 sector", "Jefferson County / ZIP 35218 sector", "Jefferson County / ZIP 35203 sector", "Jefferson County / ZIP 35222 sector", "Jefferson County / elevation 604 ft band"]
-zillowHomeValueUsd: 75053
 ---
 
-**Engineering Notice for Birmingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Birmingham:** Supply line, cleanout, and water heater scope recorded at 604 ft elevation context (Jefferson County).
 
+
+When a main line backs up in Birmingham, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Birmingham, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

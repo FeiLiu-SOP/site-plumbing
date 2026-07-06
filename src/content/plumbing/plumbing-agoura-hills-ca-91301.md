@@ -8,15 +8,18 @@ zipCode: "91301"
 county: "Los Angeles County"
 elevationFt: 965
 lat: 34.1500
-lng: -118.7600
+lng: -118.7300
 zipSample: ["91376", "91301"]
 zipCodes: ["91376", "91301"]
-localPaths: ["Los Angeles County / coords 34.1500, -118.7600", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / ZIP 91376 sector", "Los Angeles County / elevation 965 ft band", "Los Angeles County / primary ZIP 91301"]
-zillowHomeValueUsd: 1248805
+localPaths: ["Los Angeles County / coords 34.1500, -118.7300", "Los Angeles County / ZIP 91301 sector", "Los Angeles County / ZIP 91376 sector", "Los Angeles County / elevation 965 ft band", "Los Angeles County / primary ZIP 91301"]
 ---
 
-**Engineering Notice for Agoura Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Agoura Hills:** Emergency leak and drain triage uses ~129 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Emergency qualified plumber service in Agoura Hills, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+When a main line backs up in Agoura Hills, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Seasonal Agoura Hills, CA irrigation cross-connections can mask domestic pressure loss.
 

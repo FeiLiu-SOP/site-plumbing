@@ -12,11 +12,14 @@ lng: -99.3100
 zipSample: ["73522", "73523", "73521"]
 zipCodes: ["73521", "73523", "73522"]
 localPaths: ["Jackson County / ZIP 73522 sector", "Jackson County / elevation 1371 ft band", "Jackson County / coords 34.6600, -99.3100", "Jackson County / ZIP 73523 sector", "Jackson County / primary ZIP 73521"]
-zillowHomeValueUsd: 107439
 ---
 
-**Engineering Notice for Altus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Altus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jackson County.
 
+
+Licensed plumbing crews serving Altus, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Altus, OK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -34,7 +37,7 @@ FAQ: When should sump battery backups be load-tested? In Altus, OK, before sprin
 
 Branch wet vents in Altus, OK can mask gurgling as a main-line issue.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

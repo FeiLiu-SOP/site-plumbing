@@ -12,11 +12,14 @@ lng: -111.7400
 zipSample: ["85269", "85268"]
 zipCodes: ["85268", "85269"]
 localPaths: ["Maricopa County / coords 33.6100, -111.7400", "Maricopa County / ZIP 85269 sector", "Maricopa County / ZIP 85268 sector", "Maricopa County / primary ZIP 85268", "Maricopa County / elevation 1824 ft band"]
-zillowHomeValueUsd: 675162
 ---
 
-**Engineering Notice for Fountain Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Fountain Hills:** Emergency leak and drain triage uses ~148 mg/L hardness context with Maricopa County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Fountain Hills, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Fountain Hills, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In Fountain Hills, AZ, before spring thaw and hurricane remnants.
 

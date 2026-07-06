@@ -12,11 +12,14 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / ZIP 29223 sector", "Richland County / primary ZIP 29223", "Richland County / elevation 262 ft band", "Richland County / coords 34.0800, -80.9500"]
-zillowHomeValueUsd: 221564
 ---
 
-**Engineering Notice for Dentsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richland County.
+**Engineering Notice for Dentsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Richland County.
 
+
+When a main line backs up in Dentsville, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Dentsville, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Richland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Frost-free sillcock failures in Dentsville, SC often trace to interior shutoff seats, not exterior stems.
 
@@ -36,7 +39,7 @@ FAQ: When is cabling enough? In Dentsville, SC, pipe material and blockage type 
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
-We coordinate Dentsville, SC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Dentsville, SC plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: In Dentsville, SC, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -46,7 +49,7 @@ Pressure trace 507541: meter-pit clearance and dielectric union checklist staged
 
 Supply audit 507541: curb-stop orientation and hose-bib freeze flag reviewed for Dentsville, SC at coords 34.0800/-80.9500.
 
-Scope trace: PEX expansion ring batch plus cleanout riser height referenced in Richland County county grid review.
+Scope trace: PEX expansion ring batch plus cleanout riser height referenced in Richland County drain and water line review.
 
 ZIP-corridor snapshot for Dentsville, SC: sampled sectors include 29223; county routing grid remains Richland County.
 

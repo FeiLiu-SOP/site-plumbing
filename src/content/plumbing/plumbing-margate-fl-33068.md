@@ -7,20 +7,23 @@ state: "FL"
 zipCode: "33068"
 county: "Broward County"
 elevationFt: 30
-lat: 26.2500
+lat: 26.2800
 lng: -80.2100
 zipSample: ["33063", "33093", "33068"]
 zipCodes: ["33068", "33093", "33063"]
-localPaths: ["Broward County / ZIP 33063 sector", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector", "Broward County / ZIP 33093 sector", "Broward County / coords 26.2500, -80.2100"]
-zillowHomeValueUsd: 358228
+localPaths: ["Broward County / ZIP 33063 sector", "Broward County / primary ZIP 33068", "Broward County / ZIP 33068 sector", "Broward County / ZIP 33093 sector", "Broward County / coords 26.2800, -80.2100"]
 ---
 
-**Engineering Notice for Margate:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for Margate:** Emergency leak and drain triage uses ~135 mg/L hardness context with Broward County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Margate, FL, Broward County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Margate, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Branch wet vents in Margate, FL can mask gurgling as a main-line issue.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Dual-water-meter setups in Margate, FL irrigation zones need backflow logs before line replacement.
 
@@ -44,10 +47,8 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Stack vent offsets in Margate, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Supply audit 349985: curb-stop orientation and hose-bib freeze flag reviewed for Margate, FL at coords 26.2500/-80.2100.
+Supply audit 349985: curb-stop orientation and hose-bib freeze flag reviewed for Margate, FL at coords 26.2800/-80.2100.
 
-Field routing: scale coupon sampling paired with slab penetration sleeve seal near ZIP 33068.
-
-Coordinate-anchored dispatch note: center reference 26.2500, -80.2100 at elevation ~30 ft aligns with Broward County intake staging.
+Coordinate-anchored dispatch note: center reference 26.2800, -80.2100 at elevation ~30 ft aligns with Broward County intake staging.
 
 Service reference: FL-33068-4dd08a16

@@ -12,12 +12,14 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / primary ZIP 98433", "Pierce County / ZIP 98433 sector", "Pierce County / elevation 377 ft band", "Pierce County / coords 47.1000, -122.5700"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 579629
 ---
 
-**Engineering Notice for Fort Lewis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
+**Engineering Notice for Fort Lewis:** Supply line, cleanout, and water heater scope recorded at 377 ft elevation context (Pierce County).
 
+
+When a main line backs up in Fort Lewis, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Fort Lewis, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -50,8 +52,6 @@ Irrigation cross-connections in Fort Lewis, WA can back-siphon domestic lines du
 Supply audit 957569: curb-stop orientation and hose-bib freeze flag reviewed for Fort Lewis, WA at coords 47.1000/-122.5700.
 
 Lineage note 957569: recirculation pump amp draw captured before Fort Lewis, WA branch isolation.
-
-Scope trace: toilet flange spacer kit plus hose bib freeze flag referenced in Pierce County county grid review.
 
 On-site sector marker: Pierce County / elevation 377 ft band — logged for map parity and ZIP-corridor verification.
 

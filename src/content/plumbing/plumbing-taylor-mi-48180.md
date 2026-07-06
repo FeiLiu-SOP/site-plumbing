@@ -12,11 +12,14 @@ lng: -83.2700
 zipSample: ["48180"]
 zipCodes: ["48180"]
 localPaths: ["Wayne County / ZIP 48180 sector", "Wayne County / coords 42.2300, -83.2700", "Wayne County / elevation 617 ft band", "Wayne County / primary ZIP 48180"]
-zillowHomeValueUsd: 175766
 ---
 
-**Engineering Notice for Taylor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Taylor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wayne County.
 
+
+Burst pipe and drain clog calls in Taylor, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Taylor, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Wayne County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Stack vent offsets in Taylor, MI older duplexes can mask tub gurgle as a main-line failure.
 
@@ -24,7 +27,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Branch wet vents in Taylor, MI can mask gurgling as a main-line issue.
 

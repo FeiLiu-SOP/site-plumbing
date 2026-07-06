@@ -12,11 +12,14 @@ lng: -78.1700
 zipSample: ["22601", "22604"]
 zipCodes: ["22601", "22604"]
 localPaths: ["Winchester County / primary ZIP 22601", "Winchester County / coords 39.1700, -78.1700", "Winchester County / elevation 745 ft band", "Winchester County / ZIP 22601 sector", "Winchester County / ZIP 22604 sector"]
-zillowHomeValueUsd: 353259
 ---
 
-**Engineering Notice for Winchester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winchester County.
+**Engineering Notice for Winchester:** Emergency leak and drain triage uses ~126 mg/L hardness context with Winchester County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Winchester, VA, Winchester County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Winchester, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during Winchester, VA shoulder seasons.
 
@@ -38,7 +41,7 @@ Frost-free sillcock failures in Winchester, VA often trace to interior shutoff s
 
 Stack vent offsets in Winchester, VA older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture shutoff stiffness in Winchester, VA may indicate mineral bridging behind stems.
 
@@ -49,6 +52,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Lineage note 205172: recirculation pump amp draw captured before Winchester, VA branch isolation.
 
 Supply audit 205172: curb-stop orientation and hose-bib freeze flag reviewed for Winchester, VA at coords 39.1700/-78.1700.
+
+Plumbing remediation brief: PEX expansion ring batch and toilet flange spacer kit were cross-checked for the Winchester pipe and leak scope.
 
 On-site sector marker: Winchester County / elevation 745 ft band — logged for map parity and ZIP-corridor verification.
 

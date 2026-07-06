@@ -12,11 +12,14 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / primary ZIP 95519", "Humboldt County / elevation 200 ft band"]
-zillowHomeValueUsd: 482885
 ---
 
-**Engineering Notice for McKinleyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.
+**Engineering Notice for McKinleyville:** Supply line, cleanout, and water heater scope recorded at 200 ft elevation context (Humboldt County).
 
+
+Certified plumbing crews serving McKinleyville, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in McKinleyville, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -44,7 +47,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Flow dossier 451182: branch wet-vent geometry and jetting nozzle envelope logged for McKinleyville, CA county grid Humboldt County (ZIP 95519).
 
-Field routing: PEX expansion ring batch paired with cleanout riser height near ZIP 95519.
+Local service note: PEX expansion ring batch paired with cleanout riser height near ZIP 95519 for emergency qualified plumber repairs.
 
 On-site sector marker: Humboldt County / coords 40.9500, -124.0900 — logged for map parity and ZIP-corridor verification.
 

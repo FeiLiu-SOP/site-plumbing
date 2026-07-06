@@ -8,15 +8,18 @@ zipCode: "49548"
 county: "Kent County"
 elevationFt: 676
 lat: 42.8400
-lng: -85.6700
+lng: -85.6400
 zipSample: ["49548", "49315"]
 zipCodes: ["49548", "49315"]
-localPaths: ["Kent County / ZIP 49548 sector", "Kent County / coords 42.8400, -85.6700", "Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band"]
-zillowHomeValueUsd: 250320
+localPaths: ["Kent County / ZIP 49548 sector", "Kent County / coords 42.8400, -85.6400", "Kent County / primary ZIP 49548", "Kent County / ZIP 49315 sector", "Kent County / elevation 676 ft band"]
 ---
 
-**Engineering Notice for Cutlerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Cutlerville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kent County.
 
+
+Burst pipe and drain clog calls in Cutlerville, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kent County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Cutlerville, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Cutlerville, MI.
 
@@ -44,7 +47,7 @@ Sump discharge freeze risk in Cutlerville, MI should be reviewed before spring t
 
 Drain map 646548: camera-pass priority and expansion-tank pre-charge noted for Cutlerville, MI postal sector 49548.
 
-plumbing brief: scale coupon sampling and floor drain trap primer drip were cross-checked for the Cutlerville intake packet.
+Plumbing restoration brief: scale coupon sampling and floor drain trap primer drip were cross-checked for the Cutlerville pipe and leak scope.
 
 ZIP-corridor snapshot for Cutlerville, MI: sampled sectors include 49315, 49548; county routing grid remains Kent County.
 

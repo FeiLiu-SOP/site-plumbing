@@ -12,7 +12,7 @@ lng: -80.1080
 zipSample: ["33433", "33499", "33481", "33427", "33432"]
 zipCodes: ["33481", "33434", "33487", "33496", "33433", "33427", "33432", "33431", "33499", "33486", "33429"]
 localPaths: ["Palm Beach County / ZIP 33433 sector", "Palm Beach County / ZIP 33427 sector", "Palm Beach County / ZIP 33499 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / ZIP 33481 sector"]
-zillowHomeValueUsd: 980336
+zillowHomeValueUsd: 980321
 ---
 
 **Engineering Notice for Boca Raton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.

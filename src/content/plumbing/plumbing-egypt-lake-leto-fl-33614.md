@@ -12,15 +12,18 @@ lng: -82.5100
 zipSample: ["33614"]
 zipCodes: ["33614"]
 localPaths: ["Hillsborough County / primary ZIP 33614", "Hillsborough County / ZIP 33614 sector", "Hillsborough County / coords 28.0200, -82.5100", "Hillsborough County / elevation 46 ft band"]
-zillowHomeValueUsd: 348750
 ---
 
-**Engineering Notice for Egypt Lake-Leto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Egypt Lake-Leto:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Hillsborough County).
 
+
+Burst pipe and drain clog calls in Egypt Lake-Leto, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Egypt Lake-Leto, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

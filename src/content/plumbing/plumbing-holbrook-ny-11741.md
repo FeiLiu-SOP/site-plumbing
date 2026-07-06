@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11741"
 county: "Suffolk County"
 elevationFt: 92
-lat: 40.7900
-lng: -73.0700
+lat: 40.8005
+lng: -73.1000
 zipSample: ["11741"]
 zipCodes: ["11741"]
-localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / coords 40.7900, -73.0700", "Suffolk County / primary ZIP 11741", "Suffolk County / elevation 92 ft band"]
-zillowHomeValueUsd: 648618
+localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / coords 40.8005, -73.1000", "Suffolk County / primary ZIP 11741", "Suffolk County / elevation 92 ft band"]
 ---
 
-**Engineering Notice for Holbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Holbrook:** Supply line, cleanout, and water heater scope recorded at 92 ft elevation context (Suffolk County).
 
+
+Certified plumbing crews serving Holbrook, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Holbrook, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Trenchless pulls in Holbrook, NY require pit dimensions verified against utility locate marks.
 
@@ -34,7 +37,7 @@ Galvanized segments in Holbrook, NY may restrict flow long before visible corros
 
 Risk flag: Seasonal Holbrook, NY irrigation cross-connections can mask domestic pressure loss.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with Holbrook, NY hardness profiles.
 
@@ -48,6 +51,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Flow dossier 717071: branch wet-vent geometry and jetting nozzle envelope logged for Holbrook, NY county grid Suffolk County (ZIP 11741).
 
-On-site sector marker: Suffolk County / coords 40.7900, -73.0700 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Suffolk County / coords 40.8005, -73.1000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11741-4f3e40d5

@@ -12,11 +12,14 @@ lng: -96.4500
 zipSample: ["75126"]
 zipCodes: ["75126"]
 localPaths: ["Kaufman County / elevation 472 ft band", "Kaufman County / ZIP 75126 sector", "Kaufman County / primary ZIP 75126", "Kaufman County / coords 32.7400, -96.4500"]
-zillowHomeValueUsd: 314038
 ---
 
-**Engineering Notice for Forney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kaufman County.
+**Engineering Notice for Forney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kaufman County.
 
+
+When a main line backs up in Forney, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Forney, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kaufman County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Branch wet vents in Forney, TX can mask gurgling as a main-line issue.
 

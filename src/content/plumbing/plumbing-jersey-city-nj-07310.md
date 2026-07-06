@@ -12,13 +12,16 @@ lng: -74.0700
 zipSample: ["07306", "07307", "07310", "07303", "07311"]
 zipCodes: ["07310", "07399", "07311", "07306", "07304", "07308", "07097", "07305", "07302", "07303", "07395", "07307"]
 localPaths: ["Hudson County / elevation 75 ft band", "Hudson County / ZIP 07303 sector", "Hudson County / ZIP 07307 sector", "Hudson County / ZIP 07306 sector", "Hudson County / primary ZIP 07310"]
-zillowHomeValueUsd: 928940
 ---
 
-**Engineering Notice for Jersey City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hudson County.
+**Engineering Notice for Jersey City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hudson County.
 
 
-Step: log PRV inlet and outlet readings during intake.
+Plumbing service in Jersey City, NJ, Hudson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Jersey City, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 Polybutylene manifold tags in Jersey City, NJ basements should be photographed before any wall chase opens.
 
@@ -47,6 +50,8 @@ Dual-water-meter setups in Jersey City, NJ irrigation zones need backflow logs b
 Lineage note 381945: recirculation pump amp draw captured before Jersey City, NJ branch isolation.
 
 Flow dossier 381945: branch wet-vent geometry and jetting nozzle envelope logged for Jersey City, NJ county grid Hudson County (ZIP 07310).
+
+Plumbing remediation brief: slab leak listening window and PRV outlet curve were cross-checked for the Jersey City pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 40.7200, -74.0700 at elevation ~75 ft aligns with Hudson County intake staging.
 

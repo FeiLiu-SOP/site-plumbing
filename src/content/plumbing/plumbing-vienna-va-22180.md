@@ -12,11 +12,14 @@ lng: -77.2600
 zipSample: ["22180", "22185", "22183"]
 zipCodes: ["22183", "22185", "22180"]
 localPaths: ["Fairfax County / ZIP 22183 sector", "Fairfax County / ZIP 22185 sector", "Fairfax County / ZIP 22180 sector", "Fairfax County / primary ZIP 22180", "Fairfax County / coords 38.9000, -77.2600"]
-zillowHomeValueUsd: 1072231
 ---
 
-**Engineering Notice for Vienna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Vienna:** Supply line, cleanout, and water heater scope recorded at 390 ft elevation context (Fairfax County).
 
+
+Burst pipe and drain clog calls in Vienna, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Vienna, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Fairfax County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -26,7 +29,7 @@ Dual-water-meter setups in Vienna, VA irrigation zones need backflow logs before
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate Vienna, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Vienna, VA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 

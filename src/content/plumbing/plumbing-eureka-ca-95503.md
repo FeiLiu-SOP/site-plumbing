@@ -12,11 +12,14 @@ lng: -124.1600
 zipSample: ["95534", "95502", "95521", "95501", "95503"]
 zipCodes: ["95503", "95534", "95521", "95501", "95502"]
 localPaths: ["Humboldt County / ZIP 95501 sector", "Humboldt County / primary ZIP 95503", "Humboldt County / ZIP 95502 sector", "Humboldt County / ZIP 95503 sector", "Humboldt County / ZIP 95521 sector"]
-zillowHomeValueUsd: 426534
 ---
 
-**Engineering Notice for Eureka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Eureka:** Supply line, cleanout, and water heater scope recorded at 69 ft elevation context (Humboldt County).
 
+
+Emergency plumbing technician service in Eureka, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Humboldt County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Licensed plumbing crews serving Eureka, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -46,7 +49,7 @@ Step: document dielectric unions before mixed-metal replacements.
 
 Pressure trace 230104: meter-pit clearance and dielectric union checklist staged for Eureka, CA near elevation 69 ft.
 
-Scope trace: water heater T&P path plus floor drain trap primer drip referenced in Humboldt County county grid review.
+Scope trace: water heater T&P path plus floor drain trap primer drip referenced in Humboldt County drain and water line review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~69 ft across the Humboldt County area. Coordinates: 40.7900, -124.1600. ZIP sample: 95521, 95503, 95501, 95534, 95502. Regional routing note: Humboldt County traffic flow is balanced around ZIP 95503 service demand.
 

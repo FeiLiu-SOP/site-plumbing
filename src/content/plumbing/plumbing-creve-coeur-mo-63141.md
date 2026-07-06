@@ -12,11 +12,14 @@ lng: -90.4400
 zipSample: ["63167", "63141"]
 zipCodes: ["63167", "63141"]
 localPaths: ["St. Louis County / coords 38.6600, -90.4400", "St. Louis County / ZIP 63167 sector", "St. Louis County / elevation 627 ft band", "St. Louis County / ZIP 63141 sector", "St. Louis County / primary ZIP 63141"]
-zillowHomeValueUsd: 653050
 ---
 
-**Engineering Notice for Creve Coeur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Creve Coeur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+When a main line backs up in Creve Coeur, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Creve Coeur, MO, St. Louis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Permit note: Main water line replacement in Creve Coeur, MO may require ROW restoration planning.
 
@@ -38,7 +41,7 @@ Dual-water-meter setups in Creve Coeur, MO irrigation zones need backflow logs b
 
 Hydrostatic holds in Creve Coeur, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -48,7 +51,7 @@ Trenchless sleeve pulls near Creve Coeur, MO require pit shoring notes when wate
 
 Flow dossier 777202: branch wet-vent geometry and jetting nozzle envelope logged for Creve Coeur, MO county grid St. Louis County (ZIP 63141).
 
-Scope trace: PRV outlet curve plus hose bib freeze flag referenced in St. Louis County county grid review.
+Scope trace: PRV outlet curve plus hose bib freeze flag referenced in St. Louis County drain and water line review.
 
 On-site sector marker: St. Louis County / ZIP 63167 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -86.9900
 zipSample: ["35602", "35603", "35601", "35609"]
 zipCodes: ["35609", "35601", "35603", "35602"]
 localPaths: ["Morgan County / ZIP 35602 sector", "Morgan County / elevation 591 ft band", "Morgan County / ZIP 35603 sector", "Morgan County / primary ZIP 35603", "Morgan County / ZIP 35601 sector"]
-zillowHomeValueUsd: 280528
 ---
 
-**Engineering Notice for Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morgan County.
+**Engineering Notice for Decatur:** Supply line, cleanout, and water heater scope recorded at 591 ft elevation context (Morgan County).
 
+
+Burst pipe and drain clog calls in Decatur, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Morgan County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Decatur, AL, Morgan County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: map sump float travel and check-valve orientation for Decatur, AL basements.
 
@@ -28,7 +31,7 @@ Step: photograph curb-stop and meter pit before trenching.
 
 Risk flag: In Decatur, AL, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch packets reference county grid Morgan County near ZIP 35603.
+Our Decatur, AL service packets reference Morgan County near ZIP 35603 for pipe and leak scope.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

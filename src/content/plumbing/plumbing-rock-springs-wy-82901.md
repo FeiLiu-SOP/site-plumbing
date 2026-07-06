@@ -12,11 +12,14 @@ lng: -109.2200
 zipSample: ["82901", "82902"]
 zipCodes: ["82902", "82901"]
 localPaths: ["Sweetwater County / ZIP 82902 sector", "Sweetwater County / coords 41.5900, -109.2200", "Sweetwater County / ZIP 82901 sector", "Sweetwater County / primary ZIP 82901", "Sweetwater County / elevation 6283 ft band"]
-zillowHomeValueUsd: 289234
 ---
 
-**Engineering Notice for Rock Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sweetwater County.
+**Engineering Notice for Rock Springs:** Emergency leak and drain triage uses ~132 mg/L hardness context with Sweetwater County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Rock Springs, WY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sweetwater County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Rock Springs, WY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Sweetwater County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Rock Springs, WY systems need rebalancing.
 
@@ -24,7 +27,7 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Permit note: Main water line replacement in Rock Springs, WY may require ROW restoration planning.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

@@ -12,11 +12,14 @@ lng: -86.0200
 zipSample: ["35901", "35903", "35904", "35902"]
 zipCodes: ["35903", "35901", "35902", "35904"]
 localPaths: ["Etowah County / ZIP 35902 sector", "Etowah County / primary ZIP 35901", "Etowah County / ZIP 35903 sector", "Etowah County / coords 34.0100, -86.0200", "Etowah County / ZIP 35904 sector"]
-zillowHomeValueUsd: 158215
 ---
 
-**Engineering Notice for Gadsden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Etowah County.
+**Engineering Notice for Gadsden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Etowah County.
 
+
+Certified plumbing crews serving Gadsden, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Gadsden, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Etowah County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Dual-water-meter setups in Gadsden, AL irrigation zones need backflow logs before line replacement.
 

@@ -12,11 +12,14 @@ lng: -121.9500
 zipSample: ["95009", "95008", "95011"]
 zipCodes: ["95008", "95009", "95011"]
 localPaths: ["Santa Clara County / ZIP 95008 sector", "Santa Clara County / ZIP 95011 sector", "Santa Clara County / ZIP 95009 sector", "Santa Clara County / primary ZIP 95008", "Santa Clara County / coords 37.2800, -121.9500"]
-zillowHomeValueUsd: 1942099
 ---
 
-**Engineering Notice for Campbell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Campbell:** Supply line, cleanout, and water heater scope recorded at 200 ft elevation context (Santa Clara County).
 
+
+Plumbing service in Campbell, CA, Santa Clara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Campbell, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Santa Clara County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -40,13 +43,11 @@ Basement floor drains in Campbell, CA should be snaked only after trap arm geome
 
 Frost-free sillcock failures in Campbell, CA often trace to interior shutoff seats, not exterior stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Fixture roster 242710: toilet flange spacer kit and shower cartridge seat score queued for Campbell, CA walk-through.
-
-Field routing: copper pinhole cluster paired with recirculation pump amp draw near ZIP 95008.
 
 Primary postal anchor 95008 with multi-ZIP overlap in Campbell; field packets tag Santa Clara County for county-grid reconciliation.
 

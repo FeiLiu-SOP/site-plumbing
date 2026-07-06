@@ -12,11 +12,14 @@ lng: -111.7000
 zipSample: ["84057", "84058", "84059", "84097"]
 zipCodes: ["84097", "84057", "84059", "84058"]
 localPaths: ["Utah County / ZIP 84057 sector", "Utah County / ZIP 84058 sector", "Utah County / ZIP 84059 sector", "Utah County / ZIP 84097 sector", "Utah County / primary ZIP 84097"]
-zillowHomeValueUsd: 596541
 ---
 
-**Engineering Notice for Orem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Orem:** Supply line, cleanout, and water heater scope recorded at 4777 ft elevation context (Utah County).
 
+
+Burst pipe and drain clog calls in Orem, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Orem, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,8 +52,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 840
 Pressure trace 236738: meter-pit clearance and dielectric union checklist staged for Orem, UT near elevation 4777 ft.
 
 Fixture roster 236738: toilet flange spacer kit and shower cartridge seat score queued for Orem, UT walk-through.
-
-Scope trace: shower cartridge seat score plus PRV outlet curve referenced in Utah County county grid review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~4777 ft across the Utah County area. Coordinates: 40.3000, -111.7000. ZIP sample: 84058, 84097, 84059, 84057. Regional routing note: Utah County traffic flow is balanced around ZIP 84097 service demand.
 

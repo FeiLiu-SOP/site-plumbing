@@ -12,11 +12,14 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector", "Nassau County / primary ZIP 11050", "Nassau County / elevation 187 ft band"]
-zillowHomeValueUsd: 1301412
 ---
 
-**Engineering Notice for Port Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Port Washington:** Emergency leak and drain triage uses ~126 mg/L hardness context with Nassau County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Port Washington, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Port Washington, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 In Port Washington, NY, slab leaks often present as warm spots before wall stains appear.
 
@@ -30,7 +33,7 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Sump discharge freeze risk in Port Washington, NY should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -50,7 +53,7 @@ Flow dossier 961141: branch wet-vent geometry and jetting nozzle envelope logged
 
 Drain map 961141: camera-pass priority and expansion-tank pre-charge noted for Port Washington, NY postal sector 11050.
 
-plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Port Washington intake packet.
+Plumbing remediation brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Port Washington pipe and leak scope.
 
 On-site sector marker: Nassau County / ZIP 11050 sector — logged for map parity and ZIP-corridor verification.
 

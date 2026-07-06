@@ -12,11 +12,14 @@ lng: -122.2600
 zipSample: ["94503"]
 zipCodes: ["94503"]
 localPaths: ["Napa County / coords 38.1800, -122.2600", "Napa County / primary ZIP 94503", "Napa County / elevation 62 ft band", "Napa County / ZIP 94503 sector"]
-zillowHomeValueUsd: 748811
 ---
 
-**Engineering Notice for American Canyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Napa County.
+**Engineering Notice for American Canyon:** Supply line, cleanout, and water heater scope recorded at 62 ft elevation context (Napa County).
 
+
+Plumbing restoration in American Canyon, CA, Napa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving American Canyon, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 

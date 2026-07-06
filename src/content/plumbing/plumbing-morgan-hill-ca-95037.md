@@ -12,11 +12,14 @@ lng: -121.6400
 zipSample: ["95037"]
 zipCodes: ["95037"]
 localPaths: ["Santa Clara County / ZIP 95037 sector", "Santa Clara County / coords 37.1300, -121.6400", "Santa Clara County / primary ZIP 95037", "Santa Clara County / elevation 358 ft band"]
-zillowHomeValueUsd: 1356447
 ---
 
-**Engineering Notice for Morgan Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Morgan Hill:** Supply line, cleanout, and water heater scope recorded at 358 ft elevation context (Santa Clara County).
 
+
+Burst pipe and drain clog calls in Morgan Hill, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Clara County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Morgan Hill, CA, Santa Clara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 95037.
 
@@ -45,8 +48,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Intake ledger 921233: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Morgan Hill, CA at 37.1300, -121.6400.
 
 Drain map 921233: camera-pass priority and expansion-tank pre-charge noted for Morgan Hill, CA postal sector 95037.
-
-Field routing: recirculation pump amp draw paired with slab leak listening window near ZIP 95037.
 
 Coordinate-anchored dispatch note: center reference 37.1300, -121.6400 at elevation ~358 ft aligns with Santa Clara County intake staging.
 

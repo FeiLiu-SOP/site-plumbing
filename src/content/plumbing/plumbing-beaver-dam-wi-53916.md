@@ -12,11 +12,14 @@ lng: -88.8300
 zipSample: ["53916"]
 zipCodes: ["53916"]
 localPaths: ["Dodge County / coords 43.4700, -88.8300", "Dodge County / ZIP 53916 sector", "Dodge County / primary ZIP 53916", "Dodge County / elevation 922 ft band"]
-zillowHomeValueUsd: 288108
 ---
 
-**Engineering Notice for Beaver Dam:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dodge County.
+**Engineering Notice for Beaver Dam:** Emergency leak and drain triage uses ~125 mg/L hardness context with Dodge County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Beaver Dam, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dodge County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Beaver Dam, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

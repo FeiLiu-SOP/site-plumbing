@@ -12,11 +12,14 @@ lng: -88.0800
 zipSample: ["54115", "54344"]
 zipCodes: ["54115", "54344"]
 localPaths: ["Brown County / coords 44.4300, -88.0800", "Brown County / ZIP 54115 sector", "Brown County / elevation 620 ft band", "Brown County / primary ZIP 54115", "Brown County / ZIP 54344 sector"]
-zillowHomeValueUsd: 417730
 ---
 
-**Engineering Notice for De Pere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
+**Engineering Notice for De Pere:** Emergency leak and drain triage uses ~157 mg/L hardness context with Brown County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in De Pere, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brown County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in De Pere, WI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Dual-water-meter setups in De Pere, WI irrigation zones need backflow logs before line replacement.
 

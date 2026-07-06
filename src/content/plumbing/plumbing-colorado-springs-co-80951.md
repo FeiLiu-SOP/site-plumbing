@@ -12,11 +12,14 @@ lng: -104.7600
 zipSample: ["80995", "80924", "80938", "80923", "80917"]
 zipCodes: ["80962", "80938", "80910", "80977", "80947", "80951", "80941", "80934", "80829", "80924", "80914", "80904"]
 localPaths: ["El Paso County / ZIP 80995 sector", "El Paso County / ZIP 80938 sector", "El Paso County / elevation 6345 ft band", "El Paso County / ZIP 80917 sector", "El Paso County / coords 38.8700, -104.7600"]
-zillowHomeValueUsd: 429660
 ---
 
-**Engineering Notice for Colorado Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
+**Engineering Notice for Colorado Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in El Paso County.
 
+
+Plumbing remediation in Colorado Springs, CO, El Paso County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Colorado Springs, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Colorado Springs, CO older duplexes can mask tub gurgle as a main-line failure.
 

@@ -12,11 +12,14 @@ lng: -117.6100
 zipSample: ["92673", "92674", "92672"]
 zipCodes: ["92673", "92674", "92672"]
 localPaths: ["Orange County / ZIP 92674 sector", "Orange County / ZIP 92672 sector", "Orange County / elevation 200 ft band", "Orange County / ZIP 92673 sector", "Orange County / coords 33.4500, -117.6100"]
-zillowHomeValueUsd: 1736218
 ---
 
-**Engineering Notice for San Clemente:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for San Clemente:** Emergency leak and drain triage uses ~150 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in San Clemente, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in San Clemente, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -43,6 +46,8 @@ Expansion tank pre-charge loss in San Clemente, CA often tracks heater replaceme
 Frost-free sillcock failures in San Clemente, CA often trace to interior shutoff seats, not exterior stems.
 
 Lineage note 349804: recirculation pump amp draw captured before San Clemente, CA branch isolation.
+
+Plumbing restoration brief: dielectric union checklist and slab penetration sleeve seal were cross-checked for the San Clemente pipe and leak scope.
 
 On-site sector marker: Orange County / ZIP 92674 sector — logged for map parity and ZIP-corridor verification.
 

@@ -8,15 +8,18 @@ zipCode: "49001"
 county: "Kalamazoo County"
 elevationFt: 784
 lat: 42.2700
-lng: -85.5900
+lng: -85.5600
 zipSample: ["49008", "49005", "49007", "49006", "49019"]
 zipCodes: ["49019", "49005", "49001", "49074", "49007", "49008", "49006"]
-localPaths: ["Kalamazoo County / ZIP 49006 sector", "Kalamazoo County / ZIP 49005 sector", "Kalamazoo County / primary ZIP 49001", "Kalamazoo County / elevation 784 ft band", "Kalamazoo County / coords 42.2700, -85.5900"]
-zillowHomeValueUsd: 163353
+localPaths: ["Kalamazoo County / ZIP 49006 sector", "Kalamazoo County / ZIP 49005 sector", "Kalamazoo County / primary ZIP 49001", "Kalamazoo County / elevation 784 ft band", "Kalamazoo County / coords 42.2700, -85.5600"]
 ---
 
-**Engineering Notice for Kalamazoo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kalamazoo County.
+**Engineering Notice for Kalamazoo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kalamazoo County.
 
+
+Emergency certified plumber service in Kalamazoo, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Kalamazoo County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Kalamazoo, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kalamazoo County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -24,7 +27,7 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 49001.
 
 Irrigation cross-connections in Kalamazoo, MI can back-siphon domestic lines during main breaks.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Polybutylene manifold tags in Kalamazoo, MI basements should be photographed before any wall chase opens.
 
@@ -49,8 +52,6 @@ Hydrostatic holds in Kalamazoo, MI slab circuits run overnight when listening mi
 Pressure trace 188457: meter-pit clearance and dielectric union checklist staged for Kalamazoo, MI near elevation 784 ft.
 
 Lineage note 188457: recirculation pump amp draw captured before Kalamazoo, MI branch isolation.
-
-plumbing brief: jetter nozzle envelope and recirculation pump amp draw were cross-checked for the Kalamazoo intake packet.
 
 Primary postal anchor 49001 with multi-ZIP overlap in Kalamazoo; field packets tag Kalamazoo County for county-grid reconciliation.
 

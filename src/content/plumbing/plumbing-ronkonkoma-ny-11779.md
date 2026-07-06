@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11779"
 county: "Suffolk County"
 elevationFt: 112
-lat: 40.8000
-lng: -73.1200
+lat: 40.8105
+lng: -73.1500
 zipSample: ["11779"]
 zipCodes: ["11779"]
-localPaths: ["Suffolk County / coords 40.8000, -73.1200", "Suffolk County / elevation 112 ft band", "Suffolk County / primary ZIP 11779", "Suffolk County / ZIP 11779 sector"]
-zillowHomeValueUsd: 619155
+localPaths: ["Suffolk County / coords 40.8105, -73.1500", "Suffolk County / elevation 112 ft band", "Suffolk County / primary ZIP 11779", "Suffolk County / ZIP 11779 sector"]
 ---
 
-**Engineering Notice for Ronkonkoma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Ronkonkoma:** Supply line, cleanout, and water heater scope recorded at 112 ft elevation context (Suffolk County).
 
+
+Plumbing remediation in Ronkonkoma, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Ronkonkoma, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -44,7 +47,7 @@ Irrigation cross-connections in Ronkonkoma, NY can back-siphon domestic lines du
 
 Flow dossier 555132: branch wet-vent geometry and jetting nozzle envelope logged for Ronkonkoma, NY county grid Suffolk County (ZIP 11779).
 
-Field routing: hose bib freeze flag paired with floor drain trap primer drip near ZIP 11779.
+Local service note: hose bib freeze flag paired with floor drain trap primer drip near ZIP 11779 for emergency plumbing pro repairs.
 
 Regional mesh label Suffolk County: moisture and logistics baselines are keyed to Ronkonkoma, NY before niche-specific work begins.
 

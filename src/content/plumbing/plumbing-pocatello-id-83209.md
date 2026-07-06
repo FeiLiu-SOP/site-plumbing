@@ -12,15 +12,18 @@ lng: -112.4600
 zipSample: ["83206", "83204", "83205", "83209", "83201"]
 zipCodes: ["83201", "83209", "83204", "83205", "83206"]
 localPaths: ["Bannock County / elevation 4465 ft band", "Bannock County / ZIP 83205 sector", "Bannock County / ZIP 83206 sector", "Bannock County / ZIP 83209 sector", "Bannock County / ZIP 83204 sector"]
-zillowHomeValueUsd: 330486
 ---
 
-**Engineering Notice for Pocatello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bannock County.
+**Engineering Notice for Pocatello:** Emergency leak and drain triage uses ~161 mg/L hardness context with Bannock County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Pocatello, ID, Bannock County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Pocatello, ID may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bannock County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-We coordinate Pocatello, ID plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Pocatello, ID plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Hydrostatic holds in Pocatello, ID slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -46,7 +49,7 @@ Supply audit 780297: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 780297: toilet flange spacer kit and shower cartridge seat score queued for Pocatello, ID walk-through.
 
-Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Bannock County county grid review.
+Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Bannock County drain and water line review.
 
 On-site sector marker: Bannock County / ZIP 83206 sector — logged for map parity and ZIP-corridor verification.
 

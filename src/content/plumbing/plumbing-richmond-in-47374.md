@@ -12,11 +12,14 @@ lng: -84.8900
 zipSample: ["47374", "47375"]
 zipCodes: ["47374", "47375"]
 localPaths: ["Wayne County / primary ZIP 47374", "Wayne County / ZIP 47374 sector", "Wayne County / ZIP 47375 sector", "Wayne County / coords 39.8300, -84.8900", "Wayne County / elevation 974 ft band"]
-zillowHomeValueUsd: 156745
 ---
 
-**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Richmond:** Supply line, cleanout, and water heater scope recorded at 974 ft elevation context (Wayne County).
 
+
+Burst pipe and drain clog calls in Richmond, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Richmond, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Wayne County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Hydrostatic holds in Richmond, IN slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -47,8 +50,6 @@ FAQ: Is hydro-jetting always appropriate? In Richmond, IN, pipe material and blo
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Richmond, IN.
 
 Fixture roster 233081: toilet flange spacer kit and shower cartridge seat score queued for Richmond, IN walk-through.
-
-plumbing brief: shower cartridge seat score and meter pit clearance were cross-checked for the Richmond intake packet.
 
 On-site sector marker: Wayne County / ZIP 47375 sector — logged for map parity and ZIP-corridor verification.
 

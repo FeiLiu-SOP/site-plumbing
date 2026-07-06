@@ -12,11 +12,14 @@ lng: -73.8700
 zipSample: ["10466", "10451", "10462", "10457", "10459"]
 zipCodes: ["10453", "10468", "10464", "10456", "10460", "10462", "10454", "10474", "10471", "10465", "10451", "10469"]
 localPaths: ["Bronx County / elevation 62 ft band", "Bronx County / primary ZIP 10452", "Bronx County / ZIP 10466 sector", "Bronx County / ZIP 10459 sector", "Bronx County / ZIP 10457 sector"]
-zillowHomeValueUsd: 319075
 ---
 
-**Engineering Notice for Bronx:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bronx County.
+**Engineering Notice for Bronx:** Supply line, cleanout, and water heater scope recorded at 62 ft elevation context (Bronx County).
 
+
+Plumbing remediation in Bronx, NY, Bronx County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Bronx, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bronx County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -49,6 +52,8 @@ Irrigation cross-connections in Bronx, NY can back-siphon domestic lines during 
 Flow dossier 872915: branch wet-vent geometry and jetting nozzle envelope logged for Bronx, NY county grid Bronx County (ZIP 10452).
 
 Fixture roster 872915: toilet flange spacer kit and shower cartridge seat score queued for Bronx, NY walk-through.
+
+Local service note: scale coupon sampling paired with hose bib freeze flag near ZIP 10452 for emergency plumbing technician repairs.
 
 ZIP-corridor snapshot for Bronx, NY: sampled sectors include 10458, 10462, 10463, 10452, 10461, 10455, 10453, 10471; county routing grid remains Bronx County.
 

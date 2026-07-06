@@ -12,11 +12,14 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / ZIP 13820 sector", "Otsego County / primary ZIP 13820", "Otsego County / elevation 1155 ft band", "Otsego County / coords 42.4600, -75.0700"]
-zillowHomeValueUsd: 211585
 ---
 
-**Engineering Notice for Oneonta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Otsego County.
+**Engineering Notice for Oneonta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Otsego County.
 
+
+Plumbing restoration in Oneonta, NY, Otsego County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Oneonta, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Otsego County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Stack vent offsets in Oneonta, NY older duplexes can mask tub gurgle as a main-line failure.
 
@@ -26,7 +29,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Permit note: Main water line replacement in Oneonta, NY may require ROW restoration planning.
 

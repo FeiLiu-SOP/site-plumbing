@@ -12,11 +12,14 @@ lng: -80.2400
 zipSample: ["33150", "33247", "33147"]
 zipCodes: ["33150", "33147", "33247"]
 localPaths: ["Miami-Dade County / ZIP 33247 sector", "Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / coords 25.8600, -80.2400"]
-zillowHomeValueUsd: 434357
 ---
 
-**Engineering Notice for West Little River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for West Little River:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Miami-Dade County).
 
+
+Burst pipe and drain clog calls in West Little River, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving West Little River, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In West Little River, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -47,6 +50,8 @@ Hydrostatic holds in West Little River, FL slab circuits run overnight when list
 Galvanized segments in West Little River, FL may restrict flow long before visible corrosion.
 
 Supply audit 763079: curb-stop orientation and hose-bib freeze flag reviewed for West Little River, FL at coords 25.8600/-80.2400.
+
+Local service note: recirculation pump amp draw paired with floor drain trap primer drip near ZIP 33147 for emergency plumbing technician repairs.
 
 On-site sector marker: Miami-Dade County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 

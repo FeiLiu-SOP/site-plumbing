@@ -12,11 +12,14 @@ lng: -90.1800
 zipSample: ["70005", "70002", "70033", "70004", "70001"]
 zipCodes: ["70011", "70003", "70002", "70005", "70010", "70006", "70001", "70033", "70055", "70004", "70009"]
 localPaths: ["Jefferson Parish / ZIP 70005 sector", "Jefferson Parish / ZIP 70002 sector", "Jefferson Parish / primary ZIP 70002", "Jefferson Parish / ZIP 70001 sector", "Jefferson Parish / ZIP 70033 sector"]
-zillowHomeValueUsd: 346920
 ---
 
-**Engineering Notice for Metairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Metairie:** Emergency leak and drain triage uses ~126 mg/L hardness context with Jefferson Parish service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Metairie, LA, Jefferson Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Metairie, LA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Jefferson Parish should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Basement floor drains in Metairie, LA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -43,8 +46,6 @@ Hydro-jetting in Metairie, LA requires camera confirmation before nozzle pressur
 FAQ: When is cabling enough? In Metairie, LA, pipe material and blockage type dictate method.
 
 Pressure trace 617119: meter-pit clearance and dielectric union checklist staged for Metairie, LA near elevation 10 ft.
-
-plumbing brief: slab leak listening window and water softener bypass lever were cross-checked for the Metairie intake packet.
 
 On-site sector marker: Jefferson Parish / primary ZIP 70002 — logged for map parity and ZIP-corridor verification.
 

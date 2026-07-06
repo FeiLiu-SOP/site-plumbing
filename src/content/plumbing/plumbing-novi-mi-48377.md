@@ -12,11 +12,14 @@ lng: -83.4900
 zipSample: ["48375", "48167", "48377", "48374", "48376"]
 zipCodes: ["48375", "48167", "48376", "48377", "48374"]
 localPaths: ["Oakland County / ZIP 48375 sector", "Oakland County / primary ZIP 48377", "Oakland County / ZIP 48376 sector", "Oakland County / ZIP 48167 sector", "Oakland County / elevation 935 ft band"]
-zillowHomeValueUsd: 379379
 ---
 
-**Engineering Notice for Novi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Novi:** Emergency leak and drain triage uses ~110 mg/L hardness context with Oakland County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Novi, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Novi, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Seasonal Novi, MI irrigation cross-connections can mask domestic pressure loss.
 
@@ -47,8 +50,6 @@ Step: photograph curb-stop and meter pit before trenching.
 Risk flag: In Novi, MI, slab leaks can misroute as foundation issues without listening equipment.
 
 Supply audit 184051: curb-stop orientation and hose-bib freeze flag reviewed for Novi, MI at coords 42.4800/-83.4900.
-
-Field routing: water heater T&P path paired with sump float travel near ZIP 48377.
 
 On-site sector marker: Oakland County / coords 42.4800, -83.4900 — logged for map parity and ZIP-corridor verification.
 

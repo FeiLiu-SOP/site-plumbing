@@ -12,11 +12,14 @@ lng: -83.6200
 zipSample: ["48529", "48509", "48519"]
 zipCodes: ["48519", "48529", "48509"]
 localPaths: ["Genesee County / elevation 781 ft band", "Genesee County / ZIP 48529 sector", "Genesee County / ZIP 48519 sector", "Genesee County / coords 43.0000, -83.6200", "Genesee County / primary ZIP 48529"]
-zillowHomeValueUsd: 91174
 ---
 
-**Engineering Notice for Burton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Genesee County.
+**Engineering Notice for Burton:** Supply line, cleanout, and water heater scope recorded at 781 ft elevation context (Genesee County).
 
+
+Certified plumbing crews serving Burton, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Burton, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Genesee County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -48,7 +51,7 @@ Risk flag: Seasonal Burton, MI irrigation cross-connections can mask domestic pr
 
 Flow dossier 567344: branch wet-vent geometry and jetting nozzle envelope logged for Burton, MI county grid Genesee County (ZIP 48529).
 
-Scope trace: sump float travel plus cleanout riser height referenced in Genesee County county grid review.
+Scope trace: sump float travel plus cleanout riser height referenced in Genesee County drain and water line review.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~781 ft across the Genesee County area. Coordinates: 43.0000, -83.6200. ZIP sample: 48519, 48529, 48509. Regional routing note: Genesee County traffic flow is balanced around ZIP 48529 service demand.
 

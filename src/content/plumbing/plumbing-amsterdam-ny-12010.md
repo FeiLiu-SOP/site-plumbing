@@ -12,11 +12,14 @@ lng: -74.1900
 zipSample: ["12010"]
 zipCodes: ["12010"]
 localPaths: ["Montgomery County / elevation 417 ft band", "Montgomery County / coords 42.9400, -74.1900", "Montgomery County / ZIP 12010 sector", "Montgomery County / primary ZIP 12010"]
-zillowHomeValueUsd: 235766
 ---
 
-**Engineering Notice for Amsterdam:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Amsterdam:** Emergency leak and drain triage uses ~173 mg/L hardness context with Montgomery County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Amsterdam, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Amsterdam, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Montgomery County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in Amsterdam, NY may require ROW restoration planning.
 
@@ -42,11 +45,13 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Supply audit 682266: curb-stop orientation and hose-bib freeze flag reviewed for Amsterdam, NY at coords 42.9400/-74.1900.
 
 Intake ledger 682266: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Amsterdam, NY at 42.9400, -74.1900.
+
+Scope trace: recirculation pump amp draw plus PEX expansion ring batch referenced in Montgomery County drain and water line review.
 
 ZIP-corridor snapshot for Amsterdam, NY: sampled sectors include 12010; county routing grid remains Montgomery County.
 

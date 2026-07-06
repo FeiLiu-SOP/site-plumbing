@@ -12,11 +12,14 @@ lng: -77.2400
 zipSample: ["20850", "20878"]
 zipCodes: ["20878", "20850"]
 localPaths: ["Montgomery County / primary ZIP 20878", "Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1000, -77.2400", "Montgomery County / elevation 394 ft band", "Montgomery County / ZIP 20850 sector"]
-zillowHomeValueUsd: 703139
 ---
 
-**Engineering Notice for North Potomac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for North Potomac:** Supply line, cleanout, and water heater scope recorded at 394 ft elevation context (Montgomery County).
 
+
+When a main line backs up in North Potomac, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in North Potomac, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless pulls in North Potomac, MD require pit dimensions verified against utility locate marks.
 
@@ -46,7 +49,7 @@ Supply audit 306473: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Flow dossier 306473: branch wet-vent geometry and jetting nozzle envelope logged for North Potomac, MD county grid Montgomery County (ZIP 20878).
 
-Field routing: floor drain trap primer drip paired with fixture shutoff torque log near ZIP 20878.
+Local service note: floor drain trap primer drip paired with fixture shutoff torque log near ZIP 20878 for emergency qualified plumber repairs.
 
 On-site sector marker: Montgomery County / ZIP 20850 sector — logged for map parity and ZIP-corridor verification.
 

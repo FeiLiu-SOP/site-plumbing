@@ -12,11 +12,14 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78646", "78641"]
 localPaths: ["Williamson County / ZIP 78646 sector", "Williamson County / ZIP 78641 sector", "Williamson County / coords 30.5700, -97.8600", "Williamson County / primary ZIP 78641", "Williamson County / elevation 1024 ft band"]
-zillowHomeValueUsd: 432236
 ---
 
-**Engineering Notice for Leander:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
+**Engineering Notice for Leander:** Emergency leak and drain triage uses ~179 mg/L hardness context with Williamson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Leander, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Williamson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Leander, TX, Williamson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Leander, TX irrigation zones need backflow logs befor
 Lineage note 852126: recirculation pump amp draw captured before Leander, TX branch isolation.
 
 Supply audit 852126: curb-stop orientation and hose-bib freeze flag reviewed for Leander, TX at coords 30.5700/-97.8600.
-
-Scope trace: branch wet vent geometry plus sump float travel referenced in Williamson County county grid review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~1024 ft across the Williamson County area. Coordinates: 30.5700, -97.8600. ZIP sample: 78641, 78646. Service perimeter note: Coverage extends through Williamson County with dispatch centered near ZIP 78641.
 

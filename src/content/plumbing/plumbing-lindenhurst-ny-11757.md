@@ -12,11 +12,14 @@ lng: -73.3700
 zipSample: ["11757"]
 zipCodes: ["11757"]
 localPaths: ["Suffolk County / ZIP 11757 sector", "Suffolk County / primary ZIP 11757", "Suffolk County / coords 40.6900, -73.3700", "Suffolk County / elevation 30 ft band"]
-zillowHomeValueUsd: 600983
 ---
 
-**Engineering Notice for Lindenhurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Lindenhurst:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Suffolk County).
 
+
+Burst pipe and drain clog calls in Lindenhurst, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Suffolk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Lindenhurst, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -44,7 +47,7 @@ Trenchless pulls in Lindenhurst, NY require pit dimensions verified against util
 
 Flow dossier 701868: branch wet-vent geometry and jetting nozzle envelope logged for Lindenhurst, NY county grid Suffolk County (ZIP 11757).
 
-Scope trace: thermal expansion loop check plus shower cartridge seat score referenced in Suffolk County county grid review.
+Scope trace: thermal expansion loop check plus shower cartridge seat score referenced in Suffolk County drain and water line review.
 
 Primary postal anchor 11757 with multi-ZIP overlap in Lindenhurst; field packets tag Suffolk County for county-grid reconciliation.
 

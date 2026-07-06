@@ -12,11 +12,14 @@ lng: -83.7700
 zipSample: ["37865"]
 zipCodes: ["37865"]
 localPaths: ["Sevier County / coords 35.8800, -83.7700", "Sevier County / elevation 1207 ft band", "Sevier County / primary ZIP 37865", "Sevier County / ZIP 37865 sector"]
-zillowHomeValueUsd: 373959
 ---
 
-**Engineering Notice for Seymour:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sevier County.
+**Engineering Notice for Seymour:** Supply line, cleanout, and water heater scope recorded at 1207 ft elevation context (Sevier County).
 
+
+Licensed plumbing crews serving Seymour, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Seymour, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 37865.
 
@@ -30,7 +33,7 @@ Hard water in Seymour, TN accelerates scale on PRV seats and heater elements.
 
 Expansion tank pre-charge loss in Seymour, TN often tracks heater replacement deferrals.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Frost-free sillcock failures in Seymour, TN often trace to interior shutoff seats, not exterior stems.
 

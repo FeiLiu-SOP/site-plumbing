@@ -12,11 +12,14 @@ lng: -88.2700
 zipSample: ["61821", "61826", "61820", "61822", "61825"]
 zipCodes: ["61826", "61821", "61825", "61824", "61820", "61822"]
 localPaths: ["Champaign County / ZIP 61821 sector", "Champaign County / coords 40.1100, -88.2700", "Champaign County / ZIP 61826 sector", "Champaign County / ZIP 61820 sector", "Champaign County / elevation 787 ft band"]
-zillowHomeValueUsd: 324859
 ---
 
-**Engineering Notice for Champaign:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Champaign County.
+**Engineering Notice for Champaign:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Champaign County.
 
+
+Burst pipe and drain clog calls in Champaign, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Champaign County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Champaign, IL, Champaign County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Frost-free sillcock failures in Champaign, IL often trace to interior shutoff seats, not exterior stems.
 
@@ -48,7 +51,7 @@ Polybutylene manifold tags in Champaign, IL basements should be photographed bef
 
 Pressure trace 344776: meter-pit clearance and dielectric union checklist staged for Champaign, IL near elevation 787 ft.
 
-plumbing brief: PEX expansion ring batch and floor drain trap primer drip were cross-checked for the Champaign intake packet.
+Plumbing restoration brief: PEX expansion ring batch and floor drain trap primer drip were cross-checked for the Champaign pipe and leak scope.
 
 ZIP-corridor snapshot for Champaign, IL: sampled sectors include 61826, 61825, 61821, 61820, 61822, 61824; county routing grid remains Champaign County.
 

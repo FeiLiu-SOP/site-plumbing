@@ -12,11 +12,14 @@ lng: -111.8100
 zipSample: ["84121", "84093", "84171"]
 zipCodes: ["84093", "84121", "84171"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84171 sector", "Salt Lake County / ZIP 84093 sector", "Salt Lake County / elevation 4849 ft band", "Salt Lake County / primary ZIP 84093"]
-zillowHomeValueUsd: 800632
 ---
 
-**Engineering Notice for Cottonwood Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Cottonwood Heights:** Supply line, cleanout, and water heater scope recorded at 4849 ft elevation context (Salt Lake County).
 
+
+When a main line backs up in Cottonwood Heights, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Cottonwood Heights, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Salt Lake County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -24,7 +27,7 @@ Cast-iron hub corrosion in Cottonwood Heights, UT often concentrates at the thir
 
 Step: photograph curb-stop and meter pit before trenching.
 
-We coordinate Cottonwood Heights, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Cottonwood Heights, UT plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Hard water in Cottonwood Heights, UT accelerates scale on PRV seats and heater elements.
 

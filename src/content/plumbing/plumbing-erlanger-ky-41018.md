@@ -12,11 +12,14 @@ lng: -84.5900
 zipSample: ["41017", "41051", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / elevation 879 ft band", "Kenton County / coords 39.0100, -84.5900", "Kenton County / ZIP 41051 sector", "Kenton County / primary ZIP 41018", "Kenton County / ZIP 41017 sector"]
-zillowHomeValueUsd: 234872
 ---
 
-**Engineering Notice for Erlanger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenton County.
+**Engineering Notice for Erlanger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kenton County.
 
+
+Burst pipe and drain clog calls in Erlanger, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kenton County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Erlanger, KY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kenton County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

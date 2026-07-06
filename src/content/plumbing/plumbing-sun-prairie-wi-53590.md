@@ -12,11 +12,14 @@ lng: -89.2400
 zipSample: ["53590"]
 zipCodes: ["53590"]
 localPaths: ["Dane County / primary ZIP 53590", "Dane County / coords 43.1800, -89.2400", "Dane County / ZIP 53590 sector", "Dane County / elevation 984 ft band"]
-zillowHomeValueUsd: 449455
 ---
 
-**Engineering Notice for Sun Prairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
+**Engineering Notice for Sun Prairie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dane County.
 
+
+Qualified plumbing crews serving Sun Prairie, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Sun Prairie, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dane County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -45,6 +48,8 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Pressure trace 404082: meter-pit clearance and dielectric union checklist staged for Sun Prairie, WI near elevation 984 ft.
 
 Drain map 404082: camera-pass priority and expansion-tank pre-charge noted for Sun Prairie, WI postal sector 53590.
+
+Scope trace: scale coupon sampling plus sewer cleanout cap thread referenced in Dane County drain and water line review.
 
 On-site sector marker: Dane County / primary ZIP 53590 — logged for map parity and ZIP-corridor verification.
 

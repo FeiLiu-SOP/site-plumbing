@@ -12,11 +12,14 @@ lng: -82.3500
 zipSample: ["34224", "34223"]
 zipCodes: ["34223", "34224"]
 localPaths: ["Sarasota County / ZIP 34224 sector", "Sarasota County / primary ZIP 34223", "Sarasota County / elevation 30 ft band", "Sarasota County / coords 26.9700, -82.3500", "Sarasota County / ZIP 34223 sector"]
-zillowHomeValueUsd: 372585
 ---
 
-**Engineering Notice for Englewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.
+**Engineering Notice for Englewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sarasota County.
 
+
+Burst pipe and drain clog calls in Englewood, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sarasota County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Englewood, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Englewood, FL hardness profiles.
 

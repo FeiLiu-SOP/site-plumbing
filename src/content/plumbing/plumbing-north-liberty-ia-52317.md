@@ -12,11 +12,14 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / elevation 768 ft band", "Johnson County / ZIP 52317 sector", "Johnson County / primary ZIP 52317", "Johnson County / coords 41.7400, -91.6100"]
-zillowHomeValueUsd: 307501
 ---
 
-**Engineering Notice for North Liberty:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for North Liberty:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Johnson County.
 
+
+Emergency plumbing pro service in North Liberty, IA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Johnson County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing service in North Liberty, IA, Johnson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Irrigation cross-connections in North Liberty, IA can back-siphon domestic lines during main breaks.
 
@@ -38,15 +41,13 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydrostatic holds in North Liberty, IA slab circuits run overnight when listening mics show ambiguous hits.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Supply audit 396024: curb-stop orientation and hose-bib freeze flag reviewed for North Liberty, IA at coords 41.7400/-91.6100.
-
-Field routing: jetter nozzle envelope paired with branch wet vent geometry near ZIP 52317.
 
 On-site sector marker: Johnson County / primary ZIP 52317 — logged for map parity and ZIP-corridor verification.
 

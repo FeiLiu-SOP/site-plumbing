@@ -12,11 +12,14 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / primary ZIP 92544", "Riverside County / coords 33.7300, -116.9400", "Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector"]
-zillowHomeValueUsd: 459533
 ---
 
-**Engineering Notice for East Hemet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for East Hemet:** Emergency leak and drain triage uses ~172 mg/L hardness context with Riverside County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving East Hemet, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in East Hemet, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during East Hemet, CA shoulder seasons.
 
@@ -43,6 +46,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Supply audit 998752: curb-stop orientation and hose-bib freeze flag reviewed for East Hemet, CA at coords 33.7300/-116.9400.
+
+Local service note: backflow test cock orientation paired with slab penetration sleeve seal near ZIP 92544 for emergency plumbing pro repairs.
 
 On-site sector marker: Riverside County / elevation 1686 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -88.1100
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / primary ZIP 60073", "Lake County / coords 42.3400, -88.1100", "Lake County / ZIP 60073 sector", "Lake County / elevation 778 ft band"]
-zillowHomeValueUsd: 271352
 ---
 
-**Engineering Notice for Round Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Round Lake:** Supply line, cleanout, and water heater scope recorded at 778 ft elevation context (Lake County).
 
+
+Burst pipe and drain clog calls in Round Lake, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Round Lake, IL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When should sump battery backups be load-tested? In Round Lake, IL, before spring thaw and hurricane remnants.
 
@@ -28,7 +31,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch packets reference county grid Lake County near ZIP 60073.
+Our Round Lake, IL service packets reference Lake County near ZIP 60073 for pipe and leak scope.
 
 Material note: Water heater anode type may change with Round Lake, IL hardness profiles.
 

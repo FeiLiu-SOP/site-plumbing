@@ -12,11 +12,14 @@ lng: -81.5600
 zipSample: ["44118", "44112", "44121", "44106"]
 zipCodes: ["44112", "44106", "44121", "44118"]
 localPaths: ["Cuyahoga County / ZIP 44112 sector", "Cuyahoga County / ZIP 44106 sector", "Cuyahoga County / ZIP 44118 sector", "Cuyahoga County / elevation 928 ft band", "Cuyahoga County / ZIP 44121 sector"]
-zillowHomeValueUsd: 242246
 ---
 
-**Engineering Notice for Cleveland Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Cleveland Heights:** Supply line, cleanout, and water heater scope recorded at 928 ft elevation context (Cuyahoga County).
 
+
+Qualified plumbing crews serving Cleveland Heights, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Cleveland Heights, OH, Cuyahoga County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -24,7 +27,7 @@ Stack vent offsets in Cleveland Heights, OH older duplexes can mask tub gurgle a
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Cast-iron hub corrosion in Cleveland Heights, OH often concentrates at the third joint upstream of the cleanout.
 

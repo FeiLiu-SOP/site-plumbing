@@ -12,11 +12,14 @@ lng: -84.5900
 zipSample: ["30213", "30268"]
 zipCodes: ["30268", "30213"]
 localPaths: ["Fulton County / ZIP 30213 sector", "Fulton County / elevation 1027 ft band", "Fulton County / primary ZIP 30268", "Fulton County / ZIP 30268 sector", "Fulton County / coords 33.5500, -84.5900"]
-zillowHomeValueUsd: 320051
 ---
 
-**Engineering Notice for Fairburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Fairburn:** Emergency leak and drain triage uses ~150 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in Fairburn, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Fulton County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Fairburn, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fulton County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Frost-free sillcock failures in Fairburn, GA often trace to interior shutoff seats, not exterior stems.
 

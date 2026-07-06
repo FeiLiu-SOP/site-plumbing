@@ -12,11 +12,14 @@ lng: -84.2700
 zipSample: ["30032"]
 zipCodes: ["30032"]
 localPaths: ["DeKalb County / elevation 948 ft band", "DeKalb County / primary ZIP 30032", "DeKalb County / ZIP 30032 sector", "DeKalb County / coords 33.7300, -84.2700"]
-zillowHomeValueUsd: 232657
 ---
 
-**Engineering Notice for Candler-McAfee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Candler-McAfee:** Supply line, cleanout, and water heater scope recorded at 948 ft elevation context (DeKalb County).
 
+
+Plumbing restoration in Candler-McAfee, GA, DeKalb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Candler-McAfee, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeKalb County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
@@ -30,7 +33,7 @@ CPVC solvent weld times shift with ambient humidity during Candler-McAfee, GA sh
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hard water in Candler-McAfee, GA accelerates scale on PRV seats and heater elements.
 

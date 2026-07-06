@@ -12,11 +12,14 @@ lng: -122.2800
 zipSample: ["98087", "98037"]
 zipCodes: ["98087", "98037"]
 localPaths: ["Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 558 ft band", "Snohomish County / primary ZIP 98087", "Snohomish County / coords 47.8500, -122.2800", "Snohomish County / ZIP 98087 sector"]
-zillowHomeValueUsd: 751109
 ---
 
-**Engineering Notice for North Lynnwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for North Lynnwood:** Emergency leak and drain triage uses ~132 mg/L hardness context with Snohomish County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in North Lynnwood, WA, Snohomish County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving North Lynnwood, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Basement floor drains in North Lynnwood, WA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -44,7 +47,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Supply audit 917738: curb-stop orientation and hose-bib freeze flag reviewed for North Lynnwood, WA at coords 47.8500/-122.2800.
 
-Field routing: jetter nozzle envelope paired with gas water heater draft hood gap near ZIP 98087.
+Local service note: jetter nozzle envelope paired with gas water heater draft hood gap near ZIP 98087 for emergency plumbing pro repairs.
 
 On-site sector marker: Snohomish County / primary ZIP 98087 — logged for map parity and ZIP-corridor verification.
 

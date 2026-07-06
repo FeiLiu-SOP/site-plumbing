@@ -12,11 +12,14 @@ lng: -117.9300
 zipSample: ["92834", "92836", "92831", "92832", "92833"]
 zipCodes: ["92838", "92834", "92832", "92837", "92836", "92835", "92833", "92831"]
 localPaths: ["Orange County / ZIP 92836 sector", "Orange County / ZIP 92832 sector", "Orange County / coords 33.8800, -117.9300", "Orange County / elevation 266 ft band", "Orange County / primary ZIP 92835"]
-zillowHomeValueUsd: 1317918
 ---
 
-**Engineering Notice for Fullerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Fullerton:** Supply line, cleanout, and water heater scope recorded at 266 ft elevation context (Orange County).
 
+
+Emergency plumbing technician service in Fullerton, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Fullerton, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 

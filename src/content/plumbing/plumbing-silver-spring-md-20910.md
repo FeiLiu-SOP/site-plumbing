@@ -12,11 +12,14 @@ lng: -77.0200
 zipSample: ["20901", "20911", "20903", "20912", "20997"]
 zipCodes: ["20907", "20901", "20903", "20997", "20912", "20911", "20910"]
 localPaths: ["Montgomery County / ZIP 20912 sector", "Montgomery County / primary ZIP 20910", "Montgomery County / ZIP 20903 sector", "Montgomery County / ZIP 20997 sector", "Montgomery County / coords 39.0000, -77.0200"]
-zillowHomeValueUsd: 655257
 ---
 
-**Engineering Notice for Silver Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Silver Spring:** Supply line, cleanout, and water heater scope recorded at 292 ft elevation context (Montgomery County).
 
+
+Qualified plumbing crews serving Silver Spring, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Silver Spring, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -28,7 +31,7 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch packets reference county grid Montgomery County near ZIP 20910.
+Our Silver Spring, MD service packets reference Montgomery County near ZIP 20910 for pipe and leak scope.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

@@ -12,11 +12,14 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / coords 32.4700, -96.9900", "Ellis County / ZIP 76065 sector", "Ellis County / elevation 787 ft band", "Ellis County / primary ZIP 76065"]
-zillowHomeValueUsd: 455505
 ---
 
-**Engineering Notice for Midlothian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ellis County.
+**Engineering Notice for Midlothian:** Supply line, cleanout, and water heater scope recorded at 787 ft elevation context (Ellis County).
 
+
+When a main line backs up in Midlothian, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Midlothian, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -44,7 +47,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Supply audit 548142: curb-stop orientation and hose-bib freeze flag reviewed for Midlothian, TX at coords 32.4700/-96.9900.
 
-plumbing brief: scale coupon sampling and fixture shutoff torque log were cross-checked for the Midlothian intake packet.
+Plumbing service brief: scale coupon sampling and fixture shutoff torque log were cross-checked for the Midlothian pipe and leak scope.
 
 ZIP-corridor snapshot for Midlothian, TX: sampled sectors include 76065; county routing grid remains Ellis County.
 

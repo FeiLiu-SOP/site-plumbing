@@ -12,11 +12,14 @@ lng: -114.7100
 zipSample: ["85349", "85350", "85336"]
 zipCodes: ["85349", "85336", "85350"]
 localPaths: ["Yuma County / coords 32.4900, -114.7100", "Yuma County / elevation 151 ft band", "Yuma County / ZIP 85336 sector", "Yuma County / primary ZIP 85336", "Yuma County / ZIP 85349 sector"]
-zillowHomeValueUsd: 250702
 ---
 
-**Engineering Notice for San Luis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yuma County.
+**Engineering Notice for San Luis:** Supply line, cleanout, and water heater scope recorded at 151 ft elevation context (Yuma County).
 
+
+Burst pipe and drain clog calls in San Luis, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Yuma County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in San Luis, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Fixture shutoff stiffness in San Luis, AZ may indicate mineral bridging behind stems.
 
@@ -24,7 +27,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Hard water in San Luis, AZ accelerates scale on PRV seats and heater elements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -44,7 +47,7 @@ Frost-free sillcock failures in San Luis, AZ often trace to interior shutoff sea
 
 Flow dossier 924150: branch wet-vent geometry and jetting nozzle envelope logged for San Luis, AZ county grid Yuma County (ZIP 85336).
 
-Scope trace: water heater T&P path plus branch wet vent geometry referenced in Yuma County county grid review.
+Scope trace: water heater T&P path plus branch wet vent geometry referenced in Yuma County drain and water line review.
 
 On-site sector marker: Yuma County / coords 32.4900, -114.7100 — logged for map parity and ZIP-corridor verification.
 

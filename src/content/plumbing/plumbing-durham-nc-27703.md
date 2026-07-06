@@ -12,11 +12,14 @@ lng: -78.9000
 zipSample: ["27710", "27707", "27701", "27715", "27712"]
 zipCodes: ["27715", "27722", "27701", "27708", "27717", "27705", "27710", "27706", "27704", "27707", "27703", "27712"]
 localPaths: ["Durham County / elevation 374 ft band", "Durham County / ZIP 27701 sector", "Durham County / coords 35.9800, -78.9000", "Durham County / ZIP 27715 sector", "Durham County / ZIP 27710 sector"]
-zillowHomeValueUsd: 388782
 ---
 
-**Engineering Notice for Durham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Durham County.
+**Engineering Notice for Durham:** Supply line, cleanout, and water heater scope recorded at 374 ft elevation context (Durham County).
 
+
+Certified plumbing crews serving Durham, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Durham, NC, Durham County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hard water in Durham, NC accelerates scale on PRV seats and heater elements.
 
@@ -43,8 +46,6 @@ Material note: Water heater anode type may change with Durham, NC hardness profi
 Fixture shutoff stiffness in Durham, NC may indicate mineral bridging behind stems.
 
 Supply audit 853655: curb-stop orientation and hose-bib freeze flag reviewed for Durham, NC at coords 35.9800/-78.9000.
-
-plumbing brief: sewer cleanout cap thread and thermal expansion loop check were cross-checked for the Durham intake packet.
 
 On-site sector marker: Durham County / ZIP 27710 sector — logged for map parity and ZIP-corridor verification.
 

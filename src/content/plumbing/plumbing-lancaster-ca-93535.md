@@ -12,15 +12,18 @@ lng: -118.1800
 zipSample: ["93535", "93584", "93539", "93536", "93534"]
 zipCodes: ["93539", "93535", "93534", "93584", "93536"]
 localPaths: ["Los Angeles County / ZIP 93534 sector", "Los Angeles County / coords 34.6900, -118.1800", "Los Angeles County / ZIP 93535 sector", "Los Angeles County / primary ZIP 93535", "Los Angeles County / ZIP 93584 sector"]
-zillowHomeValueUsd: 430004
 ---
 
-**Engineering Notice for Lancaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lancaster:** Supply line, cleanout, and water heater scope recorded at 2346 ft elevation context (Los Angeles County).
 
+
+Certified plumbing crews serving Lancaster, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Lancaster, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -34,11 +37,11 @@ Risk flag: Seasonal Lancaster, CA irrigation cross-connections can mask domestic
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 93535.
 
-We coordinate Lancaster, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Lancaster, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Polybutylene manifold tags in Lancaster, CA basements should be photographed before any wall chase opens.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sewer gas odors in Lancaster, CA should trigger trap seal and vent path review.
 

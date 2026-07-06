@@ -12,11 +12,14 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / ZIP 60513 sector", "Cook County / coords 41.8200, -87.8500", "Cook County / elevation 633 ft band", "Cook County / primary ZIP 60513"]
-zillowHomeValueUsd: 345447
 ---
 
-**Engineering Notice for Brookfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Brookfield:** Emergency leak and drain triage uses ~160 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Brookfield, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Brookfield, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: In Brookfield, IL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -45,8 +48,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Pressure trace 746717: meter-pit clearance and dielectric union checklist staged for Brookfield, IL near elevation 633 ft.
 
 Fixture roster 746717: toilet flange spacer kit and shower cartridge seat score queued for Brookfield, IL walk-through.
-
-plumbing brief: PRV outlet curve and hose bib freeze flag were cross-checked for the Brookfield intake packet.
 
 On-site sector marker: Cook County / coords 41.8200, -87.8500 — logged for map parity and ZIP-corridor verification.
 

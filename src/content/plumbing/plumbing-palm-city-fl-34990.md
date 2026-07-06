@@ -12,11 +12,14 @@ lng: -80.2900
 zipSample: ["34991", "34990"]
 zipCodes: ["34991", "34990"]
 localPaths: ["Martin County / ZIP 34990 sector", "Martin County / coords 27.1700, -80.2900", "Martin County / elevation 3 ft band", "Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector"]
-zillowHomeValueUsd: 611093
 ---
 
-**Engineering Notice for Palm City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Martin County.
+**Engineering Notice for Palm City:** Emergency leak and drain triage uses ~137 mg/L hardness context with Martin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Palm City, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Martin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Palm City, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Martin County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 FAQ: When is cabling enough? In Palm City, FL, pipe material and blockage type dictate method.
 
@@ -24,7 +27,7 @@ Water heater T&P discharge paths in Palm City, FL must terminate safely before r
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Palm City, FL systems need rebalancing.
 
@@ -44,13 +47,11 @@ Permit note: Main water line replacement in Palm City, FL may require ROW restor
 
 Material note: Water heater anode type may change with Palm City, FL hardness profiles.
 
-Dispatch packets reference county grid Martin County near ZIP 34990.
+Our Palm City, FL service packets reference Martin County near ZIP 34990 for pipe and leak scope.
 
 Flow dossier 887599: branch wet-vent geometry and jetting nozzle envelope logged for Palm City, FL county grid Martin County (ZIP 34990).
 
 Supply audit 887599: curb-stop orientation and hose-bib freeze flag reviewed for Palm City, FL at coords 27.1700/-80.2900.
-
-Field routing: water heater T&P path paired with floor drain trap primer drip near ZIP 34990.
 
 On-site sector marker: Martin County / ZIP 34990 sector — logged for map parity and ZIP-corridor verification.
 

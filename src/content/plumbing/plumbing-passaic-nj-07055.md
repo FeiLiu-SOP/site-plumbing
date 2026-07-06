@@ -12,11 +12,14 @@ lng: -74.1300
 zipSample: ["07055"]
 zipCodes: ["07055"]
 localPaths: ["Passaic County / elevation 121 ft band", "Passaic County / coords 40.8600, -74.1300", "Passaic County / primary ZIP 07055", "Passaic County / ZIP 07055 sector"]
-zillowHomeValueUsd: 553186
 ---
 
-**Engineering Notice for Passaic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Passaic County.
+**Engineering Notice for Passaic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Passaic County.
 
+
+Licensed plumbing crews serving Passaic, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Passaic, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Passaic County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -45,8 +48,6 @@ Risk flag: Seasonal Passaic, NJ irrigation cross-connections can mask domestic p
 Fixture roster 613378: toilet flange spacer kit and shower cartridge seat score queued for Passaic, NJ walk-through.
 
 Intake ledger 613378: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Passaic, NJ at 40.8600, -74.1300.
-
-Scope trace: hose bib freeze flag plus dielectric union checklist referenced in Passaic County county grid review.
 
 On-site sector marker: Passaic County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
 

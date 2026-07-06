@@ -12,11 +12,14 @@ lng: -71.3600
 zipSample: ["02915", "02916", "02914"]
 zipCodes: ["02914", "02916", "02915"]
 localPaths: ["Providence County / elevation 92 ft band", "Providence County / ZIP 02915 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600", "Providence County / ZIP 02914 sector"]
-zillowHomeValueUsd: 437776
 ---
 
-**Engineering Notice for East Providence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.
+**Engineering Notice for East Providence:** Emergency leak and drain triage uses ~121 mg/L hardness context with Providence County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in East Providence, RI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Providence County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in East Providence, RI, Providence County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -26,11 +29,11 @@ In East Providence, RI, slab leaks often present as warm spots before wall stain
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in East Providence, RI systems need rebalancing.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Seasonal East Providence, RI irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch packets reference county grid Providence County near ZIP 02915.
+Our East Providence, RI service packets reference Providence County near ZIP 02915 for pipe and leak scope.
 
 Risk flag: In East Providence, RI, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,8 +46,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
 Supply audit 695449: curb-stop orientation and hose-bib freeze flag reviewed for East Providence, RI at coords 41.8100/-71.3600.
-
-plumbing brief: recirculation pump amp draw and thermal expansion loop check were cross-checked for the East Providence intake packet.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Providence County. Reference elevation: 92 ft. Primary coordinates: 41.8100, -71.3600. ZIP sample: 02915, 02916, 02914. Service perimeter note: Coverage extends through Providence County with dispatch centered near ZIP 02915.
 

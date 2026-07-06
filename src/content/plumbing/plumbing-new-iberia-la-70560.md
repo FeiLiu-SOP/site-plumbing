@@ -12,11 +12,14 @@ lng: -91.8200
 zipSample: ["70562", "70560", "70563"]
 zipCodes: ["70563", "70560", "70562"]
 localPaths: ["Iberia Parish / primary ZIP 70560", "Iberia Parish / elevation 36 ft band", "Iberia Parish / ZIP 70562 sector", "Iberia Parish / coords 30.0000, -91.8200", "Iberia Parish / ZIP 70563 sector"]
-zillowHomeValueUsd: 112920
 ---
 
-**Engineering Notice for New Iberia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iberia Parish.
+**Engineering Notice for New Iberia:** Emergency leak and drain triage uses ~128 mg/L hardness context with Iberia Parish service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in New Iberia, LA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency licensed plumber service in New Iberia, LA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Iberia Parish should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -45,8 +48,6 @@ Across New Iberia, LA, main-line bellies can trap debris even when fixtures drai
 Pressure trace 662810: meter-pit clearance and dielectric union checklist staged for New Iberia, LA near elevation 36 ft.
 
 Lineage note 662810: recirculation pump amp draw captured before New Iberia, LA branch isolation.
-
-Scope trace: toilet flange spacer kit plus backflow test cock orientation referenced in Iberia Parish county grid review.
 
 On-site sector marker: Iberia Parish / coords 30.0000, -91.8200 — logged for map parity and ZIP-corridor verification.
 

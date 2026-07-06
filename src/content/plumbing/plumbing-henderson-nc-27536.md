@@ -12,15 +12,18 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / primary ZIP 27536", "Vance County / ZIP 27536 sector", "Vance County / elevation 469 ft band", "Vance County / coords 36.3300, -78.4200"]
-zillowHomeValueUsd: 116853
 ---
 
-**Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vance County.
+**Engineering Notice for Henderson:** Supply line, cleanout, and water heater scope recorded at 469 ft elevation context (Vance County).
 
+
+Emergency plumbing technician service in Henderson, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Vance County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Henderson, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Vance County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Hose bib split patterns in Henderson, NC often follow missed winterization.
 
-Dispatch packets reference county grid Vance County near ZIP 27536.
+Our Henderson, NC service packets reference Vance County near ZIP 27536 for pipe and leak scope.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Risk flag: In Henderson, NC, slab leaks can misroute as foundation issues withou
 Dual-water-meter setups in Henderson, NC irrigation zones need backflow logs before line replacement.
 
 Flow dossier 307292: branch wet-vent geometry and jetting nozzle envelope logged for Henderson, NC county grid Vance County (ZIP 27536).
-
-Scope trace: water softener bypass lever plus meter pit clearance referenced in Vance County county grid review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Vance County. Reference elevation: 469 ft. Primary coordinates: 36.3300, -78.4200. ZIP sample: 27536. Service perimeter note: Coverage extends through Vance County with dispatch centered near ZIP 27536.
 

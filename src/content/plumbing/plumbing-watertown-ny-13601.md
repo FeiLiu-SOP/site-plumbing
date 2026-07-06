@@ -12,13 +12,16 @@ lng: -75.9100
 zipSample: ["13601"]
 zipCodes: ["13601"]
 localPaths: ["Jefferson County / elevation 482 ft band", "Jefferson County / primary ZIP 13601", "Jefferson County / ZIP 13601 sector", "Jefferson County / coords 43.9700, -75.9100"]
-zillowHomeValueUsd: 194462
 ---
 
-**Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Watertown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
 
-We coordinate Watertown, NY plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Plumbing service in Watertown, NY, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Watertown, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+We coordinate Watertown, NY plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -44,7 +47,7 @@ Step: tag shutoffs and meter orientation before opening walls.
 
 Intake ledger 961076: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Watertown, NY at 43.9700, -75.9100.
 
-Scope trace: scale coupon sampling plus water heater T&P path referenced in Jefferson County county grid review.
+Scope trace: scale coupon sampling plus water heater T&P path referenced in Jefferson County drain and water line review.
 
 Primary postal anchor 13601 with multi-ZIP overlap in Watertown; field packets tag Jefferson County for county-grid reconciliation.
 

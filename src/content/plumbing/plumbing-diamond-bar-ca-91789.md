@@ -12,11 +12,14 @@ lng: -117.8200
 zipSample: ["91789", "91765"]
 zipCodes: ["91789", "91765"]
 localPaths: ["Los Angeles County / ZIP 91765 sector", "Los Angeles County / primary ZIP 91789", "Los Angeles County / coords 34.0000, -117.8200", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 965 ft band"]
-zillowHomeValueUsd: 1156359
 ---
 
-**Engineering Notice for Diamond Bar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Diamond Bar:** Supply line, cleanout, and water heater scope recorded at 965 ft elevation context (Los Angeles County).
 
+
+Plumbing restoration in Diamond Bar, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Diamond Bar, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -28,7 +31,7 @@ Risk flag: Seasonal Diamond Bar, CA irrigation cross-connections can mask domest
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-We coordinate Diamond Bar, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Diamond Bar, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Cleanout access limits in Diamond Bar, CA frequently extend drain cleaning duration.
 

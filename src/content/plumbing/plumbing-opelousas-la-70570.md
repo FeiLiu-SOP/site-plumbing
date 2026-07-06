@@ -12,11 +12,14 @@ lng: -92.0800
 zipSample: ["70571", "70570"]
 zipCodes: ["70571", "70570"]
 localPaths: ["St. Landry Parish / coords 30.5300, -92.0800", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / ZIP 70571 sector", "St. Landry Parish / primary ZIP 70570"]
-zillowHomeValueUsd: 122657
 ---
 
-**Engineering Notice for Opelousas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Landry Parish.
+**Engineering Notice for Opelousas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Landry Parish.
 
+
+Plumbing restoration in Opelousas, LA, St. Landry Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Opelousas, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Landry Parish clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -45,6 +48,8 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Supply audit 244690: curb-stop orientation and hose-bib freeze flag reviewed for Opelousas, LA at coords 30.5300/-92.0800.
 
 Flow dossier 244690: branch wet-vent geometry and jetting nozzle envelope logged for Opelousas, LA county grid St. Landry Parish (ZIP 70570).
+
+Plumbing remediation brief: branch wet vent geometry and slab leak listening window were cross-checked for the Opelousas pipe and leak scope.
 
 Primary postal anchor 70570 with multi-ZIP overlap in Opelousas; field packets tag St. Landry Parish for county-grid reconciliation.
 

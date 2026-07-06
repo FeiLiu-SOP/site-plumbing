@@ -12,17 +12,20 @@ lng: -118.0600
 zipSample: ["91780"]
 zipCodes: ["91780"]
 localPaths: ["Los Angeles County / elevation 387 ft band", "Los Angeles County / ZIP 91780 sector", "Los Angeles County / coords 34.1000, -118.0600", "Los Angeles County / primary ZIP 91780"]
-zillowHomeValueUsd: 1105320
 ---
 
-**Engineering Notice for Temple City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Temple City:** Supply line, cleanout, and water heater scope recorded at 387 ft elevation context (Los Angeles County).
 
+
+Burst pipe and drain clog calls in Temple City, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Temple City, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 FAQ: When should sump battery backups be load-tested? In Temple City, CA, before spring thaw and hurricane remnants.
 
-Dispatch packets reference county grid Los Angeles County near ZIP 91780.
+Our Temple City, CA service packets reference Los Angeles County near ZIP 91780 for pipe and leak scope.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -44,7 +47,7 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 
 Pressure trace 338901: meter-pit clearance and dielectric union checklist staged for Temple City, CA near elevation 387 ft.
 
-Scope trace: dielectric union checklist plus sewer cleanout cap thread referenced in Los Angeles County county grid review.
+Scope trace: dielectric union checklist plus sewer cleanout cap thread referenced in Los Angeles County drain and water line review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~387 ft across the Los Angeles County area. Coordinates: 34.1000, -118.0600. ZIP sample: 91780. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 91780.
 

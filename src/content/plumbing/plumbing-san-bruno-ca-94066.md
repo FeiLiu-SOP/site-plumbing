@@ -12,17 +12,20 @@ lng: -122.4300
 zipSample: ["94066"]
 zipCodes: ["94066"]
 localPaths: ["San Mateo County / coords 37.6300, -122.4300", "San Mateo County / primary ZIP 94066", "San Mateo County / elevation 331 ft band", "San Mateo County / ZIP 94066 sector"]
-zillowHomeValueUsd: 1329657
 ---
 
-**Engineering Notice for San Bruno:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for San Bruno:** Emergency leak and drain triage uses ~115 mg/L hardness context with San Mateo County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in San Bruno, CA, San Mateo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in San Bruno, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in San Mateo County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Irrigation cross-connections in San Bruno, CA can back-siphon domestic lines during main breaks.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch packets reference county grid San Mateo County near ZIP 94066.
+Our San Bruno, CA service packets reference San Mateo County near ZIP 94066 for pipe and leak scope.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -46,7 +49,7 @@ Lineage note 932397: recirculation pump amp draw captured before San Bruno, CA b
 
 Pressure trace 932397: meter-pit clearance and dielectric union checklist staged for San Bruno, CA near elevation 331 ft.
 
-Scope trace: water softener bypass lever plus hose bib freeze flag referenced in San Mateo County county grid review.
+Scope trace: water softener bypass lever plus hose bib freeze flag referenced in San Mateo County drain and water line review.
 
 On-site sector marker: San Mateo County / primary ZIP 94066 — logged for map parity and ZIP-corridor verification.
 

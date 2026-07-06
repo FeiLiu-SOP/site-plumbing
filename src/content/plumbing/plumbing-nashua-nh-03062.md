@@ -12,11 +12,14 @@ lng: -71.4900
 zipSample: ["03064", "03062", "03060", "03061", "03063"]
 zipCodes: ["03060", "03063", "03064", "03061", "03062"]
 localPaths: ["Hillsborough County / primary ZIP 03062", "Hillsborough County / ZIP 03060 sector", "Hillsborough County / ZIP 03061 sector", "Hillsborough County / ZIP 03063 sector", "Hillsborough County / coords 42.7500, -71.4900"]
-zillowHomeValueUsd: 542687
 ---
 
-**Engineering Notice for Nashua:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Nashua:** Emergency leak and drain triage uses ~171 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Nashua, NH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Nashua, NH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -32,7 +35,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Cast-iron hub corrosion in Nashua, NH often concentrates at the third joint upstream of the cleanout.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -47,8 +50,6 @@ Expansion tank pre-charge loss in Nashua, NH often tracks heater replacement def
 Lineage note 396473: recirculation pump amp draw captured before Nashua, NH branch isolation.
 
 Fixture roster 396473: toilet flange spacer kit and shower cartridge seat score queued for Nashua, NH walk-through.
-
-plumbing brief: dielectric union checklist and PRV outlet curve were cross-checked for the Nashua intake packet.
 
 On-site sector marker: Hillsborough County / ZIP 03064 sector — logged for map parity and ZIP-corridor verification.
 

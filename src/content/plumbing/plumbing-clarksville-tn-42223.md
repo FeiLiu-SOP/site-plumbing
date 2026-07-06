@@ -12,11 +12,14 @@ lng: -87.3400
 zipSample: ["37043", "37044", "37042", "37040", "42223"]
 zipCodes: ["37041", "37040", "37043", "42223", "37042", "37044"]
 localPaths: ["Montgomery County / coords 36.5700, -87.3400", "Montgomery County / ZIP 37042 sector", "Montgomery County / ZIP 37040 sector", "Montgomery County / ZIP 37043 sector", "Montgomery County / ZIP 37044 sector"]
-zillowHomeValueUsd: 292156
 ---
 
-**Engineering Notice for Clarksville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Clarksville:** Supply line, cleanout, and water heater scope recorded at 495 ft elevation context (Montgomery County).
 
+
+Licensed plumbing crews serving Clarksville, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Clarksville, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Montgomery County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -36,7 +39,7 @@ Material note: Water heater anode type may change with Clarksville, TN hardness 
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Clarksville, TN require pit dimensions verified against utility locate marks.
 

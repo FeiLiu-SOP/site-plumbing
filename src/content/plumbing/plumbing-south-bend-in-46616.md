@@ -12,11 +12,14 @@ lng: -86.2700
 zipSample: ["46635", "46614", "46619", "46699", "46615"]
 zipCodes: ["46614", "46613", "46634", "46619", "46617", "46616", "46626", "46699", "46635", "46660", "46601", "46615"]
 localPaths: ["St. Joseph County / ZIP 46615 sector", "St. Joseph County / ZIP 46614 sector", "St. Joseph County / ZIP 46635 sector", "St. Joseph County / ZIP 46619 sector", "St. Joseph County / ZIP 46699 sector"]
-zillowHomeValueUsd: 144106
 ---
 
-**Engineering Notice for South Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for South Bend:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Joseph County.
 
+
+Plumbing remediation in South Bend, IN, St. Joseph County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in South Bend, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in St. Joseph County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 46616.
 
@@ -45,8 +48,6 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Flow dossier 375628: branch wet-vent geometry and jetting nozzle envelope logged for South Bend, IN county grid St. Joseph County (ZIP 46616).
 
 Pressure trace 375628: meter-pit clearance and dielectric union checklist staged for South Bend, IN near elevation 719 ft.
-
-Scope trace: scale coupon sampling plus branch wet vent geometry referenced in St. Joseph County county grid review.
 
 Primary postal anchor 46616 with multi-ZIP overlap in South Bend; field packets tag St. Joseph County for county-grid reconciliation.
 

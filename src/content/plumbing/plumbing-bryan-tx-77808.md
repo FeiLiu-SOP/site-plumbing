@@ -12,11 +12,14 @@ lng: -96.3800
 zipSample: ["77802", "77803", "77806", "77807", "77808"]
 zipCodes: ["77808", "77803", "77806", "77807", "77801", "77805", "77802"]
 localPaths: ["Brazos County / ZIP 77803 sector", "Brazos County / elevation 358 ft band", "Brazos County / coords 30.6600, -96.3800", "Brazos County / primary ZIP 77808", "Brazos County / ZIP 77807 sector"]
-zillowHomeValueUsd: 426185
 ---
 
-**Engineering Notice for Bryan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazos County.
+**Engineering Notice for Bryan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Brazos County.
 
+
+Burst pipe and drain clog calls in Bryan, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brazos County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Bryan, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Brazos County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -24,7 +27,7 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Trenchless sleeve pulls near Bryan, TX require pit shoring notes when water tables are high.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -48,7 +51,7 @@ Drain map 405058: camera-pass priority and expansion-tank pre-charge noted for B
 
 Fixture roster 405058: toilet flange spacer kit and shower cartridge seat score queued for Bryan, TX walk-through.
 
-Scope trace: thermal expansion loop check plus recirculation pump amp draw referenced in Brazos County county grid review.
+Scope trace: thermal expansion loop check plus recirculation pump amp draw referenced in Brazos County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 30.6600, -96.3800 at elevation ~358 ft aligns with Brazos County intake staging.
 

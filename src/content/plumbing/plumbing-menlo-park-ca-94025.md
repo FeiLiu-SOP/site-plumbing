@@ -12,11 +12,14 @@ lng: -122.1700
 zipSample: ["94026", "94025"]
 zipCodes: ["94025", "94026"]
 localPaths: ["San Mateo County / ZIP 94026 sector", "San Mateo County / coords 37.4700, -122.1700", "San Mateo County / ZIP 94025 sector", "San Mateo County / primary ZIP 94025", "San Mateo County / elevation 49 ft band"]
-zillowHomeValueUsd: 2889227
 ---
 
-**Engineering Notice for Menlo Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Menlo Park:** Supply line, cleanout, and water heater scope recorded at 49 ft elevation context (San Mateo County).
 
+
+When a main line backs up in Menlo Park, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Menlo Park, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Mateo County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,8 +50,6 @@ Recirculation pump failures in Menlo Park, CA can mimic fixture-specific clogs.
 Drain map 577957: camera-pass priority and expansion-tank pre-charge noted for Menlo Park, CA postal sector 94025.
 
 Lineage note 577957: recirculation pump amp draw captured before Menlo Park, CA branch isolation.
-
-Scope trace: cleanout riser height plus toilet flange spacer kit referenced in San Mateo County county grid review.
 
 On-site sector marker: San Mateo County / coords 37.4700, -122.1700 — logged for map parity and ZIP-corridor verification.
 

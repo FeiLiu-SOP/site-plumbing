@@ -12,11 +12,14 @@ lng: -95.0600
 zipSample: ["56201"]
 zipCodes: ["56201"]
 localPaths: ["Kandiyohi County / coords 45.1200, -95.0600", "Kandiyohi County / primary ZIP 56201", "Kandiyohi County / elevation 1122 ft band", "Kandiyohi County / ZIP 56201 sector"]
-zillowHomeValueUsd: 236391
 ---
 
-**Engineering Notice for Willmar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kandiyohi County.
+**Engineering Notice for Willmar:** Supply line, cleanout, and water heater scope recorded at 1122 ft elevation context (Kandiyohi County).
 
+
+Certified plumbing crews serving Willmar, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Willmar, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -28,7 +31,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-We coordinate Willmar, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Willmar, MN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Stack vent offsets in Willmar, MN older duplexes can mask tub gurgle as a main-line failure.
 
@@ -47,8 +50,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Drain map 211177: camera-pass priority and expansion-tank pre-charge noted for Willmar, MN postal sector 56201.
 
 Intake ledger 211177: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Willmar, MN at 45.1200, -95.0600.
-
-plumbing brief: floor drain trap primer drip and backflow test cock orientation were cross-checked for the Willmar intake packet.
 
 Coordinate-anchored dispatch note: center reference 45.1200, -95.0600 at elevation ~1122 ft aligns with Kandiyohi County intake staging.
 

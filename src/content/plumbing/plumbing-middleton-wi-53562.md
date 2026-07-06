@@ -12,11 +12,14 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / primary ZIP 53562", "Dane County / coords 43.1100, -89.5100", "Dane County / ZIP 53562 sector", "Dane County / elevation 935 ft band"]
-zillowHomeValueUsd: 618463
 ---
 
-**Engineering Notice for Middleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
+**Engineering Notice for Middleton:** Supply line, cleanout, and water heater scope recorded at 935 ft elevation context (Dane County).
 
+
+Plumbing remediation in Middleton, WI, Dane County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Middleton, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -38,7 +41,7 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Cast-iron hub corrosion in Middleton, WI often concentrates at the third joint upstream of the cleanout.
 
-We coordinate Middleton, WI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Middleton, WI plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -50,7 +53,7 @@ Supply audit 801764: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Drain map 801764: camera-pass priority and expansion-tank pre-charge noted for Middleton, WI postal sector 53562.
 
-Field routing: dielectric union checklist paired with shower cartridge seat score near ZIP 53562.
+Local service note: dielectric union checklist paired with shower cartridge seat score near ZIP 53562 for emergency licensed plumber repairs.
 
 On-site sector marker: Dane County / elevation 935 ft band — logged for map parity and ZIP-corridor verification.
 

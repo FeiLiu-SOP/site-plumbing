@@ -12,11 +12,14 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / elevation 1070 ft band", "San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / ZIP 92316 sector"]
-zillowHomeValueUsd: 564827
 ---
 
-**Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Bloomington:** Supply line, cleanout, and water heater scope recorded at 1070 ft elevation context (San Bernardino County).
 
+
+Plumbing restoration in Bloomington, CA, San Bernardino County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Bloomington, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -28,7 +31,7 @@ Fixture shutoff stiffness in Bloomington, CA may indicate mineral bridging behin
 
 Frost-free sillcock failures in Bloomington, CA often trace to interior shutoff seats, not exterior stems.
 
-Dispatch packets reference county grid San Bernardino County near ZIP 92316.
+Our Bloomington, CA service packets reference San Bernardino County near ZIP 92316 for pipe and leak scope.
 
 Hydro-jetting in Bloomington, CA requires camera confirmation before nozzle pressure is raised.
 

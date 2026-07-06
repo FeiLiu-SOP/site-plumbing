@@ -12,11 +12,14 @@ lng: -83.2400
 zipSample: ["31061", "31034", "31062"]
 zipCodes: ["31061", "31062", "31034"]
 localPaths: ["Baldwin County / coords 33.0900, -83.2400", "Baldwin County / primary ZIP 31062", "Baldwin County / ZIP 31034 sector", "Baldwin County / elevation 364 ft band", "Baldwin County / ZIP 31062 sector"]
-zillowHomeValueUsd: 243564
 ---
 
-**Engineering Notice for Milledgeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Milledgeville:** Emergency leak and drain triage uses ~166 mg/L hardness context with Baldwin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Milledgeville, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baldwin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Milledgeville, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Irrigation cross-connections in Milledgeville, GA can back-siphon domestic lines during main breaks.
 
@@ -44,11 +47,9 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Basement floor drains in Milledgeville, GA should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate Milledgeville, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Milledgeville, GA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Pressure trace 173210: meter-pit clearance and dielectric union checklist staged for Milledgeville, GA near elevation 364 ft.
-
-Scope trace: gas water heater draft hood gap plus sewer cleanout cap thread referenced in Baldwin County county grid review.
 
 On-site sector marker: Baldwin County / ZIP 31062 sector — logged for map parity and ZIP-corridor verification.
 

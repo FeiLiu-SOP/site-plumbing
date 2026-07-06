@@ -12,11 +12,14 @@ lng: -73.6700
 zipSample: ["11561"]
 zipCodes: ["11561"]
 localPaths: ["Nassau County / elevation 13 ft band", "Nassau County / primary ZIP 11561", "Nassau County / coords 40.5900, -73.6700", "Nassau County / ZIP 11561 sector"]
-zillowHomeValueUsd: 820883
 ---
 
-**Engineering Notice for Long Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Long Beach:** Emergency leak and drain triage uses ~147 mg/L hardness context with Nassau County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Long Beach, NY, Nassau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Long Beach, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 11561.
 

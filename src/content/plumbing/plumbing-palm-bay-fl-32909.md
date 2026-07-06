@@ -12,11 +12,14 @@ lng: -80.6600
 zipSample: ["32905", "32910", "32907", "32911", "32976"]
 zipCodes: ["32909", "32911", "32976", "32906", "32905", "32902", "32907", "32908", "32910"]
 localPaths: ["Brevard County / coords 27.9600, -80.6600", "Brevard County / elevation 46 ft band", "Brevard County / ZIP 32911 sector", "Brevard County / primary ZIP 32909", "Brevard County / ZIP 32905 sector"]
-zillowHomeValueUsd: 316809
 ---
 
-**Engineering Notice for Palm Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
+**Engineering Notice for Palm Bay:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Brevard County).
 
+
+Plumbing restoration in Palm Bay, FL, Brevard County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Palm Bay, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Brevard County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Frost-free sillcock failures in Palm Bay, FL often trace to interior shutoff seats, not exterior stems.
 
@@ -47,8 +50,6 @@ Hydrostatic holds in Palm Bay, FL slab circuits run overnight when listening mic
 Fixture roster 191957: toilet flange spacer kit and shower cartridge seat score queued for Palm Bay, FL walk-through.
 
 Drain map 191957: camera-pass priority and expansion-tank pre-charge noted for Palm Bay, FL postal sector 32909.
-
-plumbing brief: scale coupon sampling and sewer cleanout cap thread were cross-checked for the Palm Bay intake packet.
 
 On-site sector marker: Brevard County / ZIP 32902 sector — logged for map parity and ZIP-corridor verification.
 

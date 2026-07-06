@@ -12,11 +12,14 @@ lng: -89.5600
 zipSample: ["63703", "63701"]
 zipCodes: ["63703", "63701"]
 localPaths: ["Cape Girardeau County / coords 37.3100, -89.5600", "Cape Girardeau County / ZIP 63701 sector", "Cape Girardeau County / primary ZIP 63701", "Cape Girardeau County / elevation 358 ft band", "Cape Girardeau County / ZIP 63703 sector"]
-zillowHomeValueUsd: 243563
 ---
 
-**Engineering Notice for Cape Girardeau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cape Girardeau County.
+**Engineering Notice for Cape Girardeau:** Emergency leak and drain triage uses ~166 mg/L hardness context with Cape Girardeau County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Cape Girardeau, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cape Girardeau County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Cape Girardeau, MO, Cape Girardeau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -34,7 +37,7 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 

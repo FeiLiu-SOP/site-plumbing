@@ -12,11 +12,14 @@ lng: -71.8200
 zipSample: ["01420"]
 zipCodes: ["01420"]
 localPaths: ["Worcester County / ZIP 01420 sector", "Worcester County / coords 42.5900, -71.8200", "Worcester County / primary ZIP 01420", "Worcester County / elevation 712 ft band"]
-zillowHomeValueUsd: 396184
 ---
 
-**Engineering Notice for Fitchburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Worcester County.
+**Engineering Notice for Fitchburg:** Emergency leak and drain triage uses ~144 mg/L hardness context with Worcester County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Fitchburg, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Worcester County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Fitchburg, MA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Worcester County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 In Fitchburg, MA, slab leaks often present as warm spots before wall stains appear.
 
@@ -28,7 +31,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: In Fitchburg, MA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -47,8 +50,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Pressure trace 277935: meter-pit clearance and dielectric union checklist staged for Fitchburg, MA near elevation 712 ft.
 
 Intake ledger 277935: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fitchburg, MA at 42.5900, -71.8200.
-
-plumbing brief: floor drain trap primer drip and water softener bypass lever were cross-checked for the Fitchburg intake packet.
 
 On-site sector marker: Worcester County / coords 42.5900, -71.8200 — logged for map parity and ZIP-corridor verification.
 

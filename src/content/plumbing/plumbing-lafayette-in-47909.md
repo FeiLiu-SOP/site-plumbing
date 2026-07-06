@@ -12,11 +12,14 @@ lng: -86.8600
 zipSample: ["47904", "47903", "47909", "47901", "47905"]
 zipCodes: ["47902", "47903", "47905", "47904", "47901", "47909"]
 localPaths: ["Tippecanoe County / ZIP 47901 sector", "Tippecanoe County / primary ZIP 47909", "Tippecanoe County / ZIP 47909 sector", "Tippecanoe County / elevation 669 ft band", "Tippecanoe County / ZIP 47904 sector"]
-zillowHomeValueUsd: 275906
 ---
 
-**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tippecanoe County.
+**Engineering Notice for Lafayette:** Emergency leak and drain triage uses ~121 mg/L hardness context with Tippecanoe County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Lafayette, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Lafayette, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Lafayette, IN, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -38,15 +41,13 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lafayette, IN.
 
-Dispatch packets reference county grid Tippecanoe County near ZIP 47909.
+Our Lafayette, IN service packets reference Tippecanoe County near ZIP 47909 for pipe and leak scope.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 47909.
 
 Step: map sump float travel and check-valve orientation for Lafayette, IN basements.
 
 Flow dossier 130957: branch wet-vent geometry and jetting nozzle envelope logged for Lafayette, IN county grid Tippecanoe County (ZIP 47909).
-
-plumbing brief: branch wet vent geometry and cleanout riser height were cross-checked for the Lafayette intake packet.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~669 ft across the Tippecanoe County area. Coordinates: 40.4000, -86.8600. ZIP sample: 47909, 47904, 47901, 47903, 47905. Logistics priority: Serving residential sectors across Tippecanoe County and north-east ZIP 47909 grid.
 

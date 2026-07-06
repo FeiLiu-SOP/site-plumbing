@@ -12,11 +12,14 @@ lng: -82.4100
 zipSample: ["34292", "34285", "34275"]
 zipCodes: ["34292", "34285", "34275"]
 localPaths: ["Sarasota County / ZIP 34292 sector", "Sarasota County / ZIP 34285 sector", "Sarasota County / elevation 20 ft band", "Sarasota County / primary ZIP 34285", "Sarasota County / coords 27.1200, -82.4100"]
-zillowHomeValueUsd: 373419
 ---
 
-**Engineering Notice for Venice:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.
+**Engineering Notice for Venice:** Supply line, cleanout, and water heater scope recorded at 20 ft elevation context (Sarasota County).
 
+
+Qualified plumbing crews serving Venice, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Venice, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sarasota County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When should sump battery backups be load-tested? In Venice, FL, before spring thaw and hurricane remnants.
 
@@ -32,7 +35,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Polybutylene manifold tags in Venice, FL basements should be photographed before any wall chase opens.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 34285.
 

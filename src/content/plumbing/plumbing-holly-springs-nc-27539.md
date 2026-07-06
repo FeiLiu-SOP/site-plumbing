@@ -12,11 +12,14 @@ lng: -78.8400
 zipSample: ["27540", "27539"]
 zipCodes: ["27540", "27539"]
 localPaths: ["Wake County / coords 35.6500, -78.8400", "Wake County / elevation 420 ft band", "Wake County / primary ZIP 27539", "Wake County / ZIP 27539 sector", "Wake County / ZIP 27540 sector"]
-zillowHomeValueUsd: 604346
 ---
 
-**Engineering Notice for Holly Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Holly Springs:** Emergency leak and drain triage uses ~142 mg/L hardness context with Wake County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Holly Springs, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Holly Springs, NC, Wake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Holly Springs, NC older duplexes can mask tub gurgle as a main-line failure.
 

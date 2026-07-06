@@ -12,11 +12,14 @@ lng: -97.4200
 zipSample: ["68702", "68701"]
 zipCodes: ["68702", "68701"]
 localPaths: ["Madison County / ZIP 68701 sector", "Madison County / elevation 1532 ft band", "Madison County / coords 42.0300, -97.4200", "Madison County / ZIP 68702 sector", "Madison County / primary ZIP 68701"]
-zillowHomeValueUsd: 256072
 ---
 
-**Engineering Notice for Norfolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Norfolk:** Emergency leak and drain triage uses ~113 mg/L hardness context with Madison County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Norfolk, NE review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Norfolk, NE may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Madison County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -43,8 +46,6 @@ Fixture shutoff stiffness in Norfolk, NE may indicate mineral bridging behind st
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Fixture roster 821381: toilet flange spacer kit and shower cartridge seat score queued for Norfolk, NE walk-through.
-
-plumbing brief: fixture shutoff torque log and floor drain trap primer drip were cross-checked for the Norfolk intake packet.
 
 On-site sector marker: Madison County / ZIP 68701 sector — logged for map parity and ZIP-corridor verification.
 

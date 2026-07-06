@@ -12,11 +12,14 @@ lng: -87.3800
 zipSample: ["47804", "47807", "47802", "47803", "47801"]
 zipCodes: ["47809", "47801", "47803", "47808", "47807", "47802", "47804"]
 localPaths: ["Vigo County / primary ZIP 47804", "Vigo County / ZIP 47807 sector", "Vigo County / ZIP 47804 sector", "Vigo County / ZIP 47803 sector", "Vigo County / ZIP 47801 sector"]
-zillowHomeValueUsd: 101378
 ---
 
-**Engineering Notice for Terre Haute:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Vigo County.
+**Engineering Notice for Terre Haute:** Emergency leak and drain triage uses ~152 mg/L hardness context with Vigo County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Terre Haute, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Terre Haute, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -28,7 +31,7 @@ Dual-water-meter setups in Terre Haute, IN irrigation zones need backflow logs b
 
 Risk flag: Seasonal Terre Haute, IN irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch packets reference county grid Vigo County near ZIP 47804.
+Our Terre Haute, IN service packets reference Vigo County near ZIP 47804 for pipe and leak scope.
 
 Trenchless sleeve pulls near Terre Haute, IN require pit shoring notes when water tables are high.
 
@@ -43,6 +46,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Polybutylene manifold tags in Terre Haute, IN basements should be photographed before any wall chase opens.
 
 Fixture roster 373154: toilet flange spacer kit and shower cartridge seat score queued for Terre Haute, IN walk-through.
+
+Scope trace: scale coupon sampling plus slab penetration sleeve seal referenced in Vigo County drain and water line review.
 
 On-site sector marker: Vigo County / ZIP 47801 sector — logged for map parity and ZIP-corridor verification.
 

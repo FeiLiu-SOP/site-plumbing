@@ -12,11 +12,14 @@ lng: -86.5600
 zipSample: ["37086", "37089"]
 zipCodes: ["37089", "37086"]
 localPaths: ["Rutherford County / primary ZIP 37086", "Rutherford County / ZIP 37089 sector", "Rutherford County / ZIP 37086 sector", "Rutherford County / elevation 587 ft band", "Rutherford County / coords 36.0200, -86.5600"]
-zillowHomeValueUsd: 343285
 ---
 
-**Engineering Notice for La Vergne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutherford County.
+**Engineering Notice for La Vergne:** Supply line, cleanout, and water heater scope recorded at 587 ft elevation context (Rutherford County).
 
+
+Burst pipe and drain clog calls in La Vergne, TN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rutherford County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving La Vergne, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -50,7 +53,7 @@ Pressure trace 834203: meter-pit clearance and dielectric union checklist staged
 
 Supply audit 834203: curb-stop orientation and hose-bib freeze flag reviewed for La Vergne, TN at coords 36.0200/-86.5600.
 
-plumbing brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the La Vergne intake packet.
+Plumbing service brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the La Vergne pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 36.0200, -86.5600 at elevation ~587 ft aligns with Rutherford County intake staging.
 

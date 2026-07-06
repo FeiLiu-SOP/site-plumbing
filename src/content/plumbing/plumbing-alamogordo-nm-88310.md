@@ -12,11 +12,14 @@ lng: -105.9600
 zipSample: ["88310"]
 zipCodes: ["88310"]
 localPaths: ["Otero County / coords 32.8800, -105.9600", "Otero County / primary ZIP 88310", "Otero County / ZIP 88310 sector", "Otero County / elevation 4298 ft band"]
-zillowHomeValueUsd: 221470
 ---
 
-**Engineering Notice for Alamogordo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Otero County.
+**Engineering Notice for Alamogordo:** Supply line, cleanout, and water heater scope recorded at 4298 ft elevation context (Otero County).
 
+
+Burst pipe and drain clog calls in Alamogordo, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Otero County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Alamogordo, NM, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Water heater anode type may change with Alamogordo, NM hardness profiles.
 
@@ -47,8 +50,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Supply audit 230793: curb-stop orientation and hose-bib freeze flag reviewed for Alamogordo, NM at coords 32.8800/-105.9600.
 
 Pressure trace 230793: meter-pit clearance and dielectric union checklist staged for Alamogordo, NM near elevation 4298 ft.
-
-Field routing: sewer cleanout cap thread paired with hose bib freeze flag near ZIP 88310.
 
 Regional mesh label Otero County: moisture and logistics baselines are keyed to Alamogordo, NM before niche-specific work begins.
 

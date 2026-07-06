@@ -12,11 +12,14 @@ lng: -80.4100
 zipSample: ["33175", "33183"]
 zipCodes: ["33183", "33175"]
 localPaths: ["Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / coords 25.7100, -80.4100", "Miami-Dade County / ZIP 33183 sector"]
-zillowHomeValueUsd: 622048
 ---
 
-**Engineering Notice for Kendale Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendale Lakes:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Miami-Dade County).
 
+
+Licensed plumbing crews serving Kendale Lakes, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Kendale Lakes, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Galvanized segments in Kendale Lakes, FL may restrict flow long before visible corrosion.
 
@@ -32,7 +35,7 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 33175.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Kendale Lakes, FL require pit dimensions verified against utility locate marks.
 
@@ -45,8 +48,6 @@ Risk flag: In Kendale Lakes, FL, slab leaks can misroute as foundation issues wi
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Fixture roster 855737: toilet flange spacer kit and shower cartridge seat score queued for Kendale Lakes, FL walk-through.
-
-Scope trace: copper pinhole cluster plus gas water heater draft hood gap referenced in Miami-Dade County county grid review.
 
 Coordinate-anchored dispatch note: center reference 25.7100, -80.4100 at elevation ~33 ft aligns with Miami-Dade County intake staging.
 

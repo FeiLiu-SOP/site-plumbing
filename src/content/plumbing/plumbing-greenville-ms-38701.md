@@ -12,11 +12,14 @@ lng: -91.0500
 zipSample: ["38704", "38702", "38701", "38703"]
 zipCodes: ["38702", "38703", "38704", "38701"]
 localPaths: ["Washington County / ZIP 38702 sector", "Washington County / ZIP 38704 sector", "Washington County / coords 33.3800, -91.0500", "Washington County / ZIP 38701 sector", "Washington County / primary ZIP 38701"]
-zillowHomeValueUsd: 65693
 ---
 
-**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Greenville:** Emergency leak and drain triage uses ~138 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Greenville, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Greenville, MS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless sleeve pulls near Greenville, MS require pit shoring notes when water tables are high.
 

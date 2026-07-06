@@ -8,15 +8,18 @@ zipCode: "90401"
 county: "Los Angeles County"
 elevationFt: 135
 lat: 34.0200
-lng: -118.4800
+lng: -118.4500
 zipSample: ["90402", "90406", "90403", "90401", "90409"]
 zipCodes: ["90411", "90410", "90407", "90406", "90401", "90405", "90409", "90402", "90408", "90403", "90404"]
 localPaths: ["Los Angeles County / ZIP 90406 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90401 sector", "Los Angeles County / primary ZIP 90401", "Los Angeles County / ZIP 90403 sector"]
-zillowHomeValueUsd: 1317919
 ---
 
-**Engineering Notice for Santa Monica:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Santa Monica:** Emergency leak and drain triage uses ~111 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Santa Monica, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Santa Monica, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Santa Monica, CA.
 
@@ -44,8 +47,6 @@ Cast-iron hub corrosion in Santa Monica, CA often concentrates at the third join
 
 Flow dossier 647885: branch wet-vent geometry and jetting nozzle envelope logged for Santa Monica, CA county grid Los Angeles County (ZIP 90401).
 
-Field routing: backflow test cock orientation paired with gas water heater draft hood gap near ZIP 90401.
-
-**Regional Infrastructure Brief:** Elevation baseline indicates ~135 ft across the Los Angeles County area. Coordinates: 34.0200, -118.4800. ZIP sample: 90406, 90407, 90405, 90411, 90409. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 90401 grid.
+**Regional Infrastructure Brief:** Elevation baseline indicates ~135 ft across the Los Angeles County area. Coordinates: 34.0200, -118.4500. ZIP sample: 90406, 90407, 90405, 90411, 90409. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 90401 grid.
 
 Service reference: CA-90401-39fe7628

@@ -12,11 +12,14 @@ lng: -112.0400
 zipSample: ["83401", "83402", "83404", "83415"]
 zipCodes: ["83415", "83401", "83402", "83404"]
 localPaths: ["Bonneville County / ZIP 83404 sector", "Bonneville County / elevation 4715 ft band", "Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83401 sector", "Bonneville County / ZIP 83415 sector"]
-zillowHomeValueUsd: 401249
 ---
 
-**Engineering Notice for Idaho Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bonneville County.
+**Engineering Notice for Idaho Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bonneville County.
 
+
+Qualified plumbing crews serving Idaho Falls, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Idaho Falls, ID, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -45,8 +48,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Fixture roster 803063: toilet flange spacer kit and shower cartridge seat score queued for Idaho Falls, ID walk-through.
 
 Drain map 803063: camera-pass priority and expansion-tank pre-charge noted for Idaho Falls, ID postal sector 83401.
-
-Scope trace: slab leak listening window plus hose bib freeze flag referenced in Bonneville County county grid review.
 
 On-site sector marker: Bonneville County / primary ZIP 83401 — logged for map parity and ZIP-corridor verification.
 

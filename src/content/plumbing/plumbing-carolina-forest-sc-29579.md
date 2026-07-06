@@ -12,11 +12,14 @@ lng: -78.9100
 zipSample: ["29579"]
 zipCodes: ["29579"]
 localPaths: ["Horry County / coords 33.7700, -78.9100", "Horry County / elevation 30 ft band", "Horry County / primary ZIP 29579", "Horry County / ZIP 29579 sector"]
-zillowHomeValueUsd: 355003
 ---
 
-**Engineering Notice for Carolina Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.
+**Engineering Notice for Carolina Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Horry County.
 
+
+When a main line backs up in Carolina Forest, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Carolina Forest, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Horry County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Carolina Forest, SC slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 Intake ledger 185119: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Carolina Forest, SC at 33.7700, -78.9100.
 
 Pressure trace 185119: meter-pit clearance and dielectric union checklist staged for Carolina Forest, SC near elevation 30 ft.
-
-Scope trace: slab leak listening window plus meter pit clearance referenced in Horry County county grid review.
 
 Regional mesh label Horry County: moisture and logistics baselines are keyed to Carolina Forest, SC before niche-specific work begins.
 

@@ -12,13 +12,16 @@ lng: -99.4900
 zipSample: ["78040", "78043", "78046", "78042", "78045"]
 zipCodes: ["78042", "78043", "78040", "78045", "78041", "78046"]
 localPaths: ["Webb County / coords 27.5600, -99.4900", "Webb County / ZIP 78043 sector", "Webb County / ZIP 78042 sector", "Webb County / ZIP 78045 sector", "Webb County / primary ZIP 78046"]
-zillowHomeValueUsd: 192609
 ---
 
-**Engineering Notice for Laredo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Webb County.
+**Engineering Notice for Laredo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Webb County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Laredo, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Laredo, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Webb County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,8 +48,6 @@ Step: camera-pass main lines in Laredo, TX before jetting older clay or cast iro
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Fixture roster 688973: toilet flange spacer kit and shower cartridge seat score queued for Laredo, TX walk-through.
-
-Field routing: toilet flange spacer kit paired with recirculation pump amp draw near ZIP 78046.
 
 On-site sector marker: Webb County / primary ZIP 78046 — logged for map parity and ZIP-corridor verification.
 

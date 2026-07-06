@@ -12,13 +12,16 @@ lng: -85.1400
 zipSample: ["46860", "46816", "46854", "46868", "46818"]
 zipCodes: ["46862", "46816", "46853", "46865", "46852", "46801", "46855", "46854", "46808", "46897", "46807", "46850"]
 localPaths: ["Allen County / ZIP 46868 sector", "Allen County / primary ZIP 46835", "Allen County / elevation 761 ft band", "Allen County / ZIP 46860 sector", "Allen County / ZIP 46818 sector"]
-zillowHomeValueUsd: 258376
 ---
 
-**Engineering Notice for Fort Wayne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allen County.
+**Engineering Notice for Fort Wayne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Allen County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing service in Fort Wayne, IN, Allen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Fort Wayne, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -28,7 +31,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Stack vent offsets in Fort Wayne, IN older duplexes can mask tub gurgle as a main-line failure.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sump discharge freeze risk in Fort Wayne, IN should be reviewed before spring thaw cycles.
 

@@ -12,11 +12,14 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / ZIP 97229 sector", "Washington County / primary ZIP 97229", "Washington County / coords 45.5600, -122.8400", "Washington County / elevation 272 ft band"]
-zillowHomeValueUsd: 743098
 ---
 
-**Engineering Notice for Bethany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Bethany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Washington County.
 
+
+Plumbing remediation in Bethany, OR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Bethany, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -38,7 +41,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Permit note: Main water line replacement in Bethany, OR may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hydro-jetting in Bethany, OR requires camera confirmation before nozzle pressure is raised.
 
@@ -47,8 +50,6 @@ Trenchless sleeve pulls near Bethany, OR require pit shoring notes when water ta
 Supply audit 564595: curb-stop orientation and hose-bib freeze flag reviewed for Bethany, OR at coords 45.5600/-122.8400.
 
 Intake ledger 564595: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bethany, OR at 45.5600, -122.8400.
-
-Field routing: PRV outlet curve paired with shower cartridge seat score near ZIP 97229.
 
 On-site sector marker: Washington County / ZIP 97229 sector — logged for map parity and ZIP-corridor verification.
 

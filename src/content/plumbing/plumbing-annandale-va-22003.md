@@ -12,11 +12,14 @@ lng: -77.2000
 zipSample: ["22042", "22003"]
 zipCodes: ["22042", "22003"]
 localPaths: ["Fairfax County / elevation 361 ft band", "Fairfax County / primary ZIP 22003", "Fairfax County / coords 38.8300, -77.2000", "Fairfax County / ZIP 22003 sector", "Fairfax County / ZIP 22042 sector"]
-zillowHomeValueUsd: 763773
 ---
 
-**Engineering Notice for Annandale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Annandale:** Supply line, cleanout, and water heater scope recorded at 361 ft elevation context (Fairfax County).
 
+
+Burst pipe and drain clog calls in Annandale, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Annandale, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Annandale, VA require pit shoring notes when water 
 Lineage note 283243: recirculation pump amp draw captured before Annandale, VA branch isolation.
 
 Intake ledger 283243: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Annandale, VA at 38.8300, -77.2000.
+
+Scope trace: branch wet vent geometry plus water heater T&P path referenced in Fairfax County drain and water line review.
 
 On-site sector marker: Fairfax County / primary ZIP 22003 — logged for map parity and ZIP-corridor verification.
 

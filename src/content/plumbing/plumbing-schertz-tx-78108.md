@@ -12,11 +12,14 @@ lng: -98.2500
 zipSample: ["78154", "78132", "78108"]
 zipCodes: ["78108", "78154", "78132"]
 localPaths: ["Bexar County / ZIP 78108 sector", "Bexar County / ZIP 78154 sector", "Bexar County / primary ZIP 78108", "Bexar County / coords 29.5700, -98.2500", "Bexar County / elevation 699 ft band"]
-zillowHomeValueUsd: 330380
 ---
 
-**Engineering Notice for Schertz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
+**Engineering Notice for Schertz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bexar County.
 
+
+When a main line backs up in Schertz, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency plumbing pro service in Schertz, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Bexar County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless sleeve pulls near Schertz, TX require pit shoring notes when water tables are high.
 
@@ -45,8 +48,6 @@ Stack vent offsets in Schertz, TX older duplexes can mask tub gurgle as a main-l
 Branch wet vents in Schertz, TX can mask gurgling as a main-line issue.
 
 Lineage note 642680: recirculation pump amp draw captured before Schertz, TX branch isolation.
-
-Field routing: hose bib freeze flag paired with scale coupon sampling near ZIP 78108.
 
 On-site sector marker: Bexar County / ZIP 78108 sector — logged for map parity and ZIP-corridor verification.
 

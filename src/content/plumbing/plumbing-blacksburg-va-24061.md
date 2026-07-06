@@ -12,11 +12,14 @@ lng: -80.4300
 zipSample: ["24062", "24060", "24063", "24111", "24061"]
 zipCodes: ["24060", "24062", "24063", "24061", "24111"]
 localPaths: ["Montgomery County / primary ZIP 24061", "Montgomery County / ZIP 24062 sector", "Montgomery County / ZIP 24063 sector", "Montgomery County / coords 37.2300, -80.4300", "Montgomery County / elevation 2041 ft band"]
-zillowHomeValueUsd: 425922
 ---
 
-**Engineering Notice for Blacksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Blacksburg:** Emergency leak and drain triage uses ~167 mg/L hardness context with Montgomery County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Blacksburg, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Blacksburg, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Basement floor drains in Blacksburg, VA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -45,6 +48,8 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Lineage note 605062: recirculation pump amp draw captured before Blacksburg, VA branch isolation.
 
 Drain map 605062: camera-pass priority and expansion-tank pre-charge noted for Blacksburg, VA postal sector 24061.
+
+Scope trace: copper pinhole cluster plus PRV outlet curve referenced in Montgomery County drain and water line review.
 
 On-site sector marker: Montgomery County / ZIP 24062 sector — logged for map parity and ZIP-corridor verification.
 

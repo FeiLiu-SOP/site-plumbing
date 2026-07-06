@@ -12,11 +12,14 @@ lng: -82.4300
 zipSample: ["25777", "25712", "25718", "25710", "25778"]
 zipCodes: ["25717", "25710", "25709", "25724", "25773", "25711", "25714", "25729", "25778", "25755", "25703", "25718"]
 localPaths: ["Cabell County / primary ZIP 25703", "Cabell County / ZIP 25778 sector", "Cabell County / ZIP 25718 sector", "Cabell County / ZIP 25712 sector", "Cabell County / ZIP 25710 sector"]
-zillowHomeValueUsd: 69327
 ---
 
-**Engineering Notice for Huntington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabell County.
+**Engineering Notice for Huntington:** Emergency leak and drain triage uses ~111 mg/L hardness context with Cabell County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Huntington, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cabell County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Huntington, WV, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Expansion tank pre-charge loss in Huntington, WV often tracks heater replacement deferrals.
 
@@ -45,8 +48,6 @@ Tip: Log sump cycle frequency during heavy rain windows.
 Trenchless pulls in Huntington, WV require pit dimensions verified against utility locate marks.
 
 Pressure trace 121542: meter-pit clearance and dielectric union checklist staged for Huntington, WV near elevation 571 ft.
-
-Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in Cabell County county grid review.
 
 Regional mesh label Cabell County: moisture and logistics baselines are keyed to Huntington, WV before niche-specific work begins.
 

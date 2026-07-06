@@ -12,11 +12,14 @@ lng: -78.6400
 zipSample: ["27628", "27602", "27613", "27614", "27697"]
 zipCodes: ["27607", "27676", "27604", "27628", "27602", "27698", "27603", "27675", "27624", "27668", "27609", "27650"]
 localPaths: ["Wake County / ZIP 27602 sector", "Wake County / elevation 344 ft band", "Wake County / ZIP 27613 sector", "Wake County / ZIP 27697 sector", "Wake County / primary ZIP 27617"]
-zillowHomeValueUsd: 443664
 ---
 
-**Engineering Notice for Raleigh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Raleigh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wake County.
 
+
+Certified plumbing crews serving Raleigh, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Raleigh, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Wake County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -47,6 +50,8 @@ Step: camera-pass main lines in Raleigh, NC before jetting older clay or cast ir
 Tip: Log sump cycle frequency during heavy rain windows.
 
 Drain map 448129: camera-pass priority and expansion-tank pre-charge noted for Raleigh, NC postal sector 27617.
+
+Local service note: floor drain trap primer drip paired with slab leak listening window near ZIP 27617 for emergency certified plumber repairs.
 
 On-site sector marker: Wake County / ZIP 27605 sector — logged for map parity and ZIP-corridor verification.
 

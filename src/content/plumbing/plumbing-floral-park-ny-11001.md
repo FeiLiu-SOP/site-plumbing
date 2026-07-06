@@ -12,11 +12,14 @@ lng: -73.7000
 zipSample: ["11001", "11002"]
 zipCodes: ["11002", "11001"]
 localPaths: ["Nassau County / primary ZIP 11001", "Nassau County / coords 40.7200, -73.7000", "Nassau County / ZIP 11001 sector", "Nassau County / ZIP 11002 sector", "Nassau County / elevation 92 ft band"]
-zillowHomeValueUsd: 850851
 ---
 
-**Engineering Notice for Floral Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Floral Park:** Emergency leak and drain triage uses ~123 mg/L hardness context with Nassau County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Floral Park, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Floral Park, NY, Nassau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -34,7 +37,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,8 +50,6 @@ Frost-free sillcock failures in Floral Park, NY often trace to interior shutoff 
 Trenchless sleeve pulls near Floral Park, NY require pit shoring notes when water tables are high.
 
 Intake ledger 965042: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Floral Park, NY at 40.7200, -73.7000.
-
-plumbing brief: PRV outlet curve and branch wet vent geometry were cross-checked for the Floral Park intake packet.
 
 On-site sector marker: Nassau County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 

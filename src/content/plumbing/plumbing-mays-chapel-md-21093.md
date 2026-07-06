@@ -12,11 +12,14 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / ZIP 21093 sector", "Baltimore County / elevation 499 ft band", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / primary ZIP 21093"]
-zillowHomeValueUsd: 506354
 ---
 
-**Engineering Notice for Mays Chapel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Mays Chapel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Baltimore County.
 
+
+Certified plumbing crews serving Mays Chapel, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Mays Chapel, MD, Baltimore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Mays Chapel, MD slab circuits run overnight when listening mics show ambiguous hits.
 

@@ -12,11 +12,14 @@ lng: -118.3200
 zipSample: ["90717"]
 zipCodes: ["90717"]
 localPaths: ["Los Angeles County / elevation 102 ft band", "Los Angeles County / primary ZIP 90717", "Los Angeles County / ZIP 90717 sector", "Los Angeles County / coords 33.7900, -118.3200"]
-zillowHomeValueUsd: 920935
 ---
 
-**Engineering Notice for Lomita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lomita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Certified plumbing crews serving Lomita, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lomita, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 90717.
 
@@ -38,7 +41,7 @@ Sewer gas odors in Lomita, CA should trigger trap seal and vent path review.
 
 Branch wet vents in Lomita, CA can mask gurgling as a main-line issue.
 
-We coordinate Lomita, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Lomita, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 CPVC solvent weld times shift with ambient humidity during Lomita, CA shoulder seasons.
 
@@ -46,7 +49,7 @@ Supply audit 547861: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 547861: toilet flange spacer kit and shower cartridge seat score queued for Lomita, CA walk-through.
 
-Field routing: slab leak listening window paired with floor drain trap primer drip near ZIP 90717.
+Local service note: slab leak listening window paired with floor drain trap primer drip near ZIP 90717 for emergency plumbing pro repairs.
 
 Primary postal anchor 90717 with multi-ZIP overlap in Lomita; field packets tag Los Angeles County for county-grid reconciliation.
 

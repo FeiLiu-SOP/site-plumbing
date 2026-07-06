@@ -12,11 +12,14 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / coords 42.9300, -112.4600", "Bannock County / ZIP 83202 sector", "Bannock County / primary ZIP 83202", "Bannock County / elevation 4472 ft band"]
-zillowHomeValueUsd: 391616
 ---
 
-**Engineering Notice for Chubbuck:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bannock County.
+**Engineering Notice for Chubbuck:** Supply line, cleanout, and water heater scope recorded at 4472 ft elevation context (Bannock County).
 
+
+When a main line backs up in Chubbuck, ID, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing restoration in Chubbuck, ID, Bannock County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -42,7 +45,7 @@ Polybutylene manifold tags in Chubbuck, ID basements should be photographed befo
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch packets reference county grid Bannock County near ZIP 83202.
+Our Chubbuck, ID service packets reference Bannock County near ZIP 83202 for pipe and leak scope.
 
 Supply audit 450949: curb-stop orientation and hose-bib freeze flag reviewed for Chubbuck, ID at coords 42.9300/-112.4600.
 

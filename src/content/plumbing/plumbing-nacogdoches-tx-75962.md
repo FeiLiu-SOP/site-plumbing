@@ -12,11 +12,14 @@ lng: -94.6500
 zipSample: ["75962", "75961", "75964", "75963", "75965"]
 zipCodes: ["75965", "75964", "75962", "75963", "75961"]
 localPaths: ["Nacogdoches County / ZIP 75965 sector", "Nacogdoches County / elevation 338 ft band", "Nacogdoches County / ZIP 75961 sector", "Nacogdoches County / ZIP 75962 sector", "Nacogdoches County / ZIP 75964 sector"]
-zillowHomeValueUsd: 187098
 ---
 
-**Engineering Notice for Nacogdoches:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nacogdoches County.
+**Engineering Notice for Nacogdoches:** Emergency leak and drain triage uses ~119 mg/L hardness context with Nacogdoches County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Nacogdoches, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Nacogdoches, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nacogdoches County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -26,7 +29,7 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We coordinate Nacogdoches, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Nacogdoches, TX plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -47,8 +50,6 @@ Permit note: Main water line replacement in Nacogdoches, TX may require ROW rest
 Intake ledger 322270: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Nacogdoches, TX at 31.6100, -94.6500.
 
 Pressure trace 322270: meter-pit clearance and dielectric union checklist staged for Nacogdoches, TX near elevation 338 ft.
-
-Field routing: meter pit clearance paired with PRV outlet curve near ZIP 75962.
 
 Coordinate-anchored dispatch note: center reference 31.6100, -94.6500 at elevation ~338 ft aligns with Nacogdoches County intake staging.
 

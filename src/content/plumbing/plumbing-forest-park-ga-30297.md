@@ -12,11 +12,14 @@ lng: -84.3600
 zipSample: ["30298", "30297", "30294"]
 zipCodes: ["30297", "30294", "30298"]
 localPaths: ["Clayton County / elevation 1004 ft band", "Clayton County / ZIP 30297 sector", "Clayton County / ZIP 30294 sector", "Clayton County / primary ZIP 30297", "Clayton County / ZIP 30298 sector"]
-zillowHomeValueUsd: 164992
 ---
 
-**Engineering Notice for Forest Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clayton County.
+**Engineering Notice for Forest Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Clayton County.
 
+
+Plumbing remediation in Forest Park, GA, Clayton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Forest Park, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clayton County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Forest Park, GA irrigation cross-connections can mask domestic pressure loss.
 
@@ -28,7 +31,7 @@ Risk flag: In Forest Park, GA, slab leaks can misroute as foundation issues with
 
 Frost-free sillcock failures in Forest Park, GA often trace to interior shutoff seats, not exterior stems.
 
-We coordinate Forest Park, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Forest Park, GA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Basement floor drains in Forest Park, GA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -44,11 +47,11 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Irrigation cross-connections in Forest Park, GA can back-siphon domestic lines during main breaks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Pressure trace 860299: meter-pit clearance and dielectric union checklist staged for Forest Park, GA near elevation 1004 ft.
 
-Scope trace: dielectric union checklist plus PRV outlet curve referenced in Clayton County county grid review.
+Scope trace: dielectric union checklist plus PRV outlet curve referenced in Clayton County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 33.6200, -84.3600 at elevation ~1004 ft aligns with Clayton County intake staging.
 

@@ -12,11 +12,14 @@ lng: -84.3100
 zipSample: ["30009", "30004"]
 zipCodes: ["30009", "30004"]
 localPaths: ["Fulton County / ZIP 30009 sector", "Fulton County / coords 34.1400, -84.3100", "Fulton County / ZIP 30004 sector", "Fulton County / elevation 978 ft band", "Fulton County / primary ZIP 30004"]
-zillowHomeValueUsd: 761003
 ---
 
-**Engineering Notice for Milton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Milton:** Supply line, cleanout, and water heater scope recorded at 978 ft elevation context (Fulton County).
 
+
+Certified plumbing crews serving Milton, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Milton, GA, Fulton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -26,7 +29,7 @@ Recirculation pump failures in Milton, GA can mimic fixture-specific clogs.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,6 +48,8 @@ Basement floor drains in Milton, GA should be snaked only after trap arm geometr
 Confirm cleanout locations during the same visit. Serving ZIP Code: 30004.
 
 Fixture roster 875055: toilet flange spacer kit and shower cartridge seat score queued for Milton, GA walk-through.
+
+Scope trace: fixture shutoff torque log plus scale coupon sampling referenced in Fulton County drain and water line review.
 
 On-site sector marker: Fulton County / elevation 978 ft band — logged for map parity and ZIP-corridor verification.
 

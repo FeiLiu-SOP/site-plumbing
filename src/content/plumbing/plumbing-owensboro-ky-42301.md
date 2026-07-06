@@ -12,11 +12,14 @@ lng: -87.1200
 zipSample: ["42301", "42304", "42303"]
 zipCodes: ["42303", "42304", "42301"]
 localPaths: ["Daviess County / elevation 433 ft band", "Daviess County / ZIP 42301 sector", "Daviess County / primary ZIP 42301", "Daviess County / coords 37.7600, -87.1200", "Daviess County / ZIP 42304 sector"]
-zillowHomeValueUsd: 205719
 ---
 
-**Engineering Notice for Owensboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Daviess County.
+**Engineering Notice for Owensboro:** Emergency leak and drain triage uses ~162 mg/L hardness context with Daviess County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Owensboro, KY, Daviess County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Owensboro, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -50,7 +53,7 @@ Fixture roster 574584: toilet flange spacer kit and shower cartridge seat score 
 
 Flow dossier 574584: branch wet-vent geometry and jetting nozzle envelope logged for Owensboro, KY county grid Daviess County (ZIP 42301).
 
-plumbing brief: sewer cleanout cap thread and recirculation pump amp draw were cross-checked for the Owensboro intake packet.
+Plumbing remediation brief: sewer cleanout cap thread and recirculation pump amp draw were cross-checked for the Owensboro pipe and leak scope.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Daviess County and primary ZIP 42301. Terrain reference: 433 ft. Center point: 37.7600, -87.1200. ZIP sample: 42303, 42304, 42301. Service perimeter note: Coverage extends through Daviess County with dispatch centered near ZIP 42301.
 

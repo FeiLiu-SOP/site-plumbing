@@ -12,11 +12,14 @@ lng: -122.9100
 zipSample: ["97502"]
 zipCodes: ["97502"]
 localPaths: ["Jackson County / coords 42.3800, -122.9100", "Jackson County / ZIP 97502 sector", "Jackson County / elevation 1270 ft band", "Jackson County / primary ZIP 97502"]
-zillowHomeValueUsd: 420168
 ---
 
-**Engineering Notice for Central Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Central Point:** Emergency leak and drain triage uses ~110 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Central Point, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jackson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Central Point, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Branch wet vents in Central Point, OR can mask gurgling as a main-line issue.
 
@@ -44,7 +47,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Central Point,
 
 Flow dossier 706395: branch wet-vent geometry and jetting nozzle envelope logged for Central Point, OR county grid Jackson County (ZIP 97502).
 
-plumbing brief: slab penetration sleeve seal and copper pinhole cluster were cross-checked for the Central Point intake packet.
+Plumbing restoration brief: slab penetration sleeve seal and copper pinhole cluster were cross-checked for the Central Point pipe and leak scope.
 
 On-site sector marker: Jackson County / primary ZIP 97502 — logged for map parity and ZIP-corridor verification.
 

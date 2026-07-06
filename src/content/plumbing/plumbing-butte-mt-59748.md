@@ -12,11 +12,14 @@ lng: -112.6600
 zipSample: ["59748", "59702", "59707", "59711", "59701"]
 zipCodes: ["59707", "59703", "59748", "59727", "59701", "59711", "59750", "59702"]
 localPaths: ["Silver Bow County / ZIP 59702 sector", "Silver Bow County / ZIP 59701 sector", "Silver Bow County / primary ZIP 59748", "Silver Bow County / elevation 5810 ft band", "Silver Bow County / coords 45.9000, -112.6600"]
-zillowHomeValueUsd: 276206
 ---
 
-**Engineering Notice for Butte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Silver Bow County.
+**Engineering Notice for Butte:** Supply line, cleanout, and water heater scope recorded at 5810 ft elevation context (Silver Bow County).
 
+
+Burst pipe and drain clog calls in Butte, MT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Silver Bow County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Butte, MT, Silver Bow County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Butte, MT.
 
@@ -34,15 +37,17 @@ Expansion tank pre-charge loss in Butte, MT often tracks heater replacement defe
 
 Stack vent offsets in Butte, MT older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Dispatch packets reference county grid Silver Bow County near ZIP 59748.
+Our Butte, MT service packets reference Silver Bow County near ZIP 59748 for pipe and leak scope.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Supply audit 548957: curb-stop orientation and hose-bib freeze flag reviewed for Butte, MT at coords 45.9000/-112.6600.
+
+Local service note: jetter nozzle envelope paired with water softener bypass lever near ZIP 59748 for emergency plumbing technician repairs.
 
 On-site sector marker: Silver Bow County / coords 45.9000, -112.6600 — logged for map parity and ZIP-corridor verification.
 

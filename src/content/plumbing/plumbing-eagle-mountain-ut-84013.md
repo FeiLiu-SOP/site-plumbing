@@ -12,11 +12,14 @@ lng: -112.0100
 zipSample: ["84013", "84005"]
 zipCodes: ["84005", "84013"]
 localPaths: ["Utah County / ZIP 84013 sector", "Utah County / ZIP 84005 sector", "Utah County / coords 40.3100, -112.0100", "Utah County / elevation 4885 ft band", "Utah County / primary ZIP 84013"]
-zillowHomeValueUsd: 538909
 ---
 
-**Engineering Notice for Eagle Mountain:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Eagle Mountain:** Emergency leak and drain triage uses ~163 mg/L hardness context with Utah County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Eagle Mountain, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Eagle Mountain, UT, Utah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Eagle Mountain, UT systems need rebalancing.
 
@@ -49,6 +52,8 @@ Cast-iron hub corrosion in Eagle Mountain, UT often concentrates at the third jo
 Supply audit 136505: curb-stop orientation and hose-bib freeze flag reviewed for Eagle Mountain, UT at coords 40.3100/-112.0100.
 
 Fixture roster 136505: toilet flange spacer kit and shower cartridge seat score queued for Eagle Mountain, UT walk-through.
+
+Scope trace: gas water heater draft hood gap plus thermal expansion loop check referenced in Utah County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 40.3100, -112.0100 at elevation ~4885 ft aligns with Utah County intake staging.
 

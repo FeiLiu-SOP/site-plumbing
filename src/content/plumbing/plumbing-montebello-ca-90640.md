@@ -12,11 +12,14 @@ lng: -118.1100
 zipSample: ["90640"]
 zipCodes: ["90640"]
 localPaths: ["Los Angeles County / ZIP 90640 sector", "Los Angeles County / coords 34.0200, -118.1100", "Los Angeles County / primary ZIP 90640", "Los Angeles County / elevation 200 ft band"]
-zillowHomeValueUsd: 827421
 ---
 
-**Engineering Notice for Montebello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Montebello:** Emergency leak and drain triage uses ~120 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Montebello, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Montebello, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Irrigation cross-connections in Montebello, CA can back-siphon domestic lines during main breaks.
 
@@ -45,6 +48,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Drain map 283572: camera-pass priority and expansion-tank pre-charge noted for Montebello, CA postal sector 90640.
 
 Supply audit 283572: curb-stop orientation and hose-bib freeze flag reviewed for Montebello, CA at coords 34.0200/-118.1100.
+
+Scope trace: slab leak listening window plus gas water heater draft hood gap referenced in Los Angeles County drain and water line review.
 
 On-site sector marker: Los Angeles County / elevation 200 ft band — logged for map parity and ZIP-corridor verification.
 

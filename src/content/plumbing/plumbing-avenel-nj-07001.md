@@ -12,11 +12,14 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
-zillowHomeValueUsd: 527499
 ---
 
-**Engineering Notice for Avenel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Avenel:** Supply line, cleanout, and water heater scope recorded at 56 ft elevation context (Middlesex County).
 
+
+Emergency plumbing pro service in Avenel, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Middlesex County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Avenel, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Middlesex County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 07001.
 

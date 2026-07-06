@@ -8,15 +8,18 @@ zipCode: "49301"
 county: "Kent County"
 elevationFt: 646
 lat: 42.9600
-lng: -85.4900
+lng: -85.4600
 zipSample: ["49355", "49516", "49357", "49301", "49356"]
 zipCodes: ["49355", "49516", "49356", "49301", "49357", "49546"]
 localPaths: ["Kent County / elevation 646 ft band", "Kent County / ZIP 49301 sector", "Kent County / ZIP 49516 sector", "Kent County / ZIP 49355 sector", "Kent County / primary ZIP 49301"]
-zillowHomeValueUsd: 648970
 ---
 
-**Engineering Notice for Forest Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Forest Hills:** Emergency leak and drain triage uses ~136 mg/L hardness context with Kent County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Forest Hills, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Forest Hills, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Kent County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in Forest Hills, MI may require ROW restoration planning.
 
@@ -42,9 +45,9 @@ Frost-free sillcock failures in Forest Hills, MI often trace to interior shutoff
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-Intake ledger 476774: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Forest Hills, MI at 42.9600, -85.4900.
+Intake ledger 476774: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Forest Hills, MI at 42.9600, -85.4600.
 
 Flow dossier 476774: branch wet-vent geometry and jetting nozzle envelope logged for Forest Hills, MI county grid Kent County (ZIP 49301).
 

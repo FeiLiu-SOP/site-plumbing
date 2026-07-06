@@ -12,17 +12,20 @@ lng: -96.5500
 zipSample: ["75159"]
 zipCodes: ["75159"]
 localPaths: ["Dallas County / ZIP 75159 sector", "Dallas County / elevation 456 ft band", "Dallas County / coords 32.6500, -96.5500", "Dallas County / primary ZIP 75159"]
-zillowHomeValueUsd: 281036
 ---
 
-**Engineering Notice for Seagoville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Seagoville:** Emergency leak and drain triage uses ~129 mg/L hardness context with Dallas County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Seagoville, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Seagoville, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Expansion tank pre-charge loss in Seagoville, TX often tracks heater replacement deferrals.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-We coordinate Seagoville, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Seagoville, TX plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -42,13 +45,13 @@ Fixture shutoff stiffness in Seagoville, TX may indicate mineral bridging behind
 
 Cast-iron hub corrosion in Seagoville, TX often concentrates at the third joint upstream of the cleanout.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 406479: recirculation pump amp draw captured before Seagoville, TX branch isolation.
 
 Fixture roster 406479: toilet flange spacer kit and shower cartridge seat score queued for Seagoville, TX walk-through.
 
-Scope trace: meter pit clearance plus slab leak listening window referenced in Dallas County county grid review.
+Scope trace: meter pit clearance plus slab leak listening window referenced in Dallas County drain and water line review.
 
 On-site sector marker: Dallas County / primary ZIP 75159 — logged for map parity and ZIP-corridor verification.
 

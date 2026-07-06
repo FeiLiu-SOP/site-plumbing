@@ -12,11 +12,14 @@ lng: -81.7900
 zipSample: ["34104", "34106", "34105", "34101", "34102"]
 zipCodes: ["34102", "34101", "34104", "34105", "34103", "34106"]
 localPaths: ["Collier County / ZIP 34105 sector", "Collier County / ZIP 34104 sector", "Collier County / primary ZIP 34103", "Collier County / elevation 20 ft band", "Collier County / ZIP 34102 sector"]
-zillowHomeValueUsd: 1108367
 ---
 
-**Engineering Notice for Naples:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collier County.
+**Engineering Notice for Naples:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Collier County.
 
+
+Burst pipe and drain clog calls in Naples, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Collier County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Naples, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 CPVC solvent weld times shift with ambient humidity during Naples, FL shoulder seasons.
 
@@ -38,15 +41,13 @@ Material note: Water heater anode type may change with Naples, FL hardness profi
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate Naples, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Naples, FL plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 626097: toilet flange spacer kit and shower cartridge seat score queued for Naples, FL walk-through.
 
 Drain map 626097: camera-pass priority and expansion-tank pre-charge noted for Naples, FL postal sector 34103.
-
-Field routing: thermal expansion loop check paired with water heater T&P path near ZIP 34103.
 
 On-site sector marker: Collier County / ZIP 34105 sector — logged for map parity and ZIP-corridor verification.
 

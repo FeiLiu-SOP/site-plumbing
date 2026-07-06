@@ -12,13 +12,16 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / primary ZIP 97603", "Klamath County / elevation 4140 ft band", "Klamath County / ZIP 97603 sector", "Klamath County / coords 42.2000, -121.7200"]
-zillowHomeValueUsd: 325561
 ---
 
-**Engineering Notice for Altamont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Klamath County.
+**Engineering Notice for Altamont:** Supply line, cleanout, and water heater scope recorded at 4140 ft elevation context (Klamath County).
 
 
-We coordinate Altamont, OR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Licensed plumbing crews serving Altamont, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Altamont, OR, Klamath County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+We coordinate Altamont, OR plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

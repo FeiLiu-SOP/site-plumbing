@@ -12,15 +12,18 @@ lng: -73.6400
 zipSample: ["11572"]
 zipCodes: ["11572"]
 localPaths: ["Nassau County / ZIP 11572 sector", "Nassau County / primary ZIP 11572", "Nassau County / elevation 10 ft band", "Nassau County / coords 40.6300, -73.6400"]
-zillowHomeValueUsd: 774711
 ---
 
-**Engineering Notice for Oceanside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Oceanside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Nassau County.
 
+
+Licensed plumbing crews serving Oceanside, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Oceanside, NY, Nassau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Oceanside, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -50,7 +53,7 @@ Fixture roster 562986: toilet flange spacer kit and shower cartridge seat score 
 
 Pressure trace 562986: meter-pit clearance and dielectric union checklist staged for Oceanside, NY near elevation 10 ft.
 
-Field routing: hose bib freeze flag paired with toilet flange spacer kit near ZIP 11572.
+Local service note: hose bib freeze flag paired with toilet flange spacer kit near ZIP 11572 for emergency qualified plumber repairs.
 
 Regional mesh label Nassau County: moisture and logistics baselines are keyed to Oceanside, NY before niche-specific work begins.
 

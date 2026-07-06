@@ -12,11 +12,14 @@ lng: -117.3100
 zipSample: ["92057", "92049", "92052", "92056", "92054"]
 zipCodes: ["92057", "92052", "92056", "92058", "92051", "92054", "92049", "92068"]
 localPaths: ["San Diego County / primary ZIP 92058", "San Diego County / ZIP 92052 sector", "San Diego County / ZIP 92054 sector", "San Diego County / ZIP 92056 sector", "San Diego County / elevation 253 ft band"]
-zillowHomeValueUsd: 780446
 ---
 
-**Engineering Notice for Oceanside:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Oceanside:** Supply line, cleanout, and water heater scope recorded at 253 ft elevation context (San Diego County).
 
+
+Qualified plumbing crews serving Oceanside, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Oceanside, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Diego County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: map sump float travel and check-valve orientation for Oceanside, CA basements.
 
@@ -50,7 +53,7 @@ Flow dossier 622695: branch wet-vent geometry and jetting nozzle envelope logged
 
 Intake ledger 622695: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oceanside, CA at 33.2200, -117.3100.
 
-Field routing: hose bib freeze flag paired with jetter nozzle envelope near ZIP 92058.
+Local service note: hose bib freeze flag paired with jetter nozzle envelope near ZIP 92058 for emergency certified plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 33.2200, -117.3100 at elevation ~253 ft aligns with San Diego County intake staging.
 

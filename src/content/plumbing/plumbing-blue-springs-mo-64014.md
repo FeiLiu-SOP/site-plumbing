@@ -12,11 +12,14 @@ lng: -94.2700
 zipSample: ["64013", "64014", "64015"]
 zipCodes: ["64014", "64015", "64013"]
 localPaths: ["Jackson County / elevation 919 ft band", "Jackson County / primary ZIP 64014", "Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64015 sector", "Jackson County / ZIP 64014 sector"]
-zillowHomeValueUsd: 301769
 ---
 
-**Engineering Notice for Blue Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Blue Springs:** Emergency leak and drain triage uses ~117 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Blue Springs, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jackson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Blue Springs, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Across Blue Springs, MO, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -44,7 +47,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Lineage note 998305: recirculation pump amp draw captured before Blue Springs, MO branch isolation.
 
-Scope trace: branch wet vent geometry plus backflow test cock orientation referenced in Jackson County county grid review.
+Scope trace: branch wet vent geometry plus backflow test cock orientation referenced in Jackson County drain and water line review.
 
 On-site sector marker: Jackson County / coords 39.0100, -94.2700 — logged for map parity and ZIP-corridor verification.
 

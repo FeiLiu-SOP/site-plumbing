@@ -12,11 +12,14 @@ lng: -91.3900
 zipSample: ["63401"]
 zipCodes: ["63401"]
 localPaths: ["Marion County / coords 39.7100, -91.3900", "Marion County / elevation 650 ft band", "Marion County / primary ZIP 63401", "Marion County / ZIP 63401 sector"]
-zillowHomeValueUsd: 173702
 ---
 
-**Engineering Notice for Hannibal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Hannibal:** Emergency leak and drain triage uses ~175 mg/L hardness context with Marion County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Hannibal, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Hannibal, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marion County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

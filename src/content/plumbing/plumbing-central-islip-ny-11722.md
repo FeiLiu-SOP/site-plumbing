@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11722"
 county: "Suffolk County"
 elevationFt: 72
-lat: 40.7800
-lng: -73.1900
+lat: 40.7905
+lng: -73.2200
 zipSample: ["11752", "11722"]
 zipCodes: ["11752", "11722"]
-localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / coords 40.7800, -73.1900", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / elevation 72 ft band"]
-zillowHomeValueUsd: 546553
+localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / coords 40.7905, -73.2200", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / elevation 72 ft band"]
 ---
 
-**Engineering Notice for Central Islip:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Central Islip:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Suffolk County.
 
+
+Burst pipe and drain clog calls in Central Islip, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Suffolk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Central Islip, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -46,9 +49,9 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Drain map 368030: camera-pass priority and expansion-tank pre-charge noted for Central Islip, NY postal sector 11722.
 
-Supply audit 368030: curb-stop orientation and hose-bib freeze flag reviewed for Central Islip, NY at coords 40.7800/-73.1900.
+Supply audit 368030: curb-stop orientation and hose-bib freeze flag reviewed for Central Islip, NY at coords 40.7905/-73.2200.
 
-Scope trace: sewer cleanout cap thread plus hose bib freeze flag referenced in Suffolk County county grid review.
+Scope trace: sewer cleanout cap thread plus hose bib freeze flag referenced in Suffolk County drain and water line review.
 
 On-site sector marker: Suffolk County / elevation 72 ft band — logged for map parity and ZIP-corridor verification.
 

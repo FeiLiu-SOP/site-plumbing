@@ -12,11 +12,14 @@ lng: -88.3400
 zipSample: ["60039", "60014", "60012"]
 zipCodes: ["60014", "60012", "60039"]
 localPaths: ["McHenry County / elevation 902 ft band", "McHenry County / ZIP 60012 sector", "McHenry County / coords 42.2300, -88.3400", "McHenry County / ZIP 60039 sector", "McHenry County / primary ZIP 60014"]
-zillowHomeValueUsd: 359952
 ---
 
-**Engineering Notice for Crystal Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
+**Engineering Notice for Crystal Lake:** Emergency leak and drain triage uses ~177 mg/L hardness context with McHenry County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Crystal Lake, IL, McHenry County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Crystal Lake, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -43,8 +46,6 @@ Material note: Water heater anode type may change with Crystal Lake, IL hardness
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Fixture roster 496402: toilet flange spacer kit and shower cartridge seat score queued for Crystal Lake, IL walk-through.
-
-plumbing brief: backflow test cock orientation and scale coupon sampling were cross-checked for the Crystal Lake intake packet.
 
 Primary postal anchor 60014 with multi-ZIP overlap in Crystal Lake; field packets tag McHenry County for county-grid reconciliation.
 

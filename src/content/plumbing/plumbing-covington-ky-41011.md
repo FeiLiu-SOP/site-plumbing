@@ -12,11 +12,14 @@ lng: -84.5200
 zipSample: ["41017", "41016", "41011", "41014", "41015"]
 zipCodes: ["41014", "41015", "41017", "41011", "41016"]
 localPaths: ["Kenton County / coords 39.0300, -84.5200", "Kenton County / ZIP 41015 sector", "Kenton County / elevation 778 ft band", "Kenton County / primary ZIP 41011", "Kenton County / ZIP 41016 sector"]
-zillowHomeValueUsd: 285340
 ---
 
-**Engineering Notice for Covington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kenton County.
+**Engineering Notice for Covington:** Supply line, cleanout, and water heater scope recorded at 778 ft elevation context (Kenton County).
 
+
+Plumbing restoration in Covington, KY, Kenton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Covington, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kenton County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Covington, KY shoulder seasons.
 

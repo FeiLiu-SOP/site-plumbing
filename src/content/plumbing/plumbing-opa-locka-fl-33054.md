@@ -12,11 +12,14 @@ lng: -80.2600
 zipSample: ["33054"]
 zipCodes: ["33054"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / ZIP 33054 sector", "Miami-Dade County / primary ZIP 33054", "Miami-Dade County / coords 25.9000, -80.2600"]
-zillowHomeValueUsd: 416222
 ---
 
-**Engineering Notice for Opa-locka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Opa-locka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Miami-Dade County.
 
+
+Licensed plumbing crews serving Opa-locka, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Opa-locka, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Miami-Dade County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 33054.
 
@@ -47,8 +50,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Lineage note 902652: recirculation pump amp draw captured before Opa-locka, FL branch isolation.
-
-Field routing: PEX expansion ring batch paired with thermal expansion loop check near ZIP 33054.
 
 On-site sector marker: Miami-Dade County / coords 25.9000, -80.2600 — logged for map parity and ZIP-corridor verification.
 

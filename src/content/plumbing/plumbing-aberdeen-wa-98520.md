@@ -12,11 +12,14 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100", "Grays Harbor County / ZIP 98520 sector", "Grays Harbor County / elevation 7 ft band"]
-zillowHomeValueUsd: 272284
 ---
 
-**Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grays Harbor County.
+**Engineering Notice for Aberdeen:** Supply line, cleanout, and water heater scope recorded at 7 ft elevation context (Grays Harbor County).
 
+
+When a main line backs up in Aberdeen, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Aberdeen, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Grays Harbor County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: camera-pass main lines in Aberdeen, WA before jetting older clay or cast iron.
 
@@ -48,7 +51,7 @@ Flow dossier 372475: branch wet-vent geometry and jetting nozzle envelope logged
 
 Pressure trace 372475: meter-pit clearance and dielectric union checklist staged for Aberdeen, WA near elevation 7 ft.
 
-plumbing brief: slab leak listening window and slab penetration sleeve seal were cross-checked for the Aberdeen intake packet.
+Plumbing remediation brief: slab leak listening window and slab penetration sleeve seal were cross-checked for the Aberdeen pipe and leak scope.
 
 Primary postal anchor 98520 with multi-ZIP overlap in Aberdeen; field packets tag Grays Harbor County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -94.5300
 zipSample: ["64012"]
 zipCodes: ["64012"]
 localPaths: ["Cass County / elevation 1109 ft band", "Cass County / ZIP 64012 sector", "Cass County / coords 38.8200, -94.5300", "Cass County / primary ZIP 64012"]
-zillowHomeValueUsd: 286622
 ---
 
-**Engineering Notice for Belton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cass County.
+**Engineering Notice for Belton:** Emergency leak and drain triage uses ~131 mg/L hardness context with Cass County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Belton, MO, Cass County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Belton, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cass County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Belton, MO shoulder seasons.
 

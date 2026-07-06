@@ -12,11 +12,14 @@ lng: -89.9900
 zipSample: ["38651", "38632"]
 zipCodes: ["38651", "38632"]
 localPaths: ["DeSoto County / ZIP 38632 sector", "DeSoto County / primary ZIP 38632", "DeSoto County / coords 34.8500, -89.9900", "DeSoto County / elevation 318 ft band", "DeSoto County / ZIP 38651 sector"]
-zillowHomeValueUsd: 344882
 ---
 
-**Engineering Notice for Hernando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Hernando:** Emergency leak and drain triage uses ~135 mg/L hardness context with DeSoto County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Hernando, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeSoto County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Hernando, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Cast-iron hub corrosion in Hernando, MS often concentrates at the third joint upstream of the cleanout.
 
@@ -24,7 +27,7 @@ FAQ: When should sump battery backups be load-tested? In Hernando, MS, before sp
 
 Frost-free sillcock failures in Hernando, MS often trace to interior shutoff seats, not exterior stems.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -45,8 +48,6 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 Confirm cleanout locations during the same visit. Serving ZIP Code: 38632.
 
 Supply audit 169943: curb-stop orientation and hose-bib freeze flag reviewed for Hernando, MS at coords 34.8500/-89.9900.
-
-plumbing brief: thermal expansion loop check and copper pinhole cluster were cross-checked for the Hernando intake packet.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~318 ft across the DeSoto County area. Coordinates: 34.8500, -89.9900. ZIP sample: 38632, 38651. Logistics priority: Serving residential sectors across DeSoto County and north-east ZIP 38632 grid.
 

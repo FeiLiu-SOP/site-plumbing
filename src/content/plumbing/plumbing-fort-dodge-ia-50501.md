@@ -12,11 +12,14 @@ lng: -94.1800
 zipSample: ["50501"]
 zipCodes: ["50501"]
 localPaths: ["Webster County / primary ZIP 50501", "Webster County / ZIP 50501 sector", "Webster County / elevation 1115 ft band", "Webster County / coords 42.5100, -94.1800"]
-zillowHomeValueUsd: 128662
 ---
 
-**Engineering Notice for Fort Dodge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Webster County.
+**Engineering Notice for Fort Dodge:** Supply line, cleanout, and water heater scope recorded at 1115 ft elevation context (Webster County).
 
+
+When a main line backs up in Fort Dodge, IA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Fort Dodge, IA, Webster County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hose bib split patterns in Fort Dodge, IA often follow missed winterization.
 
@@ -47,8 +50,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 505
 Supply audit 221137: curb-stop orientation and hose-bib freeze flag reviewed for Fort Dodge, IA at coords 42.5100/-94.1800.
 
 Lineage note 221137: recirculation pump amp draw captured before Fort Dodge, IA branch isolation.
-
-Field routing: copper pinhole cluster paired with cleanout riser height near ZIP 50501.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Webster County. Reference elevation: 1115 ft. Primary coordinates: 42.5100, -94.1800. ZIP sample: 50501. Service perimeter note: Coverage extends through Webster County with dispatch centered near ZIP 50501.
 

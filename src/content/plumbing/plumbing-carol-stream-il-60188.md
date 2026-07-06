@@ -12,11 +12,14 @@ lng: -88.1300
 zipSample: ["60199", "60197", "60116", "60128", "60188"]
 zipCodes: ["60188", "60128", "60116", "60199", "60197"]
 localPaths: ["DuPage County / ZIP 60116 sector", "DuPage County / ZIP 60128 sector", "DuPage County / ZIP 60199 sector", "DuPage County / coords 41.9200, -88.1300", "DuPage County / elevation 755 ft band"]
-zillowHomeValueUsd: 379925
 ---
 
-**Engineering Notice for Carol Stream:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Carol Stream:** Supply line, cleanout, and water heater scope recorded at 755 ft elevation context (DuPage County).
 
+
+Emergency plumbing technician service in Carol Stream, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in DuPage County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Carol Stream, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Carol Stream, IL systems need rebalancing.
 
@@ -40,15 +43,13 @@ Hard water in Carol Stream, IL accelerates scale on PRV seats and heater element
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 60188.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Carol Stream, IL, slab leaks can misroute as foundation issues without listening equipment.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
 Fixture roster 766047: toilet flange spacer kit and shower cartridge seat score queued for Carol Stream, IL walk-through.
-
-plumbing brief: backflow test cock orientation and scale coupon sampling were cross-checked for the Carol Stream intake packet.
 
 On-site sector marker: DuPage County / ZIP 60188 sector — logged for map parity and ZIP-corridor verification.
 

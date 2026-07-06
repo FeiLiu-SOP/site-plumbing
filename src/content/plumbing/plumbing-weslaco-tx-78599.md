@@ -12,11 +12,14 @@ lng: -97.9900
 zipSample: ["78599", "78596"]
 zipCodes: ["78596", "78599"]
 localPaths: ["Hidalgo County / ZIP 78599 sector", "Hidalgo County / elevation 95 ft band", "Hidalgo County / ZIP 78596 sector", "Hidalgo County / coords 26.1600, -97.9900", "Hidalgo County / primary ZIP 78599"]
-zillowHomeValueUsd: 192181
 ---
 
-**Engineering Notice for Weslaco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Weslaco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hidalgo County.
 
+
+Qualified plumbing crews serving Weslaco, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Weslaco, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hidalgo County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

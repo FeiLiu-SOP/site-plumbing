@@ -12,11 +12,14 @@ lng: -122.4400
 zipSample: ["97230", "97233", "97030", "97080"]
 zipCodes: ["97080", "97030", "97230", "97233"]
 localPaths: ["Multnomah County / elevation 381 ft band", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97233 sector", "Multnomah County / ZIP 97030 sector", "Multnomah County / coords 45.5000, -122.4400"]
-zillowHomeValueUsd: 439107
 ---
 
-**Engineering Notice for Gresham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Gresham:** Supply line, cleanout, and water heater scope recorded at 381 ft elevation context (Multnomah County).
 
+
+Plumbing restoration in Gresham, OR, Multnomah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Gresham, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Multnomah County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Sump discharge freeze risk in Gresham, OR should be reviewed before spring thaw cycles.
 
@@ -45,8 +48,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 FAQ: When should sump battery backups be load-tested? In Gresham, OR, before spring thaw and hurricane remnants.
 
 Flow dossier 638038: branch wet-vent geometry and jetting nozzle envelope logged for Gresham, OR county grid Multnomah County (ZIP 97030).
-
-Field routing: scale coupon sampling paired with water heater T&P path near ZIP 97030.
 
 **Regional Infrastructure Brief:** Grid anchor set to Multnomah County. Reference elevation: 381 ft. Primary coordinates: 45.5000, -122.4400. ZIP sample: 97030, 97080, 97233, 97230. Logistics priority: Serving residential sectors across Multnomah County and north-east ZIP 97030 grid.
 

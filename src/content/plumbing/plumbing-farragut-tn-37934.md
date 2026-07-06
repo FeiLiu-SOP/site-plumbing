@@ -12,11 +12,14 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band", "Knox County / primary ZIP 37934", "Knox County / ZIP 37934 sector"]
-zillowHomeValueUsd: 648246
 ---
 
-**Engineering Notice for Farragut:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.
+**Engineering Notice for Farragut:** Supply line, cleanout, and water heater scope recorded at 955 ft elevation context (Knox County).
 
+
+Plumbing restoration in Farragut, TN, Knox County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Farragut, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Fixture shutoff stiffness in Farragut, TN may indicate mineral bridging behind stems.
 
@@ -45,6 +48,8 @@ FAQ: When should sump battery backups be load-tested? In Farragut, TN, before sp
 Flow dossier 216525: branch wet-vent geometry and jetting nozzle envelope logged for Farragut, TN county grid Knox County (ZIP 37934).
 
 Fixture roster 216525: toilet flange spacer kit and shower cartridge seat score queued for Farragut, TN walk-through.
+
+Scope trace: water heater T&P path plus cleanout riser height referenced in Knox County drain and water line review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~955 ft across the Knox County area. Coordinates: 35.8700, -84.1800. ZIP sample: 37934. Logistics priority: Serving residential sectors across Knox County and north-east ZIP 37934 grid.
 

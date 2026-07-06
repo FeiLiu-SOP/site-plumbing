@@ -12,11 +12,14 @@ lng: -81.9000
 zipSample: ["34762", "34789", "34748", "34736", "34749"]
 zipCodes: ["34789", "34762", "34736", "34749", "34748"]
 localPaths: ["Lake County / ZIP 34789 sector", "Lake County / elevation 69 ft band", "Lake County / ZIP 34749 sector", "Lake County / ZIP 34748 sector", "Lake County / coords 28.7700, -81.9000"]
-zillowHomeValueUsd: 276560
 ---
 
-**Engineering Notice for Leesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Leesburg:** Emergency leak and drain triage uses ~124 mg/L hardness context with Lake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Leesburg, FL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Leesburg, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: When should sump battery backups be load-tested? In Leesburg, FL, before spring thaw and hurricane remnants.
 
@@ -43,8 +46,6 @@ Frost-free sillcock failures in Leesburg, FL often trace to interior shutoff sea
 Dual-water-meter setups in Leesburg, FL irrigation zones need backflow logs before line replacement.
 
 Pressure trace 846063: meter-pit clearance and dielectric union checklist staged for Leesburg, FL near elevation 69 ft.
-
-Scope trace: PEX expansion ring batch plus sewer cleanout cap thread referenced in Lake County county grid review.
 
 Coordinate-anchored dispatch note: center reference 28.7700, -81.9000 at elevation ~69 ft aligns with Lake County intake staging.
 

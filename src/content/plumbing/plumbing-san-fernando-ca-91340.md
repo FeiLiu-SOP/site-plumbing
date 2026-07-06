@@ -12,11 +12,14 @@ lng: -118.4400
 zipSample: ["91340", "91341"]
 zipCodes: ["91340", "91341"]
 localPaths: ["Los Angeles County / ZIP 91341 sector", "Los Angeles County / ZIP 91340 sector", "Los Angeles County / primary ZIP 91340", "Los Angeles County / coords 34.2900, -118.4400", "Los Angeles County / elevation 1109 ft band"]
-zillowHomeValueUsd: 738864
 ---
 
-**Engineering Notice for San Fernando:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Fernando:** Supply line, cleanout, and water heater scope recorded at 1109 ft elevation context (Los Angeles County).
 
+
+Plumbing service in San Fernando, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in San Fernando, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Hydrostatic holds in San Fernando, CA slab circuits run overnight when listening mics show ambiguous hits.
 

@@ -12,11 +12,14 @@ lng: -122.6400
 zipSample: ["97068"]
 zipCodes: ["97068"]
 localPaths: ["Clackamas County / elevation 673 ft band", "Clackamas County / coords 45.3700, -122.6400", "Clackamas County / ZIP 97068 sector", "Clackamas County / primary ZIP 97068"]
-zillowHomeValueUsd: 773631
 ---
 
-**Engineering Notice for West Linn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
+**Engineering Notice for West Linn:** Emergency leak and drain triage uses ~132 mg/L hardness context with Clackamas County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in West Linn, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clackamas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving West Linn, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Irrigation cross-connections in West Linn, OR can back-siphon domestic lines during main breaks.
 
@@ -49,6 +52,8 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 970
 Drain map 981298: camera-pass priority and expansion-tank pre-charge noted for West Linn, OR postal sector 97068.
 
 Fixture roster 981298: toilet flange spacer kit and shower cartridge seat score queued for West Linn, OR walk-through.
+
+Scope trace: floor drain trap primer drip plus branch wet vent geometry referenced in Clackamas County drain and water line review.
 
 On-site sector marker: Clackamas County / elevation 673 ft band — logged for map parity and ZIP-corridor verification.
 

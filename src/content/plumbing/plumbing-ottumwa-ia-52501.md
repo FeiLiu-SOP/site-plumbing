@@ -12,11 +12,14 @@ lng: -92.4200
 zipSample: ["52501"]
 zipCodes: ["52501"]
 localPaths: ["Wapello County / ZIP 52501 sector", "Wapello County / elevation 636 ft band", "Wapello County / primary ZIP 52501", "Wapello County / coords 41.0200, -92.4200"]
-zillowHomeValueUsd: 121526
 ---
 
-**Engineering Notice for Ottumwa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wapello County.
+**Engineering Notice for Ottumwa:** Supply line, cleanout, and water heater scope recorded at 636 ft elevation context (Wapello County).
 
+
+Burst pipe and drain clog calls in Ottumwa, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wapello County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Ottumwa, IA, Wapello County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Ottumwa, IA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -48,7 +51,7 @@ Supply audit 554678: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Drain map 554678: camera-pass priority and expansion-tank pre-charge noted for Ottumwa, IA postal sector 52501.
 
-Field routing: backflow test cock orientation paired with copper pinhole cluster near ZIP 52501.
+Local service note: backflow test cock orientation paired with copper pinhole cluster near ZIP 52501 for emergency qualified plumber repairs.
 
 **Regional Infrastructure Brief:** Grid anchor set to Wapello County. Reference elevation: 636 ft. Primary coordinates: 41.0200, -92.4200. ZIP sample: 52501. Regional routing note: Wapello County traffic flow is balanced around ZIP 52501 service demand.
 

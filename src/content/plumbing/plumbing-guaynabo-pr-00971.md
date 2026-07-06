@@ -12,12 +12,14 @@ lng: -66.1100
 zipSample: ["00962", "00966", "00934", "00969", "00965"]
 zipCodes: ["00934", "00971", "00968", "00962", "00966", "00970", "00969", "00965"]
 localPaths: ["Guaynabo County / coords 18.3800, -66.1100", "Guaynabo County / ZIP 00962 sector", "Guaynabo County / primary ZIP 00971", "Guaynabo County / ZIP 00934 sector", "Guaynabo County / ZIP 00969 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 360127
 ---
 
-**Engineering Notice for Guaynabo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guaynabo County.
+**Engineering Notice for Guaynabo:** Supply line, cleanout, and water heater scope recorded at 246 ft elevation context (Guaynabo County).
 
+
+Certified plumbing crews serving Guaynabo, PR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Guaynabo, PR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

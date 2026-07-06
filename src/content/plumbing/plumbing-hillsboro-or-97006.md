@@ -12,11 +12,14 @@ lng: -122.9400
 zipSample: ["97124", "97006", "97123", "97129"]
 zipCodes: ["97123", "97129", "97124", "97006"]
 localPaths: ["Washington County / elevation 167 ft band", "Washington County / ZIP 97006 sector", "Washington County / ZIP 97124 sector", "Washington County / primary ZIP 97006", "Washington County / ZIP 97129 sector"]
-zillowHomeValueUsd: 500879
 ---
 
-**Engineering Notice for Hillsboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Hillsboro:** Emergency leak and drain triage uses ~161 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Hillsboro, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Hillsboro, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Washington County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97006.
 
@@ -26,7 +29,7 @@ Sump discharge freeze risk in Hillsboro, OR should be reviewed before spring tha
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Hillsboro, OR systems need rebalancing.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -49,8 +52,6 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 Supply audit 229994: curb-stop orientation and hose-bib freeze flag reviewed for Hillsboro, OR at coords 45.5300/-122.9400.
 
 Drain map 229994: camera-pass priority and expansion-tank pre-charge noted for Hillsboro, OR postal sector 97006.
-
-Field routing: thermal expansion loop check paired with fixture shutoff torque log near ZIP 97006.
 
 Primary postal anchor 97006 with multi-ZIP overlap in Hillsboro; field packets tag Washington County for county-grid reconciliation.
 

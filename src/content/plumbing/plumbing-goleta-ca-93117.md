@@ -12,11 +12,14 @@ lng: -119.8600
 zipSample: ["93118", "93117"]
 zipCodes: ["93117", "93118"]
 localPaths: ["Santa Barbara County / coords 34.4400, -119.8600", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / primary ZIP 93117", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / ZIP 93118 sector"]
-zillowHomeValueUsd: 1378733
 ---
 
-**Engineering Notice for Goleta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Goleta:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Santa Barbara County).
 
+
+When a main line backs up in Goleta, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in Goleta, CA, Santa Barbara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

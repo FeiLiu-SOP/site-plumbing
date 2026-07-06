@@ -12,11 +12,14 @@ lng: -96.7900
 zipSample: ["57006", "57007"]
 zipCodes: ["57006", "57007"]
 localPaths: ["Brookings County / ZIP 57007 sector", "Brookings County / coords 44.3000, -96.7900", "Brookings County / elevation 1657 ft band", "Brookings County / primary ZIP 57007", "Brookings County / ZIP 57006 sector"]
-zillowHomeValueUsd: 312210
 ---
 
-**Engineering Notice for Brookings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brookings County.
+**Engineering Notice for Brookings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Brookings County.
 
+
+Burst pipe and drain clog calls in Brookings, SD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brookings County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Brookings, SD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -43,8 +46,6 @@ Across Brookings, SD, main-line bellies can trap debris even when fixtures drain
 Tip: Save water heater serial plates for warranty traceability.
 
 Pressure trace 369221: meter-pit clearance and dielectric union checklist staged for Brookings, SD near elevation 1657 ft.
-
-plumbing brief: thermal expansion loop check and backflow test cock orientation were cross-checked for the Brookings intake packet.
 
 On-site sector marker: Brookings County / elevation 1657 ft band — logged for map parity and ZIP-corridor verification.
 

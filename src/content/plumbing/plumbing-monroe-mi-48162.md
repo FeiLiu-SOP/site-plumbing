@@ -12,11 +12,14 @@ lng: -83.3800
 zipSample: ["48161", "48162"]
 zipCodes: ["48162", "48161"]
 localPaths: ["Monroe County / primary ZIP 48162", "Monroe County / ZIP 48161 sector", "Monroe County / coords 41.9200, -83.3800", "Monroe County / ZIP 48162 sector", "Monroe County / elevation 581 ft band"]
-zillowHomeValueUsd: 231464
 ---
 
-**Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monroe County.
+**Engineering Notice for Monroe:** Supply line, cleanout, and water heater scope recorded at 581 ft elevation context (Monroe County).
 
+
+Burst pipe and drain clog calls in Monroe, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Monroe County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Monroe, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Trenchless pulls in Monroe, MI require pit dimensions verified against utility locate marks.
 
@@ -45,6 +48,8 @@ Hydrostatic holds in Monroe, MI slab circuits run overnight when listening mics 
 Pressure trace 518115: meter-pit clearance and dielectric union checklist staged for Monroe, MI near elevation 581 ft.
 
 Supply audit 518115: curb-stop orientation and hose-bib freeze flag reviewed for Monroe, MI at coords 41.9200/-83.3800.
+
+Scope trace: gas water heater draft hood gap plus hose bib freeze flag referenced in Monroe County drain and water line review.
 
 On-site sector marker: Monroe County / ZIP 48161 sector — logged for map parity and ZIP-corridor verification.
 

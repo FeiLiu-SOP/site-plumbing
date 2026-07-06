@@ -12,11 +12,14 @@ lng: -117.0000
 zipSample: ["83844", "83843"]
 zipCodes: ["83843", "83844"]
 localPaths: ["Latah County / ZIP 83843 sector", "Latah County / ZIP 83844 sector", "Latah County / coords 46.7300, -117.0000", "Latah County / elevation 2589 ft band", "Latah County / primary ZIP 83843"]
-zillowHomeValueUsd: 468176
 ---
 
-**Engineering Notice for Moscow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Latah County.
+**Engineering Notice for Moscow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Latah County.
 
+
+Qualified plumbing crews serving Moscow, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Moscow, ID, Latah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Save water heater serial plates for warranty traceability.
 

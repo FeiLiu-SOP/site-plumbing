@@ -12,11 +12,14 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / ZIP 50158 sector", "Marshall County / primary ZIP 50158", "Marshall County / coords 42.0300, -92.9100", "Marshall County / elevation 902 ft band"]
-zillowHomeValueUsd: 174175
 ---
 
-**Engineering Notice for Marshalltown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marshall County.
+**Engineering Notice for Marshalltown:** Emergency leak and drain triage uses ~113 mg/L hardness context with Marshall County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Marshalltown, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Marshalltown, IA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Marshall County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -45,6 +48,8 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Cleanout access limits in Marshalltown, IA frequently extend drain cleaning duration.
 
 Intake ledger 367343: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marshalltown, IA at 42.0300, -92.9100.
+
+Local service note: jetter nozzle envelope paired with toilet flange spacer kit near ZIP 50158 for emergency plumbing technician repairs.
 
 On-site sector marker: Marshall County / coords 42.0300, -92.9100 — logged for map parity and ZIP-corridor verification.
 

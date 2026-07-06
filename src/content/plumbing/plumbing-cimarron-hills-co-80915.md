@@ -12,11 +12,14 @@ lng: -104.7000
 zipSample: ["80915", "80922", "80970"]
 zipCodes: ["80922", "80970", "80915"]
 localPaths: ["El Paso County / elevation 6457 ft band", "El Paso County / primary ZIP 80915", "El Paso County / ZIP 80922 sector", "El Paso County / ZIP 80970 sector", "El Paso County / ZIP 80915 sector"]
-zillowHomeValueUsd: 380807
 ---
 
-**Engineering Notice for Cimarron Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
+**Engineering Notice for Cimarron Hills:** Supply line, cleanout, and water heater scope recorded at 6457 ft elevation context (El Paso County).
 
+
+Burst pipe and drain clog calls in Cimarron Hills, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in El Paso County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Cimarron Hills, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -45,8 +48,6 @@ Expansion tank pre-charge loss in Cimarron Hills, CO often tracks heater replace
 Flow dossier 393377: branch wet-vent geometry and jetting nozzle envelope logged for Cimarron Hills, CO county grid El Paso County (ZIP 80915).
 
 Supply audit 393377: curb-stop orientation and hose-bib freeze flag reviewed for Cimarron Hills, CO at coords 38.8600/-104.7000.
-
-plumbing brief: hose bib freeze flag and PRV outlet curve were cross-checked for the Cimarron Hills intake packet.
 
 On-site sector marker: El Paso County / ZIP 80922 sector — logged for map parity and ZIP-corridor verification.
 

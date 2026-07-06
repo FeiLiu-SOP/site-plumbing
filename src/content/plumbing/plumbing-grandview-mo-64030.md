@@ -12,11 +12,14 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / elevation 1020 ft band", "Jackson County / ZIP 64030 sector", "Jackson County / coords 38.8800, -94.5200", "Jackson County / primary ZIP 64030"]
-zillowHomeValueUsd: 216658
 ---
 
-**Engineering Notice for Grandview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Grandview:** Emergency leak and drain triage uses ~117 mg/L hardness context with Jackson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Grandview, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jackson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Grandview, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hard water in Grandview, MO accelerates scale on PRV seats and heater elements.
 
@@ -36,7 +39,7 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -48,7 +51,7 @@ Fixture roster 765868: toilet flange spacer kit and shower cartridge seat score 
 
 Pressure trace 765868: meter-pit clearance and dielectric union checklist staged for Grandview, MO near elevation 1020 ft.
 
-plumbing brief: slab penetration sleeve seal and slab leak listening window were cross-checked for the Grandview intake packet.
+Plumbing restoration brief: slab penetration sleeve seal and slab leak listening window were cross-checked for the Grandview pipe and leak scope.
 
 On-site sector marker: Jackson County / coords 38.8800, -94.5200 — logged for map parity and ZIP-corridor verification.
 

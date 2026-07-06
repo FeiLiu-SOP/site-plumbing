@@ -12,11 +12,14 @@ lng: -94.3200
 zipSample: ["64836"]
 zipCodes: ["64836"]
 localPaths: ["Jasper County / coords 37.1500, -94.3200", "Jasper County / primary ZIP 64836", "Jasper County / ZIP 64836 sector", "Jasper County / elevation 1053 ft band"]
-zillowHomeValueUsd: 240375
 ---
 
-**Engineering Notice for Carthage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jasper County.
+**Engineering Notice for Carthage:** Supply line, cleanout, and water heater scope recorded at 1053 ft elevation context (Jasper County).
 
+
+When a main line backs up in Carthage, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Carthage, MO, Jasper County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -48,7 +51,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Fixture roster 776670: toilet flange spacer kit and shower cartridge seat score queued for Carthage, MO walk-through.
 
-Scope trace: gas water heater draft hood gap plus fixture shutoff torque log referenced in Jasper County county grid review.
+Scope trace: gas water heater draft hood gap plus fixture shutoff torque log referenced in Jasper County drain and water line review.
 
 ZIP-corridor snapshot for Carthage, MO: sampled sectors include 64836; county routing grid remains Jasper County.
 

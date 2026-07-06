@@ -12,11 +12,14 @@ lng: -122.6500
 zipSample: ["97218", "97214", "97258", "97294", "97210"]
 zipCodes: ["97221", "97252", "97211", "97203", "97250", "97294", "97209", "97286", "97251", "97283", "97228", "97258"]
 localPaths: ["Multnomah County / elevation 171 ft band", "Multnomah County / primary ZIP 97227", "Multnomah County / coords 45.5400, -122.6500", "Multnomah County / ZIP 97210 sector", "Multnomah County / ZIP 97218 sector"]
-zillowHomeValueUsd: 561995
 ---
 
-**Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Portland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Multnomah County.
 
+
+Plumbing remediation in Portland, OR, Multnomah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Portland, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Permit note: Main water line replacement in Portland, OR may require ROW restoration planning.
 
@@ -32,7 +35,7 @@ Basement floor drains in Portland, OR should be snaked only after trap arm geome
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

@@ -12,11 +12,14 @@ lng: -117.5600
 zipSample: ["92877", "92881", "92882", "92878", "92880"]
 zipCodes: ["92877", "92879", "92880", "92878", "92882", "92881"]
 localPaths: ["Riverside County / ZIP 92878 sector", "Riverside County / elevation 846 ft band", "Riverside County / primary ZIP 92882", "Riverside County / ZIP 92880 sector", "Riverside County / coords 33.8600, -117.5600"]
-zillowHomeValueUsd: 785468
 ---
 
-**Engineering Notice for Corona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Corona:** Supply line, cleanout, and water heater scope recorded at 846 ft elevation context (Riverside County).
 
+
+Licensed plumbing crews serving Corona, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Corona, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -38,7 +41,7 @@ Hard water in Corona, CA accelerates scale on PRV seats and heater elements.
 
 Frost-free sillcock failures in Corona, CA often trace to interior shutoff seats, not exterior stems.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Corona, CA systems need rebalancing.
 

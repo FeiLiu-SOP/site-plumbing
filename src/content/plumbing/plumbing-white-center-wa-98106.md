@@ -12,11 +12,14 @@ lng: -122.3500
 zipSample: ["98106", "98146", "98168"]
 zipCodes: ["98146", "98106", "98168"]
 localPaths: ["King County / primary ZIP 98106", "King County / coords 47.5100, -122.3500", "King County / ZIP 98106 sector", "King County / ZIP 98146 sector", "King County / elevation 381 ft band"]
-zillowHomeValueUsd: 673647
 ---
 
-**Engineering Notice for White Center:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for White Center:** Supply line, cleanout, and water heater scope recorded at 381 ft elevation context (King County).
 
+
+When a main line backs up in White Center, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in White Center, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -24,7 +27,7 @@ Branch wet vents in White Center, WA can mask gurgling as a main-line issue.
 
 Trenchless pulls in White Center, WA require pit dimensions verified against utility locate marks.
 
-Dispatch packets reference county grid King County near ZIP 98106.
+Our White Center, WA service packets reference King County near ZIP 98106 for pipe and leak scope.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -44,9 +47,11 @@ FAQ: When is cabling enough? In White Center, WA, pipe material and blockage typ
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Pressure trace 371929: meter-pit clearance and dielectric union checklist staged for White Center, WA near elevation 381 ft.
+
+Scope trace: branch wet vent geometry plus gas water heater draft hood gap referenced in King County drain and water line review.
 
 On-site sector marker: King County / elevation 381 ft band — logged for map parity and ZIP-corridor verification.
 

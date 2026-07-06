@@ -12,11 +12,14 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2000, -88.0900", "Lake County / elevation 892 ft band", "Lake County / primary ZIP 60047", "Lake County / ZIP 60047 sector"]
-zillowHomeValueUsd: 638921
 ---
 
-**Engineering Notice for Lake Zurich:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Lake Zurich:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lake County.
 
+
+Plumbing restoration in Lake Zurich, IL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Lake Zurich, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lake County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -48,7 +51,7 @@ Lineage note 264122: recirculation pump amp draw captured before Lake Zurich, IL
 
 Pressure trace 264122: meter-pit clearance and dielectric union checklist staged for Lake Zurich, IL near elevation 892 ft.
 
-Scope trace: cleanout riser height plus water heater T&P path referenced in Lake County county grid review.
+Scope trace: cleanout riser height plus water heater T&P path referenced in Lake County drain and water line review.
 
 On-site sector marker: Lake County / elevation 892 ft band — logged for map parity and ZIP-corridor verification.
 

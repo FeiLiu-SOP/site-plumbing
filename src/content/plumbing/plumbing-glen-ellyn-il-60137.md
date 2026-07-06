@@ -12,13 +12,16 @@ lng: -88.0600
 zipSample: ["60137", "60138"]
 zipCodes: ["60138", "60137"]
 localPaths: ["DuPage County / elevation 794 ft band", "DuPage County / primary ZIP 60137", "DuPage County / ZIP 60137 sector", "DuPage County / ZIP 60138 sector", "DuPage County / coords 41.8700, -88.0600"]
-zillowHomeValueUsd: 554703
 ---
 
-**Engineering Notice for Glen Ellyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Glen Ellyn:** Emergency leak and drain triage uses ~135 mg/L hardness context with DuPage County service-area notes for pipe and fixture repairs.
 
 
-We coordinate Glen Ellyn, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Burst pipe and drain clog calls in Glen Ellyn, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DuPage County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Glen Ellyn, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+We coordinate Glen Ellyn, IL plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Risk flag: In Glen Ellyn, IL, slab leaks can misroute as foundation issues witho
 Pressure trace 288252: meter-pit clearance and dielectric union checklist staged for Glen Ellyn, IL near elevation 794 ft.
 
 Drain map 288252: camera-pass priority and expansion-tank pre-charge noted for Glen Ellyn, IL postal sector 60137.
-
-Field routing: water softener bypass lever paired with slab leak listening window near ZIP 60137.
 
 Primary postal anchor 60137 with multi-ZIP overlap in Glen Ellyn; field packets tag DuPage County for county-grid reconciliation.
 

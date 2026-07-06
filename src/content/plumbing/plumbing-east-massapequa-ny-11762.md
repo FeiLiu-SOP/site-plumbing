@@ -12,11 +12,14 @@ lng: -73.4400
 zipSample: ["11758", "11762"]
 zipCodes: ["11762", "11758"]
 localPaths: ["Nassau County / elevation 33 ft band", "Nassau County / ZIP 11758 sector", "Nassau County / ZIP 11762 sector", "Nassau County / primary ZIP 11762", "Nassau County / coords 40.6700, -73.4400"]
-zillowHomeValueUsd: 792775
 ---
 
-**Engineering Notice for East Massapequa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for East Massapequa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Nassau County.
 
+
+When a main line backs up in East Massapequa, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in East Massapequa, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -48,7 +51,7 @@ Permit note: Main water line replacement in East Massapequa, NY may require ROW 
 
 Supply audit 450501: curb-stop orientation and hose-bib freeze flag reviewed for East Massapequa, NY at coords 40.6700/-73.4400.
 
-Field routing: slab leak listening window paired with PRV outlet curve near ZIP 11762.
+Local service note: slab leak listening window paired with PRV outlet curve near ZIP 11762 for emergency licensed plumber repairs.
 
 On-site sector marker: Nassau County / elevation 33 ft band — logged for map parity and ZIP-corridor verification.
 

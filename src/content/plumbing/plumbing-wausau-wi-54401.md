@@ -12,11 +12,14 @@ lng: -89.6500
 zipSample: ["54401", "54403"]
 zipCodes: ["54403", "54401"]
 localPaths: ["Marathon County / elevation 1316 ft band", "Marathon County / primary ZIP 54401", "Marathon County / ZIP 54403 sector", "Marathon County / ZIP 54401 sector", "Marathon County / coords 44.9600, -89.6500"]
-zillowHomeValueUsd: 251335
 ---
 
-**Engineering Notice for Wausau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marathon County.
+**Engineering Notice for Wausau:** Emergency leak and drain triage uses ~124 mg/L hardness context with Marathon County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Wausau, WI, Marathon County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Wausau, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marathon County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -45,8 +48,6 @@ In Wausau, WI, slab leaks often present as warm spots before wall stains appear.
 Fixture roster 715992: toilet flange spacer kit and shower cartridge seat score queued for Wausau, WI walk-through.
 
 Lineage note 715992: recirculation pump amp draw captured before Wausau, WI branch isolation.
-
-Field routing: toilet flange spacer kit paired with meter pit clearance near ZIP 54401.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~1316 ft across the Marathon County area. Coordinates: 44.9600, -89.6500. ZIP sample: 54401, 54403. Service perimeter note: Coverage extends through Marathon County with dispatch centered near ZIP 54401.
 

@@ -12,11 +12,14 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector", "Waynesboro County / primary ZIP 22980", "Waynesboro County / coords 38.0700, -78.9000"]
-zillowHomeValueUsd: 313580
 ---
 
-**Engineering Notice for Waynesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Waynesboro County.
+**Engineering Notice for Waynesboro:** Emergency leak and drain triage uses ~139 mg/L hardness context with Waynesboro County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Waynesboro, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Waynesboro County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Waynesboro, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Waynesboro, VA basements should be photographed before any wall chase opens.
 

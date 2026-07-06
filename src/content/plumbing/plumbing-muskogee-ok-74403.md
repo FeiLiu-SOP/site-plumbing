@@ -12,11 +12,14 @@ lng: -95.3600
 zipSample: ["74403", "74402", "74401"]
 zipCodes: ["74403", "74402", "74401"]
 localPaths: ["Muskogee County / ZIP 74402 sector", "Muskogee County / primary ZIP 74403", "Muskogee County / elevation 591 ft band", "Muskogee County / coords 35.7400, -95.3600", "Muskogee County / ZIP 74401 sector"]
-zillowHomeValueUsd: 157375
 ---
 
-**Engineering Notice for Muskogee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskogee County.
+**Engineering Notice for Muskogee:** Emergency leak and drain triage uses ~168 mg/L hardness context with Muskogee County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Muskogee, OK, Muskogee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Muskogee, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Muskogee County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -45,6 +48,8 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 74403.
 Flow dossier 675628: branch wet-vent geometry and jetting nozzle envelope logged for Muskogee, OK county grid Muskogee County (ZIP 74403).
 
 Supply audit 675628: curb-stop orientation and hose-bib freeze flag reviewed for Muskogee, OK at coords 35.7400/-95.3600.
+
+Scope trace: shower cartridge seat score plus slab penetration sleeve seal referenced in Muskogee County drain and water line review.
 
 On-site sector marker: Muskogee County / ZIP 74403 sector — logged for map parity and ZIP-corridor verification.
 

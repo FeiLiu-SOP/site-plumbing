@@ -12,11 +12,14 @@ lng: -86.2700
 zipSample: ["36105", "36177", "36125", "36110", "36121"]
 zipCodes: ["36107", "36131", "36123", "36109", "36130", "36117", "36120", "36111", "36112", "36108", "36121", "36142"]
 localPaths: ["Montgomery County / elevation 276 ft band", "Montgomery County / ZIP 36177 sector", "Montgomery County / coords 32.3500, -86.2700", "Montgomery County / ZIP 36105 sector", "Montgomery County / ZIP 36110 sector"]
-zillowHomeValueUsd: 256559
 ---
 
-**Engineering Notice for Montgomery:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Montgomery:** Supply line, cleanout, and water heater scope recorded at 276 ft elevation context (Montgomery County).
 
+
+Certified plumbing crews serving Montgomery, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Montgomery, AL, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Montgomery, AL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -49,8 +52,6 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Lineage note 815376: recirculation pump amp draw captured before Montgomery, AL branch isolation.
 
 Pressure trace 815376: meter-pit clearance and dielectric union checklist staged for Montgomery, AL near elevation 276 ft.
-
-Field routing: slab leak listening window paired with shower cartridge seat score near ZIP 36112.
 
 Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Montgomery, AL before niche-specific work begins.
 

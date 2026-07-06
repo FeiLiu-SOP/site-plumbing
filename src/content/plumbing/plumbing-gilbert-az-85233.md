@@ -12,17 +12,20 @@ lng: -111.7500
 zipSample: ["85233", "85234", "85236", "85295", "85298"]
 zipCodes: ["85297", "85298", "85236", "85299", "85295", "85234", "85244", "85296", "85233"]
 localPaths: ["Maricopa County / ZIP 85298 sector", "Maricopa County / primary ZIP 85233", "Maricopa County / elevation 1270 ft band", "Maricopa County / ZIP 85295 sector", "Maricopa County / coords 33.3100, -111.7500"]
-zillowHomeValueUsd: 526153
 ---
 
-**Engineering Notice for Gilbert:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Gilbert:** Supply line, cleanout, and water heater scope recorded at 1270 ft elevation context (Maricopa County).
 
+
+Burst pipe and drain clog calls in Gilbert, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Gilbert, AZ, Maricopa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Galvanized segments in Gilbert, AZ may restrict flow long before visible corrosion.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: map sump float travel and check-valve orientation for Gilbert, AZ basements.
 
@@ -46,7 +49,7 @@ Supply audit 980382: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Lineage note 980382: recirculation pump amp draw captured before Gilbert, AZ branch isolation.
 
-Field routing: meter pit clearance paired with backflow test cock orientation near ZIP 85233.
+Local service note: meter pit clearance paired with backflow test cock orientation near ZIP 85233 for emergency plumbing pro repairs.
 
 Primary postal anchor 85233 with multi-ZIP overlap in Gilbert; field packets tag Maricopa County for county-grid reconciliation.
 

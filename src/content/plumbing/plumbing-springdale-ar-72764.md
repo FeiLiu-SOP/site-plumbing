@@ -12,11 +12,14 @@ lng: -94.1600
 zipSample: ["72766", "72764", "72762", "72765"]
 zipCodes: ["72764", "72766", "72762", "72765"]
 localPaths: ["Washington County / elevation 1345 ft band", "Washington County / coords 36.1900, -94.1600", "Washington County / primary ZIP 72764", "Washington County / ZIP 72765 sector", "Washington County / ZIP 72764 sector"]
-zillowHomeValueUsd: 315171
 ---
 
-**Engineering Notice for Springdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Springdale:** Supply line, cleanout, and water heater scope recorded at 1345 ft elevation context (Washington County).
 
+
+When a main line backs up in Springdale, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Springdale, AR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -45,8 +48,6 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Intake ledger 858239: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Springdale, AR at 36.1900, -94.1600.
-
-Scope trace: thermal expansion loop check plus scale coupon sampling referenced in Washington County county grid review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~1345 ft across the Washington County area. Coordinates: 36.1900, -94.1600. ZIP sample: 72762, 72765, 72766, 72764. Service perimeter note: Coverage extends through Washington County with dispatch centered near ZIP 72764.
 

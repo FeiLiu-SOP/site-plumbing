@@ -8,15 +8,18 @@ zipCode: "60018"
 county: "Cook County"
 elevationFt: 656
 lat: 42.0300
-lng: -87.9000
+lng: -87.9300
 zipSample: ["60017", "60018", "60016", "60019"]
 zipCodes: ["60018", "60019", "60017", "60016"]
 localPaths: ["Cook County / primary ZIP 60018", "Cook County / ZIP 60018 sector", "Cook County / elevation 656 ft band", "Cook County / ZIP 60016 sector", "Cook County / ZIP 60019 sector"]
-zillowHomeValueUsd: 378024
 ---
 
-**Engineering Notice for Des Plaines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Des Plaines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cook County.
 
+
+When a main line backs up in Des Plaines, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing remediation in Des Plaines, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Des Plaines, IL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -48,7 +51,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Des Plaines, I
 
 Drain map 174306: camera-pass priority and expansion-tank pre-charge noted for Des Plaines, IL postal sector 60018.
 
-Field routing: hose bib freeze flag paired with copper pinhole cluster near ZIP 60018.
+Local service note: hose bib freeze flag paired with copper pinhole cluster near ZIP 60018 for emergency qualified plumber repairs.
 
 On-site sector marker: Cook County / ZIP 60016 sector — logged for map parity and ZIP-corridor verification.
 

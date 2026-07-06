@@ -12,11 +12,14 @@ lng: -84.6500
 zipSample: ["30122"]
 zipCodes: ["30122"]
 localPaths: ["Douglas County / coords 33.7800, -84.6500", "Douglas County / ZIP 30122 sector", "Douglas County / primary ZIP 30122", "Douglas County / elevation 988 ft band"]
-zillowHomeValueUsd: 275781
 ---
 
-**Engineering Notice for Lithia Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Lithia Springs:** Supply line, cleanout, and water heater scope recorded at 988 ft elevation context (Douglas County).
 
+
+Licensed plumbing crews serving Lithia Springs, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Lithia Springs, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Across Lithia Springs, GA, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -40,7 +43,7 @@ Irrigation cross-connections in Lithia Springs, GA can back-siphon domestic line
 
 Hydro-jetting in Lithia Springs, GA requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

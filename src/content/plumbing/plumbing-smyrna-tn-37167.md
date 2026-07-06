@@ -12,11 +12,14 @@ lng: -86.5300
 zipSample: ["37167"]
 zipCodes: ["37167"]
 localPaths: ["Rutherford County / primary ZIP 37167", "Rutherford County / ZIP 37167 sector", "Rutherford County / coords 35.9700, -86.5300", "Rutherford County / elevation 587 ft band"]
-zillowHomeValueUsd: 405209
 ---
 
-**Engineering Notice for Smyrna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutherford County.
+**Engineering Notice for Smyrna:** Emergency leak and drain triage uses ~160 mg/L hardness context with Rutherford County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Smyrna, TN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rutherford County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Smyrna, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -46,7 +49,7 @@ Polybutylene manifold tags in Smyrna, TN basements should be photographed before
 
 Flow dossier 763837: branch wet-vent geometry and jetting nozzle envelope logged for Smyrna, TN county grid Rutherford County (ZIP 37167).
 
-Scope trace: PRV outlet curve plus dielectric union checklist referenced in Rutherford County county grid review.
+Scope trace: PRV outlet curve plus dielectric union checklist referenced in Rutherford County drain and water line review.
 
 Primary postal anchor 37167 with multi-ZIP overlap in Smyrna; field packets tag Rutherford County for county-grid reconciliation.
 

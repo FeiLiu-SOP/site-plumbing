@@ -12,11 +12,14 @@ lng: -82.0700
 zipSample: ["30917", "30916", "30812", "30903", "30999"]
 zipCodes: ["30812", "30909", "30905", "30914", "30903", "30901", "30917", "30805", "30919", "30912", "30907", "30916"]
 localPaths: ["Richmond County / primary ZIP 30912", "Richmond County / ZIP 30903 sector", "Richmond County / ZIP 30999 sector", "Richmond County / ZIP 30917 sector", "Richmond County / ZIP 30916 sector"]
-zillowHomeValueUsd: 145467
 ---
 
-**Engineering Notice for Augusta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richmond County.
+**Engineering Notice for Augusta:** Supply line, cleanout, and water heater scope recorded at 351 ft elevation context (Richmond County).
 
+
+Qualified plumbing crews serving Augusta, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Augusta, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Hydrostatic holds in Augusta, GA slab circuits run overnight when listening mics show ambiguous hits.
 

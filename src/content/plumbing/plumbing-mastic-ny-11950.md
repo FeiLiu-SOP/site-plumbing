@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11950"
 county: "Suffolk County"
 elevationFt: 52
-lat: 40.8100
-lng: -72.8500
+lat: 40.8205
+lng: -72.8800
 zipSample: ["11950", "11949"]
 zipCodes: ["11949", "11950"]
-localPaths: ["Suffolk County / coords 40.8100, -72.8500", "Suffolk County / ZIP 11949 sector", "Suffolk County / ZIP 11950 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / primary ZIP 11950"]
-zillowHomeValueUsd: 500631
+localPaths: ["Suffolk County / coords 40.8205, -72.8800", "Suffolk County / ZIP 11949 sector", "Suffolk County / ZIP 11950 sector", "Suffolk County / elevation 52 ft band", "Suffolk County / primary ZIP 11950"]
 ---
 
-**Engineering Notice for Mastic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Mastic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Suffolk County.
 
+
+Emergency plumbing technician service in Mastic, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Mastic, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 

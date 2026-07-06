@@ -12,11 +12,14 @@ lng: -74.0500
 zipSample: ["10952", "10977"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / primary ZIP 10952", "Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / coords 41.1200, -74.0500", "Rockland County / elevation 479 ft band"]
-zillowHomeValueUsd: 1129904
 ---
 
-**Engineering Notice for Spring Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockland County.
+**Engineering Notice for Spring Valley:** Emergency leak and drain triage uses ~133 mg/L hardness context with Rockland County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Spring Valley, NY, Rockland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Spring Valley, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: map sump float travel and check-valve orientation for Spring Valley, NY basements.
 
@@ -45,8 +48,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Confirm cleanout locations during the same visit. Serving ZIP Code: 10952.
 
 Supply audit 819072: curb-stop orientation and hose-bib freeze flag reviewed for Spring Valley, NY at coords 41.1200/-74.0500.
-
-plumbing brief: hose bib freeze flag and backflow test cock orientation were cross-checked for the Spring Valley intake packet.
 
 On-site sector marker: Rockland County / elevation 479 ft band — logged for map parity and ZIP-corridor verification.
 

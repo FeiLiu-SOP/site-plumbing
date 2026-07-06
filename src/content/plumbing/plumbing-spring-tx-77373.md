@@ -12,15 +12,18 @@ lng: -95.3800
 zipSample: ["77383", "77373", "77387"]
 zipCodes: ["77373", "77383", "77387"]
 localPaths: ["Harris County / ZIP 77387 sector", "Harris County / ZIP 77383 sector", "Harris County / coords 30.0600, -95.3800", "Harris County / elevation 131 ft band", "Harris County / primary ZIP 77373"]
-zillowHomeValueUsd: 243498
 ---
 
-**Engineering Notice for Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for Spring:** Supply line, cleanout, and water heater scope recorded at 131 ft elevation context (Harris County).
 
+
+Burst pipe and drain clog calls in Spring, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harris County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Spring, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We coordinate Spring, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Spring, TX plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Irrigation cross-connections in Spring, TX can back-siphon domestic lines during main breaks.
 
@@ -42,13 +45,11 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Dual-water-meter setups in Spring, TX irrigation zones need backflow logs before line replacement.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 279759: toilet flange spacer kit and shower cartridge seat score queued for Spring, TX walk-through.
 
 Drain map 279759: camera-pass priority and expansion-tank pre-charge noted for Spring, TX postal sector 77373.
-
-plumbing brief: hose bib freeze flag and gas water heater draft hood gap were cross-checked for the Spring intake packet.
 
 On-site sector marker: Harris County / coords 30.0600, -95.3800 — logged for map parity and ZIP-corridor verification.
 

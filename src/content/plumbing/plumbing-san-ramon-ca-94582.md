@@ -12,15 +12,18 @@ lng: -121.9400
 zipSample: ["94583", "94582"]
 zipCodes: ["94582", "94583"]
 localPaths: ["Contra Costa County / primary ZIP 94582", "Contra Costa County / ZIP 94583 sector", "Contra Costa County / coords 37.7600, -121.9400", "Contra Costa County / elevation 577 ft band", "Contra Costa County / ZIP 94582 sector"]
-zillowHomeValueUsd: 1765293
 ---
 
-**Engineering Notice for San Ramon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for San Ramon:** Supply line, cleanout, and water heater scope recorded at 577 ft elevation context (Contra Costa County).
 
+
+Plumbing restoration in San Ramon, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in San Ramon, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch packets reference county grid Contra Costa County near ZIP 94582.
+Our San Ramon, CA service packets reference Contra Costa County near ZIP 94582 for pipe and leak scope.
 
 Hydrostatic holds in San Ramon, CA slab circuits run overnight when listening mics show ambiguous hits.
 

@@ -12,11 +12,14 @@ lng: -78.8800
 zipSample: ["14150", "14151"]
 zipCodes: ["14151", "14150"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / elevation 577 ft band", "Erie County / ZIP 14150 sector", "Erie County / primary ZIP 14150", "Erie County / ZIP 14151 sector"]
-zillowHomeValueUsd: 251718
 ---
 
-**Engineering Notice for Tonawanda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
+**Engineering Notice for Tonawanda:** Supply line, cleanout, and water heater scope recorded at 577 ft elevation context (Erie County).
 
+
+Qualified plumbing crews serving Tonawanda, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Tonawanda, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Erie County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

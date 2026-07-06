@@ -12,11 +12,14 @@ lng: -111.5600
 zipSample: ["85144", "85143", "85140", "85142"]
 zipCodes: ["85140", "85142", "85143", "85144"]
 localPaths: ["Pinal County / ZIP 85142 sector", "Pinal County / coords 33.1800, -111.5600", "Pinal County / ZIP 85143 sector", "Pinal County / elevation 1493 ft band", "Pinal County / primary ZIP 85143"]
-zillowHomeValueUsd: 376905
 ---
 
-**Engineering Notice for San Tan Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
+**Engineering Notice for San Tan Valley:** Emergency leak and drain triage uses ~149 mg/L hardness context with Pinal County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving San Tan Valley, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in San Tan Valley, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Save water heater serial plates for warranty traceability.
 

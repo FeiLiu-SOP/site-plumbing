@@ -12,11 +12,14 @@ lng: -90.1100
 zipSample: ["70072"]
 zipCodes: ["70072"]
 localPaths: ["Jefferson Parish / elevation 16 ft band", "Jefferson Parish / primary ZIP 70072", "Jefferson Parish / ZIP 70072 sector", "Jefferson Parish / coords 29.8900, -90.1100"]
-zillowHomeValueUsd: 228758
 ---
 
-**Engineering Notice for Marrero:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Marrero:** Supply line, cleanout, and water heater scope recorded at 16 ft elevation context (Jefferson Parish).
 
+
+Burst pipe and drain clog calls in Marrero, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson Parish clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Marrero, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -47,8 +50,6 @@ Trenchless pulls in Marrero, LA require pit dimensions verified against utility 
 Dual-water-meter setups in Marrero, LA irrigation zones need backflow logs before line replacement.
 
 Intake ledger 467680: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marrero, LA at 29.8900, -90.1100.
-
-Scope trace: cleanout riser height plus sewer cleanout cap thread referenced in Jefferson Parish county grid review.
 
 On-site sector marker: Jefferson Parish / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
 

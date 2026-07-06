@@ -12,11 +12,14 @@ lng: -85.9400
 zipSample: ["40159", "40160", "42701"]
 zipCodes: ["40159", "40160", "42701"]
 localPaths: ["Hardin County / ZIP 40160 sector", "Hardin County / ZIP 42701 sector", "Hardin County / coords 37.8200, -85.9400", "Hardin County / elevation 761 ft band", "Hardin County / ZIP 40159 sector"]
-zillowHomeValueUsd: 211040
 ---
 
-**Engineering Notice for Radcliff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hardin County.
+**Engineering Notice for Radcliff:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hardin County.
 
+
+Burst pipe and drain clog calls in Radcliff, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hardin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Radcliff, KY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Is hydro-jetting always appropriate? In Radcliff, KY, pipe material and blockage type dictate method.
 
@@ -36,7 +39,7 @@ Hydro-jetting in Radcliff, KY requires camera confirmation before nozzle pressur
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-We coordinate Radcliff, KY plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Radcliff, KY plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless pulls in Radcliff, KY require pit dimensions verified against utility locate marks.
 
@@ -47,6 +50,8 @@ Recirculation pump failures in Radcliff, KY can mimic fixture-specific clogs.
 Supply audit 126816: curb-stop orientation and hose-bib freeze flag reviewed for Radcliff, KY at coords 37.8200/-85.9400.
 
 Lineage note 126816: recirculation pump amp draw captured before Radcliff, KY branch isolation.
+
+Local service note: gas water heater draft hood gap paired with PRV outlet curve near ZIP 40160 for emergency plumbing technician repairs.
 
 On-site sector marker: Hardin County / primary ZIP 40160 — logged for map parity and ZIP-corridor verification.
 

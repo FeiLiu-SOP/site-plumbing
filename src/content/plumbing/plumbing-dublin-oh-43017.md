@@ -12,13 +12,16 @@ lng: -83.1500
 zipSample: ["43017", "43016"]
 zipCodes: ["43016", "43017"]
 localPaths: ["Franklin County / ZIP 43017 sector", "Franklin County / ZIP 43016 sector", "Franklin County / coords 40.1100, -83.1500", "Franklin County / primary ZIP 43017", "Franklin County / elevation 902 ft band"]
-zillowHomeValueUsd: 575991
 ---
 
-**Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Dublin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Franklin County.
 
 
-We coordinate Dublin, OH plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+When a main line backs up in Dublin, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Dublin, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+We coordinate Dublin, OH plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Polybutylene manifold tags in Dublin, OH basements should be photographed before any wall chase opens.
 
@@ -45,6 +48,8 @@ Permit note: Main water line replacement in Dublin, OH may require ROW restorati
 Flow dossier 563007: branch wet-vent geometry and jetting nozzle envelope logged for Dublin, OH county grid Franklin County (ZIP 43017).
 
 Drain map 563007: camera-pass priority and expansion-tank pre-charge noted for Dublin, OH postal sector 43017.
+
+Plumbing remediation brief: PEX expansion ring batch and water heater T&P path were cross-checked for the Dublin pipe and leak scope.
 
 On-site sector marker: Franklin County / ZIP 43017 sector — logged for map parity and ZIP-corridor verification.
 

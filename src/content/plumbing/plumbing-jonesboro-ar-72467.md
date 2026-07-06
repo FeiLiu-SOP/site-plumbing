@@ -12,11 +12,14 @@ lng: -90.6800
 zipSample: ["72467", "72402", "72405", "72401", "72403"]
 zipCodes: ["72402", "72403", "72404", "72405", "72467", "72401"]
 localPaths: ["Craighead County / primary ZIP 72467", "Craighead County / ZIP 72402 sector", "Craighead County / ZIP 72403 sector", "Craighead County / ZIP 72467 sector", "Craighead County / ZIP 72401 sector"]
-zillowHomeValueUsd: 184552
 ---
 
-**Engineering Notice for Jonesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Craighead County.
+**Engineering Notice for Jonesboro:** Emergency leak and drain triage uses ~178 mg/L hardness context with Craighead County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Jonesboro, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Jonesboro, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Craighead County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Cast-iron hub corrosion in Jonesboro, AR often concentrates at the third joint upstream of the cleanout.
 
@@ -46,7 +49,7 @@ Intake ledger 935942: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Fixture roster 935942: toilet flange spacer kit and shower cartridge seat score queued for Jonesboro, AR walk-through.
 
-plumbing brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the Jonesboro intake packet.
+Plumbing restoration brief: toilet flange spacer kit and gas water heater draft hood gap were cross-checked for the Jonesboro pipe and leak scope.
 
 Primary postal anchor 72467 with multi-ZIP overlap in Jonesboro; field packets tag Craighead County for county-grid reconciliation.
 

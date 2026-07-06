@@ -12,11 +12,14 @@ lng: -77.4500
 zipSample: ["20153", "20151"]
 zipCodes: ["20153", "20151"]
 localPaths: ["Fairfax County / ZIP 20153 sector", "Fairfax County / coords 38.8900, -77.4500", "Fairfax County / elevation 285 ft band", "Fairfax County / primary ZIP 20151", "Fairfax County / ZIP 20151 sector"]
-zillowHomeValueUsd: 763377
 ---
 
-**Engineering Notice for Chantilly:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Chantilly:** Emergency leak and drain triage uses ~179 mg/L hardness context with Fairfax County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Chantilly, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Chantilly, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 

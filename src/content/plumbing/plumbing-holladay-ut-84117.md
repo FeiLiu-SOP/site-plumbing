@@ -12,11 +12,14 @@ lng: -111.8200
 zipSample: ["84117", "84121", "84124"]
 zipCodes: ["84121", "84124", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / elevation 4452 ft band", "Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84121 sector"]
-zillowHomeValueUsd: 694523
 ---
 
-**Engineering Notice for Holladay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Holladay:** Emergency leak and drain triage uses ~156 mg/L hardness context with Salt Lake County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Holladay, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Holladay, UT, Salt Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -45,8 +48,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Fixture roster 554567: toilet flange spacer kit and shower cartridge seat score queued for Holladay, UT walk-through.
-
-Scope trace: recirculation pump amp draw plus PRV outlet curve referenced in Salt Lake County county grid review.
 
 Coordinate-anchored dispatch note: center reference 40.6600, -111.8200 at elevation ~4452 ft aligns with Salt Lake County intake staging.
 

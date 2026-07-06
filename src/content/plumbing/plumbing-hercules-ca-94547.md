@@ -12,11 +12,14 @@ lng: -122.2600
 zipSample: ["94547", "94572"]
 zipCodes: ["94547", "94572"]
 localPaths: ["Contra Costa County / ZIP 94572 sector", "Contra Costa County / ZIP 94547 sector", "Contra Costa County / primary ZIP 94547", "Contra Costa County / elevation 154 ft band", "Contra Costa County / coords 38.0100, -122.2600"]
-zillowHomeValueUsd: 754558
 ---
 
-**Engineering Notice for Hercules:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Hercules:** Supply line, cleanout, and water heater scope recorded at 154 ft elevation context (Contra Costa County).
 
+
+Qualified plumbing crews serving Hercules, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Hercules, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -43,8 +46,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Hercules, CA.
 Cleanout access limits in Hercules, CA frequently extend drain cleaning duration.
 
 Drain map 259753: camera-pass priority and expansion-tank pre-charge noted for Hercules, CA postal sector 94547.
-
-Field routing: thermal expansion loop check paired with PRV outlet curve near ZIP 94547.
 
 ZIP-corridor snapshot for Hercules, CA: sampled sectors include 94547, 94572; county routing grid remains Contra Costa County.
 

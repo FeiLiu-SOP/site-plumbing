@@ -12,13 +12,16 @@ lng: -75.3700
 zipSample: ["19016", "19013"]
 zipCodes: ["19013", "19016"]
 localPaths: ["Delaware County / primary ZIP 19013", "Delaware County / ZIP 19013 sector", "Delaware County / ZIP 19016 sector", "Delaware County / coords 39.8500, -75.3700", "Delaware County / elevation 56 ft band"]
-zillowHomeValueUsd: 113461
 ---
 
-**Engineering Notice for Chester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Delaware County.
+**Engineering Notice for Chester:** Supply line, cleanout, and water heater scope recorded at 56 ft elevation context (Delaware County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+When a main line backs up in Chester, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Chester, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

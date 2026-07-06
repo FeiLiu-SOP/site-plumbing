@@ -12,11 +12,14 @@ lng: -84.0400
 zipSample: ["49221"]
 zipCodes: ["49221"]
 localPaths: ["Lenawee County / coords 41.9000, -84.0400", "Lenawee County / ZIP 49221 sector", "Lenawee County / primary ZIP 49221", "Lenawee County / elevation 771 ft band"]
-zillowHomeValueUsd: 207422
 ---
 
-**Engineering Notice for Adrian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lenawee County.
+**Engineering Notice for Adrian:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lenawee County.
 
+
+Burst pipe and drain clog calls in Adrian, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lenawee County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Adrian, MI, Lenawee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 49221.
 
@@ -32,7 +35,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Frost-free sillcock failures in Adrian, MI often trace to interior shutoff seats, not exterior stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydro-jetting in Adrian, MI requires camera confirmation before nozzle pressure is raised.
 
@@ -47,8 +50,6 @@ Stack vent offsets in Adrian, MI older duplexes can mask tub gurgle as a main-li
 Lineage note 265349: recirculation pump amp draw captured before Adrian, MI branch isolation.
 
 Pressure trace 265349: meter-pit clearance and dielectric union checklist staged for Adrian, MI near elevation 771 ft.
-
-Field routing: shower cartridge seat score paired with copper pinhole cluster near ZIP 49221.
 
 On-site sector marker: Lenawee County / primary ZIP 49221 — logged for map parity and ZIP-corridor verification.
 

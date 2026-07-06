@@ -12,13 +12,16 @@ lng: -103.2200
 zipSample: ["57701", "57703", "57702"]
 zipCodes: ["57703", "57702", "57701"]
 localPaths: ["Pennington County / ZIP 57702 sector", "Pennington County / elevation 3379 ft band", "Pennington County / coords 44.0700, -103.2200", "Pennington County / primary ZIP 57702", "Pennington County / ZIP 57703 sector"]
-zillowHomeValueUsd: 448762
 ---
 
-**Engineering Notice for Rapid City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pennington County.
+**Engineering Notice for Rapid City:** Supply line, cleanout, and water heater scope recorded at 3379 ft elevation context (Pennington County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Rapid City, SD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Rapid City, SD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -48,7 +51,7 @@ Pressure trace 394476: meter-pit clearance and dielectric union checklist staged
 
 Drain map 394476: camera-pass priority and expansion-tank pre-charge noted for Rapid City, SD postal sector 57702.
 
-plumbing brief: thermal expansion loop check and sump float travel were cross-checked for the Rapid City intake packet.
+Plumbing restoration brief: thermal expansion loop check and sump float travel were cross-checked for the Rapid City pipe and leak scope.
 
 Primary postal anchor 57702 with multi-ZIP overlap in Rapid City; field packets tag Pennington County for county-grid reconciliation.
 

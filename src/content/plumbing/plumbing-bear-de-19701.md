@@ -12,11 +12,14 @@ lng: -75.6800
 zipSample: ["19701", "19702"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / primary ZIP 19701", "New Castle County / elevation 69 ft band", "New Castle County / ZIP 19701 sector", "New Castle County / ZIP 19702 sector", "New Castle County / coords 39.6200, -75.6800"]
-zillowHomeValueUsd: 420869
 ---
 
-**Engineering Notice for Bear:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Castle County.
+**Engineering Notice for Bear:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in New Castle County.
 
+
+Plumbing service in Bear, DE, New Castle County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Bear, DE may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in New Castle County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Bear, DE shoulder seasons.
 

@@ -12,11 +12,14 @@ lng: -110.8800
 zipSample: ["85728", "85750", "85718", "85715"]
 zipCodes: ["85715", "85728", "85718", "85750"]
 localPaths: ["Pima County / coords 32.3000, -110.8800", "Pima County / ZIP 85750 sector", "Pima County / ZIP 85718 sector", "Pima County / ZIP 85728 sector", "Pima County / primary ZIP 85750"]
-zillowHomeValueUsd: 605331
 ---
 
-**Engineering Notice for Catalina Foothills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Catalina Foothills:** Emergency leak and drain triage uses ~128 mg/L hardness context with Pima County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Catalina Foothills, AZ, Pima County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Catalina Foothills, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Pima County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -32,7 +35,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Hydrostatic holds in Catalina Foothills, AZ slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch packets reference county grid Pima County near ZIP 85750.
+Our Catalina Foothills, AZ service packets reference Pima County near ZIP 85750 for pipe and leak scope.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ Material note: Water heater anode type may change with Catalina Foothills, AZ ha
 Supply audit 939515: curb-stop orientation and hose-bib freeze flag reviewed for Catalina Foothills, AZ at coords 32.3000/-110.8800.
 
 Intake ledger 939515: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Catalina Foothills, AZ at 32.3000, -110.8800.
-
-Field routing: sewer cleanout cap thread paired with gas water heater draft hood gap near ZIP 85750.
 
 Primary postal anchor 85750 with multi-ZIP overlap in Catalina Foothills; field packets tag Pima County for county-grid reconciliation.
 

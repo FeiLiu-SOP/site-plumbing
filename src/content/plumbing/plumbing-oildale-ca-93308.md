@@ -12,11 +12,14 @@ lng: -119.0300
 zipSample: ["93308", "93388"]
 zipCodes: ["93388", "93308"]
 localPaths: ["Kern County / primary ZIP 93308", "Kern County / coords 35.4300, -119.0300", "Kern County / elevation 531 ft band", "Kern County / ZIP 93388 sector", "Kern County / ZIP 93308 sector"]
-zillowHomeValueUsd: 349353
 ---
 
-**Engineering Notice for Oildale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.
+**Engineering Notice for Oildale:** Emergency leak and drain triage uses ~118 mg/L hardness context with Kern County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Oildale, CA, Kern County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Oildale, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kern County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless pulls in Oildale, CA require pit dimensions verified against utility locate marks.
 

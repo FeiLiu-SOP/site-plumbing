@@ -12,21 +12,24 @@ lng: -93.3200
 zipSample: ["55429", "55430"]
 zipCodes: ["55430", "55429"]
 localPaths: ["Hennepin County / ZIP 55429 sector", "Hennepin County / coords 45.0700, -93.3200", "Hennepin County / ZIP 55430 sector", "Hennepin County / primary ZIP 55429", "Hennepin County / elevation 846 ft band"]
-zillowHomeValueUsd: 298872
 ---
 
-**Engineering Notice for Brooklyn Center:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Brooklyn Center:** Supply line, cleanout, and water heater scope recorded at 846 ft elevation context (Hennepin County).
 
+
+Qualified plumbing crews serving Brooklyn Center, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Brooklyn Center, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Stack vent offsets in Brooklyn Center, MN older duplexes can mask tub gurgle as a main-line failure.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Brooklyn Center, MN can back-siphon domestic lines during main breaks.
 
-Dispatch packets reference county grid Hennepin County near ZIP 55429.
+Our Brooklyn Center, MN service packets reference Hennepin County near ZIP 55429 for pipe and leak scope.
 
 Trenchless sleeve pulls near Brooklyn Center, MN require pit shoring notes when water tables are high.
 

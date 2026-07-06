@@ -12,13 +12,16 @@ lng: -117.6000
 zipSample: ["92679", "92688"]
 zipCodes: ["92679", "92688"]
 localPaths: ["Orange County / ZIP 92679 sector", "Orange County / elevation 935 ft band", "Orange County / coords 33.6300, -117.6000", "Orange County / primary ZIP 92679", "Orange County / ZIP 92688 sector"]
-zillowHomeValueUsd: 1600705
 ---
 
-**Engineering Notice for Rancho Santa Margarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Rancho Santa Margarita:** Emergency leak and drain triage uses ~144 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Orange County near ZIP 92679.
+When a main line backs up in Rancho Santa Margarita, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency qualified plumber service in Rancho Santa Margarita, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Our Rancho Santa Margarita, CA service packets reference Orange County near ZIP 92679 for pipe and leak scope.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -45,8 +48,6 @@ Basement floor drains in Rancho Santa Margarita, CA should be snaked only after 
 Lineage note 316793: recirculation pump amp draw captured before Rancho Santa Margarita, CA branch isolation.
 
 Intake ledger 316793: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Rancho Santa Margarita, CA at 33.6300, -117.6000.
-
-plumbing brief: backflow test cock orientation and water softener bypass lever were cross-checked for the Rancho Santa Margarita intake packet.
 
 On-site sector marker: Orange County / elevation 935 ft band — logged for map parity and ZIP-corridor verification.
 

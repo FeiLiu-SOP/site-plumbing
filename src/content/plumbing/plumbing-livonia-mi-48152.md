@@ -12,11 +12,14 @@ lng: -83.3700
 zipSample: ["48150", "48151", "48153", "48152", "48154"]
 zipCodes: ["48151", "48153", "48150", "48152", "48154"]
 localPaths: ["Wayne County / ZIP 48152 sector", "Wayne County / primary ZIP 48152", "Wayne County / ZIP 48154 sector", "Wayne County / elevation 669 ft band", "Wayne County / ZIP 48153 sector"]
-zillowHomeValueUsd: 323078
 ---
 
-**Engineering Notice for Livonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Livonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wayne County.
 
+
+Plumbing service in Livonia, MI, Wayne County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Livonia, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

@@ -12,11 +12,14 @@ lng: -88.3100
 zipSample: ["60539", "60510"]
 zipCodes: ["60539", "60510"]
 localPaths: ["Kane County / ZIP 60539 sector", "Kane County / coords 41.8500, -88.3100", "Kane County / ZIP 60510 sector", "Kane County / primary ZIP 60539", "Kane County / elevation 709 ft band"]
-zillowHomeValueUsd: 453682
 ---
 
-**Engineering Notice for Batavia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for Batavia:** Emergency leak and drain triage uses ~180 mg/L hardness context with Kane County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Batavia, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Batavia, IL, Kane County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -48,7 +51,7 @@ Basement floor drains in Batavia, IL should be snaked only after trap arm geomet
 
 Fixture roster 234648: toilet flange spacer kit and shower cartridge seat score queued for Batavia, IL walk-through.
 
-plumbing brief: dielectric union checklist and shower cartridge seat score were cross-checked for the Batavia intake packet.
+Plumbing remediation brief: dielectric union checklist and shower cartridge seat score were cross-checked for the Batavia pipe and leak scope.
 
 On-site sector marker: Kane County / primary ZIP 60539 — logged for map parity and ZIP-corridor verification.
 

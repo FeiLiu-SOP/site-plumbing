@@ -12,11 +12,14 @@ lng: -73.2600
 zipSample: ["01201", "01202", "01203"]
 zipCodes: ["01201", "01203", "01202"]
 localPaths: ["Berkshire County / ZIP 01201 sector", "Berkshire County / primary ZIP 01201", "Berkshire County / ZIP 01202 sector", "Berkshire County / coords 42.4500, -73.2600", "Berkshire County / ZIP 01203 sector"]
-zillowHomeValueUsd: 304127
 ---
 
-**Engineering Notice for Pittsfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkshire County.
+**Engineering Notice for Pittsfield:** Supply line, cleanout, and water heater scope recorded at 1056 ft elevation context (Berkshire County).
 
+
+Licensed plumbing crews serving Pittsfield, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Pittsfield, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Berkshire County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -44,7 +47,7 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Supply audit 704128: curb-stop orientation and hose-bib freeze flag reviewed for Pittsfield, MA at coords 42.4500/-73.2600.
 
-Scope trace: water heater T&P path plus sewer cleanout cap thread referenced in Berkshire County county grid review.
+Scope trace: water heater T&P path plus sewer cleanout cap thread referenced in Berkshire County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 42.4500, -73.2600 at elevation ~1056 ft aligns with Berkshire County intake staging.
 

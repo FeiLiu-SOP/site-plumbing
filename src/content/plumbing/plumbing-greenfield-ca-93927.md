@@ -12,11 +12,14 @@ lng: -121.2400
 zipSample: ["93927"]
 zipCodes: ["93927"]
 localPaths: ["Monterey County / coords 36.3200, -121.2400", "Monterey County / primary ZIP 93927", "Monterey County / ZIP 93927 sector", "Monterey County / elevation 285 ft band"]
-zillowHomeValueUsd: 547236
 ---
 
-**Engineering Notice for Greenfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
+**Engineering Notice for Greenfield:** Emergency leak and drain triage uses ~160 mg/L hardness context with Monterey County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Greenfield, CA, Monterey County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Greenfield, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 

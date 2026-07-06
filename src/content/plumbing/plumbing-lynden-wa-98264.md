@@ -12,11 +12,14 @@ lng: -122.4500
 zipSample: ["98264"]
 zipCodes: ["98264"]
 localPaths: ["Whatcom County / coords 48.9500, -122.4500", "Whatcom County / primary ZIP 98264", "Whatcom County / elevation 102 ft band", "Whatcom County / ZIP 98264 sector"]
-zillowHomeValueUsd: 622659
 ---
 
-**Engineering Notice for Lynden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.
+**Engineering Notice for Lynden:** Supply line, cleanout, and water heater scope recorded at 102 ft elevation context (Whatcom County).
 
+
+Burst pipe and drain clog calls in Lynden, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Whatcom County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Lynden, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Whatcom County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Hydrostatic holds in Lynden, WA slab circuits run overnight when listening mics show ambiguous hits.
 

@@ -12,11 +12,14 @@ lng: -156.4500
 zipSample: ["96753"]
 zipCodes: ["96753"]
 localPaths: ["Maui County / elevation 75 ft band", "Maui County / coords 20.7700, -156.4500", "Maui County / primary ZIP 96753", "Maui County / ZIP 96753 sector"]
-zillowHomeValueUsd: 1012211
 ---
 
-**Engineering Notice for Kihei:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maui County.
+**Engineering Notice for Kihei:** Emergency leak and drain triage uses ~146 mg/L hardness context with Maui County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Kihei, HI, Maui County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Kihei, HI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -45,8 +48,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Fixture roster 524276: toilet flange spacer kit and shower cartridge seat score queued for Kihei, HI walk-through.
-
-Scope trace: shower cartridge seat score plus dielectric union checklist referenced in Maui County county grid review.
 
 Regional mesh label Maui County: moisture and logistics baselines are keyed to Kihei, HI before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -116.2300
 zipSample: ["83799", "83704", "83712", "83735", "83705"]
 zipCodes: ["83703", "83725", "83716", "83729", "83715", "83713", "83705", "83708", "83799", "83706", "83717", "83722"]
 localPaths: ["Ada County / elevation 2756 ft band", "Ada County / ZIP 83735 sector", "Ada County / ZIP 83705 sector", "Ada County / ZIP 83704 sector", "Ada County / primary ZIP 83703"]
-zillowHomeValueUsd: 530677
 ---
 
-**Engineering Notice for Boise:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ada County.
+**Engineering Notice for Boise:** Supply line, cleanout, and water heater scope recorded at 2756 ft elevation context (Ada County).
 
+
+Emergency qualified plumber service in Boise, ID often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Ada County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Boise, ID may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ada County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Boise, ID systems need rebalancing.
 

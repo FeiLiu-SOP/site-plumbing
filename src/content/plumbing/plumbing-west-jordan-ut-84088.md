@@ -12,11 +12,14 @@ lng: -112.0000
 zipSample: ["84084", "84081", "84088"]
 zipCodes: ["84084", "84081", "84088"]
 localPaths: ["Salt Lake County / ZIP 84084 sector", "Salt Lake County / primary ZIP 84088", "Salt Lake County / coords 40.6000, -112.0000", "Salt Lake County / ZIP 84088 sector", "Salt Lake County / ZIP 84081 sector"]
-zillowHomeValueUsd: 578789
 ---
 
-**Engineering Notice for West Jordan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for West Jordan:** Supply line, cleanout, and water heater scope recorded at 4675 ft elevation context (Salt Lake County).
 
+
+Burst pipe and drain clog calls in West Jordan, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Salt Lake County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in West Jordan, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Salt Lake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in West Jordan, UT may require ROW restoration planning.
 
@@ -46,7 +49,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Supply audit 449777: curb-stop orientation and hose-bib freeze flag reviewed for West Jordan, UT at coords 40.6000/-112.0000.
 
-plumbing brief: floor drain trap primer drip and scale coupon sampling were cross-checked for the West Jordan intake packet.
+Plumbing remediation brief: floor drain trap primer drip and scale coupon sampling were cross-checked for the West Jordan pipe and leak scope.
 
 On-site sector marker: Salt Lake County / ZIP 84084 sector — logged for map parity and ZIP-corridor verification.
 

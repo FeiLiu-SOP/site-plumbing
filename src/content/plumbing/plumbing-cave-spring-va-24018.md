@@ -12,11 +12,14 @@ lng: -80.0100
 zipSample: ["24018"]
 zipCodes: ["24018"]
 localPaths: ["Roanoke County / ZIP 24018 sector", "Roanoke County / elevation 1148 ft band", "Roanoke County / primary ZIP 24018", "Roanoke County / coords 37.2300, -80.0100"]
-zillowHomeValueUsd: 376393
 ---
 
-**Engineering Notice for Cave Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Cave Spring:** Emergency leak and drain triage uses ~124 mg/L hardness context with Roanoke County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Cave Spring, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Cave Spring, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

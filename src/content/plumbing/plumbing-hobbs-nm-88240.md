@@ -12,11 +12,14 @@ lng: -103.1600
 zipSample: ["88244", "88240"]
 zipCodes: ["88240", "88244"]
 localPaths: ["Lea County / elevation 3648 ft band", "Lea County / ZIP 88240 sector", "Lea County / coords 32.7300, -103.1600", "Lea County / ZIP 88244 sector", "Lea County / primary ZIP 88240"]
-zillowHomeValueUsd: 191248
 ---
 
-**Engineering Notice for Hobbs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lea County.
+**Engineering Notice for Hobbs:** Emergency leak and drain triage uses ~119 mg/L hardness context with Lea County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Hobbs, NM, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Hobbs, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lea County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydro-jetting in Hobbs, NM requires camera confirmation before nozzle pressure is raised.
 

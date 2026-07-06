@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11782"
 county: "Suffolk County"
 elevationFt: 39
-lat: 40.7500
-lng: -73.0800
+lat: 40.7605
+lng: -73.1100
 zipSample: ["11782"]
 zipCodes: ["11782"]
-localPaths: ["Suffolk County / ZIP 11782 sector", "Suffolk County / primary ZIP 11782", "Suffolk County / coords 40.7500, -73.0800", "Suffolk County / elevation 39 ft band"]
-zillowHomeValueUsd: 745322
+localPaths: ["Suffolk County / ZIP 11782 sector", "Suffolk County / primary ZIP 11782", "Suffolk County / coords 40.7605, -73.1100", "Suffolk County / elevation 39 ft band"]
 ---
 
-**Engineering Notice for Sayville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Sayville:** Emergency leak and drain triage uses ~158 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Sayville, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Sayville, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

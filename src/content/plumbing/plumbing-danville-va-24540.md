@@ -12,13 +12,16 @@ lng: -79.4100
 zipSample: ["24541", "24540"]
 zipCodes: ["24541", "24540"]
 localPaths: ["Danville County / primary ZIP 24540", "Danville County / elevation 554 ft band", "Danville County / coords 36.5800, -79.4100", "Danville County / ZIP 24541 sector", "Danville County / ZIP 24540 sector"]
-zillowHomeValueUsd: 153089
 ---
 
-**Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Danville County.
+**Engineering Notice for Danville:** Emergency leak and drain triage uses ~174 mg/L hardness context with Danville County service-area notes for pipe and fixture repairs.
 
 
-We coordinate Danville, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Plumbing service in Danville, VA, Danville County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Danville, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Danville County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+We coordinate Danville, VA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Dual-water-meter setups in Danville, VA irrigation zones need backflow logs before line replacement.
 
@@ -45,6 +48,8 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Drain map 799841: camera-pass priority and expansion-tank pre-charge noted for Danville, VA postal sector 24540.
 
 Supply audit 799841: curb-stop orientation and hose-bib freeze flag reviewed for Danville, VA at coords 36.5800/-79.4100.
+
+Local service note: meter pit clearance paired with jetter nozzle envelope near ZIP 24540 for emergency plumbing pro repairs.
 
 ZIP-corridor snapshot for Danville, VA: sampled sectors include 24541, 24540; county routing grid remains Danville County.
 

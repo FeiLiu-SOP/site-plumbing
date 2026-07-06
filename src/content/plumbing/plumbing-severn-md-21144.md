@@ -12,11 +12,14 @@ lng: -76.7000
 zipSample: ["21076", "21144", "21077"]
 zipCodes: ["21076", "21077", "21144"]
 localPaths: ["Anne Arundel County / ZIP 21077 sector", "Anne Arundel County / ZIP 21076 sector", "Anne Arundel County / primary ZIP 21144", "Anne Arundel County / elevation 174 ft band", "Anne Arundel County / ZIP 21144 sector"]
-zillowHomeValueUsd: 520454
 ---
 
-**Engineering Notice for Severn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Severn:** Emergency leak and drain triage uses ~148 mg/L hardness context with Anne Arundel County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Severn, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anne Arundel County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Severn, MD, Anne Arundel County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Branch wet vents in Severn, MD can mask gurgling as a main-line issue.
 

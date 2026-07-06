@@ -12,13 +12,16 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / elevation 62 ft band", "Camden County / coords 30.8200, -81.7200", "Camden County / primary ZIP 31548", "Camden County / ZIP 31548 sector"]
-zillowHomeValueUsd: 297357
 ---
 
-**Engineering Notice for Kingsland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
+**Engineering Notice for Kingsland:** Emergency leak and drain triage uses ~146 mg/L hardness context with Camden County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Kingsland, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Camden County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Kingsland, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Camden County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during Kingsland, GA shoulder seasons.
 

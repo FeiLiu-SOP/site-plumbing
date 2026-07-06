@@ -12,11 +12,14 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / ZIP 66801 sector", "Lyon County / elevation 1145 ft band", "Lyon County / primary ZIP 66801", "Lyon County / coords 38.4000, -96.1900"]
-zillowHomeValueUsd: 168952
 ---
 
-**Engineering Notice for Emporia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lyon County.
+**Engineering Notice for Emporia:** Supply line, cleanout, and water heater scope recorded at 1145 ft elevation context (Lyon County).
 
+
+Burst pipe and drain clog calls in Emporia, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lyon County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Emporia, KS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

@@ -12,11 +12,14 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50263", "50003"]
 localPaths: ["Dallas County / primary ZIP 50263", "Dallas County / elevation 997 ft band", "Dallas County / ZIP 50263 sector", "Dallas County / coords 41.6000, -93.8900", "Dallas County / ZIP 50003 sector"]
-zillowHomeValueUsd: 337639
 ---
 
-**Engineering Notice for Waukee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Waukee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dallas County.
 
+
+Plumbing restoration in Waukee, IA, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Waukee, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -34,7 +37,7 @@ FAQ: When should sump battery backups be load-tested? In Waukee, IA, before spri
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch packets reference county grid Dallas County near ZIP 50263.
+Our Waukee, IA service packets reference Dallas County near ZIP 50263 for pipe and leak scope.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Waukee, IA systems need rebalancing.
 

@@ -12,11 +12,14 @@ lng: -116.3900
 zipSample: ["83616", "83714"]
 zipCodes: ["83714", "83616"]
 localPaths: ["Ada County / coords 43.7200, -116.3900", "Ada County / primary ZIP 83616", "Ada County / ZIP 83616 sector", "Ada County / ZIP 83714 sector", "Ada County / elevation 2618 ft band"]
-zillowHomeValueUsd: 802510
 ---
 
-**Engineering Notice for Eagle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ada County.
+**Engineering Notice for Eagle:** Supply line, cleanout, and water heater scope recorded at 2618 ft elevation context (Ada County).
 
+
+Certified plumbing crews serving Eagle, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Eagle, ID, Ada County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Save water heater serial plates for warranty traceability.
 

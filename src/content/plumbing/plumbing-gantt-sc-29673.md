@@ -12,11 +12,14 @@ lng: -82.4000
 zipSample: ["29673", "29605"]
 zipCodes: ["29605", "29673"]
 localPaths: ["Greenville County / coords 34.7800, -82.4000", "Greenville County / ZIP 29673 sector", "Greenville County / elevation 961 ft band", "Greenville County / primary ZIP 29673", "Greenville County / ZIP 29605 sector"]
-zillowHomeValueUsd: 302681
 ---
 
-**Engineering Notice for Gantt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
+**Engineering Notice for Gantt:** Supply line, cleanout, and water heater scope recorded at 961 ft elevation context (Greenville County).
 
+
+Burst pipe and drain clog calls in Gantt, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenville County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Gantt, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Greenville County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Basement floor drains in Gantt, SC should be snaked only after trap arm geometry is confirmed on camera.
 

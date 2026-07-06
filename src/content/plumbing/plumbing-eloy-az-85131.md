@@ -12,11 +12,14 @@ lng: -111.6000
 zipSample: ["85131", "85123"]
 zipCodes: ["85123", "85131"]
 localPaths: ["Pinal County / coords 32.7500, -111.6000", "Pinal County / elevation 1535 ft band", "Pinal County / primary ZIP 85131", "Pinal County / ZIP 85123 sector", "Pinal County / ZIP 85131 sector"]
-zillowHomeValueUsd: 294346
 ---
 
-**Engineering Notice for Eloy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
+**Engineering Notice for Eloy:** Emergency leak and drain triage uses ~148 mg/L hardness context with Pinal County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Eloy, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Eloy, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pinal County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -46,7 +49,7 @@ Supply audit 844397: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Pressure trace 844397: meter-pit clearance and dielectric union checklist staged for Eloy, AZ near elevation 1535 ft.
 
-Field routing: sump float travel paired with hose bib freeze flag near ZIP 85131.
+Local service note: sump float travel paired with hose bib freeze flag near ZIP 85131 for emergency plumbing pro repairs.
 
 ZIP-corridor snapshot for Eloy, AZ: sampled sectors include 85123, 85131; county routing grid remains Pinal County.
 

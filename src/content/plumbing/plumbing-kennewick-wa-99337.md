@@ -12,11 +12,14 @@ lng: -119.1700
 zipSample: ["99336", "99337", "99338"]
 zipCodes: ["99337", "99336", "99338"]
 localPaths: ["Benton County / elevation 554 ft band", "Benton County / coords 46.2000, -119.1700", "Benton County / primary ZIP 99337", "Benton County / ZIP 99338 sector", "Benton County / ZIP 99336 sector"]
-zillowHomeValueUsd: 432122
 ---
 
-**Engineering Notice for Kennewick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
+**Engineering Notice for Kennewick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Benton County.
 
+
+Burst pipe and drain clog calls in Kennewick, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Benton County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Kennewick, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Kennewick, WA older duplexes can mask tub gurgle as a main-line failure.
 
@@ -47,8 +50,6 @@ Step: document dielectric unions before mixed-metal replacements.
 Pressure trace 169564: meter-pit clearance and dielectric union checklist staged for Kennewick, WA near elevation 554 ft.
 
 Intake ledger 169564: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kennewick, WA at 46.2000, -119.1700.
-
-plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Kennewick intake packet.
 
 On-site sector marker: Benton County / ZIP 99338 sector — logged for map parity and ZIP-corridor verification.
 

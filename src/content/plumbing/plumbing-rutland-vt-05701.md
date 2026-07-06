@@ -12,11 +12,14 @@ lng: -72.9800
 zipSample: ["05701", "05702"]
 zipCodes: ["05702", "05701"]
 localPaths: ["Rutland County / primary ZIP 05701", "Rutland County / elevation 574 ft band", "Rutland County / ZIP 05702 sector", "Rutland County / ZIP 05701 sector", "Rutland County / coords 43.6100, -72.9800"]
-zillowHomeValueUsd: 282896
 ---
 
-**Engineering Notice for Rutland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rutland County.
+**Engineering Notice for Rutland:** Emergency leak and drain triage uses ~120 mg/L hardness context with Rutland County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Rutland, VT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Rutland, VT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rutland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -45,8 +48,6 @@ FAQ: Is hydro-jetting always appropriate? In Rutland, VT, pipe material and bloc
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Fixture roster 227543: toilet flange spacer kit and shower cartridge seat score queued for Rutland, VT walk-through.
-
-Scope trace: floor drain trap primer drip plus scale coupon sampling referenced in Rutland County county grid review.
 
 On-site sector marker: Rutland County / coords 43.6100, -72.9800 — logged for map parity and ZIP-corridor verification.
 

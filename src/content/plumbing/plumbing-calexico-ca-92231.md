@@ -12,15 +12,18 @@ lng: -115.4900
 zipSample: ["92231", "92232"]
 zipCodes: ["92231", "92232"]
 localPaths: ["Imperial County / primary ZIP 92231", "Imperial County / ZIP 92231 sector", "Imperial County / elevation 0 ft band", "Imperial County / coords 32.6800, -115.4900", "Imperial County / ZIP 92232 sector"]
-zillowHomeValueUsd: 391756
 ---
 
-**Engineering Notice for Calexico:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.
+**Engineering Notice for Calexico:** Supply line, cleanout, and water heater scope recorded at 0 ft elevation context (Imperial County).
 
+
+Burst pipe and drain clog calls in Calexico, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Imperial County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Calexico, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Stack vent offsets in Calexico, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Permit note: Main water line replacement in Calexico, CA may require ROW restoration planning.
 

@@ -12,11 +12,14 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / primary ZIP 97801", "Umatilla County / ZIP 97801 sector", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / elevation 1115 ft band"]
-zillowHomeValueUsd: 293549
 ---
 
-**Engineering Notice for Pendleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Umatilla County.
+**Engineering Notice for Pendleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Umatilla County.
 
+
+Emergency licensed plumber service in Pendleton, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Umatilla County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing remediation in Pendleton, OR, Umatilla County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Pendleton, OR slab circuits run overnight when listening mics show ambiguous hits.
 

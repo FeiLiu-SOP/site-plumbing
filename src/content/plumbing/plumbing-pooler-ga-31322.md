@@ -12,11 +12,14 @@ lng: -81.2600
 zipSample: ["31322"]
 zipCodes: ["31322"]
 localPaths: ["Chatham County / coords 32.1000, -81.2600", "Chatham County / elevation 26 ft band", "Chatham County / primary ZIP 31322", "Chatham County / ZIP 31322 sector"]
-zillowHomeValueUsd: 344663
 ---
 
-**Engineering Notice for Pooler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chatham County.
+**Engineering Notice for Pooler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Chatham County.
 
+
+When a main line backs up in Pooler, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Pooler, GA, Chatham County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Seasonal Pooler, GA irrigation cross-connections can mask domestic pressure loss.
 
@@ -48,7 +51,7 @@ Step: tag shutoffs and meter orientation before opening walls.
 
 Fixture roster 995265: toilet flange spacer kit and shower cartridge seat score queued for Pooler, GA walk-through.
 
-Field routing: gas water heater draft hood gap paired with dielectric union checklist near ZIP 31322.
+Local service note: gas water heater draft hood gap paired with dielectric union checklist near ZIP 31322 for emergency plumbing pro repairs.
 
 Primary postal anchor 31322 with multi-ZIP overlap in Pooler; field packets tag Chatham County for county-grid reconciliation.
 

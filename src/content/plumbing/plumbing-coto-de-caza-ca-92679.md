@@ -12,11 +12,14 @@ lng: -117.5900
 zipSample: ["92679"]
 zipCodes: ["92679"]
 localPaths: ["Orange County / primary ZIP 92679", "Orange County / ZIP 92679 sector", "Orange County / elevation 659 ft band", "Orange County / coords 33.6000, -117.5900"]
-zillowHomeValueUsd: 1600704
 ---
 
-**Engineering Notice for Coto de Caza:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Coto de Caza:** Emergency leak and drain triage uses ~177 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Coto de Caza, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Coto de Caza, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Hard water in Coto de Caza, CA accelerates scale on PRV seats and heater elements.
 

@@ -12,11 +12,14 @@ lng: -111.6200
 zipSample: ["85140", "85142"]
 zipCodes: ["85140", "85142"]
 localPaths: ["Maricopa County / ZIP 85142 sector", "Maricopa County / ZIP 85140 sector", "Maricopa County / primary ZIP 85142", "Maricopa County / elevation 1414 ft band", "Maricopa County / coords 33.2500, -111.6200"]
-zillowHomeValueUsd: 584336
 ---
 
-**Engineering Notice for Queen Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Queen Creek:** Supply line, cleanout, and water heater scope recorded at 1414 ft elevation context (Maricopa County).
 
+
+When a main line backs up in Queen Creek, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Queen Creek, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -38,15 +41,13 @@ Irrigation cross-connections in Queen Creek, AZ can back-siphon domestic lines d
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Intake ledger 421439: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Queen Creek, AZ at 33.2500, -111.6200.
 
 Pressure trace 421439: meter-pit clearance and dielectric union checklist staged for Queen Creek, AZ near elevation 1414 ft.
-
-Scope trace: sump float travel plus dielectric union checklist referenced in Maricopa County county grid review.
 
 On-site sector marker: Maricopa County / ZIP 85140 sector — logged for map parity and ZIP-corridor verification.
 

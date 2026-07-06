@@ -12,11 +12,14 @@ lng: -87.7900
 zipSample: ["60302", "60304", "60303", "60301"]
 zipCodes: ["60303", "60302", "60304", "60301"]
 localPaths: ["Cook County / ZIP 60304 sector", "Cook County / elevation 627 ft band", "Cook County / ZIP 60301 sector", "Cook County / coords 41.8900, -87.7900", "Cook County / primary ZIP 60301"]
-zillowHomeValueUsd: 272656
 ---
 
-**Engineering Notice for Oak Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Oak Park:** Emergency leak and drain triage uses ~158 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in Oak Park, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Cook County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Oak Park, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless pulls in Oak Park, IL require pit dimensions verified against utility locate marks.
 
@@ -48,7 +51,7 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Intake ledger 308752: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oak Park, IL at 41.8900, -87.7900.
 
-Scope trace: fixture shutoff torque log plus copper pinhole cluster referenced in Cook County county grid review.
+Scope trace: fixture shutoff torque log plus copper pinhole cluster referenced in Cook County drain and water line review.
 
 On-site sector marker: Cook County / primary ZIP 60301 — logged for map parity and ZIP-corridor verification.
 

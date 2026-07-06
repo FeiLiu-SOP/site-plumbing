@@ -12,11 +12,14 @@ lng: -104.5300
 zipSample: ["88203", "88201"]
 zipCodes: ["88201", "88203"]
 localPaths: ["Chaves County / coords 33.3700, -104.5300", "Chaves County / elevation 3629 ft band", "Chaves County / primary ZIP 88203", "Chaves County / ZIP 88203 sector", "Chaves County / ZIP 88201 sector"]
-zillowHomeValueUsd: 142003
 ---
 
-**Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chaves County.
+**Engineering Notice for Roswell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Chaves County.
 
+
+When a main line backs up in Roswell, NM, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Roswell, NM, Chaves County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -47,8 +50,6 @@ Fixture shutoff stiffness in Roswell, NM may indicate mineral bridging behind st
 Fixture roster 180007: toilet flange spacer kit and shower cartridge seat score queued for Roswell, NM walk-through.
 
 Intake ledger 180007: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roswell, NM at 33.3700, -104.5300.
-
-plumbing brief: toilet flange spacer kit and floor drain trap primer drip were cross-checked for the Roswell intake packet.
 
 On-site sector marker: Chaves County / coords 33.3700, -104.5300 — logged for map parity and ZIP-corridor verification.
 

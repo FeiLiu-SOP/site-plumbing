@@ -12,11 +12,14 @@ lng: -84.1600
 zipSample: ["30058", "30088", "30074"]
 zipCodes: ["30088", "30074", "30058"]
 localPaths: ["DeKalb County / ZIP 30058 sector", "DeKalb County / ZIP 30088 sector", "DeKalb County / ZIP 30074 sector", "DeKalb County / coords 33.7400, -84.1600", "DeKalb County / elevation 961 ft band"]
-zillowHomeValueUsd: 247303
 ---
 
-**Engineering Notice for Redan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Redan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in DeKalb County.
 
+
+Certified plumbing crews serving Redan, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Redan, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -48,7 +51,7 @@ Pressure trace 939153: meter-pit clearance and dielectric union checklist staged
 
 Flow dossier 939153: branch wet-vent geometry and jetting nozzle envelope logged for Redan, GA county grid DeKalb County (ZIP 30058).
 
-Scope trace: sump float travel plus PEX expansion ring batch referenced in DeKalb County county grid review.
+Scope trace: sump float travel plus PEX expansion ring batch referenced in DeKalb County drain and water line review.
 
 On-site sector marker: DeKalb County / coords 33.7400, -84.1600 — logged for map parity and ZIP-corridor verification.
 

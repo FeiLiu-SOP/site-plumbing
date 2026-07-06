@@ -12,11 +12,14 @@ lng: -97.9100
 zipSample: ["67501", "67502"]
 zipCodes: ["67501", "67502"]
 localPaths: ["Reno County / ZIP 67502 sector", "Reno County / elevation 1552 ft band", "Reno County / coords 38.0700, -97.9100", "Reno County / primary ZIP 67502", "Reno County / ZIP 67501 sector"]
-zillowHomeValueUsd: 212256
 ---
 
-**Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Reno County.
+**Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Reno County.
 
+
+Burst pipe and drain clog calls in Hutchinson, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Reno County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Hutchinson, KS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Reno County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Hydrostatic holds in Hutchinson, KS slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -49,8 +52,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Fixture roster 150523: toilet flange spacer kit and shower cartridge seat score queued for Hutchinson, KS walk-through.
 
 Supply audit 150523: curb-stop orientation and hose-bib freeze flag reviewed for Hutchinson, KS at coords 38.0700/-97.9100.
-
-Field routing: water heater T&P path paired with fixture shutoff torque log near ZIP 67502.
 
 Coordinate-anchored dispatch note: center reference 38.0700, -97.9100 at elevation ~1552 ft aligns with Reno County intake staging.
 

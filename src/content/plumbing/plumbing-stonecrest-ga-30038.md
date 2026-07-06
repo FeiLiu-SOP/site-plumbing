@@ -12,11 +12,14 @@ lng: -84.1400
 zipSample: ["30035", "30058", "30038"]
 zipCodes: ["30038", "30035", "30058"]
 localPaths: ["DeKalb County / elevation 856 ft band", "DeKalb County / primary ZIP 30038", "DeKalb County / coords 33.6800, -84.1400", "DeKalb County / ZIP 30038 sector", "DeKalb County / ZIP 30058 sector"]
-zillowHomeValueUsd: 253930
 ---
 
-**Engineering Notice for Stonecrest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Stonecrest:** Emergency leak and drain triage uses ~160 mg/L hardness context with DeKalb County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Stonecrest, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeKalb County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Stonecrest, GA, DeKalb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Frost-free sillcock failures in Stonecrest, GA often trace to interior shutoff seats, not exterior stems.
 

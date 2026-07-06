@@ -12,11 +12,14 @@ lng: -73.5600
 zipSample: ["06911", "06912", "06902", "06905", "06927"]
 zipCodes: ["06911", "06906", "06901", "06927", "06926", "06912", "06904", "06902", "06905", "06910", "06903", "06913"]
 localPaths: ["Western Connecticut County / ZIP 06927 sector", "Western Connecticut County / primary ZIP 06906", "Western Connecticut County / ZIP 06902 sector", "Western Connecticut County / coords 41.1000, -73.5600", "Western Connecticut County / ZIP 06905 sector"]
-zillowHomeValueUsd: 630142
 ---
 
-**Engineering Notice for Stamford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Western Connecticut County.
+**Engineering Notice for Stamford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Western Connecticut County.
 
+
+Burst pipe and drain clog calls in Stamford, CT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Western Connecticut County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Stamford, CT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Western Connecticut County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Frost-free sillcock failures in Stamford, CT often trace to interior shutoff seats, not exterior stems.
 
@@ -45,8 +48,6 @@ Basement floor drains in Stamford, CT should be snaked only after trap arm geome
 Flow dossier 431384: branch wet-vent geometry and jetting nozzle envelope logged for Stamford, CT county grid Western Connecticut County (ZIP 06906).
 
 Supply audit 431384: curb-stop orientation and hose-bib freeze flag reviewed for Stamford, CT at coords 41.1000/-73.5600.
-
-Scope trace: sump float travel plus sewer cleanout cap thread referenced in Western Connecticut County county grid review.
 
 On-site sector marker: Western Connecticut County / ZIP 06927 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -73.9200
 zipSample: ["10175", "11368", "11358", "11106", "10126"]
 zipCodes: ["10138", "11242", "10303", "10121", "11499", "11109", "11251", "10023", "10463", "11416", "10109", "11359"]
 localPaths: ["Queens County / elevation 66 ft band", "Queens County / ZIP 10126 sector", "Queens County / ZIP 11368 sector", "Queens County / ZIP 10175 sector", "Queens County / ZIP 11106 sector"]
-zillowHomeValueUsd: 767724
 ---
 
-**Engineering Notice for New York:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Queens County.
+**Engineering Notice for New York:** Emergency leak and drain triage uses ~165 mg/L hardness context with Queens County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in New York, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Queens County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving New York, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Basement floor drains in New York, NY should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -24,7 +27,7 @@ Galvanized segments in New York, NY may restrict flow long before visible corros
 
 Cast-iron hub corrosion in New York, NY often concentrates at the third joint upstream of the cleanout.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: In New York, NY, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,8 +46,6 @@ Across New York, NY, main-line bellies can trap debris even when fixtures drain 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Drain map 426537: camera-pass priority and expansion-tank pre-charge noted for New York, NY postal sector 11229.
-
-Field routing: sewer cleanout cap thread paired with toilet flange spacer kit near ZIP 11229.
 
 Coordinate-anchored dispatch note: center reference 40.6900, -73.9200 at elevation ~66 ft aligns with Queens County intake staging.
 

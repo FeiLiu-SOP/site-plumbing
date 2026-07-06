@@ -12,11 +12,14 @@ lng: -81.3500
 zipSample: ["32824"]
 zipCodes: ["32824"]
 localPaths: ["Orange County / primary ZIP 32824", "Orange County / elevation 79 ft band", "Orange County / coords 28.3700, -81.3500", "Orange County / ZIP 32824 sector"]
-zillowHomeValueUsd: 402679
 ---
 
-**Engineering Notice for Meadow Woods:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Meadow Woods:** Supply line, cleanout, and water heater scope recorded at 79 ft elevation context (Orange County).
 
+
+Plumbing remediation in Meadow Woods, FL, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Meadow Woods, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Frost-free sillcock failures in Meadow Woods, FL often trace to interior shutoff seats, not exterior stems.
 
@@ -43,8 +46,6 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Lineage note 632175: recirculation pump amp draw captured before Meadow Woods, FL branch isolation.
-
-plumbing brief: jetter nozzle envelope and thermal expansion loop check were cross-checked for the Meadow Woods intake packet.
 
 On-site sector marker: Orange County / ZIP 32824 sector — logged for map parity and ZIP-corridor verification.
 

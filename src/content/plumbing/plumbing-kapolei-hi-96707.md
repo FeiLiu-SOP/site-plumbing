@@ -12,11 +12,14 @@ lng: -158.0700
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / ZIP 96707 sector", "Honolulu County / elevation 89 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / coords 21.3400, -158.0700"]
-zillowHomeValueUsd: 860431
 ---
 
-**Engineering Notice for Kapolei:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Kapolei:** Supply line, cleanout, and water heater scope recorded at 89 ft elevation context (Honolulu County).
 
+
+Emergency qualified plumber service in Kapolei, HI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Honolulu County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Kapolei, HI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Kapolei, HI, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -36,7 +39,7 @@ Basement floor drains in Kapolei, HI should be snaked only after trap arm geomet
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Stack vent offsets in Kapolei, HI older duplexes can mask tub gurgle as a main-line failure.
 
@@ -49,8 +52,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Flow dossier 838077: branch wet-vent geometry and jetting nozzle envelope logged for Kapolei, HI county grid Honolulu County (ZIP 96707).
 
 Pressure trace 838077: meter-pit clearance and dielectric union checklist staged for Kapolei, HI near elevation 89 ft.
-
-Scope trace: jetter nozzle envelope plus sump float travel referenced in Honolulu County county grid review.
 
 Primary postal anchor 96707 with multi-ZIP overlap in Kapolei; field packets tag Honolulu County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -117.7300
 zipSample: ["92656"]
 zipCodes: ["92656"]
 localPaths: ["Orange County / elevation 482 ft band", "Orange County / primary ZIP 92656", "Orange County / ZIP 92656 sector", "Orange County / coords 33.5800, -117.7300"]
-zillowHomeValueUsd: 1000835
 ---
 
-**Engineering Notice for Aliso Viejo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Aliso Viejo:** Emergency leak and drain triage uses ~114 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Aliso Viejo, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Aliso Viejo, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Aliso Viejo, CA basements should be photographed before any wall chase opens.
 
@@ -46,7 +49,7 @@ Fixture roster 641309: toilet flange spacer kit and shower cartridge seat score 
 
 Lineage note 641309: recirculation pump amp draw captured before Aliso Viejo, CA branch isolation.
 
-plumbing brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Aliso Viejo intake packet.
+Plumbing remediation brief: PRV outlet curve and fixture shutoff torque log were cross-checked for the Aliso Viejo pipe and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Orange County. Reference elevation: 482 ft. Primary coordinates: 33.5800, -117.7300. ZIP sample: 92656. Service perimeter note: Coverage extends through Orange County with dispatch centered near ZIP 92656.
 

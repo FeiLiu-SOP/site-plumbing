@@ -12,11 +12,14 @@ lng: -121.5500
 zipSample: ["95798", "95691", "95799", "95605", "95899"]
 zipCodes: ["95799", "95605", "95899", "95798", "95691"]
 localPaths: ["Yolo County / ZIP 95691 sector", "Yolo County / elevation 3 ft band", "Yolo County / primary ZIP 95605", "Yolo County / ZIP 95799 sector", "Yolo County / coords 38.5600, -121.5500"]
-zillowHomeValueUsd: 414914
 ---
 
-**Engineering Notice for West Sacramento:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yolo County.
+**Engineering Notice for West Sacramento:** Supply line, cleanout, and water heater scope recorded at 3 ft elevation context (Yolo County).
 
+
+Burst pipe and drain clog calls in West Sacramento, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Yolo County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in West Sacramento, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Fixture shutoff stiffness in West Sacramento, CA may indicate mineral bridging behind stems.
 
@@ -43,8 +46,6 @@ Across West Sacramento, CA, main-line bellies can trap debris even when fixtures
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Lineage note 400307: recirculation pump amp draw captured before West Sacramento, CA branch isolation.
-
-Field routing: water softener bypass lever paired with sewer cleanout cap thread near ZIP 95605.
 
 Primary postal anchor 95605 with multi-ZIP overlap in West Sacramento; field packets tag Yolo County for county-grid reconciliation.
 

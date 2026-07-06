@@ -12,11 +12,14 @@ lng: -134.1700
 zipSample: ["99811", "99821", "99812", "99803", "99824"]
 zipCodes: ["99812", "99802", "99821", "99811", "99801", "99803", "99824"]
 localPaths: ["Juneau County / elevation 1942 ft band", "Juneau County / ZIP 99821 sector", "Juneau County / ZIP 99824 sector", "Juneau County / ZIP 99812 sector", "Juneau County / ZIP 99803 sector"]
-zillowHomeValueUsd: 350369
 ---
 
-**Engineering Notice for Juneau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Juneau County.
+**Engineering Notice for Juneau:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Juneau County.
 
+
+Certified plumbing crews serving Juneau, AK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Juneau, AK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Juneau County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless pulls in Juneau, AK require pit dimensions verified against utility locate marks.
 
@@ -47,8 +50,6 @@ Basement floor drains in Juneau, AK should be snaked only after trap arm geometr
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 99824.
 
 Supply audit 208524: curb-stop orientation and hose-bib freeze flag reviewed for Juneau, AK at coords 58.4500/-134.1700.
-
-Field routing: gas water heater draft hood gap paired with fixture shutoff torque log near ZIP 99824.
 
 On-site sector marker: Juneau County / elevation 1942 ft band — logged for map parity and ZIP-corridor verification.
 

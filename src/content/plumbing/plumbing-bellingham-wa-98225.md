@@ -12,11 +12,14 @@ lng: -122.4700
 zipSample: ["98229", "98228", "98225", "98226"]
 zipCodes: ["98229", "98225", "98226", "98228"]
 localPaths: ["Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98228 sector", "Whatcom County / primary ZIP 98225", "Whatcom County / ZIP 98225 sector", "Whatcom County / ZIP 98226 sector"]
-zillowHomeValueUsd: 669600
 ---
 
-**Engineering Notice for Bellingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Whatcom County.
+**Engineering Notice for Bellingham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Whatcom County.
 
+
+Burst pipe and drain clog calls in Bellingham, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Whatcom County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Bellingham, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Bellingham, WA basements should be photographed before any wall chase opens.
 
@@ -40,7 +43,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,8 +52,6 @@ Fixture shutoff stiffness in Bellingham, WA may indicate mineral bridging behind
 Fixture roster 204870: toilet flange spacer kit and shower cartridge seat score queued for Bellingham, WA walk-through.
 
 Pressure trace 204870: meter-pit clearance and dielectric union checklist staged for Bellingham, WA near elevation 66 ft.
-
-Scope trace: gas water heater draft hood gap plus toilet flange spacer kit referenced in Whatcom County county grid review.
 
 Regional mesh label Whatcom County: moisture and logistics baselines are keyed to Bellingham, WA before niche-specific work begins.
 

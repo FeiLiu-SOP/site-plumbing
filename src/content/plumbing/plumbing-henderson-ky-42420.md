@@ -12,11 +12,14 @@ lng: -87.5800
 zipSample: ["42419", "42420"]
 zipCodes: ["42419", "42420"]
 localPaths: ["Henderson County / ZIP 42419 sector", "Henderson County / coords 37.8400, -87.5800", "Henderson County / elevation 390 ft band", "Henderson County / primary ZIP 42420", "Henderson County / ZIP 42420 sector"]
-zillowHomeValueUsd: 199594
 ---
 
-**Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henderson County.
+**Engineering Notice for Henderson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Henderson County.
 
+
+Plumbing service in Henderson, KY, Henderson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Henderson, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Intake ledger 273778: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Henderson, KY at 37.8400, -87.5800.
 
 Pressure trace 273778: meter-pit clearance and dielectric union checklist staged for Henderson, KY near elevation 390 ft.
-
-plumbing brief: fixture shutoff torque log and slab penetration sleeve seal were cross-checked for the Henderson intake packet.
 
 On-site sector marker: Henderson County / primary ZIP 42420 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -122.4200
 zipSample: ["98387", "98445"]
 zipCodes: ["98387", "98445"]
 localPaths: ["Pierce County / ZIP 98387 sector", "Pierce County / coords 47.1000, -122.4200", "Pierce County / primary ZIP 98387", "Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector"]
-zillowHomeValueUsd: 509441
 ---
 
-**Engineering Notice for Spanaway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pierce County.
+**Engineering Notice for Spanaway:** Supply line, cleanout, and water heater scope recorded at 374 ft elevation context (Pierce County).
 
+
+When a main line backs up in Spanaway, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Spanaway, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Irrigation cross-connections in Spanaway, WA can back-siphon domestic lines during main breaks.
 
@@ -45,8 +48,6 @@ Risk flag: Seasonal Spanaway, WA irrigation cross-connections can mask domestic 
 Intake ledger 690468: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Spanaway, WA at 47.1000, -122.4200.
 
 Supply audit 690468: curb-stop orientation and hose-bib freeze flag reviewed for Spanaway, WA at coords 47.1000/-122.4200.
-
-Scope trace: branch wet vent geometry plus meter pit clearance referenced in Pierce County county grid review.
 
 ZIP-corridor snapshot for Spanaway, WA: sampled sectors include 98445, 98387; county routing grid remains Pierce County.
 

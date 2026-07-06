@@ -12,11 +12,14 @@ lng: -84.1100
 zipSample: ["45805", "45801", "45804"]
 zipCodes: ["45804", "45801", "45805"]
 localPaths: ["Allen County / elevation 886 ft band", "Allen County / coords 40.7400, -84.1100", "Allen County / ZIP 45801 sector", "Allen County / ZIP 45804 sector", "Allen County / primary ZIP 45801"]
-zillowHomeValueUsd: 139029
 ---
 
-**Engineering Notice for Lima:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allen County.
+**Engineering Notice for Lima:** Supply line, cleanout, and water heater scope recorded at 886 ft elevation context (Allen County).
 
+
+Qualified plumbing crews serving Lima, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lima, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Allen County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -34,7 +37,7 @@ Frost-free sillcock failures in Lima, OH often trace to interior shutoff seats, 
 
 Permit note: Main water line replacement in Lima, OH may require ROW restoration planning.
 
-Dispatch packets reference county grid Allen County near ZIP 45801.
+Our Lima, OH service packets reference Allen County near ZIP 45801 for pipe and leak scope.
 
 Trenchless pulls in Lima, OH require pit dimensions verified against utility locate marks.
 

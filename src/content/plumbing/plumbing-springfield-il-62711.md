@@ -12,11 +12,14 @@ lng: -89.6500
 zipSample: ["62726", "62776", "62756", "62757", "62781"]
 zipCodes: ["62707", "62769", "62777", "62786", "62763", "62776", "62712", "62736", "62722", "62781", "62705", "62629"]
 localPaths: ["Sangamon County / primary ZIP 62711", "Sangamon County / ZIP 62756 sector", "Sangamon County / ZIP 62781 sector", "Sangamon County / ZIP 62757 sector", "Sangamon County / ZIP 62726 sector"]
-zillowHomeValueUsd: 357442
 ---
 
-**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sangamon County.
+**Engineering Notice for Springfield:** Emergency leak and drain triage uses ~113 mg/L hardness context with Sangamon County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Springfield, IL, Sangamon County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Springfield, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Springfield, IL may require ROW restoration planning.
 
@@ -45,6 +48,8 @@ Tip: Log sump cycle frequency during heavy rain windows.
 Supply audit 410562: curb-stop orientation and hose-bib freeze flag reviewed for Springfield, IL at coords 39.7700/-89.6500.
 
 Flow dossier 410562: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, IL county grid Sangamon County (ZIP 62711).
+
+Local service note: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 62711 for emergency plumbing technician repairs.
 
 ZIP-corridor snapshot for Springfield, IL: sampled sectors include 62716, 62766, 62711, 62719, 62757, 62776, 62767, 62763; county routing grid remains Sangamon County.
 

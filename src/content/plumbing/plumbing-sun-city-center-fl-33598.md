@@ -12,11 +12,14 @@ lng: -82.3600
 zipSample: ["33573", "33598"]
 zipCodes: ["33573", "33598"]
 localPaths: ["Hillsborough County / coords 27.7100, -82.3600", "Hillsborough County / elevation 49 ft band", "Hillsborough County / ZIP 33598 sector", "Hillsborough County / ZIP 33573 sector", "Hillsborough County / primary ZIP 33598"]
-zillowHomeValueUsd: 350191
 ---
 
-**Engineering Notice for Sun City Center:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Sun City Center:** Emergency leak and drain triage uses ~141 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Sun City Center, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Sun City Center, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 33598.
 

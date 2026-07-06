@@ -12,11 +12,14 @@ lng: -121.6300
 zipSample: ["93905", "93902", "93901", "93906", "93915"]
 zipCodes: ["93902", "93915", "93906", "93901", "93905"]
 localPaths: ["Monterey County / ZIP 93905 sector", "Monterey County / ZIP 93902 sector", "Monterey County / ZIP 93901 sector", "Monterey County / ZIP 93915 sector", "Monterey County / coords 36.6900, -121.6300"]
-zillowHomeValueUsd: 774157
 ---
 
-**Engineering Notice for Salinas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
+**Engineering Notice for Salinas:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Monterey County).
 
+
+When a main line backs up in Salinas, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Salinas, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Monterey County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Salinas, CA irrigation cross-connections can mask domestic pressure loss.
 
@@ -47,8 +50,6 @@ In Salinas, CA, slab leaks often present as warm spots before wall stains appear
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Pressure trace 135942: meter-pit clearance and dielectric union checklist staged for Salinas, CA near elevation 36 ft.
-
-Field routing: branch wet vent geometry paired with water softener bypass lever near ZIP 93901.
 
 On-site sector marker: Monterey County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

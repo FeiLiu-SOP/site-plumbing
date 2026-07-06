@@ -12,15 +12,18 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / ZIP 60172 sector", "DuPage County / primary ZIP 60172", "DuPage County / coords 41.9800, -88.0900", "DuPage County / elevation 794 ft band"]
-zillowHomeValueUsd: 374407
 ---
 
-**Engineering Notice for Roselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Roselle:** Supply line, cleanout, and water heater scope recorded at 794 ft elevation context (DuPage County).
 
+
+Certified plumbing crews serving Roselle, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Roselle, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless sleeve pulls near Roselle, IL require pit shoring notes when water tables are high.
 
@@ -45,6 +48,8 @@ Material note: Water heater anode type may change with Roselle, IL hardness prof
 Intake ledger 892927: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roselle, IL at 41.9800, -88.0900.
 
 Drain map 892927: camera-pass priority and expansion-tank pre-charge noted for Roselle, IL postal sector 60172.
+
+Local service note: water softener bypass lever paired with sump float travel near ZIP 60172 for emergency qualified plumber repairs.
 
 **Regional Infrastructure Brief:** Service coverage aligns with DuPage County and primary ZIP 60172. Terrain reference: 794 ft. Center point: 41.9800, -88.0900. ZIP sample: 60172. Service perimeter note: Coverage extends through DuPage County with dispatch centered near ZIP 60172.
 

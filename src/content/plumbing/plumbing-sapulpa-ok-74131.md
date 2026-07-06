@@ -12,11 +12,14 @@ lng: -96.1000
 zipSample: ["74066", "74067", "74131"]
 zipCodes: ["74067", "74066", "74131"]
 localPaths: ["Creek County / coords 36.0100, -96.1000", "Creek County / primary ZIP 74131", "Creek County / ZIP 74131 sector", "Creek County / ZIP 74067 sector", "Creek County / ZIP 74066 sector"]
-zillowHomeValueUsd: 277155
 ---
 
-**Engineering Notice for Sapulpa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Creek County.
+**Engineering Notice for Sapulpa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Creek County.
 
+
+Burst pipe and drain clog calls in Sapulpa, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Creek County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Sapulpa, OK, Creek County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Seasonal Sapulpa, OK irrigation cross-connections can mask domestic pressure loss.
 
@@ -28,7 +31,7 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 
 FAQ: When should sump battery backups be load-tested? In Sapulpa, OK, before spring thaw and hurricane remnants.
 
-We coordinate Sapulpa, OK plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Sapulpa, OK plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 CPVC solvent weld times shift with ambient humidity during Sapulpa, OK shoulder seasons.
 
@@ -45,6 +48,8 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Stack vent offsets in Sapulpa, OK older duplexes can mask tub gurgle as a main-line failure.
 
 Lineage note 330602: recirculation pump amp draw captured before Sapulpa, OK branch isolation.
+
+Scope trace: meter pit clearance plus branch wet vent geometry referenced in Creek County drain and water line review.
 
 ZIP-corridor snapshot for Sapulpa, OK: sampled sectors include 74067, 74066, 74131; county routing grid remains Creek County.
 

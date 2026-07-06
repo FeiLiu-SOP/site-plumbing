@@ -12,11 +12,14 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / coords 21.3300, -158.0300", "Honolulu County / ZIP 96706 sector", "Honolulu County / primary ZIP 96706", "Honolulu County / elevation 52 ft band"]
-zillowHomeValueUsd: 830556
 ---
 
-**Engineering Notice for Ewa Gentry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Ewa Gentry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Honolulu County.
 
+
+Burst pipe and drain clog calls in Ewa Gentry, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Honolulu County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Ewa Gentry, HI, Honolulu County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -38,7 +41,7 @@ Dual-water-meter setups in Ewa Gentry, HI irrigation zones need backflow logs be
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-We coordinate Ewa Gentry, HI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Ewa Gentry, HI plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Galvanized segments in Ewa Gentry, HI may restrict flow long before visible corrosion.
 

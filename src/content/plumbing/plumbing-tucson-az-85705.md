@@ -12,11 +12,14 @@ lng: -110.8800
 zipSample: ["85751", "85713", "85732", "85748", "85714"]
 zipCodes: ["85725", "85734", "85723", "85754", "85724", "85732", "85756", "85726", "85748", "85716", "85711", "85721"]
 localPaths: ["Pima County / elevation 2677 ft band", "Pima County / ZIP 85714 sector", "Pima County / ZIP 85751 sector", "Pima County / ZIP 85713 sector", "Pima County / ZIP 85732 sector"]
-zillowHomeValueUsd: 254261
 ---
 
-**Engineering Notice for Tucson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Tucson:** Emergency leak and drain triage uses ~124 mg/L hardness context with Pima County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Tucson, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Tucson, AZ, Pima County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 85705.
 
@@ -28,7 +31,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Is hydro-jetting always appropriate? In Tucson, AZ, pipe material and blockage type dictate method.
 
@@ -47,8 +50,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Tip: Save water heater serial plates for warranty traceability.
 
 Pressure trace 843275: meter-pit clearance and dielectric union checklist staged for Tucson, AZ near elevation 2677 ft.
-
-plumbing brief: recirculation pump amp draw and water softener bypass lever were cross-checked for the Tucson intake packet.
 
 On-site sector marker: Pima County / coords 32.1500, -110.8800 — logged for map parity and ZIP-corridor verification.
 

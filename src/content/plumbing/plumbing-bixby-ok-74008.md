@@ -12,11 +12,14 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / coords 35.9500, -95.8800", "Tulsa County / ZIP 74008 sector"]
-zillowHomeValueUsd: 349685
 ---
 
-**Engineering Notice for Bixby:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Bixby:** Supply line, cleanout, and water heater scope recorded at 617 ft elevation context (Tulsa County).
 
+
+Emergency plumbing technician service in Bixby, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Tulsa County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing restoration in Bixby, OK, Tulsa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Trenchless sleeve pulls near Bixby, OK require pit shoring notes when water tables are high.
 
@@ -49,6 +52,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Flow dossier 548236: branch wet-vent geometry and jetting nozzle envelope logged for Bixby, OK county grid Tulsa County (ZIP 74008).
 
 Supply audit 548236: curb-stop orientation and hose-bib freeze flag reviewed for Bixby, OK at coords 35.9500/-95.8800.
+
+Scope trace: slab leak listening window plus shower cartridge seat score referenced in Tulsa County drain and water line review.
 
 On-site sector marker: Tulsa County / primary ZIP 74008 — logged for map parity and ZIP-corridor verification.
 

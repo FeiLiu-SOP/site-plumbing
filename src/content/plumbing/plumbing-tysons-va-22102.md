@@ -12,11 +12,14 @@ lng: -77.2300
 zipSample: ["22102", "22182"]
 zipCodes: ["22102", "22182"]
 localPaths: ["Fairfax County / ZIP 22102 sector", "Fairfax County / elevation 512 ft band", "Fairfax County / ZIP 22182 sector", "Fairfax County / primary ZIP 22102", "Fairfax County / coords 38.9200, -77.2300"]
-zillowHomeValueUsd: 841480
 ---
 
-**Engineering Notice for Tysons:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Tysons:** Supply line, cleanout, and water heater scope recorded at 512 ft elevation context (Fairfax County).
 
+
+Qualified plumbing crews serving Tysons, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Tysons, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: In Tysons, VA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -43,8 +46,6 @@ Material note: Water heater anode type may change with Tysons, VA hardness profi
 Polybutylene manifold tags in Tysons, VA basements should be photographed before any wall chase opens.
 
 Drain map 285459: camera-pass priority and expansion-tank pre-charge noted for Tysons, VA postal sector 22102.
-
-Scope trace: dielectric union checklist plus hose bib freeze flag referenced in Fairfax County county grid review.
 
 On-site sector marker: Fairfax County / coords 38.9200, -77.2300 — logged for map parity and ZIP-corridor verification.
 

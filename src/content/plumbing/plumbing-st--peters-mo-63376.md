@@ -12,11 +12,14 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / coords 38.7800, -90.6100", "St. Charles County / ZIP 63304 sector", "St. Charles County / primary ZIP 63376", "St. Charles County / elevation 512 ft band", "St. Charles County / ZIP 63376 sector"]
-zillowHomeValueUsd: 325170
 ---
 
-**Engineering Notice for St. Peters:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.
+**Engineering Notice for St. Peters:** Supply line, cleanout, and water heater scope recorded at 512 ft elevation context (St. Charles County).
 
+
+Qualified plumbing crews serving St. Peters, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in St. Peters, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Frost-free sillcock failures in St. Peters, MO often trace to interior shutoff seats, not exterior stems.
 
@@ -48,7 +51,7 @@ Supply audit 949659: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 949659: toilet flange spacer kit and shower cartridge seat score queued for St. Peters, MO walk-through.
 
-plumbing brief: water softener bypass lever and recirculation pump amp draw were cross-checked for the St. Peters intake packet.
+Plumbing restoration brief: water softener bypass lever and recirculation pump amp draw were cross-checked for the St. Peters pipe and leak scope.
 
 On-site sector marker: St. Charles County / coords 38.7800, -90.6100 — logged for map parity and ZIP-corridor verification.
 

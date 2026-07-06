@@ -12,11 +12,14 @@ lng: -120.3300
 zipSample: ["98801"]
 zipCodes: ["98801"]
 localPaths: ["Chelan County / elevation 702 ft band", "Chelan County / coords 47.4400, -120.3300", "Chelan County / primary ZIP 98801", "Chelan County / ZIP 98801 sector"]
-zillowHomeValueUsd: 490435
 ---
 
-**Engineering Notice for Wenatchee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chelan County.
+**Engineering Notice for Wenatchee:** Emergency leak and drain triage uses ~118 mg/L hardness context with Chelan County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Wenatchee, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Wenatchee, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Chelan County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Trenchless sleeve pulls near Wenatchee, WA require pit shoring notes when water tables are high.
 
@@ -47,8 +50,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
 Supply audit 868498: curb-stop orientation and hose-bib freeze flag reviewed for Wenatchee, WA at coords 47.4400/-120.3300.
-
-Scope trace: PEX expansion ring batch plus sewer cleanout cap thread referenced in Chelan County county grid review.
 
 On-site sector marker: Chelan County / ZIP 98801 sector — logged for map parity and ZIP-corridor verification.
 

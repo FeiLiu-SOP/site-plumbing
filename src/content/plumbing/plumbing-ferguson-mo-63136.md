@@ -12,15 +12,18 @@ lng: -90.3000
 zipSample: ["63136", "63135"]
 zipCodes: ["63135", "63136"]
 localPaths: ["St. Louis County / primary ZIP 63136", "St. Louis County / coords 38.7500, -90.3000", "St. Louis County / ZIP 63136 sector", "St. Louis County / ZIP 63135 sector", "St. Louis County / elevation 574 ft band"]
-zillowHomeValueUsd: 85938
 ---
 
-**Engineering Notice for Ferguson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Ferguson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+Burst pipe and drain clog calls in Ferguson, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Ferguson, MO, St. Louis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,6 +48,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Pressure trace 865521: meter-pit clearance and dielectric union checklist staged for Ferguson, MO near elevation 574 ft.
 
 Drain map 865521: camera-pass priority and expansion-tank pre-charge noted for Ferguson, MO postal sector 63136.
+
+Plumbing remediation brief: hose bib freeze flag and branch wet vent geometry were cross-checked for the Ferguson pipe and leak scope.
 
 **Regional Infrastructure Brief:** Service coverage aligns with St. Louis County and primary ZIP 63136. Terrain reference: 574 ft. Center point: 38.7500, -90.3000. ZIP sample: 63135, 63136. Service perimeter note: Coverage extends through St. Louis County with dispatch centered near ZIP 63136.
 

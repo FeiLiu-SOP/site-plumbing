@@ -12,11 +12,14 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12901", "12903"]
 localPaths: ["Clinton County / ZIP 12903 sector", "Clinton County / primary ZIP 12903", "Clinton County / coords 44.7000, -73.4600", "Clinton County / ZIP 12901 sector", "Clinton County / elevation 151 ft band"]
-zillowHomeValueUsd: 235970
 ---
 
-**Engineering Notice for Plattsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clinton County.
+**Engineering Notice for Plattsburgh:** Emergency leak and drain triage uses ~117 mg/L hardness context with Clinton County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Plattsburgh, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Licensed plumbing crews serving Plattsburgh, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Plattsburgh, NY older duplexes can mask tub gurgle as a main-line failure.
 
@@ -47,8 +50,6 @@ Permit note: Main water line replacement in Plattsburgh, NY may require ROW rest
 Risk flag: Seasonal Plattsburgh, NY irrigation cross-connections can mask domestic pressure loss.
 
 Intake ledger 781054: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Plattsburgh, NY at 44.7000, -73.4600.
-
-Field routing: jetter nozzle envelope paired with slab leak listening window near ZIP 12903.
 
 On-site sector marker: Clinton County / ZIP 12901 sector — logged for map parity and ZIP-corridor verification.
 

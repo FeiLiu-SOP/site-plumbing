@@ -12,12 +12,14 @@ lng: -104.7700
 zipSample: ["80913", "80902"]
 zipCodes: ["80902", "80913"]
 localPaths: ["El Paso County / ZIP 80913 sector", "El Paso County / coords 38.7100, -104.7700", "El Paso County / elevation 5758 ft band", "El Paso County / ZIP 80902 sector", "El Paso County / primary ZIP 80902"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 540641
 ---
 
-**Engineering Notice for Fort Carson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: El Paso County.
+**Engineering Notice for Fort Carson:** Emergency leak and drain triage uses ~159 mg/L hardness context with El Paso County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Fort Carson, CO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Fort Carson, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in El Paso County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Galvanized segments in Fort Carson, CO may restrict flow long before visible corrosion.
 

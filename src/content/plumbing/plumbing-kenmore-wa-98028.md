@@ -12,11 +12,14 @@ lng: -122.2500
 zipSample: ["98028"]
 zipCodes: ["98028"]
 localPaths: ["King County / coords 47.7500, -122.2500", "King County / ZIP 98028 sector", "King County / elevation 62 ft band", "King County / primary ZIP 98028"]
-zillowHomeValueUsd: 1047732
 ---
 
-**Engineering Notice for Kenmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Kenmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in King County.
 
+
+Burst pipe and drain clog calls in Kenmore, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Kenmore, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in King County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -44,7 +47,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 133378: recirculation pump amp draw captured before Kenmore, WA branch isolation.
 

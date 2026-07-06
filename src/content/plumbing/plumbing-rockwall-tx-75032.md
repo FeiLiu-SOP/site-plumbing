@@ -12,11 +12,14 @@ lng: -96.4400
 zipSample: ["75087", "75032"]
 zipCodes: ["75032", "75087"]
 localPaths: ["Rockwall County / coords 32.9200, -96.4400", "Rockwall County / ZIP 75087 sector", "Rockwall County / primary ZIP 75032", "Rockwall County / ZIP 75032 sector", "Rockwall County / elevation 568 ft band"]
-zillowHomeValueUsd: 531411
 ---
 
-**Engineering Notice for Rockwall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockwall County.
+**Engineering Notice for Rockwall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Rockwall County.
 
+
+Burst pipe and drain clog calls in Rockwall, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rockwall County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Rockwall, TX, Rockwall County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Rockwall, TX older duplexes can mask tub gurgle as a main-line failure.
 
@@ -48,7 +51,7 @@ Intake ledger 259908: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 259908: recirculation pump amp draw captured before Rockwall, TX branch isolation.
 
-plumbing brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Rockwall intake packet.
+Plumbing restoration brief: PEX expansion ring batch and scale coupon sampling were cross-checked for the Rockwall pipe and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Rockwall County. Reference elevation: 568 ft. Primary coordinates: 32.9200, -96.4400. ZIP sample: 75087, 75032. Regional routing note: Rockwall County traffic flow is balanced around ZIP 75032 service demand.
 

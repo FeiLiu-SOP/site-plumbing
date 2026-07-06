@@ -12,11 +12,14 @@ lng: -88.3900
 zipSample: ["54914", "54913", "54912", "54915", "54919"]
 zipCodes: ["54915", "54912", "54911", "54914", "54919", "54913"]
 localPaths: ["Outagamie County / elevation 791 ft band", "Outagamie County / ZIP 54919 sector", "Outagamie County / ZIP 54914 sector", "Outagamie County / coords 44.2800, -88.3900", "Outagamie County / ZIP 54912 sector"]
-zillowHomeValueUsd: 303664
 ---
 
-**Engineering Notice for Appleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Outagamie County.
+**Engineering Notice for Appleton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Outagamie County.
 
+
+Emergency plumbing pro service in Appleton, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Outagamie County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing service in Appleton, WI, Outagamie County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -30,7 +33,7 @@ Cast-iron hub corrosion in Appleton, WI often concentrates at the third joint up
 
 Frost-free sillcock failures in Appleton, WI often trace to interior shutoff seats, not exterior stems.
 
-Dispatch packets reference county grid Outagamie County near ZIP 54914.
+Our Appleton, WI service packets reference Outagamie County near ZIP 54914 for pipe and leak scope.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -45,8 +48,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Lineage note 339882: recirculation pump amp draw captured before Appleton, WI branch isolation.
 
 Intake ledger 339882: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Appleton, WI at 44.2800, -88.3900.
-
-plumbing brief: branch wet vent geometry and toilet flange spacer kit were cross-checked for the Appleton intake packet.
 
 ZIP-corridor snapshot for Appleton, WI: sampled sectors include 54913, 54911, 54912, 54915, 54914, 54919; county routing grid remains Outagamie County.
 

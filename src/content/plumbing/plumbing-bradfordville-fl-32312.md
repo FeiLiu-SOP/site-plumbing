@@ -12,11 +12,14 @@ lng: -84.2100
 zipSample: ["32312", "32309", "32318"]
 zipCodes: ["32318", "32312", "32309"]
 localPaths: ["Leon County / primary ZIP 32312", "Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100", "Leon County / ZIP 32309 sector", "Leon County / ZIP 32318 sector"]
-zillowHomeValueUsd: 452045
 ---
 
-**Engineering Notice for Bradfordville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Leon County.
+**Engineering Notice for Bradfordville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Leon County.
 
+
+Burst pipe and drain clog calls in Bradfordville, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Leon County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Bradfordville, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 32312.
 

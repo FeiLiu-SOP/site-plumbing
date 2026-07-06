@@ -12,11 +12,14 @@ lng: -90.3600
 zipSample: ["63128", "63123"]
 zipCodes: ["63123", "63128"]
 localPaths: ["St. Louis County / elevation 574 ft band", "St. Louis County / coords 38.5100, -90.3600", "St. Louis County / ZIP 63128 sector", "St. Louis County / ZIP 63123 sector", "St. Louis County / primary ZIP 63128"]
-zillowHomeValueUsd: 369550
 ---
 
-**Engineering Notice for Concord:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Concord:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+Burst pipe and drain clog calls in Concord, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Concord, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -24,7 +27,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Across Concord, MO, main-line bellies can trap debris even when fixtures drain normally.
 

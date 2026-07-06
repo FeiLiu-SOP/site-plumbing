@@ -12,11 +12,14 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / ZIP 29687 sector", "Greenville County / primary ZIP 29687", "Greenville County / coords 34.9200, -82.3100", "Greenville County / elevation 925 ft band"]
-zillowHomeValueUsd: 311912
 ---
 
-**Engineering Notice for Taylors:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
+**Engineering Notice for Taylors:** Emergency leak and drain triage uses ~155 mg/L hardness context with Greenville County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Taylors, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenville County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Taylors, SC, Greenville County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Galvanized segments in Taylors, SC may restrict flow long before visible corrosion.
 
@@ -30,7 +33,7 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 
 CPVC solvent weld times shift with ambient humidity during Taylors, SC shoulder seasons.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

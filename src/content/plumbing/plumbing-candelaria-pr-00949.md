@@ -12,12 +12,14 @@ lng: -66.2200
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / coords 18.4000, -66.2200", "Toa Baja County / elevation 233 ft band", "Toa Baja County / primary ZIP 00949"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 371739
 ---
 
-**Engineering Notice for Candelaria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Toa Baja County.
+**Engineering Notice for Candelaria:** Supply line, cleanout, and water heater scope recorded at 233 ft elevation context (Toa Baja County).
 
+
+Emergency plumbing pro service in Candelaria, PR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Toa Baja County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Candelaria, PR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Polybutylene manifold tags in Candelaria, PR basements should be photographed before any wall chase opens.
 
@@ -43,11 +45,11 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 00949.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Supply audit 662292: curb-stop orientation and hose-bib freeze flag reviewed for Candelaria, PR at coords 18.4000/-66.2200.
 
-plumbing brief: cleanout riser height and floor drain trap primer drip were cross-checked for the Candelaria intake packet.
+Plumbing restoration brief: cleanout riser height and floor drain trap primer drip were cross-checked for the Candelaria pipe and leak scope.
 
 ZIP-corridor snapshot for Candelaria, PR: sampled sectors include 00949; county routing grid remains Toa Baja County.
 

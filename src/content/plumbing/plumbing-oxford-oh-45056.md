@@ -12,11 +12,14 @@ lng: -84.7400
 zipSample: ["45056"]
 zipCodes: ["45056"]
 localPaths: ["Butler County / coords 39.5100, -84.7400", "Butler County / primary ZIP 45056", "Butler County / ZIP 45056 sector", "Butler County / elevation 919 ft band"]
-zillowHomeValueUsd: 336010
 ---
 
-**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.
+**Engineering Notice for Oxford:** Supply line, cleanout, and water heater scope recorded at 919 ft elevation context (Butler County).
 
+
+Burst pipe and drain clog calls in Oxford, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Butler County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Oxford, OH, Butler County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

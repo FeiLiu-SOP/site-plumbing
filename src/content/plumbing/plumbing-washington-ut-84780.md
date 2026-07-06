@@ -12,17 +12,20 @@ lng: -113.4900
 zipSample: ["84780", "84771"]
 zipCodes: ["84780", "84771"]
 localPaths: ["Washington County / ZIP 84771 sector", "Washington County / elevation 2841 ft band", "Washington County / coords 37.1300, -113.4900", "Washington County / ZIP 84780 sector", "Washington County / primary ZIP 84780"]
-zillowHomeValueUsd: 544579
 ---
 
-**Engineering Notice for Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Washington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Washington County.
 
+
+Burst pipe and drain clog calls in Washington, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Washington, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Branch wet vents in Washington, UT can mask gurgling as a main-line issue.
 
 Sewer gas odors in Washington, UT should trigger trap seal and vent path review.
 
-We coordinate Washington, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Washington, UT plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -34,7 +37,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Galvanized segments in Washington, UT may restrict flow long before visible corrosion.
 
@@ -45,8 +48,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Stack vent offsets in Washington, UT older duplexes can mask tub gurgle as a main-line failure.
 
 Pressure trace 337374: meter-pit clearance and dielectric union checklist staged for Washington, UT near elevation 2841 ft.
-
-Scope trace: shower cartridge seat score plus gas water heater draft hood gap referenced in Washington County county grid review.
 
 On-site sector marker: Washington County / elevation 2841 ft band — logged for map parity and ZIP-corridor verification.
 

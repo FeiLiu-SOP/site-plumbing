@@ -12,11 +12,14 @@ lng: -85.3900
 zipSample: ["47306", "47302", "47304", "47303", "47307"]
 zipCodes: ["47307", "47302", "47305", "47303", "47304", "47306"]
 localPaths: ["Delaware County / coords 40.2000, -85.3900", "Delaware County / ZIP 47307 sector", "Delaware County / primary ZIP 47306", "Delaware County / ZIP 47302 sector", "Delaware County / elevation 945 ft band"]
-zillowHomeValueUsd: 209799
 ---
 
-**Engineering Notice for Muncie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Delaware County.
+**Engineering Notice for Muncie:** Emergency leak and drain triage uses ~180 mg/L hardness context with Delaware County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Muncie, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Muncie, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Delaware County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near Muncie, IN require pit shoring notes when water tables are high.
 
@@ -32,7 +35,7 @@ Basement floor drains in Muncie, IN should be snaked only after trap arm geometr
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

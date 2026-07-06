@@ -12,11 +12,14 @@ lng: -121.7800
 zipSample: ["97603", "97601"]
 zipCodes: ["97601", "97603"]
 localPaths: ["Klamath County / ZIP 97601 sector", "Klamath County / primary ZIP 97603", "Klamath County / coords 42.2200, -121.7800", "Klamath County / ZIP 97603 sector", "Klamath County / elevation 4091 ft band"]
-zillowHomeValueUsd: 325562
 ---
 
-**Engineering Notice for Klamath Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Klamath County.
+**Engineering Notice for Klamath Falls:** Supply line, cleanout, and water heater scope recorded at 4091 ft elevation context (Klamath County).
 
+
+Burst pipe and drain clog calls in Klamath Falls, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Klamath County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Klamath Falls, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Klamath County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -26,7 +29,7 @@ Expansion tank pre-charge loss in Klamath Falls, OR often tracks heater replacem
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 97603.
 

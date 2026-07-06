@@ -12,11 +12,14 @@ lng: -71.1100
 zipSample: ["02153", "02155", "02156"]
 zipCodes: ["02153", "02156", "02155"]
 localPaths: ["Middlesex County / coords 42.4200, -71.1100", "Middlesex County / elevation 52 ft band", "Middlesex County / primary ZIP 02155", "Middlesex County / ZIP 02153 sector", "Middlesex County / ZIP 02155 sector"]
-zillowHomeValueUsd: 842768
 ---
 
-**Engineering Notice for Medford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Medford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Middlesex County.
 
+
+Burst pipe and drain clog calls in Medford, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Middlesex County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Medford, MA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Middlesex County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 02155.
 

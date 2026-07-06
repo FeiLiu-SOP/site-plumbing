@@ -12,11 +12,14 @@ lng: -74.4500
 zipSample: ["08401", "08404", "08405"]
 zipCodes: ["08405", "08404", "08401"]
 localPaths: ["Atlantic County / ZIP 08404 sector", "Atlantic County / primary ZIP 08401", "Atlantic County / elevation 7 ft band", "Atlantic County / ZIP 08401 sector", "Atlantic County / coords 39.3800, -74.4500"]
-zillowHomeValueUsd: 215886
 ---
 
-**Engineering Notice for Atlantic City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Atlantic County.
+**Engineering Notice for Atlantic City:** Emergency leak and drain triage uses ~122 mg/L hardness context with Atlantic County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Atlantic City, NJ, Atlantic County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Atlantic City, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Fixture shutoff stiffness in Atlantic City, NJ may indicate mineral bridging behind stems.
 
@@ -45,8 +48,6 @@ Stack vent offsets in Atlantic City, NJ older duplexes can mask tub gurgle as a 
 Risk flag: In Atlantic City, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
 Flow dossier 577078: branch wet-vent geometry and jetting nozzle envelope logged for Atlantic City, NJ county grid Atlantic County (ZIP 08401).
-
-Field routing: shower cartridge seat score paired with PRV outlet curve near ZIP 08401.
 
 On-site sector marker: Atlantic County / primary ZIP 08401 — logged for map parity and ZIP-corridor verification.
 

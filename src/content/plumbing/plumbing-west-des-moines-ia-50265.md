@@ -12,11 +12,14 @@ lng: -93.7800
 zipSample: ["50339", "50266", "50364", "50360", "50265"]
 zipCodes: ["50362", "50266", "50398", "50265", "50361", "50369", "50061", "50339", "50359", "50368", "50363", "50364"]
 localPaths: ["Polk County / primary ZIP 50265", "Polk County / ZIP 50339 sector", "Polk County / ZIP 50360 sector", "Polk County / ZIP 50265 sector", "Polk County / coords 41.5500, -93.7800"]
-zillowHomeValueUsd: 309784
 ---
 
-**Engineering Notice for West Des Moines:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for West Des Moines:** Supply line, cleanout, and water heater scope recorded at 935 ft elevation context (Polk County).
 
+
+Burst pipe and drain clog calls in West Des Moines, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Polk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in West Des Moines, IA, Polk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 50265.
 
@@ -38,7 +41,7 @@ Frost-free sillcock failures in West Des Moines, IA often trace to interior shut
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in West Des Moines, IA.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: In West Des Moines, IA, slab leaks can misroute as foundation issues without listening equipment.
 

@@ -12,11 +12,14 @@ lng: -108.5700
 zipSample: ["81504", "81507", "81503", "81502", "81501"]
 zipCodes: ["81505", "81504", "81501", "81507", "81503", "81502", "81506"]
 localPaths: ["Mesa County / ZIP 81504 sector", "Mesa County / ZIP 81503 sector", "Mesa County / primary ZIP 81503", "Mesa County / ZIP 81502 sector", "Mesa County / ZIP 81501 sector"]
-zillowHomeValueUsd: 401131
 ---
 
-**Engineering Notice for Grand Junction:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mesa County.
+**Engineering Notice for Grand Junction:** Supply line, cleanout, and water heater scope recorded at 4672 ft elevation context (Mesa County).
 
+
+Plumbing remediation in Grand Junction, CO, Mesa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Grand Junction, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

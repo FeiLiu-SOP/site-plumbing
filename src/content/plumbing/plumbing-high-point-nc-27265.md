@@ -12,11 +12,14 @@ lng: -79.9900
 zipSample: ["27265", "27260", "27261", "27262", "27282"]
 zipCodes: ["27235", "27263", "27265", "27261", "27264", "27268", "27262", "27260", "27282"]
 localPaths: ["Guilford County / coords 35.9900, -79.9900", "Guilford County / ZIP 27265 sector", "Guilford County / ZIP 27261 sector", "Guilford County / ZIP 27262 sector", "Guilford County / primary ZIP 27265"]
-zillowHomeValueUsd: 302104
 ---
 
-**Engineering Notice for High Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guilford County.
+**Engineering Notice for High Point:** Supply line, cleanout, and water heater scope recorded at 886 ft elevation context (Guilford County).
 
+
+When a main line backs up in High Point, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in High Point, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Guilford County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Polybutylene manifold tags in High Point, NC basements should be photographed before any wall chase opens.
 
@@ -50,7 +53,7 @@ Flow dossier 850967: branch wet-vent geometry and jetting nozzle envelope logged
 
 Drain map 850967: camera-pass priority and expansion-tank pre-charge noted for High Point, NC postal sector 27265.
 
-Scope trace: sewer cleanout cap thread plus jetter nozzle envelope referenced in Guilford County county grid review.
+Scope trace: sewer cleanout cap thread plus jetter nozzle envelope referenced in Guilford County drain and water line review.
 
 Regional mesh label Guilford County: moisture and logistics baselines are keyed to High Point, NC before niche-specific work begins.
 

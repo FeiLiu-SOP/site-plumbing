@@ -12,11 +12,14 @@ lng: -81.1800
 zipSample: ["25801"]
 zipCodes: ["25801"]
 localPaths: ["Raleigh County / ZIP 25801 sector", "Raleigh County / elevation 2310 ft band", "Raleigh County / coords 37.7900, -81.1800", "Raleigh County / primary ZIP 25801"]
-zillowHomeValueUsd: 144005
 ---
 
-**Engineering Notice for Beckley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Raleigh County.
+**Engineering Notice for Beckley:** Supply line, cleanout, and water heater scope recorded at 2310 ft elevation context (Raleigh County).
 
+
+Burst pipe and drain clog calls in Beckley, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Raleigh County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Beckley, WV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -46,7 +49,7 @@ Permit note: Main water line replacement in Beckley, WV may require ROW restorat
 
 Intake ledger 533481: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Beckley, WV at 37.7900, -81.1800.
 
-plumbing brief: thermal expansion loop check and cleanout riser height were cross-checked for the Beckley intake packet.
+Plumbing restoration brief: thermal expansion loop check and cleanout riser height were cross-checked for the Beckley pipe and leak scope.
 
 On-site sector marker: Raleigh County / primary ZIP 25801 — logged for map parity and ZIP-corridor verification.
 

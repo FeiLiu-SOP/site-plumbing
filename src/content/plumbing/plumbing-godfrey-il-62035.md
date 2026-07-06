@@ -12,11 +12,14 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / elevation 587 ft band", "Madison County / ZIP 62035 sector", "Madison County / primary ZIP 62035", "Madison County / coords 38.9600, -90.2200"]
-zillowHomeValueUsd: 213355
 ---
 
-**Engineering Notice for Godfrey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Godfrey:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Madison County.
 
+
+Burst pipe and drain clog calls in Godfrey, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Madison County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Godfrey, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Madison County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Cleanout access limits in Godfrey, IL frequently extend drain cleaning duration.
 
@@ -40,7 +43,7 @@ Water heater T&P discharge paths in Godfrey, IL must terminate safely before rep
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-We coordinate Godfrey, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Godfrey, IL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Supply audit 127645: curb-stop orientation and hose-bib freeze flag reviewed for Godfrey, IL at coords 38.9600/-90.2200.
 

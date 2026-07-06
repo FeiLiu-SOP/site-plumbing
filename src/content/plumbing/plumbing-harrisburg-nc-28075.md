@@ -12,11 +12,14 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / ZIP 28075 sector", "Cabarrus County / elevation 597 ft band", "Cabarrus County / primary ZIP 28075", "Cabarrus County / coords 35.3100, -80.6500"]
-zillowHomeValueUsd: 502639
 ---
 
-**Engineering Notice for Harrisburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Harrisburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cabarrus County.
 
+
+Burst pipe and drain clog calls in Harrisburg, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cabarrus County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Harrisburg, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Cabarrus County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Irrigation cross-connections in Harrisburg, NC can back-siphon domestic lines during main breaks.
 
@@ -45,6 +48,8 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Fixture roster 764503: toilet flange spacer kit and shower cartridge seat score queued for Harrisburg, NC walk-through.
 
 Supply audit 764503: curb-stop orientation and hose-bib freeze flag reviewed for Harrisburg, NC at coords 35.3100/-80.6500.
+
+Local service note: floor drain trap primer drip paired with PEX expansion ring batch near ZIP 28075 for emergency plumbing pro repairs.
 
 Coordinate-anchored dispatch note: center reference 35.3100, -80.6500 at elevation ~597 ft aligns with Cabarrus County intake staging.
 

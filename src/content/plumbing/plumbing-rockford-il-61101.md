@@ -12,11 +12,14 @@ lng: -89.0600
 zipSample: ["61102", "61126", "61103", "61107", "61101"]
 zipCodes: ["61110", "61108", "61101", "61105", "61103", "61109", "61125", "61126", "61114", "61104", "61106", "61107"]
 localPaths: ["Winnebago County / ZIP 61101 sector", "Winnebago County / ZIP 61102 sector", "Winnebago County / elevation 735 ft band", "Winnebago County / ZIP 61126 sector", "Winnebago County / coords 42.2600, -89.0600"]
-zillowHomeValueUsd: 111568
 ---
 
-**Engineering Notice for Rockford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Rockford:** Supply line, cleanout, and water heater scope recorded at 735 ft elevation context (Winnebago County).
 
+
+Plumbing service in Rockford, IL, Winnebago County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Rockford, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Winnebago County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Stack vent offsets in Rockford, IL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -30,7 +33,7 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Sump discharge freeze risk in Rockford, IL should be reviewed before spring thaw cycles.
 
@@ -47,6 +50,8 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Drain map 678350: camera-pass priority and expansion-tank pre-charge noted for Rockford, IL postal sector 61101.
 
 Flow dossier 678350: branch wet-vent geometry and jetting nozzle envelope logged for Rockford, IL county grid Winnebago County (ZIP 61101).
+
+Scope trace: PRV outlet curve plus toilet flange spacer kit referenced in Winnebago County drain and water line review.
 
 On-site sector marker: Winnebago County / ZIP 61101 sector — logged for map parity and ZIP-corridor verification.
 

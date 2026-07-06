@@ -8,15 +8,18 @@ zipCode: "60015"
 county: "Lake County"
 elevationFt: 679
 lat: 42.1700
-lng: -87.8500
+lng: -87.8800
 zipSample: ["60015"]
 zipCodes: ["60015"]
-localPaths: ["Lake County / elevation 679 ft band", "Lake County / coords 42.1700, -87.8500", "Lake County / ZIP 60015 sector", "Lake County / primary ZIP 60015"]
-zillowHomeValueUsd: 700492
+localPaths: ["Lake County / elevation 679 ft band", "Lake County / coords 42.1700, -87.8800", "Lake County / ZIP 60015 sector", "Lake County / primary ZIP 60015"]
 ---
 
-**Engineering Notice for Deerfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Deerfield:** Emergency leak and drain triage uses ~119 mg/L hardness context with Lake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Deerfield, IL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Deerfield, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Deerfield, IL may require ROW restoration planning.
 
@@ -48,6 +51,6 @@ Hard water in Deerfield, IL accelerates scale on PRV seats and heater elements.
 
 Fixture roster 225812: toilet flange spacer kit and shower cartridge seat score queued for Deerfield, IL walk-through.
 
-On-site sector marker: Lake County / coords 42.1700, -87.8500 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Lake County / coords 42.1700, -87.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60015-e4165192

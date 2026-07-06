@@ -12,11 +12,14 @@ lng: -80.0700
 zipSample: ["16541", "16510", "16534", "16544", "16514"]
 zipCodes: ["16538", "16514", "16504", "16510", "16541", "16546", "16534", "16508", "16550", "16553", "16522", "16501"]
 localPaths: ["Erie County / ZIP 16541 sector", "Erie County / ZIP 16514 sector", "Erie County / primary ZIP 16546", "Erie County / ZIP 16534 sector", "Erie County / coords 42.1200, -80.0700"]
-zillowHomeValueUsd: 261970
 ---
 
-**Engineering Notice for Erie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
+**Engineering Notice for Erie:** Emergency leak and drain triage uses ~123 mg/L hardness context with Erie County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Erie, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Erie, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Erie, PA systems need rebalancing.
 
@@ -50,7 +53,7 @@ Lineage note 981878: recirculation pump amp draw captured before Erie, PA branch
 
 Fixture roster 981878: toilet flange spacer kit and shower cartridge seat score queued for Erie, PA walk-through.
 
-plumbing brief: water softener bypass lever and scale coupon sampling were cross-checked for the Erie intake packet.
+Plumbing remediation brief: water softener bypass lever and scale coupon sampling were cross-checked for the Erie pipe and leak scope.
 
 On-site sector marker: Erie County / ZIP 16504 sector — logged for map parity and ZIP-corridor verification.
 

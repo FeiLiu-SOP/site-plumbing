@@ -12,11 +12,14 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / ZIP 53593 sector", "Dane County / coords 42.9900, -89.5400", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
-zillowHomeValueUsd: 593069
 ---
 
-**Engineering Notice for Verona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
+**Engineering Notice for Verona:** Supply line, cleanout, and water heater scope recorded at 1004 ft elevation context (Dane County).
 
+
+Plumbing service in Verona, WI, Dane County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Verona, WI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -48,7 +51,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Lineage note 198981: recirculation pump amp draw captured before Verona, WI branch isolation.
 
-plumbing brief: sewer cleanout cap thread and jetter nozzle envelope were cross-checked for the Verona intake packet.
+Plumbing restoration brief: sewer cleanout cap thread and jetter nozzle envelope were cross-checked for the Verona pipe and leak scope.
 
 On-site sector marker: Dane County / primary ZIP 53593 — logged for map parity and ZIP-corridor verification.
 

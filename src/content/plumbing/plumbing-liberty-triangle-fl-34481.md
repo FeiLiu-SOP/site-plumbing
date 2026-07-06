@@ -12,11 +12,14 @@ lng: -82.2200
 zipSample: ["34476", "34481"]
 zipCodes: ["34476", "34481"]
 localPaths: ["Marion County / coords 29.0800, -82.2200", "Marion County / elevation 72 ft band", "Marion County / ZIP 34476 sector", "Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector"]
-zillowHomeValueUsd: 279068
 ---
 
-**Engineering Notice for Liberty Triangle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Liberty Triangle:** Supply line, cleanout, and water heater scope recorded at 72 ft elevation context (Marion County).
 
+
+Emergency plumbing technician service in Liberty Triangle, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Marion County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing service in Liberty Triangle, FL, Marion County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Seasonal Liberty Triangle, FL irrigation cross-connections can mask domestic pressure loss.
 
@@ -48,7 +51,7 @@ Supply audit 173404: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Intake ledger 173404: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Liberty Triangle, FL at 29.0800, -82.2200.
 
-plumbing brief: floor drain trap primer drip and sump float travel were cross-checked for the Liberty Triangle intake packet.
+Plumbing service brief: floor drain trap primer drip and sump float travel were cross-checked for the Liberty Triangle pipe and leak scope.
 
 On-site sector marker: Marion County / coords 29.0800, -82.2200 — logged for map parity and ZIP-corridor verification.
 

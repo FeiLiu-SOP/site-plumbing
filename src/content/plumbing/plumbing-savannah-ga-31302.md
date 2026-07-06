@@ -12,11 +12,14 @@ lng: -81.1800
 zipSample: ["31421", "31302", "31408", "31404", "31401"]
 zipCodes: ["31419", "31416", "31407", "31415", "31408", "31420", "31406", "31403", "31421", "31412", "31405", "31404"]
 localPaths: ["Chatham County / elevation 13 ft band", "Chatham County / ZIP 31404 sector", "Chatham County / ZIP 31421 sector", "Chatham County / ZIP 31302 sector", "Chatham County / primary ZIP 31302"]
-zillowHomeValueUsd: 334218
 ---
 
-**Engineering Notice for Savannah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chatham County.
+**Engineering Notice for Savannah:** Emergency leak and drain triage uses ~126 mg/L hardness context with Chatham County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Savannah, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Chatham County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Savannah, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -48,7 +51,7 @@ Drain map 822592: camera-pass priority and expansion-tank pre-charge noted for S
 
 Flow dossier 822592: branch wet-vent geometry and jetting nozzle envelope logged for Savannah, GA county grid Chatham County (ZIP 31302).
 
-Scope trace: slab leak listening window plus PRV outlet curve referenced in Chatham County county grid review.
+Scope trace: slab leak listening window plus PRV outlet curve referenced in Chatham County drain and water line review.
 
 On-site sector marker: Chatham County / ZIP 31416 sector — logged for map parity and ZIP-corridor verification.
 

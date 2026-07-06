@@ -12,11 +12,14 @@ lng: -110.9700
 zipSample: ["85629", "85614"]
 zipCodes: ["85629", "85614"]
 localPaths: ["Pima County / ZIP 85629 sector", "Pima County / coords 31.9300, -110.9700", "Pima County / elevation 2749 ft band", "Pima County / ZIP 85614 sector", "Pima County / primary ZIP 85629"]
-zillowHomeValueUsd: 338545
 ---
 
-**Engineering Notice for Sahuarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Sahuarita:** Emergency leak and drain triage uses ~138 mg/L hardness context with Pima County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Sahuarita, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency plumbing pro service in Sahuarita, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pima County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -26,7 +29,7 @@ Risk flag: Seasonal Sahuarita, AZ irrigation cross-connections can mask domestic
 
 Material note: Water heater anode type may change with Sahuarita, AZ hardness profiles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Permit note: Main water line replacement in Sahuarita, AZ may require ROW restoration planning.
 
@@ -49,8 +52,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Pressure trace 465944: meter-pit clearance and dielectric union checklist staged for Sahuarita, AZ near elevation 2749 ft.
 
 Supply audit 465944: curb-stop orientation and hose-bib freeze flag reviewed for Sahuarita, AZ at coords 31.9300/-110.9700.
-
-Scope trace: shower cartridge seat score plus recirculation pump amp draw referenced in Pima County county grid review.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Pima County. Reference elevation: 2749 ft. Primary coordinates: 31.9300, -110.9700. ZIP sample: 85629, 85614. Regional routing note: Pima County traffic flow is balanced around ZIP 85629 service demand.
 

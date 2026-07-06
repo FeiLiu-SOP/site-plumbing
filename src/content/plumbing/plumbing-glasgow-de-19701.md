@@ -12,11 +12,14 @@ lng: -75.7500
 zipSample: ["19702", "19701"]
 zipCodes: ["19702", "19701"]
 localPaths: ["New Castle County / elevation 79 ft band", "New Castle County / ZIP 19701 sector", "New Castle County / coords 39.6000, -75.7500", "New Castle County / ZIP 19702 sector", "New Castle County / primary ZIP 19701"]
-zillowHomeValueUsd: 420870
 ---
 
-**Engineering Notice for Glasgow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Castle County.
+**Engineering Notice for Glasgow:** Supply line, cleanout, and water heater scope recorded at 79 ft elevation context (New Castle County).
 
+
+Qualified plumbing crews serving Glasgow, DE review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Glasgow, DE, New Castle County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -32,7 +35,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate Glasgow, DE plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Glasgow, DE plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

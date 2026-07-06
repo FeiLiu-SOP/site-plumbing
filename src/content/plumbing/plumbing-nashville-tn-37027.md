@@ -12,11 +12,14 @@ lng: -86.7800
 zipSample: ["37201", "37232", "37205", "37230", "37243"]
 zipCodes: ["37240", "37227", "37201", "37243", "37246", "37236", "37241", "37204", "37203", "37234", "37220", "37207"]
 localPaths: ["Davidson County / ZIP 37232 sector", "Davidson County / ZIP 37230 sector", "Davidson County / ZIP 37201 sector", "Davidson County / ZIP 37243 sector", "Davidson County / primary ZIP 37027"]
-zillowHomeValueUsd: 1222868
 ---
 
-**Engineering Notice for Nashville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davidson County.
+**Engineering Notice for Nashville:** Emergency leak and drain triage uses ~142 mg/L hardness context with Davidson County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Nashville, TN, Davidson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Nashville, TN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -45,6 +48,8 @@ Step: document dielectric unions before mixed-metal replacements.
 Risk flag: In Nashville, TN, slab leaks can misroute as foundation issues without listening equipment.
 
 Supply audit 444981: curb-stop orientation and hose-bib freeze flag reviewed for Nashville, TN at coords 36.1700/-86.7800.
+
+Local service note: slab leak listening window paired with backflow test cock orientation near ZIP 37027 for emergency plumbing technician repairs.
 
 On-site sector marker: Davidson County / ZIP 37242 sector — logged for map parity and ZIP-corridor verification.
 

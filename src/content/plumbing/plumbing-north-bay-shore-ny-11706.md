@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11706"
 county: "Suffolk County"
 elevationFt: 79
-lat: 40.7600
-lng: -73.2600
+lat: 40.7705
+lng: -73.2900
 zipSample: ["11706"]
 zipCodes: ["11706"]
-localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
-zillowHomeValueUsd: 620314
+localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7705, -73.2900"]
 ---
 
-**Engineering Notice for North Bay Shore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for North Bay Shore:** Emergency leak and drain triage uses ~174 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving North Bay Shore, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in North Bay Shore, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -48,6 +51,6 @@ Drain map 161525: camera-pass priority and expansion-tank pre-charge noted for N
 
 Flow dossier 161525: branch wet-vent geometry and jetting nozzle envelope logged for North Bay Shore, NY county grid Suffolk County (ZIP 11706).
 
-**Regional Infrastructure Brief:** Topographical load indicates ~79 ft across the Suffolk County area. Coordinates: 40.7600, -73.2600. ZIP sample: 11706. Service perimeter note: Coverage extends through Suffolk County with dispatch centered near ZIP 11706.
+**Regional Infrastructure Brief:** Topographical load indicates ~79 ft across the Suffolk County area. Coordinates: 40.7705, -73.2900. ZIP sample: 11706. Service perimeter note: Coverage extends through Suffolk County with dispatch centered near ZIP 11706.
 
 Service reference: NY-11706-25ca3a4d

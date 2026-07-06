@@ -12,11 +12,14 @@ lng: -72.5400
 zipSample: ["01102", "01144", "01151", "01128", "01109"]
 zipCodes: ["01144", "01102", "01139", "01108", "01101", "01119", "01152", "01111", "01105", "01199", "01109", "01129"]
 localPaths: ["Hampden County / ZIP 01144 sector", "Hampden County / ZIP 01128 sector", "Hampden County / ZIP 01109 sector", "Hampden County / primary ZIP 01151", "Hampden County / ZIP 01102 sector"]
-zillowHomeValueUsd: 284081
 ---
 
-**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampden County.
+**Engineering Notice for Springfield:** Emergency leak and drain triage uses ~165 mg/L hardness context with Hampden County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Springfield, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hampden County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Springfield, MA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 01151.
 
@@ -48,7 +51,7 @@ Expansion tank pre-charge loss in Springfield, MA often tracks heater replacemen
 
 Fixture roster 878275: toilet flange spacer kit and shower cartridge seat score queued for Springfield, MA walk-through.
 
-plumbing brief: water heater T&P path and toilet flange spacer kit were cross-checked for the Springfield intake packet.
+Plumbing service brief: water heater T&P path and toilet flange spacer kit were cross-checked for the Springfield pipe and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Hampden County. Reference elevation: 180 ft. Primary coordinates: 42.1200, -72.5400. ZIP sample: 01115, 01103, 01102, 01128, 01138. Regional routing note: Hampden County traffic flow is balanced around ZIP 01151 service demand.
 

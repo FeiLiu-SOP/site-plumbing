@@ -12,11 +12,14 @@ lng: -96.5900
 zipSample: ["75149", "75181", "75185", "75126", "75150"]
 zipCodes: ["75187", "75150", "75149", "75185", "75126", "75181"]
 localPaths: ["Dallas County / ZIP 75126 sector", "Dallas County / ZIP 75150 sector", "Dallas County / elevation 505 ft band", "Dallas County / primary ZIP 75149", "Dallas County / coords 32.7600, -96.5900"]
-zillowHomeValueUsd: 238896
 ---
 
-**Engineering Notice for Mesquite:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Mesquite:** Emergency leak and drain triage uses ~127 mg/L hardness context with Dallas County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Mesquite, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Dallas County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing remediation in Mesquite, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hose bib split patterns in Mesquite, TX often follow missed winterization.
 

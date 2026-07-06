@@ -12,11 +12,14 @@ lng: -95.5100
 zipSample: ["77384", "77380", "77382", "77381", "77389"]
 zipCodes: ["77381", "77384", "77389", "77393", "77380", "77382"]
 localPaths: ["Montgomery County / ZIP 77381 sector", "Montgomery County / ZIP 77384 sector", "Montgomery County / ZIP 77380 sector", "Montgomery County / ZIP 77389 sector", "Montgomery County / primary ZIP 77381"]
-zillowHomeValueUsd: 573749
 ---
 
-**Engineering Notice for The Woodlands:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for The Woodlands:** Emergency leak and drain triage uses ~125 mg/L hardness context with Montgomery County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in The Woodlands, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in The Woodlands, TX, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -44,11 +47,13 @@ Risk flag: In The Woodlands, TX, slab leaks can misroute as foundation issues wi
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Supply audit 854398: curb-stop orientation and hose-bib freeze flag reviewed for The Woodlands, TX at coords 30.1700/-95.5100.
 
 Intake ledger 854398: sump amperage, PRV seat wear, and cleanout riser height cross-checked for The Woodlands, TX at 30.1700, -95.5100.
+
+Plumbing remediation brief: water heater T&P path and sump float travel were cross-checked for the The Woodlands pipe and leak scope.
 
 On-site sector marker: Montgomery County / ZIP 77381 sector — logged for map parity and ZIP-corridor verification.
 

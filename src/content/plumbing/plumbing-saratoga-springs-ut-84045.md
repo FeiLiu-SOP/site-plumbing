@@ -12,11 +12,14 @@ lng: -111.9200
 zipSample: ["84045"]
 zipCodes: ["84045"]
 localPaths: ["Utah County / coords 40.3400, -111.9200", "Utah County / ZIP 84045 sector", "Utah County / primary ZIP 84045", "Utah County / elevation 4557 ft band"]
-zillowHomeValueUsd: 555120
 ---
 
-**Engineering Notice for Saratoga Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Saratoga Springs:** Emergency leak and drain triage uses ~163 mg/L hardness context with Utah County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Saratoga Springs, UT, Utah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Saratoga Springs, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

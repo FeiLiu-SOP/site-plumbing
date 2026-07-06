@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11763"
 county: "Suffolk County"
 elevationFt: 102
-lat: 40.8200
-lng: -72.9900
+lat: 40.8305
+lng: -73.0200
 zipSample: ["11763"]
 zipCodes: ["11763"]
-localPaths: ["Suffolk County / primary ZIP 11763", "Suffolk County / elevation 102 ft band", "Suffolk County / coords 40.8200, -72.9900", "Suffolk County / ZIP 11763 sector"]
-zillowHomeValueUsd: 596798
+localPaths: ["Suffolk County / primary ZIP 11763", "Suffolk County / elevation 102 ft band", "Suffolk County / coords 40.8305, -73.0200", "Suffolk County / ZIP 11763 sector"]
 ---
 
-**Engineering Notice for Medford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Medford:** Supply line, cleanout, and water heater scope recorded at 102 ft elevation context (Suffolk County).
 
+
+Plumbing remediation in Medford, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Medford, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Branch wet vents in Medford, NY can mask gurgling as a main-line issue.
 
@@ -46,9 +49,7 @@ Risk flag: In Medford, NY, slab leaks can misroute as foundation issues without 
 
 FAQ: When should sump battery backups be load-tested? In Medford, NY, before spring thaw and hurricane remnants.
 
-Intake ledger 955589: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Medford, NY at 40.8200, -72.9900.
-
-plumbing brief: dielectric union checklist and thermal expansion loop check were cross-checked for the Medford intake packet.
+Intake ledger 955589: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Medford, NY at 40.8305, -73.0200.
 
 On-site sector marker: Suffolk County / ZIP 11763 sector — logged for map parity and ZIP-corridor verification.
 

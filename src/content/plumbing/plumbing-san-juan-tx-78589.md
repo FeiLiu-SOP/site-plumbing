@@ -12,11 +12,14 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / primary ZIP 78589", "Hidalgo County / coords 26.1900, -98.1500", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / elevation 121 ft band"]
-zillowHomeValueUsd: 183939
 ---
 
-**Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for San Juan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hidalgo County.
 
+
+Emergency plumbing pro service in San Juan, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Hidalgo County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in San Juan, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hidalgo County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 

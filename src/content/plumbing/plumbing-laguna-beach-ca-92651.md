@@ -12,15 +12,18 @@ lng: -117.7600
 zipSample: ["92651", "92652"]
 zipCodes: ["92652", "92651"]
 localPaths: ["Orange County / ZIP 92651 sector", "Orange County / elevation 696 ft band", "Orange County / coords 33.5500, -117.7600", "Orange County / ZIP 92652 sector", "Orange County / primary ZIP 92651"]
-zillowHomeValueUsd: 3022114
 ---
 
-**Engineering Notice for Laguna Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Beach:** Emergency leak and drain triage uses ~113 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Laguna Beach, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Laguna Beach, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Across Laguna Beach, CA, main-line bellies can trap debris even when fixtures drain normally.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Laguna Beach, CA can back-siphon domestic lines during main breaks.
 
@@ -47,6 +50,8 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Drain map 459443: camera-pass priority and expansion-tank pre-charge noted for Laguna Beach, CA postal sector 92651.
 
 Lineage note 459443: recirculation pump amp draw captured before Laguna Beach, CA branch isolation.
+
+Local service note: meter pit clearance paired with sump float travel near ZIP 92651 for emergency certified plumber repairs.
 
 On-site sector marker: Orange County / ZIP 92651 sector — logged for map parity and ZIP-corridor verification.
 

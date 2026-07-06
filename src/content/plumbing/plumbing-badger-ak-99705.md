@@ -12,11 +12,14 @@ lng: -147.3900
 zipSample: ["99711", "99705"]
 zipCodes: ["99711", "99705"]
 localPaths: ["Fairbanks North Star County / ZIP 99705 sector", "Fairbanks North Star County / elevation 0 ft band", "Fairbanks North Star County / coords 64.8000, -147.3900", "Fairbanks North Star County / ZIP 99711 sector", "Fairbanks North Star County / primary ZIP 99705"]
-zillowHomeValueUsd: 324101
 ---
 
-**Engineering Notice for Badger:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairbanks North Star County.
+**Engineering Notice for Badger:** Emergency leak and drain triage uses ~116 mg/L hardness context with Fairbanks North Star County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Badger, AK, Fairbanks North Star County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Badger, AK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -48,7 +51,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Lineage note 926425: recirculation pump amp draw captured before Badger, AK branch isolation.
 
-plumbing brief: toilet flange spacer kit and PEX expansion ring batch were cross-checked for the Badger intake packet.
+Plumbing restoration brief: toilet flange spacer kit and PEX expansion ring batch were cross-checked for the Badger pipe and leak scope.
 
 On-site sector marker: Fairbanks North Star County / ZIP 99711 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -93.1400
 zipSample: ["72802", "72811", "72801"]
 zipCodes: ["72802", "72811", "72801"]
 localPaths: ["Pope County / ZIP 72801 sector", "Pope County / primary ZIP 72802", "Pope County / ZIP 72802 sector", "Pope County / elevation 381 ft band", "Pope County / coords 35.2800, -93.1400"]
-zillowHomeValueUsd: 241304
 ---
 
-**Engineering Notice for Russellville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pope County.
+**Engineering Notice for Russellville:** Supply line, cleanout, and water heater scope recorded at 381 ft elevation context (Pope County).
 
+
+Licensed plumbing crews serving Russellville, AR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Russellville, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Pope County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Water heater T&P discharge paths in Russellville, AR must terminate safely before replacement quotes.
 

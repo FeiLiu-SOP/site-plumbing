@@ -12,13 +12,16 @@ lng: -76.7300
 zipSample: ["21207", "21208"]
 zipCodes: ["21207", "21208"]
 localPaths: ["Baltimore County / elevation 390 ft band", "Baltimore County / coords 39.3500, -76.7300", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21208", "Baltimore County / ZIP 21207 sector"]
-zillowHomeValueUsd: 374184
 ---
 
-**Engineering Notice for Lochearn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Lochearn:** Supply line, cleanout, and water heater scope recorded at 390 ft elevation context (Baltimore County).
 
 
-We coordinate Lochearn, MD plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Certified plumbing crews serving Lochearn, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lochearn, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+We coordinate Lochearn, MD plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lochearn, MD.
 
@@ -45,8 +48,6 @@ Trenchless sleeve pulls near Lochearn, MD require pit shoring notes when water t
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Flow dossier 359018: branch wet-vent geometry and jetting nozzle envelope logged for Lochearn, MD county grid Baltimore County (ZIP 21208).
-
-plumbing brief: hose bib freeze flag and PRV outlet curve were cross-checked for the Lochearn intake packet.
 
 **Regional Infrastructure Brief:** Grid anchor set to Baltimore County. Reference elevation: 390 ft. Primary coordinates: 39.3500, -76.7300. ZIP sample: 21207, 21208. Logistics priority: Serving residential sectors across Baltimore County and north-east ZIP 21208 grid.
 

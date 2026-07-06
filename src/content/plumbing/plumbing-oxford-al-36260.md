@@ -12,11 +12,14 @@ lng: -85.8700
 zipSample: ["36253", "36203", "36260"]
 zipCodes: ["36260", "36253", "36203"]
 localPaths: ["Calhoun County / ZIP 36203 sector", "Calhoun County / primary ZIP 36260", "Calhoun County / coords 33.6000, -85.8700", "Calhoun County / ZIP 36253 sector", "Calhoun County / elevation 646 ft band"]
-zillowHomeValueUsd: 186833
 ---
 
-**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Calhoun County.
 
+
+Plumbing remediation in Oxford, AL, Calhoun County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Oxford, AL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Calhoun County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -26,7 +29,7 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 36260.
 
 Irrigation cross-connections in Oxford, AL can back-siphon domestic lines during main breaks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Dual-water-meter setups in Oxford, AL irrigation zones need backflow logs before line replacement.
 

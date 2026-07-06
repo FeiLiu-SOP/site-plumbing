@@ -12,11 +12,14 @@ lng: -111.4000
 zipSample: ["84032"]
 zipCodes: ["84032"]
 localPaths: ["Wasatch County / ZIP 84032 sector", "Wasatch County / coords 40.5100, -111.4000", "Wasatch County / elevation 5669 ft band", "Wasatch County / primary ZIP 84032"]
-zillowHomeValueUsd: 849848
 ---
 
-**Engineering Notice for Heber:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wasatch County.
+**Engineering Notice for Heber:** Emergency leak and drain triage uses ~163 mg/L hardness context with Wasatch County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Heber, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Wasatch County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Heber, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -32,7 +35,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch packets reference county grid Wasatch County near ZIP 84032.
+Our Heber, UT service packets reference Wasatch County near ZIP 84032 for pipe and leak scope.
 
 Basement floor drains in Heber, UT should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -49,8 +52,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Intake ledger 810588: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Heber, UT at 40.5100, -111.4000.
 
 Supply audit 810588: curb-stop orientation and hose-bib freeze flag reviewed for Heber, UT at coords 40.5100/-111.4000.
-
-Scope trace: hose bib freeze flag plus branch wet vent geometry referenced in Wasatch County county grid review.
 
 ZIP-corridor snapshot for Heber, UT: sampled sectors include 84032; county routing grid remains Wasatch County.
 

@@ -12,11 +12,14 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / elevation 1079 ft band", "McLeod County / coords 44.8900, -94.3800", "McLeod County / ZIP 55350 sector", "McLeod County / primary ZIP 55350"]
-zillowHomeValueUsd: 293417
 ---
 
-**Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLeod County.
+**Engineering Notice for Hutchinson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in McLeod County.
 
+
+Plumbing service in Hutchinson, MN, McLeod County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Hutchinson, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in Hutchinson, MN should be reviewed before spring thaw cycles.
 
@@ -47,8 +50,6 @@ Trenchless sleeve pulls near Hutchinson, MN require pit shoring notes when water
 Risk flag: Seasonal Hutchinson, MN irrigation cross-connections can mask domestic pressure loss.
 
 Supply audit 284663: curb-stop orientation and hose-bib freeze flag reviewed for Hutchinson, MN at coords 44.8900/-94.3800.
-
-plumbing brief: gas water heater draft hood gap and sump float travel were cross-checked for the Hutchinson intake packet.
 
 Regional mesh label McLeod County: moisture and logistics baselines are keyed to Hutchinson, MN before niche-specific work begins.
 

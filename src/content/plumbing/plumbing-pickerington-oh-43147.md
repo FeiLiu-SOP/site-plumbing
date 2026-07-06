@@ -12,11 +12,14 @@ lng: -82.7700
 zipSample: ["43147"]
 zipCodes: ["43147"]
 localPaths: ["Fairfield County / coords 39.8900, -82.7700", "Fairfield County / primary ZIP 43147", "Fairfield County / ZIP 43147 sector", "Fairfield County / elevation 833 ft band"]
-zillowHomeValueUsd: 419477
 ---
 
-**Engineering Notice for Pickerington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfield County.
+**Engineering Notice for Pickerington:** Supply line, cleanout, and water heater scope recorded at 833 ft elevation context (Fairfield County).
 
+
+Plumbing restoration in Pickerington, OH, Fairfield County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Pickerington, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfield County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Irrigation cross-connections in Pickerington, OH can back-siphon domestic lines during main breaks.
 
@@ -50,7 +53,7 @@ Lineage note 934447: recirculation pump amp draw captured before Pickerington, O
 
 Intake ledger 934447: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Pickerington, OH at 39.8900, -82.7700.
 
-Scope trace: water heater T&P path plus slab leak listening window referenced in Fairfield County county grid review.
+Scope trace: water heater T&P path plus slab leak listening window referenced in Fairfield County drain and water line review.
 
 On-site sector marker: Fairfield County / elevation 833 ft band — logged for map parity and ZIP-corridor verification.
 

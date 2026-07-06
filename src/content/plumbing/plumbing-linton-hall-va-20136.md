@@ -12,11 +12,14 @@ lng: -77.5800
 zipSample: ["20136", "20181", "20155"]
 zipCodes: ["20181", "20155", "20136"]
 localPaths: ["Prince William County / coords 38.7600, -77.5800", "Prince William County / ZIP 20136 sector", "Prince William County / elevation 279 ft band", "Prince William County / ZIP 20181 sector", "Prince William County / ZIP 20155 sector"]
-zillowHomeValueUsd: 745772
 ---
 
-**Engineering Notice for Linton Hall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
+**Engineering Notice for Linton Hall:** Supply line, cleanout, and water heater scope recorded at 279 ft elevation context (Prince William County).
 
+
+Certified plumbing crews serving Linton Hall, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Linton Hall, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Prince William County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -50,7 +53,7 @@ Lineage note 890979: recirculation pump amp draw captured before Linton Hall, VA
 
 Flow dossier 890979: branch wet-vent geometry and jetting nozzle envelope logged for Linton Hall, VA county grid Prince William County (ZIP 20136).
 
-plumbing brief: PEX expansion ring batch and sewer cleanout cap thread were cross-checked for the Linton Hall intake packet.
+Plumbing service brief: PEX expansion ring batch and sewer cleanout cap thread were cross-checked for the Linton Hall pipe and leak scope.
 
 On-site sector marker: Prince William County / primary ZIP 20136 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22315", "22310"]
 localPaths: ["Fairfax County / ZIP 22315 sector", "Fairfax County / elevation 249 ft band", "Fairfax County / coords 38.7700, -77.1600", "Fairfax County / ZIP 22310 sector", "Fairfax County / primary ZIP 22310"]
-zillowHomeValueUsd: 673053
 ---
 
-**Engineering Notice for Franconia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franconia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fairfax County.
 
+
+Burst pipe and drain clog calls in Franconia, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Franconia, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Fairfax County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -32,7 +35,7 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 
 FAQ: When should sump battery backups be load-tested? In Franconia, VA, before spring thaw and hurricane remnants.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Franconia, VA systems need rebalancing.
 
@@ -45,6 +48,8 @@ Hydro-jetting in Franconia, VA requires camera confirmation before nozzle pressu
 Flow dossier 422641: branch wet-vent geometry and jetting nozzle envelope logged for Franconia, VA county grid Fairfax County (ZIP 22310).
 
 Fixture roster 422641: toilet flange spacer kit and shower cartridge seat score queued for Franconia, VA walk-through.
+
+Local service note: toilet flange spacer kit paired with thermal expansion loop check near ZIP 22310 for emergency certified plumber repairs.
 
 On-site sector marker: Fairfax County / elevation 249 ft band — logged for map parity and ZIP-corridor verification.
 

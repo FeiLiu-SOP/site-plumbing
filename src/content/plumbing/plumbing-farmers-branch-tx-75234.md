@@ -12,11 +12,14 @@ lng: -96.8800
 zipSample: ["75381", "75244", "75234"]
 zipCodes: ["75244", "75234", "75381"]
 localPaths: ["Dallas County / coords 32.9300, -96.8800", "Dallas County / primary ZIP 75234", "Dallas County / ZIP 75244 sector", "Dallas County / ZIP 75381 sector", "Dallas County / elevation 518 ft band"]
-zillowHomeValueUsd: 360955
 ---
 
-**Engineering Notice for Farmers Branch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Farmers Branch:** Supply line, cleanout, and water heater scope recorded at 518 ft elevation context (Dallas County).
 
+
+Licensed plumbing crews serving Farmers Branch, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Farmers Branch, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Expansion tank pre-charge loss in Farmers Branch, TX often tracks heater replacement deferrals.
 
@@ -30,7 +33,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Farmers Branch
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-We coordinate Farmers Branch, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Farmers Branch, TX plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Galvanized segments in Farmers Branch, TX may restrict flow long before visible corrosion.
 

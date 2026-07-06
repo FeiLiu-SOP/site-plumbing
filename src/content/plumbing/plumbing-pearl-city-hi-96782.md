@@ -12,11 +12,14 @@ lng: -157.9600
 zipSample: ["96701", "96782"]
 zipCodes: ["96701", "96782"]
 localPaths: ["Honolulu County / primary ZIP 96782", "Honolulu County / ZIP 96782 sector", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / ZIP 96701 sector", "Honolulu County / elevation 230 ft band"]
-zillowHomeValueUsd: 945882
 ---
 
-**Engineering Notice for Pearl City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Pearl City:** Emergency leak and drain triage uses ~174 mg/L hardness context with Honolulu County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Pearl City, HI, Honolulu County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Pearl City, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Honolulu County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -44,13 +47,13 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Supply audit 614646: curb-stop orientation and hose-bib freeze flag reviewed for Pearl City, HI at coords 21.4000/-157.9600.
 
 Flow dossier 614646: branch wet-vent geometry and jetting nozzle envelope logged for Pearl City, HI county grid Honolulu County (ZIP 96782).
 
-Scope trace: slab penetration sleeve seal plus slab leak listening window referenced in Honolulu County county grid review.
+Scope trace: slab penetration sleeve seal plus slab leak listening window referenced in Honolulu County drain and water line review.
 
 On-site sector marker: Honolulu County / ZIP 96782 sector — logged for map parity and ZIP-corridor verification.
 

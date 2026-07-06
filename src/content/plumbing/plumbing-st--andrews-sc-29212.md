@@ -12,11 +12,14 @@ lng: -81.1100
 zipSample: ["29212", "29210", "29221"]
 zipCodes: ["29210", "29212", "29221"]
 localPaths: ["Richland County / ZIP 29212 sector", "Richland County / coords 34.0500, -81.1100", "Richland County / primary ZIP 29212", "Richland County / ZIP 29210 sector", "Richland County / ZIP 29221 sector"]
-zillowHomeValueUsd: 277807
 ---
 
-**Engineering Notice for St. Andrews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Richland County.
+**Engineering Notice for St. Andrews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Richland County.
 
+
+Burst pipe and drain clog calls in St. Andrews, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Richland County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in St. Andrews, SC, Richland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -38,7 +41,7 @@ FAQ: When is cabling enough? In St. Andrews, SC, pipe material and blockage type
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate St. Andrews, SC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate St. Andrews, SC plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: map sump float travel and check-valve orientation for St. Andrews, SC basements.
 
@@ -49,8 +52,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Supply audit 564189: curb-stop orientation and hose-bib freeze flag reviewed for St. Andrews, SC at coords 34.0500/-81.1100.
 
 Drain map 564189: camera-pass priority and expansion-tank pre-charge noted for St. Andrews, SC postal sector 29212.
-
-Scope trace: hose bib freeze flag plus PEX expansion ring batch referenced in Richland County county grid review.
 
 Regional mesh label Richland County: moisture and logistics baselines are keyed to St. Andrews, SC before niche-specific work begins.
 

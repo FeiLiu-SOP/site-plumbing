@@ -12,11 +12,14 @@ lng: -122.7000
 zipSample: ["97034", "97035", "97036"]
 zipCodes: ["97034", "97035", "97036"]
 localPaths: ["Clackamas County / elevation 272 ft band", "Clackamas County / primary ZIP 97034", "Clackamas County / ZIP 97035 sector", "Clackamas County / coords 45.4100, -122.7000", "Clackamas County / ZIP 97036 sector"]
-zillowHomeValueUsd: 1121976
 ---
 
-**Engineering Notice for Lake Oswego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Lake Oswego:** Emergency leak and drain triage uses ~120 mg/L hardness context with Clackamas County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Lake Oswego, OR, Clackamas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Lake Oswego, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clackamas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Hose bib split patterns in Lake Oswego, OR often follow missed winterization.
 
@@ -46,7 +49,7 @@ Material note: Water heater anode type may change with Lake Oswego, OR hardness 
 
 Fixture roster 575386: toilet flange spacer kit and shower cartridge seat score queued for Lake Oswego, OR walk-through.
 
-plumbing brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the Lake Oswego intake packet.
+Plumbing restoration brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the Lake Oswego pipe and leak scope.
 
 On-site sector marker: Clackamas County / primary ZIP 97034 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17042", "17046"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / primary ZIP 17046", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / ZIP 17046 sector", "Lebanon County / ZIP 17042 sector"]
-zillowHomeValueUsd: 258532
 ---
 
-**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lebanon County.
+**Engineering Notice for Lebanon:** Emergency leak and drain triage uses ~178 mg/L hardness context with Lebanon County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Lebanon, PA, Lebanon County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Lebanon, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lebanon County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Lebanon, PA.
 
@@ -40,13 +43,11 @@ FAQ: When should sump battery backups be load-tested? In Lebanon, PA, before spr
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: In Lebanon, PA, slab leaks can misroute as foundation issues without listening equipment.
 
 Intake ledger 789596: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lebanon, PA at 40.3400, -76.4200.
-
-Field routing: cleanout riser height paired with PRV outlet curve near ZIP 17046.
 
 ZIP-corridor snapshot for Lebanon, PA: sampled sectors include 17042, 17046; county routing grid remains Lebanon County.
 

@@ -12,11 +12,14 @@ lng: -122.5100
 zipSample: ["97015", "97089", "97086"]
 zipCodes: ["97086", "97015", "97089"]
 localPaths: ["Clackamas County / primary ZIP 97015", "Clackamas County / ZIP 97089 sector", "Clackamas County / ZIP 97086 sector", "Clackamas County / ZIP 97015 sector", "Clackamas County / coords 45.4400, -122.5100"]
-zillowHomeValueUsd: 587759
 ---
 
-**Engineering Notice for Happy Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Happy Valley:** Emergency leak and drain triage uses ~151 mg/L hardness context with Clackamas County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Happy Valley, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clackamas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Happy Valley, OR, Clackamas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Happy Valley, OR systems need rebalancing.
 
@@ -26,7 +29,7 @@ Hydrostatic holds in Happy Valley, OR slab circuits run overnight when listening
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Water heater T&P discharge paths in Happy Valley, OR must terminate safely before replacement quotes.
 

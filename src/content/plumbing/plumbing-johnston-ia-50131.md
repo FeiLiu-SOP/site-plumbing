@@ -12,11 +12,14 @@ lng: -93.7200
 zipSample: ["50131"]
 zipCodes: ["50131"]
 localPaths: ["Polk County / elevation 820 ft band", "Polk County / ZIP 50131 sector", "Polk County / primary ZIP 50131", "Polk County / coords 41.6900, -93.7200"]
-zillowHomeValueUsd: 395624
 ---
 
-**Engineering Notice for Johnston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for Johnston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Polk County.
 
+
+Emergency plumbing pro service in Johnston, IA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Polk County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Johnston, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Polk County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -26,7 +29,7 @@ Polybutylene manifold tags in Johnston, IA basements should be photographed befo
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 

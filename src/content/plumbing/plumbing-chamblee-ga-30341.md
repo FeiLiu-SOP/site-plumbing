@@ -12,19 +12,22 @@ lng: -84.3000
 zipSample: ["30345", "30366", "39901", "30341"]
 zipCodes: ["30366", "30345", "30341", "39901"]
 localPaths: ["DeKalb County / ZIP 30366 sector", "DeKalb County / ZIP 30341 sector", "DeKalb County / coords 33.8800, -84.3000", "DeKalb County / ZIP 39901 sector", "DeKalb County / primary ZIP 30341"]
-zillowHomeValueUsd: 510840
 ---
 
-**Engineering Notice for Chamblee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Chamblee:** Emergency leak and drain triage uses ~157 mg/L hardness context with DeKalb County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing restoration in Chamblee, GA, DeKalb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Chamblee, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
 Risk flag: Seasonal Chamblee, GA irrigation cross-connections can mask domestic pressure loss.
 
-We coordinate Chamblee, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Chamblee, GA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -45,6 +48,8 @@ Risk flag: In Chamblee, GA, slab leaks can misroute as foundation issues without
 Step: document dielectric unions before mixed-metal replacements.
 
 Flow dossier 136334: branch wet-vent geometry and jetting nozzle envelope logged for Chamblee, GA county grid DeKalb County (ZIP 30341).
+
+Local service note: branch wet vent geometry paired with cleanout riser height near ZIP 30341 for emergency plumbing technician repairs.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to DeKalb County. Reference elevation: 988 ft. Primary coordinates: 33.8800, -84.3000. ZIP sample: 30341, 30366, 39901, 30345. Regional routing note: DeKalb County traffic flow is balanced around ZIP 30341 service demand.
 

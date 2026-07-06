@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11720"
 county: "Suffolk County"
 elevationFt: 102
-lat: 40.8700
-lng: -73.0800
+lat: 40.8805
+lng: -73.1100
 zipSample: ["11720"]
 zipCodes: ["11720"]
-localPaths: ["Suffolk County / coords 40.8700, -73.0800", "Suffolk County / ZIP 11720 sector", "Suffolk County / primary ZIP 11720", "Suffolk County / elevation 102 ft band"]
-zillowHomeValueUsd: 640383
+localPaths: ["Suffolk County / coords 40.8805, -73.1100", "Suffolk County / ZIP 11720 sector", "Suffolk County / primary ZIP 11720", "Suffolk County / elevation 102 ft band"]
 ---
 
-**Engineering Notice for Centereach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Centereach:** Emergency leak and drain triage uses ~124 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Centereach, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving Centereach, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Fixture shutoff stiffness in Centereach, NY may indicate mineral bridging behind stems.
 

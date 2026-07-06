@@ -12,11 +12,14 @@ lng: -80.8100
 zipSample: ["32927"]
 zipCodes: ["32927"]
 localPaths: ["Brevard County / ZIP 32927 sector", "Brevard County / elevation 39 ft band", "Brevard County / primary ZIP 32927", "Brevard County / coords 28.4800, -80.8100"]
-zillowHomeValueUsd: 301854
 ---
 
-**Engineering Notice for Port St. John:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
+**Engineering Notice for Port St. John:** Supply line, cleanout, and water heater scope recorded at 39 ft elevation context (Brevard County).
 
+
+Emergency plumbing pro service in Port St. John, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Brevard County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Port St. John, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

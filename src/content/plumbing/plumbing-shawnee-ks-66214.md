@@ -12,11 +12,14 @@ lng: -94.8100
 zipSample: ["66226", "66227", "66203", "66217", "66286"]
 zipCodes: ["66203", "66286", "66226", "66217", "66227", "66218", "66214", "66216"]
 localPaths: ["Johnson County / ZIP 66203 sector", "Johnson County / primary ZIP 66214", "Johnson County / coords 39.0200, -94.8100", "Johnson County / ZIP 66226 sector", "Johnson County / elevation 850 ft band"]
-zillowHomeValueUsd: 389055
 ---
 
-**Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Shawnee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Johnson County.
 
+
+When a main line backs up in Shawnee, KS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Shawnee, KS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Johnson County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Frost-free sillcock failures in Shawnee, KS often trace to interior shutoff seats, not exterior stems.
 

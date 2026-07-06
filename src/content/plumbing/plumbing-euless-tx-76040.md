@@ -12,17 +12,20 @@ lng: -97.0800
 zipSample: ["76039", "75261", "76040"]
 zipCodes: ["76040", "75261", "76039"]
 localPaths: ["Tarrant County / primary ZIP 76040", "Tarrant County / ZIP 75261 sector", "Tarrant County / coords 32.8500, -97.0800", "Tarrant County / elevation 600 ft band", "Tarrant County / ZIP 76039 sector"]
-zillowHomeValueUsd: 357223
 ---
 
-**Engineering Notice for Euless:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Euless:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Tarrant County.
 
+
+Plumbing remediation in Euless, TX, Tarrant County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Euless, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hose bib split patterns in Euless, TX often follow missed winterization.
 
@@ -45,8 +48,6 @@ Trenchless pulls in Euless, TX require pit dimensions verified against utility l
 Cast-iron hub corrosion in Euless, TX often concentrates at the third joint upstream of the cleanout.
 
 Flow dossier 229512: branch wet-vent geometry and jetting nozzle envelope logged for Euless, TX county grid Tarrant County (ZIP 76040).
-
-Scope trace: branch wet vent geometry plus floor drain trap primer drip referenced in Tarrant County county grid review.
 
 On-site sector marker: Tarrant County / ZIP 75261 sector — logged for map parity and ZIP-corridor verification.
 

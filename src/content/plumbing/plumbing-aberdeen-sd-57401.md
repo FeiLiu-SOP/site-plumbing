@@ -12,11 +12,14 @@ lng: -98.4700
 zipSample: ["57401"]
 zipCodes: ["57401"]
 localPaths: ["Brown County / primary ZIP 57401", "Brown County / coords 45.4600, -98.4700", "Brown County / ZIP 57401 sector", "Brown County / elevation 1296 ft band"]
-zillowHomeValueUsd: 237142
 ---
 
-**Engineering Notice for Aberdeen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brown County.
+**Engineering Notice for Aberdeen:** Emergency leak and drain triage uses ~177 mg/L hardness context with Brown County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Aberdeen, SD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Aberdeen, SD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brown County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Aberdeen, SD shoulder seasons.
 
@@ -24,7 +27,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Polybutylene manifold tags in Aberdeen, SD basements should be photographed before any wall chase opens.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Aberdeen, SD can back-siphon domestic lines during main breaks.
 

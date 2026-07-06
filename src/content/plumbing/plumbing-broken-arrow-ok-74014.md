@@ -12,11 +12,14 @@ lng: -95.7800
 zipSample: ["74013", "74012", "74014", "74011"]
 zipCodes: ["74011", "74012", "74014", "74013"]
 localPaths: ["Tulsa County / coords 36.0400, -95.7800", "Tulsa County / ZIP 74012 sector", "Tulsa County / primary ZIP 74014", "Tulsa County / ZIP 74014 sector", "Tulsa County / elevation 728 ft band"]
-zillowHomeValueUsd: 300902
 ---
 
-**Engineering Notice for Broken Arrow:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Broken Arrow:** Emergency leak and drain triage uses ~175 mg/L hardness context with Tulsa County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Broken Arrow, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Tulsa County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Broken Arrow, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Across Broken Arrow, OK, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -36,7 +39,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -45,6 +48,8 @@ Material note: Water heater anode type may change with Broken Arrow, OK hardness
 Supply audit 356282: curb-stop orientation and hose-bib freeze flag reviewed for Broken Arrow, OK at coords 36.0400/-95.7800.
 
 Drain map 356282: camera-pass priority and expansion-tank pre-charge noted for Broken Arrow, OK postal sector 74014.
+
+Local service note: scale coupon sampling paired with sewer cleanout cap thread near ZIP 74014 for emergency licensed plumber repairs.
 
 On-site sector marker: Tulsa County / coords 36.0400, -95.7800 — logged for map parity and ZIP-corridor verification.
 

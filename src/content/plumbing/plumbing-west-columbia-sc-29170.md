@@ -12,11 +12,14 @@ lng: -81.0900
 zipSample: ["29171", "29170", "29169"]
 zipCodes: ["29169", "29170", "29171"]
 localPaths: ["Lexington County / ZIP 29169 sector", "Lexington County / ZIP 29171 sector", "Lexington County / elevation 276 ft band", "Lexington County / coords 33.9900, -81.0900", "Lexington County / ZIP 29170 sector"]
-zillowHomeValueUsd: 245189
 ---
 
-**Engineering Notice for West Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lexington County.
+**Engineering Notice for West Columbia:** Emergency leak and drain triage uses ~116 mg/L hardness context with Lexington County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in West Columbia, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lexington County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving West Columbia, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 29170.
 
@@ -47,8 +50,6 @@ Hose bib split patterns in West Columbia, SC often follow missed winterization.
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Lineage note 131246: recirculation pump amp draw captured before West Columbia, SC branch isolation.
-
-Field routing: dielectric union checklist paired with jetter nozzle envelope near ZIP 29170.
 
 On-site sector marker: Lexington County / ZIP 29171 sector — logged for map parity and ZIP-corridor verification.
 

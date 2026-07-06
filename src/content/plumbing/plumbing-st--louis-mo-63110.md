@@ -12,17 +12,20 @@ lng: -90.2500
 zipSample: ["63157", "63166", "63102", "63139", "63113"]
 zipCodes: ["63166", "63103", "63112", "63164", "63110", "63158", "63143", "63115", "63163", "63106", "63180", "63116"]
 localPaths: ["St. Louis County / ZIP 63113 sector", "St. Louis County / elevation 472 ft band", "St. Louis County / primary ZIP 63110", "St. Louis County / coords 38.6400, -90.2500", "St. Louis County / ZIP 63157 sector"]
-zillowHomeValueUsd: 294949
 ---
 
-**Engineering Notice for St. Louis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for St. Louis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+Emergency plumbing pro service in St. Louis, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in St. Louis County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+When a main line backs up in St. Louis, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: In St. Louis, MO, slab leaks can misroute as foundation issues without listening equipment.
 
 Trenchless sleeve pulls near St. Louis, MO require pit shoring notes when water tables are high.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -49,8 +52,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Supply audit 816721: curb-stop orientation and hose-bib freeze flag reviewed for St. Louis, MO at coords 38.6400/-90.2500.
 
 Fixture roster 816721: toilet flange spacer kit and shower cartridge seat score queued for St. Louis, MO walk-through.
-
-Scope trace: hose bib freeze flag plus branch wet vent geometry referenced in St. Louis County county grid review.
 
 ZIP-corridor snapshot for St. Louis, MO: sampled sectors include 63118, 63109, 63102, 63179, 63178, 63101, 63147, 63188; county routing grid remains St. Louis County.
 

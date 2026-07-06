@@ -12,11 +12,14 @@ lng: -79.7900
 zipSample: ["29503", "29501", "29504", "29505", "29506"]
 zipCodes: ["29501", "29506", "29504", "29505", "29502", "29503"]
 localPaths: ["Florence County / ZIP 29501 sector", "Florence County / elevation 125 ft band", "Florence County / primary ZIP 29505", "Florence County / coords 34.1800, -79.7900", "Florence County / ZIP 29505 sector"]
-zillowHomeValueUsd: 230686
 ---
 
-**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Florence County.
+**Engineering Notice for Florence:** Emergency leak and drain triage uses ~131 mg/L hardness context with Florence County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Florence, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Florence, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Florence County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -49,8 +52,6 @@ Tip: Log sump cycle frequency during heavy rain windows.
 Lineage note 171330: recirculation pump amp draw captured before Florence, SC branch isolation.
 
 Intake ledger 171330: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Florence, SC at 34.1800, -79.7900.
-
-plumbing brief: gas water heater draft hood gap and sewer cleanout cap thread were cross-checked for the Florence intake packet.
 
 Coordinate-anchored dispatch note: center reference 34.1800, -79.7900 at elevation ~125 ft aligns with Florence County intake staging.
 

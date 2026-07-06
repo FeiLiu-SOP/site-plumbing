@@ -12,11 +12,14 @@ lng: -106.7900
 zipSample: ["88013", "88006", "88001", "88011", "88005"]
 zipCodes: ["88006", "88007", "88013", "88001", "88011", "88005", "88012", "87654"]
 localPaths: ["Doña Ana County / ZIP 88006 sector", "Doña Ana County / ZIP 88005 sector", "Doña Ana County / ZIP 88001 sector", "Doña Ana County / coords 32.3300, -106.7900", "Doña Ana County / ZIP 88011 sector"]
-zillowHomeValueUsd: 294194
 ---
 
-**Engineering Notice for Las Cruces:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Las Cruces:** Emergency leak and drain triage uses ~158 mg/L hardness context with Doña Ana County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Las Cruces, NM may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Doña Ana County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Las Cruces, NM often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Doña Ana County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -44,11 +47,13 @@ Trenchless pulls in Las Cruces, NM require pit dimensions verified against utili
 
 Risk flag: Seasonal Las Cruces, NM irrigation cross-connections can mask domestic pressure loss.
 
-Dispatch packets reference county grid Doña Ana County near ZIP 88012.
+Our Las Cruces, NM service packets reference Doña Ana County near ZIP 88012 for pipe and leak scope.
 
 Fixture roster 118841: toilet flange spacer kit and shower cartridge seat score queued for Las Cruces, NM walk-through.
 
 Lineage note 118841: recirculation pump amp draw captured before Las Cruces, NM branch isolation.
+
+Scope trace: floor drain trap primer drip plus gas water heater draft hood gap referenced in Doña Ana County drain and water line review.
 
 **Regional Infrastructure Brief:** Grid anchor set to Doña Ana County. Reference elevation: 3888 ft. Primary coordinates: 32.3300, -106.7900. ZIP sample: 88005, 88011, 87654, 88013, 88007. Service perimeter note: Coverage extends through Doña Ana County with dispatch centered near ZIP 88012.
 

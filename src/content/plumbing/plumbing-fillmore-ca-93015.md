@@ -12,11 +12,14 @@ lng: -118.9200
 zipSample: ["93016", "93015"]
 zipCodes: ["93016", "93015"]
 localPaths: ["Ventura County / coords 34.4000, -118.9200", "Ventura County / elevation 466 ft band", "Ventura County / ZIP 93015 sector", "Ventura County / ZIP 93016 sector", "Ventura County / primary ZIP 93015"]
-zillowHomeValueUsd: 699381
 ---
 
-**Engineering Notice for Fillmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
+**Engineering Notice for Fillmore:** Emergency leak and drain triage uses ~149 mg/L hardness context with Ventura County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Fillmore, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Fillmore, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Stack vent offsets in Fillmore, CA older duplexes can mask tub gurgle as a main-line failure.
 
@@ -32,7 +35,7 @@ Step: map sump float travel and check-valve orientation for Fillmore, CA basemen
 
 Risk flag: Seasonal Fillmore, CA irrigation cross-connections can mask domestic pressure loss.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

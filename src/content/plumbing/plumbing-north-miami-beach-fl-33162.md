@@ -12,11 +12,14 @@ lng: -80.1700
 zipSample: ["33280", "33160", "33162"]
 zipCodes: ["33280", "33162", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / coords 25.9300, -80.1700", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33280 sector"]
-zillowHomeValueUsd: 463899
 ---
 
-**Engineering Notice for North Miami Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for North Miami Beach:** Emergency leak and drain triage uses ~120 mg/L hardness context with Miami-Dade County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in North Miami Beach, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing remediation in North Miami Beach, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Across North Miami Beach, FL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -45,8 +48,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 Permit note: Main water line replacement in North Miami Beach, FL may require ROW restoration planning.
 
 Intake ledger 999596: sump amperage, PRV seat wear, and cleanout riser height cross-checked for North Miami Beach, FL at 25.9300, -80.1700.
-
-plumbing brief: slab leak listening window and shower cartridge seat score were cross-checked for the North Miami Beach intake packet.
 
 On-site sector marker: Miami-Dade County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

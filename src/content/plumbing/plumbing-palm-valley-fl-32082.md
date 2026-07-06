@@ -12,13 +12,16 @@ lng: -81.3900
 zipSample: ["32082"]
 zipCodes: ["32082"]
 localPaths: ["St. Johns County / elevation 16 ft band", "St. Johns County / coords 30.2000, -81.3900", "St. Johns County / ZIP 32082 sector", "St. Johns County / primary ZIP 32082"]
-zillowHomeValueUsd: 827457
 ---
 
-**Engineering Notice for Palm Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Johns County.
+**Engineering Notice for Palm Valley:** Supply line, cleanout, and water heater scope recorded at 16 ft elevation context (St. Johns County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing service in Palm Valley, FL, St. Johns County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Palm Valley, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal Palm Valley, FL irrigation cross-connections can mask domestic pressure loss.
 
@@ -47,6 +50,8 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Hard water in Palm Valley, FL accelerates scale on PRV seats and heater elements.
 
 Lineage note 579577: recirculation pump amp draw captured before Palm Valley, FL branch isolation.
+
+Plumbing restoration brief: jetter nozzle envelope and branch wet vent geometry were cross-checked for the Palm Valley pipe and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with St. Johns County and primary ZIP 32082. Terrain reference: 16 ft. Center point: 30.2000, -81.3900. ZIP sample: 32082. Logistics priority: Serving residential sectors across St. Johns County and north-east ZIP 32082 grid.
 

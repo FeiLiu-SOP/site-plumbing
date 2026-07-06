@@ -12,11 +12,14 @@ lng: -95.3800
 zipSample: ["56308"]
 zipCodes: ["56308"]
 localPaths: ["Douglas County / coords 45.8800, -95.3800", "Douglas County / elevation 1417 ft band", "Douglas County / ZIP 56308 sector", "Douglas County / primary ZIP 56308"]
-zillowHomeValueUsd: 352483
 ---
 
-**Engineering Notice for Alexandria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Alexandria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Douglas County.
 
+
+Certified plumbing crews serving Alexandria, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Alexandria, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Douglas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Alexandria, MN may require ROW restoration planning.
 

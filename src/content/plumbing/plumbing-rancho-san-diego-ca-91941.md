@@ -12,15 +12,18 @@ lng: -116.9200
 zipSample: ["92019", "91941"]
 zipCodes: ["91941", "92019"]
 localPaths: ["San Diego County / coords 32.7600, -116.9200", "San Diego County / primary ZIP 91941", "San Diego County / ZIP 91941 sector", "San Diego County / elevation 489 ft band", "San Diego County / ZIP 92019 sector"]
-zillowHomeValueUsd: 1030871
 ---
 
-**Engineering Notice for Rancho San Diego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Rancho San Diego:** Emergency leak and drain triage uses ~177 mg/L hardness context with San Diego County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Rancho San Diego, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Diego County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Rancho San Diego, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Frost-free sillcock failures in Rancho San Diego, CA often trace to interior shutoff seats, not exterior stems.
 
-We coordinate Rancho San Diego, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Rancho San Diego, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless pulls in Rancho San Diego, CA require pit dimensions verified against utility locate marks.
 
@@ -45,8 +48,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Pressure trace 874427: meter-pit clearance and dielectric union checklist staged for Rancho San Diego, CA near elevation 489 ft.
 
 Drain map 874427: camera-pass priority and expansion-tank pre-charge noted for Rancho San Diego, CA postal sector 91941.
-
-plumbing brief: thermal expansion loop check and branch wet vent geometry were cross-checked for the Rancho San Diego intake packet.
 
 On-site sector marker: San Diego County / ZIP 92019 sector — logged for map parity and ZIP-corridor verification.
 

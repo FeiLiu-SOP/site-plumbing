@@ -12,11 +12,14 @@ lng: -88.8300
 zipSample: ["61350"]
 zipCodes: ["61350"]
 localPaths: ["LaSalle County / coords 41.3600, -88.8300", "LaSalle County / primary ZIP 61350", "LaSalle County / elevation 479 ft band", "LaSalle County / ZIP 61350 sector"]
-zillowHomeValueUsd: 205368
 ---
 
-**Engineering Notice for Ottawa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: LaSalle County.
+**Engineering Notice for Ottawa:** Supply line, cleanout, and water heater scope recorded at 479 ft elevation context (LaSalle County).
 
+
+Licensed plumbing crews serving Ottawa, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Ottawa, IL, LaSalle County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -44,7 +47,7 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 905222: toilet flange spacer kit and shower cartridge seat score queued for Ottawa, IL walk-through.
 

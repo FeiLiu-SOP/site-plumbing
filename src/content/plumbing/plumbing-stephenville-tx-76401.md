@@ -12,13 +12,16 @@ lng: -98.2200
 zipSample: ["76402", "76401"]
 zipCodes: ["76402", "76401"]
 localPaths: ["Erath County / primary ZIP 76401", "Erath County / elevation 1362 ft band", "Erath County / coords 32.2100, -98.2200", "Erath County / ZIP 76402 sector", "Erath County / ZIP 76401 sector"]
-zillowHomeValueUsd: 323669
 ---
 
-**Engineering Notice for Stephenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erath County.
+**Engineering Notice for Stephenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Erath County.
 
 
-We coordinate Stephenville, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Plumbing remediation in Stephenville, TX, Erath County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Stephenville, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+We coordinate Stephenville, TX plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ CPVC solvent weld times shift with ambient humidity during Stephenville, TX shou
 Material note: Water heater anode type may change with Stephenville, TX hardness profiles.
 
 Fixture roster 848587: toilet flange spacer kit and shower cartridge seat score queued for Stephenville, TX walk-through.
-
-Field routing: hose bib freeze flag paired with thermal expansion loop check near ZIP 76401.
 
 On-site sector marker: Erath County / elevation 1362 ft band — logged for map parity and ZIP-corridor verification.
 

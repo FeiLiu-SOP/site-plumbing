@@ -12,11 +12,14 @@ lng: -82.8100
 zipSample: ["29632", "29630", "29631"]
 zipCodes: ["29630", "29632", "29631"]
 localPaths: ["Pickens County / coords 34.6800, -82.8100", "Pickens County / primary ZIP 29631", "Pickens County / ZIP 29632 sector", "Pickens County / ZIP 29631 sector", "Pickens County / ZIP 29630 sector"]
-zillowHomeValueUsd: 397815
 ---
 
-**Engineering Notice for Clemson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pickens County.
+**Engineering Notice for Clemson:** Supply line, cleanout, and water heater scope recorded at 804 ft elevation context (Pickens County).
 
+
+Plumbing remediation in Clemson, SC, Pickens County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Clemson, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In Clemson, SC, before spring thaw and hurricane remnants.
 
@@ -32,7 +35,7 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Clemson, SC require pit dimensions verified against utility locate marks.
 
@@ -45,8 +48,6 @@ FAQ: When is cabling enough? In Clemson, SC, pipe material and blockage type dic
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Drain map 532731: camera-pass priority and expansion-tank pre-charge noted for Clemson, SC postal sector 29631.
-
-plumbing brief: scale coupon sampling and fixture shutoff torque log were cross-checked for the Clemson intake packet.
 
 On-site sector marker: Pickens County / primary ZIP 29631 — logged for map parity and ZIP-corridor verification.
 

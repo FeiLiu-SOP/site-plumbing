@@ -12,11 +12,14 @@ lng: -122.1200
 zipSample: ["94575", "94556", "94570"]
 zipCodes: ["94570", "94575", "94556"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / elevation 594 ft band", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / ZIP 94556 sector", "Contra Costa County / primary ZIP 94556"]
-zillowHomeValueUsd: 1665933
 ---
 
-**Engineering Notice for Moraga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Moraga:** Emergency leak and drain triage uses ~122 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Moraga, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Moraga, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

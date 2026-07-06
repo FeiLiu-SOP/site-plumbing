@@ -12,11 +12,14 @@ lng: -88.8600
 zipSample: ["61008"]
 zipCodes: ["61008"]
 localPaths: ["Boone County / coords 42.2500, -88.8600", "Boone County / elevation 771 ft band", "Boone County / primary ZIP 61008", "Boone County / ZIP 61008 sector"]
-zillowHomeValueUsd: 258044
 ---
 
-**Engineering Notice for Belvidere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.
+**Engineering Notice for Belvidere:** Supply line, cleanout, and water heater scope recorded at 771 ft elevation context (Boone County).
 
+
+Plumbing remediation in Belvidere, IL, Boone County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Belvidere, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Belvidere, IL irrigation zones need backflow logs before line replacement.
 
@@ -28,7 +31,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: tag shutoffs and meter orientation before opening walls.
 

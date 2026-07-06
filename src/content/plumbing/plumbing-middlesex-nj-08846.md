@@ -12,13 +12,16 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / coords 40.5700, -74.5000", "Middlesex County / elevation 52 ft band", "Middlesex County / ZIP 08846 sector", "Middlesex County / primary ZIP 08846"]
-zillowHomeValueUsd: 537811
 ---
 
-**Engineering Notice for Middlesex:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Middlesex:** Emergency leak and drain triage uses ~167 mg/L hardness context with Middlesex County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Middlesex, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Middlesex County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Middlesex, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -36,7 +39,7 @@ CPVC solvent weld times shift with ambient humidity during Middlesex, NJ shoulde
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch packets reference county grid Middlesex County near ZIP 08846.
+Our Middlesex, NJ service packets reference Middlesex County near ZIP 08846 for pipe and leak scope.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -49,8 +52,6 @@ FAQ: When should sump battery backups be load-tested? In Middlesex, NJ, before s
 Flow dossier 510126: branch wet-vent geometry and jetting nozzle envelope logged for Middlesex, NJ county grid Middlesex County (ZIP 08846).
 
 Lineage note 510126: recirculation pump amp draw captured before Middlesex, NJ branch isolation.
-
-Scope trace: sewer cleanout cap thread plus PRV outlet curve referenced in Middlesex County county grid review.
 
 On-site sector marker: Middlesex County / coords 40.5700, -74.5000 — logged for map parity and ZIP-corridor verification.
 

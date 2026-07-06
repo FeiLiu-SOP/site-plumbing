@@ -12,11 +12,14 @@ lng: -94.9700
 zipSample: ["77590", "77568", "77518", "77539", "77591"]
 zipCodes: ["77591", "77590", "77568", "77518", "77539"]
 localPaths: ["Galveston County / elevation 16 ft band", "Galveston County / coords 29.4200, -94.9700", "Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77591 sector", "Galveston County / ZIP 77568 sector"]
-zillowHomeValueUsd: 239805
 ---
 
-**Engineering Notice for Texas City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.
+**Engineering Notice for Texas City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Galveston County.
 
+
+Burst pipe and drain clog calls in Texas City, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Galveston County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Texas City, TX, Galveston County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: map sump float travel and check-valve orientation for Texas City, TX basements.
 
@@ -45,8 +48,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Fixture roster 436388: toilet flange spacer kit and shower cartridge seat score queued for Texas City, TX walk-through.
 
 Lineage note 436388: recirculation pump amp draw captured before Texas City, TX branch isolation.
-
-Field routing: slab leak listening window paired with dielectric union checklist near ZIP 77591.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~16 ft across the Galveston County area. Coordinates: 29.4200, -94.9700. ZIP sample: 77568, 77539, 77591, 77518, 77590. Regional routing note: Galveston County traffic flow is balanced around ZIP 77591 service demand.
 

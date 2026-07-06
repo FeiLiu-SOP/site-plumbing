@@ -12,11 +12,14 @@ lng: -118.2400
 zipSample: ["90059", "90222"]
 zipCodes: ["90222", "90059"]
 localPaths: ["Los Angeles County / ZIP 90059 sector", "Los Angeles County / coords 33.9200, -118.2400", "Los Angeles County / primary ZIP 90059", "Los Angeles County / elevation 92 ft band", "Los Angeles County / ZIP 90222 sector"]
-zillowHomeValueUsd: 613625
 ---
 
-**Engineering Notice for Willowbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Willowbrook:** Emergency leak and drain triage uses ~167 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Willowbrook, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Willowbrook, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -47,8 +50,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Polybutylene manifold tags in Willowbrook, CA basements should be photographed before any wall chase opens.
 
 Fixture roster 389373: toilet flange spacer kit and shower cartridge seat score queued for Willowbrook, CA walk-through.
-
-plumbing brief: sewer cleanout cap thread and slab leak listening window were cross-checked for the Willowbrook intake packet.
 
 On-site sector marker: Los Angeles County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 

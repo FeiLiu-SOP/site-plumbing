@@ -12,11 +12,14 @@ lng: -82.7500
 zipSample: ["34683", "34682", "34681", "34660", "34684"]
 zipCodes: ["34660", "34681", "34684", "34683", "34682"]
 localPaths: ["Pinellas County / elevation 85 ft band", "Pinellas County / ZIP 34682 sector", "Pinellas County / ZIP 34681 sector", "Pinellas County / ZIP 34660 sector", "Pinellas County / coords 28.0800, -82.7500"]
-zillowHomeValueUsd: 324167
 ---
 
-**Engineering Notice for Palm Harbor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Palm Harbor:** Supply line, cleanout, and water heater scope recorded at 85 ft elevation context (Pinellas County).
 
+
+Licensed plumbing crews serving Palm Harbor, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Palm Harbor, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pinellas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -47,8 +50,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Intake ledger 686043: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Palm Harbor, FL at 28.0800, -82.7500.
 
 Flow dossier 686043: branch wet-vent geometry and jetting nozzle envelope logged for Palm Harbor, FL county grid Pinellas County (ZIP 34684).
-
-Field routing: gas water heater draft hood gap paired with meter pit clearance near ZIP 34684.
 
 Coordinate-anchored dispatch note: center reference 28.0800, -82.7500 at elevation ~85 ft aligns with Pinellas County intake staging.
 

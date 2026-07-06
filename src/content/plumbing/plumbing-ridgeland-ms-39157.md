@@ -12,11 +12,14 @@ lng: -90.1500
 zipSample: ["39157", "39158"]
 zipCodes: ["39157", "39158"]
 localPaths: ["Madison County / ZIP 39157 sector", "Madison County / coords 32.4200, -90.1500", "Madison County / ZIP 39158 sector", "Madison County / elevation 351 ft band", "Madison County / primary ZIP 39157"]
-zillowHomeValueUsd: 286475
 ---
 
-**Engineering Notice for Ridgeland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Ridgeland:** Emergency leak and drain triage uses ~154 mg/L hardness context with Madison County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Ridgeland, MS, Madison County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Ridgeland, MS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Madison County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -30,7 +33,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Trenchless pulls in Ridgeland, MS require pit dimensions verified against utility locate marks.
 
@@ -40,7 +43,7 @@ Risk flag: In Ridgeland, MS, slab leaks can misroute as foundation issues withou
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal Ridgeland, MS irrigation cross-connections can mask domestic pressure loss.
 

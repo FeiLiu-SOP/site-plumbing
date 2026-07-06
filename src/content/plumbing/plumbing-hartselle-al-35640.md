@@ -12,11 +12,14 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / ZIP 35640 sector", "Morgan County / primary ZIP 35640", "Morgan County / coords 34.4400, -86.9400"]
-zillowHomeValueUsd: 244823
 ---
 
-**Engineering Notice for Hartselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Morgan County.
+**Engineering Notice for Hartselle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Morgan County.
 
+
+Burst pipe and drain clog calls in Hartselle, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Morgan County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Hartselle, AL, Morgan County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cast-iron hub corrosion in Hartselle, AL often concentrates at the third joint upstream of the cleanout.
 
@@ -36,7 +39,7 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 
 Fixture shutoff stiffness in Hartselle, AL may indicate mineral bridging behind stems.
 
-We coordinate Hartselle, AL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Hartselle, AL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Basement floor drains in Hartselle, AL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -46,7 +49,7 @@ Flow dossier 273083: branch wet-vent geometry and jetting nozzle envelope logged
 
 Drain map 273083: camera-pass priority and expansion-tank pre-charge noted for Hartselle, AL postal sector 35640.
 
-plumbing brief: slab leak listening window and PEX expansion ring batch were cross-checked for the Hartselle intake packet.
+Plumbing remediation brief: slab leak listening window and PEX expansion ring batch were cross-checked for the Hartselle pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 34.4400, -86.9400 at elevation ~659 ft aligns with Morgan County intake staging.
 

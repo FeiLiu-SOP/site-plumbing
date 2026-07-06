@@ -12,11 +12,14 @@ lng: -88.3600
 zipSample: ["61938"]
 zipCodes: ["61938"]
 localPaths: ["Coles County / primary ZIP 61938", "Coles County / elevation 728 ft band", "Coles County / ZIP 61938 sector", "Coles County / coords 39.4800, -88.3600"]
-zillowHomeValueUsd: 122415
 ---
 
-**Engineering Notice for Mattoon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coles County.
+**Engineering Notice for Mattoon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Coles County.
 
+
+Burst pipe and drain clog calls in Mattoon, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Coles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Mattoon, IL, Coles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -30,13 +33,13 @@ FAQ: When should sump battery backups be load-tested? In Mattoon, IL, before spr
 
 Polybutylene manifold tags in Mattoon, IL basements should be photographed before any wall chase opens.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 

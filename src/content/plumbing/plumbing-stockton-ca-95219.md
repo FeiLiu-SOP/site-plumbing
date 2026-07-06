@@ -12,11 +12,14 @@ lng: -121.3100
 zipSample: ["95201", "95210", "95207", "95297", "95269"]
 zipCodes: ["95219", "95210", "95296", "95203", "95267", "95201", "95211", "95212", "95207", "95206", "95202", "95205"]
 localPaths: ["San Joaquin County / ZIP 95207 sector", "San Joaquin County / primary ZIP 95219", "San Joaquin County / ZIP 95201 sector", "San Joaquin County / coords 37.9800, -121.3100", "San Joaquin County / ZIP 95210 sector"]
-zillowHomeValueUsd: 555828
 ---
 
-**Engineering Notice for Stockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Stockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Joaquin County.
 
+
+Licensed plumbing crews serving Stockton, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Stockton, CA, San Joaquin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -30,7 +33,7 @@ Water heater T&P discharge paths in Stockton, CA must terminate safely before re
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-We coordinate Stockton, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Stockton, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

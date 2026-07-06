@@ -12,15 +12,18 @@ lng: -77.9300
 zipSample: ["27895", "27896", "27894", "27893"]
 zipCodes: ["27893", "27896", "27895", "27894"]
 localPaths: ["Wilson County / ZIP 27896 sector", "Wilson County / elevation 135 ft band", "Wilson County / ZIP 27893 sector", "Wilson County / coords 35.7300, -77.9300", "Wilson County / primary ZIP 27896"]
-zillowHomeValueUsd: 279877
 ---
 
-**Engineering Notice for Wilson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wilson County.
+**Engineering Notice for Wilson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wilson County.
 
+
+Plumbing remediation in Wilson, NC, Wilson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Wilson, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wilson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Is hydro-jetting always appropriate? In Wilson, NC, pipe material and blockage type dictate method.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -50,7 +53,7 @@ Pressure trace 301917: meter-pit clearance and dielectric union checklist staged
 
 Supply audit 301917: curb-stop orientation and hose-bib freeze flag reviewed for Wilson, NC at coords 35.7300/-77.9300.
 
-Scope trace: slab leak listening window plus hose bib freeze flag referenced in Wilson County county grid review.
+Scope trace: slab leak listening window plus hose bib freeze flag referenced in Wilson County drain and water line review.
 
 ZIP-corridor snapshot for Wilson, NC: sampled sectors include 27893, 27894, 27896, 27895; county routing grid remains Wilson County.
 

@@ -12,11 +12,14 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / primary ZIP 97520", "Jackson County / coords 42.1900, -122.7000", "Jackson County / ZIP 97520 sector", "Jackson County / elevation 1972 ft band"]
-zillowHomeValueUsd: 550595
 ---
 
-**Engineering Notice for Ashland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jackson County.
+**Engineering Notice for Ashland:** Supply line, cleanout, and water heater scope recorded at 1972 ft elevation context (Jackson County).
 
+
+When a main line backs up in Ashland, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Ashland, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Polybutylene manifold tags in Ashland, OR basements should be photographed before any wall chase opens.
 
@@ -45,8 +48,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Intake ledger 334202: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ashland, OR at 42.1900, -122.7000.
 
 Supply audit 334202: curb-stop orientation and hose-bib freeze flag reviewed for Ashland, OR at coords 42.1900/-122.7000.
-
-plumbing brief: floor drain trap primer drip and backflow test cock orientation were cross-checked for the Ashland intake packet.
 
 On-site sector marker: Jackson County / elevation 1972 ft band — logged for map parity and ZIP-corridor verification.
 

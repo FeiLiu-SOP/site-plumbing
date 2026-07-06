@@ -12,11 +12,14 @@ lng: -97.7400
 zipSample: ["78717", "78681"]
 zipCodes: ["78717", "78681"]
 localPaths: ["Williamson County / ZIP 78681 sector", "Williamson County / ZIP 78717 sector", "Williamson County / coords 30.5100, -97.7400", "Williamson County / primary ZIP 78681", "Williamson County / elevation 856 ft band"]
-zillowHomeValueUsd: 486114
 ---
 
-**Engineering Notice for Brushy Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
+**Engineering Notice for Brushy Creek:** Supply line, cleanout, and water heater scope recorded at 856 ft elevation context (Williamson County).
 
+
+Licensed plumbing crews serving Brushy Creek, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Brushy Creek, TX, Williamson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -45,6 +48,8 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 Stack vent offsets in Brushy Creek, TX older duplexes can mask tub gurgle as a main-line failure.
 
 Supply audit 848680: curb-stop orientation and hose-bib freeze flag reviewed for Brushy Creek, TX at coords 30.5100/-97.7400.
+
+Scope trace: slab leak listening window plus slab penetration sleeve seal referenced in Williamson County drain and water line review.
 
 Primary postal anchor 78681 with multi-ZIP overlap in Brushy Creek; field packets tag Williamson County for county-grid reconciliation.
 

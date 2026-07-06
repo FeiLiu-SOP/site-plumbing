@@ -12,11 +12,14 @@ lng: -68.7900
 zipSample: ["04402", "04401"]
 zipCodes: ["04402", "04401"]
 localPaths: ["Penobscot County / elevation 167 ft band", "Penobscot County / ZIP 04402 sector", "Penobscot County / ZIP 04401 sector", "Penobscot County / primary ZIP 04401", "Penobscot County / coords 44.8300, -68.7900"]
-zillowHomeValueUsd: 299399
 ---
 
-**Engineering Notice for Bangor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Penobscot County.
+**Engineering Notice for Bangor:** Emergency leak and drain triage uses ~180 mg/L hardness context with Penobscot County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Bangor, ME may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Penobscot County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Bangor, ME, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Material note: Water heater anode type may change with Bangor, ME hardness profiles.
 
@@ -49,6 +52,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Intake ledger 664131: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bangor, ME at 44.8300, -68.7900.
 
 Flow dossier 664131: branch wet-vent geometry and jetting nozzle envelope logged for Bangor, ME county grid Penobscot County (ZIP 04401).
+
+Local service note: recirculation pump amp draw paired with branch wet vent geometry near ZIP 04401 for emergency plumbing pro repairs.
 
 On-site sector marker: Penobscot County / coords 44.8300, -68.7900 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -156.4600
 zipSample: ["96733", "96732"]
 zipCodes: ["96732", "96733"]
 localPaths: ["Maui County / elevation 46 ft band", "Maui County / ZIP 96733 sector", "Maui County / primary ZIP 96732", "Maui County / coords 20.8700, -156.4600", "Maui County / ZIP 96732 sector"]
-zillowHomeValueUsd: 1034297
 ---
 
-**Engineering Notice for Kahului:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maui County.
+**Engineering Notice for Kahului:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Maui County.
 
+
+Emergency qualified plumber service in Kahului, HI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Maui County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Kahului, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maui County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -32,7 +35,7 @@ Risk flag: In Kahului, HI, slab leaks can misroute as foundation issues without 
 
 Across Kahului, HI, main-line bellies can trap debris even when fixtures drain normally.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Kahului, HI hardness profiles.
 

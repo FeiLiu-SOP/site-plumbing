@@ -12,11 +12,14 @@ lng: -82.4500
 zipSample: ["33647", "33675", "33549", "33559", "33548"]
 zipCodes: ["33548", "33675", "33647", "33549", "33559"]
 localPaths: ["Hillsborough County / ZIP 33548 sector", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33647 sector", "Hillsborough County / ZIP 33559 sector", "Hillsborough County / primary ZIP 33548"]
-zillowHomeValueUsd: 668748
 ---
 
-**Engineering Notice for Lutz:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Lutz:** Emergency leak and drain triage uses ~162 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Lutz, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Lutz, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lutz, FL.
 
@@ -47,8 +50,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Fixture roster 446827: toilet flange spacer kit and shower cartridge seat score queued for Lutz, FL walk-through.
 
 Pressure trace 446827: meter-pit clearance and dielectric union checklist staged for Lutz, FL near elevation 52 ft.
-
-Scope trace: recirculation pump amp draw plus water softener bypass lever referenced in Hillsborough County county grid review.
 
 On-site sector marker: Hillsborough County / primary ZIP 33548 — logged for map parity and ZIP-corridor verification.
 

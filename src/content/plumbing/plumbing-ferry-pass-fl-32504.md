@@ -12,11 +12,14 @@ lng: -87.1900
 zipSample: ["32523", "32504", "32514"]
 zipCodes: ["32514", "32523", "32504"]
 localPaths: ["Escambia County / primary ZIP 32504", "Escambia County / coords 30.5200, -87.1900", "Escambia County / elevation 125 ft band", "Escambia County / ZIP 32514 sector", "Escambia County / ZIP 32523 sector"]
-zillowHomeValueUsd: 270467
 ---
 
-**Engineering Notice for Ferry Pass:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.
+**Engineering Notice for Ferry Pass:** Emergency leak and drain triage uses ~171 mg/L hardness context with Escambia County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Ferry Pass, FL, Escambia County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Ferry Pass, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Escambia County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -44,11 +47,11 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 32504.
 
-We coordinate Ferry Pass, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Ferry Pass, FL plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Supply audit 482600: curb-stop orientation and hose-bib freeze flag reviewed for Ferry Pass, FL at coords 30.5200/-87.1900.
 
-plumbing brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the Ferry Pass intake packet.
+Plumbing service brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the Ferry Pass pipe and leak scope.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Escambia County. Reference elevation: 125 ft. Primary coordinates: 30.5200, -87.1900. ZIP sample: 32504, 32523, 32514. Regional routing note: Escambia County traffic flow is balanced around ZIP 32504 service demand.
 

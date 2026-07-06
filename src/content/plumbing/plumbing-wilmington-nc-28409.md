@@ -12,11 +12,14 @@ lng: -77.8900
 zipSample: ["28412", "28408", "28409", "28406", "28405"]
 zipCodes: ["28402", "28409", "28401", "28412", "28403", "28408", "28406", "28405"]
 localPaths: ["New Hanover County / ZIP 28409 sector", "New Hanover County / ZIP 28408 sector", "New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28405 sector", "New Hanover County / primary ZIP 28409"]
-zillowHomeValueUsd: 510801
 ---
 
-**Engineering Notice for Wilmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Hanover County.
+**Engineering Notice for Wilmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in New Hanover County.
 
+
+Plumbing remediation in Wilmington, NC, New Hanover County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Wilmington, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in New Hanover County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -43,6 +46,8 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 FAQ: When should sump battery backups be load-tested? In Wilmington, NC, before spring thaw and hurricane remnants.
 
 Supply audit 132186: curb-stop orientation and hose-bib freeze flag reviewed for Wilmington, NC at coords 34.2100/-77.8900.
+
+Scope trace: hose bib freeze flag plus slab leak listening window referenced in New Hanover County drain and water line review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~36 ft across the New Hanover County area. Coordinates: 34.2100, -77.8900. ZIP sample: 28405, 28406, 28401, 28408, 28412. Regional routing note: New Hanover County traffic flow is balanced around ZIP 28409 service demand.
 

@@ -12,11 +12,14 @@ lng: -79.9500
 zipSample: ["24019", "24020", "24050"]
 zipCodes: ["24020", "24019", "24050"]
 localPaths: ["Roanoke County / ZIP 24050 sector", "Roanoke County / elevation 1112 ft band", "Roanoke County / ZIP 24019 sector", "Roanoke County / coords 37.3400, -79.9500", "Roanoke County / ZIP 24020 sector"]
-zillowHomeValueUsd: 306192
 ---
 
-**Engineering Notice for Hollins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Hollins:** Emergency leak and drain triage uses ~114 mg/L hardness context with Roanoke County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Hollins, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Hollins, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Roanoke County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -36,7 +39,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Trenchless sleeve pulls near Hollins, VA require pit shoring notes when water tables are high.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 24019.
 
@@ -49,8 +52,6 @@ Trenchless pulls in Hollins, VA require pit dimensions verified against utility 
 Flow dossier 832810: branch wet-vent geometry and jetting nozzle envelope logged for Hollins, VA county grid Roanoke County (ZIP 24019).
 
 Intake ledger 832810: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Hollins, VA at 37.3400, -79.9500.
-
-plumbing brief: PRV outlet curve and thermal expansion loop check were cross-checked for the Hollins intake packet.
 
 On-site sector marker: Roanoke County / ZIP 24050 sector — logged for map parity and ZIP-corridor verification.
 

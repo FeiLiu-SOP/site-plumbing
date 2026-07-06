@@ -12,11 +12,14 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 167 ft band", "Los Angeles County / coords 33.9800, -118.2200"]
-zillowHomeValueUsd: 675387
 ---
 
-**Engineering Notice for Huntington Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Huntington Park:** Emergency leak and drain triage uses ~112 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Huntington Park, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Huntington Park, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Huntington Park, CA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -46,7 +49,7 @@ Stack vent offsets in Huntington Park, CA older duplexes can mask tub gurgle as 
 
 Flow dossier 506270: branch wet-vent geometry and jetting nozzle envelope logged for Huntington Park, CA county grid Los Angeles County (ZIP 90255).
 
-plumbing brief: copper pinhole cluster and PRV outlet curve were cross-checked for the Huntington Park intake packet.
+Plumbing service brief: copper pinhole cluster and PRV outlet curve were cross-checked for the Huntington Park pipe and leak scope.
 
 On-site sector marker: Los Angeles County / primary ZIP 90255 — logged for map parity and ZIP-corridor verification.
 

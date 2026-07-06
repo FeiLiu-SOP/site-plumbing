@@ -12,11 +12,14 @@ lng: -93.2700
 zipSample: ["55412", "55405", "55410", "55467", "55403"]
 zipCodes: ["55440", "55406", "55409", "55401", "55479", "55484", "55405", "55415", "55410", "55407", "55404", "55412"]
 localPaths: ["Hennepin County / ZIP 55410 sector", "Hennepin County / ZIP 55403 sector", "Hennepin County / coords 44.9600, -93.2700", "Hennepin County / ZIP 55412 sector", "Hennepin County / elevation 863 ft band"]
-zillowHomeValueUsd: 239915
 ---
 
-**Engineering Notice for Minneapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Minneapolis:** Emergency leak and drain triage uses ~160 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Minneapolis, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Hennepin County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Minneapolis, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Recirculation pump failures in Minneapolis, MN can mimic fixture-specific clogs.
 

@@ -12,11 +12,14 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / ZIP 97338 sector", "Polk County / elevation 322 ft band", "Polk County / coords 44.9200, -123.3100", "Polk County / primary ZIP 97338"]
-zillowHomeValueUsd: 473412
 ---
 
-**Engineering Notice for Dallas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for Dallas:** Supply line, cleanout, and water heater scope recorded at 322 ft elevation context (Polk County).
 
+
+Certified plumbing crews serving Dallas, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Dallas, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Recirculation pump failures in Dallas, OR can mimic fixture-specific clogs.
 
@@ -45,8 +48,6 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Galvanized segments in Dallas, OR may restrict flow long before visible corrosion.
 
 Pressure trace 348099: meter-pit clearance and dielectric union checklist staged for Dallas, OR near elevation 322 ft.
-
-plumbing brief: cleanout riser height and toilet flange spacer kit were cross-checked for the Dallas intake packet.
 
 Primary postal anchor 97338 with multi-ZIP overlap in Dallas; field packets tag Polk County for county-grid reconciliation.
 

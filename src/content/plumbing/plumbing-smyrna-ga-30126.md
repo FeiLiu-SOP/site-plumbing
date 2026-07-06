@@ -12,13 +12,16 @@ lng: -84.5200
 zipSample: ["30080", "30082", "30081", "30126"]
 zipCodes: ["30080", "30081", "30082", "30126"]
 localPaths: ["Cobb County / ZIP 30080 sector", "Cobb County / coords 33.8600, -84.5200", "Cobb County / primary ZIP 30126", "Cobb County / ZIP 30081 sector", "Cobb County / ZIP 30126 sector"]
-zillowHomeValueUsd: 372312
 ---
 
-**Engineering Notice for Smyrna:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cobb County.
+**Engineering Notice for Smyrna:** Supply line, cleanout, and water heater scope recorded at 1040 ft elevation context (Cobb County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+Plumbing remediation in Smyrna, GA, Cobb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Smyrna, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Smyrna, GA.
 

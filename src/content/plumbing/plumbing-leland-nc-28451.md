@@ -12,11 +12,14 @@ lng: -78.0300
 zipSample: ["28451", "28479"]
 zipCodes: ["28479", "28451"]
 localPaths: ["Brunswick County / elevation 20 ft band", "Brunswick County / ZIP 28479 sector", "Brunswick County / ZIP 28451 sector", "Brunswick County / primary ZIP 28451", "Brunswick County / coords 34.2000, -78.0300"]
-zillowHomeValueUsd: 377999
 ---
 
-**Engineering Notice for Leland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brunswick County.
+**Engineering Notice for Leland:** Emergency leak and drain triage uses ~172 mg/L hardness context with Brunswick County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Leland, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Leland, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When is cabling enough? In Leland, NC, pipe material and blockage type dictate method.
 
@@ -36,7 +39,7 @@ Frost-free sillcock failures in Leland, NC often trace to interior shutoff seats
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Leland, NC basements should be photographed before any wall chase opens.
 

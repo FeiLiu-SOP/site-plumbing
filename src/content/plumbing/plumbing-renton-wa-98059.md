@@ -12,11 +12,14 @@ lng: -122.1900
 zipSample: ["98058", "98056", "98059", "98057", "98055"]
 zipCodes: ["98058", "98055", "98057", "98056", "98059"]
 localPaths: ["King County / ZIP 98055 sector", "King County / ZIP 98058 sector", "King County / elevation 95 ft band", "King County / ZIP 98056 sector", "King County / coords 47.4800, -122.1900"]
-zillowHomeValueUsd: 981973
 ---
 
-**Engineering Notice for Renton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Renton:** Supply line, cleanout, and water heater scope recorded at 95 ft elevation context (King County).
 
+
+Plumbing restoration in Renton, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Renton, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Renton, WA older duplexes can mask tub gurgle as a main-line failure.
 

@@ -12,11 +12,14 @@ lng: -86.1700
 zipSample: ["46544", "46530", "46545", "46546"]
 zipCodes: ["46545", "46544", "46546", "46530"]
 localPaths: ["St. Joseph County / ZIP 46546 sector", "St. Joseph County / ZIP 46544 sector", "St. Joseph County / ZIP 46530 sector", "St. Joseph County / primary ZIP 46544", "St. Joseph County / elevation 738 ft band"]
-zillowHomeValueUsd: 202827
 ---
 
-**Engineering Notice for Mishawaka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for Mishawaka:** Supply line, cleanout, and water heater scope recorded at 738 ft elevation context (St. Joseph County).
 
+
+Burst pipe and drain clog calls in Mishawaka, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Joseph County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Mishawaka, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 

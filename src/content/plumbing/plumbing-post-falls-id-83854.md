@@ -12,11 +12,14 @@ lng: -116.9400
 zipSample: ["83877", "83854"]
 zipCodes: ["83854", "83877"]
 localPaths: ["Kootenai County / ZIP 83854 sector", "Kootenai County / primary ZIP 83854", "Kootenai County / elevation 2205 ft band", "Kootenai County / ZIP 83877 sector", "Kootenai County / coords 47.7200, -116.9400"]
-zillowHomeValueUsd: 526990
 ---
 
-**Engineering Notice for Post Falls:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Post Falls:** Emergency leak and drain triage uses ~123 mg/L hardness context with Kootenai County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in Post Falls, ID often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kootenai County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Post Falls, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Seasonal Post Falls, ID irrigation cross-connections can mask domestic pressure loss.
 
@@ -34,17 +37,17 @@ Hard water in Post Falls, ID accelerates scale on PRV seats and heater elements.
 
 Expansion tank pre-charge loss in Post Falls, ID often tracks heater replacement deferrals.
 
-Dispatch packets reference county grid Kootenai County near ZIP 83854.
+Our Post Falls, ID service packets reference Kootenai County near ZIP 83854 for pipe and leak scope.
 
 In Post Falls, ID, slab leaks often present as warm spots before wall stains appear.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Intake ledger 750952: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Post Falls, ID at 47.7200, -116.9400.
 
-Scope trace: floor drain trap primer drip plus copper pinhole cluster referenced in Kootenai County county grid review.
+Scope trace: floor drain trap primer drip plus copper pinhole cluster referenced in Kootenai County drain and water line review.
 
 Primary postal anchor 83854 with multi-ZIP overlap in Post Falls; field packets tag Kootenai County for county-grid reconciliation.
 

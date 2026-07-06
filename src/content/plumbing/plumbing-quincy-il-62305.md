@@ -12,11 +12,14 @@ lng: -91.3800
 zipSample: ["62305", "62301"]
 zipCodes: ["62305", "62301"]
 localPaths: ["Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / primary ZIP 62305", "Adams County / coords 39.9300, -91.3800", "Adams County / ZIP 62301 sector"]
-zillowHomeValueUsd: 253385
 ---
 
-**Engineering Notice for Quincy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.
+**Engineering Notice for Quincy:** Emergency leak and drain triage uses ~161 mg/L hardness context with Adams County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Quincy, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Adams County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Quincy, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -46,7 +49,7 @@ Intake ledger 248660: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Pressure trace 248660: meter-pit clearance and dielectric union checklist staged for Quincy, IL near elevation 636 ft.
 
-Scope trace: cleanout riser height plus sump float travel referenced in Adams County county grid review.
+Scope trace: cleanout riser height plus sump float travel referenced in Adams County drain and water line review.
 
 On-site sector marker: Adams County / elevation 636 ft band — logged for map parity and ZIP-corridor verification.
 

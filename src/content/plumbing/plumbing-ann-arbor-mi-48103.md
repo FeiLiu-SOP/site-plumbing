@@ -12,11 +12,14 @@ lng: -83.7300
 zipSample: ["48108", "48109", "48103", "48113", "48105"]
 zipCodes: ["48113", "48108", "48109", "48103", "48104", "48105"]
 localPaths: ["Washtenaw County / primary ZIP 48103", "Washtenaw County / ZIP 48113 sector", "Washtenaw County / ZIP 48103 sector", "Washtenaw County / ZIP 48105 sector", "Washtenaw County / ZIP 48109 sector"]
-zillowHomeValueUsd: 522032
 ---
 
-**Engineering Notice for Ann Arbor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washtenaw County.
+**Engineering Notice for Ann Arbor:** Emergency leak and drain triage uses ~134 mg/L hardness context with Washtenaw County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Ann Arbor, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Ann Arbor, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -49,8 +52,6 @@ CPVC solvent weld times shift with ambient humidity during Ann Arbor, MI shoulde
 Flow dossier 982433: branch wet-vent geometry and jetting nozzle envelope logged for Ann Arbor, MI county grid Washtenaw County (ZIP 48103).
 
 Lineage note 982433: recirculation pump amp draw captured before Ann Arbor, MI branch isolation.
-
-plumbing brief: water heater T&P path and branch wet vent geometry were cross-checked for the Ann Arbor intake packet.
 
 ZIP-corridor snapshot for Ann Arbor, MI: sampled sectors include 48113, 48104, 48109, 48105, 48103, 48108; county routing grid remains Washtenaw County.
 

@@ -12,11 +12,14 @@ lng: -112.0900
 zipSample: ["85086", "85087"]
 zipCodes: ["85087", "85086"]
 localPaths: ["Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / coords 33.8800, -112.0900", "Maricopa County / elevation 2129 ft band", "Maricopa County / ZIP 85087 sector"]
-zillowHomeValueUsd: 624733
 ---
 
-**Engineering Notice for New River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for New River:** Emergency leak and drain triage uses ~127 mg/L hardness context with Maricopa County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in New River, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in New River, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Maricopa County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in New River, AZ.
 
@@ -38,11 +41,11 @@ Risk flag: Seasonal New River, AZ irrigation cross-connections can mask domestic
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch packets reference county grid Maricopa County near ZIP 85086.
+Our New River, AZ service packets reference Maricopa County near ZIP 85086 for pipe and leak scope.
 
 Risk flag: In New River, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Fixture roster 351151: toilet flange spacer kit and shower cartridge seat score queued for New River, AZ walk-through.
 

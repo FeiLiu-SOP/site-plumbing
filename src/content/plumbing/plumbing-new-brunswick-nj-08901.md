@@ -12,11 +12,14 @@ lng: -74.4400
 zipSample: ["08933", "08875", "08901", "08906"]
 zipCodes: ["08875", "08901", "08933", "08906"]
 localPaths: ["Middlesex County / ZIP 08901 sector", "Middlesex County / ZIP 08906 sector", "Middlesex County / primary ZIP 08901", "Middlesex County / ZIP 08875 sector", "Middlesex County / ZIP 08933 sector"]
-zillowHomeValueUsd: 443136
 ---
 
-**Engineering Notice for New Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for New Brunswick:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Middlesex County.
 
+
+Plumbing service in New Brunswick, NJ, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in New Brunswick, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Stack vent offsets in New Brunswick, NJ older duplexes can mask tub gurgle as a main-line failure.
 
@@ -49,8 +52,6 @@ FAQ: When should sump battery backups be load-tested? In New Brunswick, NJ, befo
 Flow dossier 521710: branch wet-vent geometry and jetting nozzle envelope logged for New Brunswick, NJ county grid Middlesex County (ZIP 08901).
 
 Intake ledger 521710: sump amperage, PRV seat wear, and cleanout riser height cross-checked for New Brunswick, NJ at 40.4900, -74.4400.
-
-Field routing: shower cartridge seat score paired with backflow test cock orientation near ZIP 08901.
 
 On-site sector marker: Middlesex County / elevation 62 ft band — logged for map parity and ZIP-corridor verification.
 

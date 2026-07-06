@@ -12,11 +12,14 @@ lng: -108.5500
 zipSample: ["59117", "59107", "59115", "59104", "59101"]
 zipCodes: ["59117", "59104", "59102", "59116", "59115", "59101", "59106", "59105", "59108", "59107"]
 localPaths: ["Yellowstone County / ZIP 59104 sector", "Yellowstone County / elevation 3228 ft band", "Yellowstone County / ZIP 59115 sector", "Yellowstone County / ZIP 59101 sector", "Yellowstone County / coords 45.7900, -108.5500"]
-zillowHomeValueUsd: 536056
 ---
 
-**Engineering Notice for Billings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yellowstone County.
+**Engineering Notice for Billings:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Yellowstone County.
 
+
+Burst pipe and drain clog calls in Billings, MT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Yellowstone County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Billings, MT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

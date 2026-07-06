@@ -12,11 +12,14 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / coords 42.4700, -88.0700", "Lake County / ZIP 60002 sector", "Lake County / primary ZIP 60002", "Lake County / elevation 787 ft band"]
-zillowHomeValueUsd: 344727
 ---
 
-**Engineering Notice for Antioch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Antioch:** Emergency leak and drain triage uses ~145 mg/L hardness context with Lake County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Antioch, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Antioch, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -45,8 +48,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Tip: Save water heater serial plates for warranty traceability.
 
 Flow dossier 511785: branch wet-vent geometry and jetting nozzle envelope logged for Antioch, IL county grid Lake County (ZIP 60002).
-
-Scope trace: water heater T&P path plus shower cartridge seat score referenced in Lake County county grid review.
 
 ZIP-corridor snapshot for Antioch, IL: sampled sectors include 60002; county routing grid remains Lake County.
 

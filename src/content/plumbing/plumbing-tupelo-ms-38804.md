@@ -12,11 +12,14 @@ lng: -88.7300
 zipSample: ["38803", "38802", "38804", "38801", "38826"]
 zipCodes: ["38802", "38804", "38826", "38803", "38801"]
 localPaths: ["Lee County / ZIP 38803 sector", "Lee County / elevation 285 ft band", "Lee County / coords 34.2700, -88.7300", "Lee County / ZIP 38802 sector", "Lee County / ZIP 38801 sector"]
-zillowHomeValueUsd: 193099
 ---
 
-**Engineering Notice for Tupelo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Tupelo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lee County.
 
+
+Licensed plumbing crews serving Tupelo, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Tupelo, MS, Lee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

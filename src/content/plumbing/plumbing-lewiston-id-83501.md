@@ -12,11 +12,14 @@ lng: -116.9900
 zipSample: ["83501"]
 zipCodes: ["83501"]
 localPaths: ["Nez Perce County / primary ZIP 83501", "Nez Perce County / coords 46.3900, -116.9900", "Nez Perce County / ZIP 83501 sector", "Nez Perce County / elevation 1286 ft band"]
-zillowHomeValueUsd: 382333
 ---
 
-**Engineering Notice for Lewiston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nez Perce County.
+**Engineering Notice for Lewiston:** Supply line, cleanout, and water heater scope recorded at 1286 ft elevation context (Nez Perce County).
 
+
+Emergency licensed plumber service in Lewiston, ID often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Nez Perce County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Lewiston, ID review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Lewiston, ID hardness profiles.
 
@@ -46,7 +49,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Supply audit 970933: curb-stop orientation and hose-bib freeze flag reviewed for Lewiston, ID at coords 46.3900/-116.9900.
 
-Field routing: cleanout riser height paired with sewer cleanout cap thread near ZIP 83501.
+Local service note: cleanout riser height paired with sewer cleanout cap thread near ZIP 83501 for emergency qualified plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 46.3900, -116.9900 at elevation ~1286 ft aligns with Nez Perce County intake staging.
 

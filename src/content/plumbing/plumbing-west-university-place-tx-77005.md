@@ -12,11 +12,14 @@ lng: -95.4300
 zipSample: ["77265", "77005", "77277"]
 zipCodes: ["77265", "77005", "77277"]
 localPaths: ["Harris County / ZIP 77277 sector", "Harris County / coords 29.7200, -95.4300", "Harris County / elevation 72 ft band", "Harris County / primary ZIP 77005", "Harris County / ZIP 77005 sector"]
-zillowHomeValueUsd: 1677626
 ---
 
-**Engineering Notice for West University Place:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for West University Place:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Harris County.
 
+
+Burst pipe and drain clog calls in West University Place, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harris County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving West University Place, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: camera-pass main lines in West University Place, TX before jetting older clay or cast iron.
 
@@ -32,7 +35,7 @@ Step: document dielectric unions before mixed-metal replacements.
 
 Sewer gas odors in West University Place, TX should trigger trap seal and vent path review.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during West University Place, TX shoulder seasons.
 

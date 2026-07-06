@@ -12,11 +12,14 @@ lng: -87.8600
 zipSample: ["60467", "60462"]
 zipCodes: ["60467", "60462"]
 localPaths: ["Cook County / primary ZIP 60467", "Cook County / ZIP 60462 sector", "Cook County / elevation 692 ft band", "Cook County / coords 41.6100, -87.8600", "Cook County / ZIP 60467 sector"]
-zillowHomeValueUsd: 465573
 ---
 
-**Engineering Notice for Orland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Orland Park:** Supply line, cleanout, and water heater scope recorded at 692 ft elevation context (Cook County).
 
+
+Plumbing restoration in Orland Park, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Orland Park, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -45,6 +48,8 @@ Step: photograph curb-stop and meter pit before trenching.
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Pressure trace 301343: meter-pit clearance and dielectric union checklist staged for Orland Park, IL near elevation 692 ft.
+
+Local service note: gas water heater draft hood gap paired with sump float travel near ZIP 60467 for emergency certified plumber repairs.
 
 ZIP-corridor snapshot for Orland Park, IL: sampled sectors include 60467, 60462; county routing grid remains Cook County.
 

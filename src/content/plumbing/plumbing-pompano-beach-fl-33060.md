@@ -7,16 +7,19 @@ state: "FL"
 zipCode: "33060"
 county: "Broward County"
 elevationFt: 33
-lat: 26.2400
+lat: 26.2700
 lng: -80.1300
 zipSample: ["33060", "33061", "33062", "33097", "33069"]
 zipCodes: ["33062", "33097", "33074", "33064", "33069", "33060", "33061"]
-localPaths: ["Broward County / ZIP 33062 sector", "Broward County / coords 26.2400, -80.1300", "Broward County / primary ZIP 33060", "Broward County / ZIP 33061 sector", "Broward County / ZIP 33069 sector"]
-zillowHomeValueUsd: 430591
+localPaths: ["Broward County / ZIP 33062 sector", "Broward County / coords 26.2700, -80.1300", "Broward County / primary ZIP 33060", "Broward County / ZIP 33061 sector", "Broward County / ZIP 33069 sector"]
 ---
 
-**Engineering Notice for Pompano Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for Pompano Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Broward County.
 
+
+Plumbing remediation in Pompano Beach, FL, Broward County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Pompano Beach, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broward County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

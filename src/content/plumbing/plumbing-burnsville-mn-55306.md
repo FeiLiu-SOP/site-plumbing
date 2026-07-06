@@ -12,11 +12,14 @@ lng: -93.2800
 zipSample: ["55337", "55306"]
 zipCodes: ["55337", "55306"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / ZIP 55306 sector", "Dakota County / elevation 968 ft band"]
-zillowHomeValueUsd: 416549
 ---
 
-**Engineering Notice for Burnsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
+**Engineering Notice for Burnsville:** Supply line, cleanout, and water heater scope recorded at 968 ft elevation context (Dakota County).
 
+
+Certified plumbing crews serving Burnsville, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Burnsville, MN, Dakota County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -50,7 +53,7 @@ Lineage note 820994: recirculation pump amp draw captured before Burnsville, MN 
 
 Supply audit 820994: curb-stop orientation and hose-bib freeze flag reviewed for Burnsville, MN at coords 44.7600/-93.2800.
 
-Field routing: slab leak listening window paired with scale coupon sampling near ZIP 55306.
+Local service note: slab leak listening window paired with scale coupon sampling near ZIP 55306 for emergency plumbing pro repairs.
 
 On-site sector marker: Dakota County / coords 44.7600, -93.2800 — logged for map parity and ZIP-corridor verification.
 

@@ -12,15 +12,18 @@ lng: -80.4300
 zipSample: ["33187", "33177"]
 zipCodes: ["33187", "33177"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / ZIP 33187 sector", "Miami-Dade County / coords 25.6100, -80.4300", "Miami-Dade County / primary ZIP 33177", "Miami-Dade County / ZIP 33177 sector"]
-zillowHomeValueUsd: 571230
 ---
 
-**Engineering Notice for Richmond West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Richmond West:** Emergency leak and drain triage uses ~113 mg/L hardness context with Miami-Dade County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Richmond West, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Richmond West, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Branch wet vents in Richmond West, FL can mask gurgling as a main-line issue.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Galvanized segments in Richmond West, FL may restrict flow long before visible corrosion.
 

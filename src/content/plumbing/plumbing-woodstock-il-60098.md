@@ -12,11 +12,14 @@ lng: -88.4400
 zipSample: ["60098"]
 zipCodes: ["60098"]
 localPaths: ["McHenry County / coords 42.3100, -88.4400", "McHenry County / elevation 932 ft band", "McHenry County / ZIP 60098 sector", "McHenry County / primary ZIP 60098"]
-zillowHomeValueUsd: 332745
 ---
 
-**Engineering Notice for Woodstock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
+**Engineering Notice for Woodstock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in McHenry County.
 
+
+Burst pipe and drain clog calls in Woodstock, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in McHenry County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Woodstock, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: In Woodstock, IL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -45,8 +48,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Irrigation cross-connections in Woodstock, IL can back-siphon domestic lines during main breaks.
 
 Supply audit 260939: curb-stop orientation and hose-bib freeze flag reviewed for Woodstock, IL at coords 42.3100/-88.4400.
-
-plumbing brief: shower cartridge seat score and hose bib freeze flag were cross-checked for the Woodstock intake packet.
 
 On-site sector marker: McHenry County / ZIP 60098 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -77.3400
 zipSample: ["22025", "22193"]
 zipCodes: ["22193", "22025"]
 localPaths: ["Prince William County / ZIP 22193 sector", "Prince William County / ZIP 22025 sector", "Prince William County / elevation 154 ft band", "Prince William County / primary ZIP 22193", "Prince William County / coords 38.6100, -77.3400"]
-zillowHomeValueUsd: 508685
 ---
 
-**Engineering Notice for Montclair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince William County.
+**Engineering Notice for Montclair:** Supply line, cleanout, and water heater scope recorded at 154 ft elevation context (Prince William County).
 
+
+Emergency plumbing pro service in Montclair, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Prince William County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+When a main line backs up in Montclair, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -45,8 +48,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Lineage note 872109: recirculation pump amp draw captured before Montclair, VA branch isolation.
 
 Pressure trace 872109: meter-pit clearance and dielectric union checklist staged for Montclair, VA near elevation 154 ft.
-
-Scope trace: branch wet vent geometry plus copper pinhole cluster referenced in Prince William County county grid review.
 
 On-site sector marker: Prince William County / ZIP 22025 sector — logged for map parity and ZIP-corridor verification.
 

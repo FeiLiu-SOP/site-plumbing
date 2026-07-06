@@ -12,15 +12,18 @@ lng: -91.0700
 zipSample: ["52761"]
 zipCodes: ["52761"]
 localPaths: ["Muscatine County / elevation 719 ft band", "Muscatine County / primary ZIP 52761", "Muscatine County / ZIP 52761 sector", "Muscatine County / coords 41.4200, -91.0700"]
-zillowHomeValueUsd: 183325
 ---
 
-**Engineering Notice for Muscatine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muscatine County.
+**Engineering Notice for Muscatine:** Supply line, cleanout, and water heater scope recorded at 719 ft elevation context (Muscatine County).
 
+
+Licensed plumbing crews serving Muscatine, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Muscatine, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Muscatine County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Muscatine, IA may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -50,7 +53,7 @@ Drain map 528960: camera-pass priority and expansion-tank pre-charge noted for M
 
 Flow dossier 528960: branch wet-vent geometry and jetting nozzle envelope logged for Muscatine, IA county grid Muscatine County (ZIP 52761).
 
-Field routing: branch wet vent geometry paired with backflow test cock orientation near ZIP 52761.
+Local service note: branch wet vent geometry paired with backflow test cock orientation near ZIP 52761 for emergency plumbing technician repairs.
 
 Primary postal anchor 52761 with multi-ZIP overlap in Muscatine; field packets tag Muscatine County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -81.7800
 zipSample: ["30461", "30458", "30460", "30459"]
 zipCodes: ["30460", "30461", "30458", "30459"]
 localPaths: ["Bulloch County / ZIP 30460 sector", "Bulloch County / coords 32.4400, -81.7800", "Bulloch County / primary ZIP 30460", "Bulloch County / elevation 236 ft band", "Bulloch County / ZIP 30459 sector"]
-zillowHomeValueUsd: 259369
 ---
 
-**Engineering Notice for Statesboro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bulloch County.
+**Engineering Notice for Statesboro:** Emergency leak and drain triage uses ~156 mg/L hardness context with Bulloch County service-area notes for pipe and fixture repairs.
 
+
+Emergency qualified plumber service in Statesboro, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Bulloch County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Statesboro, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Risk flag: Seasonal Statesboro, GA irrigation cross-connections can mask domesti
 Flow dossier 271389: branch wet-vent geometry and jetting nozzle envelope logged for Statesboro, GA county grid Bulloch County (ZIP 30460).
 
 Drain map 271389: camera-pass priority and expansion-tank pre-charge noted for Statesboro, GA postal sector 30460.
-
-Scope trace: hose bib freeze flag plus PEX expansion ring batch referenced in Bulloch County county grid review.
 
 On-site sector marker: Bulloch County / primary ZIP 30460 — logged for map parity and ZIP-corridor verification.
 

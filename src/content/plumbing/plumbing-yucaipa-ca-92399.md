@@ -12,11 +12,14 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / primary ZIP 92399", "San Bernardino County / coords 34.0300, -117.0400", "San Bernardino County / elevation 2628 ft band", "San Bernardino County / ZIP 92399 sector"]
-zillowHomeValueUsd: 570001
 ---
 
-**Engineering Notice for Yucaipa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Yucaipa:** Supply line, cleanout, and water heater scope recorded at 2628 ft elevation context (San Bernardino County).
 
+
+Plumbing restoration in Yucaipa, CA, San Bernardino County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Yucaipa, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 92399.
 
@@ -43,8 +46,6 @@ Material note: Water heater anode type may change with Yucaipa, CA hardness prof
 Fixture shutoff stiffness in Yucaipa, CA may indicate mineral bridging behind stems.
 
 Intake ledger 524815: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Yucaipa, CA at 34.0300, -117.0400.
-
-Scope trace: scale coupon sampling plus floor drain trap primer drip referenced in San Bernardino County county grid review.
 
 ZIP-corridor snapshot for Yucaipa, CA: sampled sectors include 92399; county routing grid remains San Bernardino County.
 

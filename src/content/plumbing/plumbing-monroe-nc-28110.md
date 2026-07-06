@@ -12,11 +12,14 @@ lng: -80.5600
 zipSample: ["28112", "28111", "28110"]
 zipCodes: ["28112", "28111", "28110"]
 localPaths: ["Union County / ZIP 28111 sector", "Union County / ZIP 28112 sector", "Union County / elevation 604 ft band", "Union County / ZIP 28110 sector", "Union County / coords 35.0100, -80.5600"]
-zillowHomeValueUsd: 373706
 ---
 
-**Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Monroe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Union County.
 
+
+Plumbing service in Monroe, NC, Union County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Monroe, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Union County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Monroe, NC shoulder seasons.
 
@@ -38,13 +41,11 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We coordinate Monroe, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Monroe, NC plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 913403: recirculation pump amp draw captured before Monroe, NC branch isolation.
-
-plumbing brief: hose bib freeze flag and scale coupon sampling were cross-checked for the Monroe intake packet.
 
 On-site sector marker: Union County / ZIP 28112 sector — logged for map parity and ZIP-corridor verification.
 

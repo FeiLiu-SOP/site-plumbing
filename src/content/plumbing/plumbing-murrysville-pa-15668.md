@@ -12,11 +12,14 @@ lng: -79.6600
 zipSample: ["15668", "15632", "15626"]
 zipCodes: ["15626", "15632", "15668"]
 localPaths: ["Westmoreland County / primary ZIP 15668", "Westmoreland County / ZIP 15626 sector", "Westmoreland County / ZIP 15632 sector", "Westmoreland County / elevation 1230 ft band", "Westmoreland County / coords 40.4500, -79.6600"]
-zillowHomeValueUsd: 348043
 ---
 
-**Engineering Notice for Murrysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westmoreland County.
+**Engineering Notice for Murrysville:** Supply line, cleanout, and water heater scope recorded at 1230 ft elevation context (Westmoreland County).
 
+
+Emergency plumbing technician service in Murrysville, PA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Westmoreland County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Murrysville, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -50,7 +53,7 @@ Fixture roster 463951: toilet flange spacer kit and shower cartridge seat score 
 
 Supply audit 463951: curb-stop orientation and hose-bib freeze flag reviewed for Murrysville, PA at coords 40.4500/-79.6600.
 
-Field routing: shower cartridge seat score paired with fixture shutoff torque log near ZIP 15668.
+Local service note: shower cartridge seat score paired with fixture shutoff torque log near ZIP 15668 for emergency plumbing technician repairs.
 
 On-site sector marker: Westmoreland County / ZIP 15632 sector — logged for map parity and ZIP-corridor verification.
 

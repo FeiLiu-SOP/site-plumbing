@@ -12,13 +12,16 @@ lng: -87.2500
 zipSample: ["32503", "32520", "32505"]
 zipCodes: ["32503", "32505", "32520"]
 localPaths: ["Escambia County / ZIP 32505 sector", "Escambia County / ZIP 32520 sector", "Escambia County / ZIP 32503 sector", "Escambia County / coords 30.4700, -87.2500", "Escambia County / elevation 125 ft band"]
-zillowHomeValueUsd: 294328
 ---
 
-**Engineering Notice for Brent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Escambia County.
+**Engineering Notice for Brent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Escambia County.
 
 
-We coordinate Brent, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Burst pipe and drain clog calls in Brent, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Escambia County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Brent, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Escambia County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+We coordinate Brent, FL plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Trenchless pulls in Brent, FL require pit dimensions verified against utility locate marks.
 
@@ -44,11 +47,9 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 380609: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brent, FL at 30.4700, -87.2500.
-
-Scope trace: sewer cleanout cap thread plus meter pit clearance referenced in Escambia County county grid review.
 
 On-site sector marker: Escambia County / elevation 125 ft band — logged for map parity and ZIP-corridor verification.
 

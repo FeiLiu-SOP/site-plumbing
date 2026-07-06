@@ -12,11 +12,14 @@ lng: -82.9500
 zipSample: ["48021"]
 zipCodes: ["48021"]
 localPaths: ["Macomb County / primary ZIP 48021", "Macomb County / ZIP 48021 sector", "Macomb County / elevation 607 ft band", "Macomb County / coords 42.4700, -82.9500"]
-zillowHomeValueUsd: 150792
 ---
 
-**Engineering Notice for Eastpointe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
+**Engineering Notice for Eastpointe:** Supply line, cleanout, and water heater scope recorded at 607 ft elevation context (Macomb County).
 
+
+Burst pipe and drain clog calls in Eastpointe, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Macomb County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Eastpointe, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -46,7 +49,7 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Lineage note 888088: recirculation pump amp draw captured before Eastpointe, MI branch isolation.
 
-plumbing brief: cleanout riser height and jetter nozzle envelope were cross-checked for the Eastpointe intake packet.
+Plumbing remediation brief: cleanout riser height and jetter nozzle envelope were cross-checked for the Eastpointe pipe and leak scope.
 
 On-site sector marker: Macomb County / primary ZIP 48021 — logged for map parity and ZIP-corridor verification.
 

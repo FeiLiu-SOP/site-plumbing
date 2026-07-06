@@ -12,11 +12,14 @@ lng: -88.1000
 zipSample: ["60440", "60490"]
 zipCodes: ["60490", "60440"]
 localPaths: ["Will County / ZIP 60440 sector", "Will County / ZIP 60490 sector", "Will County / primary ZIP 60440", "Will County / elevation 676 ft band", "Will County / coords 41.6900, -88.1000"]
-zillowHomeValueUsd: 326886
 ---
 
-**Engineering Notice for Bolingbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Bolingbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Will County.
 
+
+Licensed plumbing crews serving Bolingbrook, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Bolingbrook, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Will County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in Bolingbrook, IL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -32,11 +35,11 @@ Galvanized segments in Bolingbrook, IL may restrict flow long before visible cor
 
 Permit note: Main water line replacement in Bolingbrook, IL may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Bolingbrook, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-We coordinate Bolingbrook, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Bolingbrook, IL plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -50,7 +53,7 @@ Pressure trace 908947: meter-pit clearance and dielectric union checklist staged
 
 Drain map 908947: camera-pass priority and expansion-tank pre-charge noted for Bolingbrook, IL postal sector 60440.
 
-Field routing: thermal expansion loop check paired with sump float travel near ZIP 60440.
+Local service note: thermal expansion loop check paired with sump float travel near ZIP 60440 for emergency plumbing pro repairs.
 
 On-site sector marker: Will County / elevation 676 ft band — logged for map parity and ZIP-corridor verification.
 

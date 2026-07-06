@@ -12,11 +12,14 @@ lng: -81.7100
 zipSample: ["32003", "32006"]
 zipCodes: ["32003", "32006"]
 localPaths: ["Clay County / elevation 30 ft band", "Clay County / ZIP 32003 sector", "Clay County / coords 30.1000, -81.7100", "Clay County / ZIP 32006 sector", "Clay County / primary ZIP 32003"]
-zillowHomeValueUsd: 437591
 ---
 
-**Engineering Notice for Fleming Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clay County.
+**Engineering Notice for Fleming Island:** Emergency leak and drain triage uses ~127 mg/L hardness context with Clay County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Fleming Island, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Fleming Island, FL, Clay County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Save water heater serial plates for warranty traceability.
 

@@ -12,13 +12,16 @@ lng: -107.8600
 zipSample: ["81401", "81403", "81402"]
 zipCodes: ["81401", "81402", "81403"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / primary ZIP 81403", "Montrose County / ZIP 81401 sector", "Montrose County / elevation 5879 ft band", "Montrose County / ZIP 81402 sector"]
-zillowHomeValueUsd: 600796
 ---
 
-**Engineering Notice for Montrose:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montrose County.
+**Engineering Notice for Montrose:** Supply line, cleanout, and water heater scope recorded at 5879 ft elevation context (Montrose County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+Emergency certified plumber service in Montrose, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Montrose County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Montrose, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -45,8 +48,6 @@ Step: photograph curb-stop and meter pit before trenching.
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 81403.
 
 Fixture roster 712162: toilet flange spacer kit and shower cartridge seat score queued for Montrose, CO walk-through.
-
-Field routing: sump float travel paired with PRV outlet curve near ZIP 81403.
 
 On-site sector marker: Montrose County / ZIP 81401 sector — logged for map parity and ZIP-corridor verification.
 

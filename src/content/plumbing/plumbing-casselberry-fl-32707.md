@@ -12,15 +12,18 @@ lng: -81.3200
 zipSample: ["32718", "32707"]
 zipCodes: ["32718", "32707"]
 localPaths: ["Seminole County / ZIP 32707 sector", "Seminole County / primary ZIP 32707", "Seminole County / ZIP 32718 sector", "Seminole County / coords 28.6600, -81.3200", "Seminole County / elevation 66 ft band"]
-zillowHomeValueUsd: 350077
 ---
 
-**Engineering Notice for Casselberry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.
+**Engineering Notice for Casselberry:** Supply line, cleanout, and water heater scope recorded at 66 ft elevation context (Seminole County).
 
+
+Qualified plumbing crews serving Casselberry, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Casselberry, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Seminole County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When should sump battery backups be load-tested? In Casselberry, FL, before spring thaw and hurricane remnants.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 32707.
 
@@ -40,7 +43,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Galvanized segments in Casselberry, FL may restrict flow long before visible corrosion.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 32707.
 

@@ -12,11 +12,14 @@ lng: -86.8900
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / elevation 46 ft band", "Santa Rosa County / primary ZIP 32566", "Santa Rosa County / coords 30.4200, -86.8900", "Santa Rosa County / ZIP 32566 sector"]
-zillowHomeValueUsd: 415350
 ---
 
-**Engineering Notice for Navarre:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Rosa County.
+**Engineering Notice for Navarre:** Emergency leak and drain triage uses ~164 mg/L hardness context with Santa Rosa County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Navarre, FL, Santa Rosa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Navarre, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -30,7 +33,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-We coordinate Navarre, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Navarre, FL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Branch wet vents in Navarre, FL can mask gurgling as a main-line issue.
 
@@ -43,8 +46,6 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 325
 Hydro-jetting in Navarre, FL requires camera confirmation before nozzle pressure is raised.
 
 Pressure trace 390984: meter-pit clearance and dielectric union checklist staged for Navarre, FL near elevation 46 ft.
-
-Scope trace: toilet flange spacer kit plus fixture shutoff torque log referenced in Santa Rosa County county grid review.
 
 Primary postal anchor 32566 with multi-ZIP overlap in Navarre; field packets tag Santa Rosa County for county-grid reconciliation.
 

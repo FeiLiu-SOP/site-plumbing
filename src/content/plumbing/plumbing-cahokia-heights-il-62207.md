@@ -12,11 +12,14 @@ lng: -90.1500
 zipSample: ["62203", "62205", "62207", "62206"]
 zipCodes: ["62207", "62203", "62206", "62205"]
 localPaths: ["St. Clair County / ZIP 62206 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / ZIP 62203 sector", "St. Clair County / elevation 394 ft band", "St. Clair County / coords 38.5700, -90.1500"]
-zillowHomeValueUsd: 42248
 ---
 
-**Engineering Notice for Cahokia Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Cahokia Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Clair County.
 
+
+Burst pipe and drain clog calls in Cahokia Heights, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Clair County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Cahokia Heights, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Cahokia Heights, IL systems need rebalancing.
 

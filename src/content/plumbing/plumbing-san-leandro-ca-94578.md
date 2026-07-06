@@ -12,11 +12,14 @@ lng: -122.1600
 zipSample: ["94579", "94578", "94622", "94577"]
 zipCodes: ["94622", "94578", "94579", "94577"]
 localPaths: ["Alameda County / ZIP 94622 sector", "Alameda County / primary ZIP 94578", "Alameda County / ZIP 94577 sector", "Alameda County / ZIP 94579 sector", "Alameda County / elevation 20 ft band"]
-zillowHomeValueUsd: 788042
 ---
 
-**Engineering Notice for San Leandro:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Leandro:** Emergency leak and drain triage uses ~158 mg/L hardness context with Alameda County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in San Leandro, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Alameda County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in San Leandro, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 

@@ -12,11 +12,14 @@ lng: -97.4200
 zipSample: ["76033", "76031"]
 zipCodes: ["76031", "76033"]
 localPaths: ["Johnson County / ZIP 76033 sector", "Johnson County / elevation 817 ft band", "Johnson County / primary ZIP 76033", "Johnson County / coords 32.3600, -97.4200", "Johnson County / ZIP 76031 sector"]
-zillowHomeValueUsd: 272498
 ---
 
-**Engineering Notice for Cleburne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Cleburne:** Supply line, cleanout, and water heater scope recorded at 817 ft elevation context (Johnson County).
 
+
+When a main line backs up in Cleburne, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Cleburne, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Johnson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 

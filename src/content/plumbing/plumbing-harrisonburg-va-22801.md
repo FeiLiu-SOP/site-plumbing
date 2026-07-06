@@ -12,11 +12,14 @@ lng: -78.8700
 zipSample: ["22801", "22807", "22803", "22802"]
 zipCodes: ["22807", "22803", "22801", "22802"]
 localPaths: ["Harrisonburg County / ZIP 22802 sector", "Harrisonburg County / coords 38.4400, -78.8700", "Harrisonburg County / ZIP 22803 sector", "Harrisonburg County / primary ZIP 22801", "Harrisonburg County / ZIP 22807 sector"]
-zillowHomeValueUsd: 368592
 ---
 
-**Engineering Notice for Harrisonburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harrisonburg County.
+**Engineering Notice for Harrisonburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Harrisonburg County.
 
+
+Plumbing restoration in Harrisonburg, VA, Harrisonburg County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Harrisonburg, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -24,7 +27,7 @@ Trenchless sleeve pulls near Harrisonburg, VA require pit shoring notes when wat
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Polybutylene manifold tags in Harrisonburg, VA basements should be photographed before any wall chase opens.
 
@@ -45,8 +48,6 @@ FAQ: When should sump battery backups be load-tested? In Harrisonburg, VA, befor
 Lineage note 654440: recirculation pump amp draw captured before Harrisonburg, VA branch isolation.
 
 Flow dossier 654440: branch wet-vent geometry and jetting nozzle envelope logged for Harrisonburg, VA county grid Harrisonburg County (ZIP 22801).
-
-plumbing brief: thermal expansion loop check and dielectric union checklist were cross-checked for the Harrisonburg intake packet.
 
 ZIP-corridor snapshot for Harrisonburg, VA: sampled sectors include 22807, 22803, 22801, 22802; county routing grid remains Harrisonburg County.
 

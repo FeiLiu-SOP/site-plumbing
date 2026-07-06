@@ -12,11 +12,14 @@ lng: -81.5200
 zipSample: ["28645", "28633"]
 zipCodes: ["28645", "28633"]
 localPaths: ["Caldwell County / ZIP 28633 sector", "Caldwell County / primary ZIP 28645", "Caldwell County / coords 35.9100, -81.5200", "Caldwell County / ZIP 28645 sector", "Caldwell County / elevation 1168 ft band"]
-zillowHomeValueUsd: 219158
 ---
 
-**Engineering Notice for Lenoir:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caldwell County.
+**Engineering Notice for Lenoir:** Supply line, cleanout, and water heater scope recorded at 1168 ft elevation context (Caldwell County).
 
+
+Certified plumbing crews serving Lenoir, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lenoir, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Caldwell County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

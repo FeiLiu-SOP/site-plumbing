@@ -12,11 +12,14 @@ lng: -73.8000
 zipSample: ["11419", "11106", "11355", "11373", "11431"]
 zipCodes: ["11434", "11366", "11104", "11451", "11368", "11374", "11001", "11365", "11419", "11367", "11105", "11359"]
 localPaths: ["Queens County / primary ZIP 11385", "Queens County / ZIP 11355 sector", "Queens County / coords 40.7500, -73.8000", "Queens County / elevation 43 ft band", "Queens County / ZIP 11419 sector"]
-zillowHomeValueUsd: 870552
 ---
 
-**Engineering Notice for Queens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Queens County.
+**Engineering Notice for Queens:** Emergency leak and drain triage uses ~123 mg/L hardness context with Queens County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Queens, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Queens County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Queens, NY, Queens County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -44,7 +47,7 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 
 Supply audit 745043: curb-stop orientation and hose-bib freeze flag reviewed for Queens, NY at coords 40.7500/-73.8000.
 
-plumbing brief: thermal expansion loop check and jetter nozzle envelope were cross-checked for the Queens intake packet.
+Plumbing restoration brief: thermal expansion loop check and jetter nozzle envelope were cross-checked for the Queens pipe and leak scope.
 
 Regional mesh label Queens County: moisture and logistics baselines are keyed to Queens, NY before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -112.0700
 zipSample: ["84075"]
 zipCodes: ["84075"]
 localPaths: ["Davis County / primary ZIP 84075", "Davis County / ZIP 84075 sector", "Davis County / elevation 4275 ft band", "Davis County / coords 41.0900, -112.0700"]
-zillowHomeValueUsd: 585952
 ---
 
-**Engineering Notice for Syracuse:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
+**Engineering Notice for Syracuse:** Emergency leak and drain triage uses ~129 mg/L hardness context with Davis County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Syracuse, UT, Davis County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Syracuse, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Davis County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -43,8 +46,6 @@ FAQ: When is anode service enough? Tank condition and relief path matter more th
 Step: camera-pass main lines in Syracuse, UT before jetting older clay or cast iron.
 
 Pressure trace 103590: meter-pit clearance and dielectric union checklist staged for Syracuse, UT near elevation 4275 ft.
-
-Field routing: cleanout riser height paired with floor drain trap primer drip near ZIP 84075.
 
 Regional mesh label Davis County: moisture and logistics baselines are keyed to Syracuse, UT before niche-specific work begins.
 

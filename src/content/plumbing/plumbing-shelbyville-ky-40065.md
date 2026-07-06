@@ -12,11 +12,14 @@ lng: -85.2300
 zipSample: ["40065", "40066"]
 zipCodes: ["40066", "40065"]
 localPaths: ["Shelby County / coords 38.2100, -85.2300", "Shelby County / primary ZIP 40065", "Shelby County / ZIP 40065 sector", "Shelby County / ZIP 40066 sector", "Shelby County / elevation 758 ft band"]
-zillowHomeValueUsd: 306329
 ---
 
-**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Shelby County.
 
+
+Plumbing service in Shelbyville, KY, Shelby County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Shelbyville, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -24,7 +27,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Stack vent offsets in Shelbyville, KY older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch packets reference county grid Shelby County near ZIP 40065.
+Our Shelbyville, KY service packets reference Shelby County near ZIP 40065 for pipe and leak scope.
 
 Step: map sump float travel and check-valve orientation for Shelbyville, KY basements.
 
@@ -50,7 +53,7 @@ Supply audit 989363: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Pressure trace 989363: meter-pit clearance and dielectric union checklist staged for Shelbyville, KY near elevation 758 ft.
 
-Scope trace: hose bib freeze flag plus cleanout riser height referenced in Shelby County county grid review.
+Scope trace: hose bib freeze flag plus cleanout riser height referenced in Shelby County drain and water line review.
 
 On-site sector marker: Shelby County / ZIP 40066 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -117.7600
 zipSample: ["91768", "91769", "91766", "91767"]
 zipCodes: ["91766", "91769", "91768", "91767"]
 localPaths: ["Los Angeles County / elevation 853 ft band", "Los Angeles County / ZIP 91768 sector", "Los Angeles County / coords 34.0600, -117.7600", "Los Angeles County / ZIP 91767 sector", "Los Angeles County / ZIP 91769 sector"]
-zillowHomeValueUsd: 674151
 ---
 
-**Engineering Notice for Pomona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pomona:** Emergency leak and drain triage uses ~145 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Pomona, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Pomona, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

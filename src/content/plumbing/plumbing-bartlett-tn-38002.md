@@ -12,11 +12,14 @@ lng: -89.8200
 zipSample: ["38134", "38002", "38135", "38029", "38133"]
 zipCodes: ["38133", "38002", "38134", "38029", "38135"]
 localPaths: ["Shelby County / ZIP 38133 sector", "Shelby County / ZIP 38002 sector", "Shelby County / coords 35.2300, -89.8200", "Shelby County / primary ZIP 38002", "Shelby County / ZIP 38135 sector"]
-zillowHomeValueUsd: 407825
 ---
 
-**Engineering Notice for Bartlett:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Shelby County.
+**Engineering Notice for Bartlett:** Emergency leak and drain triage uses ~158 mg/L hardness context with Shelby County service-area notes for pipe and fixture repairs.
 
+
+Emergency qualified plumber service in Bartlett, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Shelby County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Bartlett, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 38002.
 
@@ -50,7 +53,7 @@ Intake ledger 535201: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Lineage note 535201: recirculation pump amp draw captured before Bartlett, TN branch isolation.
 
-Scope trace: recirculation pump amp draw plus slab penetration sleeve seal referenced in Shelby County county grid review.
+Scope trace: recirculation pump amp draw plus slab penetration sleeve seal referenced in Shelby County drain and water line review.
 
 On-site sector marker: Shelby County / ZIP 38029 sector — logged for map parity and ZIP-corridor verification.
 

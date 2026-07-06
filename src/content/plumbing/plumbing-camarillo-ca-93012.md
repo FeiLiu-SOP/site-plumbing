@@ -12,11 +12,14 @@ lng: -119.0300
 zipSample: ["93010", "93012", "93011"]
 zipCodes: ["93012", "93011", "93010"]
 localPaths: ["Ventura County / elevation 164 ft band", "Ventura County / ZIP 93012 sector", "Ventura County / primary ZIP 93012", "Ventura County / coords 34.2200, -119.0300", "Ventura County / ZIP 93010 sector"]
-zillowHomeValueUsd: 925646
 ---
 
-**Engineering Notice for Camarillo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
+**Engineering Notice for Camarillo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ventura County.
 
+
+Burst pipe and drain clog calls in Camarillo, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ventura County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Camarillo, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -49,8 +52,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Fixture roster 781597: toilet flange spacer kit and shower cartridge seat score queued for Camarillo, CA walk-through.
 
 Intake ledger 781597: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Camarillo, CA at 34.2200, -119.0300.
-
-plumbing brief: jetter nozzle envelope and floor drain trap primer drip were cross-checked for the Camarillo intake packet.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Ventura County and primary ZIP 93012. Terrain reference: 164 ft. Center point: 34.2200, -119.0300. ZIP sample: 93012, 93010, 93011. Logistics priority: Serving residential sectors across Ventura County and north-east ZIP 93012 grid.
 

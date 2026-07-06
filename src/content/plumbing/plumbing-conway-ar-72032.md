@@ -12,11 +12,14 @@ lng: -92.4700
 zipSample: ["72032", "72035", "72034"]
 zipCodes: ["72034", "72032", "72035"]
 localPaths: ["Faulkner County / ZIP 72035 sector", "Faulkner County / ZIP 72034 sector", "Faulkner County / coords 35.0800, -92.4700", "Faulkner County / primary ZIP 72032", "Faulkner County / ZIP 72032 sector"]
-zillowHomeValueUsd: 219046
 ---
 
-**Engineering Notice for Conway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Faulkner County.
+**Engineering Notice for Conway:** Supply line, cleanout, and water heater scope recorded at 335 ft elevation context (Faulkner County).
 
+
+When a main line backs up in Conway, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Conway, AR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 In Conway, AR, slab leaks often present as warm spots before wall stains appear.
 
@@ -28,7 +31,7 @@ Irrigation cross-connections in Conway, AR can back-siphon domestic lines during
 
 Galvanized segments in Conway, AR may restrict flow long before visible corrosion.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -49,8 +52,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Fixture roster 404548: toilet flange spacer kit and shower cartridge seat score queued for Conway, AR walk-through.
 
 Supply audit 404548: curb-stop orientation and hose-bib freeze flag reviewed for Conway, AR at coords 35.0800/-92.4700.
-
-Field routing: jetter nozzle envelope paired with PEX expansion ring batch near ZIP 72032.
 
 Coordinate-anchored dispatch note: center reference 35.0800, -92.4700 at elevation ~335 ft aligns with Faulkner County intake staging.
 

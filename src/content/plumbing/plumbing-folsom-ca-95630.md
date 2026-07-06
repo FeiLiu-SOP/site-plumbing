@@ -12,11 +12,14 @@ lng: -121.1400
 zipSample: ["95630", "95671", "95763"]
 zipCodes: ["95763", "95671", "95630"]
 localPaths: ["Sacramento County / primary ZIP 95630", "Sacramento County / elevation 328 ft band", "Sacramento County / ZIP 95763 sector", "Sacramento County / ZIP 95671 sector", "Sacramento County / ZIP 95630 sector"]
-zillowHomeValueUsd: 763774
 ---
 
-**Engineering Notice for Folsom:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Folsom:** Emergency leak and drain triage uses ~156 mg/L hardness context with Sacramento County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Folsom, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Folsom, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sacramento County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Is hydro-jetting always appropriate? In Folsom, CA, pipe material and blockage type dictate method.
 
@@ -43,8 +46,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Irrigation cross-connections in Folsom, CA can back-siphon domestic lines during main breaks.
 
 Flow dossier 328442: branch wet-vent geometry and jetting nozzle envelope logged for Folsom, CA county grid Sacramento County (ZIP 95630).
-
-Scope trace: hose bib freeze flag plus slab leak listening window referenced in Sacramento County county grid review.
 
 On-site sector marker: Sacramento County / ZIP 95671 sector — logged for map parity and ZIP-corridor verification.
 

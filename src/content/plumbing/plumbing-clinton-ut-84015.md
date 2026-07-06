@@ -12,13 +12,16 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / elevation 4341 ft band", "Davis County / coords 41.1400, -112.0700", "Davis County / primary ZIP 84015", "Davis County / ZIP 84015 sector"]
-zillowHomeValueUsd: 465998
 ---
 
-**Engineering Notice for Clinton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
+**Engineering Notice for Clinton:** Emergency leak and drain triage uses ~176 mg/L hardness context with Davis County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Clinton, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Davis County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Clinton, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

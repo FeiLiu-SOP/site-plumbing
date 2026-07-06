@@ -12,11 +12,14 @@ lng: -93.4600
 zipSample: ["55345", "55305", "55343", "55391"]
 zipCodes: ["55391", "55305", "55343", "55345"]
 localPaths: ["Hennepin County / coords 44.9300, -93.4600", "Hennepin County / ZIP 55345 sector", "Hennepin County / elevation 991 ft band", "Hennepin County / primary ZIP 55345", "Hennepin County / ZIP 55305 sector"]
-zillowHomeValueUsd: 534597
 ---
 
-**Engineering Notice for Minnetonka:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Minnetonka:** Emergency leak and drain triage uses ~169 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Minnetonka, MN, Hennepin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Minnetonka, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -34,7 +37,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Risk flag: In Minnetonka, MN, slab leaks can misroute as foundation issues without listening equipment.
 
-We coordinate Minnetonka, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Minnetonka, MN plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: camera-pass main lines in Minnetonka, MN before jetting older clay or cast iron.
 

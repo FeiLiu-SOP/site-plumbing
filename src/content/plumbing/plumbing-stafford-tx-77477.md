@@ -12,17 +12,20 @@ lng: -95.5700
 zipSample: ["77497", "77477"]
 zipCodes: ["77477", "77497"]
 localPaths: ["Fort Bend County / ZIP 77497 sector", "Fort Bend County / elevation 85 ft band", "Fort Bend County / coords 29.6300, -95.5700", "Fort Bend County / primary ZIP 77477", "Fort Bend County / ZIP 77477 sector"]
-zillowHomeValueUsd: 286679
 ---
 
-**Engineering Notice for Stafford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.
+**Engineering Notice for Stafford:** Emergency leak and drain triage uses ~133 mg/L hardness context with Fort Bend County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Fort Bend County near ZIP 77477.
+Burst pipe and drain clog calls in Stafford, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fort Bend County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Stafford, TX, Fort Bend County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Our Stafford, TX service packets reference Fort Bend County near ZIP 77477 for pipe and leak scope.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: In Stafford, TX, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -45,8 +48,6 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 Fixture roster 336150: toilet flange spacer kit and shower cartridge seat score queued for Stafford, TX walk-through.
 
 Flow dossier 336150: branch wet-vent geometry and jetting nozzle envelope logged for Stafford, TX county grid Fort Bend County (ZIP 77477).
-
-Scope trace: PEX expansion ring batch plus gas water heater draft hood gap referenced in Fort Bend County county grid review.
 
 On-site sector marker: Fort Bend County / ZIP 77497 sector — logged for map parity and ZIP-corridor verification.
 

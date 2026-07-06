@@ -8,21 +8,24 @@ zipCode: "49525"
 county: "Kent County"
 elevationFt: 755
 lat: 43.0400
-lng: -85.6000
+lng: -85.5700
 zipSample: ["49525"]
 zipCodes: ["49525"]
-localPaths: ["Kent County / coords 43.0400, -85.6000", "Kent County / primary ZIP 49525", "Kent County / ZIP 49525 sector", "Kent County / elevation 755 ft band"]
-zillowHomeValueUsd: 378187
+localPaths: ["Kent County / coords 43.0400, -85.5700", "Kent County / primary ZIP 49525", "Kent County / ZIP 49525 sector", "Kent County / elevation 755 ft band"]
 ---
 
-**Engineering Notice for Northview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kent County.
+**Engineering Notice for Northview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Kent County.
 
+
+Plumbing remediation in Northview, MI, Kent County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Northview, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Water heater anode type may change with Northview, MI hardness profiles.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate Northview, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Northview, MI plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Permit note: Main water line replacement in Northview, MI may require ROW restoration planning.
 
@@ -47,8 +50,6 @@ Hydro-jetting in Northview, MI requires camera confirmation before nozzle pressu
 Flow dossier 738045: branch wet-vent geometry and jetting nozzle envelope logged for Northview, MI county grid Kent County (ZIP 49525).
 
 Drain map 738045: camera-pass priority and expansion-tank pre-charge noted for Northview, MI postal sector 49525.
-
-Scope trace: meter pit clearance plus sump float travel referenced in Kent County county grid review.
 
 Regional mesh label Kent County: moisture and logistics baselines are keyed to Northview, MI before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -81.8200
 zipSample: ["33967"]
 zipCodes: ["33967"]
 localPaths: ["Lee County / coords 26.4800, -81.8200", "Lee County / primary ZIP 33967", "Lee County / elevation 33 ft band", "Lee County / ZIP 33967 sector"]
-zillowHomeValueUsd: 359360
 ---
 
-**Engineering Notice for San Carlos Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for San Carlos Park:** Emergency leak and drain triage uses ~167 mg/L hardness context with Lee County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in San Carlos Park, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lee County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in San Carlos Park, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lee County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,6 +50,8 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in San Carlos Par
 Stack vent offsets in San Carlos Park, FL older duplexes can mask tub gurgle as a main-line failure.
 
 Drain map 997240: camera-pass priority and expansion-tank pre-charge noted for San Carlos Park, FL postal sector 33967.
+
+Plumbing remediation brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the San Carlos Park pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 26.4800, -81.8200 at elevation ~33 ft aligns with Lee County intake staging.
 

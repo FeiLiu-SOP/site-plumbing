@@ -12,11 +12,14 @@ lng: -97.9500
 zipSample: ["73018", "73023"]
 zipCodes: ["73023", "73018"]
 localPaths: ["Grady County / ZIP 73023 sector", "Grady County / primary ZIP 73018", "Grady County / ZIP 73018 sector", "Grady County / coords 35.0400, -97.9500", "Grady County / elevation 1129 ft band"]
-zillowHomeValueUsd: 156678
 ---
 
-**Engineering Notice for Chickasha:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grady County.
+**Engineering Notice for Chickasha:** Supply line, cleanout, and water heater scope recorded at 1129 ft elevation context (Grady County).
 
+
+Certified plumbing crews serving Chickasha, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Chickasha, OK, Grady County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Chickasha, OK older duplexes can mask tub gurgle as a main-line failure.
 

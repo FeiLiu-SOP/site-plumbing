@@ -12,11 +12,14 @@ lng: -84.4800
 zipSample: ["30114", "30115", "30142"]
 zipCodes: ["30114", "30115", "30142"]
 localPaths: ["Cherokee County / ZIP 30115 sector", "Cherokee County / coords 34.1700, -84.4800", "Cherokee County / ZIP 30114 sector", "Cherokee County / elevation 1070 ft band", "Cherokee County / primary ZIP 30114"]
-zillowHomeValueUsd: 470382
 ---
 
-**Engineering Notice for Holly Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Holly Springs:** Supply line, cleanout, and water heater scope recorded at 1070 ft elevation context (Cherokee County).
 
+
+Burst pipe and drain clog calls in Holly Springs, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cherokee County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Holly Springs, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -43,8 +46,6 @@ Trenchless pulls in Holly Springs, GA require pit dimensions verified against ut
 Permit note: Main water line replacement in Holly Springs, GA may require ROW restoration planning.
 
 Flow dossier 693393: branch wet-vent geometry and jetting nozzle envelope logged for Holly Springs, GA county grid Cherokee County (ZIP 30114).
-
-plumbing brief: backflow test cock orientation and jetter nozzle envelope were cross-checked for the Holly Springs intake packet.
 
 On-site sector marker: Cherokee County / ZIP 30114 sector — logged for map parity and ZIP-corridor verification.
 

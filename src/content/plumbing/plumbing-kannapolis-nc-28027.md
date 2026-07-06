@@ -12,11 +12,14 @@ lng: -80.6400
 zipSample: ["28027", "28083", "28082", "28081"]
 zipCodes: ["28082", "28083", "28027", "28081"]
 localPaths: ["Cabarrus County / ZIP 28083 sector", "Cabarrus County / primary ZIP 28027", "Cabarrus County / elevation 761 ft band", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / ZIP 28081 sector"]
-zillowHomeValueUsd: 414971
 ---
 
-**Engineering Notice for Kannapolis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Kannapolis:** Supply line, cleanout, and water heater scope recorded at 761 ft elevation context (Cabarrus County).
 
+
+Qualified plumbing crews serving Kannapolis, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Kannapolis, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Cabarrus County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -45,8 +48,6 @@ Trenchless sleeve pulls near Kannapolis, NC require pit shoring notes when water
 Polybutylene manifold tags in Kannapolis, NC basements should be photographed before any wall chase opens.
 
 Fixture roster 914683: toilet flange spacer kit and shower cartridge seat score queued for Kannapolis, NC walk-through.
-
-plumbing brief: floor drain trap primer drip and toilet flange spacer kit were cross-checked for the Kannapolis intake packet.
 
 Coordinate-anchored dispatch note: center reference 35.4800, -80.6400 at elevation ~761 ft aligns with Cabarrus County intake staging.
 

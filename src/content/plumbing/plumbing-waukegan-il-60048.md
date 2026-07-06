@@ -8,15 +8,18 @@ zipCode: "60048"
 county: "Lake County"
 elevationFt: 719
 lat: 42.3700
-lng: -87.8700
+lng: -87.9000
 zipSample: ["60087", "60085", "60048", "60079"]
 zipCodes: ["60048", "60079", "60087", "60085"]
-localPaths: ["Lake County / elevation 719 ft band", "Lake County / ZIP 60048 sector", "Lake County / ZIP 60087 sector", "Lake County / coords 42.3700, -87.8700", "Lake County / primary ZIP 60048"]
-zillowHomeValueUsd: 608268
+localPaths: ["Lake County / elevation 719 ft band", "Lake County / ZIP 60048 sector", "Lake County / ZIP 60087 sector", "Lake County / coords 42.3700, -87.9000", "Lake County / primary ZIP 60048"]
 ---
 
-**Engineering Notice for Waukegan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Waukegan:** Supply line, cleanout, and water heater scope recorded at 719 ft elevation context (Lake County).
 
+
+Emergency plumbing technician service in Waukegan, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+When a main line backs up in Waukegan, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Across Waukegan, IL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -38,7 +41,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Trenchless pulls in Waukegan, IL require pit dimensions verified against utility locate marks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -47,8 +50,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 FAQ: When should sump battery backups be load-tested? In Waukegan, IL, before spring thaw and hurricane remnants.
 
 Pressure trace 510863: meter-pit clearance and dielectric union checklist staged for Waukegan, IL near elevation 719 ft.
-
-Scope trace: sewer cleanout cap thread plus slab leak listening window referenced in Lake County county grid review.
 
 ZIP-corridor snapshot for Waukegan, IL: sampled sectors include 60048, 60085, 60087, 60079; county routing grid remains Lake County.
 

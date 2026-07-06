@@ -12,11 +12,14 @@ lng: -88.3600
 zipSample: ["60538", "60506", "60543"]
 zipCodes: ["60543", "60506", "60538"]
 localPaths: ["Kane County / coords 41.7200, -88.3600", "Kane County / ZIP 60543 sector", "Kane County / elevation 663 ft band", "Kane County / primary ZIP 60543", "Kane County / ZIP 60538 sector"]
-zillowHomeValueUsd: 416641
 ---
 
-**Engineering Notice for Montgomery:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for Montgomery:** Supply line, cleanout, and water heater scope recorded at 663 ft elevation context (Kane County).
 
+
+When a main line backs up in Montgomery, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Montgomery, IL, Kane County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,8 +48,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Pressure trace 926392: meter-pit clearance and dielectric union checklist staged for Montgomery, IL near elevation 663 ft.
 
 Intake ledger 926392: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Montgomery, IL at 41.7200, -88.3600.
-
-Scope trace: PEX expansion ring batch plus recirculation pump amp draw referenced in Kane County county grid review.
 
 On-site sector marker: Kane County / ZIP 60506 sector — logged for map parity and ZIP-corridor verification.
 

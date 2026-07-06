@@ -12,11 +12,14 @@ lng: -80.9400
 zipSample: ["32141", "32168", "32132"]
 zipCodes: ["32132", "32168", "32141"]
 localPaths: ["Volusia County / elevation 46 ft band", "Volusia County / ZIP 32168 sector", "Volusia County / ZIP 32141 sector", "Volusia County / ZIP 32132 sector", "Volusia County / coords 28.9600, -80.9400"]
-zillowHomeValueUsd: 298499
 ---
 
-**Engineering Notice for Edgewater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Volusia County.
+**Engineering Notice for Edgewater:** Emergency leak and drain triage uses ~158 mg/L hardness context with Volusia County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Edgewater, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Volusia County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Licensed plumbing crews serving Edgewater, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -45,8 +48,6 @@ CPVC solvent weld times shift with ambient humidity during Edgewater, FL shoulde
 Trenchless sleeve pulls near Edgewater, FL require pit shoring notes when water tables are high.
 
 Supply audit 288776: curb-stop orientation and hose-bib freeze flag reviewed for Edgewater, FL at coords 28.9600/-80.9400.
-
-Field routing: branch wet vent geometry paired with backflow test cock orientation near ZIP 32141.
 
 On-site sector marker: Volusia County / coords 28.9600, -80.9400 — logged for map parity and ZIP-corridor verification.
 

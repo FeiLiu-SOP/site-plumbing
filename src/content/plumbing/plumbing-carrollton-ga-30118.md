@@ -12,11 +12,14 @@ lng: -85.0800
 zipSample: ["30112", "30117", "30116", "30109", "30118"]
 zipCodes: ["30116", "30109", "30118", "30112", "30117"]
 localPaths: ["Carroll County / ZIP 30116 sector", "Carroll County / primary ZIP 30118", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30109 sector", "Carroll County / coords 33.5800, -85.0800"]
-zillowHomeValueUsd: 281264
 ---
 
-**Engineering Notice for Carrollton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.
+**Engineering Notice for Carrollton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Carroll County.
 
+
+Certified plumbing crews serving Carrollton, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Carrollton, GA, Carroll County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Carrollton, GA should be snaked only after trap arm geometry is confirmed on camera.
 

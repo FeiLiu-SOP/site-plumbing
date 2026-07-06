@@ -12,11 +12,14 @@ lng: -114.3300
 zipSample: ["59901", "59904"]
 zipCodes: ["59904", "59901"]
 localPaths: ["Flathead County / ZIP 59901 sector", "Flathead County / coords 48.2200, -114.3300", "Flathead County / ZIP 59904 sector", "Flathead County / elevation 3077 ft band", "Flathead County / primary ZIP 59901"]
-zillowHomeValueUsd: 549139
 ---
 
-**Engineering Notice for Kalispell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Flathead County.
+**Engineering Notice for Kalispell:** Emergency leak and drain triage uses ~116 mg/L hardness context with Flathead County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Kalispell, MT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Kalispell, MT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Step: camera-pass main lines in Kalispell, MT before jetting older clay or cast iron.
 
@@ -44,7 +47,7 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Stack vent offsets in Kalispell, MT older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 601152: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Kalispell, MT at 48.2200, -114.3300.
 

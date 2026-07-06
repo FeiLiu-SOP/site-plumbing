@@ -12,11 +12,14 @@ lng: -83.8000
 zipSample: ["45506", "45505", "45501", "45503", "45504"]
 zipCodes: ["45504", "45501", "45503", "45506", "45505"]
 localPaths: ["Clark County / ZIP 45505 sector", "Clark County / ZIP 45501 sector", "Clark County / primary ZIP 45503", "Clark County / ZIP 45504 sector", "Clark County / elevation 925 ft band"]
-zillowHomeValueUsd: 192816
 ---
 
-**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Clark County.
 
+
+Emergency plumbing pro service in Springfield, OH often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Clark County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Springfield, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Clark County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -50,7 +53,7 @@ Lineage note 513032: recirculation pump amp draw captured before Springfield, OH
 
 Flow dossier 513032: branch wet-vent geometry and jetting nozzle envelope logged for Springfield, OH county grid Clark County (ZIP 45503).
 
-Scope trace: branch wet vent geometry plus sump float travel referenced in Clark County county grid review.
+Scope trace: branch wet vent geometry plus sump float travel referenced in Clark County drain and water line review.
 
 On-site sector marker: Clark County / coords 39.9300, -83.8000 — logged for map parity and ZIP-corridor verification.
 

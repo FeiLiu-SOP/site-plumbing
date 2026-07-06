@@ -8,15 +8,18 @@ zipCode: "60045"
 county: "Lake County"
 elevationFt: 689
 lat: 42.2400
-lng: -87.8600
+lng: -87.8900
 zipSample: ["60045", "60065"]
 zipCodes: ["60065", "60045"]
-localPaths: ["Lake County / ZIP 60065 sector", "Lake County / coords 42.2400, -87.8600", "Lake County / primary ZIP 60045", "Lake County / elevation 689 ft band", "Lake County / ZIP 60045 sector"]
-zillowHomeValueUsd: 1139141
+localPaths: ["Lake County / ZIP 60065 sector", "Lake County / coords 42.2400, -87.8900", "Lake County / primary ZIP 60045", "Lake County / elevation 689 ft band", "Lake County / ZIP 60045 sector"]
 ---
 
-**Engineering Notice for Lake Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Lake Forest:** Supply line, cleanout, and water heater scope recorded at 689 ft elevation context (Lake County).
 
+
+Emergency plumbing pro service in Lake Forest, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Lake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing remediation in Lake Forest, IL, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When is cabling enough? In Lake Forest, IL, pipe material and blockage type dictate method.
 
@@ -47,8 +50,6 @@ Basement floor drains in Lake Forest, IL should be snaked only after trap arm ge
 Pressure trace 476875: meter-pit clearance and dielectric union checklist staged for Lake Forest, IL near elevation 689 ft.
 
 Drain map 476875: camera-pass priority and expansion-tank pre-charge noted for Lake Forest, IL postal sector 60045.
-
-plumbing brief: water heater T&P path and PEX expansion ring batch were cross-checked for the Lake Forest intake packet.
 
 On-site sector marker: Lake County / primary ZIP 60045 — logged for map parity and ZIP-corridor verification.
 

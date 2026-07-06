@@ -12,11 +12,14 @@ lng: -80.0100
 zipSample: ["29445", "29486"]
 zipCodes: ["29445", "29486"]
 localPaths: ["Berkeley County / coords 32.9900, -80.0100", "Berkeley County / elevation 3 ft band", "Berkeley County / primary ZIP 29486", "Berkeley County / ZIP 29486 sector", "Berkeley County / ZIP 29445 sector"]
-zillowHomeValueUsd: 401393
 ---
 
-**Engineering Notice for Goose Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Goose Creek:** Emergency leak and drain triage uses ~148 mg/L hardness context with Berkeley County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Goose Creek, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Goose Creek, SC, Berkeley County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Goose Creek, SC basements should be photographed before any wall chase opens.
 

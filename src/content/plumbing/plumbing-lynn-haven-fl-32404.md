@@ -12,11 +12,14 @@ lng: -85.6400
 zipSample: ["32404", "32444", "32405"]
 zipCodes: ["32404", "32444", "32405"]
 localPaths: ["Bay County / ZIP 32444 sector", "Bay County / elevation 26 ft band", "Bay County / ZIP 32405 sector", "Bay County / coords 30.2300, -85.6400", "Bay County / ZIP 32404 sector"]
-zillowHomeValueUsd: 283434
 ---
 
-**Engineering Notice for Lynn Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bay County.
+**Engineering Notice for Lynn Haven:** Emergency leak and drain triage uses ~157 mg/L hardness context with Bay County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Lynn Haven, FL, Bay County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Lynn Haven, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bay County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -50,7 +53,7 @@ Fixture roster 989944: toilet flange spacer kit and shower cartridge seat score 
 
 Flow dossier 989944: branch wet-vent geometry and jetting nozzle envelope logged for Lynn Haven, FL county grid Bay County (ZIP 32404).
 
-Scope trace: jetter nozzle envelope plus PRV outlet curve referenced in Bay County county grid review.
+Scope trace: jetter nozzle envelope plus PRV outlet curve referenced in Bay County drain and water line review.
 
 On-site sector marker: Bay County / coords 30.2300, -85.6400 — logged for map parity and ZIP-corridor verification.
 

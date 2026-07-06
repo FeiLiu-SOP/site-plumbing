@@ -12,11 +12,14 @@ lng: -86.3500
 zipSample: ["37136", "37071", "37087", "37088", "37090"]
 zipCodes: ["37087", "37136", "37088", "37090", "37071"]
 localPaths: ["Wilson County / coords 36.2000, -86.3500", "Wilson County / ZIP 37071 sector", "Wilson County / ZIP 37136 sector", "Wilson County / ZIP 37087 sector", "Wilson County / ZIP 37090 sector"]
-zillowHomeValueUsd: 439031
 ---
 
-**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wilson County.
+**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wilson County.
 
+
+Plumbing service in Lebanon, TN, Wilson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Lebanon, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Wilson County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Permit note: Main water line replacement in Lebanon, TN may require ROW restoration planning.
 
@@ -36,7 +39,7 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Basement floor drains in Lebanon, TN should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Lebanon, TN irrigation zones need backflow logs befor
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Fixture roster 698465: toilet flange spacer kit and shower cartridge seat score queued for Lebanon, TN walk-through.
-
-plumbing brief: PEX expansion ring batch and meter pit clearance were cross-checked for the Lebanon intake packet.
 
 On-site sector marker: Wilson County / primary ZIP 37087 — logged for map parity and ZIP-corridor verification.
 

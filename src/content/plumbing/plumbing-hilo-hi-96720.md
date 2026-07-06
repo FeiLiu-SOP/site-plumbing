@@ -12,11 +12,14 @@ lng: -155.0900
 zipSample: ["96720"]
 zipCodes: ["96720"]
 localPaths: ["Hawaii County / elevation 374 ft band", "Hawaii County / coords 19.6900, -155.0900", "Hawaii County / primary ZIP 96720", "Hawaii County / ZIP 96720 sector"]
-zillowHomeValueUsd: 542564
 ---
 
-**Engineering Notice for Hilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hawaii County.
+**Engineering Notice for Hilo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hawaii County.
 
+
+Emergency plumbing technician service in Hilo, HI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Hawaii County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Plumbing remediation in Hilo, HI, Hawaii County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 96720.
 
@@ -47,8 +50,6 @@ Hard water in Hilo, HI accelerates scale on PRV seats and heater elements.
 Drain map 704665: camera-pass priority and expansion-tank pre-charge noted for Hilo, HI postal sector 96720.
 
 Supply audit 704665: curb-stop orientation and hose-bib freeze flag reviewed for Hilo, HI at coords 19.6900/-155.0900.
-
-Field routing: cleanout riser height paired with water softener bypass lever near ZIP 96720.
 
 On-site sector marker: Hawaii County / coords 19.6900, -155.0900 — logged for map parity and ZIP-corridor verification.
 

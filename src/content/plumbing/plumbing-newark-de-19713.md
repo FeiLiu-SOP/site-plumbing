@@ -12,11 +12,14 @@ lng: -75.7600
 zipSample: ["19711", "19715", "19725", "19716", "19726"]
 zipCodes: ["19716", "19711", "19715", "19725", "19726", "19713", "19717"]
 localPaths: ["New Castle County / elevation 141 ft band", "New Castle County / primary ZIP 19713", "New Castle County / ZIP 19716 sector", "New Castle County / ZIP 19726 sector", "New Castle County / ZIP 19711 sector"]
-zillowHomeValueUsd: 314957
 ---
 
-**Engineering Notice for Newark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Castle County.
+**Engineering Notice for Newark:** Supply line, cleanout, and water heater scope recorded at 141 ft elevation context (New Castle County).
 
+
+Qualified plumbing crews serving Newark, DE review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Newark, DE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Hard water in Newark, DE accelerates scale on PRV seats and heater elements.
 
@@ -47,8 +50,6 @@ Fixture shutoff stiffness in Newark, DE may indicate mineral bridging behind ste
 Step: map sump float travel and check-valve orientation for Newark, DE basements.
 
 Lineage note 957496: recirculation pump amp draw captured before Newark, DE branch isolation.
-
-Field routing: shower cartridge seat score paired with scale coupon sampling near ZIP 19713.
 
 Primary postal anchor 19713 with multi-ZIP overlap in Newark; field packets tag New Castle County for county-grid reconciliation.
 

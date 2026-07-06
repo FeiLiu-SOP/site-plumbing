@@ -12,11 +12,14 @@ lng: -123.1000
 zipSample: ["97322", "97321"]
 zipCodes: ["97322", "97321"]
 localPaths: ["Linn County / coords 44.6300, -123.1000", "Linn County / elevation 230 ft band", "Linn County / primary ZIP 97321", "Linn County / ZIP 97322 sector", "Linn County / ZIP 97321 sector"]
-zillowHomeValueUsd: 508999
 ---
 
-**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
+**Engineering Notice for Albany:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Linn County.
 
+
+Plumbing restoration in Albany, OR, Linn County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Albany, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Linn County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

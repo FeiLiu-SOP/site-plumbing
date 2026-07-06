@@ -12,11 +12,14 @@ lng: -118.0000
 zipSample: ["92646", "92615", "92649", "92647", "92648"]
 zipCodes: ["92649", "92646", "92615", "92648", "92647", "90742", "92605"]
 localPaths: ["Orange County / ZIP 92615 sector", "Orange County / ZIP 92648 sector", "Orange County / elevation 59 ft band", "Orange County / primary ZIP 92648", "Orange County / ZIP 92646 sector"]
-zillowHomeValueUsd: 1550206
 ---
 
-**Engineering Notice for Huntington Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Huntington Beach:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Orange County).
 
+
+Burst pipe and drain clog calls in Huntington Beach, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Huntington Beach, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hose bib split patterns in Huntington Beach, CA often follow missed winterization.
 

@@ -12,11 +12,14 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / coords 40.0900, -83.0200", "Franklin County / primary ZIP 43085", "Franklin County / ZIP 43085 sector", "Franklin County / elevation 830 ft band"]
-zillowHomeValueUsd: 404676
 ---
 
-**Engineering Notice for Worthington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Worthington:** Supply line, cleanout, and water heater scope recorded at 830 ft elevation context (Franklin County).
 
+
+Certified plumbing crews serving Worthington, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Worthington, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Franklin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -47,8 +50,6 @@ Trenchless sleeve pulls near Worthington, OH require pit shoring notes when wate
 Expansion tank pre-charge loss in Worthington, OH often tracks heater replacement deferrals.
 
 Fixture roster 913377: toilet flange spacer kit and shower cartridge seat score queued for Worthington, OH walk-through.
-
-plumbing brief: water heater T&P path and cleanout riser height were cross-checked for the Worthington intake packet.
 
 ZIP-corridor snapshot for Worthington, OH: sampled sectors include 43085; county routing grid remains Franklin County.
 

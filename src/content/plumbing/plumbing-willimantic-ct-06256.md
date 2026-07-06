@@ -12,15 +12,18 @@ lng: -72.2100
 zipSample: ["06256", "06226"]
 zipCodes: ["06256", "06226"]
 localPaths: ["Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / ZIP 06226 sector", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / primary ZIP 06256", "Southeastern Connecticut County / elevation 384 ft band"]
-zillowHomeValueUsd: 303904
 ---
 
-**Engineering Notice for Willimantic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for Willimantic:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Southeastern Connecticut County.
 
+
+Burst pipe and drain clog calls in Willimantic, CT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Southeastern Connecticut County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Willimantic, CT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Sump discharge freeze risk in Willimantic, CT should be reviewed before spring thaw cycles.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sewer gas odors in Willimantic, CT should trigger trap seal and vent path review.
 
@@ -47,8 +50,6 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 06256.
 Supply audit 780239: curb-stop orientation and hose-bib freeze flag reviewed for Willimantic, CT at coords 41.7200/-72.2100.
 
 Pressure trace 780239: meter-pit clearance and dielectric union checklist staged for Willimantic, CT near elevation 384 ft.
-
-Field routing: hose bib freeze flag paired with water heater T&P path near ZIP 06256.
 
 ZIP-corridor snapshot for Willimantic, CT: sampled sectors include 06256, 06226; county routing grid remains Southeastern Connecticut County.
 

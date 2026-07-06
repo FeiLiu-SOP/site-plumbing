@@ -12,11 +12,14 @@ lng: -114.5500
 zipSample: ["86429", "86430", "86442", "86439"]
 zipCodes: ["86442", "86439", "86429", "86430"]
 localPaths: ["Mohave County / ZIP 86442 sector", "Mohave County / primary ZIP 86442", "Mohave County / ZIP 86430 sector", "Mohave County / coords 35.1200, -114.5500", "Mohave County / elevation 935 ft band"]
-zillowHomeValueUsd: 270466
 ---
 
-**Engineering Notice for Bullhead City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.
+**Engineering Notice for Bullhead City:** Supply line, cleanout, and water heater scope recorded at 935 ft elevation context (Mohave County).
 
+
+Plumbing remediation in Bullhead City, AZ, Mohave County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Bullhead City, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Mohave County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Bullhead City, AZ, slab leaks can misroute as foundation issues without listening equipment.
 

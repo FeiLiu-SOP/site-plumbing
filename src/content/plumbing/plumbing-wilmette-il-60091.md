@@ -12,11 +12,14 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / ZIP 60091 sector", "Cook County / primary ZIP 60091", "Cook County / elevation 646 ft band", "Cook County / coords 42.0800, -87.7300"]
-zillowHomeValueUsd: 960797
 ---
 
-**Engineering Notice for Wilmette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Wilmette:** Supply line, cleanout, and water heater scope recorded at 646 ft elevation context (Cook County).
 
+
+Emergency certified plumber service in Wilmette, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Cook County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Wilmette, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -44,7 +47,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Lineage note 240308: recirculation pump amp draw captured before Wilmette, IL branch isolation.
 
-Scope trace: floor drain trap primer drip plus PEX expansion ring batch referenced in Cook County county grid review.
+Scope trace: floor drain trap primer drip plus PEX expansion ring batch referenced in Cook County drain and water line review.
 
 Primary postal anchor 60091 with multi-ZIP overlap in Wilmette; field packets tag Cook County for county-grid reconciliation.
 

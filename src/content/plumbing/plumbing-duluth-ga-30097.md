@@ -12,11 +12,14 @@ lng: -84.1500
 zipSample: ["30098", "30096", "30097"]
 zipCodes: ["30097", "30096", "30098"]
 localPaths: ["Gwinnett County / ZIP 30097 sector", "Gwinnett County / primary ZIP 30097", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / ZIP 30098 sector", "Gwinnett County / elevation 1083 ft band"]
-zillowHomeValueUsd: 720360
 ---
 
-**Engineering Notice for Duluth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Duluth:** Emergency leak and drain triage uses ~164 mg/L hardness context with Gwinnett County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Duluth, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Duluth, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Gwinnett County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 30097.
 

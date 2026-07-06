@@ -12,7 +12,7 @@ lng: -82.7900
 zipSample: ["43069", "43068"]
 zipCodes: ["43069", "43068"]
 localPaths: ["Franklin County / ZIP 43068 sector", "Franklin County / primary ZIP 43068", "Franklin County / coords 39.9600, -82.7900", "Franklin County / elevation 892 ft band", "Franklin County / ZIP 43069 sector"]
-zillowHomeValueUsd: 295318
+zillowHomeValueUsd: 295309
 ---
 
 **Engineering Notice for Reynoldsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.

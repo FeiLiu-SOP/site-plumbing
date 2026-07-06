@@ -12,11 +12,14 @@ lng: -82.5400
 zipSample: ["34447", "34446", "34448"]
 zipCodes: ["34446", "34447", "34448"]
 localPaths: ["Citrus County / primary ZIP 34446", "Citrus County / coords 28.8100, -82.5400", "Citrus County / elevation 43 ft band", "Citrus County / ZIP 34447 sector", "Citrus County / ZIP 34446 sector"]
-zillowHomeValueUsd: 319397
 ---
 
-**Engineering Notice for Homosassa Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Citrus County.
+**Engineering Notice for Homosassa Springs:** Emergency leak and drain triage uses ~118 mg/L hardness context with Citrus County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Homosassa Springs, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Homosassa Springs, FL, Citrus County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Homosassa Springs, FL basements should be photographed before any wall chase opens.
 

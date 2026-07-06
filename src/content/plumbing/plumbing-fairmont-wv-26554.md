@@ -12,11 +12,14 @@ lng: -80.1500
 zipSample: ["26554", "26555"]
 zipCodes: ["26555", "26554"]
 localPaths: ["Marion County / elevation 997 ft band", "Marion County / ZIP 26555 sector", "Marion County / ZIP 26554 sector", "Marion County / coords 39.4800, -80.1500", "Marion County / primary ZIP 26554"]
-zillowHomeValueUsd: 182407
 ---
 
-**Engineering Notice for Fairmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Fairmont:** Emergency leak and drain triage uses ~164 mg/L hardness context with Marion County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Fairmont, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marion County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Fairmont, WV often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Marion County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: Water heater anode type may change with Fairmont, WV hardness profiles.
 
@@ -38,13 +41,11 @@ Risk flag: Seasonal Fairmont, WV irrigation cross-connections can mask domestic 
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Fairmont, WV basements should be photographed before any wall chase opens.
 
 Pressure trace 901777: meter-pit clearance and dielectric union checklist staged for Fairmont, WV near elevation 997 ft.
-
-plumbing brief: toilet flange spacer kit and PEX expansion ring batch were cross-checked for the Fairmont intake packet.
 
 On-site sector marker: Marion County / ZIP 26554 sector — logged for map parity and ZIP-corridor verification.
 

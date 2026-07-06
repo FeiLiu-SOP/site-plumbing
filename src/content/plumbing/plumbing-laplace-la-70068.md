@@ -12,13 +12,16 @@ lng: -90.4800
 zipSample: ["70068", "70069"]
 zipCodes: ["70068", "70069"]
 localPaths: ["St. John the Baptist Parish / ZIP 70069 sector", "St. John the Baptist Parish / elevation -1 ft band", "St. John the Baptist Parish / ZIP 70068 sector", "St. John the Baptist Parish / coords 30.0700, -90.4800", "St. John the Baptist Parish / primary ZIP 70068"]
-zillowHomeValueUsd: 214947
 ---
 
-**Engineering Notice for Laplace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. John the Baptist Parish.
+**Engineering Notice for Laplace:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. John the Baptist Parish.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing remediation in Laplace, LA, St. John the Baptist Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Laplace, LA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

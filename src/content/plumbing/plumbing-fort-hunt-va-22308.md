@@ -12,11 +12,14 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22307", "22308"]
 localPaths: ["Fairfax County / ZIP 22308 sector", "Fairfax County / primary ZIP 22308", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / elevation 39 ft band", "Fairfax County / ZIP 22307 sector"]
-zillowHomeValueUsd: 975998
 ---
 
-**Engineering Notice for Fort Hunt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Fort Hunt:** Emergency leak and drain triage uses ~115 mg/L hardness context with Fairfax County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Fort Hunt, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Fort Hunt, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Fairfax County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Fort Hunt, VA.
 
@@ -26,7 +29,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 Step: camera-pass main lines in Fort Hunt, VA before jetting older clay or cast iron.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Across Fort Hunt, VA, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -47,6 +50,8 @@ Basement floor drains in Fort Hunt, VA should be snaked only after trap arm geom
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Pressure trace 299373: meter-pit clearance and dielectric union checklist staged for Fort Hunt, VA near elevation 39 ft.
+
+Scope trace: water heater T&P path plus hose bib freeze flag referenced in Fairfax County drain and water line review.
 
 On-site sector marker: Fairfax County / primary ZIP 22308 — logged for map parity and ZIP-corridor verification.
 

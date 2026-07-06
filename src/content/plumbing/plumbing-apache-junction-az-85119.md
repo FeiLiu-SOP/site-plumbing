@@ -12,11 +12,14 @@ lng: -111.5300
 zipSample: ["85119", "85117", "85120", "85178"]
 zipCodes: ["85178", "85117", "85120", "85119"]
 localPaths: ["Pinal County / ZIP 85178 sector", "Pinal County / ZIP 85119 sector", "Pinal County / coords 33.4000, -111.5300", "Pinal County / elevation 1699 ft band", "Pinal County / ZIP 85117 sector"]
-zillowHomeValueUsd: 398031
 ---
 
-**Engineering Notice for Apache Junction:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
+**Engineering Notice for Apache Junction:** Emergency leak and drain triage uses ~127 mg/L hardness context with Pinal County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Apache Junction, AZ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Apache Junction, AZ, Pinal County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Apache Junction, AZ basements should be photographed before any wall chase opens.
 
@@ -34,7 +37,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Galvanized segments in Apache Junction, AZ may restrict flow long before visible corrosion.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydrostatic holds in Apache Junction, AZ slab circuits run overnight when listening mics show ambiguous hits.
 

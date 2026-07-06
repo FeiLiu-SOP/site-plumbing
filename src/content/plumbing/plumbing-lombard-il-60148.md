@@ -12,11 +12,14 @@ lng: -88.0200
 zipSample: ["60148"]
 zipCodes: ["60148"]
 localPaths: ["DuPage County / coords 41.8700, -88.0200", "DuPage County / elevation 748 ft band", "DuPage County / ZIP 60148 sector", "DuPage County / primary ZIP 60148"]
-zillowHomeValueUsd: 381229
 ---
 
-**Engineering Notice for Lombard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Lombard:** Supply line, cleanout, and water heater scope recorded at 748 ft elevation context (DuPage County).
 
+
+Qualified plumbing crews serving Lombard, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lombard, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DuPage County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: camera-pass main lines in Lombard, IL before jetting older clay or cast iron.
 
@@ -45,8 +48,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Intake ledger 399384: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lombard, IL at 41.8700, -88.0200.
 
 Lineage note 399384: recirculation pump amp draw captured before Lombard, IL branch isolation.
-
-plumbing brief: recirculation pump amp draw and sump float travel were cross-checked for the Lombard intake packet.
 
 On-site sector marker: DuPage County / coords 41.8700, -88.0200 — logged for map parity and ZIP-corridor verification.
 

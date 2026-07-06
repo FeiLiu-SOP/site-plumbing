@@ -12,11 +12,14 @@ lng: -82.6800
 zipSample: ["33784", "33702", "33709", "33714"]
 zipCodes: ["33702", "33714", "33709", "33784"]
 localPaths: ["Pinellas County / coords 27.8200, -82.6800", "Pinellas County / elevation 59 ft band", "Pinellas County / ZIP 33702 sector", "Pinellas County / ZIP 33709 sector", "Pinellas County / primary ZIP 33702"]
-zillowHomeValueUsd: 298500
 ---
 
-**Engineering Notice for Lealman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Lealman:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Pinellas County).
 
+
+Emergency plumbing pro service in Lealman, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pinellas County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Lealman, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless sleeve pulls near Lealman, FL require pit shoring notes when water tables are high.
 
@@ -43,8 +46,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Confirm cleanout locations during the same visit. Serving ZIP Code: 33702.
 
 Supply audit 388069: curb-stop orientation and hose-bib freeze flag reviewed for Lealman, FL at coords 27.8200/-82.6800.
-
-Scope trace: PRV outlet curve plus slab penetration sleeve seal referenced in Pinellas County county grid review.
 
 On-site sector marker: Pinellas County / ZIP 33702 sector — logged for map parity and ZIP-corridor verification.
 

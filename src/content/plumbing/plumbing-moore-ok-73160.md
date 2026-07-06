@@ -12,11 +12,14 @@ lng: -97.4800
 zipSample: ["73160", "73153"]
 zipCodes: ["73160", "73153"]
 localPaths: ["Cleveland County / ZIP 73160 sector", "Cleveland County / ZIP 73153 sector", "Cleveland County / coords 35.3300, -97.4800", "Cleveland County / elevation 1227 ft band", "Cleveland County / primary ZIP 73160"]
-zillowHomeValueUsd: 223880
 ---
 
-**Engineering Notice for Moore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cleveland County.
+**Engineering Notice for Moore:** Emergency leak and drain triage uses ~140 mg/L hardness context with Cleveland County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Moore, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Moore, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cleveland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: document dielectric unions before mixed-metal replacements.
 
@@ -45,8 +48,6 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 Intake ledger 973338: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Moore, OK at 35.3300, -97.4800.
 
 Fixture roster 973338: toilet flange spacer kit and shower cartridge seat score queued for Moore, OK walk-through.
-
-Scope trace: shower cartridge seat score plus water softener bypass lever referenced in Cleveland County county grid review.
 
 On-site sector marker: Cleveland County / primary ZIP 73160 — logged for map parity and ZIP-corridor verification.
 

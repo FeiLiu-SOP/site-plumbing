@@ -12,11 +12,14 @@ lng: -93.2100
 zipSample: ["55449", "55434", "55014"]
 zipCodes: ["55434", "55449", "55014"]
 localPaths: ["Anoka County / coords 45.1700, -93.2100", "Anoka County / elevation 902 ft band", "Anoka County / primary ZIP 55014", "Anoka County / ZIP 55449 sector", "Anoka County / ZIP 55434 sector"]
-zillowHomeValueUsd: 375770
 ---
 
-**Engineering Notice for Blaine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
+**Engineering Notice for Blaine:** Supply line, cleanout, and water heater scope recorded at 902 ft elevation context (Anoka County).
 
+
+Certified plumbing crews serving Blaine, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Blaine, MN, Anoka County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Trenchless pulls in Blaine, MN require pit dimensions verified against utility locate marks.
 
@@ -38,15 +41,13 @@ Risk flag: In Blaine, MN, slab leaks can misroute as foundation issues without l
 
 In Blaine, MN, slab leaks often present as warm spots before wall stains appear.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Sump discharge freeze risk in Blaine, MN should be reviewed before spring thaw cycles.
 
 Pressure trace 969005: meter-pit clearance and dielectric union checklist staged for Blaine, MN near elevation 902 ft.
-
-plumbing brief: slab penetration sleeve seal and hose bib freeze flag were cross-checked for the Blaine intake packet.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~902 ft across the Anoka County area. Coordinates: 45.1700, -93.2100. ZIP sample: 55434, 55449, 55014. Service perimeter note: Coverage extends through Anoka County with dispatch centered near ZIP 55014.
 

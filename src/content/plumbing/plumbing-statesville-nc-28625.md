@@ -12,11 +12,14 @@ lng: -80.8700
 zipSample: ["28677", "28625", "28687"]
 zipCodes: ["28677", "28687", "28625"]
 localPaths: ["Iredell County / primary ZIP 28625", "Iredell County / ZIP 28677 sector", "Iredell County / ZIP 28687 sector", "Iredell County / ZIP 28625 sector", "Iredell County / elevation 879 ft band"]
-zillowHomeValueUsd: 307538
 ---
 
-**Engineering Notice for Statesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Iredell County.
+**Engineering Notice for Statesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Iredell County.
 
+
+Plumbing remediation in Statesville, NC, Iredell County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Statesville, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -36,15 +39,13 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Risk flag: Seasonal Statesville, NC irrigation cross-connections can mask domestic pressure loss.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
-We coordinate Statesville, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Statesville, NC plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
 Pressure trace 858741: meter-pit clearance and dielectric union checklist staged for Statesville, NC near elevation 879 ft.
-
-Field routing: recirculation pump amp draw paired with sewer cleanout cap thread near ZIP 28625.
 
 Regional mesh label Iredell County: moisture and logistics baselines are keyed to Statesville, NC before niche-specific work begins.
 

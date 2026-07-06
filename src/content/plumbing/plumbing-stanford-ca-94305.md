@@ -12,11 +12,14 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94305", "94304"]
 localPaths: ["Santa Clara County / ZIP 94309 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / ZIP 94305 sector"]
-zillowHomeValueUsd: 3346464
 ---
 
-**Engineering Notice for Stanford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Stanford:** Emergency leak and drain triage uses ~138 mg/L hardness context with Santa Clara County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Stanford, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency plumbing pro service in Stanford, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Santa Clara County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 94305.
 
@@ -32,7 +35,7 @@ Hydrostatic holds in Stanford, CA slab circuits run overnight when listening mic
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Permit note: Main water line replacement in Stanford, CA may require ROW restoration planning.
 
@@ -45,6 +48,8 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Drain map 375698: camera-pass priority and expansion-tank pre-charge noted for Stanford, CA postal sector 94305.
+
+Local service note: sewer cleanout cap thread paired with water heater T&P path near ZIP 94305 for emergency plumbing pro repairs.
 
 On-site sector marker: Santa Clara County / primary ZIP 94305 — logged for map parity and ZIP-corridor verification.
 

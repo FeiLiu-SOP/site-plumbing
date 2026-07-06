@@ -12,11 +12,14 @@ lng: -91.6700
 zipSample: ["55987", "55959"]
 zipCodes: ["55959", "55987"]
 localPaths: ["Winona County / coords 44.0500, -91.6700", "Winona County / ZIP 55987 sector", "Winona County / ZIP 55959 sector", "Winona County / elevation 666 ft band", "Winona County / primary ZIP 55959"]
-zillowHomeValueUsd: 300723
 ---
 
-**Engineering Notice for Winona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winona County.
+**Engineering Notice for Winona:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Winona County.
 
+
+Burst pipe and drain clog calls in Winona, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Winona County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Winona, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Winona County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -48,7 +51,7 @@ Supply audit 598927: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Flow dossier 598927: branch wet-vent geometry and jetting nozzle envelope logged for Winona, MN county grid Winona County (ZIP 55959).
 
-Scope trace: recirculation pump amp draw plus backflow test cock orientation referenced in Winona County county grid review.
+Scope trace: recirculation pump amp draw plus backflow test cock orientation referenced in Winona County drain and water line review.
 
 On-site sector marker: Winona County / primary ZIP 55959 — logged for map parity and ZIP-corridor verification.
 

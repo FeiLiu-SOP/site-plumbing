@@ -12,11 +12,14 @@ lng: -98.3600
 zipSample: ["68803", "68801"]
 zipCodes: ["68803", "68801"]
 localPaths: ["Hall County / ZIP 68803 sector", "Hall County / coords 40.9200, -98.3600", "Hall County / ZIP 68801 sector", "Hall County / elevation 1883 ft band", "Hall County / primary ZIP 68803"]
-zillowHomeValueUsd: 283482
 ---
 
-**Engineering Notice for Grand Island:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hall County.
+**Engineering Notice for Grand Island:** Supply line, cleanout, and water heater scope recorded at 1883 ft elevation context (Hall County).
 
+
+Licensed plumbing crews serving Grand Island, NE review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Grand Island, NE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -49,8 +52,6 @@ Risk flag: Seasonal Grand Island, NE irrigation cross-connections can mask domes
 Intake ledger 335590: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Grand Island, NE at 40.9200, -98.3600.
 
 Drain map 335590: camera-pass priority and expansion-tank pre-charge noted for Grand Island, NE postal sector 68803.
-
-plumbing brief: recirculation pump amp draw and branch wet vent geometry were cross-checked for the Grand Island intake packet.
 
 Primary postal anchor 68803 with multi-ZIP overlap in Grand Island; field packets tag Hall County for county-grid reconciliation.
 

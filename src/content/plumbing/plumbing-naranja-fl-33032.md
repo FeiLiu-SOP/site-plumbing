@@ -12,15 +12,18 @@ lng: -80.4200
 zipSample: ["33032"]
 zipCodes: ["33032"]
 localPaths: ["Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33032", "Miami-Dade County / coords 25.5200, -80.4200"]
-zillowHomeValueUsd: 454940
 ---
 
-**Engineering Notice for Naranja:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Naranja:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Miami-Dade County).
 
+
+Burst pipe and drain clog calls in Naranja, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Naranja, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Naranja, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Step: map sump float travel and check-valve orientation for Naranja, FL basements.
 
@@ -47,8 +50,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Naranja, FL.
 Risk flag: Seasonal Naranja, FL irrigation cross-connections can mask domestic pressure loss.
 
 Drain map 102312: camera-pass priority and expansion-tank pre-charge noted for Naranja, FL postal sector 33032.
-
-plumbing brief: floor drain trap primer drip and jetter nozzle envelope were cross-checked for the Naranja intake packet.
 
 On-site sector marker: Miami-Dade County / ZIP 33032 sector — logged for map parity and ZIP-corridor verification.
 

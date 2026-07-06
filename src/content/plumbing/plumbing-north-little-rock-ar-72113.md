@@ -12,11 +12,14 @@ lng: -92.2400
 zipSample: ["72118", "72113", "72124", "72190", "72117"]
 zipCodes: ["72115", "72113", "72116", "72118", "72124", "72214", "72114", "72117", "72190"]
 localPaths: ["Pulaski County / coords 34.7800, -92.2400", "Pulaski County / ZIP 72118 sector", "Pulaski County / ZIP 72124 sector", "Pulaski County / ZIP 72190 sector", "Pulaski County / ZIP 72113 sector"]
-zillowHomeValueUsd: 303761
 ---
 
-**Engineering Notice for North Little Rock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pulaski County.
+**Engineering Notice for North Little Rock:** Emergency leak and drain triage uses ~159 mg/L hardness context with Pulaski County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in North Little Rock, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pulaski County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in North Little Rock, AR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Across North Little Rock, AR, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -26,7 +29,7 @@ Irrigation cross-connections in North Little Rock, AR can back-siphon domestic l
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

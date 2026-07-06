@@ -12,11 +12,14 @@ lng: -112.0200
 zipSample: ["59623", "59602", "59626", "59624", "59625"]
 zipCodes: ["59625", "59624", "59601", "59626", "59623", "59602"]
 localPaths: ["Lewis and Clark County / elevation 3990 ft band", "Lewis and Clark County / ZIP 59623 sector", "Lewis and Clark County / ZIP 59626 sector", "Lewis and Clark County / ZIP 59624 sector", "Lewis and Clark County / ZIP 59625 sector"]
-zillowHomeValueUsd: 434730
 ---
 
-**Engineering Notice for Helena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lewis and Clark County.
+**Engineering Notice for Helena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lewis and Clark County.
 
+
+When a main line backs up in Helena, MT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Helena, MT, Lewis and Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Helena, MT.
 
@@ -26,11 +29,11 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 59601.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -47,8 +50,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
 Pressure trace 797993: meter-pit clearance and dielectric union checklist staged for Helena, MT near elevation 3990 ft.
-
-Scope trace: floor drain trap primer drip plus dielectric union checklist referenced in Lewis and Clark County county grid review.
 
 On-site sector marker: Lewis and Clark County / primary ZIP 59601 — logged for map parity and ZIP-corridor verification.
 

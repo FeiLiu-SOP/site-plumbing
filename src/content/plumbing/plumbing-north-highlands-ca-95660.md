@@ -12,11 +12,14 @@ lng: -121.3700
 zipSample: ["95841", "95660"]
 zipCodes: ["95660", "95841"]
 localPaths: ["Sacramento County / ZIP 95660 sector", "Sacramento County / coords 38.6700, -121.3700", "Sacramento County / elevation 105 ft band", "Sacramento County / ZIP 95841 sector", "Sacramento County / primary ZIP 95660"]
-zillowHomeValueUsd: 389004
 ---
 
-**Engineering Notice for North Highlands:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for North Highlands:** Supply line, cleanout, and water heater scope recorded at 105 ft elevation context (Sacramento County).
 
+
+Burst pipe and drain clog calls in North Highlands, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sacramento County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving North Highlands, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -32,7 +35,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Fixture shutoff stiffness in North Highlands, CA may indicate mineral bridging behind stems.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 95660.
 
@@ -45,8 +48,6 @@ Cast-iron hub corrosion in North Highlands, CA often concentrates at the third j
 Risk flag: Seasonal North Highlands, CA irrigation cross-connections can mask domestic pressure loss.
 
 Drain map 444714: camera-pass priority and expansion-tank pre-charge noted for North Highlands, CA postal sector 95660.
-
-Scope trace: PRV outlet curve plus PEX expansion ring batch referenced in Sacramento County county grid review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Sacramento County and primary ZIP 95660. Terrain reference: 105 ft. Center point: 38.6700, -121.3700. ZIP sample: 95660, 95841. Logistics priority: Serving residential sectors across Sacramento County and north-east ZIP 95660 grid.
 

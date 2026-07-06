@@ -12,11 +12,14 @@ lng: -121.4500
 zipSample: ["95823", "94206"]
 zipCodes: ["95823", "94206"]
 localPaths: ["Sacramento County / elevation 16 ft band", "Sacramento County / ZIP 95823 sector", "Sacramento County / ZIP 94206 sector", "Sacramento County / coords 38.5000, -121.4500", "Sacramento County / primary ZIP 95823"]
-zillowHomeValueUsd: 428747
 ---
 
-**Engineering Notice for Parkway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Parkway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sacramento County.
 
+
+Burst pipe and drain clog calls in Parkway, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sacramento County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Parkway, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -36,7 +39,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -50,7 +53,7 @@ Pressure trace 564876: meter-pit clearance and dielectric union checklist staged
 
 Flow dossier 564876: branch wet-vent geometry and jetting nozzle envelope logged for Parkway, CA county grid Sacramento County (ZIP 95823).
 
-plumbing brief: jetter nozzle envelope and recirculation pump amp draw were cross-checked for the Parkway intake packet.
+Plumbing service brief: jetter nozzle envelope and recirculation pump amp draw were cross-checked for the Parkway pipe and leak scope.
 
 Coordinate-anchored dispatch note: center reference 38.5000, -121.4500 at elevation ~16 ft aligns with Sacramento County intake staging.
 

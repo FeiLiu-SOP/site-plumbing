@@ -12,11 +12,14 @@ lng: -83.0300
 zipSample: ["48314", "48310", "48311", "48313", "48312"]
 zipCodes: ["48313", "48314", "48310", "48311", "48312"]
 localPaths: ["Macomb County / ZIP 48310 sector", "Macomb County / ZIP 48314 sector", "Macomb County / ZIP 48312 sector", "Macomb County / primary ZIP 48310", "Macomb County / elevation 620 ft band"]
-zillowHomeValueUsd: 317620
 ---
 
-**Engineering Notice for Sterling Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
+**Engineering Notice for Sterling Heights:** Emergency leak and drain triage uses ~135 mg/L hardness context with Macomb County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Sterling Heights, MI, Macomb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Sterling Heights, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When should sump battery backups be load-tested? In Sterling Heights, MI, before spring thaw and hurricane remnants.
 
@@ -50,7 +53,7 @@ Flow dossier 406209: branch wet-vent geometry and jetting nozzle envelope logged
 
 Lineage note 406209: recirculation pump amp draw captured before Sterling Heights, MI branch isolation.
 
-Scope trace: backflow test cock orientation plus jetter nozzle envelope referenced in Macomb County county grid review.
+Scope trace: backflow test cock orientation plus jetter nozzle envelope referenced in Macomb County drain and water line review.
 
 On-site sector marker: Macomb County / ZIP 48310 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -94.3700
 zipSample: ["72901", "72908", "72903", "72916", "72917"]
 zipCodes: ["72914", "72916", "72908", "72923", "72906", "72904", "72903", "72919", "72901", "72917", "72918", "72913"]
 localPaths: ["Sebastian County / ZIP 72908 sector", "Sebastian County / elevation 476 ft band", "Sebastian County / primary ZIP 72908", "Sebastian County / ZIP 72916 sector", "Sebastian County / ZIP 72903 sector"]
-zillowHomeValueUsd: 229113
 ---
 
-**Engineering Notice for Fort Smith:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sebastian County.
+**Engineering Notice for Fort Smith:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sebastian County.
 
+
+Burst pipe and drain clog calls in Fort Smith, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sebastian County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Fort Smith, AR, Sebastian County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Fort Smith, AR should be snaked only after trap arm geometry is confirmed on camera.
 

@@ -12,11 +12,14 @@ lng: -79.9600
 zipSample: ["15101", "15091"]
 zipCodes: ["15101", "15091"]
 localPaths: ["Allegheny County / elevation 1112 ft band", "Allegheny County / primary ZIP 15101", "Allegheny County / ZIP 15091 sector", "Allegheny County / ZIP 15101 sector", "Allegheny County / coords 40.5700, -79.9600"]
-zillowHomeValueUsd: 378256
 ---
 
-**Engineering Notice for Allison Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Allison Park:** Emergency leak and drain triage uses ~133 mg/L hardness context with Allegheny County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Allison Park, PA, Allegheny County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Allison Park, PA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Allegheny County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Allison Park, PA.
 
@@ -47,8 +50,6 @@ Stack vent offsets in Allison Park, PA older duplexes can mask tub gurgle as a m
 Supply audit 302264: curb-stop orientation and hose-bib freeze flag reviewed for Allison Park, PA at coords 40.5700/-79.9600.
 
 Pressure trace 302264: meter-pit clearance and dielectric union checklist staged for Allison Park, PA near elevation 1112 ft.
-
-Field routing: cleanout riser height paired with fixture shutoff torque log near ZIP 15101.
 
 On-site sector marker: Allegheny County / elevation 1112 ft band — logged for map parity and ZIP-corridor verification.
 

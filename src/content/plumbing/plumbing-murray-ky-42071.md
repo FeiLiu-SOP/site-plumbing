@@ -12,11 +12,14 @@ lng: -88.3200
 zipSample: ["42071"]
 zipCodes: ["42071"]
 localPaths: ["Calloway County / ZIP 42071 sector", "Calloway County / elevation 545 ft band", "Calloway County / primary ZIP 42071", "Calloway County / coords 36.6100, -88.3200"]
-zillowHomeValueUsd: 179990
 ---
 
-**Engineering Notice for Murray:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calloway County.
+**Engineering Notice for Murray:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Calloway County.
 
+
+Emergency certified plumber service in Murray, KY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Calloway County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Murray, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Calloway County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless pulls in Murray, KY require pit dimensions verified against utility locate marks.
 
@@ -44,13 +47,11 @@ Frost-free sillcock failures in Murray, KY often trace to interior shutoff seats
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Pressure trace 530614: meter-pit clearance and dielectric union checklist staged for Murray, KY near elevation 545 ft.
 
 Drain map 530614: camera-pass priority and expansion-tank pre-charge noted for Murray, KY postal sector 42071.
-
-plumbing brief: slab penetration sleeve seal and sump float travel were cross-checked for the Murray intake packet.
 
 Coordinate-anchored dispatch note: center reference 36.6100, -88.3200 at elevation ~545 ft aligns with Calloway County intake staging.
 

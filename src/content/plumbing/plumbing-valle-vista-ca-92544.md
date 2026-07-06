@@ -12,15 +12,18 @@ lng: -116.8900
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / ZIP 92544 sector", "Riverside County / elevation 1873 ft band", "Riverside County / primary ZIP 92544", "Riverside County / coords 33.7400, -116.8900"]
-zillowHomeValueUsd: 459534
 ---
 
-**Engineering Notice for Valle Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Valle Vista:** Emergency leak and drain triage uses ~160 mg/L hardness context with Riverside County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Valle Vista, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Valle Vista, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Basement floor drains in Valle Vista, CA should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -47,8 +50,6 @@ Step: document dielectric unions before mixed-metal replacements.
 Hydrostatic holds in Valle Vista, CA slab circuits run overnight when listening mics show ambiguous hits.
 
 Fixture roster 896994: toilet flange spacer kit and shower cartridge seat score queued for Valle Vista, CA walk-through.
-
-plumbing brief: recirculation pump amp draw and cleanout riser height were cross-checked for the Valle Vista intake packet.
 
 Regional mesh label Riverside County: moisture and logistics baselines are keyed to Valle Vista, CA before niche-specific work begins.
 

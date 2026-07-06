@@ -12,11 +12,14 @@ lng: -95.3100
 zipSample: ["75798", "75703", "75713", "75710", "75709"]
 zipCodes: ["75710", "75713", "75712", "75798", "75799", "75709", "75703", "75711", "75702", "75701"]
 localPaths: ["Smith County / elevation 545 ft band", "Smith County / ZIP 75713 sector", "Smith County / coords 32.3200, -95.3100", "Smith County / ZIP 75709 sector", "Smith County / primary ZIP 75709"]
-zillowHomeValueUsd: 284082
 ---
 
-**Engineering Notice for Tyler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Smith County.
+**Engineering Notice for Tyler:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Smith County.
 
+
+Burst pipe and drain clog calls in Tyler, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Smith County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Tyler, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Smith County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -24,7 +27,7 @@ Frost-free sillcock failures in Tyler, TX often trace to interior shutoff seats,
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-We coordinate Tyler, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Tyler, TX plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Irrigation cross-connections in Tyler, TX can back-siphon domestic lines during main breaks.
 

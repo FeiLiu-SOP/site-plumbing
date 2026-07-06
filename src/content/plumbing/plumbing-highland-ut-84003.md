@@ -12,11 +12,14 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / ZIP 84003 sector", "Utah County / primary ZIP 84003", "Utah County / coords 40.4300, -111.8000", "Utah County / elevation 4885 ft band"]
-zillowHomeValueUsd: 598751
 ---
 
-**Engineering Notice for Highland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Highland:** Emergency leak and drain triage uses ~124 mg/L hardness context with Utah County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Highland, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Highland, UT, Utah County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -48,7 +51,7 @@ Supply audit 664054: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Lineage note 664054: recirculation pump amp draw captured before Highland, UT branch isolation.
 
-Field routing: gas water heater draft hood gap paired with dielectric union checklist near ZIP 84003.
+Local service note: gas water heater draft hood gap paired with dielectric union checklist near ZIP 84003 for emergency plumbing technician repairs.
 
 Regional mesh label Utah County: moisture and logistics baselines are keyed to Highland, UT before niche-specific work begins.
 

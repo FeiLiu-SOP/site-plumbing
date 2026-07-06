@@ -12,11 +12,14 @@ lng: -83.2800
 zipSample: ["48125", "48127"]
 zipCodes: ["48127", "48125"]
 localPaths: ["Wayne County / elevation 627 ft band", "Wayne County / primary ZIP 48127", "Wayne County / ZIP 48125 sector", "Wayne County / ZIP 48127 sector", "Wayne County / coords 42.3200, -83.2800"]
-zillowHomeValueUsd: 259494
 ---
 
-**Engineering Notice for Dearborn Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Dearborn Heights:** Emergency leak and drain triage uses ~180 mg/L hardness context with Wayne County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Dearborn Heights, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving Dearborn Heights, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: camera-pass main lines in Dearborn Heights, MI before jetting older clay or cast iron.
 

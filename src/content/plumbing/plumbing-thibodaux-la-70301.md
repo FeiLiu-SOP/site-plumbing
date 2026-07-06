@@ -12,11 +12,14 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301", "Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector"]
-zillowHomeValueUsd: 224525
 ---
 
-**Engineering Notice for Thibodaux:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafourche Parish.
+**Engineering Notice for Thibodaux:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Lafourche Parish).
 
+
+Certified plumbing crews serving Thibodaux, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Thibodaux, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lafourche Parish clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Irrigation cross-connections in Thibodaux, LA can back-siphon domestic lines during main breaks.
 
@@ -34,7 +37,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Sump discharge freeze risk in Thibodaux, LA should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -45,6 +48,8 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Cast-iron hub corrosion in Thibodaux, LA often concentrates at the third joint upstream of the cleanout.
 
 Flow dossier 740963: branch wet-vent geometry and jetting nozzle envelope logged for Thibodaux, LA county grid Lafourche Parish (ZIP 70301).
+
+Scope trace: thermal expansion loop check plus meter pit clearance referenced in Lafourche Parish drain and water line review.
 
 On-site sector marker: Lafourche Parish / coords 29.7900, -90.8100 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -72.9200
 zipSample: ["06505", "06506", "06520", "06540", "06508"]
 zipCodes: ["06508", "06536", "06530", "06532", "06521", "06502", "06534", "06505", "06507", "06535", "06509", "06510"]
 localPaths: ["South Central Connecticut County / ZIP 06540 sector", "South Central Connecticut County / ZIP 06520 sector", "South Central Connecticut County / coords 41.3100, -72.9200", "South Central Connecticut County / primary ZIP 06519", "South Central Connecticut County / elevation 49 ft band"]
-zillowHomeValueUsd: 295613
 ---
 
-**Engineering Notice for New Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for New Haven:** Emergency leak and drain triage uses ~118 mg/L hardness context with South Central Connecticut County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in New Haven, CT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in South Central Connecticut County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in New Haven, CT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in South Central Connecticut County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: In New Haven, CT, slab leaks can misroute as foundation issues without listening equipment.
 

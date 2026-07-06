@@ -12,11 +12,14 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / elevation 860 ft band", "Scioto County / ZIP 45662 sector", "Scioto County / primary ZIP 45662"]
-zillowHomeValueUsd: 99225
 ---
 
-**Engineering Notice for Portsmouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Scioto County.
+**Engineering Notice for Portsmouth:** Emergency leak and drain triage uses ~149 mg/L hardness context with Scioto County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Portsmouth, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Scioto County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Portsmouth, OH, Scioto County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,8 +50,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Lineage note 152131: recirculation pump amp draw captured before Portsmouth, OH branch isolation.
 
 Flow dossier 152131: branch wet-vent geometry and jetting nozzle envelope logged for Portsmouth, OH county grid Scioto County (ZIP 45662).
-
-Field routing: floor drain trap primer drip paired with backflow test cock orientation near ZIP 45662.
 
 On-site sector marker: Scioto County / primary ZIP 45662 — logged for map parity and ZIP-corridor verification.
 

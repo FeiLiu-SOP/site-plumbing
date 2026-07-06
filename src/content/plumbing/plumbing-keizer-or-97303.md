@@ -12,11 +12,14 @@ lng: -123.0200
 zipSample: ["97307", "97303"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / elevation 138 ft band", "Marion County / ZIP 97307 sector", "Marion County / coords 45.0000, -123.0200", "Marion County / primary ZIP 97303", "Marion County / ZIP 97303 sector"]
-zillowHomeValueUsd: 450621
 ---
 
-**Engineering Notice for Keizer:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Keizer:** Emergency leak and drain triage uses ~127 mg/L hardness context with Marion County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Keizer, OR, Marion County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Keizer, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Marion County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Sewer gas odors in Keizer, OR should trigger trap seal and vent path review.
 
@@ -24,7 +27,7 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Sump discharge freeze risk in Keizer, OR should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

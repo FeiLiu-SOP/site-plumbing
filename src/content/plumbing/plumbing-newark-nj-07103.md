@@ -12,11 +12,14 @@ lng: -74.1700
 zipSample: ["07101", "07188", "07192", "07191", "07199"]
 zipCodes: ["07188", "07107", "07103", "07106", "07108", "07114", "07112", "07105", "07104", "07102", "07192", "07199"]
 localPaths: ["Essex County / ZIP 07199 sector", "Essex County / ZIP 07101 sector", "Essex County / ZIP 07188 sector", "Essex County / coords 40.7200, -74.1700", "Essex County / elevation 3 ft band"]
-zillowHomeValueUsd: 392632
 ---
 
-**Engineering Notice for Newark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Essex County.
+**Engineering Notice for Newark:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Essex County.
 
+
+Burst pipe and drain clog calls in Newark, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Essex County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Newark, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Essex County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -46,7 +49,7 @@ Flow dossier 718918: branch wet-vent geometry and jetting nozzle envelope logged
 
 Supply audit 718918: curb-stop orientation and hose-bib freeze flag reviewed for Newark, NJ at coords 40.7200/-74.1700.
 
-plumbing brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Newark intake packet.
+Plumbing remediation brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Newark pipe and leak scope.
 
 On-site sector marker: Essex County / ZIP 07107 sector — logged for map parity and ZIP-corridor verification.
 

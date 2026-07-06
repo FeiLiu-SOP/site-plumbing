@@ -12,11 +12,14 @@ lng: -97.1300
 zipSample: ["73402", "73403", "73401"]
 zipCodes: ["73401", "73402", "73403"]
 localPaths: ["Carter County / elevation 899 ft band", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73401 sector", "Carter County / ZIP 73402 sector", "Carter County / primary ZIP 73401"]
-zillowHomeValueUsd: 181337
 ---
 
-**Engineering Notice for Ardmore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carter County.
+**Engineering Notice for Ardmore:** Supply line, cleanout, and water heater scope recorded at 899 ft elevation context (Carter County).
 
+
+Certified plumbing crews serving Ardmore, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Ardmore, OK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 In Ardmore, OK, slab leaks often present as warm spots before wall stains appear.
 
@@ -30,9 +33,9 @@ CPVC solvent weld times shift with ambient humidity during Ardmore, OK shoulder 
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-We coordinate Ardmore, OK plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Ardmore, OK plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -48,7 +51,7 @@ Drain map 273598: camera-pass priority and expansion-tank pre-charge noted for A
 
 Supply audit 273598: curb-stop orientation and hose-bib freeze flag reviewed for Ardmore, OK at coords 34.1900/-97.1300.
 
-Scope trace: PEX expansion ring batch plus fixture shutoff torque log referenced in Carter County county grid review.
+Scope trace: PEX expansion ring batch plus fixture shutoff torque log referenced in Carter County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 34.1900, -97.1300 at elevation ~899 ft aligns with Carter County intake staging.
 

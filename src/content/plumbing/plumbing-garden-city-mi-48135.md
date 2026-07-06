@@ -12,11 +12,14 @@ lng: -83.3400
 zipSample: ["48135", "48136"]
 zipCodes: ["48136", "48135"]
 localPaths: ["Wayne County / elevation 640 ft band", "Wayne County / primary ZIP 48135", "Wayne County / ZIP 48136 sector", "Wayne County / coords 42.3200, -83.3400", "Wayne County / ZIP 48135 sector"]
-zillowHomeValueUsd: 200500
 ---
 
-**Engineering Notice for Garden City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Garden City:** Supply line, cleanout, and water heater scope recorded at 640 ft elevation context (Wayne County).
 
+
+Plumbing service in Garden City, MI, Wayne County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Garden City, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Galvanized segments in Garden City, MI may restrict flow long before visible corrosion.
 
@@ -32,11 +35,11 @@ Step: map sump float travel and check-valve orientation for Garden City, MI base
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Irrigation cross-connections in Garden City, MI can back-siphon domestic lines during main breaks.
 
-We coordinate Garden City, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Garden City, MI plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Cleanout access limits in Garden City, MI frequently extend drain cleaning duration.
 
@@ -48,7 +51,7 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Fixture roster 111649: toilet flange spacer kit and shower cartridge seat score queued for Garden City, MI walk-through.
 
-Field routing: water softener bypass lever paired with meter pit clearance near ZIP 48135.
+Local service note: water softener bypass lever paired with meter pit clearance near ZIP 48135 for emergency licensed plumber repairs.
 
 ZIP-corridor snapshot for Garden City, MI: sampled sectors include 48136, 48135; county routing grid remains Wayne County.
 

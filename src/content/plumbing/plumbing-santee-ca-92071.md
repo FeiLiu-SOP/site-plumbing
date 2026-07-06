@@ -12,11 +12,14 @@ lng: -116.9900
 zipSample: ["92040", "92071"]
 zipCodes: ["92071", "92040"]
 localPaths: ["San Diego County / coords 32.8600, -116.9900", "San Diego County / elevation 472 ft band", "San Diego County / ZIP 92071 sector", "San Diego County / ZIP 92040 sector", "San Diego County / primary ZIP 92071"]
-zillowHomeValueUsd: 808594
 ---
 
-**Engineering Notice for Santee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Santee:** Supply line, cleanout, and water heater scope recorded at 472 ft elevation context (San Diego County).
 
+
+Burst pipe and drain clog calls in Santee, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Diego County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Santee, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Branch wet vents in Santee, CA can mask gurgling as a main-line issue.
 
@@ -49,6 +52,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Fixture roster 627777: toilet flange spacer kit and shower cartridge seat score queued for Santee, CA walk-through.
 
 Supply audit 627777: curb-stop orientation and hose-bib freeze flag reviewed for Santee, CA at coords 32.8600/-116.9900.
+
+Scope trace: PEX expansion ring batch plus water heater T&P path referenced in San Diego County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 32.8600, -116.9900 at elevation ~472 ft aligns with San Diego County intake staging.
 

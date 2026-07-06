@@ -12,13 +12,16 @@ lng: -71.5500
 zipSample: ["01752"]
 zipCodes: ["01752"]
 localPaths: ["Middlesex County / primary ZIP 01752", "Middlesex County / elevation 440 ft band", "Middlesex County / coords 42.3500, -71.5500", "Middlesex County / ZIP 01752 sector"]
-zillowHomeValueUsd: 579219
 ---
 
-**Engineering Notice for Marlborough:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Marlborough:** Supply line, cleanout, and water heater scope recorded at 440 ft elevation context (Middlesex County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Certified plumbing crews serving Marlborough, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Marlborough, MA, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -45,8 +48,6 @@ Basement floor drains in Marlborough, MA should be snaked only after trap arm ge
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
 Lineage note 162113: recirculation pump amp draw captured before Marlborough, MA branch isolation.
-
-plumbing brief: sump float travel and meter pit clearance were cross-checked for the Marlborough intake packet.
 
 On-site sector marker: Middlesex County / elevation 440 ft band — logged for map parity and ZIP-corridor verification.
 

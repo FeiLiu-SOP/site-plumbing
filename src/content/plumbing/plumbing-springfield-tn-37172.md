@@ -12,11 +12,14 @@ lng: -86.8700
 zipSample: ["37172"]
 zipCodes: ["37172"]
 localPaths: ["Robertson County / elevation 728 ft band", "Robertson County / coords 36.4900, -86.8700", "Robertson County / primary ZIP 37172", "Robertson County / ZIP 37172 sector"]
-zillowHomeValueUsd: 336543
 ---
 
-**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Robertson County.
+**Engineering Notice for Springfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Robertson County.
 
+
+Qualified plumbing crews serving Springfield, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Springfield, TN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Robertson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Across Springfield, TN, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -45,8 +48,6 @@ Frost-free sillcock failures in Springfield, TN often trace to interior shutoff 
 Intake ledger 578551: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Springfield, TN at 36.4900, -86.8700.
 
 Pressure trace 578551: meter-pit clearance and dielectric union checklist staged for Springfield, TN near elevation 728 ft.
-
-Scope trace: backflow test cock orientation plus gas water heater draft hood gap referenced in Robertson County county grid review.
 
 On-site sector marker: Robertson County / ZIP 37172 sector — logged for map parity and ZIP-corridor verification.
 

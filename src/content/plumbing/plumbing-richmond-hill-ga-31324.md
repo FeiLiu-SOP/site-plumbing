@@ -12,13 +12,16 @@ lng: -81.3100
 zipSample: ["31324"]
 zipCodes: ["31324"]
 localPaths: ["Bryan County / coords 31.9000, -81.3100", "Bryan County / primary ZIP 31324", "Bryan County / elevation 36 ft band", "Bryan County / ZIP 31324 sector"]
-zillowHomeValueUsd: 423210
 ---
 
-**Engineering Notice for Richmond Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bryan County.
+**Engineering Notice for Richmond Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bryan County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Richmond Hill, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving Richmond Hill, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Richmond Hill, GA.
 
@@ -36,7 +39,7 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 31324.
 
-We coordinate Richmond Hill, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Richmond Hill, GA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Cast-iron hub corrosion in Richmond Hill, GA often concentrates at the third joint upstream of the cleanout.
 
@@ -47,8 +50,6 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Fixture roster 966803: toilet flange spacer kit and shower cartridge seat score queued for Richmond Hill, GA walk-through.
 
 Supply audit 966803: curb-stop orientation and hose-bib freeze flag reviewed for Richmond Hill, GA at coords 31.9000/-81.3100.
-
-plumbing brief: branch wet vent geometry and shower cartridge seat score were cross-checked for the Richmond Hill intake packet.
 
 On-site sector marker: Bryan County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

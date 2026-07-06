@@ -8,15 +8,18 @@ zipCode: "49015"
 county: "Calhoun County"
 elevationFt: 935
 lat: 42.3000
-lng: -85.2300
+lng: -85.2000
 zipSample: ["49037", "49015", "49016"]
 zipCodes: ["49016", "49037", "49015"]
-localPaths: ["Calhoun County / coords 42.3000, -85.2300", "Calhoun County / ZIP 49037 sector", "Calhoun County / ZIP 49015 sector", "Calhoun County / primary ZIP 49015", "Calhoun County / elevation 935 ft band"]
-zillowHomeValueUsd: 206328
+localPaths: ["Calhoun County / coords 42.3000, -85.2000", "Calhoun County / ZIP 49037 sector", "Calhoun County / ZIP 49015 sector", "Calhoun County / primary ZIP 49015", "Calhoun County / elevation 935 ft band"]
 ---
 
-**Engineering Notice for Battle Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Calhoun County.
+**Engineering Notice for Battle Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Calhoun County.
 
+
+When a main line backs up in Battle Creek, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in Battle Creek, MI, Calhoun County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -30,7 +33,7 @@ FAQ: When is cabling enough? In Battle Creek, MI, pipe material and blockage typ
 
 Permit note: Main water line replacement in Battle Creek, MI may require ROW restoration planning.
 
-We coordinate Battle Creek, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Battle Creek, MI plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -49,8 +52,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Flow dossier 197490: branch wet-vent geometry and jetting nozzle envelope logged for Battle Creek, MI county grid Calhoun County (ZIP 49015).
 
 Drain map 197490: camera-pass priority and expansion-tank pre-charge noted for Battle Creek, MI postal sector 49015.
-
-Field routing: fixture shutoff torque log paired with dielectric union checklist near ZIP 49015.
 
 On-site sector marker: Calhoun County / ZIP 49016 sector — logged for map parity and ZIP-corridor verification.
 

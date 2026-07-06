@@ -8,21 +8,24 @@ zipCode: "49441"
 county: "Muskegon County"
 elevationFt: 620
 lat: 43.1600
-lng: -86.2500
+lng: -86.2800
 zipSample: ["49441", "49444"]
 zipCodes: ["49441", "49444"]
-localPaths: ["Muskegon County / ZIP 49441 sector", "Muskegon County / elevation 620 ft band", "Muskegon County / primary ZIP 49441", "Muskegon County / ZIP 49444 sector", "Muskegon County / coords 43.1600, -86.2500"]
-zillowHomeValueUsd: 250620
+localPaths: ["Muskegon County / ZIP 49441 sector", "Muskegon County / elevation 620 ft band", "Muskegon County / primary ZIP 49441", "Muskegon County / ZIP 49444 sector", "Muskegon County / coords 43.1600, -86.2800"]
 ---
 
-**Engineering Notice for Norton Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Muskegon County.
+**Engineering Notice for Norton Shores:** Emergency leak and drain triage uses ~136 mg/L hardness context with Muskegon County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Norton Shores, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Muskegon County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Norton Shores, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Muskegon County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-We coordinate Norton Shores, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Norton Shores, MI plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -48,9 +51,7 @@ Trenchless pulls in Norton Shores, MI require pit dimensions verified against ut
 
 Fixture roster 162735: toilet flange spacer kit and shower cartridge seat score queued for Norton Shores, MI walk-through.
 
-Intake ledger 162735: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norton Shores, MI at 43.1600, -86.2500.
-
-Scope trace: backflow test cock orientation plus recirculation pump amp draw referenced in Muskegon County county grid review.
+Intake ledger 162735: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norton Shores, MI at 43.1600, -86.2800.
 
 On-site sector marker: Muskegon County / elevation 620 ft band — logged for map parity and ZIP-corridor verification.
 

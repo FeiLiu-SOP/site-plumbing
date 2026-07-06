@@ -12,13 +12,16 @@ lng: -94.8000
 zipSample: ["66227", "66216", "66215", "66214", "66220"]
 zipCodes: ["66214", "66250", "66220", "66219", "66227", "66215", "66216"]
 localPaths: ["Johnson County / primary ZIP 66214", "Johnson County / ZIP 66215 sector", "Johnson County / ZIP 66227 sector", "Johnson County / coords 38.9600, -94.8000", "Johnson County / ZIP 66214 sector"]
-zillowHomeValueUsd: 389053
 ---
 
-**Engineering Notice for Lenexa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Lenexa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Johnson County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Lenexa, KS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Lenexa, KS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -28,7 +31,7 @@ Polybutylene manifold tags in Lenexa, KS basements should be photographed before
 
 Trenchless pulls in Lenexa, KS require pit dimensions verified against utility locate marks.
 
-We coordinate Lenexa, KS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Lenexa, KS plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Branch wet vents in Lenexa, KS can mask gurgling as a main-line issue.
 
@@ -49,8 +52,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 Intake ledger 964884: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lenexa, KS at 38.9600, -94.8000.
 
 Supply audit 964884: curb-stop orientation and hose-bib freeze flag reviewed for Lenexa, KS at coords 38.9600/-94.8000.
-
-Field routing: gas water heater draft hood gap paired with copper pinhole cluster near ZIP 66214.
 
 ZIP-corridor snapshot for Lenexa, KS: sampled sectors include 66219, 66220, 66227, 66215, 66250, 66216, 66214; county routing grid remains Johnson County.
 

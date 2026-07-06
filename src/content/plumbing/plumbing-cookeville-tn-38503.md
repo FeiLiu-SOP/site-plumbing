@@ -12,11 +12,14 @@ lng: -85.5100
 zipSample: ["38503", "38501", "38506", "38502", "38505"]
 zipCodes: ["38502", "38506", "38501", "38505", "38503"]
 localPaths: ["Putnam County / ZIP 38503 sector", "Putnam County / primary ZIP 38503", "Putnam County / ZIP 38506 sector", "Putnam County / ZIP 38505 sector", "Putnam County / elevation 1079 ft band"]
-zillowHomeValueUsd: 300302
 ---
 
-**Engineering Notice for Cookeville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Putnam County.
+**Engineering Notice for Cookeville:** Emergency leak and drain triage uses ~165 mg/L hardness context with Putnam County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Cookeville, TN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Putnam County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Cookeville, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Cookeville, TN may require ROW restoration planning.
 
@@ -50,7 +53,7 @@ Fixture roster 660160: toilet flange spacer kit and shower cartridge seat score 
 
 Supply audit 660160: curb-stop orientation and hose-bib freeze flag reviewed for Cookeville, TN at coords 36.1500/-85.5100.
 
-Scope trace: hose bib freeze flag plus branch wet vent geometry referenced in Putnam County county grid review.
+Scope trace: hose bib freeze flag plus branch wet vent geometry referenced in Putnam County drain and water line review.
 
 Primary postal anchor 38503 with multi-ZIP overlap in Cookeville; field packets tag Putnam County for county-grid reconciliation.
 

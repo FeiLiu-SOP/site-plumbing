@@ -12,11 +12,14 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / coords 40.0800, -80.7000", "Ohio County / primary ZIP 26003", "Ohio County / elevation 679 ft band", "Ohio County / ZIP 26003 sector"]
-zillowHomeValueUsd: 156597
 ---
 
-**Engineering Notice for Wheeling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ohio County.
+**Engineering Notice for Wheeling:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ohio County.
 
+
+Certified plumbing crews serving Wheeling, WV review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Wheeling, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ohio County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -46,7 +49,7 @@ Drain map 106476: camera-pass priority and expansion-tank pre-charge noted for W
 
 Fixture roster 106476: toilet flange spacer kit and shower cartridge seat score queued for Wheeling, WV walk-through.
 
-Scope trace: meter pit clearance plus hose bib freeze flag referenced in Ohio County county grid review.
+Scope trace: meter pit clearance plus hose bib freeze flag referenced in Ohio County drain and water line review.
 
 On-site sector marker: Ohio County / ZIP 26003 sector — logged for map parity and ZIP-corridor verification.
 

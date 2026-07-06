@@ -12,11 +12,14 @@ lng: -80.3600
 zipSample: ["33156", "33116", "33173", "33283", "33176"]
 zipCodes: ["33156", "33176", "33296", "33116", "33256", "33173", "33283"]
 localPaths: ["Miami-Dade County / ZIP 33173 sector", "Miami-Dade County / ZIP 33176 sector", "Miami-Dade County / coords 25.6700, -80.3600", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33156 sector"]
-zillowHomeValueUsd: 566186
 ---
 
-**Engineering Notice for Kendall:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendall:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Miami-Dade County).
 
+
+Burst pipe and drain clog calls in Kendall, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Kendall, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -50,7 +53,7 @@ Pressure trace 542557: meter-pit clearance and dielectric union checklist staged
 
 Drain map 542557: camera-pass priority and expansion-tank pre-charge noted for Kendall, FL postal sector 33173.
 
-Field routing: fixture shutoff torque log paired with gas water heater draft hood gap near ZIP 33173.
+Local service note: fixture shutoff torque log paired with gas water heater draft hood gap near ZIP 33173 for emergency plumbing pro repairs.
 
 On-site sector marker: Miami-Dade County / ZIP 33176 sector — logged for map parity and ZIP-corridor verification.
 

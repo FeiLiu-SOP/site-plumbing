@@ -12,11 +12,14 @@ lng: -97.3600
 zipSample: ["68601", "68602"]
 zipCodes: ["68602", "68601"]
 localPaths: ["Platte County / ZIP 68601 sector", "Platte County / elevation 1453 ft band", "Platte County / primary ZIP 68601", "Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68602 sector"]
-zillowHomeValueUsd: 271020
 ---
 
-**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Platte County.
+**Engineering Notice for Columbus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Platte County.
 
+
+Plumbing service in Columbus, NE, Platte County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Columbus, NE often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Platte County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Intake ledger 700944: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Columbus, NE at 41.4400, -97.3600.
 
 Supply audit 700944: curb-stop orientation and hose-bib freeze flag reviewed for Columbus, NE at coords 41.4400/-97.3600.
-
-Field routing: backflow test cock orientation paired with slab leak listening window near ZIP 68601.
 
 On-site sector marker: Platte County / ZIP 68601 sector — logged for map parity and ZIP-corridor verification.
 

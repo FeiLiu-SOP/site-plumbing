@@ -12,11 +12,14 @@ lng: -93.2800
 zipSample: ["55423"]
 zipCodes: ["55423"]
 localPaths: ["Hennepin County / coords 44.8800, -93.2800", "Hennepin County / ZIP 55423 sector", "Hennepin County / elevation 840 ft band", "Hennepin County / primary ZIP 55423"]
-zillowHomeValueUsd: 347257
 ---
 
-**Engineering Notice for Richfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Richfield:** Emergency leak and drain triage uses ~129 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Richfield, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Richfield, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 

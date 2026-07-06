@@ -12,11 +12,14 @@ lng: -85.1900
 zipSample: ["30165", "30164", "30162", "30161"]
 zipCodes: ["30165", "30164", "30161", "30162"]
 localPaths: ["Floyd County / ZIP 30165 sector", "Floyd County / elevation 623 ft band", "Floyd County / primary ZIP 30161", "Floyd County / ZIP 30162 sector", "Floyd County / ZIP 30161 sector"]
-zillowHomeValueUsd: 217820
 ---
 
-**Engineering Notice for Rome:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Floyd County.
+**Engineering Notice for Rome:** Emergency leak and drain triage uses ~148 mg/L hardness context with Floyd County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Rome, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Floyd County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Rome, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Floyd County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -42,11 +45,9 @@ Trenchless sleeve pulls near Rome, GA require pit shoring notes when water table
 
 Hydrostatic holds in Rome, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-We coordinate Rome, GA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Rome, GA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Lineage note 569007: recirculation pump amp draw captured before Rome, GA branch isolation.
-
-Field routing: floor drain trap primer drip paired with slab leak listening window near ZIP 30161.
 
 On-site sector marker: Floyd County / ZIP 30161 sector — logged for map parity and ZIP-corridor verification.
 

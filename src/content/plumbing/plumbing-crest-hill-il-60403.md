@@ -12,11 +12,14 @@ lng: -88.1100
 zipSample: ["60403", "60441"]
 zipCodes: ["60403", "60441"]
 localPaths: ["Will County / elevation 636 ft band", "Will County / primary ZIP 60403", "Will County / ZIP 60441 sector", "Will County / ZIP 60403 sector", "Will County / coords 41.5700, -88.1100"]
-zillowHomeValueUsd: 276281
 ---
 
-**Engineering Notice for Crest Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Crest Hill:** Emergency leak and drain triage uses ~145 mg/L hardness context with Will County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Crest Hill, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Crest Hill, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Permit note: Main water line replacement in Crest Hill, IL may require ROW restoration planning.
 

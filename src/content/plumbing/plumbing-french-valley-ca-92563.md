@@ -12,11 +12,14 @@ lng: -117.1100
 zipSample: ["92596", "92563"]
 zipCodes: ["92563", "92596"]
 localPaths: ["Riverside County / ZIP 92596 sector", "Riverside County / elevation 1365 ft band", "Riverside County / coords 33.6000, -117.1100", "Riverside County / primary ZIP 92563", "Riverside County / ZIP 92563 sector"]
-zillowHomeValueUsd: 693258
 ---
 
-**Engineering Notice for French Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for French Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Riverside County.
 
+
+When a main line backs up in French Valley, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving French Valley, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -48,7 +51,7 @@ Irrigation cross-connections in French Valley, CA can back-siphon domestic lines
 
 Fixture roster 884892: toilet flange spacer kit and shower cartridge seat score queued for French Valley, CA walk-through.
 
-plumbing brief: backflow test cock orientation and PRV outlet curve were cross-checked for the French Valley intake packet.
+Plumbing remediation brief: backflow test cock orientation and PRV outlet curve were cross-checked for the French Valley pipe and leak scope.
 
 On-site sector marker: Riverside County / coords 33.6000, -117.1100 — logged for map parity and ZIP-corridor verification.
 

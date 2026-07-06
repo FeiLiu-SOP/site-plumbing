@@ -12,11 +12,14 @@ lng: -97.9200
 zipSample: ["73534", "73055", "73533"]
 zipCodes: ["73533", "73055", "73534"]
 localPaths: ["Stephens County / primary ZIP 73533", "Stephens County / coords 34.5400, -97.9200", "Stephens County / ZIP 73534 sector", "Stephens County / ZIP 73533 sector", "Stephens County / ZIP 73055 sector"]
-zillowHomeValueUsd: 134999
 ---
 
-**Engineering Notice for Duncan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Stephens County.
+**Engineering Notice for Duncan:** Emergency leak and drain triage uses ~169 mg/L hardness context with Stephens County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Duncan, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Stephens County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Duncan, OK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -42,13 +45,11 @@ Risk flag: In Duncan, OK, slab leaks can misroute as foundation issues without l
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Dispatch packets reference county grid Stephens County near ZIP 73533.
+Our Duncan, OK service packets reference Stephens County near ZIP 73533 for pipe and leak scope.
 
 Hard water in Duncan, OK accelerates scale on PRV seats and heater elements.
 
 Pressure trace 484146: meter-pit clearance and dielectric union checklist staged for Duncan, OK near elevation 1171 ft.
-
-plumbing brief: jetter nozzle envelope and sump float travel were cross-checked for the Duncan intake packet.
 
 Regional mesh label Stephens County: moisture and logistics baselines are keyed to Duncan, OK before niche-specific work begins.
 

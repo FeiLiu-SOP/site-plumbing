@@ -12,11 +12,14 @@ lng: -121.2900
 zipSample: ["95242", "95240"]
 zipCodes: ["95240", "95242"]
 localPaths: ["San Joaquin County / ZIP 95240 sector", "San Joaquin County / elevation 39 ft band", "San Joaquin County / primary ZIP 95240", "San Joaquin County / coords 38.1200, -121.2900", "San Joaquin County / ZIP 95242 sector"]
-zillowHomeValueUsd: 472429
 ---
 
-**Engineering Notice for Lodi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Lodi:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Joaquin County.
 
+
+Plumbing service in Lodi, CA, San Joaquin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Lodi, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

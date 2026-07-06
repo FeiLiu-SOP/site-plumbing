@@ -12,11 +12,14 @@ lng: -120.8400
 zipSample: ["93635"]
 zipCodes: ["93635"]
 localPaths: ["Merced County / coords 37.0600, -120.8400", "Merced County / elevation 118 ft band", "Merced County / primary ZIP 93635", "Merced County / ZIP 93635 sector"]
-zillowHomeValueUsd: 462288
 ---
 
-**Engineering Notice for Los Banos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Merced County.
+**Engineering Notice for Los Banos:** Emergency leak and drain triage uses ~145 mg/L hardness context with Merced County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Los Banos, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Los Banos, CA, Merced County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -40,13 +43,11 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate Los Banos, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Los Banos, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Fixture roster 145893: toilet flange spacer kit and shower cartridge seat score queued for Los Banos, CA walk-through.
 
 Flow dossier 145893: branch wet-vent geometry and jetting nozzle envelope logged for Los Banos, CA county grid Merced County (ZIP 93635).
-
-Field routing: scale coupon sampling paired with hose bib freeze flag near ZIP 93635.
 
 Regional mesh label Merced County: moisture and logistics baselines are keyed to Los Banos, CA before niche-specific work begins.
 

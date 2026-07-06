@@ -12,11 +12,14 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / coords 36.1400, -120.3200", "Fresno County / primary ZIP 93210", "Fresno County / ZIP 93210 sector", "Fresno County / elevation 623 ft band"]
-zillowHomeValueUsd: 293589
 ---
 
-**Engineering Notice for Coalinga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
+**Engineering Notice for Coalinga:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fresno County.
 
+
+Certified plumbing crews serving Coalinga, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Coalinga, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fresno County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 

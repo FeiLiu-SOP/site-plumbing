@@ -12,11 +12,14 @@ lng: -94.9700
 zipSample: ["77522", "77523", "77521", "77520"]
 zipCodes: ["77522", "77521", "77520", "77523"]
 localPaths: ["Harris County / coords 29.7600, -94.9700", "Harris County / ZIP 77522 sector", "Harris County / elevation 26 ft band", "Harris County / ZIP 77520 sector", "Harris County / ZIP 77523 sector"]
-zillowHomeValueUsd: 172942
 ---
 
-**Engineering Notice for Baytown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for Baytown:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Harris County).
 
+
+Plumbing restoration in Baytown, TX, Harris County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Baytown, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Trenchless sleeve pulls near Baytown, TX require pit shoring notes when water tables are high.
 
@@ -34,7 +37,7 @@ Expansion tank pre-charge loss in Baytown, TX often tracks heater replacement de
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Frost-free sillcock failures in Baytown, TX often trace to interior shutoff seats, not exterior stems.
 
@@ -45,8 +48,6 @@ In Baytown, TX, slab leaks often present as warm spots before wall stains appear
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Pressure trace 160781: meter-pit clearance and dielectric union checklist staged for Baytown, TX near elevation 26 ft.
-
-plumbing brief: water heater T&P path and toilet flange spacer kit were cross-checked for the Baytown intake packet.
 
 On-site sector marker: Harris County / primary ZIP 77520 — logged for map parity and ZIP-corridor verification.
 

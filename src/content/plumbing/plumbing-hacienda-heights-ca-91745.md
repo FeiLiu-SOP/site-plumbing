@@ -12,11 +12,14 @@ lng: -117.9700
 zipSample: ["91745", "91716"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / elevation 423 ft band"]
-zillowHomeValueUsd: 962693
 ---
 
-**Engineering Notice for Hacienda Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Hacienda Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Qualified plumbing crews serving Hacienda Heights, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Hacienda Heights, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -45,8 +48,6 @@ Step: map sump float travel and check-valve orientation for Hacienda Heights, CA
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Pressure trace 515105: meter-pit clearance and dielectric union checklist staged for Hacienda Heights, CA near elevation 423 ft.
-
-Scope trace: sump float travel plus water softener bypass lever referenced in Los Angeles County county grid review.
 
 On-site sector marker: Los Angeles County / ZIP 91716 sector — logged for map parity and ZIP-corridor verification.
 

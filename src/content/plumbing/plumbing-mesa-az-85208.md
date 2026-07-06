@@ -12,11 +12,14 @@ lng: -111.7200
 zipSample: ["85213", "85274", "85212", "85206", "85216"]
 zipCodes: ["85274", "85206", "85213", "85208", "85215", "85202", "85211", "85214", "85203", "85201", "85277", "85216"]
 localPaths: ["Maricopa County / ZIP 85212 sector", "Maricopa County / ZIP 85216 sector", "Maricopa County / coords 33.4000, -111.7200", "Maricopa County / elevation 1319 ft band", "Maricopa County / ZIP 85213 sector"]
-zillowHomeValueUsd: 379584
 ---
 
-**Engineering Notice for Mesa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Mesa:** Emergency leak and drain triage uses ~117 mg/L hardness context with Maricopa County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Mesa, AZ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Maricopa County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Mesa, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Maricopa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Dual-water-meter setups in Mesa, AZ irrigation zones need backflow logs before line replacement.
 
@@ -43,8 +46,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Trenchless sleeve pulls near Mesa, AZ require pit shoring notes when water tables are high.
 
 Flow dossier 800020: branch wet-vent geometry and jetting nozzle envelope logged for Mesa, AZ county grid Maricopa County (ZIP 85208).
-
-plumbing brief: sump float travel and PEX expansion ring batch were cross-checked for the Mesa intake packet.
 
 On-site sector marker: Maricopa County / ZIP 85277 sector — logged for map parity and ZIP-corridor verification.
 

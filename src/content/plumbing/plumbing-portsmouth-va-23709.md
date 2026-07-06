@@ -12,11 +12,14 @@ lng: -76.3500
 zipSample: ["23707", "23703", "23705", "23708", "23701"]
 zipCodes: ["23702", "23709", "23701", "23708", "23704", "23703", "23707", "23705"]
 localPaths: ["Portsmouth County / coords 36.8500, -76.3500", "Portsmouth County / ZIP 23708 sector", "Portsmouth County / ZIP 23701 sector", "Portsmouth County / ZIP 23705 sector", "Portsmouth County / ZIP 23707 sector"]
-zillowHomeValueUsd: 315695
 ---
 
-**Engineering Notice for Portsmouth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Portsmouth County.
+**Engineering Notice for Portsmouth:** Supply line, cleanout, and water heater scope recorded at 0 ft elevation context (Portsmouth County).
 
+
+Burst pipe and drain clog calls in Portsmouth, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Portsmouth County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Portsmouth, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Portsmouth, VA.
 
@@ -48,7 +51,7 @@ Supply audit 257745: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Fixture roster 257745: toilet flange spacer kit and shower cartridge seat score queued for Portsmouth, VA walk-through.
 
-Field routing: water heater T&P path paired with hose bib freeze flag near ZIP 23709.
+Local service note: water heater T&P path paired with hose bib freeze flag near ZIP 23709 for emergency plumbing pro repairs.
 
 On-site sector marker: Portsmouth County / ZIP 23703 sector — logged for map parity and ZIP-corridor verification.
 

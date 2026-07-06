@@ -12,11 +12,14 @@ lng: -73.7200
 zipSample: ["11598", "11516", "11581"]
 zipCodes: ["11598", "11516", "11581"]
 localPaths: ["Nassau County / primary ZIP 11516", "Nassau County / ZIP 11598 sector", "Nassau County / ZIP 11581 sector", "Nassau County / elevation 3 ft band", "Nassau County / coords 40.6400, -73.7200"]
-zillowHomeValueUsd: 1210482
 ---
 
-**Engineering Notice for Woodmere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Woodmere:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Nassau County.
 
+
+When a main line backs up in Woodmere, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Woodmere, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Woodmere, NY slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Drain map 636259: camera-pass priority and expansion-tank pre-charge noted for Woodmere, NY postal sector 11516.
 
 Fixture roster 636259: toilet flange spacer kit and shower cartridge seat score queued for Woodmere, NY walk-through.
-
-Scope trace: hose bib freeze flag plus cleanout riser height referenced in Nassau County county grid review.
 
 On-site sector marker: Nassau County / coords 40.6400, -73.7200 — logged for map parity and ZIP-corridor verification.
 

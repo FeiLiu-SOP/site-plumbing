@@ -12,11 +12,14 @@ lng: -92.9500
 zipSample: ["55746"]
 zipCodes: ["55746"]
 localPaths: ["St. Louis County / elevation 1512 ft band", "St. Louis County / primary ZIP 55746", "St. Louis County / ZIP 55746 sector", "St. Louis County / coords 47.4000, -92.9500"]
-zillowHomeValueUsd: 154210
 ---
 
-**Engineering Notice for Hibbing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hibbing:** Supply line, cleanout, and water heater scope recorded at 1512 ft elevation context (St. Louis County).
 
+
+Emergency plumbing pro service in Hibbing, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in St. Louis County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Hibbing, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,8 +50,6 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 55746.
 
 Pressure trace 769343: meter-pit clearance and dielectric union checklist staged for Hibbing, MN near elevation 1512 ft.
-
-plumbing brief: jetter nozzle envelope and slab leak listening window were cross-checked for the Hibbing intake packet.
 
 Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Hibbing, MN before niche-specific work begins.
 

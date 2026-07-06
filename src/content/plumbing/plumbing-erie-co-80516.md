@@ -12,11 +12,14 @@ lng: -105.0400
 zipSample: ["80516"]
 zipCodes: ["80516"]
 localPaths: ["Weld County / primary ZIP 80516", "Weld County / coords 40.0400, -105.0400", "Weld County / elevation 5056 ft band", "Weld County / ZIP 80516 sector"]
-zillowHomeValueUsd: 714119
 ---
 
-**Engineering Notice for Erie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
+**Engineering Notice for Erie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Weld County.
 
+
+Burst pipe and drain clog calls in Erie, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weld County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Erie, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Weld County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 In Erie, CO, slab leaks often present as warm spots before wall stains appear.
 
@@ -45,6 +48,8 @@ CPVC solvent weld times shift with ambient humidity during Erie, CO shoulder sea
 Flow dossier 185108: branch wet-vent geometry and jetting nozzle envelope logged for Erie, CO county grid Weld County (ZIP 80516).
 
 Supply audit 185108: curb-stop orientation and hose-bib freeze flag reviewed for Erie, CO at coords 40.0400/-105.0400.
+
+Scope trace: PEX expansion ring batch plus gas water heater draft hood gap referenced in Weld County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 40.0400, -105.0400 at elevation ~5056 ft aligns with Weld County intake staging.
 

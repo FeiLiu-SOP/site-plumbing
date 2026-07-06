@@ -12,11 +12,14 @@ lng: -122.6000
 zipSample: ["98664", "98683", "98660", "98665", "98662"]
 zipCodes: ["98662", "98683", "98687", "98661", "98684", "98664", "98660", "98663", "98682", "98665"]
 localPaths: ["Clark County / ZIP 98665 sector", "Clark County / coords 45.6400, -122.6000", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98684", "Clark County / ZIP 98683 sector"]
-zillowHomeValueUsd: 491646
 ---
 
-**Engineering Notice for Vancouver:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Vancouver:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Clark County.
 
+
+When a main line backs up in Vancouver, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving Vancouver, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -28,7 +31,7 @@ Polybutylene manifold tags in Vancouver, WA basements should be photographed bef
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Vancouver, WA.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -46,7 +49,7 @@ Lineage note 278126: recirculation pump amp draw captured before Vancouver, WA b
 
 Pressure trace 278126: meter-pit clearance and dielectric union checklist staged for Vancouver, WA near elevation 180 ft.
 
-plumbing brief: slab penetration sleeve seal and copper pinhole cluster were cross-checked for the Vancouver intake packet.
+Plumbing restoration brief: slab penetration sleeve seal and copper pinhole cluster were cross-checked for the Vancouver pipe and leak scope.
 
 Primary postal anchor 98684 with multi-ZIP overlap in Vancouver; field packets tag Clark County for county-grid reconciliation.
 

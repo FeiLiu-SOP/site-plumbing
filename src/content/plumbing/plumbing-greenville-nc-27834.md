@@ -12,11 +12,14 @@ lng: -77.3800
 zipSample: ["27836", "27833", "27858", "28590", "27835"]
 zipCodes: ["27834", "27836", "27858", "27835", "28590", "27833"]
 localPaths: ["Pitt County / coords 35.5900, -77.3800", "Pitt County / ZIP 28590 sector", "Pitt County / primary ZIP 27834", "Pitt County / elevation 59 ft band", "Pitt County / ZIP 27858 sector"]
-zillowHomeValueUsd: 211166
 ---
 
-**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pitt County.
+**Engineering Notice for Greenville:** Emergency leak and drain triage uses ~118 mg/L hardness context with Pitt County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Greenville, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Greenville, NC, Pitt County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Greenville, NC, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -32,7 +35,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Irrigation cross-connections in Greenville, NC can back-siphon domestic lines during main breaks.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -44,7 +47,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Supply audit 545307: curb-stop orientation and hose-bib freeze flag reviewed for Greenville, NC at coords 35.5900/-77.3800.
 
-Field routing: slab penetration sleeve seal paired with jetter nozzle envelope near ZIP 27834.
+Local service note: slab penetration sleeve seal paired with jetter nozzle envelope near ZIP 27834 for emergency plumbing technician repairs.
 
 ZIP-corridor snapshot for Greenville, NC: sampled sectors include 27836, 28590, 27835, 27858, 27834, 27833; county routing grid remains Pitt County.
 

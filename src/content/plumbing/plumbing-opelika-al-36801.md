@@ -12,11 +12,14 @@ lng: -85.3800
 zipSample: ["36801", "36803", "36804"]
 zipCodes: ["36804", "36803", "36801"]
 localPaths: ["Lee County / ZIP 36804 sector", "Lee County / primary ZIP 36801", "Lee County / ZIP 36803 sector", "Lee County / ZIP 36801 sector", "Lee County / coords 32.6600, -85.3800"]
-zillowHomeValueUsd: 294164
 ---
 
-**Engineering Notice for Opelika:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Opelika:** Emergency leak and drain triage uses ~164 mg/L hardness context with Lee County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing technician service in Opelika, AL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Lee County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in Opelika, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Frost-free sillcock failures in Opelika, AL often trace to interior shutoff seats, not exterior stems.
 
@@ -32,7 +35,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Step: map sump float travel and check-valve orientation for Opelika, AL basements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Sump discharge freeze risk in Opelika, AL should be reviewed before spring thaw cycles.
 
@@ -50,7 +53,7 @@ Fixture roster 954551: toilet flange spacer kit and shower cartridge seat score 
 
 Lineage note 954551: recirculation pump amp draw captured before Opelika, AL branch isolation.
 
-Scope trace: fixture shutoff torque log plus slab penetration sleeve seal referenced in Lee County county grid review.
+Scope trace: fixture shutoff torque log plus slab penetration sleeve seal referenced in Lee County drain and water line review.
 
 On-site sector marker: Lee County / coords 32.6600, -85.3800 — logged for map parity and ZIP-corridor verification.
 

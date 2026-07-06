@@ -12,11 +12,14 @@ lng: -76.6300
 zipSample: ["21030", "21031", "21065"]
 zipCodes: ["21065", "21030", "21031"]
 localPaths: ["Baltimore County / ZIP 21030 sector", "Baltimore County / primary ZIP 21031", "Baltimore County / elevation 574 ft band", "Baltimore County / ZIP 21065 sector", "Baltimore County / ZIP 21031 sector"]
-zillowHomeValueUsd: 469191
 ---
 
-**Engineering Notice for Cockeysville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Cockeysville:** Emergency leak and drain triage uses ~125 mg/L hardness context with Baltimore County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Cockeysville, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Cockeysville, MD, Baltimore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

@@ -12,11 +12,14 @@ lng: -121.9300
 zipSample: ["93950"]
 zipCodes: ["93950"]
 localPaths: ["Monterey County / coords 36.6200, -121.9300", "Monterey County / elevation 167 ft band", "Monterey County / ZIP 93950 sector", "Monterey County / primary ZIP 93950"]
-zillowHomeValueUsd: 1403949
 ---
 
-**Engineering Notice for Pacific Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monterey County.
+**Engineering Notice for Pacific Grove:** Supply line, cleanout, and water heater scope recorded at 167 ft elevation context (Monterey County).
 
+
+Qualified plumbing crews serving Pacific Grove, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Pacific Grove, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Monterey County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,8 +50,6 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 93950.
 
 Lineage note 120054: recirculation pump amp draw captured before Pacific Grove, CA branch isolation.
-
-Field routing: cleanout riser height paired with recirculation pump amp draw near ZIP 93950.
 
 ZIP-corridor snapshot for Pacific Grove, CA: sampled sectors include 93950; county routing grid remains Monterey County.
 

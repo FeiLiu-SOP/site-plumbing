@@ -12,13 +12,16 @@ lng: -83.0300
 zipSample: ["48091", "48089", "48092", "48397", "48088"]
 zipCodes: ["48093", "48088", "48089", "48397", "48092", "48091"]
 localPaths: ["Macomb County / ZIP 48089 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / ZIP 48092 sector", "Macomb County / ZIP 48091 sector", "Macomb County / ZIP 48397 sector"]
-zillowHomeValueUsd: 241903
 ---
 
-**Engineering Notice for Warren:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
+**Engineering Notice for Warren:** Supply line, cleanout, and water heater scope recorded at 623 ft elevation context (Macomb County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Emergency licensed plumber service in Warren, MI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Macomb County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing service in Warren, MI, Macomb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

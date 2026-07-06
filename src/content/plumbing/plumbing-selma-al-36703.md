@@ -12,11 +12,14 @@ lng: -87.0300
 zipSample: ["36703", "36701", "36702"]
 zipCodes: ["36703", "36702", "36701"]
 localPaths: ["Dallas County / primary ZIP 36703", "Dallas County / ZIP 36702 sector", "Dallas County / ZIP 36703 sector", "Dallas County / coords 32.4200, -87.0300", "Dallas County / ZIP 36701 sector"]
-zillowHomeValueUsd: 62476
 ---
 
-**Engineering Notice for Selma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Selma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dallas County.
 
+
+Burst pipe and drain clog calls in Selma, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Selma, AL, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Selma, AL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -44,7 +47,7 @@ FAQ: When is cabling enough? In Selma, AL, pipe material and blockage type dicta
 
 Supply audit 274456: curb-stop orientation and hose-bib freeze flag reviewed for Selma, AL at coords 32.4200/-87.0300.
 
-plumbing brief: branch wet vent geometry and sewer cleanout cap thread were cross-checked for the Selma intake packet.
+Plumbing restoration brief: branch wet vent geometry and sewer cleanout cap thread were cross-checked for the Selma pipe and leak scope.
 
 ZIP-corridor snapshot for Selma, AL: sampled sectors include 36702, 36701, 36703; county routing grid remains Dallas County.
 

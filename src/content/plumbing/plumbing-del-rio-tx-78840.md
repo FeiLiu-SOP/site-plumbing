@@ -12,11 +12,14 @@ lng: -100.8800
 zipSample: ["78847", "78840"]
 zipCodes: ["78840", "78847"]
 localPaths: ["Val Verde County / elevation 984 ft band", "Val Verde County / ZIP 78847 sector", "Val Verde County / ZIP 78840 sector", "Val Verde County / primary ZIP 78840", "Val Verde County / coords 29.3700, -100.8800"]
-zillowHomeValueUsd: 209798
 ---
 
-**Engineering Notice for Del Rio:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Val Verde County.
+**Engineering Notice for Del Rio:** Supply line, cleanout, and water heater scope recorded at 984 ft elevation context (Val Verde County).
 
+
+Licensed plumbing crews serving Del Rio, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Del Rio, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Polybutylene manifold tags in Del Rio, TX basements should be photographed before any wall chase opens.
 
@@ -47,8 +50,6 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Supply audit 606052: curb-stop orientation and hose-bib freeze flag reviewed for Del Rio, TX at coords 29.3700/-100.8800.
 
 Drain map 606052: camera-pass priority and expansion-tank pre-charge noted for Del Rio, TX postal sector 78840.
-
-Scope trace: backflow test cock orientation plus meter pit clearance referenced in Val Verde County county grid review.
 
 On-site sector marker: Val Verde County / elevation 984 ft band — logged for map parity and ZIP-corridor verification.
 

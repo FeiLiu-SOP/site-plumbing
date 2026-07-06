@@ -12,11 +12,14 @@ lng: -92.9600
 zipSample: ["55128"]
 zipCodes: ["55128"]
 localPaths: ["Washington County / coords 44.9900, -92.9600", "Washington County / ZIP 55128 sector", "Washington County / elevation 1056 ft band", "Washington County / primary ZIP 55128"]
-zillowHomeValueUsd: 353754
 ---
 
-**Engineering Notice for Oakdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Oakdale:** Supply line, cleanout, and water heater scope recorded at 1056 ft elevation context (Washington County).
 
+
+Burst pipe and drain clog calls in Oakdale, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Washington County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Oakdale, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless pulls in Oakdale, MN require pit dimensions verified against utility locate marks.
 
@@ -47,8 +50,6 @@ Polybutylene manifold tags in Oakdale, MN basements should be photographed befor
 Pressure trace 936886: meter-pit clearance and dielectric union checklist staged for Oakdale, MN near elevation 1056 ft.
 
 Intake ledger 936886: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oakdale, MN at 44.9900, -92.9600.
-
-Scope trace: slab leak listening window plus water heater T&P path referenced in Washington County county grid review.
 
 On-site sector marker: Washington County / ZIP 55128 sector — logged for map parity and ZIP-corridor verification.
 

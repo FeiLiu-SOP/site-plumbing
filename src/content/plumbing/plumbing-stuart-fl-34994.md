@@ -12,11 +12,14 @@ lng: -80.2400
 zipSample: ["34957", "34994", "34996"]
 zipCodes: ["34994", "34996", "34957"]
 localPaths: ["Martin County / ZIP 34996 sector", "Martin County / ZIP 34957 sector", "Martin County / coords 27.2000, -80.2400", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band"]
-zillowHomeValueUsd: 237222
 ---
 
-**Engineering Notice for Stuart:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Martin County.
+**Engineering Notice for Stuart:** Supply line, cleanout, and water heater scope recorded at 23 ft elevation context (Martin County).
 
+
+Burst pipe and drain clog calls in Stuart, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Martin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency certified plumber service in Stuart, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Martin County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless sleeve pulls near Stuart, FL require pit shoring notes when water tables are high.
 

@@ -12,11 +12,14 @@ lng: -81.8500
 zipSample: ["33917", "33903", "33918"]
 zipCodes: ["33903", "33918", "33917"]
 localPaths: ["Lee County / ZIP 33918 sector", "Lee County / ZIP 33903 sector", "Lee County / ZIP 33917 sector", "Lee County / primary ZIP 33917", "Lee County / coords 26.7200, -81.8500"]
-zillowHomeValueUsd: 291528
 ---
 
-**Engineering Notice for North Fort Myers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for North Fort Myers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lee County.
 
+
+Burst pipe and drain clog calls in North Fort Myers, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lee County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving North Fort Myers, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Water heater T&P discharge paths in North Fort Myers, FL must terminate safely before replacement quotes.
 
@@ -24,7 +27,7 @@ Fixture shutoff stiffness in North Fort Myers, FL may indicate mineral bridging 
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during North Fort Myers, FL shoulder seasons.
 
@@ -43,6 +46,8 @@ Irrigation cross-connections in North Fort Myers, FL can back-siphon domestic li
 Risk flag: Seasonal North Fort Myers, FL irrigation cross-connections can mask domestic pressure loss.
 
 Drain map 634516: camera-pass priority and expansion-tank pre-charge noted for North Fort Myers, FL postal sector 33917.
+
+Plumbing restoration brief: branch wet vent geometry and sump float travel were cross-checked for the North Fort Myers pipe and leak scope.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Lee County and primary ZIP 33917. Terrain reference: 39 ft. Center point: 26.7200, -81.8500. ZIP sample: 33918, 33903, 33917. Logistics priority: Serving residential sectors across Lee County and north-east ZIP 33917 grid.
 

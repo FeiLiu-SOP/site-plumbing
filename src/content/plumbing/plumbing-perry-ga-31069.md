@@ -12,11 +12,14 @@ lng: -83.7300
 zipSample: ["31069"]
 zipCodes: ["31069"]
 localPaths: ["Houston County / coords 32.4700, -83.7300", "Houston County / ZIP 31069 sector", "Houston County / primary ZIP 31069", "Houston County / elevation 394 ft band"]
-zillowHomeValueUsd: 273980
 ---
 
-**Engineering Notice for Perry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Houston County.
+**Engineering Notice for Perry:** Emergency leak and drain triage uses ~144 mg/L hardness context with Houston County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Perry, GA, Houston County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Perry, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 FAQ: When should sump battery backups be load-tested? In Perry, GA, before spring thaw and hurricane remnants.
 
@@ -32,7 +35,7 @@ Hose bib split patterns in Perry, GA often follow missed winterization.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Trenchless sleeve pulls near Perry, GA require pit shoring notes when water tables are high.
 
@@ -47,8 +50,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Supply audit 851077: curb-stop orientation and hose-bib freeze flag reviewed for Perry, GA at coords 32.4700/-83.7300.
 
 Lineage note 851077: recirculation pump amp draw captured before Perry, GA branch isolation.
-
-Scope trace: toilet flange spacer kit plus thermal expansion loop check referenced in Houston County county grid review.
 
 On-site sector marker: Houston County / primary ZIP 31069 — logged for map parity and ZIP-corridor verification.
 

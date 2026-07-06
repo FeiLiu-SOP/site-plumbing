@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11784"
 county: "Suffolk County"
 elevationFt: 121
-lat: 40.8700
-lng: -73.0500
+lat: 40.8805
+lng: -73.0800
 zipSample: ["11784"]
 zipCodes: ["11784"]
-localPaths: ["Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11784", "Suffolk County / coords 40.8700, -73.0500", "Suffolk County / elevation 121 ft band"]
-zillowHomeValueUsd: 585550
+localPaths: ["Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11784", "Suffolk County / coords 40.8805, -73.0800", "Suffolk County / elevation 121 ft band"]
 ---
 
-**Engineering Notice for Selden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Selden:** Emergency leak and drain triage uses ~158 mg/L hardness context with Suffolk County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Selden, NY, Suffolk County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Selden, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -46,6 +49,8 @@ Hose bib split patterns in Selden, NY often follow missed winterization.
 
 Fixture roster 303349: toilet flange spacer kit and shower cartridge seat score queued for Selden, NY walk-through.
 
-On-site sector marker: Suffolk County / coords 40.8700, -73.0500 — logged for map parity and ZIP-corridor verification.
+Plumbing service brief: PRV outlet curve and floor drain trap primer drip were cross-checked for the Selden pipe and leak scope.
+
+On-site sector marker: Suffolk County / coords 40.8805, -73.0800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11784-3031d8ad

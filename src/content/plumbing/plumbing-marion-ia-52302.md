@@ -12,11 +12,14 @@ lng: -91.5800
 zipSample: ["52302"]
 zipCodes: ["52302"]
 localPaths: ["Linn County / primary ZIP 52302", "Linn County / elevation 840 ft band", "Linn County / ZIP 52302 sector", "Linn County / coords 42.0500, -91.5800"]
-zillowHomeValueUsd: 270288
 ---
 
-**Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
+**Engineering Notice for Marion:** Emergency leak and drain triage uses ~136 mg/L hardness context with Linn County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Marion, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Linn County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Marion, IA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -32,7 +35,7 @@ Polybutylene manifold tags in Marion, IA basements should be photographed before
 
 Hydro-jetting in Marion, IA requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -49,8 +52,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Lineage note 990448: recirculation pump amp draw captured before Marion, IA branch isolation.
 
 Intake ledger 990448: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Marion, IA at 42.0500, -91.5800.
-
-plumbing brief: gas water heater draft hood gap and PEX expansion ring batch were cross-checked for the Marion intake packet.
 
 **Regional Infrastructure Brief:** Grid anchor set to Linn County. Reference elevation: 840 ft. Primary coordinates: 42.0500, -91.5800. ZIP sample: 52302. Regional routing note: Linn County traffic flow is balanced around ZIP 52302 service demand.
 

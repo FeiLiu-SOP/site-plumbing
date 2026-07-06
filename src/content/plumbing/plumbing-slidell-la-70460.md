@@ -12,11 +12,14 @@ lng: -89.7800
 zipSample: ["70458", "70460", "70459", "70469"]
 zipCodes: ["70469", "70458", "70459", "70460"]
 localPaths: ["St. Tammany Parish / coords 30.2900, -89.7800", "St. Tammany Parish / ZIP 70469 sector", "St. Tammany Parish / ZIP 70458 sector", "St. Tammany Parish / primary ZIP 70460", "St. Tammany Parish / ZIP 70459 sector"]
-zillowHomeValueUsd: 190181
 ---
 
-**Engineering Notice for Slidell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Tammany Parish.
+**Engineering Notice for Slidell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Tammany Parish.
 
+
+Burst pipe and drain clog calls in Slidell, LA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Tammany Parish clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Slidell, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Slidell, LA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -45,8 +48,6 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Pressure trace 582239: meter-pit clearance and dielectric union checklist staged for Slidell, LA near elevation 26 ft.
-
-Scope trace: recirculation pump amp draw plus water heater T&P path referenced in St. Tammany Parish county grid review.
 
 Regional mesh label St. Tammany Parish: moisture and logistics baselines are keyed to Slidell, LA before niche-specific work begins.
 

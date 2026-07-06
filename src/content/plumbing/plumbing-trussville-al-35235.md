@@ -12,11 +12,14 @@ lng: -86.5800
 zipSample: ["35235", "35173"]
 zipCodes: ["35235", "35173"]
 localPaths: ["Jefferson County / ZIP 35235 sector", "Jefferson County / ZIP 35173 sector", "Jefferson County / coords 33.6400, -86.5800", "Jefferson County / elevation 804 ft band", "Jefferson County / primary ZIP 35235"]
-zillowHomeValueUsd: 185000
 ---
 
-**Engineering Notice for Trussville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Trussville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+Licensed plumbing crews serving Trussville, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Trussville, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Trussville, AL systems need rebalancing.
 
@@ -40,13 +43,11 @@ Cast-iron hub corrosion in Trussville, AL often concentrates at the third joint 
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Lineage note 116396: recirculation pump amp draw captured before Trussville, AL branch isolation.
-
-Scope trace: sump float travel plus meter pit clearance referenced in Jefferson County county grid review.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Jefferson County and primary ZIP 35235. Terrain reference: 804 ft. Center point: 33.6400, -86.5800. ZIP sample: 35235, 35173. Logistics priority: Serving residential sectors across Jefferson County and north-east ZIP 35235 grid.
 

@@ -12,11 +12,14 @@ lng: -105.0700
 zipSample: ["80525", "80528", "80553", "80523", "80527"]
 zipCodes: ["80524", "80523", "80525", "80553", "80527", "80521", "80526", "80528"]
 localPaths: ["Larimer County / ZIP 80527 sector", "Larimer County / coords 40.5500, -105.0700", "Larimer County / ZIP 80528 sector", "Larimer County / ZIP 80523 sector", "Larimer County / primary ZIP 80528"]
-zillowHomeValueUsd: 648752
 ---
 
-**Engineering Notice for Fort Collins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Larimer County.
+**Engineering Notice for Fort Collins:** Supply line, cleanout, and water heater scope recorded at 5007 ft elevation context (Larimer County).
 
+
+Certified plumbing crews serving Fort Collins, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Fort Collins, CO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -47,8 +50,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Intake ledger 169980: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Fort Collins, CO at 40.5500, -105.0700.
 
 Supply audit 169980: curb-stop orientation and hose-bib freeze flag reviewed for Fort Collins, CO at coords 40.5500/-105.0700.
-
-Field routing: dielectric union checklist paired with cleanout riser height near ZIP 80528.
 
 Regional mesh label Larimer County: moisture and logistics baselines are keyed to Fort Collins, CO before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -93.0800
 zipSample: ["55038", "55014"]
 zipCodes: ["55014", "55038"]
 localPaths: ["Anoka County / ZIP 55038 sector", "Anoka County / coords 45.1700, -93.0800", "Anoka County / elevation 889 ft band", "Anoka County / ZIP 55014 sector", "Anoka County / primary ZIP 55014"]
-zillowHomeValueUsd: 375771
 ---
 
-**Engineering Notice for Lino Lakes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anoka County.
+**Engineering Notice for Lino Lakes:** Emergency leak and drain triage uses ~162 mg/L hardness context with Anoka County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Lino Lakes, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Anoka County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Lino Lakes, MN, Anoka County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -46,7 +49,7 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 
 Flow dossier 820412: branch wet-vent geometry and jetting nozzle envelope logged for Lino Lakes, MN county grid Anoka County (ZIP 55014).
 
-Field routing: gas water heater draft hood gap paired with sump float travel near ZIP 55014.
+Local service note: gas water heater draft hood gap paired with sump float travel near ZIP 55014 for emergency plumbing pro repairs.
 
 On-site sector marker: Anoka County / primary ZIP 55014 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -87.1800
 zipSample: ["46368", "46403"]
 zipCodes: ["46368", "46403"]
 localPaths: ["Porter County / elevation 676 ft band", "Porter County / ZIP 46403 sector", "Porter County / ZIP 46368 sector", "Porter County / primary ZIP 46403", "Porter County / coords 41.5900, -87.1800"]
-zillowHomeValueUsd: 148344
 ---
 
-**Engineering Notice for Portage:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Porter County.
+**Engineering Notice for Portage:** Supply line, cleanout, and water heater scope recorded at 676 ft elevation context (Porter County).
 
+
+Licensed plumbing crews serving Portage, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Portage, IN, Porter County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -43,6 +46,8 @@ Risk flag: Seasonal Portage, IN irrigation cross-connections can mask domestic p
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
 Pressure trace 568871: meter-pit clearance and dielectric union checklist staged for Portage, IN near elevation 676 ft.
+
+Plumbing service brief: meter pit clearance and branch wet vent geometry were cross-checked for the Portage pipe and leak scope.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~676 ft across the Porter County area. Coordinates: 41.5900, -87.1800. ZIP sample: 46403, 46368. Logistics priority: Serving residential sectors across Porter County and north-east ZIP 46403 grid.
 

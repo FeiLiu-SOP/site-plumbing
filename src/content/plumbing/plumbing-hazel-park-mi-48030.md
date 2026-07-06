@@ -12,13 +12,16 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / ZIP 48030 sector", "Oakland County / coords 42.4600, -83.1000", "Oakland County / elevation 640 ft band", "Oakland County / primary ZIP 48030"]
-zillowHomeValueUsd: 155419
 ---
 
-**Engineering Notice for Hazel Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Hazel Park:** Emergency leak and drain triage uses ~123 mg/L hardness context with Oakland County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Oakland County near ZIP 48030.
+Licensed plumbing crews serving Hazel Park, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Hazel Park, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Our Hazel Park, MI service packets reference Oakland County near ZIP 48030 for pipe and leak scope.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -47,8 +50,6 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 48030.
 
 Pressure trace 652985: meter-pit clearance and dielectric union checklist staged for Hazel Park, MI near elevation 640 ft.
-
-Field routing: jetter nozzle envelope paired with scale coupon sampling near ZIP 48030.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Oakland County. Reference elevation: 640 ft. Primary coordinates: 42.4600, -83.1000. ZIP sample: 48030. Regional routing note: Oakland County traffic flow is balanced around ZIP 48030 service demand.
 

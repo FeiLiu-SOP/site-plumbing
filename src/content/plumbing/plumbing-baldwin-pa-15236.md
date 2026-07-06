@@ -12,11 +12,14 @@ lng: -79.9700
 zipSample: ["15236", "15227"]
 zipCodes: ["15236", "15227"]
 localPaths: ["Allegheny County / ZIP 15227 sector", "Allegheny County / ZIP 15236 sector", "Allegheny County / coords 40.3700, -79.9700", "Allegheny County / elevation 1135 ft band", "Allegheny County / primary ZIP 15236"]
-zillowHomeValueUsd: 249567
 ---
 
-**Engineering Notice for Baldwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Baldwin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Allegheny County.
 
+
+Licensed plumbing crews serving Baldwin, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Baldwin, PA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Allegheny County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Trenchless pulls in Baldwin, PA require pit dimensions verified against utility locate marks.
 
@@ -38,7 +41,7 @@ Material note: Water heater anode type may change with Baldwin, PA hardness prof
 
 FAQ: Is hydro-jetting always appropriate? In Baldwin, PA, pipe material and blockage type dictate method.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -50,7 +53,7 @@ Drain map 706675: camera-pass priority and expansion-tank pre-charge noted for B
 
 Supply audit 706675: curb-stop orientation and hose-bib freeze flag reviewed for Baldwin, PA at coords 40.3700/-79.9700.
 
-Scope trace: water softener bypass lever plus jetter nozzle envelope referenced in Allegheny County county grid review.
+Scope trace: water softener bypass lever plus jetter nozzle envelope referenced in Allegheny County drain and water line review.
 
 On-site sector marker: Allegheny County / ZIP 15236 sector — logged for map parity and ZIP-corridor verification.
 

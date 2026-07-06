@@ -12,11 +12,14 @@ lng: -75.5400
 zipSample: ["19890", "19809", "19896", "19899", "19895"]
 zipCodes: ["19880", "19898", "19885", "19895", "19899", "19886", "19896", "19805", "19884", "19801", "19802", "19894"]
 localPaths: ["New Castle County / ZIP 19890 sector", "New Castle County / ZIP 19809 sector", "New Castle County / ZIP 19899 sector", "New Castle County / primary ZIP 19802", "New Castle County / elevation 36 ft band"]
-zillowHomeValueUsd: 201409
 ---
 
-**Engineering Notice for Wilmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: New Castle County.
+**Engineering Notice for Wilmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in New Castle County.
 
+
+Licensed plumbing crews serving Wilmington, DE review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Wilmington, DE, New Castle County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Wilmington, DE.
 
@@ -24,7 +27,7 @@ Cleanout access limits in Wilmington, DE frequently extend drain cleaning durati
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 19802.
 
@@ -45,8 +48,6 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Pressure trace 676813: meter-pit clearance and dielectric union checklist staged for Wilmington, DE near elevation 36 ft.
 
 Intake ledger 676813: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Wilmington, DE at 39.7400, -75.5400.
-
-Field routing: jetter nozzle envelope paired with slab leak listening window near ZIP 19802.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~36 ft across the New Castle County area. Coordinates: 39.7400, -75.5400. ZIP sample: 19805, 19894, 19896, 19809, 19898. Regional routing note: New Castle County traffic flow is balanced around ZIP 19802 service demand.
 

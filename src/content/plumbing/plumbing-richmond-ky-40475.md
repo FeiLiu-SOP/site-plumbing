@@ -12,11 +12,14 @@ lng: -84.2900
 zipSample: ["40475", "40476"]
 zipCodes: ["40476", "40475"]
 localPaths: ["Madison County / elevation 1004 ft band", "Madison County / ZIP 40475 sector", "Madison County / coords 37.7300, -84.2900", "Madison County / primary ZIP 40475", "Madison County / ZIP 40476 sector"]
-zillowHomeValueUsd: 297076
 ---
 
-**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Madison County.
 
+
+Burst pipe and drain clog calls in Richmond, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Madison County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Richmond, KY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -43,8 +46,6 @@ Cast-iron hub corrosion in Richmond, KY often concentrates at the third joint up
 CPVC solvent weld times shift with ambient humidity during Richmond, KY shoulder seasons.
 
 Pressure trace 663278: meter-pit clearance and dielectric union checklist staged for Richmond, KY near elevation 1004 ft.
-
-plumbing brief: backflow test cock orientation and hose bib freeze flag were cross-checked for the Richmond intake packet.
 
 On-site sector marker: Madison County / ZIP 40476 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / elevation 16 ft band", "Middlesex County / ZIP 07008 sector"]
-zillowHomeValueUsd: 548074
 ---
 
-**Engineering Notice for Carteret:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Carteret:** Supply line, cleanout, and water heater scope recorded at 16 ft elevation context (Middlesex County).
 
+
+Emergency plumbing technician service in Carteret, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Middlesex County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing remediation in Carteret, NJ, Middlesex County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

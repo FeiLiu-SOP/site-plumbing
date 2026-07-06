@@ -12,13 +12,16 @@ lng: -122.0500
 zipSample: ["98029", "98027"]
 zipCodes: ["98029", "98027"]
 localPaths: ["King County / ZIP 98029 sector", "King County / elevation 62 ft band", "King County / coords 47.5400, -122.0500", "King County / primary ZIP 98029", "King County / ZIP 98027 sector"]
-zillowHomeValueUsd: 1195270
 ---
 
-**Engineering Notice for Issaquah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Issaquah:** Emergency leak and drain triage uses ~112 mg/L hardness context with King County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Issaquah, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Issaquah, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with Issaquah, WA hardness profiles.
 
@@ -26,7 +29,7 @@ FAQ: When should sump battery backups be load-tested? In Issaquah, WA, before sp
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 98029.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Trenchless sleeve pulls near Issaquah, WA require pit shoring notes when water tables are high.
 
@@ -38,7 +41,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate Issaquah, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Issaquah, WA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

@@ -12,11 +12,14 @@ lng: -73.8300
 zipSample: ["10553", "10550", "10551", "10552"]
 zipCodes: ["10553", "10552", "10550", "10551"]
 localPaths: ["Westchester County / ZIP 10552 sector", "Westchester County / elevation 148 ft band", "Westchester County / ZIP 10553 sector", "Westchester County / ZIP 10550 sector", "Westchester County / coords 40.9100, -73.8300"]
-zillowHomeValueUsd: 534700
 ---
 
-**Engineering Notice for Mount Vernon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Westchester County.
+**Engineering Notice for Mount Vernon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Westchester County.
 
+
+Plumbing restoration in Mount Vernon, NY, Westchester County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Mount Vernon, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Galvanized segments in Mount Vernon, NY may restrict flow long before visible corrosion.
 
@@ -36,7 +39,7 @@ Step: photograph curb-stop and meter pit before trenching.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We coordinate Mount Vernon, NY plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Mount Vernon, NY plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -49,6 +52,8 @@ In Mount Vernon, NY, slab leaks often present as warm spots before wall stains a
 Lineage note 905297: recirculation pump amp draw captured before Mount Vernon, NY branch isolation.
 
 Fixture roster 905297: toilet flange spacer kit and shower cartridge seat score queued for Mount Vernon, NY walk-through.
+
+Local service note: floor drain trap primer drip paired with water softener bypass lever near ZIP 10552 for emergency plumbing pro repairs.
 
 On-site sector marker: Westchester County / elevation 148 ft band — logged for map parity and ZIP-corridor verification.
 

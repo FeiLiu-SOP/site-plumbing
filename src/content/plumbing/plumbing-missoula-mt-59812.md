@@ -12,11 +12,14 @@ lng: -114.0200
 zipSample: ["59812", "59802", "59803", "59808", "59801"]
 zipCodes: ["59802", "59808", "59801", "59812", "59803"]
 localPaths: ["Missoula County / ZIP 59801 sector", "Missoula County / primary ZIP 59812", "Missoula County / ZIP 59802 sector", "Missoula County / ZIP 59812 sector", "Missoula County / coords 46.8800, -114.0200"]
-zillowHomeValueUsd: 499203
 ---
 
-**Engineering Notice for Missoula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Missoula County.
+**Engineering Notice for Missoula:** Emergency leak and drain triage uses ~168 mg/L hardness context with Missoula County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Missoula, MT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Missoula, MT, Missoula County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Fixture shutoff stiffness in Missoula, MT may indicate mineral bridging behind stems.
 
@@ -32,7 +35,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Material note: Water heater anode type may change with Missoula, MT hardness profiles.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -46,7 +49,7 @@ Flow dossier 126134: branch wet-vent geometry and jetting nozzle envelope logged
 
 Fixture roster 126134: toilet flange spacer kit and shower cartridge seat score queued for Missoula, MT walk-through.
 
-Scope trace: copper pinhole cluster plus dielectric union checklist referenced in Missoula County county grid review.
+Scope trace: copper pinhole cluster plus dielectric union checklist referenced in Missoula County drain and water line review.
 
 On-site sector marker: Missoula County / primary ZIP 59812 — logged for map parity and ZIP-corridor verification.
 

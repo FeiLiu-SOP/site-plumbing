@@ -12,11 +12,14 @@ lng: -83.9500
 zipSample: ["37922", "37921", "37939", "37909", "37927"]
 zipCodes: ["37996", "37920", "37928", "37919", "37916", "37995", "37921", "37902", "37927", "37915", "37909", "37922"]
 localPaths: ["Knox County / primary ZIP 37909", "Knox County / ZIP 37939 sector", "Knox County / ZIP 37927 sector", "Knox County / ZIP 37909 sector", "Knox County / coords 35.9700, -83.9500"]
-zillowHomeValueUsd: 376394
 ---
 
-**Engineering Notice for Knoxville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Knox County.
+**Engineering Notice for Knoxville:** Supply line, cleanout, and water heater scope recorded at 886 ft elevation context (Knox County).
 
+
+Qualified plumbing crews serving Knoxville, TN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Knoxville, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Knox County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 FAQ: When should sump battery backups be load-tested? In Knoxville, TN, before spring thaw and hurricane remnants.
 
@@ -48,7 +51,7 @@ Supply audit 688941: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Drain map 688941: camera-pass priority and expansion-tank pre-charge noted for Knoxville, TN postal sector 37909.
 
-plumbing brief: jetter nozzle envelope and thermal expansion loop check were cross-checked for the Knoxville intake packet.
+Plumbing remediation brief: jetter nozzle envelope and thermal expansion loop check were cross-checked for the Knoxville pipe and leak scope.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Knox County. Reference elevation: 886 ft. Primary coordinates: 35.9700, -83.9500. ZIP sample: 37914, 37923, 37901, 37909, 37950. Service perimeter note: Coverage extends through Knox County with dispatch centered near ZIP 37909.
 

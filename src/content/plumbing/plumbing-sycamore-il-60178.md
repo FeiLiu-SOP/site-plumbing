@@ -12,11 +12,14 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / elevation 827 ft band", "DeKalb County / primary ZIP 60178"]
-zillowHomeValueUsd: 313310
 ---
 
-**Engineering Notice for Sycamore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Sycamore:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in DeKalb County.
 
+
+Plumbing service in Sycamore, IL, DeKalb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Sycamore, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -42,7 +45,7 @@ Fixture shutoff stiffness in Sycamore, IL may indicate mineral bridging behind s
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Sycamore, IL.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Dual-water-meter setups in Sycamore, IL irrigation zones need backflow logs before line replacement.
 

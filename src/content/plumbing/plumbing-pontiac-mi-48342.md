@@ -12,11 +12,14 @@ lng: -83.2900
 zipSample: ["48343", "48055", "48340", "48341", "48342"]
 zipCodes: ["48341", "48340", "48343", "48055", "48342"]
 localPaths: ["Oakland County / primary ZIP 48342", "Oakland County / ZIP 48342 sector", "Oakland County / coords 42.6500, -83.2900", "Oakland County / elevation 974 ft band", "Oakland County / ZIP 48343 sector"]
-zillowHomeValueUsd: 127833
 ---
 
-**Engineering Notice for Pontiac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Pontiac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Oakland County.
 
+
+Plumbing remediation in Pontiac, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Pontiac, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -28,7 +31,7 @@ Galvanized segments in Pontiac, MI may restrict flow long before visible corrosi
 
 Risk flag: Seasonal Pontiac, MI irrigation cross-connections can mask domestic pressure loss.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -50,7 +53,7 @@ Intake ledger 450456: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Drain map 450456: camera-pass priority and expansion-tank pre-charge noted for Pontiac, MI postal sector 48342.
 
-plumbing brief: gas water heater draft hood gap and meter pit clearance were cross-checked for the Pontiac intake packet.
+Plumbing remediation brief: gas water heater draft hood gap and meter pit clearance were cross-checked for the Pontiac pipe and leak scope.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Oakland County. Reference elevation: 974 ft. Primary coordinates: 42.6500, -83.2900. ZIP sample: 48342, 48055, 48343, 48341, 48340. Service perimeter note: Coverage extends through Oakland County with dispatch centered near ZIP 48342.
 

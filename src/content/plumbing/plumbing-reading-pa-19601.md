@@ -12,11 +12,14 @@ lng: -75.9300
 zipSample: ["19604", "19611", "19602", "19601", "19612"]
 zipCodes: ["19604", "19612", "19602", "19601", "19611", "19603"]
 localPaths: ["Berks County / coords 40.3400, -75.9300", "Berks County / ZIP 19601 sector", "Berks County / ZIP 19604 sector", "Berks County / ZIP 19602 sector", "Berks County / elevation 272 ft band"]
-zillowHomeValueUsd: 179723
 ---
 
-**Engineering Notice for Reading:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berks County.
+**Engineering Notice for Reading:** Supply line, cleanout, and water heater scope recorded at 272 ft elevation context (Berks County).
 
+
+Burst pipe and drain clog calls in Reading, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Berks County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Reading, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Galvanized segments in Reading, PA may restrict flow long before visible corrosion.
 
@@ -32,7 +35,7 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 19601.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 19601.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 

@@ -12,11 +12,14 @@ lng: -80.3400
 zipSample: ["33023", "33029", "33025", "33027"]
 zipCodes: ["33027", "33029", "33023", "33025"]
 localPaths: ["Broward County / primary ZIP 33029", "Broward County / elevation 16 ft band", "Broward County / ZIP 33029 sector", "Broward County / ZIP 33023 sector", "Broward County / coords 25.9800, -80.3400"]
-zillowHomeValueUsd: 708657
 ---
 
-**Engineering Notice for Miramar:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broward County.
+**Engineering Notice for Miramar:** Emergency leak and drain triage uses ~145 mg/L hardness context with Broward County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Miramar, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broward County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Miramar, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Broward County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -47,8 +50,6 @@ Trenchless pulls in Miramar, FL require pit dimensions verified against utility 
 Pressure trace 165436: meter-pit clearance and dielectric union checklist staged for Miramar, FL near elevation 16 ft.
 
 Supply audit 165436: curb-stop orientation and hose-bib freeze flag reviewed for Miramar, FL at coords 25.9800/-80.3400.
-
-Field routing: jetter nozzle envelope paired with shower cartridge seat score near ZIP 33029.
 
 On-site sector marker: Broward County / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -75.1100
 zipSample: ["08102", "08104", "08101", "08103", "08105"]
 zipCodes: ["08105", "08104", "08102", "08103", "08101"]
 localPaths: ["Camden County / ZIP 08101 sector", "Camden County / ZIP 08102 sector", "Camden County / coords 39.9400, -75.1100", "Camden County / ZIP 08103 sector", "Camden County / ZIP 08105 sector"]
-zillowHomeValueUsd: 131214
 ---
 
-**Engineering Notice for Camden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
+**Engineering Notice for Camden:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Camden County).
 
+
+Certified plumbing crews serving Camden, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Camden, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Camden County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Expansion tank pre-charge loss in Camden, NJ often tracks heater replacement deferrals.
 
@@ -26,7 +29,7 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 081
 
 Stack vent offsets in Camden, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch packets reference county grid Camden County near ZIP 08104.
+Our Camden, NJ service packets reference Camden County near ZIP 08104 for pipe and leak scope.
 
 Basement floor drains in Camden, NJ should be snaked only after trap arm geometry is confirmed on camera.
 

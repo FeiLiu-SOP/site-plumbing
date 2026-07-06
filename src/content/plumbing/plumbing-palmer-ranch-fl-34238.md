@@ -12,11 +12,14 @@ lng: -82.4700
 zipSample: ["34238"]
 zipCodes: ["34238"]
 localPaths: ["Sarasota County / ZIP 34238 sector", "Sarasota County / primary ZIP 34238", "Sarasota County / coords 27.2300, -82.4700", "Sarasota County / elevation 23 ft band"]
-zillowHomeValueUsd: 501656
 ---
 
-**Engineering Notice for Palmer Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarasota County.
+**Engineering Notice for Palmer Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sarasota County.
 
+
+Certified plumbing crews serving Palmer Ranch, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Palmer Ranch, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Sarasota County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -44,7 +47,7 @@ Water heater T&P discharge paths in Palmer Ranch, FL must terminate safely befor
 
 Flow dossier 575322: branch wet-vent geometry and jetting nozzle envelope logged for Palmer Ranch, FL county grid Sarasota County (ZIP 34238).
 
-plumbing brief: slab leak listening window and fixture shutoff torque log were cross-checked for the Palmer Ranch intake packet.
+Plumbing service brief: slab leak listening window and fixture shutoff torque log were cross-checked for the Palmer Ranch pipe and leak scope.
 
 On-site sector marker: Sarasota County / ZIP 34238 sector — logged for map parity and ZIP-corridor verification.
 

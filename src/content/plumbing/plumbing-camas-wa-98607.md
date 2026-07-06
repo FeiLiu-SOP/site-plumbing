@@ -12,11 +12,14 @@ lng: -122.4300
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / coords 45.6000, -122.4300", "Clark County / ZIP 98607 sector", "Clark County / primary ZIP 98607", "Clark County / elevation 699 ft band"]
-zillowHomeValueUsd: 751833
 ---
 
-**Engineering Notice for Camas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Camas:** Emergency leak and drain triage uses ~151 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Camas, WA, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Camas, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Clark County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 CPVC solvent weld times shift with ambient humidity during Camas, WA shoulder seasons.
 
@@ -45,6 +48,8 @@ Material note: Water heater anode type may change with Camas, WA hardness profil
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 98607.
 
 Intake ledger 101736: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Camas, WA at 45.6000, -122.4300.
+
+Scope trace: slab penetration sleeve seal plus shower cartridge seat score referenced in Clark County drain and water line review.
 
 ZIP-corridor snapshot for Camas, WA: sampled sectors include 98607; county routing grid remains Clark County.
 

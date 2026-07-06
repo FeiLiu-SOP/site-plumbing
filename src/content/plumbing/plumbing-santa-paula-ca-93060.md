@@ -12,11 +12,14 @@ lng: -119.0700
 zipSample: ["93061", "93060"]
 zipCodes: ["93061", "93060"]
 localPaths: ["Ventura County / ZIP 93060 sector", "Ventura County / primary ZIP 93060", "Ventura County / ZIP 93061 sector", "Ventura County / elevation 295 ft band", "Ventura County / coords 34.3500, -119.0700"]
-zillowHomeValueUsd: 716945
 ---
 
-**Engineering Notice for Santa Paula:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ventura County.
+**Engineering Notice for Santa Paula:** Supply line, cleanout, and water heater scope recorded at 295 ft elevation context (Ventura County).
 
+
+Burst pipe and drain clog calls in Santa Paula, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ventura County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Santa Paula, CA, Ventura County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -44,13 +47,11 @@ Hydrostatic holds in Santa Paula, CA slab circuits run overnight when listening 
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-We coordinate Santa Paula, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Santa Paula, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Drain map 246993: camera-pass priority and expansion-tank pre-charge noted for Santa Paula, CA postal sector 93060.
 
 Fixture roster 246993: toilet flange spacer kit and shower cartridge seat score queued for Santa Paula, CA walk-through.
-
-Scope trace: dielectric union checklist plus toilet flange spacer kit referenced in Ventura County county grid review.
 
 On-site sector marker: Ventura County / ZIP 93060 sector — logged for map parity and ZIP-corridor verification.
 

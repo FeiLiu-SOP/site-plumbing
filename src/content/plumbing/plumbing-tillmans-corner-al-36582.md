@@ -12,11 +12,14 @@ lng: -88.2100
 zipSample: ["36619", "36582"]
 zipCodes: ["36619", "36582"]
 localPaths: ["Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / ZIP 36582 sector"]
-zillowHomeValueUsd: 203037
 ---
 
-**Engineering Notice for Tillmans Corner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mobile County.
+**Engineering Notice for Tillmans Corner:** Emergency leak and drain triage uses ~118 mg/L hardness context with Mobile County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Tillmans Corner, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Qualified plumbing crews serving Tillmans Corner, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Across Tillmans Corner, AL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -47,6 +50,8 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Lineage note 491112: recirculation pump amp draw captured before Tillmans Corner, AL branch isolation.
 
 Supply audit 491112: curb-stop orientation and hose-bib freeze flag reviewed for Tillmans Corner, AL at coords 30.5800/-88.2100.
+
+Plumbing remediation brief: meter pit clearance and hose bib freeze flag were cross-checked for the Tillmans Corner pipe and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Mobile County and primary ZIP 36582. Terrain reference: 174 ft. Center point: 30.5800, -88.2100. ZIP sample: 36619, 36582. Regional routing note: Mobile County traffic flow is balanced around ZIP 36582 service demand.
 

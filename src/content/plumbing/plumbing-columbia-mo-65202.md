@@ -12,11 +12,14 @@ lng: -92.3300
 zipSample: ["65211", "65218", "65203", "65217", "65299"]
 zipCodes: ["65299", "65211", "65216", "65218", "65202", "65215", "65217", "65203", "65201"]
 localPaths: ["Boone County / ZIP 65299 sector", "Boone County / ZIP 65211 sector", "Boone County / elevation 761 ft band", "Boone County / primary ZIP 65202", "Boone County / ZIP 65218 sector"]
-zillowHomeValueUsd: 276028
 ---
 
-**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boone County.
+**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Boone County.
 
+
+Burst pipe and drain clog calls in Columbia, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Boone County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Columbia, MO, Boone County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When should sump battery backups be load-tested? In Columbia, MO, before spring thaw and hurricane remnants.
 
@@ -48,7 +51,7 @@ Pressure trace 977446: meter-pit clearance and dielectric union checklist staged
 
 Intake ledger 977446: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Columbia, MO at 38.9500, -92.3300.
 
-plumbing brief: cleanout riser height and PRV outlet curve were cross-checked for the Columbia intake packet.
+Plumbing remediation brief: cleanout riser height and PRV outlet curve were cross-checked for the Columbia pipe and leak scope.
 
 On-site sector marker: Boone County / primary ZIP 65202 — logged for map parity and ZIP-corridor verification.
 

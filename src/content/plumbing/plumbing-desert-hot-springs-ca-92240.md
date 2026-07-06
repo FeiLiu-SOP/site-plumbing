@@ -12,17 +12,20 @@ lng: -116.5400
 zipSample: ["92282", "92240", "92258"]
 zipCodes: ["92258", "92282", "92240"]
 localPaths: ["Riverside County / ZIP 92282 sector", "Riverside County / ZIP 92258 sector", "Riverside County / ZIP 92240 sector", "Riverside County / primary ZIP 92240", "Riverside County / coords 33.9500, -116.5400"]
-zillowHomeValueUsd: 375941
 ---
 
-**Engineering Notice for Desert Hot Springs:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Desert Hot Springs:** Emergency leak and drain triage uses ~115 mg/L hardness context with Riverside County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Desert Hot Springs, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Desert Hot Springs, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Irrigation cross-connections in Desert Hot Springs, CA can back-siphon domestic lines during main breaks.
 
 Basement floor drains in Desert Hot Springs, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Expansion tank pre-charge loss in Desert Hot Springs, CA often tracks heater replacement deferrals.
 
@@ -48,7 +51,7 @@ Flow dossier 104584: branch wet-vent geometry and jetting nozzle envelope logged
 
 Supply audit 104584: curb-stop orientation and hose-bib freeze flag reviewed for Desert Hot Springs, CA at coords 33.9500/-116.5400.
 
-Scope trace: slab leak listening window plus sump float travel referenced in Riverside County county grid review.
+Scope trace: slab leak listening window plus sump float travel referenced in Riverside County drain and water line review.
 
 Primary postal anchor 92240 with multi-ZIP overlap in Desert Hot Springs; field packets tag Riverside County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -89.5300
 zipSample: ["38655", "38677"]
 zipCodes: ["38677", "38655"]
 localPaths: ["Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300", "Lafayette County / elevation 486 ft band", "Lafayette County / primary ZIP 38677", "Lafayette County / ZIP 38677 sector"]
-zillowHomeValueUsd: 413639
 ---
 
-**Engineering Notice for Oxford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~161 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafayette County.
+**Engineering Notice for Oxford:** Supply line, cleanout, and water heater scope recorded at 486 ft elevation context (Lafayette County).
 
+
+Certified plumbing crews serving Oxford, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Oxford, MS, Lafayette County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Oxford, MS basements should be photographed before any wall chase opens.
 
@@ -32,7 +35,7 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch packets reference county grid Lafayette County near ZIP 38677.
+Our Oxford, MS service packets reference Lafayette County near ZIP 38677 for pipe and leak scope.
 
 FAQ: When is cabling enough? In Oxford, MS, pipe material and blockage type dictate method.
 
@@ -45,8 +48,6 @@ CPVC solvent weld times shift with ambient humidity during Oxford, MS shoulder s
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Flow dossier 198981: branch wet-vent geometry and jetting nozzle envelope logged for Oxford, MS county grid Lafayette County (ZIP 38677).
-
-Field routing: water heater T&P path paired with water softener bypass lever near ZIP 38677.
 
 On-site sector marker: Lafayette County / primary ZIP 38677 — logged for map parity and ZIP-corridor verification.
 

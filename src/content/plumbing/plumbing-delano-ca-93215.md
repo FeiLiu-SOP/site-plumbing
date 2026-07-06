@@ -12,11 +12,14 @@ lng: -119.2600
 zipSample: ["93215"]
 zipCodes: ["93215"]
 localPaths: ["Kern County / coords 35.7700, -119.2600", "Kern County / ZIP 93215 sector", "Kern County / primary ZIP 93215", "Kern County / elevation 302 ft band"]
-zillowHomeValueUsd: 335375
 ---
 
-**Engineering Notice for Delano:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kern County.
+**Engineering Notice for Delano:** Supply line, cleanout, and water heater scope recorded at 302 ft elevation context (Kern County).
 
+
+Licensed plumbing crews serving Delano, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Delano, CA, Kern County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Sump discharge freeze risk in Delano, CA should be reviewed before spring thaw cycles.
 

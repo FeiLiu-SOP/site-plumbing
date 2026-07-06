@@ -12,11 +12,14 @@ lng: -80.7100
 zipSample: ["28105", "28106"]
 zipCodes: ["28105", "28106"]
 localPaths: ["Mecklenburg County / coords 35.1200, -80.7100", "Mecklenburg County / elevation 745 ft band", "Mecklenburg County / ZIP 28105 sector", "Mecklenburg County / ZIP 28106 sector", "Mecklenburg County / primary ZIP 28105"]
-zillowHomeValueUsd: 490617
 ---
 
-**Engineering Notice for Matthews:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Matthews:** Emergency leak and drain triage uses ~123 mg/L hardness context with Mecklenburg County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Matthews, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Emergency plumbing pro service in Matthews, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Mecklenburg County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -34,7 +37,7 @@ Cleanout access limits in Matthews, NC frequently extend drain cleaning duration
 
 Basement floor drains in Matthews, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate Matthews, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Matthews, NC plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: When should sump battery backups be load-tested? In Matthews, NC, before spring thaw and hurricane remnants.
 
@@ -49,6 +52,8 @@ FAQ: Is hydro-jetting always appropriate? In Matthews, NC, pipe material and blo
 Intake ledger 595019: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Matthews, NC at 35.1200, -80.7100.
 
 Supply audit 595019: curb-stop orientation and hose-bib freeze flag reviewed for Matthews, NC at coords 35.1200/-80.7100.
+
+Local service note: gas water heater draft hood gap paired with water heater T&P path near ZIP 28105 for emergency plumbing technician repairs.
 
 Primary postal anchor 28105 with multi-ZIP overlap in Matthews; field packets tag Mecklenburg County for county-grid reconciliation.
 

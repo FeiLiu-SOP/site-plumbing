@@ -12,11 +12,14 @@ lng: -104.9200
 zipSample: ["80550", "80551"]
 zipCodes: ["80551", "80550"]
 localPaths: ["Weld County / primary ZIP 80550", "Weld County / coords 40.4700, -104.9200", "Weld County / elevation 4777 ft band", "Weld County / ZIP 80550 sector", "Weld County / ZIP 80551 sector"]
-zillowHomeValueUsd: 547336
 ---
 
-**Engineering Notice for Windsor:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
+**Engineering Notice for Windsor:** Emergency leak and drain triage uses ~125 mg/L hardness context with Weld County service-area notes for pipe and fixture repairs.
 
+
+Emergency licensed plumber service in Windsor, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Weld County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Licensed plumbing crews serving Windsor, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -49,6 +52,8 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 Intake ledger 804777: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Windsor, CO at 40.4700, -104.9200.
 
 Lineage note 804777: recirculation pump amp draw captured before Windsor, CO branch isolation.
+
+Scope trace: meter pit clearance plus scale coupon sampling referenced in Weld County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 40.4700, -104.9200 at elevation ~4777 ft aligns with Weld County intake staging.
 

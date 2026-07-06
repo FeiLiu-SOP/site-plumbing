@@ -12,11 +12,14 @@ lng: -104.7200
 zipSample: ["81007"]
 zipCodes: ["81007"]
 localPaths: ["Pueblo County / primary ZIP 81007", "Pueblo County / coords 38.3500, -104.7200", "Pueblo County / elevation 5059 ft band", "Pueblo County / ZIP 81007 sector"]
-zillowHomeValueUsd: 394659
 ---
 
-**Engineering Notice for Pueblo West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pueblo County.
+**Engineering Notice for Pueblo West:** Supply line, cleanout, and water heater scope recorded at 5059 ft elevation context (Pueblo County).
 
+
+Emergency plumbing pro service in Pueblo West, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pueblo County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Pueblo West, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pueblo County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in Pueblo West, CO should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -48,7 +51,7 @@ Risk flag: Seasonal Pueblo West, CO irrigation cross-connections can mask domest
 
 Flow dossier 547636: branch wet-vent geometry and jetting nozzle envelope logged for Pueblo West, CO county grid Pueblo County (ZIP 81007).
 
-Scope trace: water heater T&P path plus copper pinhole cluster referenced in Pueblo County county grid review.
+Scope trace: water heater T&P path plus copper pinhole cluster referenced in Pueblo County drain and water line review.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Pueblo County. Reference elevation: 5059 ft. Primary coordinates: 38.3500, -104.7200. ZIP sample: 81007. Logistics priority: Serving residential sectors across Pueblo County and north-east ZIP 81007 grid.
 

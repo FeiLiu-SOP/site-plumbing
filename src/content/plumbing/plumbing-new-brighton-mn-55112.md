@@ -12,11 +12,14 @@ lng: -93.2100
 zipSample: ["55112"]
 zipCodes: ["55112"]
 localPaths: ["Ramsey County / ZIP 55112 sector", "Ramsey County / coords 45.0700, -93.2100", "Ramsey County / primary ZIP 55112", "Ramsey County / elevation 869 ft band"]
-zillowHomeValueUsd: 377320
 ---
 
-**Engineering Notice for New Brighton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ramsey County.
+**Engineering Notice for New Brighton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ramsey County.
 
+
+Plumbing restoration in New Brighton, MN, Ramsey County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving New Brighton, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -44,13 +47,13 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch packets reference county grid Ramsey County near ZIP 55112.
+Our New Brighton, MN service packets reference Ramsey County near ZIP 55112 for pipe and leak scope.
 
 Drain map 372904: camera-pass priority and expansion-tank pre-charge noted for New Brighton, MN postal sector 55112.
 
 Lineage note 372904: recirculation pump amp draw captured before New Brighton, MN branch isolation.
 
-Field routing: floor drain trap primer drip paired with jetter nozzle envelope near ZIP 55112.
+Local service note: floor drain trap primer drip paired with jetter nozzle envelope near ZIP 55112 for emergency plumbing technician repairs.
 
 On-site sector marker: Ramsey County / ZIP 55112 sector — logged for map parity and ZIP-corridor verification.
 

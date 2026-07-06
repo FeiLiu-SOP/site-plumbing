@@ -12,13 +12,16 @@ lng: -84.5600
 zipSample: ["48929", "48937", "48909", "48922", "48919"]
 zipCodes: ["48924", "48937", "48919", "48901", "48929", "48906", "48922", "48951", "48956", "48910", "48915", "48912"]
 localPaths: ["Ingham County / primary ZIP 48912", "Ingham County / ZIP 48929 sector", "Ingham County / ZIP 48937 sector", "Ingham County / ZIP 48922 sector", "Ingham County / ZIP 48909 sector"]
-zillowHomeValueUsd: 136541
 ---
 
-**Engineering Notice for Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.
+**Engineering Notice for Lansing:** Emergency leak and drain triage uses ~143 mg/L hardness context with Ingham County service-area notes for pipe and fixture repairs.
 
 
-Step: log PRV inlet and outlet readings during intake.
+Plumbing service in Lansing, MI, Ingham County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Lansing, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lansing, MI.
 
@@ -47,8 +50,6 @@ In Lansing, MI, slab leaks often present as warm spots before wall stains appear
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Intake ledger 604216: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lansing, MI at 42.7100, -84.5600.
-
-Scope trace: floor drain trap primer drip plus slab penetration sleeve seal referenced in Ingham County county grid review.
 
 Coordinate-anchored dispatch note: center reference 42.7100, -84.5600 at elevation ~863 ft aligns with Ingham County intake staging.
 

@@ -12,11 +12,14 @@ lng: -76.9700
 zipSample: ["20745", "20744"]
 zipCodes: ["20744", "20745"]
 localPaths: ["Prince George's County / elevation 75 ft band", "Prince George's County / ZIP 20745 sector", "Prince George's County / coords 38.7900, -76.9700", "Prince George's County / ZIP 20744 sector", "Prince George's County / primary ZIP 20744"]
-zillowHomeValueUsd: 448944
 ---
 
-**Engineering Notice for Oxon Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Oxon Hill:** Supply line, cleanout, and water heater scope recorded at 75 ft elevation context (Prince George's County).
 
+
+Plumbing remediation in Oxon Hill, MD, Prince George's County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Oxon Hill, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -28,13 +31,13 @@ In Oxon Hill, MD, slab leaks often present as warm spots before wall stains appe
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Oxon Hill, MD systems need rebalancing.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch packets reference county grid Prince George's County near ZIP 20744.
+Our Oxon Hill, MD service packets reference Prince George's County near ZIP 20744 for pipe and leak scope.
 
 Permit note: Main water line replacement in Oxon Hill, MD may require ROW restoration planning.
 
@@ -45,8 +48,6 @@ Frost-free sillcock failures in Oxon Hill, MD often trace to interior shutoff se
 Fixture roster 871330: toilet flange spacer kit and shower cartridge seat score queued for Oxon Hill, MD walk-through.
 
 Intake ledger 871330: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oxon Hill, MD at 38.7900, -76.9700.
-
-Scope trace: slab leak listening window plus sewer cleanout cap thread referenced in Prince George's County county grid review.
 
 On-site sector marker: Prince George's County / ZIP 20744 sector — logged for map parity and ZIP-corridor verification.
 

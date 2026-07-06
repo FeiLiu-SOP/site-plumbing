@@ -12,17 +12,20 @@ lng: -86.8700
 zipSample: ["46360", "46361"]
 zipCodes: ["46361", "46360"]
 localPaths: ["LaPorte County / ZIP 46360 sector", "LaPorte County / primary ZIP 46360", "LaPorte County / coords 41.7100, -86.8700", "LaPorte County / ZIP 46361 sector", "LaPorte County / elevation 643 ft band"]
-zillowHomeValueUsd: 229456
 ---
 
-**Engineering Notice for Michigan City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: LaPorte County.
+**Engineering Notice for Michigan City:** Emergency leak and drain triage uses ~160 mg/L hardness context with LaPorte County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Michigan City, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in LaPorte County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Michigan City, IN, LaPorte County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Trenchless sleeve pulls near Michigan City, IN require pit shoring notes when water tables are high.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal Michigan City, IN irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,8 +48,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Fixture roster 565051: toilet flange spacer kit and shower cartridge seat score queued for Michigan City, IN walk-through.
 
 Pressure trace 565051: meter-pit clearance and dielectric union checklist staged for Michigan City, IN near elevation 643 ft.
-
-Scope trace: backflow test cock orientation plus water softener bypass lever referenced in LaPorte County county grid review.
 
 Regional mesh label LaPorte County: moisture and logistics baselines are keyed to Michigan City, IN before niche-specific work begins.
 

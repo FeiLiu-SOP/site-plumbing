@@ -12,11 +12,14 @@ lng: -111.4200
 zipSample: ["85132"]
 zipCodes: ["85132"]
 localPaths: ["Pinal County / elevation 1526 ft band", "Pinal County / primary ZIP 85132", "Pinal County / coords 33.0600, -111.4200", "Pinal County / ZIP 85132 sector"]
-zillowHomeValueUsd: 334116
 ---
 
-**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinal County.
+**Engineering Notice for Florence:** Supply line, cleanout, and water heater scope recorded at 1526 ft elevation context (Pinal County).
 
+
+Plumbing service in Florence, AZ, Pinal County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Florence, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 In Florence, AZ, slab leaks often present as warm spots before wall stains appear.
 
@@ -43,8 +46,6 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Drain map 636159: camera-pass priority and expansion-tank pre-charge noted for Florence, AZ postal sector 85132.
-
-Scope trace: meter pit clearance plus floor drain trap primer drip referenced in Pinal County county grid review.
 
 ZIP-corridor snapshot for Florence, AZ: sampled sectors include 85132; county routing grid remains Pinal County.
 

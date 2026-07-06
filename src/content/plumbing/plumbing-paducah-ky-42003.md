@@ -12,11 +12,14 @@ lng: -88.6400
 zipSample: ["42001", "42003", "42002"]
 zipCodes: ["42002", "42001", "42003"]
 localPaths: ["McCracken County / primary ZIP 42003", "McCracken County / elevation 387 ft band", "McCracken County / ZIP 42003 sector", "McCracken County / ZIP 42001 sector", "McCracken County / coords 37.0700, -88.6400"]
-zillowHomeValueUsd: 161233
 ---
 
-**Engineering Notice for Paducah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McCracken County.
+**Engineering Notice for Paducah:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in McCracken County.
 
+
+Plumbing service in Paducah, KY, McCracken County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Paducah, KY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in McCracken County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Cast-iron hub corrosion in Paducah, KY often concentrates at the third joint upstream of the cleanout.
 
@@ -47,8 +50,6 @@ Basement floor drains in Paducah, KY should be snaked only after trap arm geomet
 Pressure trace 774947: meter-pit clearance and dielectric union checklist staged for Paducah, KY near elevation 387 ft.
 
 Supply audit 774947: curb-stop orientation and hose-bib freeze flag reviewed for Paducah, KY at coords 37.0700/-88.6400.
-
-Scope trace: backflow test cock orientation plus scale coupon sampling referenced in McCracken County county grid review.
 
 On-site sector marker: McCracken County / elevation 387 ft band — logged for map parity and ZIP-corridor verification.
 

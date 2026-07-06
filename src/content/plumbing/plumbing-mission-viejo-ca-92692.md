@@ -12,11 +12,14 @@ lng: -117.6600
 zipSample: ["92691", "92690", "92692"]
 zipCodes: ["92691", "92692", "92690"]
 localPaths: ["Orange County / ZIP 92690 sector", "Orange County / coords 33.6100, -117.6600", "Orange County / primary ZIP 92692", "Orange County / elevation 577 ft band", "Orange County / ZIP 92691 sector"]
-zillowHomeValueUsd: 1226915
 ---
 
-**Engineering Notice for Mission Viejo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Mission Viejo:** Supply line, cleanout, and water heater scope recorded at 577 ft elevation context (Orange County).
 
+
+Emergency plumbing pro service in Mission Viejo, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Mission Viejo, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -26,7 +29,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Risk flag: In Mission Viejo, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -43,6 +46,8 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Lineage note 963268: recirculation pump amp draw captured before Mission Viejo, CA branch isolation.
+
+Local service note: water softener bypass lever paired with backflow test cock orientation near ZIP 92692 for emergency plumbing technician repairs.
 
 On-site sector marker: Orange County / ZIP 92692 sector — logged for map parity and ZIP-corridor verification.
 

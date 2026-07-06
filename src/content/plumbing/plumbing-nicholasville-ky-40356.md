@@ -12,11 +12,14 @@ lng: -84.5700
 zipSample: ["40340", "40356"]
 zipCodes: ["40356", "40340"]
 localPaths: ["Jessamine County / primary ZIP 40356", "Jessamine County / ZIP 40340 sector", "Jessamine County / coords 37.8900, -84.5700", "Jessamine County / elevation 994 ft band", "Jessamine County / ZIP 40356 sector"]
-zillowHomeValueUsd: 320092
 ---
 
-**Engineering Notice for Nicholasville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jessamine County.
+**Engineering Notice for Nicholasville:** Supply line, cleanout, and water heater scope recorded at 994 ft elevation context (Jessamine County).
 
+
+Plumbing remediation in Nicholasville, KY, Jessamine County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Nicholasville, KY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Jessamine County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Nicholasville, KY can back-siphon domestic lines
 Intake ledger 154935: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Nicholasville, KY at 37.8900, -84.5700.
 
 Lineage note 154935: recirculation pump amp draw captured before Nicholasville, KY branch isolation.
-
-Field routing: meter pit clearance paired with PRV outlet curve near ZIP 40356.
 
 On-site sector marker: Jessamine County / elevation 994 ft band — logged for map parity and ZIP-corridor verification.
 

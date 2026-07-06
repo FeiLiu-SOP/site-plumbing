@@ -12,17 +12,20 @@ lng: -117.7700
 zipSample: ["92604", "92603", "92602", "92619", "92618"]
 zipCodes: ["92618", "92650", "92616", "92612", "92614", "92602", "92606", "92604", "92620", "92698", "92603", "92617"]
 localPaths: ["Orange County / ZIP 92603 sector", "Orange County / ZIP 92619 sector", "Orange County / elevation 148 ft band", "Orange County / ZIP 92618 sector", "Orange County / coords 33.6800, -117.7700"]
-zillowHomeValueUsd: 836961
 ---
 
-**Engineering Notice for Irvine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Irvine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
 
-Dispatch packets reference county grid Orange County near ZIP 92617.
+Certified plumbing crews serving Irvine, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Irvine, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Our Irvine, CA service packets reference Orange County near ZIP 92617 for pipe and leak scope.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Branch wet vents in Irvine, CA can mask gurgling as a main-line issue.
 
@@ -50,7 +53,7 @@ Lineage note 926040: recirculation pump amp draw captured before Irvine, CA bran
 
 Supply audit 926040: curb-stop orientation and hose-bib freeze flag reviewed for Irvine, CA at coords 33.6800/-117.7700.
 
-Field routing: water heater T&P path paired with cleanout riser height near ZIP 92617.
+Local service note: water heater T&P path paired with cleanout riser height near ZIP 92617 for emergency licensed plumber repairs.
 
 Primary postal anchor 92617 with multi-ZIP overlap in Irvine; field packets tag Orange County for county-grid reconciliation.
 

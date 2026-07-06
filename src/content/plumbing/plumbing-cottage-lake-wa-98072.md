@@ -12,11 +12,14 @@ lng: -122.0800
 zipSample: ["98072", "98077"]
 zipCodes: ["98077", "98072"]
 localPaths: ["King County / coords 47.7500, -122.0800", "King County / ZIP 98072 sector", "King County / elevation 328 ft band", "King County / primary ZIP 98072", "King County / ZIP 98077 sector"]
-zillowHomeValueUsd: 1319441
 ---
 
-**Engineering Notice for Cottage Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Cottage Lake:** Supply line, cleanout, and water heater scope recorded at 328 ft elevation context (King County).
 
+
+Plumbing remediation in Cottage Lake, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Cottage Lake, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -32,7 +35,7 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 Risk flag: In Cottage Lake, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Frost-free sillcock failures in Cottage Lake, WA often trace to interior shutoff seats, not exterior stems.
 
@@ -47,6 +50,8 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Step: map sump float travel and check-valve orientation for Cottage Lake, WA basements.
 
 Fixture roster 926013: toilet flange spacer kit and shower cartridge seat score queued for Cottage Lake, WA walk-through.
+
+Scope trace: shower cartridge seat score plus cleanout riser height referenced in King County drain and water line review.
 
 ZIP-corridor snapshot for Cottage Lake, WA: sampled sectors include 98077, 98072; county routing grid remains King County.
 

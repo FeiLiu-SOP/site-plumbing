@@ -12,11 +12,14 @@ lng: -83.1600
 zipSample: ["48309", "48306", "48307"]
 zipCodes: ["48307", "48306", "48309"]
 localPaths: ["Oakland County / ZIP 48306 sector", "Oakland County / primary ZIP 48306", "Oakland County / coords 42.6600, -83.1600", "Oakland County / ZIP 48307 sector", "Oakland County / ZIP 48309 sector"]
-zillowHomeValueUsd: 589504
 ---
 
-**Engineering Notice for Rochester Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Rochester Hills:** Supply line, cleanout, and water heater scope recorded at 784 ft elevation context (Oakland County).
 
+
+Licensed plumbing crews serving Rochester Hills, MI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Rochester Hills, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Cast-iron hub corrosion in Rochester Hills, MI often concentrates at the third joint upstream of the cleanout.
 

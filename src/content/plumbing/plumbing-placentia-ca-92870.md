@@ -12,11 +12,14 @@ lng: -117.8600
 zipSample: ["92870", "92811", "92871"]
 zipCodes: ["92811", "92870", "92871"]
 localPaths: ["Orange County / coords 33.8800, -117.8600", "Orange County / elevation 289 ft band", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92871 sector", "Orange County / primary ZIP 92870"]
-zillowHomeValueUsd: 1115887
 ---
 
-**Engineering Notice for Placentia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Placentia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Plumbing restoration in Placentia, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Placentia, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Placentia, CA may require ROW restoration planning.
 
@@ -42,7 +45,7 @@ Sewer gas odors in Placentia, CA should trigger trap seal and vent path review.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch packets reference county grid Orange County near ZIP 92870.
+Our Placentia, CA service packets reference Orange County near ZIP 92870 for pipe and leak scope.
 
 Across Placentia, CA, main-line bellies can trap debris even when fixtures drain normally.
 

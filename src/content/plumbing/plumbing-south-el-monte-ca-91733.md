@@ -12,11 +12,14 @@ lng: -118.0500
 zipSample: ["91733"]
 zipCodes: ["91733"]
 localPaths: ["Los Angeles County / elevation 246 ft band", "Los Angeles County / ZIP 91733 sector", "Los Angeles County / primary ZIP 91733", "Los Angeles County / coords 34.0500, -118.0500"]
-zillowHomeValueUsd: 761004
 ---
 
-**Engineering Notice for South El Monte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South El Monte:** Emergency leak and drain triage uses ~148 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in South El Monte, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in South El Monte, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -45,8 +48,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Intake ledger 377705: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South El Monte, CA at 34.0500, -118.0500.
 
 Drain map 377705: camera-pass priority and expansion-tank pre-charge noted for South El Monte, CA postal sector 91733.
-
-plumbing brief: hose bib freeze flag and slab penetration sleeve seal were cross-checked for the South El Monte intake packet.
 
 On-site sector marker: Los Angeles County / ZIP 91733 sector — logged for map parity and ZIP-corridor verification.
 

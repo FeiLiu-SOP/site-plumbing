@@ -12,11 +12,14 @@ lng: -113.3500
 zipSample: ["84737"]
 zipCodes: ["84737"]
 localPaths: ["Washington County / primary ZIP 84737", "Washington County / ZIP 84737 sector", "Washington County / elevation 3264 ft band", "Washington County / coords 37.1500, -113.3500"]
-zillowHomeValueUsd: 514696
 ---
 
-**Engineering Notice for Hurricane:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Hurricane:** Emergency leak and drain triage uses ~155 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Hurricane, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Hurricane, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -40,7 +43,7 @@ Hose bib split patterns in Hurricane, UT often follow missed winterization.
 
 Permit note: Main water line replacement in Hurricane, UT may require ROW restoration planning.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 614636: recirculation pump amp draw captured before Hurricane, UT branch isolation.
 

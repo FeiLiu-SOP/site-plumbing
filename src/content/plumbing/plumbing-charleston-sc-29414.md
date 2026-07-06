@@ -12,11 +12,14 @@ lng: -79.9700
 zipSample: ["29403", "29455", "29409", "29402", "29417"]
 zipCodes: ["29417", "29403", "29422", "29457", "29455", "29425", "29407", "29409", "29414", "29424", "29405", "29492"]
 localPaths: ["Charleston County / primary ZIP 29414", "Charleston County / elevation 0 ft band", "Charleston County / ZIP 29455 sector", "Charleston County / ZIP 29402 sector", "Charleston County / coords 32.8200, -79.9700"]
-zillowHomeValueUsd: 471667
 ---
 
-**Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charleston County.
+**Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Charleston County.
 
+
+When a main line backs up in Charleston, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Charleston, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Charleston County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Charleston, SC slab circuits run overnight when listening mics show ambiguous hits.
 

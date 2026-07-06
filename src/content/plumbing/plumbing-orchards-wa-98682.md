@@ -12,11 +12,14 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / coords 45.6900, -122.5300", "Clark County / ZIP 98682 sector", "Clark County / elevation 279 ft band"]
-zillowHomeValueUsd: 502138
 ---
 
-**Engineering Notice for Orchards:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clark County.
+**Engineering Notice for Orchards:** Emergency leak and drain triage uses ~111 mg/L hardness context with Clark County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Orchards, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Orchards, WA, Clark County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -34,7 +37,7 @@ FAQ: When should sump battery backups be load-tested? In Orchards, WA, before sp
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch packets reference county grid Clark County near ZIP 98682.
+Our Orchards, WA service packets reference Clark County near ZIP 98682 for pipe and leak scope.
 
 Cast-iron hub corrosion in Orchards, WA often concentrates at the third joint upstream of the cleanout.
 
@@ -47,6 +50,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Frost-free sillcock failures in Orchards, WA often trace to interior shutoff seats, not exterior stems.
 
 Supply audit 917947: curb-stop orientation and hose-bib freeze flag reviewed for Orchards, WA at coords 45.6900/-122.5300.
+
+Plumbing remediation brief: PEX expansion ring batch and slab penetration sleeve seal were cross-checked for the Orchards pipe and leak scope.
 
 On-site sector marker: Clark County / ZIP 98682 sector — logged for map parity and ZIP-corridor verification.
 

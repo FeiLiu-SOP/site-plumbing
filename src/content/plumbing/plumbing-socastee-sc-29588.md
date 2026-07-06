@@ -12,15 +12,18 @@ lng: -79.0100
 zipSample: ["29588"]
 zipCodes: ["29588"]
 localPaths: ["Horry County / coords 33.6900, -79.0100", "Horry County / elevation 33 ft band", "Horry County / primary ZIP 29588", "Horry County / ZIP 29588 sector"]
-zillowHomeValueUsd: 320348
 ---
 
-**Engineering Notice for Socastee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.
+**Engineering Notice for Socastee:** Emergency leak and drain triage uses ~180 mg/L hardness context with Horry County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Socastee, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Horry County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Socastee, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Sump discharge freeze risk in Socastee, SC should be reviewed before spring thaw cycles.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hard water in Socastee, SC accelerates scale on PRV seats and heater elements.
 
@@ -43,8 +46,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 In Socastee, SC, slab leaks often present as warm spots before wall stains appear.
 
 Flow dossier 395820: branch wet-vent geometry and jetting nozzle envelope logged for Socastee, SC county grid Horry County (ZIP 29588).
-
-Field routing: backflow test cock orientation paired with PRV outlet curve near ZIP 29588.
 
 Regional mesh label Horry County: moisture and logistics baselines are keyed to Socastee, SC before niche-specific work begins.
 

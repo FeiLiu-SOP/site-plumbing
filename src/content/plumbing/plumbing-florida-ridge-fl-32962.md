@@ -12,11 +12,14 @@ lng: -80.3800
 zipSample: ["32962"]
 zipCodes: ["32962"]
 localPaths: ["Indian River County / elevation 39 ft band", "Indian River County / primary ZIP 32962", "Indian River County / ZIP 32962 sector", "Indian River County / coords 27.5800, -80.3800"]
-zillowHomeValueUsd: 258875
 ---
 
-**Engineering Notice for Florida Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Indian River County.
+**Engineering Notice for Florida Ridge:** Emergency leak and drain triage uses ~150 mg/L hardness context with Indian River County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Florida Ridge, FL, Indian River County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Florida Ridge, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

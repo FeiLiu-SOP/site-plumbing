@@ -12,11 +12,14 @@ lng: -122.2000
 zipSample: ["98082", "98012"]
 zipCodes: ["98012", "98082"]
 localPaths: ["Snohomish County / coords 47.8600, -122.2000", "Snohomish County / ZIP 98012 sector", "Snohomish County / elevation 433 ft band", "Snohomish County / ZIP 98082 sector", "Snohomish County / primary ZIP 98012"]
-zillowHomeValueUsd: 999083
 ---
 
-**Engineering Notice for Mill Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mill Creek:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Snohomish County.
 
+
+Plumbing service in Mill Creek, WA, Snohomish County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Mill Creek, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Snohomish County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -43,8 +46,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Basement floor drains in Mill Creek, WA should be snaked only after trap arm geometry is confirmed on camera.
 
 Lineage note 463000: recirculation pump amp draw captured before Mill Creek, WA branch isolation.
-
-Scope trace: sump float travel plus PEX expansion ring batch referenced in Snohomish County county grid review.
 
 On-site sector marker: Snohomish County / ZIP 98012 sector — logged for map parity and ZIP-corridor verification.
 

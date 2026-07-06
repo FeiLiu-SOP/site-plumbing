@@ -12,13 +12,16 @@ lng: -81.8300
 zipSample: ["33994", "33905", "33907", "33966", "33901"]
 zipCodes: ["33994", "33905", "33916", "33902", "33966", "33907", "33913", "33901"]
 localPaths: ["Lee County / coords 26.6200, -81.8300", "Lee County / ZIP 33905 sector", "Lee County / ZIP 33994 sector", "Lee County / primary ZIP 33913", "Lee County / ZIP 33907 sector"]
-zillowHomeValueUsd: 444975
 ---
 
-**Engineering Notice for Fort Myers:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Fort Myers:** Emergency leak and drain triage uses ~167 mg/L hardness context with Lee County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing service in Fort Myers, FL, Lee County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Fort Myers, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Across Fort Myers, FL, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -48,7 +51,7 @@ FAQ: When should sump battery backups be load-tested? In Fort Myers, FL, before 
 
 Flow dossier 867138: branch wet-vent geometry and jetting nozzle envelope logged for Fort Myers, FL county grid Lee County (ZIP 33913).
 
-Field routing: thermal expansion loop check paired with sewer cleanout cap thread near ZIP 33913.
+Local service note: thermal expansion loop check paired with sewer cleanout cap thread near ZIP 33913 for emergency certified plumber repairs.
 
 On-site sector marker: Lee County / ZIP 33905 sector — logged for map parity and ZIP-corridor verification.
 

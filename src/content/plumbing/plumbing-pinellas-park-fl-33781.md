@@ -12,11 +12,14 @@ lng: -82.7100
 zipSample: ["33780", "33760", "33781", "33782", "33762"]
 zipCodes: ["33781", "33773", "33760", "33780", "33782", "33762"]
 localPaths: ["Pinellas County / ZIP 33781 sector", "Pinellas County / ZIP 33782 sector", "Pinellas County / elevation 26 ft band", "Pinellas County / coords 27.8600, -82.7100", "Pinellas County / ZIP 33762 sector"]
-zillowHomeValueUsd: 300960
 ---
 
-**Engineering Notice for Pinellas Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Pinellas Park:** Emergency leak and drain triage uses ~178 mg/L hardness context with Pinellas County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Pinellas Park, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pinellas County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Pinellas Park, FL, Pinellas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

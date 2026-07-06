@@ -12,11 +12,14 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / elevation 568 ft band", "Orange County / primary ZIP 10940", "Orange County / coords 41.4500, -74.4200", "Orange County / ZIP 10940 sector"]
-zillowHomeValueUsd: 390365
 ---
 
-**Engineering Notice for Middletown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Middletown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Plumbing remediation in Middletown, NY, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Middletown, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Orange County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 CPVC solvent weld times shift with ambient humidity during Middletown, NY shoulder seasons.
 
@@ -44,7 +47,7 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Supply audit 521176: curb-stop orientation and hose-bib freeze flag reviewed for Middletown, NY at coords 41.4500/-74.4200.
 
-plumbing brief: branch wet vent geometry and copper pinhole cluster were cross-checked for the Middletown intake packet.
+Plumbing remediation brief: branch wet vent geometry and copper pinhole cluster were cross-checked for the Middletown pipe and leak scope.
 
 On-site sector marker: Orange County / elevation 568 ft band — logged for map parity and ZIP-corridor verification.
 

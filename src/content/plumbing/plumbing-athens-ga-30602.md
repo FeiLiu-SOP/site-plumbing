@@ -12,11 +12,14 @@ lng: -83.3700
 zipSample: ["30603", "30683", "30606", "30609", "30602"]
 zipCodes: ["30605", "30609", "30608", "30601", "30622", "30606", "30683", "30603", "30602", "30607"]
 localPaths: ["Clarke County / elevation 640 ft band", "Clarke County / ZIP 30606 sector", "Clarke County / ZIP 30683 sector", "Clarke County / ZIP 30603 sector", "Clarke County / ZIP 30602 sector"]
-zillowHomeValueUsd: 369250
 ---
 
-**Engineering Notice for Athens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Clarke County.
+**Engineering Notice for Athens:** Supply line, cleanout, and water heater scope recorded at 640 ft elevation context (Clarke County).
 
+
+Plumbing service in Athens, GA, Clarke County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Athens, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -47,8 +50,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 Flow dossier 699837: branch wet-vent geometry and jetting nozzle envelope logged for Athens, GA county grid Clarke County (ZIP 30602).
 
 Lineage note 699837: recirculation pump amp draw captured before Athens, GA branch isolation.
-
-Scope trace: meter pit clearance plus PEX expansion ring batch referenced in Clarke County county grid review.
 
 Regional mesh label Clarke County: moisture and logistics baselines are keyed to Athens, GA before niche-specific work begins.
 

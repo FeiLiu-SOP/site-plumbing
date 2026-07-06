@@ -12,11 +12,14 @@ lng: -97.0700
 zipSample: ["74601", "74602", "74604"]
 zipCodes: ["74601", "74602", "74604"]
 localPaths: ["Kay County / elevation 1040 ft band", "Kay County / primary ZIP 74601", "Kay County / ZIP 74601 sector", "Kay County / ZIP 74602 sector", "Kay County / coords 36.7200, -97.0700"]
-zillowHomeValueUsd: 86935
 ---
 
-**Engineering Notice for Ponca City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kay County.
+**Engineering Notice for Ponca City:** Supply line, cleanout, and water heater scope recorded at 1040 ft elevation context (Kay County).
 
+
+Licensed plumbing crews serving Ponca City, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Ponca City, OK, Kay County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Across Ponca City, OK, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -47,8 +50,6 @@ Expansion tank pre-charge loss in Ponca City, OK often tracks heater replacement
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Flow dossier 809877: branch wet-vent geometry and jetting nozzle envelope logged for Ponca City, OK county grid Kay County (ZIP 74601).
-
-Field routing: fixture shutoff torque log paired with cleanout riser height near ZIP 74601.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~1040 ft across the Kay County area. Coordinates: 36.7200, -97.0700. ZIP sample: 74604, 74602, 74601. Logistics priority: Serving residential sectors across Kay County and north-east ZIP 74601 grid.
 

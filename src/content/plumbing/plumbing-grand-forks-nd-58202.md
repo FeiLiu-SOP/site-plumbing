@@ -12,11 +12,14 @@ lng: -97.0900
 zipSample: ["58201", "58203", "58202", "58208", "58206"]
 zipCodes: ["58202", "58206", "58201", "58208", "58203"]
 localPaths: ["Grand Forks County / ZIP 58208 sector", "Grand Forks County / ZIP 58203 sector", "Grand Forks County / ZIP 58202 sector", "Grand Forks County / coords 47.9200, -97.0900", "Grand Forks County / ZIP 58206 sector"]
-zillowHomeValueUsd: 316237
 ---
 
-**Engineering Notice for Grand Forks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Grand Forks County.
+**Engineering Notice for Grand Forks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Grand Forks County.
 
+
+Plumbing service in Grand Forks, ND, Grand Forks County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Grand Forks, ND, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 58202.
 
@@ -38,15 +41,13 @@ Expansion tank pre-charge loss in Grand Forks, ND often tracks heater replacemen
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Grand Forks, ND hardness profiles.
 
 Lineage note 988396: recirculation pump amp draw captured before Grand Forks, ND branch isolation.
 
 Intake ledger 988396: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Grand Forks, ND at 47.9200, -97.0900.
-
-plumbing brief: scale coupon sampling and fixture shutoff torque log were cross-checked for the Grand Forks intake packet.
 
 On-site sector marker: Grand Forks County / ZIP 58201 sector — logged for map parity and ZIP-corridor verification.
 

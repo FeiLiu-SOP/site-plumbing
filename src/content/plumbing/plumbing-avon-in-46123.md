@@ -12,11 +12,14 @@ lng: -86.3900
 zipSample: ["46213", "46123"]
 zipCodes: ["46213", "46123"]
 localPaths: ["Hendricks County / ZIP 46213 sector", "Hendricks County / primary ZIP 46123", "Hendricks County / ZIP 46123 sector", "Hendricks County / coords 39.7600, -86.3900", "Hendricks County / elevation 843 ft band"]
-zillowHomeValueUsd: 350719
 ---
 
-**Engineering Notice for Avon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hendricks County.
+**Engineering Notice for Avon:** Supply line, cleanout, and water heater scope recorded at 843 ft elevation context (Hendricks County).
 
+
+Licensed plumbing crews serving Avon, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Avon, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Hendricks County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -46,7 +49,7 @@ Trenchless sleeve pulls near Avon, IN require pit shoring notes when water table
 
 Intake ledger 660265: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Avon, IN at 39.7600, -86.3900.
 
-Scope trace: jetter nozzle envelope plus branch wet vent geometry referenced in Hendricks County county grid review.
+Scope trace: jetter nozzle envelope plus branch wet vent geometry referenced in Hendricks County drain and water line review.
 
 Primary postal anchor 46123 with multi-ZIP overlap in Avon; field packets tag Hendricks County for county-grid reconciliation.
 

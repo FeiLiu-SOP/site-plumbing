@@ -12,15 +12,18 @@ lng: -94.7000
 zipSample: ["66762"]
 zipCodes: ["66762"]
 localPaths: ["Crawford County / primary ZIP 66762", "Crawford County / coords 37.4100, -94.7000", "Crawford County / elevation 928 ft band", "Crawford County / ZIP 66762 sector"]
-zillowHomeValueUsd: 132926
 ---
 
-**Engineering Notice for Pittsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crawford County.
+**Engineering Notice for Pittsburg:** Emergency leak and drain triage uses ~163 mg/L hardness context with Crawford County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Pittsburg, KS, Crawford County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Pittsburg, KS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Crawford County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Step: map sump float travel and check-valve orientation for Pittsburg, KS basements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Pittsburg, KS basements should be photographed before any wall chase opens.
 
@@ -48,7 +51,7 @@ Flow dossier 680251: branch wet-vent geometry and jetting nozzle envelope logged
 
 Supply audit 680251: curb-stop orientation and hose-bib freeze flag reviewed for Pittsburg, KS at coords 37.4100/-94.7000.
 
-plumbing brief: copper pinhole cluster and sump float travel were cross-checked for the Pittsburg intake packet.
+Plumbing restoration brief: copper pinhole cluster and sump float travel were cross-checked for the Pittsburg pipe and leak scope.
 
 Primary postal anchor 66762 with multi-ZIP overlap in Pittsburg; field packets tag Crawford County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -87.7000
 zipSample: ["36547", "36542"]
 zipCodes: ["36547", "36542"]
 localPaths: ["Baldwin County / ZIP 36547 sector", "Baldwin County / primary ZIP 36542", "Baldwin County / ZIP 36542 sector", "Baldwin County / elevation 33 ft band", "Baldwin County / coords 30.2800, -87.7000"]
-zillowHomeValueUsd: 455623
 ---
 
-**Engineering Notice for Gulf Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Gulf Shores:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Baldwin County).
 
+
+Burst pipe and drain clog calls in Gulf Shores, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baldwin County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Gulf Shores, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,8 +48,6 @@ Tip: Photograph PRV tags and meter sets before wall access near ZIP 36542.
 Supply audit 913480: curb-stop orientation and hose-bib freeze flag reviewed for Gulf Shores, AL at coords 30.2800/-87.7000.
 
 Fixture roster 913480: toilet flange spacer kit and shower cartridge seat score queued for Gulf Shores, AL walk-through.
-
-plumbing brief: scale coupon sampling and floor drain trap primer drip were cross-checked for the Gulf Shores intake packet.
 
 ZIP-corridor snapshot for Gulf Shores, AL: sampled sectors include 36547, 36542; county routing grid remains Baldwin County.
 

@@ -12,11 +12,14 @@ lng: -120.5500
 zipSample: ["98926"]
 zipCodes: ["98926"]
 localPaths: ["Kittitas County / coords 47.0000, -120.5500", "Kittitas County / ZIP 98926 sector", "Kittitas County / primary ZIP 98926", "Kittitas County / elevation 1562 ft band"]
-zillowHomeValueUsd: 458950
 ---
 
-**Engineering Notice for Ellensburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kittitas County.
+**Engineering Notice for Ellensburg:** Emergency leak and drain triage uses ~136 mg/L hardness context with Kittitas County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Ellensburg, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Ellensburg, WA, Kittitas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -45,8 +48,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Permit note: Main water line replacement in Ellensburg, WA may require ROW restoration planning.
 
 Supply audit 718999: curb-stop orientation and hose-bib freeze flag reviewed for Ellensburg, WA at coords 47.0000/-120.5500.
-
-plumbing brief: PRV outlet curve and slab penetration sleeve seal were cross-checked for the Ellensburg intake packet.
 
 On-site sector marker: Kittitas County / elevation 1562 ft band — logged for map parity and ZIP-corridor verification.
 

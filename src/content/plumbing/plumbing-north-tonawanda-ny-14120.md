@@ -12,11 +12,14 @@ lng: -78.8700
 zipSample: ["14120"]
 zipCodes: ["14120"]
 localPaths: ["Niagara County / elevation 581 ft band", "Niagara County / primary ZIP 14120", "Niagara County / coords 43.0500, -78.8700", "Niagara County / ZIP 14120 sector"]
-zillowHomeValueUsd: 273937
 ---
 
-**Engineering Notice for North Tonawanda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Niagara County.
+**Engineering Notice for North Tonawanda:** Supply line, cleanout, and water heater scope recorded at 581 ft elevation context (Niagara County).
 
+
+Burst pipe and drain clog calls in North Tonawanda, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Niagara County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in North Tonawanda, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Sump discharge freeze risk in North Tonawanda, NY should be reviewed before spring thaw cycles.
 
@@ -47,8 +50,6 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Fixture roster 636625: toilet flange spacer kit and shower cartridge seat score queued for North Tonawanda, NY walk-through.
 
 Pressure trace 636625: meter-pit clearance and dielectric union checklist staged for North Tonawanda, NY near elevation 581 ft.
-
-Scope trace: slab penetration sleeve seal plus floor drain trap primer drip referenced in Niagara County county grid review.
 
 Regional mesh label Niagara County: moisture and logistics baselines are keyed to North Tonawanda, NY before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -113.5800
 zipSample: ["84791", "84770", "84790"]
 zipCodes: ["84790", "84770", "84791"]
 localPaths: ["Washington County / primary ZIP 84770", "Washington County / coords 37.0800, -113.5800", "Washington County / ZIP 84770 sector", "Washington County / ZIP 84790 sector", "Washington County / elevation 2546 ft band"]
-zillowHomeValueUsd: 487258
 ---
 
-**Engineering Notice for St. George:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for St. George:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Washington County.
 
+
+Qualified plumbing crews serving St. George, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in St. George, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

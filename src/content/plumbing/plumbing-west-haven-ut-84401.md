@@ -12,11 +12,14 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / elevation 4265 ft band", "Weber County / primary ZIP 84401", "Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84402 sector", "Weber County / ZIP 84401 sector"]
-zillowHomeValueUsd: 440247
 ---
 
-**Engineering Notice for West Haven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.
+**Engineering Notice for West Haven:** Emergency leak and drain triage uses ~130 mg/L hardness context with Weber County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in West Haven, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weber County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in West Haven, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 

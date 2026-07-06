@@ -12,11 +12,14 @@ lng: -96.0700
 zipSample: ["68128"]
 zipCodes: ["68128"]
 localPaths: ["Sarpy County / ZIP 68128 sector", "Sarpy County / elevation 1115 ft band", "Sarpy County / primary ZIP 68128", "Sarpy County / coords 41.1800, -96.0700"]
-zillowHomeValueUsd: 309857
 ---
 
-**Engineering Notice for La Vista:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sarpy County.
+**Engineering Notice for La Vista:** Emergency leak and drain triage uses ~114 mg/L hardness context with Sarpy County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in La Vista, NE, Sarpy County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in La Vista, NE, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during La Vista, NE shoulder seasons.
 
@@ -47,8 +50,6 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 68128.
 
 Drain map 182272: camera-pass priority and expansion-tank pre-charge noted for La Vista, NE postal sector 68128.
-
-Scope trace: meter pit clearance plus thermal expansion loop check referenced in Sarpy County county grid review.
 
 On-site sector marker: Sarpy County / elevation 1115 ft band — logged for map parity and ZIP-corridor verification.
 

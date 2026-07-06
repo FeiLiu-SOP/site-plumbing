@@ -12,11 +12,14 @@ lng: -95.5400
 zipSample: ["77545", "77459", "77071", "77489"]
 zipCodes: ["77545", "77071", "77459", "77489"]
 localPaths: ["Fort Bend County / ZIP 77489 sector", "Fort Bend County / primary ZIP 77545", "Fort Bend County / coords 29.5600, -95.5400", "Fort Bend County / ZIP 77071 sector", "Fort Bend County / elevation 85 ft band"]
-zillowHomeValueUsd: 280284
 ---
 
-**Engineering Notice for Missouri City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fort Bend County.
+**Engineering Notice for Missouri City:** Supply line, cleanout, and water heater scope recorded at 85 ft elevation context (Fort Bend County).
 
+
+Certified plumbing crews serving Missouri City, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Missouri City, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fort Bend County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Missouri City, TX systems need rebalancing.
 

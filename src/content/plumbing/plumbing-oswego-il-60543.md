@@ -12,11 +12,14 @@ lng: -88.3400
 zipSample: ["60543"]
 zipCodes: ["60543"]
 localPaths: ["Kendall County / coords 41.6800, -88.3400", "Kendall County / elevation 666 ft band", "Kendall County / primary ZIP 60543", "Kendall County / ZIP 60543 sector"]
-zillowHomeValueUsd: 416642
 ---
 
-**Engineering Notice for Oswego:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.
+**Engineering Notice for Oswego:** Supply line, cleanout, and water heater scope recorded at 666 ft elevation context (Kendall County).
 
+
+Burst pipe and drain clog calls in Oswego, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kendall County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Oswego, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -49,6 +52,8 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Pressure trace 866338: meter-pit clearance and dielectric union checklist staged for Oswego, IL near elevation 666 ft.
 
 Intake ledger 866338: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oswego, IL at 41.6800, -88.3400.
+
+Local service note: slab penetration sleeve seal paired with slab leak listening window near ZIP 60543 for emergency certified plumber repairs.
 
 Primary postal anchor 60543 with multi-ZIP overlap in Oswego; field packets tag Kendall County for county-grid reconciliation.
 

@@ -12,12 +12,14 @@ lng: -65.8200
 zipSample: ["00792", "00791"]
 zipCodes: ["00791", "00792"]
 localPaths: ["Humacao County / ZIP 00792 sector", "Humacao County / elevation 66 ft band", "Humacao County / coords 18.1500, -65.8200", "Humacao County / primary ZIP 00791", "Humacao County / ZIP 00791 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 356197
 ---
 
-**Engineering Notice for Humacao:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Humacao County.
+**Engineering Notice for Humacao:** Supply line, cleanout, and water heater scope recorded at 66 ft elevation context (Humacao County).
 
+
+Qualified plumbing crews serving Humacao, PR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Humacao, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Humacao County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -27,7 +29,7 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-We coordinate Humacao, PR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Humacao, PR plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Across Humacao, PR, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -48,8 +50,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Lineage note 949032: recirculation pump amp draw captured before Humacao, PR branch isolation.
 
 Fixture roster 949032: toilet flange spacer kit and shower cartridge seat score queued for Humacao, PR walk-through.
-
-Scope trace: jetter nozzle envelope plus meter pit clearance referenced in Humacao County county grid review.
 
 On-site sector marker: Humacao County / ZIP 00792 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -87.3500
 zipSample: ["46307", "46308"]
 zipCodes: ["46308", "46307"]
 localPaths: ["Lake County / coords 41.4100, -87.3500", "Lake County / elevation 705 ft band", "Lake County / ZIP 46308 sector", "Lake County / primary ZIP 46307", "Lake County / ZIP 46307 sector"]
-zillowHomeValueUsd: 353887
 ---
 
-**Engineering Notice for Crown Point:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Crown Point:** Supply line, cleanout, and water heater scope recorded at 705 ft elevation context (Lake County).
 
+
+Qualified plumbing crews serving Crown Point, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Crown Point, IN, Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Permit note: Main water line replacement in Crown Point, IN may require ROW restoration planning.
 
@@ -36,7 +39,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Crown Point, IN basements should be photographed before any wall chase opens.
 
@@ -47,6 +50,8 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 463
 Pressure trace 496206: meter-pit clearance and dielectric union checklist staged for Crown Point, IN near elevation 705 ft.
 
 Lineage note 496206: recirculation pump amp draw captured before Crown Point, IN branch isolation.
+
+Scope trace: sewer cleanout cap thread plus cleanout riser height referenced in Lake County drain and water line review.
 
 On-site sector marker: Lake County / primary ZIP 46307 — logged for map parity and ZIP-corridor verification.
 

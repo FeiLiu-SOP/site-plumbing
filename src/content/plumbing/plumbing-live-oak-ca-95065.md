@@ -12,13 +12,16 @@ lng: -121.9800
 zipSample: ["95062", "95065"]
 zipCodes: ["95062", "95065"]
 localPaths: ["Santa Cruz County / elevation 112 ft band", "Santa Cruz County / ZIP 95065 sector", "Santa Cruz County / ZIP 95062 sector", "Santa Cruz County / primary ZIP 95065", "Santa Cruz County / coords 36.9900, -121.9800"]
-zillowHomeValueUsd: 1351105
 ---
 
-**Engineering Notice for Live Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Live Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Santa Cruz County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Live Oak, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Cruz County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Live Oak, CA, Santa Cruz County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hose bib split patterns in Live Oak, CA often follow missed winterization.
 
@@ -34,7 +37,7 @@ Step: map sump float travel and check-valve orientation for Live Oak, CA basemen
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 95065.
 
-We coordinate Live Oak, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Live Oak, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Dual-water-meter setups in Live Oak, CA irrigation zones need backflow logs before line replacement.
 
@@ -50,7 +53,7 @@ Lineage note 421376: recirculation pump amp draw captured before Live Oak, CA br
 
 Drain map 421376: camera-pass priority and expansion-tank pre-charge noted for Live Oak, CA postal sector 95065.
 
-Scope trace: backflow test cock orientation plus slab penetration sleeve seal referenced in Santa Cruz County county grid review.
+Scope trace: backflow test cock orientation plus slab penetration sleeve seal referenced in Santa Cruz County drain and water line review.
 
 Primary postal anchor 95065 with multi-ZIP overlap in Live Oak; field packets tag Santa Cruz County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -80.2700
 zipSample: ["33449", "33414", "33470"]
 zipCodes: ["33414", "33470", "33449"]
 localPaths: ["Palm Beach County / primary ZIP 33449", "Palm Beach County / elevation 26 ft band", "Palm Beach County / coords 26.6500, -80.2700", "Palm Beach County / ZIP 33414 sector", "Palm Beach County / ZIP 33449 sector"]
-zillowHomeValueUsd: 733765
 ---
 
-**Engineering Notice for Wellington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Wellington:** Supply line, cleanout, and water heater scope recorded at 26 ft elevation context (Palm Beach County).
 
+
+Plumbing service in Wellington, FL, Palm Beach County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Wellington, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Palm Beach County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Wellington, FL irrigation cross-connections can mask domestic pressure loss.
 
@@ -49,8 +52,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Fixture roster 339217: toilet flange spacer kit and shower cartridge seat score queued for Wellington, FL walk-through.
 
 Lineage note 339217: recirculation pump amp draw captured before Wellington, FL branch isolation.
-
-Field routing: copper pinhole cluster paired with toilet flange spacer kit near ZIP 33449.
 
 On-site sector marker: Palm Beach County / coords 26.6500, -80.2700 — logged for map parity and ZIP-corridor verification.
 

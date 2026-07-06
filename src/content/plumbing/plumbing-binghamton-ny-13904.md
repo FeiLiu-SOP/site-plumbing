@@ -12,11 +12,14 @@ lng: -75.9100
 zipSample: ["13904", "13903", "13905", "13901"]
 zipCodes: ["13904", "13905", "13903", "13901"]
 localPaths: ["Broome County / coords 42.1000, -75.9100", "Broome County / ZIP 13905 sector", "Broome County / ZIP 13901 sector", "Broome County / elevation 883 ft band", "Broome County / ZIP 13903 sector"]
-zillowHomeValueUsd: 153387
 ---
 
-**Engineering Notice for Binghamton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broome County.
+**Engineering Notice for Binghamton:** Emergency leak and drain triage uses ~119 mg/L hardness context with Broome County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Binghamton, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Binghamton, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broome County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Binghamton, NY may require ROW restoration planning.
 
@@ -47,8 +50,6 @@ Sewer gas odors in Binghamton, NY should trigger trap seal and vent path review.
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
 Flow dossier 236978: branch wet-vent geometry and jetting nozzle envelope logged for Binghamton, NY county grid Broome County (ZIP 13904).
-
-Scope trace: fixture shutoff torque log plus hose bib freeze flag referenced in Broome County county grid review.
 
 On-site sector marker: Broome County / elevation 883 ft band — logged for map parity and ZIP-corridor verification.
 

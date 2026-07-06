@@ -12,11 +12,14 @@ lng: -95.3800
 zipSample: ["77039", "77037", "77060"]
 zipCodes: ["77060", "77039", "77037"]
 localPaths: ["Harris County / ZIP 77060 sector", "Harris County / coords 29.9100, -95.3800", "Harris County / ZIP 77039 sector", "Harris County / primary ZIP 77060", "Harris County / elevation 92 ft band"]
-zillowHomeValueUsd: 195950
 ---
 
-**Engineering Notice for Aldine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harris County.
+**Engineering Notice for Aldine:** Supply line, cleanout, and water heater scope recorded at 92 ft elevation context (Harris County).
 
+
+Plumbing remediation in Aldine, TX, Harris County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Aldine, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harris County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

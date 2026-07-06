@@ -12,11 +12,14 @@ lng: -98.2600
 zipSample: ["78132", "78623", "78133", "78070"]
 zipCodes: ["78623", "78070", "78132", "78133"]
 localPaths: ["Comal County / ZIP 78623 sector", "Comal County / primary ZIP 78623", "Comal County / elevation 961 ft band", "Comal County / coords 29.8800, -98.2600", "Comal County / ZIP 78133 sector"]
-zillowHomeValueUsd: 484473
 ---
 
-**Engineering Notice for Canyon Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Comal County.
+**Engineering Notice for Canyon Lake:** Supply line, cleanout, and water heater scope recorded at 961 ft elevation context (Comal County).
 
+
+When a main line backs up in Canyon Lake, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency plumbing technician service in Canyon Lake, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Comal County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Hose bib split patterns in Canyon Lake, TX often follow missed winterization.
 

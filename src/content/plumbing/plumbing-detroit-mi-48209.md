@@ -12,11 +12,14 @@ lng: -83.1000
 zipSample: ["48268", "48217", "48228", "48277", "48216"]
 zipCodes: ["48209", "48238", "48228", "48268", "48212", "48207", "48260", "48215", "48216", "48231", "48211", "48278"]
 localPaths: ["Wayne County / ZIP 48228 sector", "Wayne County / ZIP 48216 sector", "Wayne County / coords 42.3800, -83.1000", "Wayne County / primary ZIP 48209", "Wayne County / ZIP 48268 sector"]
-zillowHomeValueUsd: 93253
 ---
 
-**Engineering Notice for Detroit:** Domestic water distribution review emphasizes hardness-driven scaling risk (~113 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Detroit:** Emergency leak and drain triage uses ~113 mg/L hardness context with Wayne County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Detroit, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Detroit, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: When should sump battery backups be load-tested? In Detroit, MI, before spring thaw and hurricane remnants.
 
@@ -47,8 +50,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Intake ledger 452716: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Detroit, MI at 42.3800, -83.1000.
 
 Flow dossier 452716: branch wet-vent geometry and jetting nozzle envelope logged for Detroit, MI county grid Wayne County (ZIP 48209).
-
-Scope trace: recirculation pump amp draw plus sewer cleanout cap thread referenced in Wayne County county grid review.
 
 On-site sector marker: Wayne County / ZIP 48277 sector — logged for map parity and ZIP-corridor verification.
 

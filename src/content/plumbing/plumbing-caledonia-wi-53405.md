@@ -12,11 +12,14 @@ lng: -87.8800
 zipSample: ["53404", "53126", "53108", "53405", "53406"]
 zipCodes: ["53402", "53406", "53108", "53404", "53126", "53405"]
 localPaths: ["Racine County / ZIP 53108 sector", "Racine County / ZIP 53126 sector", "Racine County / primary ZIP 53405", "Racine County / ZIP 53404 sector", "Racine County / elevation 702 ft band"]
-zillowHomeValueUsd: 227131
 ---
 
-**Engineering Notice for Caledonia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Racine County.
+**Engineering Notice for Caledonia:** Supply line, cleanout, and water heater scope recorded at 702 ft elevation context (Racine County).
 
+
+Burst pipe and drain clog calls in Caledonia, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Racine County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Caledonia, WI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

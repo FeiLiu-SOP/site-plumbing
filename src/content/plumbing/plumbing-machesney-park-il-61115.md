@@ -12,11 +12,14 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / ZIP 61115 sector", "Winnebago County / primary ZIP 61115", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / elevation 735 ft band"]
-zillowHomeValueUsd: 201373
 ---
 
-**Engineering Notice for Machesney Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Machesney Park:** Emergency leak and drain triage uses ~120 mg/L hardness context with Winnebago County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Machesney Park, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Winnebago County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Machesney Park, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Machesney Park, IL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -26,7 +29,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Hydrostatic holds in Machesney Park, IL slab circuits run overnight when listening mics show ambiguous hits.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Branch wet vents in Machesney Park, IL can mask gurgling as a main-line issue.
 

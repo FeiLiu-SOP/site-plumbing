@@ -12,11 +12,14 @@ lng: -75.3700
 zipSample: ["18017", "18018", "18015", "18016"]
 zipCodes: ["18015", "18016", "18017", "18018"]
 localPaths: ["Northampton County / coords 40.6300, -75.3700", "Northampton County / ZIP 18018 sector", "Northampton County / elevation 351 ft band", "Northampton County / ZIP 18017 sector", "Northampton County / ZIP 18016 sector"]
-zillowHomeValueUsd: 378593
 ---
 
-**Engineering Notice for Bethlehem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Northampton County.
+**Engineering Notice for Bethlehem:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Northampton County.
 
+
+Qualified plumbing crews serving Bethlehem, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Bethlehem, PA, Northampton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Bethlehem, PA older duplexes can mask tub gurgle as a main-line failure.
 
@@ -40,7 +43,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Permit note: Main water line replacement in Bethlehem, PA may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -48,7 +51,7 @@ FAQ: When should sump battery backups be load-tested? In Bethlehem, PA, before s
 
 Lineage note 890578: recirculation pump amp draw captured before Bethlehem, PA branch isolation.
 
-Scope trace: branch wet vent geometry plus toilet flange spacer kit referenced in Northampton County county grid review.
+Scope trace: branch wet vent geometry plus toilet flange spacer kit referenced in Northampton County drain and water line review.
 
 On-site sector marker: Northampton County / ZIP 18016 sector — logged for map parity and ZIP-corridor verification.
 

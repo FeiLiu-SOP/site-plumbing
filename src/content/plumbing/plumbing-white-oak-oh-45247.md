@@ -12,11 +12,14 @@ lng: -84.6100
 zipSample: ["45239", "45247"]
 zipCodes: ["45239", "45247"]
 localPaths: ["Hamilton County / elevation 883 ft band", "Hamilton County / primary ZIP 45247", "Hamilton County / ZIP 45247 sector", "Hamilton County / ZIP 45239 sector", "Hamilton County / coords 39.2100, -84.6100"]
-zillowHomeValueUsd: 323902
 ---
 
-**Engineering Notice for White Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hamilton County.
+**Engineering Notice for White Oak:** Emergency leak and drain triage uses ~115 mg/L hardness context with Hamilton County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving White Oak, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in White Oak, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hamilton County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

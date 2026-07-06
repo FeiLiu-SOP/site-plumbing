@@ -12,11 +12,14 @@ lng: -97.3900
 zipSample: ["57078"]
 zipCodes: ["57078"]
 localPaths: ["Yankton County / ZIP 57078 sector", "Yankton County / elevation 1253 ft band", "Yankton County / coords 42.8900, -97.3900", "Yankton County / primary ZIP 57078"]
-zillowHomeValueUsd: 270856
 ---
 
-**Engineering Notice for Yankton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yankton County.
+**Engineering Notice for Yankton:** Supply line, cleanout, and water heater scope recorded at 1253 ft elevation context (Yankton County).
 
+
+Certified plumbing crews serving Yankton, SD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Yankton, SD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: In Yankton, SD, slab leaks can misroute as foundation issues without listening equipment.
 

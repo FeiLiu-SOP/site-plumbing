@@ -12,11 +12,14 @@ lng: -74.0100
 zipSample: ["07712"]
 zipCodes: ["07712"]
 localPaths: ["Monmouth County / ZIP 07712 sector", "Monmouth County / coords 40.2200, -74.0100", "Monmouth County / primary ZIP 07712", "Monmouth County / elevation 23 ft band"]
-zillowHomeValueUsd: 737196
 ---
 
-**Engineering Notice for Asbury Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monmouth County.
+**Engineering Notice for Asbury Park:** Emergency leak and drain triage uses ~172 mg/L hardness context with Monmouth County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Asbury Park, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Asbury Park, NJ, Monmouth County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -49,6 +52,8 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 Intake ledger 222791: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Asbury Park, NJ at 40.2200, -74.0100.
 
 Lineage note 222791: recirculation pump amp draw captured before Asbury Park, NJ branch isolation.
+
+Plumbing restoration brief: scale coupon sampling and hose bib freeze flag were cross-checked for the Asbury Park pipe and leak scope.
 
 On-site sector marker: Monmouth County / coords 40.2200, -74.0100 — logged for map parity and ZIP-corridor verification.
 

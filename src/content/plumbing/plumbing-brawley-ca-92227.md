@@ -12,11 +12,14 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / coords 32.9800, -115.5300", "Imperial County / elevation -113 ft band", "Imperial County / primary ZIP 92227", "Imperial County / ZIP 92227 sector"]
-zillowHomeValueUsd: 358615
 ---
 
-**Engineering Notice for Brawley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Imperial County.
+**Engineering Notice for Brawley:** Emergency leak and drain triage uses ~168 mg/L hardness context with Imperial County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Brawley, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Brawley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Imperial County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -42,7 +45,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Expansion tank pre-charge loss in Brawley, CA often tracks heater replacement deferrals.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -50,7 +53,7 @@ Pressure trace 175264: meter-pit clearance and dielectric union checklist staged
 
 Fixture roster 175264: toilet flange spacer kit and shower cartridge seat score queued for Brawley, CA walk-through.
 
-Field routing: sump float travel paired with slab penetration sleeve seal near ZIP 92227.
+Local service note: sump float travel paired with slab penetration sleeve seal near ZIP 92227 for emergency plumbing technician repairs.
 
 On-site sector marker: Imperial County / elevation -113 ft band — logged for map parity and ZIP-corridor verification.
 

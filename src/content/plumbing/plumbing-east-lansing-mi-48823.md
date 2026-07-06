@@ -12,11 +12,14 @@ lng: -84.4800
 zipSample: ["48824", "48826", "48823", "48825"]
 zipCodes: ["48824", "48826", "48825", "48823"]
 localPaths: ["Ingham County / ZIP 48825 sector", "Ingham County / coords 42.7500, -84.4800", "Ingham County / ZIP 48826 sector", "Ingham County / elevation 856 ft band", "Ingham County / ZIP 48823 sector"]
-zillowHomeValueUsd: 315921
 ---
 
-**Engineering Notice for East Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Ingham County.
+**Engineering Notice for East Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Ingham County.
 
+
+Burst pipe and drain clog calls in East Lansing, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Ingham County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in East Lansing, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Polybutylene manifold tags in East Lansing, MI basements should be photographed before any wall chase opens.
 
@@ -44,13 +47,11 @@ Dual-water-meter setups in East Lansing, MI irrigation zones need backflow logs 
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Drain map 206292: camera-pass priority and expansion-tank pre-charge noted for East Lansing, MI postal sector 48823.
 
 Lineage note 206292: recirculation pump amp draw captured before East Lansing, MI branch isolation.
-
-plumbing brief: meter pit clearance and PRV outlet curve were cross-checked for the East Lansing intake packet.
 
 On-site sector marker: Ingham County / ZIP 48825 sector — logged for map parity and ZIP-corridor verification.
 

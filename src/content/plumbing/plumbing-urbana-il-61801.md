@@ -12,11 +12,14 @@ lng: -88.2000
 zipSample: ["61803", "61802", "61801"]
 zipCodes: ["61802", "61803", "61801"]
 localPaths: ["Champaign County / ZIP 61801 sector", "Champaign County / ZIP 61802 sector", "Champaign County / primary ZIP 61801", "Champaign County / coords 40.1100, -88.2000", "Champaign County / ZIP 61803 sector"]
-zillowHomeValueUsd: 186129
 ---
 
-**Engineering Notice for Urbana:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Champaign County.
+**Engineering Notice for Urbana:** Supply line, cleanout, and water heater scope recorded at 741 ft elevation context (Champaign County).
 
+
+Emergency plumbing pro service in Urbana, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Champaign County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Urbana, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Champaign County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Expansion tank pre-charge loss in Urbana, IL often tracks heater replacement deferrals.
 

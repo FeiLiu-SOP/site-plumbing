@@ -12,11 +12,14 @@ lng: -73.5800
 zipSample: ["11575"]
 zipCodes: ["11575"]
 localPaths: ["Nassau County / coords 40.6800, -73.5800", "Nassau County / ZIP 11575 sector", "Nassau County / primary ZIP 11575", "Nassau County / elevation 43 ft band"]
-zillowHomeValueUsd: 630759
 ---
 
-**Engineering Notice for Roosevelt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for Roosevelt:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (Nassau County).
 
+
+Burst pipe and drain clog calls in Roosevelt, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Nassau County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Roosevelt, NY, Nassau County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Roosevelt, NY irrigation zones need backflow logs before line replacement.
 
@@ -45,8 +48,6 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 11575.
 Supply audit 574617: curb-stop orientation and hose-bib freeze flag reviewed for Roosevelt, NY at coords 40.6800/-73.5800.
 
 Intake ledger 574617: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Roosevelt, NY at 40.6800, -73.5800.
-
-Scope trace: thermal expansion loop check plus cleanout riser height referenced in Nassau County county grid review.
 
 On-site sector marker: Nassau County / primary ZIP 11575 — logged for map parity and ZIP-corridor verification.
 

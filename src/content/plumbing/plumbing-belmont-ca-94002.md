@@ -12,11 +12,14 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / coords 37.5200, -122.3000", "San Mateo County / primary ZIP 94002", "San Mateo County / ZIP 94002 sector", "San Mateo County / elevation 226 ft band"]
-zillowHomeValueUsd: 2339010
 ---
 
-**Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Belmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Mateo County.
 
+
+Plumbing restoration in Belmont, CA, San Mateo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Belmont, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Mateo County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Belmont, CA shoulder seasons.
 
@@ -32,7 +35,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Hydro-jetting in Belmont, CA requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When should sump battery backups be load-tested? In Belmont, CA, before spring thaw and hurricane remnants.
 
@@ -49,6 +52,8 @@ Permit note: Main water line replacement in Belmont, CA may require ROW restorat
 Lineage note 504365: recirculation pump amp draw captured before Belmont, CA branch isolation.
 
 Supply audit 504365: curb-stop orientation and hose-bib freeze flag reviewed for Belmont, CA at coords 37.5200/-122.3000.
+
+Local service note: gas water heater draft hood gap paired with recirculation pump amp draw near ZIP 94002 for emergency plumbing technician repairs.
 
 On-site sector marker: San Mateo County / coords 37.5200, -122.3000 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -112.0200
 zipSample: ["84096"]
 zipCodes: ["84096"]
 localPaths: ["Salt Lake County / coords 40.4900, -112.0200", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84096", "Salt Lake County / elevation 5007 ft band"]
-zillowHomeValueUsd: 604136
 ---
 
-**Engineering Notice for Herriman:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Herriman:** Supply line, cleanout, and water heater scope recorded at 5007 ft elevation context (Salt Lake County).
 
+
+When a main line backs up in Herriman, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Herriman, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Salt Lake County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -32,7 +35,7 @@ FAQ: When is cabling enough? In Herriman, UT, pipe material and blockage type di
 
 Trenchless sleeve pulls near Herriman, UT require pit shoring notes when water tables are high.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Herriman, UT hardness profiles.
 
@@ -47,8 +50,6 @@ Galvanized segments in Herriman, UT may restrict flow long before visible corros
 Supply audit 419202: curb-stop orientation and hose-bib freeze flag reviewed for Herriman, UT at coords 40.4900/-112.0200.
 
 Pressure trace 419202: meter-pit clearance and dielectric union checklist staged for Herriman, UT near elevation 5007 ft.
-
-Field routing: toilet flange spacer kit paired with thermal expansion loop check near ZIP 84096.
 
 On-site sector marker: Salt Lake County / elevation 5007 ft band — logged for map parity and ZIP-corridor verification.
 

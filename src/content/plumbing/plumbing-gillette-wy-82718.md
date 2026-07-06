@@ -12,11 +12,14 @@ lng: -105.5000
 zipSample: ["82718", "82716"]
 zipCodes: ["82716", "82718"]
 localPaths: ["Campbell County / ZIP 82718 sector", "Campbell County / primary ZIP 82718", "Campbell County / elevation 4534 ft band", "Campbell County / coords 44.2800, -105.5000", "Campbell County / ZIP 82716 sector"]
-zillowHomeValueUsd: 361139
 ---
 
-**Engineering Notice for Gillette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Campbell County.
+**Engineering Notice for Gillette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Campbell County.
 
+
+Certified plumbing crews serving Gillette, WY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Gillette, WY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Campbell County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

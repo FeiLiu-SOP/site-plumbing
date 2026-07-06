@@ -12,11 +12,14 @@ lng: -124.2300
 zipSample: ["97420", "97459"]
 zipCodes: ["97420", "97459"]
 localPaths: ["Coos County / elevation 144 ft band", "Coos County / coords 43.3800, -124.2300", "Coos County / primary ZIP 97459", "Coos County / ZIP 97420 sector", "Coos County / ZIP 97459 sector"]
-zillowHomeValueUsd: 356826
 ---
 
-**Engineering Notice for Coos Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coos County.
+**Engineering Notice for Coos Bay:** Supply line, cleanout, and water heater scope recorded at 144 ft elevation context (Coos County).
 
+
+When a main line backs up in Coos Bay, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Coos Bay, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: photograph curb-stop and meter pit before trenching.
 

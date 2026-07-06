@@ -12,11 +12,14 @@ lng: -86.8100
 zipSample: ["35119", "35071"]
 zipCodes: ["35071", "35119"]
 localPaths: ["Jefferson County / ZIP 35119 sector", "Jefferson County / coords 33.6700, -86.8100", "Jefferson County / primary ZIP 35071", "Jefferson County / elevation 607 ft band", "Jefferson County / ZIP 35071 sector"]
-zillowHomeValueUsd: 271350
 ---
 
-**Engineering Notice for Gardendale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Gardendale:** Emergency leak and drain triage uses ~137 mg/L hardness context with Jefferson County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Gardendale, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Gardendale, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

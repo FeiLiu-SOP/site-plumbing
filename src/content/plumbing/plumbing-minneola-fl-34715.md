@@ -12,11 +12,14 @@ lng: -81.7300
 zipSample: ["34755", "34715"]
 zipCodes: ["34715", "34755"]
 localPaths: ["Lake County / ZIP 34755 sector", "Lake County / ZIP 34715 sector", "Lake County / primary ZIP 34715", "Lake County / coords 28.6100, -81.7300", "Lake County / elevation 144 ft band"]
-zillowHomeValueUsd: 461783
 ---
 
-**Engineering Notice for Minneola:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Minneola:** Supply line, cleanout, and water heater scope recorded at 144 ft elevation context (Lake County).
 
+
+Burst pipe and drain clog calls in Minneola, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Minneola, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 34715.
 
@@ -30,7 +33,7 @@ In Minneola, FL, slab leaks often present as warm spots before wall stains appea
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Basement floor drains in Minneola, FL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -43,8 +46,6 @@ Step: document dielectric unions before mixed-metal replacements.
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
 Supply audit 694782: curb-stop orientation and hose-bib freeze flag reviewed for Minneola, FL at coords 28.6100/-81.7300.
-
-Field routing: PRV outlet curve paired with copper pinhole cluster near ZIP 34715.
 
 Coordinate-anchored dispatch note: center reference 28.6100, -81.7300 at elevation ~144 ft aligns with Lake County intake staging.
 

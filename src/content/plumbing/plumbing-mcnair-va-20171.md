@@ -12,11 +12,14 @@ lng: -77.4100
 zipSample: ["20171"]
 zipCodes: ["20171"]
 localPaths: ["Fairfax County / ZIP 20171 sector", "Fairfax County / coords 38.9500, -77.4100", "Fairfax County / elevation 322 ft band", "Fairfax County / primary ZIP 20171"]
-zillowHomeValueUsd: 819517
 ---
 
-**Engineering Notice for McNair:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for McNair:** Supply line, cleanout, and water heater scope recorded at 322 ft elevation context (Fairfax County).
 
+
+Qualified plumbing crews serving McNair, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in McNair, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in McNair, VA may require ROW restoration planning.
 
@@ -50,7 +53,7 @@ Drain map 916868: camera-pass priority and expansion-tank pre-charge noted for M
 
 Intake ledger 916868: sump amperage, PRV seat wear, and cleanout riser height cross-checked for McNair, VA at 38.9500, -77.4100.
 
-plumbing brief: copper pinhole cluster and slab penetration sleeve seal were cross-checked for the McNair intake packet.
+Plumbing restoration brief: copper pinhole cluster and slab penetration sleeve seal were cross-checked for the McNair pipe and leak scope.
 
 ZIP-corridor snapshot for McNair, VA: sampled sectors include 20171; county routing grid remains Fairfax County.
 

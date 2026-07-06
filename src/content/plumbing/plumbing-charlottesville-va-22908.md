@@ -12,11 +12,14 @@ lng: -78.4900
 zipSample: ["22906", "22908", "22901", "22904", "22903"]
 zipCodes: ["22902", "22903", "22908", "22909", "22904", "22905", "22901", "22906"]
 localPaths: ["Charlottesville County / primary ZIP 22908", "Charlottesville County / ZIP 22908 sector", "Charlottesville County / elevation 456 ft band", "Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / ZIP 22904 sector"]
-zillowHomeValueUsd: 533801
 ---
 
-**Engineering Notice for Charlottesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlottesville County.
+**Engineering Notice for Charlottesville:** Emergency leak and drain triage uses ~170 mg/L hardness context with Charlottesville County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Charlottesville, VA, Charlottesville County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Charlottesville, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Hose bib split patterns in Charlottesville, VA often follow missed winterization.
 
@@ -45,6 +48,8 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Charlottesvill
 Supply audit 267315: curb-stop orientation and hose-bib freeze flag reviewed for Charlottesville, VA at coords 38.0400/-78.4900.
 
 Lineage note 267315: recirculation pump amp draw captured before Charlottesville, VA branch isolation.
+
+Local service note: meter pit clearance paired with copper pinhole cluster near ZIP 22908 for emergency plumbing technician repairs.
 
 On-site sector marker: Charlottesville County / ZIP 22901 sector — logged for map parity and ZIP-corridor verification.
 

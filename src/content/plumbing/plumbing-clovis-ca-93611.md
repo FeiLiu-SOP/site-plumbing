@@ -12,11 +12,14 @@ lng: -119.6800
 zipSample: ["93619", "93611", "93613", "93612", "93747"]
 zipCodes: ["93613", "93747", "93619", "93612", "93611"]
 localPaths: ["Fresno County / ZIP 93611 sector", "Fresno County / coords 36.8300, -119.6800", "Fresno County / ZIP 93619 sector", "Fresno County / ZIP 93747 sector", "Fresno County / ZIP 93613 sector"]
-zillowHomeValueUsd: 499419
 ---
 
-**Engineering Notice for Clovis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
+**Engineering Notice for Clovis:** Emergency leak and drain triage uses ~151 mg/L hardness context with Fresno County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Clovis, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing service in Clovis, CA, Fresno County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -36,15 +39,13 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 93611.
 
 Hard water in Clovis, CA accelerates scale on PRV seats and heater elements.
 
 Fixture roster 957709: toilet flange spacer kit and shower cartridge seat score queued for Clovis, CA walk-through.
-
-Scope trace: recirculation pump amp draw plus hose bib freeze flag referenced in Fresno County county grid review.
 
 On-site sector marker: Fresno County / ZIP 93611 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -122.2700
 zipSample: ["98168", "98108", "98190", "98188", "98138"]
 zipCodes: ["98108", "98138", "98188", "98190", "98168", "98178"]
 localPaths: ["King County / elevation 240 ft band", "King County / ZIP 98190 sector", "King County / ZIP 98138 sector", "King County / ZIP 98188 sector", "King County / primary ZIP 98108"]
-zillowHomeValueUsd: 703525
 ---
 
-**Engineering Notice for Tukwila:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Tukwila:** Supply line, cleanout, and water heater scope recorded at 240 ft elevation context (King County).
 
+
+Plumbing remediation in Tukwila, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Tukwila, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in King County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -38,19 +41,17 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Stack vent offsets in Tukwila, WA older duplexes can mask tub gurgle as a main-line failure.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Basement floor drains in Tukwila, WA should be snaked only after trap arm geometry is confirmed on camera.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Flow dossier 266281: branch wet-vent geometry and jetting nozzle envelope logged for Tukwila, WA county grid King County (ZIP 98108).
 
 Drain map 266281: camera-pass priority and expansion-tank pre-charge noted for Tukwila, WA postal sector 98108.
-
-Field routing: copper pinhole cluster paired with jetter nozzle envelope near ZIP 98108.
 
 On-site sector marker: King County / elevation 240 ft band — logged for map parity and ZIP-corridor verification.
 

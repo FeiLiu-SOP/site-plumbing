@@ -12,11 +12,14 @@ lng: -111.7900
 zipSample: ["83440", "83460"]
 zipCodes: ["83440", "83460"]
 localPaths: ["Madison County / coords 43.8200, -111.7900", "Madison County / ZIP 83460 sector", "Madison County / ZIP 83440 sector", "Madison County / primary ZIP 83460", "Madison County / elevation 4872 ft band"]
-zillowHomeValueUsd: 417055
 ---
 
-**Engineering Notice for Rexburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Rexburg:** Supply line, cleanout, and water heater scope recorded at 4872 ft elevation context (Madison County).
 
+
+Emergency plumbing pro service in Rexburg, ID often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Madison County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Burst pipe and drain clog calls in Rexburg, ID may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Madison County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -34,7 +37,7 @@ CPVC solvent weld times shift with ambient humidity during Rexburg, ID shoulder 
 
 Dual-water-meter setups in Rexburg, ID irrigation zones need backflow logs before line replacement.
 
-We coordinate Rexburg, ID plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Rexburg, ID plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Material note: Water heater anode type may change with Rexburg, ID hardness profiles.
 
@@ -49,8 +52,6 @@ Hose bib split patterns in Rexburg, ID often follow missed winterization.
 Supply audit 919268: curb-stop orientation and hose-bib freeze flag reviewed for Rexburg, ID at coords 43.8200/-111.7900.
 
 Fixture roster 919268: toilet flange spacer kit and shower cartridge seat score queued for Rexburg, ID walk-through.
-
-Field routing: scale coupon sampling paired with branch wet vent geometry near ZIP 83460.
 
 ZIP-corridor snapshot for Rexburg, ID: sampled sectors include 83440, 83460; county routing grid remains Madison County.
 

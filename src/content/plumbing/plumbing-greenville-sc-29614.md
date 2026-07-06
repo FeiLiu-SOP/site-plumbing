@@ -12,11 +12,14 @@ lng: -82.3600
 zipSample: ["29607", "29603", "29609", "29602", "29614"]
 zipCodes: ["29603", "29614", "29601", "29612", "29605", "29602", "29616", "29604", "29607", "29609"]
 localPaths: ["Greenville County / primary ZIP 29614", "Greenville County / elevation 958 ft band", "Greenville County / ZIP 29609 sector", "Greenville County / coords 34.8400, -82.3600", "Greenville County / ZIP 29603 sector"]
-zillowHomeValueUsd: 380742
 ---
 
-**Engineering Notice for Greenville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Greenville County.
+**Engineering Notice for Greenville:** Emergency leak and drain triage uses ~169 mg/L hardness context with Greenville County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Greenville, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Greenville County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Greenville, SC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Greenville County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -32,7 +35,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Greenville, SC systems need rebalancing.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

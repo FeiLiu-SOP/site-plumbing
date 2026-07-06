@@ -12,11 +12,14 @@ lng: -77.5900
 zipSample: ["23238", "23255", "23288", "23229"]
 zipCodes: ["23288", "23229", "23255", "23238"]
 localPaths: ["Henrico County / ZIP 23229 sector", "Henrico County / ZIP 23288 sector", "Henrico County / coords 37.5900, -77.5900", "Henrico County / ZIP 23238 sector", "Henrico County / elevation 262 ft band"]
-zillowHomeValueUsd: 514442
 ---
 
-**Engineering Notice for Tuckahoe:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Henrico County.
+**Engineering Notice for Tuckahoe:** Emergency leak and drain triage uses ~146 mg/L hardness context with Henrico County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Tuckahoe, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Henrico County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Tuckahoe, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: document dielectric unions before mixed-metal replacements.
 

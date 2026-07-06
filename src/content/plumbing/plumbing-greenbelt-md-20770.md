@@ -12,11 +12,14 @@ lng: -76.8900
 zipSample: ["20768", "20770"]
 zipCodes: ["20768", "20770"]
 localPaths: ["Prince George's County / coords 39.0000, -76.8900", "Prince George's County / primary ZIP 20770", "Prince George's County / ZIP 20768 sector", "Prince George's County / ZIP 20770 sector", "Prince George's County / elevation 167 ft band"]
-zillowHomeValueUsd: 278914
 ---
 
-**Engineering Notice for Greenbelt:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Greenbelt:** Emergency leak and drain triage uses ~140 mg/L hardness context with Prince George's County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Greenbelt, MD, Prince George's County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Greenbelt, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Recirculation pump failures in Greenbelt, MD can mimic fixture-specific clogs.
 
@@ -45,8 +48,6 @@ Trenchless sleeve pulls near Greenbelt, MD require pit shoring notes when water 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Pressure trace 930107: meter-pit clearance and dielectric union checklist staged for Greenbelt, MD near elevation 167 ft.
-
-plumbing brief: toilet flange spacer kit and sewer cleanout cap thread were cross-checked for the Greenbelt intake packet.
 
 On-site sector marker: Prince George's County / ZIP 20770 sector — logged for map parity and ZIP-corridor verification.
 

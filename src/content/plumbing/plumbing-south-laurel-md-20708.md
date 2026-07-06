@@ -12,15 +12,18 @@ lng: -76.8500
 zipSample: ["20708", "20709", "20726"]
 zipCodes: ["20708", "20709", "20726"]
 localPaths: ["Prince George's County / coords 39.0600, -76.8500", "Prince George's County / ZIP 20726 sector", "Prince George's County / ZIP 20708 sector", "Prince George's County / elevation 220 ft band", "Prince George's County / primary ZIP 20708"]
-zillowHomeValueUsd: 486612
 ---
 
-**Engineering Notice for South Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for South Laurel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Prince George's County.
 
+
+Burst pipe and drain clog calls in South Laurel, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Prince George's County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving South Laurel, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 20708.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hydro-jetting in South Laurel, MD requires camera confirmation before nozzle pressure is raised.
 
@@ -47,8 +50,6 @@ In South Laurel, MD, slab leaks often present as warm spots before wall stains a
 Intake ledger 193183: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Laurel, MD at 39.0600, -76.8500.
 
 Flow dossier 193183: branch wet-vent geometry and jetting nozzle envelope logged for South Laurel, MD county grid Prince George's County (ZIP 20708).
-
-Scope trace: dielectric union checklist plus water heater T&P path referenced in Prince George's County county grid review.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Prince George's County. Reference elevation: 220 ft. Primary coordinates: 39.0600, -76.8500. ZIP sample: 20709, 20708, 20726. Service perimeter note: Coverage extends through Prince George's County with dispatch centered near ZIP 20708.
 

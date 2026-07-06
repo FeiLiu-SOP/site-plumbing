@@ -12,11 +12,14 @@ lng: -97.2700
 zipSample: ["76148", "76117", "76137"]
 zipCodes: ["76148", "76137", "76117"]
 localPaths: ["Tarrant County / primary ZIP 76137", "Tarrant County / elevation 610 ft band", "Tarrant County / ZIP 76148 sector", "Tarrant County / ZIP 76137 sector", "Tarrant County / coords 32.8200, -97.2700"]
-zillowHomeValueUsd: 319968
 ---
 
-**Engineering Notice for Haltom City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Haltom City:** Emergency leak and drain triage uses ~164 mg/L hardness context with Tarrant County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Haltom City, TX, Tarrant County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Haltom City, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tarrant County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Sump discharge freeze risk in Haltom City, TX should be reviewed before spring thaw cycles.
 
@@ -34,11 +37,11 @@ Basement floor drains in Haltom City, TX should be snaked only after trap arm ge
 
 Cast-iron hub corrosion in Haltom City, TX often concentrates at the third joint upstream of the cleanout.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during Haltom City, TX shoulder seasons.
 
-Dispatch packets reference county grid Tarrant County near ZIP 76137.
+Our Haltom City, TX service packets reference Tarrant County near ZIP 76137 for pipe and leak scope.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 

@@ -12,11 +12,14 @@ lng: -119.7900
 zipSample: ["93160", "93111", "93110"]
 zipCodes: ["93111", "93160", "93110"]
 localPaths: ["Santa Barbara County / ZIP 93111 sector", "Santa Barbara County / ZIP 93160 sector", "Santa Barbara County / primary ZIP 93111", "Santa Barbara County / elevation 125 ft band", "Santa Barbara County / coords 34.4400, -119.7900"]
-zillowHomeValueUsd: 1671632
 ---
 
-**Engineering Notice for Eastern Goleta Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Eastern Goleta Valley:** Supply line, cleanout, and water heater scope recorded at 125 ft elevation context (Santa Barbara County).
 
+
+Emergency plumbing technician service in Eastern Goleta Valley, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Santa Barbara County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Eastern Goleta Valley, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Barbara County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -36,7 +39,7 @@ Stack vent offsets in Eastern Goleta Valley, CA older duplexes can mask tub gurg
 
 Recirculation pump failures in Eastern Goleta Valley, CA can mimic fixture-specific clogs.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Basement floor drains in Eastern Goleta Valley, CA should be snaked only after trap arm geometry is confirmed on camera.
 

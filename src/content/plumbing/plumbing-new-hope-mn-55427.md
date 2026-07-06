@@ -12,11 +12,14 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55428", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55427", "Hennepin County / ZIP 55428 sector", "Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / elevation 922 ft band"]
-zillowHomeValueUsd: 367334
 ---
 
-**Engineering Notice for New Hope:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for New Hope:** Emergency leak and drain triage uses ~166 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in New Hope, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing service in New Hope, MN, Hennepin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -38,15 +41,13 @@ Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal New Hope, MN irrigation cross-connections can mask domestic pressure loss.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Pressure trace 861193: meter-pit clearance and dielectric union checklist staged for New Hope, MN near elevation 922 ft.
-
-Field routing: sump float travel paired with jetter nozzle envelope near ZIP 55427.
 
 Coordinate-anchored dispatch note: center reference 45.0400, -93.3900 at elevation ~922 ft aligns with Hennepin County intake staging.
 

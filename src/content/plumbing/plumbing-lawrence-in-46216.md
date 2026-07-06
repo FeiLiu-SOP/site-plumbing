@@ -12,11 +12,14 @@ lng: -85.9900
 zipSample: ["46249", "46226", "46216", "46235", "46236"]
 zipCodes: ["46216", "46226", "46235", "46249", "46236"]
 localPaths: ["Marion County / coords 39.8700, -85.9900", "Marion County / ZIP 46249 sector", "Marion County / ZIP 46235 sector", "Marion County / ZIP 46226 sector", "Marion County / elevation 856 ft band"]
-zillowHomeValueUsd: 309752
 ---
 
-**Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Marion County.
+**Engineering Notice for Lawrence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Marion County.
 
+
+Licensed plumbing crews serving Lawrence, IN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in Lawrence, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Marion County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Sewer gas odors in Lawrence, IN should trigger trap seal and vent path review.
 
@@ -42,11 +45,9 @@ Material note: Water heater anode type may change with Lawrence, IN hardness pro
 
 Dual-water-meter setups in Lawrence, IN irrigation zones need backflow logs before line replacement.
 
-Dispatch packets reference county grid Marion County near ZIP 46216.
+Our Lawrence, IN service packets reference Marion County near ZIP 46216 for pipe and leak scope.
 
 Supply audit 146781: curb-stop orientation and hose-bib freeze flag reviewed for Lawrence, IN at coords 39.8700/-85.9900.
-
-Scope trace: scale coupon sampling plus thermal expansion loop check referenced in Marion County county grid review.
 
 On-site sector marker: Marion County / elevation 856 ft band — logged for map parity and ZIP-corridor verification.
 

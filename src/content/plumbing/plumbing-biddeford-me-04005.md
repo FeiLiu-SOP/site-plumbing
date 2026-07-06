@@ -12,11 +12,14 @@ lng: -70.4500
 zipSample: ["04006", "04007", "04005"]
 zipCodes: ["04007", "04006", "04005"]
 localPaths: ["York County / primary ZIP 04005", "York County / coords 43.4700, -70.4500", "York County / elevation 151 ft band", "York County / ZIP 04006 sector", "York County / ZIP 04007 sector"]
-zillowHomeValueUsd: 499646
 ---
 
-**Engineering Notice for Biddeford:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: York County.
+**Engineering Notice for Biddeford:** Supply line, cleanout, and water heater scope recorded at 151 ft elevation context (York County).
 
+
+Qualified plumbing crews serving Biddeford, ME review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Biddeford, ME may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in York County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Cleanout access limits in Biddeford, ME frequently extend drain cleaning duration.
 

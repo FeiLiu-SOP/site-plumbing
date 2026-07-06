@@ -12,11 +12,14 @@ lng: -97.9900
 zipSample: ["78734", "78738"]
 zipCodes: ["78738", "78734"]
 localPaths: ["Travis County / ZIP 78738 sector", "Travis County / elevation 843 ft band", "Travis County / ZIP 78734 sector", "Travis County / primary ZIP 78738", "Travis County / coords 30.3500, -97.9900"]
-zillowHomeValueUsd: 840154
 ---
 
-**Engineering Notice for Lakeway:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Travis County.
+**Engineering Notice for Lakeway:** Supply line, cleanout, and water heater scope recorded at 843 ft elevation context (Travis County).
 
+
+Certified plumbing crews serving Lakeway, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lakeway, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Travis County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Branch wet vents in Lakeway, TX can mask gurgling as a main-line issue.
 
@@ -40,15 +43,13 @@ Trenchless pulls in Lakeway, TX require pit dimensions verified against utility 
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lakeway, TX.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Expansion tank pre-charge loss in Lakeway, TX often tracks heater replacement deferrals.
 
 Intake ledger 462229: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lakeway, TX at 30.3500, -97.9900.
 
 Fixture roster 462229: toilet flange spacer kit and shower cartridge seat score queued for Lakeway, TX walk-through.
-
-Scope trace: sewer cleanout cap thread plus scale coupon sampling referenced in Travis County county grid review.
 
 On-site sector marker: Travis County / ZIP 78734 sector — logged for map parity and ZIP-corridor verification.
 

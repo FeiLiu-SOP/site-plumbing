@@ -12,11 +12,14 @@ lng: -118.5000
 zipSample: ["91355", "91322", "91387", "91321", "91385"]
 zipCodes: ["91321", "91385", "91355", "91322", "91350", "91387", "91386", "91351", "91382", "91354"]
 localPaths: ["Los Angeles County / coords 34.4200, -118.5000", "Los Angeles County / primary ZIP 91351", "Los Angeles County / ZIP 91355 sector", "Los Angeles County / elevation 1378 ft band", "Los Angeles County / ZIP 91385 sector"]
-zillowHomeValueUsd: 723469
 ---
 
-**Engineering Notice for Santa Clarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Santa Clarita:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Plumbing remediation in Santa Clarita, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Santa Clarita, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -28,7 +31,7 @@ Trenchless sleeve pulls near Santa Clarita, CA require pit shoring notes when wa
 
 Hydro-jetting in Santa Clarita, CA requires camera confirmation before nozzle pressure is raised.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Expansion tank pre-charge loss in Santa Clarita, CA often tracks heater replacement deferrals.
 
@@ -45,6 +48,8 @@ Hydrostatic holds in Santa Clarita, CA slab circuits run overnight when listenin
 Intake ledger 532813: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Santa Clarita, CA at 34.4200, -118.5000.
 
 Lineage note 532813: recirculation pump amp draw captured before Santa Clarita, CA branch isolation.
+
+Local service note: jetter nozzle envelope paired with slab leak listening window near ZIP 91351 for emergency licensed plumber repairs.
 
 On-site sector marker: Los Angeles County / elevation 1378 ft band — logged for map parity and ZIP-corridor verification.
 

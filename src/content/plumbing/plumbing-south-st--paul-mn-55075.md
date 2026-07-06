@@ -12,11 +12,14 @@ lng: -93.0400
 zipSample: ["55075"]
 zipCodes: ["55075"]
 localPaths: ["Dakota County / coords 44.8900, -93.0400", "Dakota County / elevation 823 ft band", "Dakota County / primary ZIP 55075", "Dakota County / ZIP 55075 sector"]
-zillowHomeValueUsd: 295897
 ---
 
-**Engineering Notice for South St. Paul:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dakota County.
+**Engineering Notice for South St. Paul:** Supply line, cleanout, and water heater scope recorded at 823 ft elevation context (Dakota County).
 
+
+Plumbing restoration in South St. Paul, MN, Dakota County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in South St. Paul, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Dakota County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Basement floor drains in South St. Paul, MN should be snaked only after trap arm geometry is confirmed on camera.
 

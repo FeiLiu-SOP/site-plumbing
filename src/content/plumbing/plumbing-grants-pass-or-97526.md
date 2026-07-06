@@ -12,11 +12,14 @@ lng: -123.3300
 zipSample: ["97527", "97528", "97526"]
 zipCodes: ["97526", "97527", "97528"]
 localPaths: ["Josephine County / elevation 928 ft band", "Josephine County / ZIP 97526 sector", "Josephine County / coords 42.4300, -123.3300", "Josephine County / primary ZIP 97526", "Josephine County / ZIP 97528 sector"]
-zillowHomeValueUsd: 383980
 ---
 
-**Engineering Notice for Grants Pass:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Josephine County.
+**Engineering Notice for Grants Pass:** Supply line, cleanout, and water heater scope recorded at 928 ft elevation context (Josephine County).
 
+
+Plumbing service in Grants Pass, OR, Josephine County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Grants Pass, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -45,8 +48,6 @@ Cleanout access limits in Grants Pass, OR frequently extend drain cleaning durat
 Supply audit 469532: curb-stop orientation and hose-bib freeze flag reviewed for Grants Pass, OR at coords 42.4300/-123.3300.
 
 Drain map 469532: camera-pass priority and expansion-tank pre-charge noted for Grants Pass, OR postal sector 97526.
-
-Scope trace: hose bib freeze flag plus slab penetration sleeve seal referenced in Josephine County county grid review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Josephine County and primary ZIP 97526. Terrain reference: 928 ft. Center point: 42.4300, -123.3300. ZIP sample: 97527, 97528, 97526. Regional routing note: Josephine County traffic flow is balanced around ZIP 97526 service demand.
 

@@ -12,11 +12,14 @@ lng: -111.8600
 zipSample: ["84011", "84010"]
 zipCodes: ["84011", "84010"]
 localPaths: ["Davis County / ZIP 84010 sector", "Davis County / coords 40.8700, -111.8600", "Davis County / primary ZIP 84010", "Davis County / elevation 4783 ft band", "Davis County / ZIP 84011 sector"]
-zillowHomeValueUsd: 579878
 ---
 
-**Engineering Notice for Bountiful:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Davis County.
+**Engineering Notice for Bountiful:** Supply line, cleanout, and water heater scope recorded at 4783 ft elevation context (Davis County).
 
+
+Qualified plumbing crews serving Bountiful, UT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in Bountiful, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Davis County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -48,7 +51,7 @@ Fixture roster 573780: toilet flange spacer kit and shower cartridge seat score 
 
 Supply audit 573780: curb-stop orientation and hose-bib freeze flag reviewed for Bountiful, UT at coords 40.8700/-111.8600.
 
-Field routing: copper pinhole cluster paired with shower cartridge seat score near ZIP 84010.
+Local service note: copper pinhole cluster paired with shower cartridge seat score near ZIP 84010 for emergency plumbing technician repairs.
 
 On-site sector marker: Davis County / coords 40.8700, -111.8600 — logged for map parity and ZIP-corridor verification.
 

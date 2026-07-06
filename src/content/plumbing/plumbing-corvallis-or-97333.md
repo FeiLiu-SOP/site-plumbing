@@ -12,11 +12,14 @@ lng: -123.2800
 zipSample: ["97331", "97330", "97333", "97339"]
 zipCodes: ["97330", "97333", "97339", "97331"]
 localPaths: ["Benton County / ZIP 97339 sector", "Benton County / elevation 259 ft band", "Benton County / ZIP 97330 sector", "Benton County / ZIP 97333 sector", "Benton County / primary ZIP 97333"]
-zillowHomeValueUsd: 523696
 ---
 
-**Engineering Notice for Corvallis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
+**Engineering Notice for Corvallis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Benton County.
 
+
+Burst pipe and drain clog calls in Corvallis, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Benton County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Corvallis, OR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Cast-iron hub corrosion in Corvallis, OR often concentrates at the third joint upstream of the cleanout.
 
@@ -44,7 +47,7 @@ CPVC solvent weld times shift with ambient humidity during Corvallis, OR shoulde
 
 Flow dossier 354094: branch wet-vent geometry and jetting nozzle envelope logged for Corvallis, OR county grid Benton County (ZIP 97333).
 
-Field routing: scale coupon sampling paired with slab penetration sleeve seal near ZIP 97333.
+Local service note: scale coupon sampling paired with slab penetration sleeve seal near ZIP 97333 for emergency certified plumber repairs.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Benton County and primary ZIP 97333. Terrain reference: 259 ft. Center point: 44.5700, -123.2800. ZIP sample: 97333, 97330, 97339, 97331. Service perimeter note: Coverage extends through Benton County with dispatch centered near ZIP 97333.
 

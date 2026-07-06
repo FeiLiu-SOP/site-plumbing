@@ -12,11 +12,14 @@ lng: -90.2000
 zipSample: ["72364", "72303", "72301"]
 zipCodes: ["72364", "72303", "72301"]
 localPaths: ["Crittenden County / primary ZIP 72301", "Crittenden County / ZIP 72364 sector", "Crittenden County / ZIP 72303 sector", "Crittenden County / elevation 217 ft band", "Crittenden County / ZIP 72301 sector"]
-zillowHomeValueUsd: 132133
 ---
 
-**Engineering Notice for West Memphis:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Crittenden County.
+**Engineering Notice for West Memphis:** Supply line, cleanout, and water heater scope recorded at 217 ft elevation context (Crittenden County).
 
+
+Burst pipe and drain clog calls in West Memphis, AR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Crittenden County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in West Memphis, AR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Crittenden County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -38,7 +41,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 FAQ: When should sump battery backups be load-tested? In West Memphis, AR, before spring thaw and hurricane remnants.
 
-We coordinate West Memphis, AR plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate West Memphis, AR plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 72301.
 
@@ -49,6 +52,8 @@ Frost-free sillcock failures in West Memphis, AR often trace to interior shutoff
 Pressure trace 462688: meter-pit clearance and dielectric union checklist staged for West Memphis, AR near elevation 217 ft.
 
 Supply audit 462688: curb-stop orientation and hose-bib freeze flag reviewed for West Memphis, AR at coords 35.1500/-90.2000.
+
+Local service note: scale coupon sampling paired with PEX expansion ring batch near ZIP 72301 for emergency plumbing technician repairs.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~217 ft across the Crittenden County area. Coordinates: 35.1500, -90.2000. ZIP sample: 72364, 72303, 72301. Logistics priority: Serving residential sectors across Crittenden County and north-east ZIP 72301 grid.
 

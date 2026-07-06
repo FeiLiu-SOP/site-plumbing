@@ -12,11 +12,14 @@ lng: -122.3400
 zipSample: ["94530", "94802", "94807", "94806", "94804"]
 zipCodes: ["94802", "94804", "94801", "94806", "94803", "94530", "94805", "94807", "94850", "94808"]
 localPaths: ["Contra Costa County / ZIP 94802 sector", "Contra Costa County / primary ZIP 94530", "Contra Costa County / elevation 75 ft band", "Contra Costa County / ZIP 94804 sector", "Contra Costa County / ZIP 94530 sector"]
-zillowHomeValueUsd: 1139686
 ---
 
-**Engineering Notice for Richmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Richmond:** Emergency leak and drain triage uses ~163 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Richmond, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency qualified plumber service in Richmond, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Contra Costa County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -24,7 +27,7 @@ Step: map sump float travel and check-valve orientation for Richmond, CA basemen
 
 Dual-water-meter setups in Richmond, CA irrigation zones need backflow logs before line replacement.
 
-We coordinate Richmond, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Richmond, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Permit note: Main water line replacement in Richmond, CA may require ROW restoration planning.
 
@@ -38,7 +41,7 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 

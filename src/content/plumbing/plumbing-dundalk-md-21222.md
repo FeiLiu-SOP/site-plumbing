@@ -12,11 +12,14 @@ lng: -76.4900
 zipSample: ["21224", "21222"]
 zipCodes: ["21222", "21224"]
 localPaths: ["Baltimore County / elevation 30 ft band", "Baltimore County / ZIP 21222 sector", "Baltimore County / primary ZIP 21222", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / ZIP 21224 sector"]
-zillowHomeValueUsd: 226644
 ---
 
-**Engineering Notice for Dundalk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Dundalk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Baltimore County.
 
+
+Plumbing restoration in Dundalk, MD, Baltimore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Dundalk, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -42,7 +45,7 @@ Basement floor drains in Dundalk, MD should be snaked only after trap arm geomet
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 528644: recirculation pump amp draw captured before Dundalk, MD branch isolation.
 

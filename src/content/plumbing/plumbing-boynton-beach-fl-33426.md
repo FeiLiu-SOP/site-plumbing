@@ -12,11 +12,14 @@ lng: -80.0800
 zipSample: ["33435", "33474", "33426", "33436"]
 zipCodes: ["33436", "33474", "33435", "33426"]
 localPaths: ["Palm Beach County / ZIP 33426 sector", "Palm Beach County / ZIP 33436 sector", "Palm Beach County / primary ZIP 33426", "Palm Beach County / ZIP 33474 sector", "Palm Beach County / elevation 36 ft band"]
-zillowHomeValueUsd: 336032
 ---
 
-**Engineering Notice for Boynton Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Boynton Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Palm Beach County.
 
+
+Plumbing remediation in Boynton Beach, FL, Palm Beach County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Boynton Beach, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
@@ -28,7 +31,7 @@ Stack vent offsets in Boynton Beach, FL older duplexes can mask tub gurgle as a 
 
 Risk flag: Seasonal Boynton Beach, FL irrigation cross-connections can mask domestic pressure loss.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is cabling enough? In Boynton Beach, FL, pipe material and blockage type dictate method.
 
@@ -50,7 +53,7 @@ Flow dossier 319899: branch wet-vent geometry and jetting nozzle envelope logged
 
 Intake ledger 319899: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Boynton Beach, FL at 26.5300, -80.0800.
 
-plumbing brief: branch wet vent geometry and water heater T&P path were cross-checked for the Boynton Beach intake packet.
+Plumbing restoration brief: branch wet vent geometry and water heater T&P path were cross-checked for the Boynton Beach pipe and leak scope.
 
 On-site sector marker: Palm Beach County / ZIP 33435 sector — logged for map parity and ZIP-corridor verification.
 

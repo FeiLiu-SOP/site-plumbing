@@ -12,11 +12,14 @@ lng: -95.2000
 zipSample: ["77549", "77546"]
 zipCodes: ["77549", "77546"]
 localPaths: ["Galveston County / coords 29.5100, -95.2000", "Galveston County / primary ZIP 77546", "Galveston County / ZIP 77549 sector", "Galveston County / ZIP 77546 sector", "Galveston County / elevation 39 ft band"]
-zillowHomeValueUsd: 400399
 ---
 
-**Engineering Notice for Friendswood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Galveston County.
+**Engineering Notice for Friendswood:** Emergency leak and drain triage uses ~172 mg/L hardness context with Galveston County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Friendswood, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Galveston County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Friendswood, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Galveston County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -47,8 +50,6 @@ Risk flag: In Friendswood, TX, slab leaks can misroute as foundation issues with
 Intake ledger 581408: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Friendswood, TX at 29.5100, -95.2000.
 
 Supply audit 581408: curb-stop orientation and hose-bib freeze flag reviewed for Friendswood, TX at coords 29.5100/-95.2000.
-
-Field routing: backflow test cock orientation paired with PEX expansion ring batch near ZIP 77546.
 
 Regional mesh label Galveston County: moisture and logistics baselines are keyed to Friendswood, TX before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -83.7100
 zipSample: ["43560"]
 zipCodes: ["43560"]
 localPaths: ["Lucas County / coords 41.7100, -83.7100", "Lucas County / ZIP 43560 sector", "Lucas County / primary ZIP 43560", "Lucas County / elevation 689 ft band"]
-zillowHomeValueUsd: 320229
 ---
 
-**Engineering Notice for Sylvania:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lucas County.
+**Engineering Notice for Sylvania:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lucas County.
 
+
+Plumbing service in Sylvania, OH, Lucas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Sylvania, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lucas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -44,7 +47,7 @@ Basement floor drains in Sylvania, OH should be snaked only after trap arm geome
 
 Lineage note 504798: recirculation pump amp draw captured before Sylvania, OH branch isolation.
 
-Scope trace: slab leak listening window plus toilet flange spacer kit referenced in Lucas County county grid review.
+Scope trace: slab leak listening window plus toilet flange spacer kit referenced in Lucas County drain and water line review.
 
 On-site sector marker: Lucas County / ZIP 43560 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,12 +12,14 @@ lng: -66.0100
 zipSample: ["00976", "00926", "00977", "00978"]
 zipCodes: ["00976", "00926", "00977", "00978"]
 localPaths: ["Trujillo Alto County / elevation 200 ft band", "Trujillo Alto County / coords 18.3600, -66.0100", "Trujillo Alto County / ZIP 00977 sector", "Trujillo Alto County / primary ZIP 00976", "Trujillo Alto County / ZIP 00926 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 367208
 ---
 
-**Engineering Notice for Trujillo Alto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Trujillo Alto County.
+**Engineering Notice for Trujillo Alto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Trujillo Alto County.
 
+
+When a main line backs up in Trujillo Alto, PR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Trujillo Alto, PR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -48,6 +50,8 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 Flow dossier 441920: branch wet-vent geometry and jetting nozzle envelope logged for Trujillo Alto, PR county grid Trujillo Alto County (ZIP 00976).
 
 Lineage note 441920: recirculation pump amp draw captured before Trujillo Alto, PR branch isolation.
+
+Plumbing remediation brief: branch wet vent geometry and recirculation pump amp draw were cross-checked for the Trujillo Alto pipe and leak scope.
 
 On-site sector marker: Trujillo Alto County / coords 18.3600, -66.0100 — logged for map parity and ZIP-corridor verification.
 

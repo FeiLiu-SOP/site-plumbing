@@ -12,11 +12,14 @@ lng: -97.4400
 zipSample: ["73115", "73117"]
 zipCodes: ["73115", "73117"]
 localPaths: ["Oklahoma County / coords 35.4500, -97.4400", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / primary ZIP 73115", "Oklahoma County / ZIP 73117 sector", "Oklahoma County / ZIP 73115 sector"]
-zillowHomeValueUsd: 138430
 ---
 
-**Engineering Notice for Del City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Del City:** Supply line, cleanout, and water heater scope recorded at 1227 ft elevation context (Oklahoma County).
 
+
+Burst pipe and drain clog calls in Del City, OK may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oklahoma County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Del City, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -44,11 +47,11 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Irrigation cross-connections in Del City, OK can back-siphon domestic lines during main breaks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Drain map 869254: camera-pass priority and expansion-tank pre-charge noted for Del City, OK postal sector 73115.
 
-plumbing brief: shower cartridge seat score and branch wet vent geometry were cross-checked for the Del City intake packet.
+Plumbing service brief: shower cartridge seat score and branch wet vent geometry were cross-checked for the Del City pipe and leak scope.
 
 On-site sector marker: Oklahoma County / coords 35.4500, -97.4400 — logged for map parity and ZIP-corridor verification.
 

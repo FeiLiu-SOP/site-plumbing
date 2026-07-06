@@ -12,11 +12,14 @@ lng: -85.4900
 zipSample: ["36831", "36849", "36830", "36832"]
 zipCodes: ["36849", "36830", "36831", "36832"]
 localPaths: ["Lee County / ZIP 36831 sector", "Lee County / coords 32.6100, -85.4900", "Lee County / ZIP 36832 sector", "Lee County / ZIP 36849 sector", "Lee County / ZIP 36830 sector"]
-zillowHomeValueUsd: 423701
 ---
 
-**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lee County.
+**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lee County.
 
+
+When a main line backs up in Auburn, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Auburn, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,8 +50,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
 Fixture roster 930392: toilet flange spacer kit and shower cartridge seat score queued for Auburn, AL walk-through.
-
-Scope trace: slab leak listening window plus scale coupon sampling referenced in Lee County county grid review.
 
 On-site sector marker: Lee County / ZIP 36849 sector — logged for map parity and ZIP-corridor verification.
 

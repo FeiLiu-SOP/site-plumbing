@@ -12,11 +12,14 @@ lng: -88.3200
 zipSample: ["60134"]
 zipCodes: ["60134"]
 localPaths: ["Kane County / coords 41.8800, -88.3200", "Kane County / elevation 741 ft band", "Kane County / ZIP 60134 sector", "Kane County / primary ZIP 60134"]
-zillowHomeValueUsd: 532144
 ---
 
-**Engineering Notice for Geneva:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for Geneva:** Supply line, cleanout, and water heater scope recorded at 741 ft elevation context (Kane County).
 
+
+When a main line backs up in Geneva, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Emergency licensed plumber service in Geneva, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kane County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Permit note: Main water line replacement in Geneva, IL may require ROW restoration planning.
 
@@ -45,8 +48,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 Basement floor drains in Geneva, IL should be snaked only after trap arm geometry is confirmed on camera.
 
 Lineage note 198135: recirculation pump amp draw captured before Geneva, IL branch isolation.
-
-Field routing: toilet flange spacer kit paired with jetter nozzle envelope near ZIP 60134.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Kane County and primary ZIP 60134. Terrain reference: 741 ft. Center point: 41.8800, -88.3200. ZIP sample: 60134. Regional routing note: Kane County traffic flow is balanced around ZIP 60134 service demand.
 

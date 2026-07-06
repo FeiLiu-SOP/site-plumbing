@@ -12,11 +12,14 @@ lng: -75.1300
 zipSample: ["19119", "19183", "19153", "19122", "19106"]
 zipCodes: ["19116", "19188", "19150", "19190", "19101", "19134", "19138", "19105", "19149", "19104", "19135", "19110"]
 localPaths: ["Philadelphia County / ZIP 19106 sector", "Philadelphia County / elevation 105 ft band", "Philadelphia County / ZIP 19119 sector", "Philadelphia County / primary ZIP 19154", "Philadelphia County / ZIP 19183 sector"]
-zillowHomeValueUsd: 321043
 ---
 
-**Engineering Notice for Philadelphia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Philadelphia County.
+**Engineering Notice for Philadelphia:** Supply line, cleanout, and water heater scope recorded at 105 ft elevation context (Philadelphia County).
 
+
+Burst pipe and drain clog calls in Philadelphia, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Philadelphia County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Philadelphia, PA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Philadelphia County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Galvanized segments in Philadelphia, PA may restrict flow long before visible corrosion.
 
@@ -45,8 +48,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Lineage note 532626: recirculation pump amp draw captured before Philadelphia, PA branch isolation.
-
-Field routing: sump float travel paired with shower cartridge seat score near ZIP 19154.
 
 ZIP-corridor snapshot for Philadelphia, PA: sampled sectors include 19149, 19110, 19152, 19115, 19134, 19161, 19170, 19153; county routing grid remains Philadelphia County.
 

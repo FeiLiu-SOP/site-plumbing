@@ -12,11 +12,14 @@ lng: -82.7600
 zipSample: ["33766", "33767", "33756", "33757", "33761"]
 zipCodes: ["33763", "33757", "33765", "33761", "33755", "33764", "33758", "33759", "33767", "33769", "33756", "33766"]
 localPaths: ["Pinellas County / ZIP 33766 sector", "Pinellas County / primary ZIP 33759", "Pinellas County / ZIP 33761 sector", "Pinellas County / ZIP 33757 sector", "Pinellas County / elevation 82 ft band"]
-zillowHomeValueUsd: 343265
 ---
 
-**Engineering Notice for Clearwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for Clearwater:** Supply line, cleanout, and water heater scope recorded at 82 ft elevation context (Pinellas County).
 
+
+Plumbing remediation in Clearwater, FL, Pinellas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Clearwater, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Permit note: Main water line replacement in Clearwater, FL may require ROW restoration planning.
 
@@ -47,8 +50,6 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Supply audit 343908: curb-stop orientation and hose-bib freeze flag reviewed for Clearwater, FL at coords 27.9800/-82.7600.
-
-Scope trace: scale coupon sampling plus hose bib freeze flag referenced in Pinellas County county grid review.
 
 Primary postal anchor 33759 with multi-ZIP overlap in Clearwater; field packets tag Pinellas County for county-grid reconciliation.
 

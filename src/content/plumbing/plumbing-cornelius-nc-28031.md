@@ -12,11 +12,14 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / primary ZIP 28031", "Mecklenburg County / coords 35.4700, -80.8800", "Mecklenburg County / ZIP 28031 sector", "Mecklenburg County / elevation 768 ft band"]
-zillowHomeValueUsd: 544187
 ---
 
-**Engineering Notice for Cornelius:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Cornelius:** Emergency leak and drain triage uses ~170 mg/L hardness context with Mecklenburg County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Cornelius, NC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Cornelius, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Mecklenburg County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -34,7 +37,7 @@ Tip: Save water heater serial plates for warranty traceability.
 
 Frost-free sillcock failures in Cornelius, NC often trace to interior shutoff seats, not exterior stems.
 
-We coordinate Cornelius, NC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Cornelius, NC plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: In Cornelius, NC, slab leaks can misroute as foundation issues without listening equipment.
 

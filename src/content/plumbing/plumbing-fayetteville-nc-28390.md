@@ -12,11 +12,14 @@ lng: -78.9800
 zipSample: ["28304", "28302", "28390", "28305", "28306"]
 zipCodes: ["28303", "28306", "28301", "28305", "28309", "28302", "28308", "28314", "28307", "28390", "28304", "28310"]
 localPaths: ["Cumberland County / ZIP 28306 sector", "Cumberland County / ZIP 28302 sector", "Cumberland County / primary ZIP 28390", "Cumberland County / elevation 233 ft band", "Cumberland County / ZIP 28390 sector"]
-zillowHomeValueUsd: 248008
 ---
 
-**Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Fayetteville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cumberland County.
 
+
+Licensed plumbing crews serving Fayetteville, NC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Fayetteville, NC, Cumberland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

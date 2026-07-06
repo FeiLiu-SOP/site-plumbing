@@ -8,15 +8,18 @@ zipCode: "90069"
 county: "Los Angeles County"
 elevationFt: 259
 lat: 34.0900
-lng: -118.3700
+lng: -118.3400
 zipSample: ["90069", "90048", "90046"]
 zipCodes: ["90048", "90046", "90069"]
 localPaths: ["Los Angeles County / ZIP 90048 sector", "Los Angeles County / ZIP 90046 sector", "Los Angeles County / ZIP 90069 sector", "Los Angeles County / elevation 259 ft band", "Los Angeles County / primary ZIP 90069"]
-zillowHomeValueUsd: 1271491
 ---
 
-**Engineering Notice for West Hollywood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Hollywood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+When a main line backs up in West Hollywood, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing restoration in West Hollywood, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Sump discharge freeze risk in West Hollywood, CA should be reviewed before spring thaw cycles.
 
@@ -34,7 +37,7 @@ Risk flag: In West Hollywood, CA, slab leaks can misroute as foundation issues w
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-We coordinate West Hollywood, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate West Hollywood, CA plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Expansion tank pre-charge loss in West Hollywood, CA often tracks heater replacement deferrals.
 
@@ -49,8 +52,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Pressure trace 378691: meter-pit clearance and dielectric union checklist staged for West Hollywood, CA near elevation 259 ft.
 
 Drain map 378691: camera-pass priority and expansion-tank pre-charge noted for West Hollywood, CA postal sector 90069.
-
-Field routing: sewer cleanout cap thread paired with toilet flange spacer kit near ZIP 90069.
 
 On-site sector marker: Los Angeles County / ZIP 90048 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -118.2900
 zipSample: ["90710", "90502"]
 zipCodes: ["90710", "90502"]
 localPaths: ["Los Angeles County / coords 33.8200, -118.2900", "Los Angeles County / ZIP 90502 sector", "Los Angeles County / primary ZIP 90710", "Los Angeles County / ZIP 90710 sector", "Los Angeles County / elevation 52 ft band"]
-zillowHomeValueUsd: 843449
 ---
 
-**Engineering Notice for West Carson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Carson:** Supply line, cleanout, and water heater scope recorded at 52 ft elevation context (Los Angeles County).
 
+
+Qualified plumbing crews serving West Carson, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in West Carson, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Across West Carson, CA, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -36,7 +39,7 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 Permit note: Main water line replacement in West Carson, CA may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Expansion tank pre-charge loss in West Carson, CA often tracks heater replacement deferrals.
 
@@ -49,8 +52,6 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Flow dossier 180746: branch wet-vent geometry and jetting nozzle envelope logged for West Carson, CA county grid Los Angeles County (ZIP 90710).
 
 Supply audit 180746: curb-stop orientation and hose-bib freeze flag reviewed for West Carson, CA at coords 33.8200/-118.2900.
-
-plumbing brief: thermal expansion loop check and toilet flange spacer kit were cross-checked for the West Carson intake packet.
 
 Primary postal anchor 90710 with multi-ZIP overlap in West Carson; field packets tag Los Angeles County for county-grid reconciliation.
 

@@ -12,11 +12,14 @@ lng: -122.2400
 zipSample: ["98021", "98036", "98012"]
 zipCodes: ["98036", "98021", "98012"]
 localPaths: ["Snohomish County / ZIP 98036 sector", "Snohomish County / elevation 479 ft band", "Snohomish County / ZIP 98021 sector", "Snohomish County / ZIP 98012 sector", "Snohomish County / primary ZIP 98021"]
-zillowHomeValueUsd: 1146120
 ---
 
-**Engineering Notice for Bothell West:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Bothell West:** Supply line, cleanout, and water heater scope recorded at 479 ft elevation context (Snohomish County).
 
+
+Emergency plumbing pro service in Bothell West, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Snohomish County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Qualified plumbing crews serving Bothell West, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hard water in Bothell West, WA accelerates scale on PRV seats and heater elements.
 
@@ -47,6 +50,8 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 Fixture roster 196957: toilet flange spacer kit and shower cartridge seat score queued for Bothell West, WA walk-through.
 
 Drain map 196957: camera-pass priority and expansion-tank pre-charge noted for Bothell West, WA postal sector 98021.
+
+Scope trace: fixture shutoff torque log plus recirculation pump amp draw referenced in Snohomish County drain and water line review.
 
 On-site sector marker: Snohomish County / elevation 479 ft band — logged for map parity and ZIP-corridor verification.
 

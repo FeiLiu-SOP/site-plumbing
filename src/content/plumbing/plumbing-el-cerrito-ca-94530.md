@@ -12,11 +12,14 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / elevation 194 ft band", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94530 sector"]
-zillowHomeValueUsd: 1139685
 ---
 
-**Engineering Notice for El Cerrito:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for El Cerrito:** Supply line, cleanout, and water heater scope recorded at 194 ft elevation context (Contra Costa County).
 
+
+When a main line backs up in El Cerrito, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing remediation in El Cerrito, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Cast-iron hub corrosion in El Cerrito, CA often concentrates at the third joint upstream of the cleanout.
 
@@ -26,7 +29,7 @@ Dual-water-meter setups in El Cerrito, CA irrigation zones need backflow logs be
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Cleanout access limits in El Cerrito, CA frequently extend drain cleaning duration.
 

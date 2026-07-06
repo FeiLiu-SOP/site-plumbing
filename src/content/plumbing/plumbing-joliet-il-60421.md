@@ -12,11 +12,14 @@ lng: -88.1500
 zipSample: ["60431", "60434", "60586", "60435", "60421"]
 zipCodes: ["60432", "60433", "60586", "60431", "60434", "60436", "60421", "60435"]
 localPaths: ["Will County / ZIP 60586 sector", "Will County / ZIP 60421 sector", "Will County / elevation 614 ft band", "Will County / ZIP 60434 sector", "Will County / coords 41.5200, -88.1500"]
-zillowHomeValueUsd: 311124
 ---
 
-**Engineering Notice for Joliet:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Joliet:** Supply line, cleanout, and water heater scope recorded at 614 ft elevation context (Will County).
 
+
+Certified plumbing crews serving Joliet, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Joliet, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 60421.
 
@@ -47,8 +50,6 @@ Basement floor drains in Joliet, IL should be snaked only after trap arm geometr
 Stack vent offsets in Joliet, IL older duplexes can mask tub gurgle as a main-line failure.
 
 Pressure trace 691529: meter-pit clearance and dielectric union checklist staged for Joliet, IL near elevation 614 ft.
-
-Field routing: copper pinhole cluster paired with toilet flange spacer kit near ZIP 60421.
 
 Coordinate-anchored dispatch note: center reference 41.5200, -88.1500 at elevation ~614 ft aligns with Will County intake staging.
 

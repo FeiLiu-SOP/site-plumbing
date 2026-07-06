@@ -12,13 +12,16 @@ lng: -117.7000
 zipSample: ["92607", "92677"]
 zipCodes: ["92607", "92677"]
 localPaths: ["Orange County / primary ZIP 92677", "Orange County / ZIP 92677 sector", "Orange County / elevation 489 ft band", "Orange County / ZIP 92607 sector", "Orange County / coords 33.5300, -117.7000"]
-zillowHomeValueUsd: 1498192
 ---
 
-**Engineering Notice for Laguna Niguel:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Niguel:** Supply line, cleanout, and water heater scope recorded at 489 ft elevation context (Orange County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+Emergency plumbing pro service in Laguna Niguel, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing remediation in Laguna Niguel, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -45,8 +48,6 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 Lineage note 771223: recirculation pump amp draw captured before Laguna Niguel, CA branch isolation.
 
 Drain map 771223: camera-pass priority and expansion-tank pre-charge noted for Laguna Niguel, CA postal sector 92677.
-
-Scope trace: scale coupon sampling plus slab penetration sleeve seal referenced in Orange County county grid review.
 
 On-site sector marker: Orange County / ZIP 92607 sector — logged for map parity and ZIP-corridor verification.
 

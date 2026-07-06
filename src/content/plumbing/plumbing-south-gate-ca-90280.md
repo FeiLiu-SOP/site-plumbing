@@ -12,11 +12,14 @@ lng: -118.1900
 zipSample: ["90280"]
 zipCodes: ["90280"]
 localPaths: ["Los Angeles County / primary ZIP 90280", "Los Angeles County / ZIP 90280 sector", "Los Angeles County / coords 33.9400, -118.1900", "Los Angeles County / elevation 121 ft band"]
-zillowHomeValueUsd: 700722
 ---
 
-**Engineering Notice for South Gate:** Domestic water distribution review emphasizes hardness-driven scaling risk (~128 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Gate:** Emergency leak and drain triage uses ~128 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in South Gate, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in South Gate, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Los Angeles County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

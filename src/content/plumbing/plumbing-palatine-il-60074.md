@@ -12,11 +12,14 @@ lng: -88.0400
 zipSample: ["60074", "60055", "60067", "60095"]
 zipCodes: ["60095", "60074", "60067", "60055"]
 localPaths: ["Cook County / ZIP 60055 sector", "Cook County / ZIP 60074 sector", "Cook County / ZIP 60067 sector", "Cook County / elevation 768 ft band", "Cook County / coords 42.1200, -88.0400"]
-zillowHomeValueUsd: 301853
 ---
 
-**Engineering Notice for Palatine:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Palatine:** Supply line, cleanout, and water heater scope recorded at 768 ft elevation context (Cook County).
 
+
+Emergency plumbing pro service in Palatine, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Cook County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Palatine, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Palatine, IL, slab leaks can misroute as foundation issues without listening equipment.
 

@@ -12,11 +12,14 @@ lng: -82.1100
 zipSample: ["33954", "33949", "33952", "33980", "33948"]
 zipCodes: ["33954", "33948", "33980", "33949", "33952"]
 localPaths: ["Charlotte County / ZIP 33948 sector", "Charlotte County / ZIP 33954 sector", "Charlotte County / ZIP 33949 sector", "Charlotte County / primary ZIP 33954", "Charlotte County / ZIP 33952 sector"]
-zillowHomeValueUsd: 298501
 ---
 
-**Engineering Notice for Port Charlotte:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Charlotte County.
+**Engineering Notice for Port Charlotte:** Supply line, cleanout, and water heater scope recorded at 20 ft elevation context (Charlotte County).
 
+
+Burst pipe and drain clog calls in Port Charlotte, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Charlotte County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Port Charlotte, FL, Charlotte County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -42,11 +45,9 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 
 Stack vent offsets in Port Charlotte, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch packets reference county grid Charlotte County near ZIP 33954.
+Our Port Charlotte, FL service packets reference Charlotte County near ZIP 33954 for pipe and leak scope.
 
 Fixture roster 567462: toilet flange spacer kit and shower cartridge seat score queued for Port Charlotte, FL walk-through.
-
-Scope trace: slab penetration sleeve seal plus toilet flange spacer kit referenced in Charlotte County county grid review.
 
 On-site sector marker: Charlotte County / ZIP 33980 sector — logged for map parity and ZIP-corridor verification.
 

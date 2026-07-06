@@ -12,11 +12,14 @@ lng: -73.7100
 zipSample: ["12047"]
 zipCodes: ["12047"]
 localPaths: ["Albany County / elevation 236 ft band", "Albany County / primary ZIP 12047", "Albany County / coords 42.7700, -73.7100", "Albany County / ZIP 12047 sector"]
-zillowHomeValueUsd: 330513
 ---
 
-**Engineering Notice for Cohoes:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Albany County.
+**Engineering Notice for Cohoes:** Supply line, cleanout, and water heater scope recorded at 236 ft elevation context (Albany County).
 
+
+Certified plumbing crews serving Cohoes, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Cohoes, NY, Albany County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Basement floor drains in Cohoes, NY should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -45,8 +48,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 CPVC solvent weld times shift with ambient humidity during Cohoes, NY shoulder seasons.
 
 Pressure trace 342442: meter-pit clearance and dielectric union checklist staged for Cohoes, NY near elevation 236 ft.
-
-plumbing brief: meter pit clearance and sewer cleanout cap thread were cross-checked for the Cohoes intake packet.
 
 On-site sector marker: Albany County / coords 42.7700, -73.7100 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -122.2000
 zipSample: ["98011", "98041", "98021"]
 zipCodes: ["98011", "98041", "98021"]
 localPaths: ["King County / coords 47.7700, -122.2000", "King County / primary ZIP 98021", "King County / ZIP 98011 sector", "King County / ZIP 98041 sector", "King County / ZIP 98021 sector"]
-zillowHomeValueUsd: 1146119
 ---
 
-**Engineering Notice for Bothell:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Bothell:** Emergency leak and drain triage uses ~163 mg/L hardness context with King County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Bothell, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Bothell, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -42,13 +45,13 @@ Sewer gas odors in Bothell, WA should trigger trap seal and vent path review.
 
 CPVC solvent weld times shift with ambient humidity during Bothell, WA shoulder seasons.
 
-We coordinate Bothell, WA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Bothell, WA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Drain map 716991: camera-pass priority and expansion-tank pre-charge noted for Bothell, WA postal sector 98021.
 
 Lineage note 716991: recirculation pump amp draw captured before Bothell, WA branch isolation.
 
-Field routing: branch wet vent geometry paired with sump float travel near ZIP 98021.
+Local service note: branch wet vent geometry paired with sump float travel near ZIP 98021 for emergency plumbing pro repairs.
 
 Coordinate-anchored dispatch note: center reference 47.7700, -122.2000 at elevation ~302 ft aligns with King County intake staging.
 

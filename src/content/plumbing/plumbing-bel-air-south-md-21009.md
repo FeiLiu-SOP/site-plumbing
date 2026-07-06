@@ -12,17 +12,20 @@ lng: -76.3100
 zipSample: ["21009", "21014", "21015"]
 zipCodes: ["21015", "21009", "21014"]
 localPaths: ["Harford County / ZIP 21009 sector", "Harford County / ZIP 21015 sector", "Harford County / primary ZIP 21009", "Harford County / coords 39.5000, -76.3100", "Harford County / elevation 213 ft band"]
-zillowHomeValueUsd: 374718
 ---
 
-**Engineering Notice for Bel Air South:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Harford County.
+**Engineering Notice for Bel Air South:** Supply line, cleanout, and water heater scope recorded at 213 ft elevation context (Harford County).
 
+
+Plumbing service in Bel Air South, MD, Harford County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Bel Air South, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Harford County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-We coordinate Bel Air South, MD plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Bel Air South, MD plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -47,8 +50,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Pressure trace 460819: meter-pit clearance and dielectric union checklist staged for Bel Air South, MD near elevation 213 ft.
 
 Drain map 460819: camera-pass priority and expansion-tank pre-charge noted for Bel Air South, MD postal sector 21009.
-
-plumbing brief: water softener bypass lever and shower cartridge seat score were cross-checked for the Bel Air South intake packet.
 
 On-site sector marker: Harford County / ZIP 21009 sector — logged for map parity and ZIP-corridor verification.
 

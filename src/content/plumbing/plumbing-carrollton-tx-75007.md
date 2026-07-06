@@ -12,17 +12,20 @@ lng: -96.9000
 zipSample: ["75007", "75011", "75010", "75006"]
 zipCodes: ["75010", "75007", "75006", "75011"]
 localPaths: ["Dallas County / ZIP 75007 sector", "Dallas County / ZIP 75011 sector", "Dallas County / ZIP 75010 sector", "Dallas County / elevation 495 ft band", "Dallas County / coords 32.9900, -96.9000"]
-zillowHomeValueUsd: 401129
 ---
 
-**Engineering Notice for Carrollton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Carrollton:** Emergency leak and drain triage uses ~133 mg/L hardness context with Dallas County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Carrollton, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Dallas County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Carrollton, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dallas County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Carrollton, TX irrigation cross-connections can mask domestic pressure loss.
 
 Risk flag: In Carrollton, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch packets reference county grid Dallas County near ZIP 75007.
+Our Carrollton, TX service packets reference Dallas County near ZIP 75007 for pipe and leak scope.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Carrollton, TX.
 
@@ -47,6 +50,8 @@ FAQ: When is full replacement safer? Clustered failures often justify staged rep
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Supply audit 524036: curb-stop orientation and hose-bib freeze flag reviewed for Carrollton, TX at coords 32.9900/-96.9000.
+
+Plumbing service brief: backflow test cock orientation and PRV outlet curve were cross-checked for the Carrollton pipe and leak scope.
 
 On-site sector marker: Dallas County / ZIP 75011 sector — logged for map parity and ZIP-corridor verification.
 

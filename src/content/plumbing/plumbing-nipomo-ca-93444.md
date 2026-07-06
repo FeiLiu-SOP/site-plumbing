@@ -12,11 +12,14 @@ lng: -120.5000
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / coords 35.0300, -120.5000", "San Luis Obispo County / primary ZIP 93444", "San Luis Obispo County / elevation 377 ft band", "San Luis Obispo County / ZIP 93444 sector"]
-zillowHomeValueUsd: 941645
 ---
 
-**Engineering Notice for Nipomo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for Nipomo:** Supply line, cleanout, and water heater scope recorded at 377 ft elevation context (San Luis Obispo County).
 
+
+Burst pipe and drain clog calls in Nipomo, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Luis Obispo County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Nipomo, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -28,7 +31,7 @@ Frost-free sillcock failures in Nipomo, CA often trace to interior shutoff seats
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-We coordinate Nipomo, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Nipomo, CA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

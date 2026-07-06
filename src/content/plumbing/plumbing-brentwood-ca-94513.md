@@ -12,11 +12,14 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / ZIP 94513 sector", "Contra Costa County / primary ZIP 94513", "Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / elevation 85 ft band"]
-zillowHomeValueUsd: 805384
 ---
 
-**Engineering Notice for Brentwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Brentwood:** Emergency leak and drain triage uses ~172 mg/L hardness context with Contra Costa County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Brentwood, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Brentwood, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Across Brentwood, CA, main-line bellies can trap debris even when fixtures drain normally.
 

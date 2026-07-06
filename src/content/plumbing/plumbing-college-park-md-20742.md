@@ -12,11 +12,14 @@ lng: -76.9300
 zipSample: ["20742", "20741", "20740"]
 zipCodes: ["20742", "20741", "20740"]
 localPaths: ["Prince George's County / coords 39.0000, -76.9300", "Prince George's County / primary ZIP 20742", "Prince George's County / ZIP 20741 sector", "Prince George's County / elevation 105 ft band", "Prince George's County / ZIP 20740 sector"]
-zillowHomeValueUsd: 438673
 ---
 
-**Engineering Notice for College Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Prince George's County.
+**Engineering Notice for College Park:** Supply line, cleanout, and water heater scope recorded at 105 ft elevation context (Prince George's County).
 
+
+Licensed plumbing crews serving College Park, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency qualified plumber service in College Park, MD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Prince George's County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 20742.
 
@@ -45,8 +48,6 @@ Sump discharge freeze risk in College Park, MD should be reviewed before spring 
 Supply audit 617153: curb-stop orientation and hose-bib freeze flag reviewed for College Park, MD at coords 39.0000/-76.9300.
 
 Drain map 617153: camera-pass priority and expansion-tank pre-charge noted for College Park, MD postal sector 20742.
-
-plumbing brief: copper pinhole cluster and floor drain trap primer drip were cross-checked for the College Park intake packet.
 
 On-site sector marker: Prince George's County / ZIP 20740 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -90.1300
 zipSample: ["62040", "62048"]
 zipCodes: ["62040", "62048"]
 localPaths: ["Madison County / primary ZIP 62048", "Madison County / elevation 430 ft band", "Madison County / ZIP 62040 sector", "Madison County / ZIP 62048 sector", "Madison County / coords 38.7300, -90.1300"]
-zillowHomeValueUsd: 74954
 ---
 
-**Engineering Notice for Granite City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Granite City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Madison County.
 
+
+Licensed plumbing crews serving Granite City, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Granite City, IL, Madison County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Granite City, IL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -45,6 +48,8 @@ Expansion tank pre-charge loss in Granite City, IL often tracks heater replaceme
 Step: photograph curb-stop and meter pit before trenching.
 
 Lineage note 116993: recirculation pump amp draw captured before Granite City, IL branch isolation.
+
+Plumbing restoration brief: cleanout riser height and slab penetration sleeve seal were cross-checked for the Granite City pipe and leak scope.
 
 On-site sector marker: Madison County / coords 38.7300, -90.1300 — logged for map parity and ZIP-corridor verification.
 

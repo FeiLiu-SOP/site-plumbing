@@ -12,11 +12,14 @@ lng: -76.5700
 zipSample: ["13021", "13024", "13022"]
 zipCodes: ["13022", "13021", "13024"]
 localPaths: ["Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700", "Cayuga County / ZIP 13021 sector", "Cayuga County / ZIP 13022 sector", "Cayuga County / primary ZIP 13021"]
-zillowHomeValueUsd: 214992
 ---
 
-**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cayuga County.
+**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cayuga County.
 
+
+Burst pipe and drain clog calls in Auburn, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cayuga County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Auburn, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -49,6 +52,8 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Fixture roster 615044: toilet flange spacer kit and shower cartridge seat score queued for Auburn, NY walk-through.
 
 Flow dossier 615044: branch wet-vent geometry and jetting nozzle envelope logged for Auburn, NY county grid Cayuga County (ZIP 13021).
+
+Scope trace: slab leak listening window plus water softener bypass lever referenced in Cayuga County drain and water line review.
 
 On-site sector marker: Cayuga County / elevation 669 ft band — logged for map parity and ZIP-corridor verification.
 

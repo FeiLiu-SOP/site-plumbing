@@ -12,11 +12,14 @@ lng: -88.9900
 zipSample: ["61761", "61790"]
 zipCodes: ["61790", "61761"]
 localPaths: ["McLean County / ZIP 61761 sector", "McLean County / primary ZIP 61761", "McLean County / ZIP 61790 sector", "McLean County / elevation 843 ft band", "McLean County / coords 40.5200, -88.9900"]
-zillowHomeValueUsd: 258693
 ---
 
-**Engineering Notice for Normal:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLean County.
+**Engineering Notice for Normal:** Supply line, cleanout, and water heater scope recorded at 843 ft elevation context (McLean County).
 
+
+Emergency licensed plumber service in Normal, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in McLean County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Licensed plumbing crews serving Normal, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hose bib split patterns in Normal, IL often follow missed winterization.
 
@@ -26,7 +29,7 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 617
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-We coordinate Normal, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Normal, IL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 In Normal, IL, slab leaks often present as warm spots before wall stains appear.
 
@@ -46,7 +49,7 @@ Risk flag: Seasonal Normal, IL irrigation cross-connections can mask domestic pr
 
 Fixture roster 423788: toilet flange spacer kit and shower cartridge seat score queued for Normal, IL walk-through.
 
-Field routing: sewer cleanout cap thread paired with hose bib freeze flag near ZIP 61761.
+Local service note: sewer cleanout cap thread paired with hose bib freeze flag near ZIP 61761 for emergency plumbing technician repairs.
 
 On-site sector marker: McLean County / ZIP 61761 sector — logged for map parity and ZIP-corridor verification.
 

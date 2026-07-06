@@ -12,12 +12,14 @@ lng: -66.1400
 zipSample: ["00962", "00949", "00963"]
 zipCodes: ["00962", "00963", "00949"]
 localPaths: ["Cataño County / ZIP 00962 sector", "Cataño County / ZIP 00949 sector", "Cataño County / primary ZIP 00949", "Cataño County / coords 18.4400, -66.1400", "Cataño County / elevation 16 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 374251
 ---
 
-**Engineering Notice for Cataño:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cataño County.
+**Engineering Notice for Cataño:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cataño County.
 
+
+Burst pipe and drain clog calls in Cataño, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cataño County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Cataño, PR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -48,8 +50,6 @@ Tip: Log sump cycle frequency during heavy rain windows.
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 Supply audit 859784: curb-stop orientation and hose-bib freeze flag reviewed for Cataño, PR at coords 18.4400/-66.1400.
-
-Scope trace: slab leak listening window plus sewer cleanout cap thread referenced in Cataño County county grid review.
 
 ZIP-corridor snapshot for Cataño, PR: sampled sectors include 00963, 00949, 00962; county routing grid remains Cataño County.
 

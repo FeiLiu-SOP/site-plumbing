@@ -12,13 +12,16 @@ lng: -74.0700
 zipSample: ["07652", "07653"]
 zipCodes: ["07652", "07653"]
 localPaths: ["Bergen County / elevation 59 ft band", "Bergen County / ZIP 07653 sector", "Bergen County / primary ZIP 07652", "Bergen County / coords 40.9500, -74.0700", "Bergen County / ZIP 07652 sector"]
-zillowHomeValueUsd: 1041858
 ---
 
-**Engineering Notice for Paramus:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bergen County.
+**Engineering Notice for Paramus:** Emergency leak and drain triage uses ~158 mg/L hardness context with Bergen County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing restoration in Paramus, NJ, Bergen County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Paramus, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bergen County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Polybutylene manifold tags in Paramus, NJ basements should be photographed before any wall chase opens.
 

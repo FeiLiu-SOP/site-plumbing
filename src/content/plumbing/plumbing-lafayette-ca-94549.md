@@ -12,11 +12,14 @@ lng: -122.1200
 zipSample: ["94549"]
 zipCodes: ["94549"]
 localPaths: ["Contra Costa County / ZIP 94549 sector", "Contra Costa County / elevation 289 ft band", "Contra Costa County / coords 37.8900, -122.1200", "Contra Costa County / primary ZIP 94549"]
-zillowHomeValueUsd: 1940600
 ---
 
-**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Contra Costa County.
 
+
+When a main line backs up in Lafayette, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Lafayette, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Trenchless pulls in Lafayette, CA require pit dimensions verified against utility locate marks.
 

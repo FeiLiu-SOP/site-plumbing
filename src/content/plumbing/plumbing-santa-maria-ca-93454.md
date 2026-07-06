@@ -12,11 +12,14 @@ lng: -120.4400
 zipSample: ["93454", "93455", "93458"]
 zipCodes: ["93458", "93455", "93454"]
 localPaths: ["Santa Barbara County / primary ZIP 93454", "Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / ZIP 93455 sector", "Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / coords 34.9300, -120.4400"]
-zillowHomeValueUsd: 626991
 ---
 
-**Engineering Notice for Santa Maria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Santa Maria:** Supply line, cleanout, and water heater scope recorded at 213 ft elevation context (Santa Barbara County).
 
+
+Plumbing service in Santa Maria, CA, Santa Barbara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Santa Maria, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Barbara County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -43,8 +46,6 @@ Recirculation pump failures in Santa Maria, CA can mimic fixture-specific clogs.
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Lineage note 527744: recirculation pump amp draw captured before Santa Maria, CA branch isolation.
-
-Scope trace: water heater T&P path plus toilet flange spacer kit referenced in Santa Barbara County county grid review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Santa Barbara County. Reference elevation: 213 ft. Primary coordinates: 34.9300, -120.4400. ZIP sample: 93454, 93455, 93458. Logistics priority: Serving residential sectors across Santa Barbara County and north-east ZIP 93454 grid.
 

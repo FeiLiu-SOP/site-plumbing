@@ -12,11 +12,14 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / ZIP 63125 sector", "St. Louis County / elevation 492 ft band", "St. Louis County / primary ZIP 63125", "St. Louis County / coords 38.5300, -90.2800"]
-zillowHomeValueUsd: 203108
 ---
 
-**Engineering Notice for Lemay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Lemay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Louis County.
 
+
+When a main line backs up in Lemay, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Qualified plumbing crews serving Lemay, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Lemay, MO.
 
@@ -46,7 +49,7 @@ Lineage note 787397: recirculation pump amp draw captured before Lemay, MO branc
 
 Fixture roster 787397: toilet flange spacer kit and shower cartridge seat score queued for Lemay, MO walk-through.
 
-Scope trace: PEX expansion ring batch plus dielectric union checklist referenced in St. Louis County county grid review.
+Scope trace: PEX expansion ring batch plus dielectric union checklist referenced in St. Louis County drain and water line review.
 
 Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Lemay, MO before niche-specific work begins.
 

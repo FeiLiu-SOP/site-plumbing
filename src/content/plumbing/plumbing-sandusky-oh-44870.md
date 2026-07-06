@@ -12,17 +12,20 @@ lng: -82.7000
 zipSample: ["44871", "44870"]
 zipCodes: ["44871", "44870"]
 localPaths: ["Erie County / elevation 597 ft band", "Erie County / ZIP 44870 sector", "Erie County / coords 41.4500, -82.7000", "Erie County / primary ZIP 44870", "Erie County / ZIP 44871 sector"]
-zillowHomeValueUsd: 176720
 ---
 
-**Engineering Notice for Sandusky:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Erie County.
+**Engineering Notice for Sandusky:** Supply line, cleanout, and water heater scope recorded at 597 ft elevation context (Erie County).
 
+
+Plumbing remediation in Sandusky, OH, Erie County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Sandusky, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Step: photograph curb-stop and meter pit before trenching.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Save water heater serial plates for warranty traceability.
 
@@ -45,8 +48,6 @@ Frost-free sillcock failures in Sandusky, OH often trace to interior shutoff sea
 Permit note: Main water line replacement in Sandusky, OH may require ROW restoration planning.
 
 Lineage note 738700: recirculation pump amp draw captured before Sandusky, OH branch isolation.
-
-Scope trace: floor drain trap primer drip plus meter pit clearance referenced in Erie County county grid review.
 
 On-site sector marker: Erie County / ZIP 44870 sector — logged for map parity and ZIP-corridor verification.
 

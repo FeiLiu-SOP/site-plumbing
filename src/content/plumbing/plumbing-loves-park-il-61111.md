@@ -12,11 +12,14 @@ lng: -89.0000
 zipSample: ["61111", "61011", "61132", "61131", "61130"]
 zipCodes: ["61111", "61131", "61011", "61130", "61132"]
 localPaths: ["Winnebago County / elevation 866 ft band", "Winnebago County / primary ZIP 61111", "Winnebago County / ZIP 61011 sector", "Winnebago County / coords 42.3400, -89.0000", "Winnebago County / ZIP 61130 sector"]
-zillowHomeValueUsd: 198704
 ---
 
-**Engineering Notice for Loves Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Loves Park:** Emergency leak and drain triage uses ~147 mg/L hardness context with Winnebago County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Loves Park, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Winnebago County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Loves Park, IL, Winnebago County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Loves Park, IL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -28,7 +31,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

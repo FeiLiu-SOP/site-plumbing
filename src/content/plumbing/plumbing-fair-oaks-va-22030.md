@@ -12,11 +12,14 @@ lng: -77.3600
 zipSample: ["22030", "22035", "22033"]
 zipCodes: ["22035", "22033", "22030"]
 localPaths: ["Fairfax County / primary ZIP 22030", "Fairfax County / ZIP 22030 sector", "Fairfax County / elevation 420 ft band", "Fairfax County / coords 38.8700, -77.3600", "Fairfax County / ZIP 22035 sector"]
-zillowHomeValueUsd: 819619
 ---
 
-**Engineering Notice for Fair Oaks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Fair Oaks:** Supply line, cleanout, and water heater scope recorded at 420 ft elevation context (Fairfax County).
 
+
+Burst pipe and drain clog calls in Fair Oaks, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fairfax County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Fair Oaks, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -47,6 +50,8 @@ Fixture shutoff stiffness in Fair Oaks, VA may indicate mineral bridging behind 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Flow dossier 931799: branch wet-vent geometry and jetting nozzle envelope logged for Fair Oaks, VA county grid Fairfax County (ZIP 22030).
+
+Plumbing restoration brief: jetter nozzle envelope and thermal expansion loop check were cross-checked for the Fair Oaks pipe and leak scope.
 
 ZIP-corridor snapshot for Fair Oaks, VA: sampled sectors include 22030, 22033, 22035; county routing grid remains Fairfax County.
 

@@ -12,11 +12,14 @@ lng: -83.2100
 zipSample: ["48124", "48121", "48120", "48126", "48123"]
 zipCodes: ["48120", "48126", "48123", "48124", "48128", "48121"]
 localPaths: ["Wayne County / primary ZIP 48128", "Wayne County / ZIP 48126 sector", "Wayne County / ZIP 48124 sector", "Wayne County / coords 42.3100, -83.2100", "Wayne County / ZIP 48120 sector"]
-zillowHomeValueUsd: 305218
 ---
 
-**Engineering Notice for Dearborn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Dearborn:** Supply line, cleanout, and water heater scope recorded at 577 ft elevation context (Wayne County).
 
+
+Plumbing service in Dearborn, MI, Wayne County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Dearborn, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -47,6 +50,8 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Supply audit 883175: curb-stop orientation and hose-bib freeze flag reviewed for Dearborn, MI at coords 42.3100/-83.2100.
+
+Scope trace: slab penetration sleeve seal plus sump float travel referenced in Wayne County drain and water line review.
 
 On-site sector marker: Wayne County / ZIP 48124 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -84.4200
 zipSample: ["30398", "31139", "30348", "30354", "30325"]
 zipCodes: ["30355", "30307", "30354", "30326", "30301", "30342", "30316", "30334", "30311", "30313", "30306", "30394"]
 localPaths: ["Fulton County / primary ZIP 30334", "Fulton County / coords 33.7600, -84.4200", "Fulton County / elevation 974 ft band", "Fulton County / ZIP 30354 sector", "Fulton County / ZIP 30348 sector"]
-zillowHomeValueUsd: 386464
 ---
 
-**Engineering Notice for Atlanta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Atlanta:** Emergency leak and drain triage uses ~156 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Atlanta, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Qualified plumbing crews serving Atlanta, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Atlanta, GA slab circuits run overnight when listening mics show ambiguous hits.
 

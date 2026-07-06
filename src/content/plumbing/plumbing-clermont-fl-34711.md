@@ -12,17 +12,20 @@ lng: -81.7200
 zipSample: ["34713", "34712", "34711"]
 zipCodes: ["34712", "34713", "34711"]
 localPaths: ["Lake County / primary ZIP 34711", "Lake County / coords 28.5300, -81.7200", "Lake County / ZIP 34712 sector", "Lake County / ZIP 34713 sector", "Lake County / ZIP 34711 sector"]
-zillowHomeValueUsd: 428235
 ---
 
-**Engineering Notice for Clermont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Clermont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lake County.
 
+
+Burst pipe and drain clog calls in Clermont, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Clermont, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
 Trenchless sleeve pulls near Clermont, FL require pit shoring notes when water tables are high.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -46,7 +49,7 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 347
 
 Lineage note 201035: recirculation pump amp draw captured before Clermont, FL branch isolation.
 
-Scope trace: cleanout riser height plus recirculation pump amp draw referenced in Lake County county grid review.
+Scope trace: cleanout riser height plus recirculation pump amp draw referenced in Lake County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 28.5300, -81.7200 at elevation ~141 ft aligns with Lake County intake staging.
 

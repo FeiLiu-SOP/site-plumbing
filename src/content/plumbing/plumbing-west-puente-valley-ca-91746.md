@@ -12,11 +12,14 @@ lng: -117.9700
 zipSample: ["91744", "91746"]
 zipCodes: ["91746", "91744"]
 localPaths: ["Los Angeles County / ZIP 91746 sector", "Los Angeles County / coords 34.0500, -117.9700", "Los Angeles County / elevation 328 ft band", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / primary ZIP 91746"]
-zillowHomeValueUsd: 763994
 ---
 
-**Engineering Notice for West Puente Valley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Puente Valley:** Emergency leak and drain triage uses ~123 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in West Puente Valley, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in West Puente Valley, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 In West Puente Valley, CA, slab leaks often present as warm spots before wall stains appear.
 
@@ -38,7 +41,7 @@ Stack vent offsets in West Puente Valley, CA older duplexes can mask tub gurgle 
 
 Irrigation cross-connections in West Puente Valley, CA can back-siphon domestic lines during main breaks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 

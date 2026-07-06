@@ -12,13 +12,16 @@ lng: -76.4300
 zipSample: ["21220"]
 zipCodes: ["21220"]
 localPaths: ["Baltimore County / coords 39.3400, -76.4300", "Baltimore County / ZIP 21220 sector", "Baltimore County / primary ZIP 21220", "Baltimore County / elevation 89 ft band"]
-zillowHomeValueUsd: 333163
 ---
 
-**Engineering Notice for Middle River:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Middle River:** Supply line, cleanout, and water heater scope recorded at 89 ft elevation context (Baltimore County).
 
 
-Dispatch packets reference county grid Baltimore County near ZIP 21220.
+When a main line backs up in Middle River, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Certified plumbing crews serving Middle River, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Our Middle River, MD service packets reference Baltimore County near ZIP 21220 for pipe and leak scope.
 
 Frost-free sillcock failures in Middle River, MD often trace to interior shutoff seats, not exterior stems.
 
@@ -49,8 +52,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 Drain map 303922: camera-pass priority and expansion-tank pre-charge noted for Middle River, MD postal sector 21220.
 
 Flow dossier 303922: branch wet-vent geometry and jetting nozzle envelope logged for Middle River, MD county grid Baltimore County (ZIP 21220).
-
-Scope trace: PEX expansion ring batch plus water heater T&P path referenced in Baltimore County county grid review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~89 ft across the Baltimore County area. Coordinates: 39.3400, -76.4300. ZIP sample: 21220. Service perimeter note: Coverage extends through Baltimore County with dispatch centered near ZIP 21220.
 

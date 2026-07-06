@@ -12,11 +12,14 @@ lng: -74.3400
 zipSample: ["07090"]
 zipCodes: ["07090"]
 localPaths: ["Union County / ZIP 07090 sector", "Union County / primary ZIP 07090", "Union County / coords 40.6500, -74.3400", "Union County / elevation 121 ft band"]
-zillowHomeValueUsd: 1270844
 ---
 
-**Engineering Notice for Westfield:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Westfield:** Supply line, cleanout, and water heater scope recorded at 121 ft elevation context (Union County).
 
+
+Plumbing remediation in Westfield, NJ, Union County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Westfield, NJ often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Union County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Recirculation pump failures in Westfield, NJ can mimic fixture-specific clogs.
 

@@ -12,11 +12,14 @@ lng: -95.2900
 zipSample: ["77511", "77583", "77512"]
 zipCodes: ["77512", "77511", "77583"]
 localPaths: ["Brazoria County / ZIP 77512 sector", "Brazoria County / coords 29.3900, -95.2900", "Brazoria County / primary ZIP 77511", "Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77511 sector"]
-zillowHomeValueUsd: 295844
 ---
 
-**Engineering Notice for Alvin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~163 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Alvin:** Supply line, cleanout, and water heater scope recorded at 46 ft elevation context (Brazoria County).
 
+
+Burst pipe and drain clog calls in Alvin, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brazoria County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Alvin, TX, Brazoria County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Stack vent offsets in Alvin, TX older duplexes can mask tub gurgle as a main-line failure.
 
@@ -26,7 +29,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -40,7 +43,7 @@ Request a camera-assisted drain review before approving jetting. Serving ZIP Cod
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate Alvin, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Alvin, TX plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 

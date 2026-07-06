@@ -12,13 +12,16 @@ lng: -80.3900
 zipSample: ["34953", "34986", "34985", "34987", "34952"]
 zipCodes: ["34953", "34985", "34986", "34983", "34952", "34987", "34984"]
 localPaths: ["St. Lucie County / ZIP 34985 sector", "St. Lucie County / ZIP 34987 sector", "St. Lucie County / ZIP 34953 sector", "St. Lucie County / ZIP 34986 sector", "St. Lucie County / coords 27.2800, -80.3900"]
-zillowHomeValueUsd: 374070
 ---
 
-**Engineering Notice for Port St. Lucie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Lucie County.
+**Engineering Notice for Port St. Lucie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Lucie County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Burst pipe and drain clog calls in Port St. Lucie, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Lucie County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Port St. Lucie, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -46,7 +49,7 @@ Flow dossier 971249: branch wet-vent geometry and jetting nozzle envelope logged
 
 Lineage note 971249: recirculation pump amp draw captured before Port St. Lucie, FL branch isolation.
 
-plumbing brief: PEX expansion ring batch and shower cartridge seat score were cross-checked for the Port St. Lucie intake packet.
+Plumbing service brief: PEX expansion ring batch and shower cartridge seat score were cross-checked for the Port St. Lucie pipe and leak scope.
 
 On-site sector marker: St. Lucie County / ZIP 34986 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -117.8100
 zipSample: ["92781", "92623", "92782", "92780"]
 zipCodes: ["92782", "92781", "92780", "92623"]
 localPaths: ["Orange County / coords 33.7300, -117.8100", "Orange County / primary ZIP 92780", "Orange County / elevation 105 ft band", "Orange County / ZIP 92782 sector", "Orange County / ZIP 92780 sector"]
-zillowHomeValueUsd: 1138560
 ---
 
-**Engineering Notice for Tustin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Tustin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Plumbing remediation in Tustin, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Tustin, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Orange County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Cleanout access limits in Tustin, CA frequently extend drain cleaning duration.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Tustin, CA irrigation zones need backflow logs before
 Supply audit 959343: curb-stop orientation and hose-bib freeze flag reviewed for Tustin, CA at coords 33.7300/-117.8100.
 
 Intake ledger 959343: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Tustin, CA at 33.7300, -117.8100.
-
-Scope trace: gas water heater draft hood gap plus slab leak listening window referenced in Orange County county grid review.
 
 On-site sector marker: Orange County / ZIP 92623 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -86.7600
 zipSample: ["35756", "35758"]
 zipCodes: ["35758", "35756"]
 localPaths: ["Madison County / coords 34.7100, -86.7600", "Madison County / ZIP 35756 sector", "Madison County / elevation 686 ft band", "Madison County / primary ZIP 35756", "Madison County / ZIP 35758 sector"]
-zillowHomeValueUsd: 386845
 ---
 
-**Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Madison County.
+**Engineering Notice for Madison:** Supply line, cleanout, and water heater scope recorded at 686 ft elevation context (Madison County).
 
+
+Burst pipe and drain clog calls in Madison, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Madison County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Madison, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Cleanout access limits in Madison, AL frequently extend drain cleaning duration.
 
@@ -32,7 +35,7 @@ Dual-water-meter setups in Madison, AL irrigation zones need backflow logs befor
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -48,7 +51,7 @@ Supply audit 729203: curb-stop orientation and hose-bib freeze flag reviewed for
 
 Flow dossier 729203: branch wet-vent geometry and jetting nozzle envelope logged for Madison, AL county grid Madison County (ZIP 35756).
 
-Field routing: water softener bypass lever paired with dielectric union checklist near ZIP 35756.
+Local service note: water softener bypass lever paired with dielectric union checklist near ZIP 35756 for emergency plumbing pro repairs.
 
 On-site sector marker: Madison County / primary ZIP 35756 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -118.0800
 zipSample: ["90701", "90702"]
 zipCodes: ["90701", "90702"]
 localPaths: ["Los Angeles County / ZIP 90702 sector", "Los Angeles County / primary ZIP 90701", "Los Angeles County / ZIP 90701 sector", "Los Angeles County / coords 33.8700, -118.0800", "Los Angeles County / elevation 66 ft band"]
-zillowHomeValueUsd: 873728
 ---
 
-**Engineering Notice for Artesia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Artesia:** Supply line, cleanout, and water heater scope recorded at 66 ft elevation context (Los Angeles County).
 
+
+Plumbing remediation in Artesia, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Artesia, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -44,13 +47,11 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Intake ledger 170521: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Artesia, CA at 33.8700, -118.0800.
 
 Lineage note 170521: recirculation pump amp draw captured before Artesia, CA branch isolation.
-
-Field routing: sump float travel paired with floor drain trap primer drip near ZIP 90701.
 
 On-site sector marker: Los Angeles County / coords 33.8700, -118.0800 — logged for map parity and ZIP-corridor verification.
 

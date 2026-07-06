@@ -12,11 +12,14 @@ lng: -86.3800
 zipSample: ["46112", "46234"]
 zipCodes: ["46234", "46112"]
 localPaths: ["Hendricks County / elevation 883 ft band", "Hendricks County / coords 39.8300, -86.3800", "Hendricks County / ZIP 46234 sector", "Hendricks County / ZIP 46112 sector", "Hendricks County / primary ZIP 46234"]
-zillowHomeValueUsd: 279538
 ---
 
-**Engineering Notice for Brownsburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hendricks County.
+**Engineering Notice for Brownsburg:** Supply line, cleanout, and water heater scope recorded at 883 ft elevation context (Hendricks County).
 
+
+Burst pipe and drain clog calls in Brownsburg, IN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hendricks County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency qualified plumber service in Brownsburg, IN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Hendricks County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Brownsburg, IN can back-siphon domestic lines du
 Trenchless sleeve pulls near Brownsburg, IN require pit shoring notes when water tables are high.
 
 Intake ledger 500106: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brownsburg, IN at 39.8300, -86.3800.
-
-Scope trace: sump float travel plus hose bib freeze flag referenced in Hendricks County county grid review.
 
 Regional mesh label Hendricks County: moisture and logistics baselines are keyed to Brownsburg, IN before niche-specific work begins.
 

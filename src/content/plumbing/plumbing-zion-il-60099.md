@@ -8,15 +8,18 @@ zipCode: "60099"
 county: "Lake County"
 elevationFt: 699
 lat: 42.4600
-lng: -87.8500
+lng: -87.8800
 zipSample: ["60099"]
 zipCodes: ["60099"]
-localPaths: ["Lake County / primary ZIP 60099", "Lake County / elevation 699 ft band", "Lake County / coords 42.4600, -87.8500", "Lake County / ZIP 60099 sector"]
-zillowHomeValueUsd: 256992
+localPaths: ["Lake County / primary ZIP 60099", "Lake County / elevation 699 ft band", "Lake County / coords 42.4600, -87.8800", "Lake County / ZIP 60099 sector"]
 ---
 
-**Engineering Notice for Zion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Zion:** Supply line, cleanout, and water heater scope recorded at 699 ft elevation context (Lake County).
 
+
+Certified plumbing crews serving Zion, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Zion, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lake County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 

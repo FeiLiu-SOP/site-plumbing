@@ -12,11 +12,14 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63130", "63132"]
 localPaths: ["St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.6700, -90.3300", "St. Louis County / ZIP 63130 sector"]
-zillowHomeValueUsd: 356827
 ---
 
-**Engineering Notice for University City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~112 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Louis County.
+**Engineering Notice for University City:** Supply line, cleanout, and water heater scope recorded at 535 ft elevation context (St. Louis County).
 
+
+Emergency certified plumber service in University City, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in St. Louis County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in University City, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Louis County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -45,6 +48,8 @@ Material note: Water heater anode type may change with University City, MO hardn
 Supply audit 940918: curb-stop orientation and hose-bib freeze flag reviewed for University City, MO at coords 38.6700/-90.3300.
 
 Drain map 940918: camera-pass priority and expansion-tank pre-charge noted for University City, MO postal sector 63132.
+
+Local service note: slab penetration sleeve seal paired with gas water heater draft hood gap near ZIP 63132 for emergency plumbing pro repairs.
 
 Coordinate-anchored dispatch note: center reference 38.6700, -90.3300 at elevation ~535 ft aligns with St. Louis County intake staging.
 

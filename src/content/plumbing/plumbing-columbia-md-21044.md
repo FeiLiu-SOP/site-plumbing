@@ -12,11 +12,14 @@ lng: -76.8600
 zipSample: ["21045", "21046", "20588", "21044", "21150"]
 zipCodes: ["21029", "21150", "21046", "21044", "20588", "21045"]
 localPaths: ["Howard County / ZIP 21045 sector", "Howard County / ZIP 21150 sector", "Howard County / coords 39.2000, -76.8600", "Howard County / ZIP 20588 sector", "Howard County / ZIP 21046 sector"]
-zillowHomeValueUsd: 547335
 ---
 
-**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.
+**Engineering Notice for Columbia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Howard County.
 
+
+Burst pipe and drain clog calls in Columbia, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Howard County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Columbia, MD, Howard County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Is hydro-jetting always appropriate? In Columbia, MD, pipe material and blockage type dictate method.
 
@@ -36,7 +39,7 @@ FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finis
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Columbia, MD systems need rebalancing.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Dual-water-meter setups in Columbia, MD irrigation zones need backflow logs before line replacement.
 
@@ -47,8 +50,6 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 Step: photograph curb-stop and meter pit before trenching.
 
 Intake ledger 436482: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Columbia, MD at 39.2000, -76.8600.
-
-Scope trace: branch wet vent geometry plus floor drain trap primer drip referenced in Howard County county grid review.
 
 ZIP-corridor snapshot for Columbia, MD: sampled sectors include 20588, 21029, 21044, 21046, 21150, 21045; county routing grid remains Howard County.
 

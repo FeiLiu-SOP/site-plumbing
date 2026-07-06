@@ -12,11 +12,14 @@ lng: -98.3100
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / ZIP 78573 sector", "Hidalgo County / coords 26.2900, -98.3100", "Hidalgo County / elevation 174 ft band", "Hidalgo County / primary ZIP 78573"]
-zillowHomeValueUsd: 216774
 ---
 
-**Engineering Notice for Alton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Alton:** Emergency leak and drain triage uses ~165 mg/L hardness context with Hidalgo County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Alton, TX, Hidalgo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Alton, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Water heater T&P discharge paths in Alton, TX must terminate safely before replacement quotes.
 
@@ -28,7 +31,7 @@ Trenchless pulls in Alton, TX require pit dimensions verified against utility lo
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-We coordinate Alton, TX plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Alton, TX plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 78573.
 
@@ -47,8 +50,6 @@ Permit note: Main water line replacement in Alton, TX may require ROW restoratio
 Supply audit 973722: curb-stop orientation and hose-bib freeze flag reviewed for Alton, TX at coords 26.2900/-98.3100.
 
 Lineage note 973722: recirculation pump amp draw captured before Alton, TX branch isolation.
-
-Field routing: backflow test cock orientation paired with slab leak listening window near ZIP 78573.
 
 On-site sector marker: Hidalgo County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 

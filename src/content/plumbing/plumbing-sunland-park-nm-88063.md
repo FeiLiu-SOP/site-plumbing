@@ -12,11 +12,14 @@ lng: -106.6000
 zipSample: ["88008", "79922", "88063"]
 zipCodes: ["88063", "79922", "88008"]
 localPaths: ["Doña Ana County / ZIP 88008 sector", "Doña Ana County / primary ZIP 88063", "Doña Ana County / ZIP 79922 sector", "Doña Ana County / ZIP 88063 sector", "Doña Ana County / elevation 3720 ft band"]
-zillowHomeValueUsd: 248246
 ---
 
-**Engineering Notice for Sunland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Sunland Park:** Emergency leak and drain triage uses ~159 mg/L hardness context with Doña Ana County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Sunland Park, NM, Doña Ana County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Sunland Park, NM often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Doña Ana County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -38,13 +41,13 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch packets reference county grid Doña Ana County near ZIP 88063.
+Our Sunland Park, NM service packets reference Doña Ana County near ZIP 88063 for pipe and leak scope.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Supply audit 810166: curb-stop orientation and hose-bib freeze flag reviewed for Sunland Park, NM at coords 31.8200/-106.6000.
 
-Scope trace: branch wet vent geometry plus water heater T&P path referenced in Doña Ana County county grid review.
+Scope trace: branch wet vent geometry plus water heater T&P path referenced in Doña Ana County drain and water line review.
 
 On-site sector marker: Doña Ana County / elevation 3720 ft band — logged for map parity and ZIP-corridor verification.
 

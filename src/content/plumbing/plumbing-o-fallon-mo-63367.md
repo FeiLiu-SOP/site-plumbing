@@ -12,11 +12,14 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63366", "63368"]
 localPaths: ["St. Charles County / primary ZIP 63367", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63366 sector", "St. Charles County / ZIP 63367 sector", "St. Charles County / ZIP 63368 sector"]
-zillowHomeValueUsd: 441365
 ---
 
-**Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.
+**Engineering Notice for O'Fallon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in St. Charles County.
 
+
+When a main line backs up in O'Fallon, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in O'Fallon, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Charles County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -45,6 +48,8 @@ Stack vent offsets in O'Fallon, MO older duplexes can mask tub gurgle as a main-
 Supply audit 111341: curb-stop orientation and hose-bib freeze flag reviewed for O'Fallon, MO at coords 38.7800/-90.7200.
 
 Fixture roster 111341: toilet flange spacer kit and shower cartridge seat score queued for O'Fallon, MO walk-through.
+
+Scope trace: floor drain trap primer drip plus copper pinhole cluster referenced in St. Charles County drain and water line review.
 
 On-site sector marker: St. Charles County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
 

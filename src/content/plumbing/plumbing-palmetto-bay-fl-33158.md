@@ -12,11 +12,14 @@ lng: -80.3200
 zipSample: ["33257", "33158", "33157"]
 zipCodes: ["33158", "33257", "33157"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / ZIP 33257 sector", "Miami-Dade County / elevation 36 ft band"]
-zillowHomeValueUsd: 1346478
 ---
 
-**Engineering Notice for Palmetto Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Palmetto Bay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Miami-Dade County.
 
+
+Burst pipe and drain clog calls in Palmetto Bay, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Miami-Dade County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Palmetto Bay, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Trenchless sleeve pulls near Palmetto Bay, FL require pit shoring notes when water tables are high.
 

@@ -12,11 +12,14 @@ lng: -121.6400
 zipSample: ["95991", "95993"]
 zipCodes: ["95991", "95993"]
 localPaths: ["Sutter County / ZIP 95991 sector", "Sutter County / primary ZIP 95991", "Sutter County / elevation 59 ft band", "Sutter County / ZIP 95993 sector", "Sutter County / coords 39.1400, -121.6400"]
-zillowHomeValueUsd: 404855
 ---
 
-**Engineering Notice for Yuba City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sutter County.
+**Engineering Notice for Yuba City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sutter County.
 
+
+Plumbing remediation in Yuba City, CA, Sutter County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Yuba City, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -45,8 +48,6 @@ Sewer gas odors in Yuba City, CA should trigger trap seal and vent path review.
 Supply audit 540261: curb-stop orientation and hose-bib freeze flag reviewed for Yuba City, CA at coords 39.1400/-121.6400.
 
 Lineage note 540261: recirculation pump amp draw captured before Yuba City, CA branch isolation.
-
-Scope trace: gas water heater draft hood gap plus slab leak listening window referenced in Sutter County county grid review.
 
 On-site sector marker: Sutter County / coords 39.1400, -121.6400 — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55082", "55083"]
 localPaths: ["Washington County / primary ZIP 55082", "Washington County / ZIP 55082 sector", "Washington County / ZIP 55083 sector", "Washington County / elevation 856 ft band", "Washington County / coords 45.0600, -92.8300"]
-zillowHomeValueUsd: 520489
 ---
 
-**Engineering Notice for Stillwater:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Stillwater:** Emergency leak and drain triage uses ~139 mg/L hardness context with Washington County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Stillwater, MN, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Stillwater, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Washington County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -42,15 +45,13 @@ Permit note: Main water line replacement in Stillwater, MN may require ROW resto
 
 Cleanout access limits in Stillwater, MN frequently extend drain cleaning duration.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
 Drain map 488169: camera-pass priority and expansion-tank pre-charge noted for Stillwater, MN postal sector 55082.
 
 Lineage note 488169: recirculation pump amp draw captured before Stillwater, MN branch isolation.
-
-plumbing brief: fixture shutoff torque log and jetter nozzle envelope were cross-checked for the Stillwater intake packet.
 
 On-site sector marker: Washington County / ZIP 55082 sector — logged for map parity and ZIP-corridor verification.
 

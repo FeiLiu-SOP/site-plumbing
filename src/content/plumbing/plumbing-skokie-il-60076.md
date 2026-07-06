@@ -12,13 +12,16 @@ lng: -87.7400
 zipSample: ["60203", "60076", "60077"]
 zipCodes: ["60077", "60076", "60203"]
 localPaths: ["Cook County / ZIP 60203 sector", "Cook County / ZIP 60077 sector", "Cook County / ZIP 60076 sector", "Cook County / elevation 617 ft band", "Cook County / coords 42.0400, -87.7400"]
-zillowHomeValueUsd: 443339
 ---
 
-**Engineering Notice for Skokie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Skokie:** Supply line, cleanout, and water heater scope recorded at 617 ft elevation context (Cook County).
 
 
-Dispatch packets reference county grid Cook County near ZIP 60076.
+Plumbing restoration in Skokie, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Skokie, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Our Skokie, IL service packets reference Cook County near ZIP 60076 for pipe and leak scope.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -45,6 +48,8 @@ Risk flag: Pinhole clusters on copper often return if water chemistry is not add
 Intake ledger 100655: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Skokie, IL at 42.0400, -87.7400.
 
 Drain map 100655: camera-pass priority and expansion-tank pre-charge noted for Skokie, IL postal sector 60076.
+
+Scope trace: sump float travel plus toilet flange spacer kit referenced in Cook County drain and water line review.
 
 On-site sector marker: Cook County / ZIP 60076 sector — logged for map parity and ZIP-corridor verification.
 

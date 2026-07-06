@@ -12,11 +12,14 @@ lng: -88.1800
 zipSample: ["60107"]
 zipCodes: ["60107"]
 localPaths: ["Cook County / elevation 791 ft band", "Cook County / coords 42.0200, -88.1800", "Cook County / primary ZIP 60107", "Cook County / ZIP 60107 sector"]
-zillowHomeValueUsd: 321388
 ---
 
-**Engineering Notice for Streamwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Streamwood:** Supply line, cleanout, and water heater scope recorded at 791 ft elevation context (Cook County).
 
+
+Plumbing service in Streamwood, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Streamwood, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -48,7 +51,7 @@ Frost-free sillcock failures in Streamwood, IL often trace to interior shutoff s
 
 Pressure trace 787391: meter-pit clearance and dielectric union checklist staged for Streamwood, IL near elevation 791 ft.
 
-Field routing: water softener bypass lever paired with shower cartridge seat score near ZIP 60107.
+Local service note: water softener bypass lever paired with shower cartridge seat score near ZIP 60107 for emergency plumbing technician repairs.
 
 On-site sector marker: Cook County / primary ZIP 60107 — logged for map parity and ZIP-corridor verification.
 

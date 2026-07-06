@@ -12,11 +12,14 @@ lng: -90.2100
 zipSample: ["39209", "39174", "39204", "39205", "39202"]
 zipCodes: ["39207", "39215", "39206", "39282", "39298", "39272", "39236", "39213", "39289", "39209", "39205", "39283"]
 localPaths: ["Hinds County / primary ZIP 39272", "Hinds County / ZIP 39209 sector", "Hinds County / coords 32.3200, -90.2100", "Hinds County / ZIP 39204 sector", "Hinds County / elevation 371 ft band"]
-zillowHomeValueUsd: 222083
 ---
 
-**Engineering Notice for Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hinds County.
+**Engineering Notice for Jackson:** Supply line, cleanout, and water heater scope recorded at 371 ft elevation context (Hinds County).
 
+
+When a main line backs up in Jackson, MS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Jackson, MS, Hinds County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Permit note: Main water line replacement in Jackson, MS may require ROW restoration planning.
 
@@ -48,7 +51,7 @@ Drain map 519044: camera-pass priority and expansion-tank pre-charge noted for J
 
 Lineage note 519044: recirculation pump amp draw captured before Jackson, MS branch isolation.
 
-Field routing: toilet flange spacer kit paired with dielectric union checklist near ZIP 39272.
+Local service note: toilet flange spacer kit paired with dielectric union checklist near ZIP 39272 for emergency licensed plumber repairs.
 
 ZIP-corridor snapshot for Jackson, MS: sampled sectors include 39283, 39216, 39203, 39215, 39269, 39236, 39205, 39296; county routing grid remains Hinds County.
 

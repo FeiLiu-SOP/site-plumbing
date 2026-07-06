@@ -12,11 +12,14 @@ lng: -89.9800
 zipSample: ["38671", "38672", "38651"]
 zipCodes: ["38671", "38651", "38672"]
 localPaths: ["DeSoto County / ZIP 38671 sector", "DeSoto County / coords 34.9500, -89.9800", "DeSoto County / ZIP 38672 sector", "DeSoto County / primary ZIP 38671", "DeSoto County / elevation 331 ft band"]
-zillowHomeValueUsd: 235208
 ---
 
-**Engineering Notice for Southaven:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Southaven:** Supply line, cleanout, and water heater scope recorded at 331 ft elevation context (DeSoto County).
 
+
+Emergency qualified plumber service in Southaven, MS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in DeSoto County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Southaven, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeSoto County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
@@ -30,11 +33,11 @@ Permit note: Main water line replacement in Southaven, MS may require ROW restor
 
 Water heater T&P discharge paths in Southaven, MS must terminate safely before replacement quotes.
 
-We coordinate Southaven, MS plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Southaven, MS plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: document dielectric unions before mixed-metal replacements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -45,8 +48,6 @@ Trenchless sleeve pulls near Southaven, MS require pit shoring notes when water 
 Fixture roster 594319: toilet flange spacer kit and shower cartridge seat score queued for Southaven, MS walk-through.
 
 Intake ledger 594319: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Southaven, MS at 34.9500, -89.9800.
-
-Field routing: sump float travel paired with cleanout riser height near ZIP 38671.
 
 Regional mesh label DeSoto County: moisture and logistics baselines are keyed to Southaven, MS before niche-specific work begins.
 

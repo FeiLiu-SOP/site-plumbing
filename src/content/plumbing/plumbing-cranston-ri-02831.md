@@ -12,11 +12,14 @@ lng: -71.4900
 zipSample: ["02823", "02905", "02921", "02910", "02831"]
 zipCodes: ["02920", "02823", "02910", "02831", "02905", "02921"]
 localPaths: ["Providence County / ZIP 02910 sector", "Providence County / primary ZIP 02831", "Providence County / coords 41.7700, -71.4900", "Providence County / elevation 157 ft band", "Providence County / ZIP 02831 sector"]
-zillowHomeValueUsd: 571640
 ---
 
-**Engineering Notice for Cranston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Providence County.
+**Engineering Notice for Cranston:** Emergency leak and drain triage uses ~149 mg/L hardness context with Providence County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Cranston, RI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Providence County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Cranston, RI, Providence County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 02831.
 
@@ -47,6 +50,8 @@ Polybutylene manifold tags in Cranston, RI basements should be photographed befo
 Stack vent offsets in Cranston, RI older duplexes can mask tub gurgle as a main-line failure.
 
 Fixture roster 598057: toilet flange spacer kit and shower cartridge seat score queued for Cranston, RI walk-through.
+
+Plumbing restoration brief: fixture shutoff torque log and branch wet vent geometry were cross-checked for the Cranston pipe and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Providence County and primary ZIP 02831. Terrain reference: 157 ft. Center point: 41.7700, -71.4900. ZIP sample: 02831, 02920, 02910, 02905, 02921. Service perimeter note: Coverage extends through Providence County with dispatch centered near ZIP 02831.
 

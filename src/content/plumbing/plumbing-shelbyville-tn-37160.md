@@ -12,11 +12,14 @@ lng: -86.4500
 zipSample: ["37160", "37162", "37161"]
 zipCodes: ["37161", "37160", "37162"]
 localPaths: ["Bedford County / ZIP 37162 sector", "Bedford County / elevation 778 ft band", "Bedford County / coords 35.5000, -86.4500", "Bedford County / ZIP 37161 sector", "Bedford County / primary ZIP 37160"]
-zillowHomeValueUsd: 312589
 ---
 
-**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bedford County.
+**Engineering Notice for Shelbyville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Bedford County.
 
+
+Plumbing service in Shelbyville, TN, Bedford County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Shelbyville, TN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Bedford County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Dual-water-meter setups in Shelbyville, TN irrigation zones need backflow logs before line replacement.
 

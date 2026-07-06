@@ -8,15 +8,18 @@ zipCode: "94015"
 county: "San Mateo County"
 elevationFt: 157
 lat: 37.6900
-lng: -122.4700
+lng: -122.4400
 zipSample: ["94017", "94016", "94014", "94015"]
 zipCodes: ["94017", "94016", "94014", "94015"]
-localPaths: ["San Mateo County / coords 37.6900, -122.4700", "San Mateo County / primary ZIP 94015", "San Mateo County / ZIP 94016 sector", "San Mateo County / elevation 157 ft band", "San Mateo County / ZIP 94014 sector"]
-zillowHomeValueUsd: 1197137
+localPaths: ["San Mateo County / coords 37.6900, -122.4400", "San Mateo County / primary ZIP 94015", "San Mateo County / ZIP 94016 sector", "San Mateo County / elevation 157 ft band", "San Mateo County / ZIP 94014 sector"]
 ---
 
-**Engineering Notice for Daly City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Daly City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Mateo County.
 
+
+Emergency plumbing technician service in Daly City, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in San Mateo County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Daly City, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Mateo County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Daly City, CA.
 
@@ -32,7 +35,7 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Daly City, CA.
 
@@ -44,9 +47,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Daly City, CA systems need rebalancing.
 
-Supply audit 292089: curb-stop orientation and hose-bib freeze flag reviewed for Daly City, CA at coords 37.6900/-122.4700.
-
-Field routing: gas water heater draft hood gap paired with cleanout riser height near ZIP 94015.
+Supply audit 292089: curb-stop orientation and hose-bib freeze flag reviewed for Daly City, CA at coords 37.6900/-122.4400.
 
 Regional mesh label San Mateo County: moisture and logistics baselines are keyed to Daly City, CA before niche-specific work begins.
 

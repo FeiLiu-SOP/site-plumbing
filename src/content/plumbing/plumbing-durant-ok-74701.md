@@ -12,13 +12,16 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / elevation 686 ft band", "Bryan County / primary ZIP 74701", "Bryan County / ZIP 74701 sector", "Bryan County / coords 33.9900, -96.3900"]
-zillowHomeValueUsd: 221534
 ---
 
-**Engineering Notice for Durant:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bryan County.
+**Engineering Notice for Durant:** Supply line, cleanout, and water heater scope recorded at 686 ft elevation context (Bryan County).
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Plumbing service in Durant, OK, Bryan County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Durant, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
@@ -46,7 +49,7 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 Flow dossier 521023: branch wet-vent geometry and jetting nozzle envelope logged for Durant, OK county grid Bryan County (ZIP 74701).
 
-Scope trace: PRV outlet curve plus meter pit clearance referenced in Bryan County county grid review.
+Scope trace: PRV outlet curve plus meter pit clearance referenced in Bryan County drain and water line review.
 
 Primary postal anchor 74701 with multi-ZIP overlap in Durant; field packets tag Bryan County for county-grid reconciliation.
 

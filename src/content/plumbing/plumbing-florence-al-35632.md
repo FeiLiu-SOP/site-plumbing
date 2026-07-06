@@ -12,11 +12,14 @@ lng: -87.6700
 zipSample: ["35632", "35630", "35631", "35633"]
 zipCodes: ["35633", "35632", "35631", "35630"]
 localPaths: ["Lauderdale County / primary ZIP 35632", "Lauderdale County / ZIP 35633 sector", "Lauderdale County / coords 34.8300, -87.6700", "Lauderdale County / ZIP 35630 sector", "Lauderdale County / ZIP 35632 sector"]
-zillowHomeValueUsd: 174234
 ---
 
-**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lauderdale County.
+**Engineering Notice for Florence:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lauderdale County.
 
+
+Burst pipe and drain clog calls in Florence, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lauderdale County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Florence, AL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Lauderdale County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Frost-free sillcock failures in Florence, AL often trace to interior shutoff seats, not exterior stems.
 
@@ -44,7 +47,7 @@ Irrigation cross-connections in Florence, AL can back-siphon domestic lines duri
 
 Drain map 764935: camera-pass priority and expansion-tank pre-charge noted for Florence, AL postal sector 35632.
 
-Field routing: floor drain trap primer drip paired with shower cartridge seat score near ZIP 35632.
+Local service note: floor drain trap primer drip paired with shower cartridge seat score near ZIP 35632 for emergency licensed plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 34.8300, -87.6700 at elevation ~610 ft aligns with Lauderdale County intake staging.
 

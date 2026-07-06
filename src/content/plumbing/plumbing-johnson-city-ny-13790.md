@@ -12,17 +12,20 @@ lng: -75.9600
 zipSample: ["13790"]
 zipCodes: ["13790"]
 localPaths: ["Broome County / elevation 860 ft band", "Broome County / coords 42.1200, -75.9600", "Broome County / primary ZIP 13790", "Broome County / ZIP 13790 sector"]
-zillowHomeValueUsd: 156638
 ---
 
-**Engineering Notice for Johnson City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Broome County.
+**Engineering Notice for Johnson City:** Emergency leak and drain triage uses ~168 mg/L hardness context with Broome County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Johnson City, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Broome County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Johnson City, NY, Broome County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
 Hydro-jetting in Johnson City, NY requires camera confirmation before nozzle pressure is raised.
 
-Dispatch packets reference county grid Broome County near ZIP 13790.
+Our Johnson City, NY service packets reference Broome County near ZIP 13790 for pipe and leak scope.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

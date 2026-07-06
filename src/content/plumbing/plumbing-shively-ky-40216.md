@@ -12,13 +12,16 @@ lng: -85.8100
 zipSample: ["40216", "40256"]
 zipCodes: ["40256", "40216"]
 localPaths: ["Jefferson County / elevation 463 ft band", "Jefferson County / ZIP 40216 sector", "Jefferson County / ZIP 40256 sector", "Jefferson County / coords 38.2000, -85.8100", "Jefferson County / primary ZIP 40216"]
-zillowHomeValueUsd: 205843
 ---
 
-**Engineering Notice for Shively:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Shively:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
 
-Dispatch packets reference county grid Jefferson County near ZIP 40216.
+Emergency plumbing technician service in Shively, KY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Jefferson County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing restoration in Shively, KY, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Our Shively, KY service packets reference Jefferson County near ZIP 40216 for pipe and leak scope.
 
 Step: camera-pass main lines in Shively, KY before jetting older clay or cast iron.
 
@@ -45,8 +48,6 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Polybutylene manifold tags in Shively, KY basements should be photographed before any wall chase opens.
 
 Supply audit 748795: curb-stop orientation and hose-bib freeze flag reviewed for Shively, KY at coords 38.2000/-85.8100.
-
-Field routing: copper pinhole cluster paired with water softener bypass lever near ZIP 40216.
 
 On-site sector marker: Jefferson County / primary ZIP 40216 — logged for map parity and ZIP-corridor verification.
 

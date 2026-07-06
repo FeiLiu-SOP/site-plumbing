@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11772"
 county: "Suffolk County"
 elevationFt: 36
-lat: 40.7700
-lng: -72.9800
+lat: 40.7805
+lng: -73.0100
 zipSample: ["11772"]
 zipCodes: ["11772"]
-localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7700, -72.9800", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
-zillowHomeValueUsd: 585763
+localPaths: ["Suffolk County / elevation 36 ft band", "Suffolk County / coords 40.7805, -73.0100", "Suffolk County / ZIP 11772 sector", "Suffolk County / primary ZIP 11772"]
 ---
 
-**Engineering Notice for East Patchogue:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for East Patchogue:** Supply line, cleanout, and water heater scope recorded at 36 ft elevation context (Suffolk County).
 
+
+Certified plumbing crews serving East Patchogue, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing technician service in East Patchogue, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in East Patchogue, NY systems need rebalancing.
 
@@ -42,11 +45,9 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 
 Hard water in East Patchogue, NY accelerates scale on PRV seats and heater elements.
 
-Intake ledger 303737: sump amperage, PRV seat wear, and cleanout riser height cross-checked for East Patchogue, NY at 40.7700, -72.9800.
+Intake ledger 303737: sump amperage, PRV seat wear, and cleanout riser height cross-checked for East Patchogue, NY at 40.7805, -73.0100.
 
 Lineage note 303737: recirculation pump amp draw captured before East Patchogue, NY branch isolation.
-
-plumbing brief: gas water heater draft hood gap and toilet flange spacer kit were cross-checked for the East Patchogue intake packet.
 
 On-site sector marker: Suffolk County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

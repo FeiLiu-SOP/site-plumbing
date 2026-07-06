@@ -12,11 +12,14 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / primary ZIP 48184", "Wayne County / elevation 669 ft band", "Wayne County / coords 42.2800, -83.3900", "Wayne County / ZIP 48184 sector"]
-zillowHomeValueUsd: 172306
 ---
 
-**Engineering Notice for Wayne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wayne County.
+**Engineering Notice for Wayne:** Supply line, cleanout, and water heater scope recorded at 669 ft elevation context (Wayne County).
 
+
+Burst pipe and drain clog calls in Wayne, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wayne County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Wayne, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Sewer gas odors in Wayne, MI should trigger trap seal and vent path review.
 

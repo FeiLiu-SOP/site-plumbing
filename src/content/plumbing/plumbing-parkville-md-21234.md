@@ -12,11 +12,14 @@ lng: -76.5500
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / ZIP 21234 sector", "Baltimore County / elevation 351 ft band", "Baltimore County / primary ZIP 21234", "Baltimore County / coords 39.3800, -76.5500"]
-zillowHomeValueUsd: 301697
 ---
 
-**Engineering Notice for Parkville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Parkville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Baltimore County.
 
+
+Plumbing service in Parkville, MD, Baltimore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Parkville, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -40,7 +43,7 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Save water heater serial plates for warranty traceability.
 

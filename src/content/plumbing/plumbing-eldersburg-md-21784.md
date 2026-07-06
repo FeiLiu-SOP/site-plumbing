@@ -12,11 +12,14 @@ lng: -76.9500
 zipSample: ["21784", "21104"]
 zipCodes: ["21104", "21784"]
 localPaths: ["Carroll County / coords 39.4000, -76.9500", "Carroll County / elevation 646 ft band", "Carroll County / ZIP 21104 sector", "Carroll County / primary ZIP 21784", "Carroll County / ZIP 21784 sector"]
-zillowHomeValueUsd: 559050
 ---
 
-**Engineering Notice for Eldersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carroll County.
+**Engineering Notice for Eldersburg:** Emergency leak and drain triage uses ~150 mg/L hardness context with Carroll County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Eldersburg, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Carroll County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Eldersburg, MD, Carroll County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Dual-water-meter setups in Eldersburg, MD irrigation zones need backflow logs before line replacement.
 
@@ -32,7 +35,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Water heater T&P discharge paths in Eldersburg, MD must terminate safely before replacement quotes.
 
@@ -47,8 +50,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Expansion tank pre-charge loss in Eldersburg, MD often tracks heater replacement deferrals.
 
 Fixture roster 330953: toilet flange spacer kit and shower cartridge seat score queued for Eldersburg, MD walk-through.
-
-plumbing brief: toilet flange spacer kit and hose bib freeze flag were cross-checked for the Eldersburg intake packet.
 
 On-site sector marker: Carroll County / primary ZIP 21784 — logged for map parity and ZIP-corridor verification.
 

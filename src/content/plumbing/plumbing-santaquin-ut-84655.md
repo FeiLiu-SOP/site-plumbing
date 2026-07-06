@@ -12,11 +12,14 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / ZIP 84655 sector", "Utah County / elevation 4997 ft band", "Utah County / primary ZIP 84655", "Utah County / coords 39.9700, -111.7900"]
-zillowHomeValueUsd: 500606
 ---
 
-**Engineering Notice for Santaquin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Utah County.
+**Engineering Notice for Santaquin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Utah County.
 
+
+Burst pipe and drain clog calls in Santaquin, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Utah County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Santaquin, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -45,8 +48,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Irrigation cross-connections in Santaquin, UT can back-siphon domestic lines during main breaks.
 
 Pressure trace 434303: meter-pit clearance and dielectric union checklist staged for Santaquin, UT near elevation 4997 ft.
-
-plumbing brief: sump float travel and fixture shutoff torque log were cross-checked for the Santaquin intake packet.
 
 Coordinate-anchored dispatch note: center reference 39.9700, -111.7900 at elevation ~4997 ft aligns with Utah County intake staging.
 

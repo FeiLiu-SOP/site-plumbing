@@ -12,11 +12,14 @@ lng: -80.0100
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / elevation 43 ft band", "Berkeley County / coords 33.1700, -80.0100", "Berkeley County / ZIP 29461 sector", "Berkeley County / primary ZIP 29461"]
-zillowHomeValueUsd: 360063
 ---
 
-**Engineering Notice for Moncks Corner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~126 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Moncks Corner:** Emergency leak and drain triage uses ~126 mg/L hardness context with Berkeley County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Moncks Corner, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Moncks Corner, SC, Berkeley County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 

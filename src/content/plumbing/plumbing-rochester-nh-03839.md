@@ -12,11 +12,14 @@ lng: -70.9800
 zipSample: ["03867", "03868", "03866", "03839"]
 zipCodes: ["03866", "03867", "03839", "03868"]
 localPaths: ["Strafford County / ZIP 03868 sector", "Strafford County / ZIP 03866 sector", "Strafford County / ZIP 03839 sector", "Strafford County / primary ZIP 03839", "Strafford County / ZIP 03867 sector"]
-zillowHomeValueUsd: 414514
 ---
 
-**Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Strafford County.
+**Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Strafford County.
 
+
+Burst pipe and drain clog calls in Rochester, NH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Strafford County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Rochester, NH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 03839.
 
@@ -45,8 +48,6 @@ Technicians log static and dynamic pressure before opening any wall access panel
 Brass ball valves should be exercised quarterly in hard-water districts.
 
 Pressure trace 191589: meter-pit clearance and dielectric union checklist staged for Rochester, NH near elevation 203 ft.
-
-Scope trace: slab penetration sleeve seal plus PRV outlet curve referenced in Strafford County county grid review.
 
 On-site sector marker: Strafford County / coords 43.3000, -70.9800 — logged for map parity and ZIP-corridor verification.
 

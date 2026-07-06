@@ -12,11 +12,14 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84405", "84403"]
 localPaths: ["Weber County / coords 41.1700, -111.9600", "Weber County / elevation 4688 ft band", "Weber County / ZIP 84403 sector", "Weber County / ZIP 84405 sector", "Weber County / primary ZIP 84405"]
-zillowHomeValueUsd: 460495
 ---
 
-**Engineering Notice for South Ogden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weber County.
+**Engineering Notice for South Ogden:** Emergency leak and drain triage uses ~142 mg/L hardness context with Weber County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in South Ogden, UT, Weber County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in South Ogden, UT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weber County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -45,8 +48,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 FAQ: When is cabling enough? In South Ogden, UT, pipe material and blockage type dictate method.
 
 Pressure trace 605116: meter-pit clearance and dielectric union checklist staged for South Ogden, UT near elevation 4688 ft.
-
-plumbing brief: slab penetration sleeve seal and water heater T&P path were cross-checked for the South Ogden intake packet.
 
 On-site sector marker: Weber County / coords 41.1700, -111.9600 — logged for map parity and ZIP-corridor verification.
 

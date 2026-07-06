@@ -12,11 +12,14 @@ lng: -83.6400
 zipSample: ["45839", "45840"]
 zipCodes: ["45840", "45839"]
 localPaths: ["Hancock County / elevation 784 ft band", "Hancock County / primary ZIP 45840", "Hancock County / ZIP 45839 sector", "Hancock County / coords 41.0500, -83.6400", "Hancock County / ZIP 45840 sector"]
-zillowHomeValueUsd: 240650
 ---
 
-**Engineering Notice for Findlay:** Domestic water distribution review emphasizes hardness-driven scaling risk (~173 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hancock County.
+**Engineering Notice for Findlay:** Supply line, cleanout, and water heater scope recorded at 784 ft elevation context (Hancock County).
 
+
+Plumbing service in Findlay, OH, Hancock County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Findlay, OH often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Hancock County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -38,7 +41,7 @@ Risk flag: In Findlay, OH, slab leaks can misroute as foundation issues without 
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Findlay, OH.
 

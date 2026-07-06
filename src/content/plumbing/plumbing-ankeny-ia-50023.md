@@ -12,11 +12,14 @@ lng: -93.6000
 zipSample: ["50023", "50021"]
 zipCodes: ["50021", "50023"]
 localPaths: ["Polk County / elevation 991 ft band", "Polk County / ZIP 50021 sector", "Polk County / coords 41.7300, -93.6000", "Polk County / primary ZIP 50023", "Polk County / ZIP 50023 sector"]
-zillowHomeValueUsd: 353302
 ---
 
-**Engineering Notice for Ankeny:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Polk County.
+**Engineering Notice for Ankeny:** Emergency leak and drain triage uses ~134 mg/L hardness context with Polk County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Ankeny, IA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Polk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Ankeny, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -34,7 +37,7 @@ Cleanout access limits in Ankeny, IA frequently extend drain cleaning duration.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch packets reference county grid Polk County near ZIP 50023.
+Our Ankeny, IA service packets reference Polk County near ZIP 50023 for pipe and leak scope.
 
 Cast-iron hub corrosion in Ankeny, IA often concentrates at the third joint upstream of the cleanout.
 
@@ -46,7 +49,7 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 
 Intake ledger 420985: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Ankeny, IA at 41.7300, -93.6000.
 
-Scope trace: hose bib freeze flag plus scale coupon sampling referenced in Polk County county grid review.
+Scope trace: hose bib freeze flag plus scale coupon sampling referenced in Polk County drain and water line review.
 
 On-site sector marker: Polk County / elevation 991 ft band — logged for map parity and ZIP-corridor verification.
 

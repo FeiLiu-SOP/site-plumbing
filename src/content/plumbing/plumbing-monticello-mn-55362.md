@@ -12,11 +12,14 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / elevation 948 ft band", "Wright County / ZIP 55362 sector", "Wright County / primary ZIP 55362", "Wright County / coords 45.3000, -93.8000"]
-zillowHomeValueUsd: 353456
 ---
 
-**Engineering Notice for Monticello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.
+**Engineering Notice for Monticello:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wright County.
 
+
+Certified plumbing crews serving Monticello, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Monticello, MN, Wright County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Fixture shutoff stiffness in Monticello, MN may indicate mineral bridging behind stems.
 
@@ -42,13 +45,13 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Basement floor drains in Monticello, MN should be snaked only after trap arm geometry is confirmed on camera.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 563858: toilet flange spacer kit and shower cartridge seat score queued for Monticello, MN walk-through.
 
 Drain map 563858: camera-pass priority and expansion-tank pre-charge noted for Monticello, MN postal sector 55362.
 
-plumbing brief: PRV outlet curve and hose bib freeze flag were cross-checked for the Monticello intake packet.
+Plumbing restoration brief: PRV outlet curve and hose bib freeze flag were cross-checked for the Monticello pipe and leak scope.
 
 On-site sector marker: Wright County / ZIP 55362 sector — logged for map parity and ZIP-corridor verification.
 

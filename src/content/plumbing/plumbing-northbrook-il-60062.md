@@ -8,15 +8,18 @@ zipCode: "60062"
 county: "Cook County"
 elevationFt: 676
 lat: 42.1300
-lng: -87.8400
+lng: -87.8700
 zipSample: ["60062", "60082"]
 zipCodes: ["60062", "60082"]
-localPaths: ["Cook County / ZIP 60082 sector", "Cook County / primary ZIP 60062", "Cook County / ZIP 60062 sector", "Cook County / coords 42.1300, -87.8400", "Cook County / elevation 676 ft band"]
-zillowHomeValueUsd: 692676
+localPaths: ["Cook County / ZIP 60082 sector", "Cook County / primary ZIP 60062", "Cook County / ZIP 60062 sector", "Cook County / coords 42.1300, -87.8700", "Cook County / elevation 676 ft band"]
 ---
 
-**Engineering Notice for Northbrook:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Northbrook:** Emergency leak and drain triage uses ~114 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Northbrook, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Northbrook, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cook County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Recirculation pump failures in Northbrook, IL can mimic fixture-specific clogs.
 

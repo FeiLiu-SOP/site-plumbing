@@ -12,11 +12,14 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / ZIP 92860 sector", "Riverside County / primary ZIP 92860", "Riverside County / elevation 643 ft band", "Riverside County / coords 33.9300, -117.5500"]
-zillowHomeValueUsd: 917455
 ---
 
-**Engineering Notice for Norco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Riverside County.
+**Engineering Notice for Norco:** Supply line, cleanout, and water heater scope recorded at 643 ft elevation context (Riverside County).
 
+
+Burst pipe and drain clog calls in Norco, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Riverside County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Norco, CA, Riverside County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -34,7 +37,7 @@ Trenchless pulls in Norco, CA require pit dimensions verified against utility lo
 
 Risk flag: In Norco, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When is cabling enough? In Norco, CA, pipe material and blockage type dictate method.
 
@@ -47,8 +50,6 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 Permit note: Main water line replacement in Norco, CA may require ROW restoration planning.
 
 Intake ledger 900988: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norco, CA at 33.9300, -117.5500.
-
-Field routing: shower cartridge seat score paired with water softener bypass lever near ZIP 92860.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~643 ft across the Riverside County area. Coordinates: 33.9300, -117.5500. ZIP sample: 92860. Regional routing note: Riverside County traffic flow is balanced around ZIP 92860 service demand.
 

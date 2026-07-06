@@ -12,11 +12,14 @@ lng: -82.5500
 zipSample: ["28815", "28810", "28801", "28776", "28814"]
 zipCodes: ["28801", "28805", "28806", "28815", "28810", "28814", "28804", "28803", "28776", "28816"]
 localPaths: ["Buncombe County / ZIP 28801 sector", "Buncombe County / ZIP 28815 sector", "Buncombe County / ZIP 28814 sector", "Buncombe County / primary ZIP 28806", "Buncombe County / elevation 2123 ft band"]
-zillowHomeValueUsd: 404998
 ---
 
-**Engineering Notice for Asheville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Buncombe County.
+**Engineering Notice for Asheville:** Supply line, cleanout, and water heater scope recorded at 2123 ft elevation context (Buncombe County).
 
+
+Burst pipe and drain clog calls in Asheville, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Buncombe County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Asheville, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Buncombe County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

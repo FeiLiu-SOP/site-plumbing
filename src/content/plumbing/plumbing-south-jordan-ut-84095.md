@@ -12,11 +12,14 @@ lng: -111.9800
 zipSample: ["84096", "84009", "84095"]
 zipCodes: ["84096", "84009", "84095"]
 localPaths: ["Salt Lake County / ZIP 84009 sector", "Salt Lake County / ZIP 84095 sector", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84095"]
-zillowHomeValueUsd: 759223
 ---
 
-**Engineering Notice for South Jordan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Jordan:** Emergency leak and drain triage uses ~153 mg/L hardness context with Salt Lake County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in South Jordan, UT, Salt Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in South Jordan, UT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Salt Lake County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -30,13 +33,13 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 Basement floor drains in South Jordan, UT should be snaked only after trap arm geometry is confirmed on camera.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Hose bib split patterns in South Jordan, UT often follow missed winterization.
 
-We coordinate South Jordan, UT plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate South Jordan, UT plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 84095.
 

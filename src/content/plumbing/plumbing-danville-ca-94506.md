@@ -12,11 +12,14 @@ lng: -121.9700
 zipSample: ["94506", "94526"]
 zipCodes: ["94526", "94506"]
 localPaths: ["Contra Costa County / ZIP 94526 sector", "Contra Costa County / primary ZIP 94506", "Contra Costa County / coords 37.8100, -121.9700", "Contra Costa County / elevation 469 ft band", "Contra Costa County / ZIP 94506 sector"]
-zillowHomeValueUsd: 2084246
 ---
 
-**Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Danville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Contra Costa County.
 
+
+Emergency plumbing pro service in Danville, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Contra Costa County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Danville, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Contra Costa County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Dual-water-meter setups in Danville, CA irrigation zones need backflow logs before line replacement.
 
@@ -47,8 +50,6 @@ Frost-free sillcock failures in Danville, CA often trace to interior shutoff sea
 Fixture roster 169930: toilet flange spacer kit and shower cartridge seat score queued for Danville, CA walk-through.
 
 Flow dossier 169930: branch wet-vent geometry and jetting nozzle envelope logged for Danville, CA county grid Contra Costa County (ZIP 94506).
-
-Scope trace: PRV outlet curve plus gas water heater draft hood gap referenced in Contra Costa County county grid review.
 
 ZIP-corridor snapshot for Danville, CA: sampled sectors include 94526, 94506; county routing grid remains Contra Costa County.
 

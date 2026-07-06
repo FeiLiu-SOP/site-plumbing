@@ -12,11 +12,14 @@ lng: -122.0300
 zipSample: ["98053", "98077"]
 zipCodes: ["98053", "98077"]
 localPaths: ["King County / elevation 600 ft band", "King County / primary ZIP 98053", "King County / coords 47.6800, -122.0300", "King County / ZIP 98077 sector", "King County / ZIP 98053 sector"]
-zillowHomeValueUsd: 1470661
 ---
 
-**Engineering Notice for Union Hill-Novelty Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Union Hill-Novelty Hill:** Supply line, cleanout, and water heater scope recorded at 600 ft elevation context (King County).
 
+
+Certified plumbing crews serving Union Hill-Novelty Hill, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Union Hill-Novelty Hill, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in King County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hose bib split patterns in Union Hill-Novelty Hill, WA often follow missed winterization.
 
@@ -43,8 +46,6 @@ Across Union Hill-Novelty Hill, WA, main-line bellies can trap debris even when 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 98053.
 
 Flow dossier 370588: branch wet-vent geometry and jetting nozzle envelope logged for Union Hill-Novelty Hill, WA county grid King County (ZIP 98053).
-
-Scope trace: slab leak listening window plus meter pit clearance referenced in King County county grid review.
 
 On-site sector marker: King County / ZIP 98053 sector — logged for map parity and ZIP-corridor verification.
 

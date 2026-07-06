@@ -12,11 +12,14 @@ lng: -80.5700
 zipSample: ["26062"]
 zipCodes: ["26062"]
 localPaths: ["Hancock County / elevation 991 ft band", "Hancock County / primary ZIP 26062", "Hancock County / coords 40.4100, -80.5700", "Hancock County / ZIP 26062 sector"]
-zillowHomeValueUsd: 146996
 ---
 
-**Engineering Notice for Weirton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hancock County.
+**Engineering Notice for Weirton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hancock County.
 
+
+Plumbing remediation in Weirton, WV, Hancock County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Weirton, WV may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hancock County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Weirton, WV shoulder seasons.
 
@@ -47,6 +50,8 @@ Tip: Save water heater serial plates for warranty traceability.
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
 Lineage note 153427: recirculation pump amp draw captured before Weirton, WV branch isolation.
+
+Local service note: toilet flange spacer kit paired with cleanout riser height near ZIP 26062 for emergency licensed plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 40.4100, -80.5700 at elevation ~991 ft aligns with Hancock County intake staging.
 

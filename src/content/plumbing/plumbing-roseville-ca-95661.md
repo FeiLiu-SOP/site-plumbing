@@ -12,11 +12,14 @@ lng: -121.3200
 zipSample: ["95661", "95747", "95678"]
 zipCodes: ["95747", "95661", "95678"]
 localPaths: ["Placer County / ZIP 95747 sector", "Placer County / elevation 148 ft band", "Placer County / ZIP 95678 sector", "Placer County / coords 38.7700, -121.3200", "Placer County / primary ZIP 95661"]
-zillowHomeValueUsd: 692379
 ---
 
-**Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Placer County.
+**Engineering Notice for Roseville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Placer County.
 
+
+Licensed plumbing crews serving Roseville, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Roseville, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Placer County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 95661.
 
@@ -47,6 +50,8 @@ FAQ: When should sump battery backups be load-tested? In Roseville, CA, before s
 Stack vent offsets in Roseville, CA older duplexes can mask tub gurgle as a main-line failure.
 
 Pressure trace 182526: meter-pit clearance and dielectric union checklist staged for Roseville, CA near elevation 148 ft.
+
+Local service note: fixture shutoff torque log paired with sump float travel near ZIP 95661 for emergency plumbing technician repairs.
 
 On-site sector marker: Placer County / primary ZIP 95661 — logged for map parity and ZIP-corridor verification.
 

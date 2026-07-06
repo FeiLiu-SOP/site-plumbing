@@ -12,11 +12,14 @@ lng: -118.1600
 zipSample: ["90202", "90201", "90205"]
 zipCodes: ["90201", "90202", "90205"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.1600", "Los Angeles County / ZIP 90202 sector", "Los Angeles County / ZIP 90205 sector", "Los Angeles County / ZIP 90201 sector", "Los Angeles County / primary ZIP 90201"]
-zillowHomeValueUsd: 687007
 ---
 
-**Engineering Notice for Bell Gardens:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Bell Gardens:** Emergency leak and drain triage uses ~158 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Bell Gardens, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Bell Gardens, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

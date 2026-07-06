@@ -12,15 +12,18 @@ lng: -76.5200
 zipSample: ["23601", "23609", "23604", "23630", "23603"]
 zipCodes: ["23604", "23612", "23628", "23608", "23630", "23606", "23605", "23609", "23601", "23607", "23602", "23603"]
 localPaths: ["Newport News County / coords 37.1100, -76.5200", "Newport News County / ZIP 23604 sector", "Newport News County / ZIP 23603 sector", "Newport News County / ZIP 23601 sector", "Newport News County / ZIP 23630 sector"]
-zillowHomeValueUsd: 292765
 ---
 
-**Engineering Notice for Newport News:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Newport News County.
+**Engineering Notice for Newport News:** Supply line, cleanout, and water heater scope recorded at 39 ft elevation context (Newport News County).
 
+
+Plumbing service in Newport News, VA, Newport News County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Newport News, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Newport News County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near Newport News, VA require pit shoring notes when water tables are high.
 
-We coordinate Newport News, VA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Newport News, VA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: When should sump battery backups be load-tested? In Newport News, VA, before spring thaw and hurricane remnants.
 
@@ -32,7 +35,7 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Trenchless pulls in Newport News, VA require pit dimensions verified against utility locate marks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

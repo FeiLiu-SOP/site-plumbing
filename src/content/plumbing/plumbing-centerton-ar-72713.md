@@ -12,11 +12,14 @@ lng: -94.3000
 zipSample: ["72713", "72719"]
 zipCodes: ["72719", "72713"]
 localPaths: ["Benton County / elevation 1309 ft band", "Benton County / ZIP 72719 sector", "Benton County / coords 36.3600, -94.3000", "Benton County / primary ZIP 72713", "Benton County / ZIP 72713 sector"]
-zillowHomeValueUsd: 454939
 ---
 
-**Engineering Notice for Centerton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Benton County.
+**Engineering Notice for Centerton:** Emergency leak and drain triage uses ~115 mg/L hardness context with Benton County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Centerton, AR, Benton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Centerton, AR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Seasonal Centerton, AR irrigation cross-connections can mask domestic pressure loss.
 
@@ -36,7 +39,7 @@ Cast-iron hub corrosion in Centerton, AR often concentrates at the third joint u
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 Flow dossier 733358: branch wet-vent geometry and jetting nozzle envelope logged for Centerton, AR county grid Benton County (ZIP 72713).
 
 Pressure trace 733358: meter-pit clearance and dielectric union checklist staged for Centerton, AR near elevation 1309 ft.
-
-Scope trace: slab penetration sleeve seal plus meter pit clearance referenced in Benton County county grid review.
 
 On-site sector marker: Benton County / ZIP 72713 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -122.0800
 zipSample: ["94041", "94042", "94039", "94043", "94040"]
 zipCodes: ["94041", "94042", "94039", "94043", "94040"]
 localPaths: ["Santa Clara County / elevation 56 ft band", "Santa Clara County / coords 37.4000, -122.0800", "Santa Clara County / ZIP 94043 sector", "Santa Clara County / ZIP 94041 sector", "Santa Clara County / ZIP 94039 sector"]
-zillowHomeValueUsd: 1599219
 ---
 
-**Engineering Notice for Mountain View:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Mountain View:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Santa Clara County.
 
+
+When a main line backs up in Mountain View, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Mountain View, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Santa Clara County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Mountain View, CA.
 
@@ -47,8 +50,6 @@ Material note: Water heater anode type may change with Mountain View, CA hardnes
 Pressure trace 646059: meter-pit clearance and dielectric union checklist staged for Mountain View, CA near elevation 56 ft.
 
 Fixture roster 646059: toilet flange spacer kit and shower cartridge seat score queued for Mountain View, CA walk-through.
-
-plumbing brief: water heater T&P path and slab penetration sleeve seal were cross-checked for the Mountain View intake packet.
 
 On-site sector marker: Santa Clara County / ZIP 94042 sector — logged for map parity and ZIP-corridor verification.
 

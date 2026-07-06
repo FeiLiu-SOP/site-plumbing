@@ -12,11 +12,14 @@ lng: -96.8400
 zipSample: ["75254", "75391", "75001"]
 zipCodes: ["75001", "75391", "75254"]
 localPaths: ["Dallas County / coords 32.9600, -96.8400", "Dallas County / ZIP 75391 sector", "Dallas County / ZIP 75254 sector", "Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254"]
-zillowHomeValueUsd: 299685
 ---
 
-**Engineering Notice for Addison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dallas County.
+**Engineering Notice for Addison:** Supply line, cleanout, and water heater scope recorded at 637 ft elevation context (Dallas County).
 
+
+When a main line backs up in Addison, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in Addison, TX, Dallas County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -45,8 +48,6 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Supply audit 185928: curb-stop orientation and hose-bib freeze flag reviewed for Addison, TX at coords 32.9600/-96.8400.
-
-plumbing brief: slab leak listening window and fixture shutoff torque log were cross-checked for the Addison intake packet.
 
 On-site sector marker: Dallas County / primary ZIP 75254 — logged for map parity and ZIP-corridor verification.
 

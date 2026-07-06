@@ -12,11 +12,14 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06320", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / elevation 30 ft band"]
-zillowHomeValueUsd: 312569
 ---
 
-**Engineering Notice for New London:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for New London:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Southeastern Connecticut County).
 
+
+When a main line backs up in New London, CT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Emergency certified plumber service in New London, CT often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Southeastern Connecticut County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hydrostatic holds in New London, CT slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -47,8 +50,6 @@ FAQ: When should sump battery backups be load-tested? In New London, CT, before 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Drain map 155264: camera-pass priority and expansion-tank pre-charge noted for New London, CT postal sector 06320.
-
-Field routing: copper pinhole cluster paired with jetter nozzle envelope near ZIP 06320.
 
 Coordinate-anchored dispatch note: center reference 41.3500, -72.1000 at elevation ~30 ft aligns with Southeastern Connecticut County intake staging.
 

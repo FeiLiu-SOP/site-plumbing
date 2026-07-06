@@ -12,11 +12,14 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / elevation 164 ft band", "Yamhill County / ZIP 97128 sector", "Yamhill County / coords 45.2100, -123.1900", "Yamhill County / primary ZIP 97128"]
-zillowHomeValueUsd: 485287
 ---
 
-**Engineering Notice for McMinnville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Yamhill County.
+**Engineering Notice for McMinnville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Yamhill County.
 
+
+Licensed plumbing crews serving McMinnville, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in McMinnville, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Yamhill County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
@@ -36,7 +39,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch packets reference county grid Yamhill County near ZIP 97128.
+Our McMinnville, OR service packets reference Yamhill County near ZIP 97128 for pipe and leak scope.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

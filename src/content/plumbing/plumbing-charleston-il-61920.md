@@ -12,11 +12,14 @@ lng: -88.1800
 zipSample: ["61920"]
 zipCodes: ["61920"]
 localPaths: ["Coles County / elevation 702 ft band", "Coles County / primary ZIP 61920", "Coles County / ZIP 61920 sector", "Coles County / coords 39.4800, -88.1800"]
-zillowHomeValueUsd: 162312
 ---
 
-**Engineering Notice for Charleston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~164 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coles County.
+**Engineering Notice for Charleston:** Emergency leak and drain triage uses ~164 mg/L hardness context with Coles County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Charleston, IL, Coles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Charleston, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -47,6 +50,8 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Fixture roster 797575: toilet flange spacer kit and shower cartridge seat score queued for Charleston, IL walk-through.
 
 Drain map 797575: camera-pass priority and expansion-tank pre-charge noted for Charleston, IL postal sector 61920.
+
+Local service note: sewer cleanout cap thread paired with water softener bypass lever near ZIP 61920 for emergency plumbing pro repairs.
 
 On-site sector marker: Coles County / coords 39.4800, -88.1800 — logged for map parity and ZIP-corridor verification.
 

@@ -12,15 +12,18 @@ lng: -80.1400
 zipSample: ["33180", "33160", "33163"]
 zipCodes: ["33180", "33163", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33163 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / primary ZIP 33160", "Miami-Dade County / coords 25.9600, -80.1400"]
-zillowHomeValueUsd: 515990
 ---
 
-**Engineering Notice for Aventura:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Aventura:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Miami-Dade County.
 
+
+Plumbing restoration in Aventura, FL, Miami-Dade County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Aventura, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Stack vent offsets in Aventura, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Water heater T&P discharge paths in Aventura, FL must terminate safely before replacement quotes.
 
@@ -34,7 +37,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We coordinate Aventura, FL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Aventura, FL plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 

@@ -12,11 +12,14 @@ lng: -84.2700
 zipSample: ["30004", "30009", "30022", "30023", "30005"]
 zipCodes: ["30004", "30009", "30022", "30023", "30005"]
 localPaths: ["Fulton County / coords 34.0700, -84.2700", "Fulton County / elevation 1093 ft band", "Fulton County / ZIP 30023 sector", "Fulton County / ZIP 30004 sector", "Fulton County / primary ZIP 30022"]
-zillowHomeValueUsd: 678077
 ---
 
-**Engineering Notice for Alpharetta:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fulton County.
+**Engineering Notice for Alpharetta:** Emergency leak and drain triage uses ~114 mg/L hardness context with Fulton County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Alpharetta, GA, Fulton County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Alpharetta, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Fulton County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Alpharetta, GA.
 
@@ -47,8 +50,6 @@ Irrigation cross-connections in Alpharetta, GA can back-siphon domestic lines du
 Fixture roster 831866: toilet flange spacer kit and shower cartridge seat score queued for Alpharetta, GA walk-through.
 
 Pressure trace 831866: meter-pit clearance and dielectric union checklist staged for Alpharetta, GA near elevation 1093 ft.
-
-Scope trace: hose bib freeze flag plus recirculation pump amp draw referenced in Fulton County county grid review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~1093 ft across the Fulton County area. Coordinates: 34.0700, -84.2700. ZIP sample: 30004, 30005, 30023, 30022, 30009. Regional routing note: Fulton County traffic flow is balanced around ZIP 30022 service demand.
 

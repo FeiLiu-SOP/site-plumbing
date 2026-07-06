@@ -12,11 +12,14 @@ lng: -73.9200
 zipSample: ["12601", "12603", "12602"]
 zipCodes: ["12601", "12603", "12602"]
 localPaths: ["Dutchess County / ZIP 12601 sector", "Dutchess County / elevation 226 ft band", "Dutchess County / coords 41.7000, -73.9200", "Dutchess County / ZIP 12603 sector", "Dutchess County / ZIP 12602 sector"]
-zillowHomeValueUsd: 384458
 ---
 
-**Engineering Notice for Poughkeepsie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dutchess County.
+**Engineering Notice for Poughkeepsie:** Emergency leak and drain triage uses ~157 mg/L hardness context with Dutchess County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Poughkeepsie, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Poughkeepsie, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Dutchess County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When should sump battery backups be load-tested? In Poughkeepsie, NY, before spring thaw and hurricane remnants.
 
@@ -38,7 +41,7 @@ Technicians log static and dynamic pressure before opening any wall access panel
 
 Across Poughkeepsie, NY, main-line bellies can trap debris even when fixtures drain normally.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Trenchless pulls in Poughkeepsie, NY require pit dimensions verified against utility locate marks.
 

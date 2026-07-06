@@ -12,11 +12,14 @@ lng: -122.1200
 zipSample: ["98073", "98052"]
 zipCodes: ["98052", "98073"]
 localPaths: ["King County / primary ZIP 98052", "King County / ZIP 98073 sector", "King County / ZIP 98052 sector", "King County / coords 47.6800, -122.1200", "King County / elevation 59 ft band"]
-zillowHomeValueUsd: 1364886
 ---
 
-**Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Redmond:** Emergency leak and drain triage uses ~124 mg/L hardness context with King County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Redmond, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in King County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Certified plumbing crews serving Redmond, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -24,7 +27,7 @@ Trenchless pulls in Redmond, WA require pit dimensions verified against utility 
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during Redmond, WA shoulder seasons.
 
@@ -50,7 +53,7 @@ Intake ledger 577428: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Fixture roster 577428: toilet flange spacer kit and shower cartridge seat score queued for Redmond, WA walk-through.
 
-Field routing: backflow test cock orientation paired with jetter nozzle envelope near ZIP 98052.
+Local service note: backflow test cock orientation paired with jetter nozzle envelope near ZIP 98052 for emergency licensed plumber repairs.
 
 Regional mesh label King County: moisture and logistics baselines are keyed to Redmond, WA before niche-specific work begins.
 

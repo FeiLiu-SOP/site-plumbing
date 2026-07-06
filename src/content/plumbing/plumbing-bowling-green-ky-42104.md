@@ -12,11 +12,14 @@ lng: -86.4400
 zipSample: ["42104", "42101", "42103", "42102"]
 zipCodes: ["42101", "42104", "42102", "42103"]
 localPaths: ["Warren County / coords 36.9700, -86.4400", "Warren County / primary ZIP 42104", "Warren County / elevation 535 ft band", "Warren County / ZIP 42103 sector", "Warren County / ZIP 42101 sector"]
-zillowHomeValueUsd: 325787
 ---
 
-**Engineering Notice for Bowling Green:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
+**Engineering Notice for Bowling Green:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Warren County.
 
+
+Licensed plumbing crews serving Bowling Green, KY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Bowling Green, KY, Warren County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Bowling Green, KY systems need rebalancing.
 
@@ -43,8 +46,6 @@ FAQ: When should sump battery backups be load-tested? In Bowling Green, KY, befo
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Lineage note 103127: recirculation pump amp draw captured before Bowling Green, KY branch isolation.
-
-Scope trace: fixture shutoff torque log plus branch wet vent geometry referenced in Warren County county grid review.
 
 Coordinate-anchored dispatch note: center reference 36.9700, -86.4400 at elevation ~535 ft aligns with Warren County intake staging.
 

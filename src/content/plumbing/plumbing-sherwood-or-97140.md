@@ -12,11 +12,14 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / ZIP 97140 sector", "Washington County / primary ZIP 97140", "Washington County / coords 45.3600, -122.8400", "Washington County / elevation 210 ft band"]
-zillowHomeValueUsd: 632894
 ---
 
-**Engineering Notice for Sherwood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~147 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Sherwood:** Supply line, cleanout, and water heater scope recorded at 210 ft elevation context (Washington County).
 
+
+Plumbing remediation in Sherwood, OR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Sherwood, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Sump discharge freeze risk in Sherwood, OR should be reviewed before spring thaw cycles.
 
@@ -24,7 +27,7 @@ Trenchless sleeve pulls near Sherwood, OR require pit shoring notes when water t
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Sherwood, OR.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Hydrostatic holds in Sherwood, OR slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -46,7 +49,7 @@ Fixture roster 789995: toilet flange spacer kit and shower cartridge seat score 
 
 Intake ledger 789995: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Sherwood, OR at 45.3600, -122.8400.
 
-plumbing brief: PEX expansion ring batch and floor drain trap primer drip were cross-checked for the Sherwood intake packet.
+Plumbing restoration brief: PEX expansion ring batch and floor drain trap primer drip were cross-checked for the Sherwood pipe and leak scope.
 
 Primary postal anchor 97140 with multi-ZIP overlap in Sherwood; field packets tag Washington County for county-grid reconciliation.
 

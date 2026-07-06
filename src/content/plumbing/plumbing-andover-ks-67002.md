@@ -12,11 +12,14 @@ lng: -97.1400
 zipSample: ["67002"]
 zipCodes: ["67002"]
 localPaths: ["Butler County / elevation 1345 ft band", "Butler County / coords 37.6900, -97.1400", "Butler County / ZIP 67002 sector", "Butler County / primary ZIP 67002"]
-zillowHomeValueUsd: 325675
 ---
 
-**Engineering Notice for Andover:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Butler County.
+**Engineering Notice for Andover:** Supply line, cleanout, and water heater scope recorded at 1345 ft elevation context (Butler County).
 
+
+Emergency plumbing pro service in Andover, KS often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Butler County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Licensed plumbing crews serving Andover, KS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

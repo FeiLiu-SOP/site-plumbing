@@ -12,11 +12,14 @@ lng: -93.9800
 zipSample: ["56002", "56001"]
 zipCodes: ["56001", "56002"]
 localPaths: ["Blue Earth County / coords 44.1700, -93.9800", "Blue Earth County / elevation 1007 ft band", "Blue Earth County / ZIP 56001 sector", "Blue Earth County / primary ZIP 56001", "Blue Earth County / ZIP 56002 sector"]
-zillowHomeValueUsd: 300658
 ---
 
-**Engineering Notice for Mankato:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Blue Earth County.
+**Engineering Notice for Mankato:** Supply line, cleanout, and water heater scope recorded at 1007 ft elevation context (Blue Earth County).
 
+
+When a main line backs up in Mankato, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Licensed plumbing crews serving Mankato, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -26,7 +29,7 @@ Tip: Log sump cycle frequency during heavy rain windows.
 
 Cleanout access limits in Mankato, MN frequently extend drain cleaning duration.
 
-Dispatch packets reference county grid Blue Earth County near ZIP 56001.
+Our Mankato, MN service packets reference Blue Earth County near ZIP 56001 for pipe and leak scope.
 
 Permit note: Main water line replacement in Mankato, MN may require ROW restoration planning.
 
@@ -45,8 +48,6 @@ Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unadd
 FAQ: When should sump battery backups be load-tested? In Mankato, MN, before spring thaw and hurricane remnants.
 
 Fixture roster 713331: toilet flange spacer kit and shower cartridge seat score queued for Mankato, MN walk-through.
-
-Field routing: cleanout riser height paired with sewer cleanout cap thread near ZIP 56001.
 
 ZIP-corridor snapshot for Mankato, MN: sampled sectors include 56002, 56001; county routing grid remains Blue Earth County.
 

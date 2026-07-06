@@ -12,11 +12,14 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / coords 42.1600, -88.4300", "McHenry County / elevation 869 ft band", "McHenry County / ZIP 60142 sector", "McHenry County / primary ZIP 60142"]
-zillowHomeValueUsd: 417932
 ---
 
-**Engineering Notice for Huntley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
+**Engineering Notice for Huntley:** Emergency leak and drain triage uses ~157 mg/L hardness context with McHenry County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Huntley, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Huntley, IL, McHenry County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When should sump battery backups be load-tested? In Huntley, IL, before spring thaw and hurricane remnants.
 
@@ -47,8 +50,6 @@ Step: verify expansion tank pre-charge when heaters are replaced.
 Pressure trace 221993: meter-pit clearance and dielectric union checklist staged for Huntley, IL near elevation 869 ft.
 
 Flow dossier 221993: branch wet-vent geometry and jetting nozzle envelope logged for Huntley, IL county grid McHenry County (ZIP 60142).
-
-plumbing brief: thermal expansion loop check and dielectric union checklist were cross-checked for the Huntley intake packet.
 
 On-site sector marker: McHenry County / coords 42.1600, -88.4300 — logged for map parity and ZIP-corridor verification.
 

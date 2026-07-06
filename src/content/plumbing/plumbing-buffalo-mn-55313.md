@@ -12,11 +12,14 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600", "Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313"]
-zillowHomeValueUsd: 375241
 ---
 
-**Engineering Notice for Buffalo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wright County.
+**Engineering Notice for Buffalo:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wright County.
 
+
+Burst pipe and drain clog calls in Buffalo, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wright County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Buffalo, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Wright County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Permit note: Main water line replacement in Buffalo, MN may require ROW restoration planning.
 
@@ -40,7 +43,7 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We coordinate Buffalo, MN plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Buffalo, MN plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

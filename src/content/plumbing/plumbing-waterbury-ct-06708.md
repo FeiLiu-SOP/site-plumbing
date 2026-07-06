@@ -12,11 +12,14 @@ lng: -73.0400
 zipSample: ["06703", "06726", "06701", "06706", "06720"]
 zipCodes: ["06726", "06704", "06701", "06702", "06710", "06724", "06720", "06705", "06708", "06721", "06723", "06725"]
 localPaths: ["Naugatuck Valley County / ZIP 06720 sector", "Naugatuck Valley County / primary ZIP 06708", "Naugatuck Valley County / elevation 338 ft band", "Naugatuck Valley County / coords 41.5600, -73.0400", "Naugatuck Valley County / ZIP 06706 sector"]
-zillowHomeValueUsd: 297142
 ---
 
-**Engineering Notice for Waterbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Naugatuck Valley County.
+**Engineering Notice for Waterbury:** Supply line, cleanout, and water heater scope recorded at 338 ft elevation context (Naugatuck Valley County).
 
+
+Qualified plumbing crews serving Waterbury, CT review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Waterbury, CT, Naugatuck Valley County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -38,7 +41,7 @@ Sewer gas odors in Waterbury, CT should trigger trap seal and vent path review.
 
 Risk flag: In Waterbury, CT, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Across Waterbury, CT, main-line bellies can trap debris even when fixtures drain normally.
 

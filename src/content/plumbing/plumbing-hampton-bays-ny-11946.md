@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11946"
 county: "Suffolk County"
 elevationFt: 20
-lat: 40.8700
-lng: -72.5200
+lat: 40.8805
+lng: -72.5500
 zipSample: ["11946"]
 zipCodes: ["11946"]
-localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8700, -72.5200", "Suffolk County / primary ZIP 11946"]
-zillowHomeValueUsd: 933949
+localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8805, -72.5500", "Suffolk County / primary ZIP 11946"]
 ---
 
-**Engineering Notice for Hampton Bays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Hampton Bays:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Suffolk County.
 
+
+Emergency plumbing technician service in Hampton Bays, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Certified plumbing crews serving Hampton Bays, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Book sump and supply-line checks in one written scope. Serving ZIP Code: 11946.
 
@@ -47,6 +50,8 @@ Tip: Log sump cycle frequency during heavy rain windows.
 Fixture roster 318780: toilet flange spacer kit and shower cartridge seat score queued for Hampton Bays, NY walk-through.
 
 Flow dossier 318780: branch wet-vent geometry and jetting nozzle envelope logged for Hampton Bays, NY county grid Suffolk County (ZIP 11946).
+
+Scope trace: cleanout riser height plus branch wet vent geometry referenced in Suffolk County drain and water line review.
 
 On-site sector marker: Suffolk County / ZIP 11946 sector — logged for map parity and ZIP-corridor verification.
 

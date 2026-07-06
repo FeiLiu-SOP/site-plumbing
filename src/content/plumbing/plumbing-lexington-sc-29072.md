@@ -12,11 +12,14 @@ lng: -81.2200
 zipSample: ["29071", "29072"]
 zipCodes: ["29071", "29072"]
 localPaths: ["Lexington County / ZIP 29072 sector", "Lexington County / coords 33.9900, -81.2200", "Lexington County / elevation 338 ft band", "Lexington County / primary ZIP 29072", "Lexington County / ZIP 29071 sector"]
-zillowHomeValueUsd: 361374
 ---
 
-**Engineering Notice for Lexington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lexington County.
+**Engineering Notice for Lexington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lexington County.
 
+
+Qualified plumbing crews serving Lexington, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lexington, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Lexington County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 

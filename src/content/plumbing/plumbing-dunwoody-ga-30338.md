@@ -12,13 +12,16 @@ lng: -84.3100
 zipSample: ["30338", "30356", "30360", "30346", "31146"]
 zipCodes: ["30346", "30360", "30338", "30356", "31146"]
 localPaths: ["DeKalb County / ZIP 31146 sector", "DeKalb County / ZIP 30338 sector", "DeKalb County / elevation 1030 ft band", "DeKalb County / ZIP 30360 sector", "DeKalb County / coords 33.9400, -84.3100"]
-zillowHomeValueUsd: 713485
 ---
 
-**Engineering Notice for Dunwoody:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Dunwoody:** Supply line, cleanout, and water heater scope recorded at 1030 ft elevation context (DeKalb County).
 
 
-Step: log PRV inlet and outlet readings during intake.
+Certified plumbing crews serving Dunwoody, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Dunwoody, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in DeKalb County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: When should sump battery backups be load-tested? In Dunwoody, GA, before spring thaw and hurricane remnants.
 

@@ -12,11 +12,14 @@ lng: -122.1400
 zipSample: ["94303"]
 zipCodes: ["94303"]
 localPaths: ["San Mateo County / primary ZIP 94303", "San Mateo County / ZIP 94303 sector", "San Mateo County / elevation 10 ft band", "San Mateo County / coords 37.4700, -122.1400"]
-zillowHomeValueUsd: 2133415
 ---
 
-**Engineering Notice for East Palo Alto:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Mateo County.
+**Engineering Notice for East Palo Alto:** Supply line, cleanout, and water heater scope recorded at 10 ft elevation context (San Mateo County).
 
+
+When a main line backs up in East Palo Alto, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in East Palo Alto, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Mateo County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with East Palo Alto, CA hardness profiles.
 

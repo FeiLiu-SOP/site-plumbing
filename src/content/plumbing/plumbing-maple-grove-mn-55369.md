@@ -12,11 +12,14 @@ lng: -93.4600
 zipSample: ["55311", "55369"]
 zipCodes: ["55369", "55311"]
 localPaths: ["Hennepin County / primary ZIP 55369", "Hennepin County / ZIP 55311 sector", "Hennepin County / coords 45.1100, -93.4600", "Hennepin County / elevation 873 ft band", "Hennepin County / ZIP 55369 sector"]
-zillowHomeValueUsd: 393104
 ---
 
-**Engineering Notice for Maple Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Maple Grove:** Emergency leak and drain triage uses ~159 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Maple Grove, MN may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hennepin County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Maple Grove, MN, Hennepin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Frost-free sillcock failures in Maple Grove, MN often trace to interior shutoff seats, not exterior stems.
 
@@ -43,6 +46,8 @@ FAQ: Does water heater age mandate replacement? Tank condition and relief path m
 FAQ: When should sump battery backups be load-tested? In Maple Grove, MN, before spring thaw and hurricane remnants.
 
 Lineage note 796376: recirculation pump amp draw captured before Maple Grove, MN branch isolation.
+
+Scope trace: meter pit clearance plus branch wet vent geometry referenced in Hennepin County drain and water line review.
 
 Regional mesh label Hennepin County: moisture and logistics baselines are keyed to Maple Grove, MN before niche-specific work begins.
 

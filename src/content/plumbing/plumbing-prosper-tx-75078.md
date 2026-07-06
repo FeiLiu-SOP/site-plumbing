@@ -12,11 +12,14 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / ZIP 75078 sector", "Collin County / coords 33.2400, -96.8100", "Collin County / primary ZIP 75078", "Collin County / elevation 653 ft band"]
-zillowHomeValueUsd: 755856
 ---
 
-**Engineering Notice for Prosper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
+**Engineering Notice for Prosper:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Collin County.
 
+
+Licensed plumbing crews serving Prosper, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Prosper, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Collin County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Prosper, TX.
 
@@ -45,6 +48,8 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 Permit note: Main water line replacement in Prosper, TX may require ROW restoration planning.
 
 Intake ledger 604248: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Prosper, TX at 33.2400, -96.8100.
+
+Local service note: slab leak listening window paired with PEX expansion ring batch near ZIP 75078 for emergency plumbing pro repairs.
 
 On-site sector marker: Collin County / primary ZIP 75078 — logged for map parity and ZIP-corridor verification.
 

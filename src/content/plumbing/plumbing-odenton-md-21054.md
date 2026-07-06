@@ -12,11 +12,14 @@ lng: -76.6900
 zipSample: ["21054", "21113"]
 zipCodes: ["21054", "21113"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / elevation 240 ft band", "Anne Arundel County / coords 39.0700, -76.6900", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / ZIP 21113 sector"]
-zillowHomeValueUsd: 613042
 ---
 
-**Engineering Notice for Odenton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Odenton:** Supply line, cleanout, and water heater scope recorded at 240 ft elevation context (Anne Arundel County).
 
+
+Plumbing service in Odenton, MD, Anne Arundel County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Odenton, MD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Anne Arundel County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -46,7 +49,7 @@ Trenchless pulls in Odenton, MD require pit dimensions verified against utility 
 
 Lineage note 920302: recirculation pump amp draw captured before Odenton, MD branch isolation.
 
-Scope trace: sump float travel plus slab penetration sleeve seal referenced in Anne Arundel County county grid review.
+Scope trace: sump float travel plus slab penetration sleeve seal referenced in Anne Arundel County drain and water line review.
 
 Regional mesh label Anne Arundel County: moisture and logistics baselines are keyed to Odenton, MD before niche-specific work begins.
 

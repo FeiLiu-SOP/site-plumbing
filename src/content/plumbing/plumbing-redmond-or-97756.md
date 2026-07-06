@@ -12,11 +12,14 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / primary ZIP 97756", "Deschutes County / elevation 3005 ft band", "Deschutes County / coords 44.2600, -121.1800", "Deschutes County / ZIP 97756 sector"]
-zillowHomeValueUsd: 513449
 ---
 
-**Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Redmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Deschutes County.
 
+
+Burst pipe and drain clog calls in Redmond, OR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Deschutes County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Redmond, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
@@ -47,6 +50,8 @@ Trenchless sleeve pulls near Redmond, OR require pit shoring notes when water ta
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Supply audit 929664: curb-stop orientation and hose-bib freeze flag reviewed for Redmond, OR at coords 44.2600/-121.1800.
+
+Plumbing remediation brief: fixture shutoff torque log and PEX expansion ring batch were cross-checked for the Redmond pipe and leak scope.
 
 ZIP-corridor snapshot for Redmond, OR: sampled sectors include 97756; county routing grid remains Deschutes County.
 

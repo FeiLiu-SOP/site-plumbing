@@ -12,11 +12,14 @@ lng: -71.0200
 zipSample: ["02304", "02302", "02303", "02301", "02305"]
 zipCodes: ["02305", "02301", "02303", "02304", "02302"]
 localPaths: ["Plymouth County / ZIP 02301 sector", "Plymouth County / ZIP 02302 sector", "Plymouth County / ZIP 02305 sector", "Plymouth County / coords 42.0800, -71.0200", "Plymouth County / primary ZIP 02301"]
-zillowHomeValueUsd: 513448
 ---
 
-**Engineering Notice for Brockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Plymouth County.
+**Engineering Notice for Brockton:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Plymouth County.
 
+
+Plumbing remediation in Brockton, MA, Plymouth County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in Brockton, MA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Plymouth County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -40,7 +43,7 @@ Step: photograph curb-stop and meter pit before trenching.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sump discharge freeze risk in Brockton, MA should be reviewed before spring thaw cycles.
 
@@ -49,8 +52,6 @@ Trenchless pulls in Brockton, MA require pit dimensions verified against utility
 Flow dossier 989339: branch wet-vent geometry and jetting nozzle envelope logged for Brockton, MA county grid Plymouth County (ZIP 02301).
 
 Drain map 989339: camera-pass priority and expansion-tank pre-charge noted for Brockton, MA postal sector 02301.
-
-Scope trace: water softener bypass lever plus sewer cleanout cap thread referenced in Plymouth County county grid review.
 
 On-site sector marker: Plymouth County / ZIP 02303 sector — logged for map parity and ZIP-corridor verification.
 

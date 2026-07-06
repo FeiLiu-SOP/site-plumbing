@@ -12,11 +12,14 @@ lng: -96.6700
 zipSample: ["74821", "74820"]
 zipCodes: ["74821", "74820"]
 localPaths: ["Pontotoc County / elevation 1010 ft band", "Pontotoc County / ZIP 74820 sector", "Pontotoc County / primary ZIP 74820", "Pontotoc County / ZIP 74821 sector", "Pontotoc County / coords 34.7700, -96.6700"]
-zillowHomeValueUsd: 184092
 ---
 
-**Engineering Notice for Ada:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pontotoc County.
+**Engineering Notice for Ada:** Supply line, cleanout, and water heater scope recorded at 1010 ft elevation context (Pontotoc County).
 
+
+Licensed plumbing crews serving Ada, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Ada, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Pontotoc County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Irrigation cross-connections in Ada, OK can back-siphon domestic lines during main breaks.
 
@@ -47,6 +50,8 @@ Hose bib split patterns in Ada, OK often follow missed winterization.
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Fixture roster 137965: toilet flange spacer kit and shower cartridge seat score queued for Ada, OK walk-through.
+
+Local service note: branch wet vent geometry paired with copper pinhole cluster near ZIP 74820 for emergency plumbing pro repairs.
 
 ZIP-corridor snapshot for Ada, OK: sampled sectors include 74821, 74820; county routing grid remains Pontotoc County.
 

@@ -12,11 +12,14 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band", "Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500"]
-zillowHomeValueUsd: 465777
 ---
 
-**Engineering Notice for South Lyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for South Lyon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Oakland County.
 
+
+Burst pipe and drain clog calls in South Lyon, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in South Lyon, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 48178.
 
@@ -26,7 +29,7 @@ Step: document dielectric unions before mixed-metal replacements.
 
 Polybutylene manifold tags in South Lyon, MI basements should be photographed before any wall chase opens.
 
-We coordinate South Lyon, MI plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate South Lyon, MI plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
@@ -47,6 +50,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
 Intake ledger 197779: sump amperage, PRV seat wear, and cleanout riser height cross-checked for South Lyon, MI at 42.4600, -83.6500.
+
+Scope trace: hose bib freeze flag plus water softener bypass lever referenced in Oakland County drain and water line review.
 
 On-site sector marker: Oakland County / ZIP 48178 sector — logged for map parity and ZIP-corridor verification.
 

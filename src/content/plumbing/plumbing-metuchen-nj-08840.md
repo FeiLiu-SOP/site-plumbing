@@ -12,11 +12,14 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / elevation 98 ft band", "Middlesex County / coords 40.5400, -74.3600", "Middlesex County / primary ZIP 08840", "Middlesex County / ZIP 08840 sector"]
-zillowHomeValueUsd: 682599
 ---
 
-**Engineering Notice for Metuchen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Metuchen:** Supply line, cleanout, and water heater scope recorded at 98 ft elevation context (Middlesex County).
 
+
+Qualified plumbing crews serving Metuchen, NJ review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Metuchen, NJ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Dual-water-meter setups in Metuchen, NJ irrigation zones need backflow logs before line replacement.
 

@@ -12,11 +12,14 @@ lng: -76.2600
 zipSample: ["23504", "23501", "23515", "23511", "23503"]
 zipCodes: ["23509", "23510", "23501", "23519", "23523", "23513", "23518", "23514", "23529", "23541", "23551", "23517"]
 localPaths: ["Norfolk County / ZIP 23515 sector", "Norfolk County / ZIP 23501 sector", "Norfolk County / ZIP 23511 sector", "Norfolk County / ZIP 23504 sector", "Norfolk County / primary ZIP 23509"]
-zillowHomeValueUsd: 279577
 ---
 
-**Engineering Notice for Norfolk:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Norfolk County.
+**Engineering Notice for Norfolk:** Supply line, cleanout, and water heater scope recorded at 23 ft elevation context (Norfolk County).
 
+
+Licensed plumbing crews serving Norfolk, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Norfolk, VA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Norfolk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -47,6 +50,8 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
 Intake ledger 853270: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Norfolk, VA at 36.8900, -76.2600.
+
+Scope trace: water softener bypass lever plus hose bib freeze flag referenced in Norfolk County drain and water line review.
 
 On-site sector marker: Norfolk County / coords 36.8900, -76.2600 — logged for map parity and ZIP-corridor verification.
 

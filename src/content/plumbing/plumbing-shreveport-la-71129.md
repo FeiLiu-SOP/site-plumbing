@@ -12,11 +12,14 @@ lng: -93.8000
 zipSample: ["71134", "71119", "71101", "71109", "71154"]
 zipCodes: ["71130", "71154", "71118", "71129", "71134", "71101", "71105", "71104", "71153", "71148", "71106", "71102"]
 localPaths: ["Caddo Parish / ZIP 71119 sector", "Caddo Parish / ZIP 71134 sector", "Caddo Parish / ZIP 71109 sector", "Caddo Parish / elevation 243 ft band", "Caddo Parish / primary ZIP 71129"]
-zillowHomeValueUsd: 198038
 ---
 
-**Engineering Notice for Shreveport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Caddo Parish.
+**Engineering Notice for Shreveport:** Supply line, cleanout, and water heater scope recorded at 243 ft elevation context (Caddo Parish).
 
+
+Qualified plumbing crews serving Shreveport, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Shreveport, LA, Caddo Parish combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -49,8 +52,6 @@ Dual-water-meter setups in Shreveport, LA irrigation zones need backflow logs be
 Pressure trace 613584: meter-pit clearance and dielectric union checklist staged for Shreveport, LA near elevation 243 ft.
 
 Flow dossier 613584: branch wet-vent geometry and jetting nozzle envelope logged for Shreveport, LA county grid Caddo Parish (ZIP 71129).
-
-Field routing: shower cartridge seat score paired with dielectric union checklist near ZIP 71129.
 
 On-site sector marker: Caddo Parish / ZIP 71136 sector — logged for map parity and ZIP-corridor verification.
 

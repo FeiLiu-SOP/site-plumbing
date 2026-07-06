@@ -12,11 +12,14 @@ lng: -96.3900
 zipSample: ["75132", "75087", "75189"]
 zipCodes: ["75132", "75189", "75087"]
 localPaths: ["Rockwall County / ZIP 75189 sector", "Rockwall County / ZIP 75087 sector", "Rockwall County / ZIP 75132 sector", "Rockwall County / elevation 594 ft band", "Rockwall County / coords 32.9400, -96.3900"]
-zillowHomeValueUsd: 450388
 ---
 
-**Engineering Notice for Fate:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rockwall County.
+**Engineering Notice for Fate:** Emergency leak and drain triage uses ~135 mg/L hardness context with Rockwall County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Fate, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rockwall County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Fate, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -45,8 +48,6 @@ Sump discharge freeze risk in Fate, TX should be reviewed before spring thaw cyc
 Dual-water-meter setups in Fate, TX irrigation zones need backflow logs before line replacement.
 
 Supply audit 826301: curb-stop orientation and hose-bib freeze flag reviewed for Fate, TX at coords 32.9400/-96.3900.
-
-Field routing: meter pit clearance paired with branch wet vent geometry near ZIP 75087.
 
 Coordinate-anchored dispatch note: center reference 32.9400, -96.3900 at elevation ~594 ft aligns with Rockwall County intake staging.
 

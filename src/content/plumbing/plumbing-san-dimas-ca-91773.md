@@ -12,11 +12,14 @@ lng: -117.8100
 zipSample: ["91773"]
 zipCodes: ["91773"]
 localPaths: ["Los Angeles County / primary ZIP 91773", "Los Angeles County / elevation 965 ft band", "Los Angeles County / ZIP 91773 sector", "Los Angeles County / coords 34.1100, -117.8100"]
-zillowHomeValueUsd: 922511
 ---
 
-**Engineering Notice for San Dimas:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Dimas:** Supply line, cleanout, and water heater scope recorded at 965 ft elevation context (Los Angeles County).
 
+
+Plumbing restoration in San Dimas, CA, Los Angeles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in San Dimas, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Across San Dimas, CA, main-line bellies can trap debris even when fixtures drain normally.
 
@@ -44,7 +47,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Supply audit 338144: curb-stop orientation and hose-bib freeze flag reviewed for San Dimas, CA at coords 34.1100/-117.8100.
 
-plumbing brief: sump float travel and recirculation pump amp draw were cross-checked for the San Dimas intake packet.
+Plumbing restoration brief: sump float travel and recirculation pump amp draw were cross-checked for the San Dimas pipe and leak scope.
 
 Primary postal anchor 91773 with multi-ZIP overlap in San Dimas; field packets tag Los Angeles County for county-grid reconciliation.
 

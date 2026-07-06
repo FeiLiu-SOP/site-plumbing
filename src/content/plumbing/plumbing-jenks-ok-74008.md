@@ -12,11 +12,14 @@ lng: -95.9700
 zipSample: ["74037", "74008"]
 zipCodes: ["74037", "74008"]
 localPaths: ["Tulsa County / ZIP 74008 sector", "Tulsa County / coords 36.0000, -95.9700", "Tulsa County / ZIP 74037 sector", "Tulsa County / elevation 696 ft band", "Tulsa County / primary ZIP 74008"]
-zillowHomeValueUsd: 349686
 ---
 
-**Engineering Notice for Jenks:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Jenks:** Supply line, cleanout, and water heater scope recorded at 696 ft elevation context (Tulsa County).
 
+
+Qualified plumbing crews serving Jenks, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Jenks, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Tulsa County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Trenchless sleeve pulls near Jenks, OK require pit shoring notes when water tables are high.
 
@@ -36,7 +39,7 @@ Tip: Avoid chemical drain treatments before camera inspection—they can obscure
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

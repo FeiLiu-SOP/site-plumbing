@@ -12,11 +12,14 @@ lng: -97.1500
 zipSample: ["76092"]
 zipCodes: ["76092"]
 localPaths: ["Tarrant County / ZIP 76092 sector", "Tarrant County / elevation 682 ft band", "Tarrant County / coords 32.9500, -97.1500", "Tarrant County / primary ZIP 76092"]
-zillowHomeValueUsd: 1295845
 ---
 
-**Engineering Notice for Southlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Southlake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~125 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Tarrant County.
 
+
+Burst pipe and drain clog calls in Southlake, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tarrant County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Southlake, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -46,7 +49,7 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Intake ledger 785183: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Southlake, TX at 32.9500, -97.1500.
 
-Scope trace: floor drain trap primer drip plus thermal expansion loop check referenced in Tarrant County county grid review.
+Scope trace: floor drain trap primer drip plus thermal expansion loop check referenced in Tarrant County drain and water line review.
 
 Regional mesh label Tarrant County: moisture and logistics baselines are keyed to Southlake, TX before niche-specific work begins.
 

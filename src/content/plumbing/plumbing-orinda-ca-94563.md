@@ -12,11 +12,14 @@ lng: -122.1800
 zipSample: ["94563"]
 zipCodes: ["94563"]
 localPaths: ["Contra Costa County / coords 37.8800, -122.1800", "Contra Costa County / elevation 571 ft band", "Contra Costa County / ZIP 94563 sector", "Contra Costa County / primary ZIP 94563"]
-zillowHomeValueUsd: 1986080
 ---
 
-**Engineering Notice for Orinda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Orinda:** Supply line, cleanout, and water heater scope recorded at 571 ft elevation context (Contra Costa County).
 
+
+Plumbing service in Orinda, CA, Contra Costa County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Orinda, CA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Contra Costa County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hard water in Orinda, CA accelerates scale on PRV seats and heater elements.
 

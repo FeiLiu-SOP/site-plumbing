@@ -12,11 +12,14 @@ lng: -90.0900
 zipSample: ["39208"]
 zipCodes: ["39208"]
 localPaths: ["Rankin County / ZIP 39208 sector", "Rankin County / primary ZIP 39208", "Rankin County / elevation 377 ft band", "Rankin County / coords 32.2700, -90.0900"]
-zillowHomeValueUsd: 211766
 ---
 
-**Engineering Notice for Pearl:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Rankin County.
+**Engineering Notice for Pearl:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Rankin County.
 
+
+Burst pipe and drain clog calls in Pearl, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Rankin County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Pearl, MS, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Pearl, MS may require ROW restoratio
 Intake ledger 782214: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Pearl, MS at 32.2700, -90.0900.
 
 Drain map 782214: camera-pass priority and expansion-tank pre-charge noted for Pearl, MS postal sector 39208.
-
-Field routing: floor drain trap primer drip paired with thermal expansion loop check near ZIP 39208.
 
 ZIP-corridor snapshot for Pearl, MS: sampled sectors include 39208; county routing grid remains Rankin County.
 

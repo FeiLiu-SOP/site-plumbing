@@ -12,11 +12,14 @@ lng: -77.6200
 zipSample: ["14612", "14615", "14605", "14647", "14608"]
 zipCodes: ["14613", "14644", "14602", "14615", "14651", "14611", "14643", "14603", "14621", "14646", "14606", "14639"]
 localPaths: ["Monroe County / ZIP 14615 sector", "Monroe County / ZIP 14605 sector", "Monroe County / coords 43.1700, -77.6200", "Monroe County / ZIP 14612 sector", "Monroe County / ZIP 14608 sector"]
-zillowHomeValueUsd: 120610
 ---
 
-**Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Monroe County.
+**Engineering Notice for Rochester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~121 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Monroe County.
 
+
+Emergency plumbing pro service in Rochester, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Monroe County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+Plumbing remediation in Rochester, NY, Monroe County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: camera-pass main lines in Rochester, NY before jetting older clay or cast iron.
 

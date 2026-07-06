@@ -8,15 +8,18 @@ zipCode: "60035"
 county: "Lake County"
 elevationFt: 659
 lat: 42.1800
-lng: -87.8100
+lng: -87.8400
 zipSample: ["60035", "60037"]
 zipCodes: ["60035", "60037"]
-localPaths: ["Lake County / elevation 659 ft band", "Lake County / coords 42.1800, -87.8100", "Lake County / ZIP 60037 sector", "Lake County / ZIP 60035 sector", "Lake County / primary ZIP 60035"]
-zillowHomeValueUsd: 751149
+localPaths: ["Lake County / elevation 659 ft band", "Lake County / coords 42.1800, -87.8400", "Lake County / ZIP 60037 sector", "Lake County / ZIP 60035 sector", "Lake County / primary ZIP 60035"]
 ---
 
-**Engineering Notice for Highland Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lake County.
+**Engineering Notice for Highland Park:** Supply line, cleanout, and water heater scope recorded at 659 ft elevation context (Lake County).
 
+
+When a main line backs up in Highland Park, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Emergency plumbing pro service in Highland Park, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Lake County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -43,8 +46,6 @@ Polybutylene manifold tags in Highland Park, IL basements should be photographed
 Permit note: Main water line replacement in Highland Park, IL may require ROW restoration planning.
 
 Lineage note 573201: recirculation pump amp draw captured before Highland Park, IL branch isolation.
-
-Scope trace: water heater T&P path plus cleanout riser height referenced in Lake County county grid review.
 
 ZIP-corridor snapshot for Highland Park, IL: sampled sectors include 60035, 60037; county routing grid remains Lake County.
 

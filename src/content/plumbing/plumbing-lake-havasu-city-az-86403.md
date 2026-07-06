@@ -12,11 +12,14 @@ lng: -114.3100
 zipSample: ["86405", "86406", "86403", "86404"]
 zipCodes: ["86404", "86405", "86403", "86406"]
 localPaths: ["Mohave County / ZIP 86404 sector", "Mohave County / ZIP 86406 sector", "Mohave County / coords 34.5000, -114.3100", "Mohave County / ZIP 86405 sector", "Mohave County / ZIP 86403 sector"]
-zillowHomeValueUsd: 387966
 ---
 
-**Engineering Notice for Lake Havasu City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~179 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mohave County.
+**Engineering Notice for Lake Havasu City:** Supply line, cleanout, and water heater scope recorded at 948 ft elevation context (Mohave County).
 
+
+When a main line backs up in Lake Havasu City, AZ, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Lake Havasu City, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Mohave County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Sump discharge freeze risk in Lake Havasu City, AZ should be reviewed before spring thaw cycles.
 
@@ -47,8 +50,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Lineage note 890042: recirculation pump amp draw captured before Lake Havasu City, AZ branch isolation.
 
 Supply audit 890042: curb-stop orientation and hose-bib freeze flag reviewed for Lake Havasu City, AZ at coords 34.5000/-114.3100.
-
-plumbing brief: fixture shutoff torque log and dielectric union checklist were cross-checked for the Lake Havasu City intake packet.
 
 On-site sector marker: Mohave County / primary ZIP 86403 — logged for map parity and ZIP-corridor verification.
 

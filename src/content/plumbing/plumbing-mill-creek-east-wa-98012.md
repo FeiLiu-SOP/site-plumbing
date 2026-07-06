@@ -12,11 +12,14 @@ lng: -122.1900
 zipSample: ["98012"]
 zipCodes: ["98012"]
 localPaths: ["Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8400, -122.1900", "Snohomish County / primary ZIP 98012", "Snohomish County / elevation 384 ft band"]
-zillowHomeValueUsd: 999082
 ---
 
-**Engineering Notice for Mill Creek East:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Mill Creek East:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Snohomish County.
 
+
+Burst pipe and drain clog calls in Mill Creek East, WA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Snohomish County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Mill Creek East, WA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Snohomish County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -30,7 +33,7 @@ Material note: No-hub cast iron couplings require torque verification after sett
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Mill Creek East, WA systems need rebalancing.
 
@@ -46,7 +49,7 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 Supply audit 932483: curb-stop orientation and hose-bib freeze flag reviewed for Mill Creek East, WA at coords 47.8400/-122.1900.
 
-Scope trace: sump float travel plus thermal expansion loop check referenced in Snohomish County county grid review.
+Scope trace: sump float travel plus thermal expansion loop check referenced in Snohomish County drain and water line review.
 
 On-site sector marker: Snohomish County / coords 47.8400, -122.1900 — logged for map parity and ZIP-corridor verification.
 

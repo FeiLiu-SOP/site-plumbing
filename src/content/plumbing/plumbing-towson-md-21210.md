@@ -12,11 +12,14 @@ lng: -76.6200
 zipSample: ["21252", "21204", "21139", "21210", "21286"]
 zipCodes: ["21239", "21286", "21285", "21284", "21210", "21139", "21204", "21252", "21212", "21209"]
 localPaths: ["Baltimore County / elevation 364 ft band", "Baltimore County / ZIP 21139 sector", "Baltimore County / ZIP 21210 sector", "Baltimore County / primary ZIP 21210", "Baltimore County / ZIP 21252 sector"]
-zillowHomeValueUsd: 477969
 ---
 
-**Engineering Notice for Towson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Towson:** Supply line, cleanout, and water heater scope recorded at 364 ft elevation context (Baltimore County).
 
+
+Plumbing restoration in Towson, MD, Baltimore County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Towson, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 CPVC solvent weld times shift with ambient humidity during Towson, MD shoulder seasons.
 
@@ -48,7 +51,7 @@ Fixture shutoff stiffness in Towson, MD may indicate mineral bridging behind ste
 
 Lineage note 767031: recirculation pump amp draw captured before Towson, MD branch isolation.
 
-Scope trace: jetter nozzle envelope plus PEX expansion ring batch referenced in Baltimore County county grid review.
+Scope trace: jetter nozzle envelope plus PEX expansion ring batch referenced in Baltimore County drain and water line review.
 
 Primary postal anchor 21210 with multi-ZIP overlap in Towson; field packets tag Baltimore County for county-grid reconciliation.
 

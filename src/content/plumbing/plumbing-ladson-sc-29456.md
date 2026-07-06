@@ -12,11 +12,14 @@ lng: -80.1100
 zipSample: ["29456"]
 zipCodes: ["29456"]
 localPaths: ["Berkeley County / elevation 59 ft band", "Berkeley County / coords 33.0100, -80.1100", "Berkeley County / ZIP 29456 sector", "Berkeley County / primary ZIP 29456"]
-zillowHomeValueUsd: 315472
 ---
 
-**Engineering Notice for Ladson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Ladson:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Berkeley County).
 
+
+Plumbing restoration in Ladson, SC, Berkeley County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Ladson, SC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Berkeley County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
@@ -26,7 +29,7 @@ Permit note: Main water line replacement in Ladson, SC may require ROW restorati
 
 Frost-free sillcock failures in Ladson, SC often trace to interior shutoff seats, not exterior stems.
 
-We coordinate Ladson, SC plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Ladson, SC plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Hydrostatic holds in Ladson, SC slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -48,7 +51,7 @@ Dual-water-meter setups in Ladson, SC irrigation zones need backflow logs before
 
 Fixture roster 531261: toilet flange spacer kit and shower cartridge seat score queued for Ladson, SC walk-through.
 
-Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in Berkeley County county grid review.
+Scope trace: shower cartridge seat score plus jetter nozzle envelope referenced in Berkeley County drain and water line review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Berkeley County. Reference elevation: 59 ft. Primary coordinates: 33.0100, -80.1100. ZIP sample: 29456. Regional routing note: Berkeley County traffic flow is balanced around ZIP 29456 service demand.
 

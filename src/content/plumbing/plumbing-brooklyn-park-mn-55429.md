@@ -12,11 +12,14 @@ lng: -93.3500
 zipSample: ["55443", "55429", "55444", "55428", "55445"]
 zipCodes: ["55428", "55443", "55429", "55444", "55445"]
 localPaths: ["Hennepin County / ZIP 55429 sector", "Hennepin County / ZIP 55428 sector", "Hennepin County / elevation 856 ft band", "Hennepin County / coords 45.1100, -93.3500", "Hennepin County / ZIP 55443 sector"]
-zillowHomeValueUsd: 298873
 ---
 
-**Engineering Notice for Brooklyn Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Brooklyn Park:** Emergency leak and drain triage uses ~174 mg/L hardness context with Hennepin County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Brooklyn Park, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Brooklyn Park, MN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -47,6 +50,8 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 Intake ledger 377796: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Brooklyn Park, MN at 45.1100, -93.3500.
+
+Local service note: dielectric union checklist paired with thermal expansion loop check near ZIP 55429 for emergency plumbing pro repairs.
 
 On-site sector marker: Hennepin County / elevation 856 ft band — logged for map parity and ZIP-corridor verification.
 

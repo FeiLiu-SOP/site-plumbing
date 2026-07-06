@@ -12,11 +12,14 @@ lng: -72.5700
 zipSample: ["01013", "01020", "01022", "01021", "01014"]
 zipCodes: ["01014", "01013", "01020", "01021", "01022"]
 localPaths: ["Hampden County / coords 42.1800, -72.5700", "Hampden County / primary ZIP 01020", "Hampden County / elevation 236 ft band", "Hampden County / ZIP 01013 sector", "Hampden County / ZIP 01021 sector"]
-zillowHomeValueUsd: 320683
 ---
 
-**Engineering Notice for Chicopee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hampden County.
+**Engineering Notice for Chicopee:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hampden County.
 
+
+Burst pipe and drain clog calls in Chicopee, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hampden County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Chicopee, MA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 01020.
 
@@ -42,11 +45,9 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Fixture roster 406929: toilet flange spacer kit and shower cartridge seat score queued for Chicopee, MA walk-through.
-
-Scope trace: slab penetration sleeve seal plus floor drain trap primer drip referenced in Hampden County county grid review.
 
 Coordinate-anchored dispatch note: center reference 42.1800, -72.5700 at elevation ~236 ft aligns with Hampden County intake staging.
 

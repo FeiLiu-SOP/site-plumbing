@@ -12,11 +12,14 @@ lng: -88.9300
 zipSample: ["62522", "62521", "62526", "62524", "62523"]
 zipCodes: ["62521", "62524", "62525", "62523", "62522", "62526"]
 localPaths: ["Macon County / ZIP 62522 sector", "Macon County / elevation 682 ft band", "Macon County / coords 39.8600, -88.9300", "Macon County / ZIP 62521 sector", "Macon County / ZIP 62526 sector"]
-zillowHomeValueUsd: 90414
 ---
 
-**Engineering Notice for Decatur:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macon County.
+**Engineering Notice for Decatur:** Supply line, cleanout, and water heater scope recorded at 682 ft elevation context (Macon County).
 
+
+Certified plumbing crews serving Decatur, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Decatur, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Macon County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

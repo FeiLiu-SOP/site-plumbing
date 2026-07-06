@@ -12,11 +12,14 @@ lng: -81.3700
 zipSample: ["32799", "32794", "32751"]
 zipCodes: ["32794", "32799", "32751"]
 localPaths: ["Orange County / ZIP 32751 sector", "Orange County / elevation 98 ft band", "Orange County / ZIP 32794 sector", "Orange County / ZIP 32799 sector", "Orange County / coords 28.6300, -81.3700"]
-zillowHomeValueUsd: 461475
 ---
 
-**Engineering Notice for Maitland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Maitland:** Supply line, cleanout, and water heater scope recorded at 98 ft elevation context (Orange County).
 
+
+Qualified plumbing crews serving Maitland, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Maitland, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Orange County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydro-jetting in Maitland, FL requires camera confirmation before nozzle pressure is raised.
 

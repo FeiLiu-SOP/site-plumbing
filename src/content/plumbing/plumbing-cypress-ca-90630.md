@@ -12,11 +12,14 @@ lng: -118.0400
 zipSample: ["90630"]
 zipCodes: ["90630"]
 localPaths: ["Orange County / primary ZIP 90630", "Orange County / ZIP 90630 sector", "Orange County / coords 33.8200, -118.0400", "Orange County / elevation 52 ft band"]
-zillowHomeValueUsd: 1086093
 ---
 
-**Engineering Notice for Cypress:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Cypress:** Emergency leak and drain triage uses ~146 mg/L hardness context with Orange County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Cypress, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Cypress, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 In Cypress, CA, slab leaks often present as warm spots before wall stains appear.
 
@@ -45,8 +48,6 @@ Step: document dielectric unions before mixed-metal replacements.
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
 Flow dossier 859199: branch wet-vent geometry and jetting nozzle envelope logged for Cypress, CA county grid Orange County (ZIP 90630).
-
-Scope trace: meter pit clearance plus scale coupon sampling referenced in Orange County county grid review.
 
 Coordinate-anchored dispatch note: center reference 33.8200, -118.0400 at elevation ~52 ft aligns with Orange County intake staging.
 

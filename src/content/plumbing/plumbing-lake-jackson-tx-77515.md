@@ -7,16 +7,19 @@ state: "TX"
 zipCode: "77515"
 county: "Brazoria County"
 elevationFt: 36
-lat: 29.0500
-lng: -95.4500
+lat: 29.0680
+lng: -95.4575
 zipSample: ["77566", "77515"]
 zipCodes: ["77566", "77515"]
-localPaths: ["Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / elevation 36 ft band", "Brazoria County / coords 29.0500, -95.4500", "Brazoria County / ZIP 77566 sector"]
-zillowHomeValueUsd: 240699
+localPaths: ["Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / elevation 36 ft band", "Brazoria County / coords 29.0680, -95.4575", "Brazoria County / ZIP 77566 sector"]
 ---
 
-**Engineering Notice for Lake Jackson:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Lake Jackson:** Emergency leak and drain triage uses ~116 mg/L hardness context with Brazoria County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Lake Jackson, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Lake Jackson, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Brazoria County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near Lake Jackson, TX require pit shoring notes when water tables are high.
 
@@ -42,7 +45,9 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Supply audit 464692: curb-stop orientation and hose-bib freeze flag reviewed for Lake Jackson, TX at coords 29.0500/-95.4500.
+Supply audit 464692: curb-stop orientation and hose-bib freeze flag reviewed for Lake Jackson, TX at coords 29.0680/-95.4575.
+
+Plumbing restoration brief: jetter nozzle envelope and gas water heater draft hood gap were cross-checked for the Lake Jackson pipe and leak scope.
 
 On-site sector marker: Brazoria County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 

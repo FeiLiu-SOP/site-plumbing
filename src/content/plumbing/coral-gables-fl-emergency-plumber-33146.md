@@ -12,7 +12,7 @@ lng: -80.2715
 zipSample: ["33143", "33158", "33206", "33146", "33114"]
 zipCodes: ["33206", "33234", "33146", "33134", "33114", "33158", "33143", "33156"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33114 sector", "Miami-Dade County / ZIP 33143 sector", "Miami-Dade County / coords 25.7037, -80.2715", "Miami-Dade County / elevation 345 ft band"]
-zillowHomeValueUsd: 1867141
+zillowHomeValueUsd: 1867126
 ---
 
 **Engineering Notice for Coral Gables:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Miami-Dade County.

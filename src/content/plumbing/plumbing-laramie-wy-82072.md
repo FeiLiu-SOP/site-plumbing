@@ -12,11 +12,14 @@ lng: -105.6100
 zipSample: ["82072", "82070"]
 zipCodes: ["82070", "82072"]
 localPaths: ["Albany County / elevation 7149 ft band", "Albany County / ZIP 82072 sector", "Albany County / primary ZIP 82072", "Albany County / ZIP 82070 sector", "Albany County / coords 41.3100, -105.6100"]
-zillowHomeValueUsd: 363852
 ---
 
-**Engineering Notice for Laramie:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Albany County.
+**Engineering Notice for Laramie:** Supply line, cleanout, and water heater scope recorded at 7149 ft elevation context (Albany County).
 
+
+Burst pipe and drain clog calls in Laramie, WY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Albany County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Laramie, WY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Seasonal Laramie, WY irrigation cross-connections can mask domestic pressure loss.
 
@@ -48,7 +51,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Laramie, WY.
 
 Intake ledger 613431: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Laramie, WY at 41.3100, -105.6100.
 
-plumbing brief: floor drain trap primer drip and sewer cleanout cap thread were cross-checked for the Laramie intake packet.
+Plumbing remediation brief: floor drain trap primer drip and sewer cleanout cap thread were cross-checked for the Laramie pipe and leak scope.
 
 On-site sector marker: Albany County / elevation 7149 ft band — logged for map parity and ZIP-corridor verification.
 

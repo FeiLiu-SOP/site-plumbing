@@ -12,11 +12,14 @@ lng: -90.4300
 zipSample: ["63640"]
 zipCodes: ["63640"]
 localPaths: ["St. Francois County / coords 37.7800, -90.4300", "St. Francois County / primary ZIP 63640", "St. Francois County / ZIP 63640 sector", "St. Francois County / elevation 961 ft band"]
-zillowHomeValueUsd: 254770
 ---
 
-**Engineering Notice for Farmington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Francois County.
+**Engineering Notice for Farmington:** Emergency leak and drain triage uses ~137 mg/L hardness context with St. Francois County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Farmington, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in St. Francois County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Farmington, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Step: tag shutoffs and meter orientation before opening walls.
 

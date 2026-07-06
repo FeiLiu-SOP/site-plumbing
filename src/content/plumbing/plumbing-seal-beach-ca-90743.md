@@ -12,11 +12,14 @@ lng: -118.0700
 zipSample: ["90740", "90743"]
 zipCodes: ["90740", "90743"]
 localPaths: ["Orange County / ZIP 90743 sector", "Orange County / coords 33.7500, -118.0700", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / elevation 13 ft band"]
-zillowHomeValueUsd: 798325
 ---
 
-**Engineering Notice for Seal Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Orange County.
+**Engineering Notice for Seal Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Orange County.
 
+
+Plumbing service in Seal Beach, CA, Orange County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Seal Beach, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -42,15 +45,13 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-We coordinate Seal Beach, CA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Seal Beach, CA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Flow dossier 839664: branch wet-vent geometry and jetting nozzle envelope logged for Seal Beach, CA county grid Orange County (ZIP 90743).
 
 Pressure trace 839664: meter-pit clearance and dielectric union checklist staged for Seal Beach, CA near elevation 13 ft.
-
-Field routing: toilet flange spacer kit paired with dielectric union checklist near ZIP 90743.
 
 On-site sector marker: Orange County / coords 33.7500, -118.0700 — logged for map parity and ZIP-corridor verification.
 

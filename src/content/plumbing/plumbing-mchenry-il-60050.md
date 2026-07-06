@@ -12,11 +12,14 @@ lng: -88.2900
 zipSample: ["60050"]
 zipCodes: ["60050"]
 localPaths: ["McHenry County / primary ZIP 60050", "McHenry County / ZIP 60050 sector", "McHenry County / elevation 817 ft band", "McHenry County / coords 42.3400, -88.2900"]
-zillowHomeValueUsd: 307078
 ---
 
-**Engineering Notice for McHenry:** Domestic water distribution review emphasizes hardness-driven scaling risk (~172 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McHenry County.
+**Engineering Notice for McHenry:** Supply line, cleanout, and water heater scope recorded at 817 ft elevation context (McHenry County).
 
+
+Qualified plumbing crews serving McHenry, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in McHenry, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in McHenry County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -46,7 +49,7 @@ Fixture roster 322652: toilet flange spacer kit and shower cartridge seat score 
 
 Pressure trace 322652: meter-pit clearance and dielectric union checklist staged for McHenry, IL near elevation 817 ft.
 
-Scope trace: sump float travel plus meter pit clearance referenced in McHenry County county grid review.
+Scope trace: sump float travel plus meter pit clearance referenced in McHenry County drain and water line review.
 
 On-site sector marker: McHenry County / coords 42.3400, -88.2900 — logged for map parity and ZIP-corridor verification.
 

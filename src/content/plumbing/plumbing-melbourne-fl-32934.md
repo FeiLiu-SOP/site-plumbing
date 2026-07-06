@@ -12,11 +12,14 @@ lng: -80.6600
 zipSample: ["32912", "32903", "32935", "32919", "32904"]
 zipCodes: ["32941", "32903", "32934", "32912", "32904", "32919", "32901", "32935"]
 localPaths: ["Brevard County / ZIP 32935 sector", "Brevard County / ZIP 32903 sector", "Brevard County / coords 28.1100, -80.6600", "Brevard County / ZIP 32904 sector", "Brevard County / elevation 43 ft band"]
-zillowHomeValueUsd: 489518
 ---
 
-**Engineering Notice for Melbourne:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Brevard County.
+**Engineering Notice for Melbourne:** Emergency leak and drain triage uses ~148 mg/L hardness context with Brevard County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Melbourne, FL, Brevard County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency licensed plumber service in Melbourne, FL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Brevard County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Hose bib split patterns in Melbourne, FL often follow missed winterization.
 
@@ -47,8 +50,6 @@ Basement floor drains in Melbourne, FL should be snaked only after trap arm geom
 In Melbourne, FL, slab leaks often present as warm spots before wall stains appear.
 
 Pressure trace 211998: meter-pit clearance and dielectric union checklist staged for Melbourne, FL near elevation 43 ft.
-
-plumbing brief: copper pinhole cluster and cleanout riser height were cross-checked for the Melbourne intake packet.
 
 On-site sector marker: Brevard County / ZIP 32919 sector — logged for map parity and ZIP-corridor verification.
 

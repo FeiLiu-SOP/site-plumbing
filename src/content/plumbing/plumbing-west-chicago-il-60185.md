@@ -12,11 +12,14 @@ lng: -88.2300
 zipSample: ["60186", "60185"]
 zipCodes: ["60185", "60186"]
 localPaths: ["DuPage County / primary ZIP 60185", "DuPage County / ZIP 60186 sector", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.9000, -88.2300", "DuPage County / ZIP 60185 sector"]
-zillowHomeValueUsd: 382826
 ---
 
-**Engineering Notice for West Chicago:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for West Chicago:** Supply line, cleanout, and water heater scope recorded at 768 ft elevation context (DuPage County).
 
+
+Burst pipe and drain clog calls in West Chicago, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DuPage County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in West Chicago, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 

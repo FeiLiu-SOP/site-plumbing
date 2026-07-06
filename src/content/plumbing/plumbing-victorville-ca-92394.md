@@ -12,11 +12,14 @@ lng: -117.3500
 zipSample: ["92395", "92394", "92392", "92393"]
 zipCodes: ["92392", "92395", "92393", "92394"]
 localPaths: ["San Bernardino County / ZIP 92393 sector", "San Bernardino County / primary ZIP 92394", "San Bernardino County / coords 34.5300, -117.3500", "San Bernardino County / ZIP 92392 sector", "San Bernardino County / ZIP 92395 sector"]
-zillowHomeValueUsd: 431278
 ---
 
-**Engineering Notice for Victorville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~171 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Victorville:** Supply line, cleanout, and water heater scope recorded at 2959 ft elevation context (San Bernardino County).
 
+
+Burst pipe and drain clog calls in Victorville, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in San Bernardino County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Victorville, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 

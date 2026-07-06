@@ -12,15 +12,18 @@ lng: -87.6000
 zipSample: ["35473", "35452", "35476", "35475"]
 zipCodes: ["35452", "35476", "35475", "35473"]
 localPaths: ["Tuscaloosa County / primary ZIP 35473", "Tuscaloosa County / elevation 328 ft band", "Tuscaloosa County / ZIP 35473 sector", "Tuscaloosa County / ZIP 35475 sector", "Tuscaloosa County / coords 33.2600, -87.6000"]
-zillowHomeValueUsd: 266467
 ---
 
-**Engineering Notice for Northport:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tuscaloosa County.
+**Engineering Notice for Northport:** Supply line, cleanout, and water heater scope recorded at 328 ft elevation context (Tuscaloosa County).
 
+
+Burst pipe and drain clog calls in Northport, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Tuscaloosa County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Northport, AL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Hydrostatic holds in Northport, AL slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Seasonal Northport, AL irrigation cross-connections can mask domestic pressure loss.
 
@@ -36,7 +39,7 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Northport, AL.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We coordinate Northport, AL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Northport, AL plumbing service with camera stills, cleanout maps, and realistic dry-down windows.
 
 Risk flag: In Northport, AL, slab leaks can misroute as foundation issues without listening equipment.
 

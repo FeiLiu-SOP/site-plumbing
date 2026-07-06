@@ -12,11 +12,14 @@ lng: -82.1100
 zipSample: ["44036", "44035"]
 zipCodes: ["44035", "44036"]
 localPaths: ["Lorain County / ZIP 44035 sector", "Lorain County / elevation 719 ft band", "Lorain County / primary ZIP 44035", "Lorain County / coords 41.3800, -82.1100", "Lorain County / ZIP 44036 sector"]
-zillowHomeValueUsd: 182809
 ---
 
-**Engineering Notice for Elyria:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lorain County.
+**Engineering Notice for Elyria:** Emergency leak and drain triage uses ~139 mg/L hardness context with Lorain County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Elyria, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Elyria, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Request a camera-assisted drain review before approving jetting. Serving ZIP Code: 44035.
 

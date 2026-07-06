@@ -12,11 +12,14 @@ lng: -81.4000
 zipSample: ["32240", "32250"]
 zipCodes: ["32250", "32240"]
 localPaths: ["Duval County / coords 30.2800, -81.4000", "Duval County / ZIP 32240 sector", "Duval County / ZIP 32250 sector", "Duval County / elevation 33 ft band", "Duval County / primary ZIP 32250"]
-zillowHomeValueUsd: 630388
 ---
 
-**Engineering Notice for Jacksonville Beach:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Duval County.
+**Engineering Notice for Jacksonville Beach:** Supply line, cleanout, and water heater scope recorded at 33 ft elevation context (Duval County).
 
+
+Burst pipe and drain clog calls in Jacksonville Beach, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Duval County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Jacksonville Beach, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -47,8 +50,6 @@ Step: tag shutoffs and meter orientation before opening walls.
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
 Pressure trace 379060: meter-pit clearance and dielectric union checklist staged for Jacksonville Beach, FL near elevation 33 ft.
-
-Field routing: recirculation pump amp draw paired with PRV outlet curve near ZIP 32250.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~33 ft across the Duval County area. Coordinates: 30.2800, -81.4000. ZIP sample: 32240, 32250. Logistics priority: Serving residential sectors across Duval County and north-east ZIP 32250 grid.
 

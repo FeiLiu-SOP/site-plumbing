@@ -12,11 +12,14 @@ lng: -111.9500
 zipSample: ["84129", "84184", "84123"]
 zipCodes: ["84129", "84184", "84123"]
 localPaths: ["Salt Lake County / ZIP 84184 sector", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / elevation 4360 ft band", "Salt Lake County / ZIP 84129 sector", "Salt Lake County / coords 40.6600, -111.9500"]
-zillowHomeValueUsd: 537854
 ---
 
-**Engineering Notice for Taylorsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Taylorsville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Salt Lake County.
 
+
+When a main line backs up in Taylorsville, UT, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Taylorsville, UT, Salt Lake County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

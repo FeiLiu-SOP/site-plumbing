@@ -12,11 +12,14 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / ZIP 78233 sector", "Bexar County / primary ZIP 78233", "Bexar County / coords 29.5500, -98.3400", "Bexar County / elevation 866 ft band"]
-zillowHomeValueUsd: 232994
 ---
 
-**Engineering Notice for Live Oak:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
+**Engineering Notice for Live Oak:** Emergency leak and drain triage uses ~159 mg/L hardness context with Bexar County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Live Oak, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bexar County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Live Oak, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Live Oak, TX slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ Irrigation cross-connections in Live Oak, TX can back-siphon domestic lines duri
 Stack vent offsets in Live Oak, TX older duplexes can mask tub gurgle as a main-line failure.
 
 Flow dossier 648388: branch wet-vent geometry and jetting nozzle envelope logged for Live Oak, TX county grid Bexar County (ZIP 78233).
-
-Scope trace: backflow test cock orientation plus sump float travel referenced in Bexar County county grid review.
 
 Regional mesh label Bexar County: moisture and logistics baselines are keyed to Live Oak, TX before niche-specific work begins.
 

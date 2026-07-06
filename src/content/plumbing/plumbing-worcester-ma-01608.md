@@ -12,11 +12,14 @@ lng: -71.8100
 zipSample: ["01606", "01602", "01615", "01614", "01655"]
 zipCodes: ["01607", "01610", "01604", "01602", "01601", "01605", "01613", "01609", "01655", "01615", "01606", "01603"]
 localPaths: ["Worcester County / primary ZIP 01608", "Worcester County / ZIP 01615 sector", "Worcester County / ZIP 01655 sector", "Worcester County / elevation 502 ft band", "Worcester County / ZIP 01606 sector"]
-zillowHomeValueUsd: 189623
 ---
 
-**Engineering Notice for Worcester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Worcester County.
+**Engineering Notice for Worcester:** Emergency leak and drain triage uses ~159 mg/L hardness context with Worcester County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Worcester, MA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Worcester County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Worcester, MA, Worcester County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -44,7 +47,7 @@ Cast-iron hub corrosion in Worcester, MA often concentrates at the third joint u
 
 Pressure trace 548056: meter-pit clearance and dielectric union checklist staged for Worcester, MA near elevation 502 ft.
 
-plumbing brief: dielectric union checklist and scale coupon sampling were cross-checked for the Worcester intake packet.
+Plumbing service brief: dielectric union checklist and scale coupon sampling were cross-checked for the Worcester pipe and leak scope.
 
 Regional mesh label Worcester County: moisture and logistics baselines are keyed to Worcester, MA before niche-specific work begins.
 

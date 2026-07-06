@@ -12,11 +12,14 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / coords 42.5000, -83.1900", "Oakland County / elevation 696 ft band", "Oakland County / primary ZIP 48072", "Oakland County / ZIP 48072 sector"]
-zillowHomeValueUsd: 314765
 ---
 
-**Engineering Notice for Berkley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Berkley:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Oakland County.
 
+
+When a main line backs up in Berkley, MI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Berkley, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 

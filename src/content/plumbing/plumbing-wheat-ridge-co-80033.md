@@ -12,11 +12,14 @@ lng: -105.1000
 zipSample: ["80033", "80034"]
 zipCodes: ["80033", "80034"]
 localPaths: ["Jefferson County / primary ZIP 80033", "Jefferson County / coords 39.7700, -105.1000", "Jefferson County / ZIP 80033 sector", "Jefferson County / elevation 5381 ft band", "Jefferson County / ZIP 80034 sector"]
-zillowHomeValueUsd: 599396
 ---
 
-**Engineering Notice for Wheat Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Wheat Ridge:** Domestic water distribution review emphasizes hardness-driven scaling risk (~133 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Jefferson County.
 
+
+Plumbing restoration in Wheat Ridge, CO, Jefferson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Wheat Ridge, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -32,9 +35,9 @@ In Wheat Ridge, CO, slab leaks often present as warm spots before wall stains ap
 
 Tip: Save water heater serial plates for warranty traceability.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
-We coordinate Wheat Ridge, CO plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Wheat Ridge, CO plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Frost-free sillcock failures in Wheat Ridge, CO often trace to interior shutoff seats, not exterior stems.
 

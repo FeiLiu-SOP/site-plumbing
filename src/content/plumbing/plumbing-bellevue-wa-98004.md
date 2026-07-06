@@ -12,11 +12,14 @@ lng: -122.1500
 zipSample: ["98009", "98005", "98015", "98007", "98006"]
 zipCodes: ["98004", "98008", "98005", "98015", "98006", "98007", "98009"]
 localPaths: ["King County / primary ZIP 98004", "King County / elevation 338 ft band", "King County / ZIP 98015 sector", "King County / ZIP 98005 sector", "King County / coords 47.6000, -122.1500"]
-zillowHomeValueUsd: 1988228
 ---
 
-**Engineering Notice for Bellevue:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Bellevue:** Emergency leak and drain triage uses ~131 mg/L hardness context with King County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Bellevue, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Certified plumbing crews serving Bellevue, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

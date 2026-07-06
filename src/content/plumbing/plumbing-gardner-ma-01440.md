@@ -12,11 +12,14 @@ lng: -71.9900
 zipSample: ["01440", "01441"]
 zipCodes: ["01441", "01440"]
 localPaths: ["Worcester County / elevation 1191 ft band", "Worcester County / ZIP 01441 sector", "Worcester County / coords 42.5800, -71.9900", "Worcester County / ZIP 01440 sector", "Worcester County / primary ZIP 01440"]
-zillowHomeValueUsd: 368972
 ---
 
-**Engineering Notice for Gardner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Worcester County.
+**Engineering Notice for Gardner:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Worcester County.
 
+
+When a main line backs up in Gardner, MA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing service in Gardner, MA, Worcester County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 

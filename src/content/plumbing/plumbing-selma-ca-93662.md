@@ -12,11 +12,14 @@ lng: -119.6100
 zipSample: ["93662"]
 zipCodes: ["93662"]
 localPaths: ["Fresno County / coords 36.5700, -119.6100", "Fresno County / ZIP 93662 sector", "Fresno County / elevation 331 ft band", "Fresno County / primary ZIP 93662"]
-zillowHomeValueUsd: 364050
 ---
 
-**Engineering Notice for Selma:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fresno County.
+**Engineering Notice for Selma:** Emergency leak and drain triage uses ~150 mg/L hardness context with Fresno County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Selma, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fresno County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Selma, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -46,7 +49,7 @@ Drain map 574541: camera-pass priority and expansion-tank pre-charge noted for S
 
 Supply audit 574541: curb-stop orientation and hose-bib freeze flag reviewed for Selma, CA at coords 36.5700/-119.6100.
 
-plumbing brief: jetter nozzle envelope and water softener bypass lever were cross-checked for the Selma intake packet.
+Plumbing service brief: jetter nozzle envelope and water softener bypass lever were cross-checked for the Selma pipe and leak scope.
 
 **Regional Infrastructure Brief:** Grid anchor set to Fresno County. Reference elevation: 331 ft. Primary coordinates: 36.5700, -119.6100. ZIP sample: 93662. Service perimeter note: Coverage extends through Fresno County with dispatch centered near ZIP 93662.
 

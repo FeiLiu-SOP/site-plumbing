@@ -12,11 +12,14 @@ lng: -92.0300
 zipSample: ["70502", "70598", "70593", "70504", "70501"]
 zipCodes: ["70501", "70593", "70596", "70504", "70506", "70502", "70507", "70508", "70509", "70598", "70503", "70505"]
 localPaths: ["Lafayette Parish / ZIP 70501 sector", "Lafayette Parish / primary ZIP 70508", "Lafayette Parish / ZIP 70504 sector", "Lafayette Parish / ZIP 70502 sector", "Lafayette Parish / elevation 59 ft band"]
-zillowHomeValueUsd: 291880
 ---
 
-**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lafayette Parish.
+**Engineering Notice for Lafayette:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lafayette Parish.
 
+
+Certified plumbing crews serving Lafayette, LA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Lafayette, LA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Sewer gas odors in Lafayette, LA should trigger trap seal and vent path review.
 
@@ -47,8 +50,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Intake ledger 210732: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lafayette, LA at 30.2100, -92.0300.
 
 Fixture roster 210732: toilet flange spacer kit and shower cartridge seat score queued for Lafayette, LA walk-through.
-
-plumbing brief: water softener bypass lever and meter pit clearance were cross-checked for the Lafayette intake packet.
 
 On-site sector marker: Lafayette Parish / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 

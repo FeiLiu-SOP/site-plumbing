@@ -12,11 +12,14 @@ lng: -122.7800
 zipSample: ["97223", "97224", "97281"]
 zipCodes: ["97224", "97281", "97223"]
 localPaths: ["Washington County / ZIP 97223 sector", "Washington County / elevation 230 ft band", "Washington County / ZIP 97281 sector", "Washington County / ZIP 97224 sector", "Washington County / coords 45.4200, -122.7800"]
-zillowHomeValueUsd: 607956
 ---
 
-**Engineering Notice for Tigard:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Washington County.
+**Engineering Notice for Tigard:** Supply line, cleanout, and water heater scope recorded at 230 ft elevation context (Washington County).
 
+
+Plumbing service in Tigard, OR, Washington County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Tigard, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Washington County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hose bib split patterns in Tigard, OR often follow missed winterization.
 
@@ -48,7 +51,7 @@ Hydrostatic holds in Tigard, OR slab circuits run overnight when listening mics 
 
 Pressure trace 876049: meter-pit clearance and dielectric union checklist staged for Tigard, OR near elevation 230 ft.
 
-Scope trace: recirculation pump amp draw plus gas water heater draft hood gap referenced in Washington County county grid review.
+Scope trace: recirculation pump amp draw plus gas water heater draft hood gap referenced in Washington County drain and water line review.
 
 ZIP-corridor snapshot for Tigard, OR: sampled sectors include 97224, 97223, 97281; county routing grid remains Washington County.
 

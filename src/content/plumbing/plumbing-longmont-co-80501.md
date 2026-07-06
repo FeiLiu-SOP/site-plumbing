@@ -12,11 +12,14 @@ lng: -105.1000
 zipSample: ["80503", "80504", "80501"]
 zipCodes: ["80503", "80504", "80501"]
 localPaths: ["Boulder County / elevation 5003 ft band", "Boulder County / coords 40.1700, -105.1000", "Boulder County / ZIP 80501 sector", "Boulder County / primary ZIP 80501", "Boulder County / ZIP 80504 sector"]
-zillowHomeValueUsd: 492847
 ---
 
-**Engineering Notice for Longmont:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Boulder County.
+**Engineering Notice for Longmont:** Supply line, cleanout, and water heater scope recorded at 5003 ft elevation context (Boulder County).
 
+
+Licensed plumbing crews serving Longmont, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Longmont, CO, Boulder County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Longmont, CO.
 
@@ -46,7 +49,7 @@ FAQ: When should sump battery backups be load-tested? In Longmont, CO, before sp
 
 Fixture roster 908295: toilet flange spacer kit and shower cartridge seat score queued for Longmont, CO walk-through.
 
-Scope trace: meter pit clearance plus backflow test cock orientation referenced in Boulder County county grid review.
+Scope trace: meter pit clearance plus backflow test cock orientation referenced in Boulder County drain and water line review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Boulder County. Reference elevation: 5003 ft. Primary coordinates: 40.1700, -105.1000. ZIP sample: 80504, 80503, 80501. Service perimeter note: Coverage extends through Boulder County with dispatch centered near ZIP 80501.
 

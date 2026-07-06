@@ -12,15 +12,18 @@ lng: -104.7400
 zipSample: ["80645", "80620", "80634"]
 zipCodes: ["80634", "80620", "80645"]
 localPaths: ["Weld County / ZIP 80634 sector", "Weld County / elevation 4701 ft band", "Weld County / primary ZIP 80645", "Weld County / ZIP 80620 sector", "Weld County / ZIP 80645 sector"]
-zillowHomeValueUsd: 455817
 ---
 
-**Engineering Notice for Evans:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Weld County.
+**Engineering Notice for Evans:** Emergency leak and drain triage uses ~144 mg/L hardness context with Weld County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Evans, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Weld County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing remediation in Evans, CO, Weld County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch packets reference county grid Weld County near ZIP 80645.
+Our Evans, CO service packets reference Weld County near ZIP 80645 for pipe and leak scope.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -49,8 +52,6 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 Flow dossier 523849: branch wet-vent geometry and jetting nozzle envelope logged for Evans, CO county grid Weld County (ZIP 80645).
 
 Lineage note 523849: recirculation pump amp draw captured before Evans, CO branch isolation.
-
-plumbing brief: dielectric union checklist and hose bib freeze flag were cross-checked for the Evans intake packet.
 
 On-site sector marker: Weld County / ZIP 80634 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / primary ZIP 60126", "DuPage County / elevation 705 ft band", "DuPage County / coords 41.9000, -87.9400", "DuPage County / ZIP 60126 sector"]
-zillowHomeValueUsd: 611458
 ---
 
-**Engineering Notice for Elmhurst:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Elmhurst:** Supply line, cleanout, and water heater scope recorded at 705 ft elevation context (DuPage County).
 
+
+Plumbing remediation in Elmhurst, IL, DuPage County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Elmhurst, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -48,7 +51,7 @@ Basement floor drains in Elmhurst, IL should be snaked only after trap arm geome
 
 Intake ledger 313175: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Elmhurst, IL at 41.9000, -87.9400.
 
-Scope trace: jetter nozzle envelope plus meter pit clearance referenced in DuPage County county grid review.
+Scope trace: jetter nozzle envelope plus meter pit clearance referenced in DuPage County drain and water line review.
 
 Regional mesh label DuPage County: moisture and logistics baselines are keyed to Elmhurst, IL before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -89.3200
 zipSample: ["39401", "39406", "39403", "39407", "39402"]
 zipCodes: ["39406", "39403", "39407", "39401", "39402"]
 localPaths: ["Forrest County / primary ZIP 39401", "Forrest County / ZIP 39402 sector", "Forrest County / ZIP 39401 sector", "Forrest County / ZIP 39407 sector", "Forrest County / ZIP 39406 sector"]
-zillowHomeValueUsd: 145871
 ---
 
-**Engineering Notice for Hattiesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Forrest County.
+**Engineering Notice for Hattiesburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Forrest County.
 
+
+Plumbing service in Hattiesburg, MS, Forrest County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Hattiesburg, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 FAQ: When is cabling enough? In Hattiesburg, MS, pipe material and blockage type dictate method.
 
@@ -32,7 +35,7 @@ Material note: Water heater anode type may change with Hattiesburg, MS hardness 
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 39401.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 

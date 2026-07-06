@@ -12,11 +12,14 @@ lng: -96.7900
 zipSample: ["75078", "75009"]
 zipCodes: ["75078", "75009"]
 localPaths: ["Collin County / elevation 679 ft band", "Collin County / ZIP 75078 sector", "Collin County / ZIP 75009 sector", "Collin County / primary ZIP 75009", "Collin County / coords 33.3200, -96.7900"]
-zillowHomeValueUsd: 537563
 ---
 
-**Engineering Notice for Celina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
+**Engineering Notice for Celina:** Supply line, cleanout, and water heater scope recorded at 679 ft elevation context (Collin County).
 
+
+Plumbing service in Celina, TX, Collin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Celina, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Collin County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: In Celina, TX, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -45,8 +48,6 @@ Risk flag: Seasonal Celina, TX irrigation cross-connections can mask domestic pr
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Intake ledger 570495: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Celina, TX at 33.3200, -96.7900.
-
-plumbing brief: copper pinhole cluster and cleanout riser height were cross-checked for the Celina intake packet.
 
 Coordinate-anchored dispatch note: center reference 33.3200, -96.7900 at elevation ~679 ft aligns with Collin County intake staging.
 

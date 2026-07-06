@@ -12,11 +12,14 @@ lng: -88.0800
 zipSample: ["60193", "60195", "60168", "60173", "60194"]
 zipCodes: ["60173", "60194", "60193", "60168", "60195", "60196"]
 localPaths: ["Cook County / coords 42.0300, -88.0800", "Cook County / ZIP 60173 sector", "Cook County / ZIP 60194 sector", "Cook County / ZIP 60168 sector", "Cook County / ZIP 60193 sector"]
-zillowHomeValueUsd: 362709
 ---
 
-**Engineering Notice for Schaumburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Schaumburg:** Supply line, cleanout, and water heater scope recorded at 801 ft elevation context (Cook County).
 
+
+Plumbing service in Schaumburg, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Schaumburg, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Schaumburg, IL may require ROW restoration planning.
 
@@ -43,8 +46,6 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Schaumburg, IL
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 Lineage note 180367: recirculation pump amp draw captured before Schaumburg, IL branch isolation.
-
-plumbing brief: fixture shutoff torque log and backflow test cock orientation were cross-checked for the Schaumburg intake packet.
 
 On-site sector marker: Cook County / ZIP 60195 sector — logged for map parity and ZIP-corridor verification.
 

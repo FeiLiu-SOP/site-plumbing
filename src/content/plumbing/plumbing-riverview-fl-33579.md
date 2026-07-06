@@ -12,11 +12,14 @@ lng: -82.3000
 zipSample: ["33578", "33569", "33579", "33568"]
 zipCodes: ["33569", "33578", "33568", "33579"]
 localPaths: ["Hillsborough County / ZIP 33569 sector", "Hillsborough County / ZIP 33579 sector", "Hillsborough County / coords 27.8200, -82.3000", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33568 sector"]
-zillowHomeValueUsd: 387170
 ---
 
-**Engineering Notice for Riverview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Riverview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Hillsborough County.
 
+
+Certified plumbing crews serving Riverview, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Riverview, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Basement floor drains in Riverview, FL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -24,7 +27,7 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Step: map sump float travel and check-valve orientation for Riverview, FL basements.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Seasonal Riverview, FL irrigation cross-connections can mask domestic pressure loss.
 

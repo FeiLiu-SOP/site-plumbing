@@ -12,11 +12,14 @@ lng: -73.9500
 zipSample: ["11209", "11234", "11225", "11251", "11202"]
 zipCodes: ["11207", "11222", "11220", "11235", "11243", "11239", "11228", "11210", "11226", "11225", "11219", "11217"]
 localPaths: ["Kings County / coords 40.6500, -73.9500", "Kings County / ZIP 11209 sector", "Kings County / ZIP 11251 sector", "Kings County / primary ZIP 11229", "Kings County / elevation 59 ft band"]
-zillowHomeValueUsd: 767723
 ---
 
-**Engineering Notice for Brooklyn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kings County.
+**Engineering Notice for Brooklyn:** Supply line, cleanout, and water heater scope recorded at 59 ft elevation context (Kings County).
 
+
+Licensed plumbing crews serving Brooklyn, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Brooklyn, NY, Kings County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 
@@ -32,7 +35,7 @@ About us: Drain cleaning scopes distinguish branch clogs from main-line failures
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -50,7 +53,7 @@ Intake ledger 492553: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Flow dossier 492553: branch wet-vent geometry and jetting nozzle envelope logged for Brooklyn, NY county grid Kings County (ZIP 11229).
 
-Scope trace: thermal expansion loop check plus copper pinhole cluster referenced in Kings County county grid review.
+Scope trace: thermal expansion loop check plus copper pinhole cluster referenced in Kings County drain and water line review.
 
 Primary postal anchor 11229 with multi-ZIP overlap in Brooklyn; field packets tag Kings County for county-grid reconciliation.
 

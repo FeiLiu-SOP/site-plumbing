@@ -12,11 +12,14 @@ lng: -82.5800
 zipSample: ["33634", "33635", "33615", "33685"]
 zipCodes: ["33634", "33635", "33615", "33685"]
 localPaths: ["Hillsborough County / ZIP 33615 sector", "Hillsborough County / ZIP 33685 sector", "Hillsborough County / coords 28.0100, -82.5800", "Hillsborough County / ZIP 33635 sector", "Hillsborough County / elevation 30 ft band"]
-zillowHomeValueUsd: 445879
 ---
 
-**Engineering Notice for Town 'n' Country:** Domestic water distribution review emphasizes hardness-driven scaling risk (~168 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Town 'n' Country:** Supply line, cleanout, and water heater scope recorded at 30 ft elevation context (Hillsborough County).
 
+
+Qualified plumbing crews serving Town 'n' Country, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Town 'n' Country, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -47,8 +50,6 @@ Irrigation cross-connections in Town 'n' Country, FL can back-siphon domestic li
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Fixture roster 465988: toilet flange spacer kit and shower cartridge seat score queued for Town 'n' Country, FL walk-through.
-
-plumbing brief: branch wet vent geometry and sewer cleanout cap thread were cross-checked for the Town 'n' Country intake packet.
 
 On-site sector marker: Hillsborough County / primary ZIP 33635 — logged for map parity and ZIP-corridor verification.
 

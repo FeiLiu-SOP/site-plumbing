@@ -12,13 +12,16 @@ lng: -76.3000
 zipSample: ["17602", "17603", "17601", "17622", "17608"]
 zipCodes: ["17603", "17622", "17608", "17602", "17601", "17699"]
 localPaths: ["Lancaster County / coords 40.0400, -76.3000", "Lancaster County / ZIP 17601 sector", "Lancaster County / ZIP 17602 sector", "Lancaster County / ZIP 17603 sector", "Lancaster County / primary ZIP 17603"]
-zillowHomeValueUsd: 307355
 ---
 
-**Engineering Notice for Lancaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Lancaster County.
+**Engineering Notice for Lancaster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Lancaster County.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Lancaster, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Plumbing remediation in Lancaster, PA, Lancaster County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Sump discharge freeze risk in Lancaster, PA should be reviewed before spring thaw cycles.
 
@@ -47,8 +50,6 @@ Sewer gas odors in Lancaster, PA should trigger trap seal and vent path review.
 Stack vent offsets in Lancaster, PA older duplexes can mask tub gurgle as a main-line failure.
 
 Pressure trace 576485: meter-pit clearance and dielectric union checklist staged for Lancaster, PA near elevation 394 ft.
-
-plumbing brief: shower cartridge seat score and cleanout riser height were cross-checked for the Lancaster intake packet.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Lancaster County. Reference elevation: 394 ft. Primary coordinates: 40.0400, -76.3000. ZIP sample: 17622, 17603, 17602, 17699, 17601. Service perimeter note: Coverage extends through Lancaster County with dispatch centered near ZIP 17603.
 

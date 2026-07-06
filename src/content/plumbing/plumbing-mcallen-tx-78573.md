@@ -12,11 +12,14 @@ lng: -98.2500
 zipSample: ["78557", "78504", "78573", "78505", "78502"]
 zipCodes: ["78501", "78502", "78503", "78573", "78504", "78557", "78505"]
 localPaths: ["Hidalgo County / ZIP 78502 sector", "Hidalgo County / primary ZIP 78573", "Hidalgo County / elevation 138 ft band", "Hidalgo County / ZIP 78557 sector", "Hidalgo County / ZIP 78573 sector"]
-zillowHomeValueUsd: 216775
 ---
 
-**Engineering Notice for McAllen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for McAllen:** Supply line, cleanout, and water heater scope recorded at 138 ft elevation context (Hidalgo County).
 
+
+Plumbing service in McAllen, TX, Hidalgo County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing pro service in McAllen, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Hidalgo County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: Seasonal McAllen, TX irrigation cross-connections can mask domestic pressure loss.
 
@@ -49,8 +52,6 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 Fixture roster 433613: toilet flange spacer kit and shower cartridge seat score queued for McAllen, TX walk-through.
 
 Intake ledger 433613: sump amperage, PRV seat wear, and cleanout riser height cross-checked for McAllen, TX at 26.2300, -98.2500.
-
-plumbing brief: jetter nozzle envelope and water heater T&P path were cross-checked for the McAllen intake packet.
 
 Regional mesh label Hidalgo County: moisture and logistics baselines are keyed to McAllen, TX before niche-specific work begins.
 

@@ -7,16 +7,19 @@ state: "NY"
 zipCode: "11746"
 county: "Suffolk County"
 elevationFt: 213
-lat: 40.8000
-lng: -73.3400
+lat: 40.8105
+lng: -73.3700
 zipSample: ["11746"]
 zipCodes: ["11746"]
-localPaths: ["Suffolk County / coords 40.8000, -73.3400", "Suffolk County / elevation 213 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / ZIP 11746 sector"]
-zillowHomeValueUsd: 771445
+localPaths: ["Suffolk County / coords 40.8105, -73.3700", "Suffolk County / elevation 213 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / ZIP 11746 sector"]
 ---
 
-**Engineering Notice for Dix Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Dix Hills:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Suffolk County.
 
+
+Burst pipe and drain clog calls in Dix Hills, NY may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Suffolk County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Dix Hills, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Suffolk County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Risk flag: In Dix Hills, NY, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -49,8 +52,6 @@ Tip: Save water heater serial plates for warranty traceability.
 Pressure trace 599271: meter-pit clearance and dielectric union checklist staged for Dix Hills, NY near elevation 213 ft.
 
 Flow dossier 599271: branch wet-vent geometry and jetting nozzle envelope logged for Dix Hills, NY county grid Suffolk County (ZIP 11746).
-
-Field routing: recirculation pump amp draw paired with slab penetration sleeve seal near ZIP 11746.
 
 On-site sector marker: Suffolk County / primary ZIP 11746 — logged for map parity and ZIP-corridor verification.
 

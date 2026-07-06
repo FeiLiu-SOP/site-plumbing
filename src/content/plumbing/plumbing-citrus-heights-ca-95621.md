@@ -12,13 +12,16 @@ lng: -121.2900
 zipSample: ["95621", "95611", "95610"]
 zipCodes: ["95621", "95610", "95611"]
 localPaths: ["Sacramento County / ZIP 95610 sector", "Sacramento County / ZIP 95621 sector", "Sacramento County / primary ZIP 95621", "Sacramento County / elevation 157 ft band", "Sacramento County / ZIP 95611 sector"]
-zillowHomeValueUsd: 454261
 ---
 
-**Engineering Notice for Citrus Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Citrus Heights:** Emergency leak and drain triage uses ~153 mg/L hardness context with Sacramento County service-area notes for pipe and fixture repairs.
 
 
-Dispatch packets reference county grid Sacramento County near ZIP 95621.
+Plumbing restoration in Citrus Heights, CA, Sacramento County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Citrus Heights, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Our Citrus Heights, CA service packets reference Sacramento County near ZIP 95621 for pipe and leak scope.
 
 Tip: Mark hose bib interior shutoffs before freeze-risk nights in Citrus Heights, CA.
 
@@ -48,7 +51,7 @@ Permit note: Main water line replacement in Citrus Heights, CA may require ROW r
 
 Supply audit 816377: curb-stop orientation and hose-bib freeze flag reviewed for Citrus Heights, CA at coords 38.6900/-121.2900.
 
-Scope trace: hose bib freeze flag plus thermal expansion loop check referenced in Sacramento County county grid review.
+Scope trace: hose bib freeze flag plus thermal expansion loop check referenced in Sacramento County drain and water line review.
 
 Regional mesh label Sacramento County: moisture and logistics baselines are keyed to Citrus Heights, CA before niche-specific work begins.
 

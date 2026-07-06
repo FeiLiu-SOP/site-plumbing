@@ -12,11 +12,14 @@ lng: -88.3100
 zipSample: ["60177"]
 zipCodes: ["60177"]
 localPaths: ["Kane County / ZIP 60177 sector", "Kane County / primary ZIP 60177", "Kane County / elevation 804 ft band", "Kane County / coords 41.9900, -88.3100"]
-zillowHomeValueUsd: 366425
 ---
 
-**Engineering Notice for South Elgin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~123 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kane County.
+**Engineering Notice for South Elgin:** Supply line, cleanout, and water heater scope recorded at 804 ft elevation context (Kane County).
 
+
+Emergency certified plumber service in South Elgin, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Kane County should note shutoff locations and photograph visible water mitigation before crews arrive.
+
+When a main line backs up in South Elgin, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -47,8 +50,6 @@ Frost-free sillcock failures in South Elgin, IL often trace to interior shutoff 
 Permit note: Main water line replacement in South Elgin, IL may require ROW restoration planning.
 
 Supply audit 874696: curb-stop orientation and hose-bib freeze flag reviewed for South Elgin, IL at coords 41.9900/-88.3100.
-
-Scope trace: scale coupon sampling plus sump float travel referenced in Kane County county grid review.
 
 On-site sector marker: Kane County / coords 41.9900, -88.3100 — logged for map parity and ZIP-corridor verification.
 

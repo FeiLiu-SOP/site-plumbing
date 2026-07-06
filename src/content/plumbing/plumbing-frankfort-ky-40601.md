@@ -12,11 +12,14 @@ lng: -84.8600
 zipSample: ["40622", "40603", "40601", "40620", "40619"]
 zipCodes: ["40601", "40619", "40622", "40618", "40621", "40603", "40620"]
 localPaths: ["Franklin County / primary ZIP 40601", "Franklin County / elevation 722 ft band", "Franklin County / ZIP 40620 sector", "Franklin County / ZIP 40619 sector", "Franklin County / ZIP 40601 sector"]
-zillowHomeValueUsd: 240487
 ---
 
-**Engineering Notice for Frankfort:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Franklin County.
+**Engineering Notice for Frankfort:** Supply line, cleanout, and water heater scope recorded at 722 ft elevation context (Franklin County).
 
+
+Licensed plumbing crews serving Frankfort, KY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Frankfort, KY, Franklin County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
@@ -34,7 +37,7 @@ Trenchless pulls in Frankfort, KY require pit dimensions verified against utilit
 
 Hydro-jetting in Frankfort, KY requires camera confirmation before nozzle pressure is raised.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: What slows emergency response? Missing curb-stop clearance and finished-surface access are common delays in Frankfort, KY.
 
@@ -45,8 +48,6 @@ Permit note: Main water line replacement in Frankfort, KY may require ROW restor
 Galvanized segments in Frankfort, KY may restrict flow long before visible corrosion.
 
 Flow dossier 625482: branch wet-vent geometry and jetting nozzle envelope logged for Frankfort, KY county grid Franklin County (ZIP 40601).
-
-Field routing: meter pit clearance paired with dielectric union checklist near ZIP 40601.
 
 On-site sector marker: Franklin County / elevation 722 ft band — logged for map parity and ZIP-corridor verification.
 

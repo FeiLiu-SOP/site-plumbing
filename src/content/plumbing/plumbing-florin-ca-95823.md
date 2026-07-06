@@ -12,11 +12,14 @@ lng: -121.4000
 zipSample: ["95823", "95828"]
 zipCodes: ["95828", "95823"]
 localPaths: ["Sacramento County / elevation 43 ft band", "Sacramento County / ZIP 95828 sector", "Sacramento County / primary ZIP 95823", "Sacramento County / ZIP 95823 sector", "Sacramento County / coords 38.4800, -121.4000"]
-zillowHomeValueUsd: 428746
 ---
 
-**Engineering Notice for Florin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Florin:** Supply line, cleanout, and water heater scope recorded at 43 ft elevation context (Sacramento County).
 
+
+When a main line backs up in Florin, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Qualified plumbing crews serving Florin, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Florin, CA irrigation zones need backflow logs before line replacement.
 
@@ -38,13 +41,11 @@ Step: document dielectric unions before mixed-metal replacements.
 
 Trenchless pulls in Florin, CA require pit dimensions verified against utility locate marks.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Technicians stage dielectric kits before any copper-to-steel transition is approved.
 
 Supply audit 952432: curb-stop orientation and hose-bib freeze flag reviewed for Florin, CA at coords 38.4800/-121.4000.
-
-Field routing: recirculation pump amp draw paired with dielectric union checklist near ZIP 95823.
 
 On-site sector marker: Sacramento County / coords 38.4800, -121.4000 — logged for map parity and ZIP-corridor verification.
 

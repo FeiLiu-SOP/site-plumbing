@@ -12,11 +12,14 @@ lng: -84.5700
 zipSample: ["31169", "30269"]
 zipCodes: ["31169", "30269"]
 localPaths: ["Fayette County / ZIP 30269 sector", "Fayette County / coords 33.3900, -84.5700", "Fayette County / ZIP 31169 sector", "Fayette County / primary ZIP 30269", "Fayette County / elevation 817 ft band"]
-zillowHomeValueUsd: 577652
 ---
 
-**Engineering Notice for Peachtree City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~127 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fayette County.
+**Engineering Notice for Peachtree City:** Emergency leak and drain triage uses ~127 mg/L hardness context with Fayette County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Peachtree City, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Peachtree City, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Fayette County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
@@ -48,7 +51,7 @@ Lineage note 880005: recirculation pump amp draw captured before Peachtree City,
 
 Fixture roster 880005: toilet flange spacer kit and shower cartridge seat score queued for Peachtree City, GA walk-through.
 
-Scope trace: slab leak listening window plus scale coupon sampling referenced in Fayette County county grid review.
+Scope trace: slab leak listening window plus scale coupon sampling referenced in Fayette County drain and water line review.
 
 **Regional Infrastructure Brief:** Terrain baseline indicates ~817 ft across the Fayette County area. Coordinates: 33.3900, -84.5700. ZIP sample: 30269, 31169. Logistics priority: Serving residential sectors across Fayette County and north-east ZIP 30269 grid.
 

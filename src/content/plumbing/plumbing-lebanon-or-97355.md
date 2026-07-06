@@ -12,11 +12,14 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / elevation 348 ft band", "Linn County / primary ZIP 97355", "Linn County / coords 44.5300, -122.9100", "Linn County / ZIP 97355 sector"]
-zillowHomeValueUsd: 390853
 ---
 
-**Engineering Notice for Lebanon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~139 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Linn County.
+**Engineering Notice for Lebanon:** Supply line, cleanout, and water heater scope recorded at 348 ft elevation context (Linn County).
 
+
+Emergency plumbing technician service in Lebanon, OR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Linn County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Licensed plumbing crews serving Lebanon, OR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

@@ -12,11 +12,14 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / ZIP 38637 sector", "DeSoto County / primary ZIP 38637", "DeSoto County / elevation 299 ft band", "DeSoto County / coords 34.9500, -90.0500"]
-zillowHomeValueUsd: 202256
 ---
 
-**Engineering Notice for Horn Lake:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Horn Lake:** Supply line, cleanout, and water heater scope recorded at 299 ft elevation context (DeSoto County).
 
+
+Burst pipe and drain clog calls in Horn Lake, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DeSoto County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in Horn Lake, MS, DeSoto County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
@@ -47,8 +50,6 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 FAQ: How fast can water lines be isolated? Missing curb-stop clearance and finished-surface access are common delays in Horn Lake, MS.
 
 Lineage note 524041: recirculation pump amp draw captured before Horn Lake, MS branch isolation.
-
-Scope trace: thermal expansion loop check plus jetter nozzle envelope referenced in DeSoto County county grid review.
 
 Regional mesh label DeSoto County: moisture and logistics baselines are keyed to Horn Lake, MS before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -117.6100
 zipSample: ["91743", "91762", "91764", "91761", "91758"]
 zipCodes: ["91764", "91758", "91762", "91761", "91743"]
 localPaths: ["San Bernardino County / primary ZIP 91762", "San Bernardino County / coords 34.0400, -117.6100", "San Bernardino County / elevation 866 ft band", "San Bernardino County / ZIP 91764 sector", "San Bernardino County / ZIP 91762 sector"]
-zillowHomeValueUsd: 684549
 ---
 
-**Engineering Notice for Ontario:** Domestic water distribution review emphasizes hardness-driven scaling risk (~119 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Ontario:** Supply line, cleanout, and water heater scope recorded at 866 ft elevation context (San Bernardino County).
 
+
+Licensed plumbing crews serving Ontario, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Ontario, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 91762.
 

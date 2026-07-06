@@ -12,11 +12,14 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / elevation 466 ft band", "Baltimore County / ZIP 21234 sector"]
-zillowHomeValueUsd: 301696
 ---
 
-**Engineering Notice for Carney:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Carney:** Supply line, cleanout, and water heater scope recorded at 466 ft elevation context (Baltimore County).
 
+
+When a main line backs up in Carney, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Carney, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Baltimore County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Confirm cleanout locations during the same visit. Serving ZIP Code: 21234.
 
@@ -40,11 +43,13 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 Trenchless pulls in Carney, MD require pit dimensions verified against utility locate marks.
 
-Dispatch packets reference county grid Baltimore County near ZIP 21234.
+Our Carney, MD service packets reference Baltimore County near ZIP 21234 for pipe and leak scope.
 
 Lineage note 743272: recirculation pump amp draw captured before Carney, MD branch isolation.
 
 Drain map 743272: camera-pass priority and expansion-tank pre-charge noted for Carney, MD postal sector 21234.
+
+Scope trace: floor drain trap primer drip plus water softener bypass lever referenced in Baltimore County drain and water line review.
 
 Primary postal anchor 21234 with multi-ZIP overlap in Carney; field packets tag Baltimore County for county-grid reconciliation.
 

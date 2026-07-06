@@ -12,11 +12,14 @@ lng: -76.5000
 zipSample: ["14851", "14853", "14850"]
 zipCodes: ["14850", "14851", "14853"]
 localPaths: ["Tompkins County / coords 42.4400, -76.5000", "Tompkins County / elevation 404 ft band", "Tompkins County / primary ZIP 14853", "Tompkins County / ZIP 14850 sector", "Tompkins County / ZIP 14853 sector"]
-zillowHomeValueUsd: 404579
 ---
 
-**Engineering Notice for Ithaca:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Tompkins County.
+**Engineering Notice for Ithaca:** Supply line, cleanout, and water heater scope recorded at 404 ft elevation context (Tompkins County).
 
+
+When a main line backs up in Ithaca, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Emergency plumbing pro service in Ithaca, NY often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Tompkins County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: Seasonal Ithaca, NY irrigation cross-connections can mask domestic pressure loss.
 
@@ -45,8 +48,6 @@ Sewer gas odors in Ithaca, NY should trigger trap seal and vent path review.
 In Ithaca, NY, slab leaks often present as warm spots before wall stains appear.
 
 Pressure trace 346397: meter-pit clearance and dielectric union checklist staged for Ithaca, NY near elevation 404 ft.
-
-Scope trace: recirculation pump amp draw plus branch wet vent geometry referenced in Tompkins County county grid review.
 
 On-site sector marker: Tompkins County / ZIP 14851 sector — logged for map parity and ZIP-corridor verification.
 

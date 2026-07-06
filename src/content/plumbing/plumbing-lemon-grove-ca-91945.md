@@ -12,15 +12,18 @@ lng: -117.0300
 zipSample: ["91946", "91945"]
 zipCodes: ["91946", "91945"]
 localPaths: ["San Diego County / elevation 420 ft band", "San Diego County / ZIP 91946 sector", "San Diego County / ZIP 91945 sector", "San Diego County / primary ZIP 91945", "San Diego County / coords 32.7300, -117.0300"]
-zillowHomeValueUsd: 762175
 ---
 
-**Engineering Notice for Lemon Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Diego County.
+**Engineering Notice for Lemon Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~162 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Diego County.
 
+
+Qualified plumbing crews serving Lemon Grove, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Lemon Grove, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: photograph curb-stop and meter pit before trenching.
 
@@ -47,6 +50,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Supply audit 755912: curb-stop orientation and hose-bib freeze flag reviewed for Lemon Grove, CA at coords 32.7300/-117.0300.
 
 Intake ledger 755912: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lemon Grove, CA at 32.7300, -117.0300.
+
+Plumbing service brief: slab leak listening window and jetter nozzle envelope were cross-checked for the Lemon Grove pipe and leak scope.
 
 On-site sector marker: San Diego County / ZIP 91945 sector — logged for map parity and ZIP-corridor verification.
 

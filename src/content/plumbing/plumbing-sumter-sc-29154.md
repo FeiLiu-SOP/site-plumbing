@@ -12,11 +12,14 @@ lng: -80.3900
 zipSample: ["29150", "29152", "29153", "29154", "29151"]
 zipCodes: ["29151", "29150", "29154", "29152", "29153"]
 localPaths: ["Sumter County / ZIP 29152 sector", "Sumter County / ZIP 29151 sector", "Sumter County / ZIP 29150 sector", "Sumter County / coords 33.9400, -80.3900", "Sumter County / primary ZIP 29154"]
-zillowHomeValueUsd: 235521
 ---
 
-**Engineering Notice for Sumter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Sumter County.
+**Engineering Notice for Sumter:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Sumter County.
 
+
+Qualified plumbing crews serving Sumter, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Sumter, SC, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Hydrostatic holds in Sumter, SC slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -38,13 +41,13 @@ Step: pressure-hold domestic lines before declaring leak isolation complete.
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with Sumter, SC hardness profiles.
 
 Pressure trace 401459: meter-pit clearance and dielectric union checklist staged for Sumter, SC near elevation 184 ft.
 
-Scope trace: slab leak listening window plus water softener bypass lever referenced in Sumter County county grid review.
+Scope trace: slab leak listening window plus water softener bypass lever referenced in Sumter County drain and water line review.
 
 On-site sector marker: Sumter County / ZIP 29152 sector — logged for map parity and ZIP-corridor verification.
 

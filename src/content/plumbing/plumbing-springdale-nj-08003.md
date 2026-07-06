@@ -12,11 +12,14 @@ lng: -74.9700
 zipSample: ["08003"]
 zipCodes: ["08003"]
 localPaths: ["Camden County / coords 39.8800, -74.9700", "Camden County / ZIP 08003 sector", "Camden County / primary ZIP 08003", "Camden County / elevation 75 ft band"]
-zillowHomeValueUsd: 564418
 ---
 
-**Engineering Notice for Springdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Camden County.
+**Engineering Notice for Springdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Camden County.
 
+
+Plumbing service in Springdale, NJ, Camden County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Springdale, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Camden County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: Water heater anode type may change with Springdale, NJ hardness profiles.
 
@@ -40,13 +43,11 @@ Sump discharge freeze risk in Springdale, NJ should be reviewed before spring th
 
 Risk flag: Seasonal Springdale, NJ irrigation cross-connections can mask domestic pressure loss.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Trenchless pulls in Springdale, NJ require pit dimensions verified against utility locate marks.
 
 Drain map 233334: camera-pass priority and expansion-tank pre-charge noted for Springdale, NJ postal sector 08003.
-
-Field routing: scale coupon sampling paired with floor drain trap primer drip near ZIP 08003.
 
 On-site sector marker: Camden County / primary ZIP 08003 — logged for map parity and ZIP-corridor verification.
 

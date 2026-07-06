@@ -12,11 +12,14 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / elevation 623 ft band", "Will County / primary ZIP 60404", "Will County / ZIP 60404 sector", "Will County / coords 41.5200, -88.2100"]
-zillowHomeValueUsd: 404155
 ---
 
-**Engineering Notice for Shorewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Shorewood:** Emergency leak and drain triage uses ~167 mg/L hardness context with Will County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Shorewood, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Will County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Shorewood, IL, Will County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -42,7 +45,7 @@ Technicians stage dielectric kits before any copper-to-steel transition is appro
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Drain map 834856: camera-pass priority and expansion-tank pre-charge noted for Shorewood, IL postal sector 60404.
 

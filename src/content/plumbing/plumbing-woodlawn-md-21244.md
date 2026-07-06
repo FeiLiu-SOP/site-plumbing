@@ -12,11 +12,14 @@ lng: -76.7500
 zipSample: ["21235", "21244", "21289", "21228", "21207"]
 zipCodes: ["21235", "21207", "21228", "21289", "21241", "21244"]
 localPaths: ["Baltimore County / ZIP 21289 sector", "Baltimore County / primary ZIP 21244", "Baltimore County / ZIP 21244 sector", "Baltimore County / elevation 413 ft band", "Baltimore County / ZIP 21207 sector"]
-zillowHomeValueUsd: 322141
 ---
 
-**Engineering Notice for Woodlawn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Woodlawn:** Emergency leak and drain triage uses ~160 mg/L hardness context with Baltimore County service-area notes for pipe and fixture repairs.
 
+
+Emergency plumbing pro service in Woodlawn, MD often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Baltimore County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Woodlawn, MD review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 

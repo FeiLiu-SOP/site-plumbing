@@ -12,11 +12,14 @@ lng: -101.4800
 zipSample: ["79720", "79721"]
 zipCodes: ["79721", "79720"]
 localPaths: ["Howard County / coords 32.2400, -101.4800", "Howard County / ZIP 79721 sector", "Howard County / primary ZIP 79720", "Howard County / ZIP 79720 sector", "Howard County / elevation 2536 ft band"]
-zillowHomeValueUsd: 140885
 ---
 
-**Engineering Notice for Big Spring:** Domestic water distribution review emphasizes hardness-driven scaling risk (~149 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Howard County.
+**Engineering Notice for Big Spring:** Supply line, cleanout, and water heater scope recorded at 2536 ft elevation context (Howard County).
 
+
+Emergency plumbing pro service in Big Spring, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Howard County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Certified plumbing crews serving Big Spring, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Dual-water-meter setups in Big Spring, TX irrigation zones need backflow logs before line replacement.
 
@@ -44,7 +47,7 @@ Gas-adjacent note: Water heater connectors must maintain proper sediment trap or
 
 Pressure trace 253787: meter-pit clearance and dielectric union checklist staged for Big Spring, TX near elevation 2536 ft.
 
-plumbing brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Big Spring intake packet.
+Plumbing restoration brief: recirculation pump amp draw and floor drain trap primer drip were cross-checked for the Big Spring pipe and leak scope.
 
 On-site sector marker: Howard County / primary ZIP 79720 — logged for map parity and ZIP-corridor verification.
 

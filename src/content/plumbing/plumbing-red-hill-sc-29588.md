@@ -12,11 +12,14 @@ lng: -79.0100
 zipSample: ["29526", "29588"]
 zipCodes: ["29588", "29526"]
 localPaths: ["Horry County / ZIP 29526 sector", "Horry County / ZIP 29588 sector", "Horry County / primary ZIP 29588", "Horry County / elevation 69 ft band", "Horry County / coords 33.7800, -79.0100"]
-zillowHomeValueUsd: 320347
 ---
 
-**Engineering Notice for Red Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Horry County.
+**Engineering Notice for Red Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~122 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Horry County.
 
+
+Plumbing remediation in Red Hill, SC, Horry County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Red Hill, SC review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Frost-free sillcock failures in Red Hill, SC often trace to interior shutoff seats, not exterior stems.
 
@@ -42,13 +45,15 @@ Risk flag: Jetting without camera proof can damage fragile clay joints.
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Basement floor drains in Red Hill, SC should be snaked only after trap arm geometry is confirmed on camera.
 
 Supply audit 560936: curb-stop orientation and hose-bib freeze flag reviewed for Red Hill, SC at coords 33.7800/-79.0100.
 
 Fixture roster 560936: toilet flange spacer kit and shower cartridge seat score queued for Red Hill, SC walk-through.
+
+Local service note: toilet flange spacer kit paired with fixture shutoff torque log near ZIP 29588 for emergency plumbing pro repairs.
 
 On-site sector marker: Horry County / elevation 69 ft band — logged for map parity and ZIP-corridor verification.
 

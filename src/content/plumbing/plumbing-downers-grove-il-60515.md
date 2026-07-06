@@ -12,11 +12,14 @@ lng: -88.0200
 zipSample: ["60515", "60516"]
 zipCodes: ["60515", "60516"]
 localPaths: ["DuPage County / ZIP 60515 sector", "DuPage County / ZIP 60516 sector", "DuPage County / coords 41.7900, -88.0200", "DuPage County / primary ZIP 60515", "DuPage County / elevation 732 ft band"]
-zillowHomeValueUsd: 497653
 ---
 
-**Engineering Notice for Downers Grove:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Downers Grove:** Supply line, cleanout, and water heater scope recorded at 732 ft elevation context (DuPage County).
 
+
+When a main line backs up in Downers Grove, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Burst pipe and drain clog calls in Downers Grove, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in DuPage County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
@@ -49,8 +52,6 @@ Dual-water-meter setups in Downers Grove, IL irrigation zones need backflow logs
 Fixture roster 489744: toilet flange spacer kit and shower cartridge seat score queued for Downers Grove, IL walk-through.
 
 Supply audit 489744: curb-stop orientation and hose-bib freeze flag reviewed for Downers Grove, IL at coords 41.7900/-88.0200.
-
-Field routing: slab leak listening window paired with PEX expansion ring batch near ZIP 60515.
 
 On-site sector marker: DuPage County / elevation 732 ft band — logged for map parity and ZIP-corridor verification.
 

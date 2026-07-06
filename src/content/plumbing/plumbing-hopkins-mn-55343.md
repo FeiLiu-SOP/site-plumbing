@@ -12,11 +12,14 @@ lng: -93.4100
 zipSample: ["55343", "55305"]
 zipCodes: ["55343", "55305"]
 localPaths: ["Hennepin County / ZIP 55305 sector", "Hennepin County / ZIP 55343 sector", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / elevation 919 ft band", "Hennepin County / primary ZIP 55343"]
-zillowHomeValueUsd: 344970
 ---
 
-**Engineering Notice for Hopkins:** Domestic water distribution review emphasizes hardness-driven scaling risk (~110 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Hopkins:** Supply line, cleanout, and water heater scope recorded at 919 ft elevation context (Hennepin County).
 
+
+Emergency plumbing technician service in Hopkins, MN often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Hennepin County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Qualified plumbing crews serving Hopkins, MN review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -47,6 +50,8 @@ Hydro-jetting in Hopkins, MN requires camera confirmation before nozzle pressure
 Step: tag shutoffs and meter orientation before opening walls.
 
 Flow dossier 803851: branch wet-vent geometry and jetting nozzle envelope logged for Hopkins, MN county grid Hennepin County (ZIP 55343).
+
+Scope trace: fixture shutoff torque log plus slab penetration sleeve seal referenced in Hennepin County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 44.9300, -93.4100 at elevation ~919 ft aligns with Hennepin County intake staging.
 

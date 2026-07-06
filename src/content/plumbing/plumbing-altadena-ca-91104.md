@@ -12,11 +12,14 @@ lng: -118.1300
 zipSample: ["91003", "91001", "91104"]
 zipCodes: ["91104", "91003", "91001"]
 localPaths: ["Los Angeles County / elevation 1430 ft band", "Los Angeles County / ZIP 91003 sector", "Los Angeles County / ZIP 91104 sector", "Los Angeles County / primary ZIP 91104", "Los Angeles County / coords 34.1900, -118.1300"]
-zillowHomeValueUsd: 1226170
 ---
 
-**Engineering Notice for Altadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Altadena:** Domestic water distribution review emphasizes hardness-driven scaling risk (~117 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+When a main line backs up in Altadena, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Burst pipe and drain clog calls in Altadena, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 

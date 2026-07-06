@@ -12,11 +12,14 @@ lng: -107.8800
 zipSample: ["81301", "81326"]
 zipCodes: ["81326", "81301"]
 localPaths: ["La Plata County / primary ZIP 81301", "La Plata County / ZIP 81326 sector", "La Plata County / ZIP 81301 sector", "La Plata County / elevation 6539 ft band", "La Plata County / coords 37.2700, -107.8800"]
-zillowHomeValueUsd: 757890
 ---
 
-**Engineering Notice for Durango:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: La Plata County.
+**Engineering Notice for Durango:** Supply line, cleanout, and water heater scope recorded at 6539 ft elevation context (La Plata County).
 
+
+Qualified plumbing crews serving Durango, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Durango, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in La Plata County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Stack vent offsets in Durango, CO older duplexes can mask tub gurgle as a main-line failure.
 

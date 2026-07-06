@@ -12,11 +12,14 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52003", "52004"]
 zipCodes: ["52002", "52099", "52003", "52004", "52001"]
 localPaths: ["Dubuque County / ZIP 52004 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52099 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
-zillowHomeValueUsd: 339222
 ---
 
-**Engineering Notice for Dubuque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dubuque County.
+**Engineering Notice for Dubuque:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dubuque County.
 
+
+Plumbing remediation in Dubuque, IA, Dubuque County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Qualified plumbing crews serving Dubuque, IA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Cast-iron hub corrosion in Dubuque, IA often concentrates at the third joint upstream of the cleanout.
 

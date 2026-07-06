@@ -12,11 +12,14 @@ lng: -90.6800
 zipSample: ["61455"]
 zipCodes: ["61455"]
 localPaths: ["McDonough County / coords 40.4700, -90.6800", "McDonough County / ZIP 61455 sector", "McDonough County / elevation 643 ft band", "McDonough County / primary ZIP 61455"]
-zillowHomeValueUsd: 105405
 ---
 
-**Engineering Notice for Macomb:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McDonough County.
+**Engineering Notice for Macomb:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in McDonough County.
 
+
+Licensed plumbing crews serving Macomb, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency certified plumber service in Macomb, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in McDonough County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

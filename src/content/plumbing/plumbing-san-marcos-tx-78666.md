@@ -12,11 +12,14 @@ lng: -97.9400
 zipSample: ["78666", "78656", "78667"]
 zipCodes: ["78666", "78667", "78656"]
 localPaths: ["Hays County / ZIP 78656 sector", "Hays County / ZIP 78666 sector", "Hays County / coords 29.8700, -97.9400", "Hays County / primary ZIP 78666", "Hays County / elevation 597 ft band"]
-zillowHomeValueUsd: 314004
 ---
 
-**Engineering Notice for San Marcos:** Domestic water distribution review emphasizes hardness-driven scaling risk (~170 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hays County.
+**Engineering Notice for San Marcos:** Supply line, cleanout, and water heater scope recorded at 597 ft elevation context (Hays County).
 
+
+Plumbing service in San Marcos, TX, Hays County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in San Marcos, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Irrigation cross-connections in San Marcos, TX can back-siphon domestic lines during main breaks.
 
@@ -38,7 +41,7 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

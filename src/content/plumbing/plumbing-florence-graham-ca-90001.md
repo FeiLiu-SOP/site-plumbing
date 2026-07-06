@@ -12,11 +12,14 @@ lng: -118.2400
 zipSample: ["90001", "90002"]
 zipCodes: ["90002", "90001"]
 localPaths: ["Los Angeles County / coords 33.9700, -118.2400", "Los Angeles County / ZIP 90002 sector", "Los Angeles County / primary ZIP 90001", "Los Angeles County / elevation 151 ft band", "Los Angeles County / ZIP 90001 sector"]
-zillowHomeValueUsd: 588279
 ---
 
-**Engineering Notice for Florence-Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Florence-Graham:** Domestic water distribution review emphasizes hardness-driven scaling risk (~156 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Los Angeles County.
 
+
+Burst pipe and drain clog calls in Florence-Graham, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Los Angeles County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Florence-Graham, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Frost-free sillcock failures in Florence-Graham, CA often trace to interior shutoff seats, not exterior stems.
 
@@ -47,8 +50,6 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 Flow dossier 901367: branch wet-vent geometry and jetting nozzle envelope logged for Florence-Graham, CA county grid Los Angeles County (ZIP 90001).
 
 Supply audit 901367: curb-stop orientation and hose-bib freeze flag reviewed for Florence-Graham, CA at coords 33.9700/-118.2400.
-
-plumbing brief: meter pit clearance and slab leak listening window were cross-checked for the Florence-Graham intake packet.
 
 ZIP-corridor snapshot for Florence-Graham, CA: sampled sectors include 90002, 90001; county routing grid remains Los Angeles County.
 

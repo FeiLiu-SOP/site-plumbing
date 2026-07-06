@@ -12,12 +12,14 @@ lng: -67.0500
 zipSample: ["00683"]
 zipCodes: ["00683"]
 localPaths: ["San Germán County / coords 18.0800, -67.0500", "San Germán County / ZIP 00683 sector", "San Germán County / primary ZIP 00683", "San Germán County / elevation 272 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 382923
 ---
 
-**Engineering Notice for San Germán:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Germán County.
+**Engineering Notice for San Germán:** Domestic water distribution review emphasizes hardness-driven scaling risk (~160 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in San Germán County.
 
+
+Plumbing restoration in San Germán, PR, San Germán County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving San Germán, PR review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 

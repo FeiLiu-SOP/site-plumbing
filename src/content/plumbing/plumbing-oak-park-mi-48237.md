@@ -12,11 +12,14 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / primary ZIP 48237", "Oakland County / ZIP 48237 sector", "Oakland County / coords 42.4600, -83.1800", "Oakland County / elevation 673 ft band"]
-zillowHomeValueUsd: 232995
 ---
 
-**Engineering Notice for Oak Park:** Domestic water distribution review emphasizes hardness-driven scaling risk (~132 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oakland County.
+**Engineering Notice for Oak Park:** Emergency leak and drain triage uses ~132 mg/L hardness context with Oakland County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Oak Park, MI, Oakland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Oak Park, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Oakland County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 48237.
 

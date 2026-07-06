@@ -12,12 +12,14 @@ lng: -66.1100
 zipSample: ["00785", "00784"]
 zipCodes: ["00784", "00785"]
 localPaths: ["Guayama County / primary ZIP 00784", "Guayama County / coords 17.9700, -66.1100", "Guayama County / elevation 112 ft band", "Guayama County / ZIP 00784 sector", "Guayama County / ZIP 00785 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 372172
 ---
 
-**Engineering Notice for Guayama:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Guayama County.
+**Engineering Notice for Guayama:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Guayama County.
 
+
+Burst pipe and drain clog calls in Guayama, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Guayama County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Guayama, PR, Guayama County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Guayama, PR, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -46,6 +48,8 @@ Schedule PRV and meter diagnostics before repiping quotes. Serving ZIP Code: 007
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 00784.
 
 Intake ledger 569994: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Guayama, PR at 17.9700, -66.1100.
+
+Scope trace: slab leak listening window plus toilet flange spacer kit referenced in Guayama County drain and water line review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Guayama County and primary ZIP 00784. Terrain reference: 112 ft. Center point: 17.9700, -66.1100. ZIP sample: 00784, 00785. Logistics priority: Serving residential sectors across Guayama County and north-east ZIP 00784 grid.
 

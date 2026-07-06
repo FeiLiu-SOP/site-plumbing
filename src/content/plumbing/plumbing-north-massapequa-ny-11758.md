@@ -12,13 +12,16 @@ lng: -73.4700
 zipSample: ["11758"]
 zipCodes: ["11758"]
 localPaths: ["Nassau County / elevation 62 ft band", "Nassau County / ZIP 11758 sector", "Nassau County / coords 40.7000, -73.4700", "Nassau County / primary ZIP 11758"]
-zillowHomeValueUsd: 804475
 ---
 
-**Engineering Notice for North Massapequa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Nassau County.
+**Engineering Notice for North Massapequa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Nassau County.
 
 
-We coordinate North Massapequa, NY plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+Certified plumbing crews serving North Massapequa, NY review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in North Massapequa, NY, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+We coordinate North Massapequa, NY plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 11758.
 
@@ -47,8 +50,6 @@ Permit note: Main water line replacement in North Massapequa, NY may require ROW
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
 Lineage note 870881: recirculation pump amp draw captured before North Massapequa, NY branch isolation.
-
-Field routing: PEX expansion ring batch paired with water heater T&P path near ZIP 11758.
 
 On-site sector marker: Nassau County / primary ZIP 11758 — logged for map parity and ZIP-corridor verification.
 

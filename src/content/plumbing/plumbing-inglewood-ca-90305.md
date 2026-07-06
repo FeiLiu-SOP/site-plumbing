@@ -12,17 +12,20 @@ lng: -118.3400
 zipSample: ["90306", "90304", "90305", "90308", "90302"]
 zipCodes: ["90301", "90305", "90308", "90302", "90307", "90312", "90306", "90311", "90309", "90303", "90304"]
 localPaths: ["Los Angeles County / primary ZIP 90305", "Los Angeles County / coords 33.9600, -118.3400", "Los Angeles County / ZIP 90304 sector", "Los Angeles County / ZIP 90305 sector", "Los Angeles County / ZIP 90302 sector"]
-zillowHomeValueUsd: 829123
 ---
 
-**Engineering Notice for Inglewood:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Inglewood:** Emergency leak and drain triage uses ~154 mg/L hardness context with Los Angeles County service-area notes for pipe and fixture repairs.
 
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+When a main line backs up in Inglewood, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
+
+Certified plumbing crews serving Inglewood, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -45,8 +48,6 @@ Cast-iron hub corrosion in Inglewood, CA often concentrates at the third joint u
 Pressure trace 555704: meter-pit clearance and dielectric union checklist staged for Inglewood, CA near elevation 144 ft.
 
 Lineage note 555704: recirculation pump amp draw captured before Inglewood, CA branch isolation.
-
-plumbing brief: recirculation pump amp draw and jetter nozzle envelope were cross-checked for the Inglewood intake packet.
 
 On-site sector marker: Los Angeles County / ZIP 90301 sector — logged for map parity and ZIP-corridor verification.
 

@@ -12,11 +12,14 @@ lng: -88.4500
 zipSample: ["60512", "60560"]
 zipCodes: ["60512", "60560"]
 localPaths: ["Kendall County / ZIP 60560 sector", "Kendall County / coords 41.6600, -88.4500", "Kendall County / primary ZIP 60560", "Kendall County / elevation 650 ft band", "Kendall County / ZIP 60512 sector"]
-zillowHomeValueUsd: 400182
 ---
 
-**Engineering Notice for Yorkville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~158 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kendall County.
+**Engineering Notice for Yorkville:** Emergency leak and drain triage uses ~158 mg/L hardness context with Kendall County service-area notes for pipe and fixture repairs.
 
+
+Qualified plumbing crews serving Yorkville, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Yorkville, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Trenchless sleeve pulls near Yorkville, IL require pit shoring notes when water tables are high.
 
@@ -28,7 +31,7 @@ Basement floor drains in Yorkville, IL should be snaked only after trap arm geom
 
 Water heater T&P discharge paths in Yorkville, IL must terminate safely before replacement quotes.
 
-Dispatch packets reference county grid Kendall County near ZIP 60560.
+Our Yorkville, IL service packets reference Kendall County near ZIP 60560 for pipe and leak scope.
 
 Fixture shutoff stiffness in Yorkville, IL may indicate mineral bridging behind stems.
 
@@ -48,7 +51,7 @@ Tip: Keep prior snaking receipts to show recurring blockage locations.
 
 Lineage note 792569: recirculation pump amp draw captured before Yorkville, IL branch isolation.
 
-Field routing: PRV outlet curve paired with scale coupon sampling near ZIP 60560.
+Local service note: PRV outlet curve paired with scale coupon sampling near ZIP 60560 for emergency plumbing technician repairs.
 
 ZIP-corridor snapshot for Yorkville, IL: sampled sectors include 60512, 60560; county routing grid remains Kendall County.
 

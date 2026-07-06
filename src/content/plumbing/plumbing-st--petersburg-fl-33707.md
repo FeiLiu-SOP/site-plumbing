@@ -12,11 +12,14 @@ lng: -82.6700
 zipSample: ["33710", "33703", "33733", "33713", "33762"]
 zipCodes: ["33747", "33703", "33716", "33712", "33762", "33734", "33732", "33707", "33702", "33705", "33710", "33704"]
 localPaths: ["Pinellas County / primary ZIP 33707", "Pinellas County / ZIP 33733 sector", "Pinellas County / ZIP 33762 sector", "Pinellas County / ZIP 33710 sector", "Pinellas County / ZIP 33703 sector"]
-zillowHomeValueUsd: 361612
 ---
 
-**Engineering Notice for St. Petersburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~169 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pinellas County.
+**Engineering Notice for St. Petersburg:** Emergency leak and drain triage uses ~169 mg/L hardness context with Pinellas County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in St. Petersburg, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Certified plumbing crews serving St. Petersburg, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hard water in St. Petersburg, FL accelerates scale on PRV seats and heater elements.
 
@@ -26,7 +29,7 @@ Across St. Petersburg, FL, main-line bellies can trap debris even when fixtures 
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 
@@ -42,7 +45,7 @@ Trenchless sleeve pulls near St. Petersburg, FL require pit shoring notes when w
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 746183: sump amperage, PRV seat wear, and cleanout riser height cross-checked for St. Petersburg, FL at 27.7900, -82.6700.
 

@@ -12,11 +12,14 @@ lng: -89.3900
 zipSample: ["53785", "53701", "53716", "53707", "53790"]
 zipCodes: ["53701", "53794", "53718", "53793", "53715", "53784", "53708", "53716", "53786", "53711", "53774", "53705"]
 localPaths: ["Dane County / coords 43.0800, -89.3900", "Dane County / ZIP 53785 sector", "Dane County / elevation 846 ft band", "Dane County / ZIP 53701 sector", "Dane County / primary ZIP 53706"]
-zillowHomeValueUsd: 505809
 ---
 
-**Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Dane County.
+**Engineering Notice for Madison:** Domestic water distribution review emphasizes hardness-driven scaling risk (~174 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Dane County.
 
+
+Qualified plumbing crews serving Madison, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency plumbing pro service in Madison, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Dane County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Cast-iron hub corrosion in Madison, WI often concentrates at the third joint upstream of the cleanout.
 
@@ -47,8 +50,6 @@ Galvanized segments in Madison, WI may restrict flow long before visible corrosi
 Basement floor drains in Madison, WI should be snaked only after trap arm geometry is confirmed on camera.
 
 Intake ledger 501413: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Madison, WI at 43.0800, -89.3900.
-
-Field routing: fixture shutoff torque log paired with cleanout riser height near ZIP 53706.
 
 Regional mesh label Dane County: moisture and logistics baselines are keyed to Madison, WI before niche-specific work begins.
 

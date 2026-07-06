@@ -12,11 +12,14 @@ lng: -87.6900
 zipSample: ["60202", "60204", "60208", "60201"]
 zipCodes: ["60204", "60201", "60208", "60202"]
 localPaths: ["Cook County / coords 42.0500, -87.6900", "Cook County / ZIP 60204 sector", "Cook County / elevation 614 ft band", "Cook County / ZIP 60202 sector", "Cook County / primary ZIP 60201"]
-zillowHomeValueUsd: 556336
 ---
 
-**Engineering Notice for Evanston:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Evanston:** Emergency leak and drain triage uses ~144 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Evanston, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Evanston, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Stack vent offsets in Evanston, IL older duplexes can mask tub gurgle as a main-line failure.
 
@@ -47,6 +50,8 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 Pressure trace 884326: meter-pit clearance and dielectric union checklist staged for Evanston, IL near elevation 614 ft.
 
 Lineage note 884326: recirculation pump amp draw captured before Evanston, IL branch isolation.
+
+Plumbing service brief: meter pit clearance and slab leak listening window were cross-checked for the Evanston pipe and leak scope.
 
 On-site sector marker: Cook County / ZIP 60202 sector — logged for map parity and ZIP-corridor verification.
 

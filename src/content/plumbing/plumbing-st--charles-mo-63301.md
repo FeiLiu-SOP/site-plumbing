@@ -12,11 +12,14 @@ lng: -90.5200
 zipSample: ["63303", "63301", "63302"]
 zipCodes: ["63303", "63301", "63302"]
 localPaths: ["St. Charles County / coords 38.8000, -90.5200", "St. Charles County / ZIP 63303 sector", "St. Charles County / ZIP 63301 sector", "St. Charles County / ZIP 63302 sector", "St. Charles County / elevation 558 ft band"]
-zillowHomeValueUsd: 315126
 ---
 
-**Engineering Notice for St. Charles:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Charles County.
+**Engineering Notice for St. Charles:** Supply line, cleanout, and water heater scope recorded at 558 ft elevation context (St. Charles County).
 
+
+When a main line backs up in St. Charles, MO, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing remediation in St. Charles, MO, St. Charles County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Permit note: Main water line replacement in St. Charles, MO may require ROW restoration planning.
 

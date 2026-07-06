@@ -12,11 +12,14 @@ lng: -88.9700
 zipSample: ["61705", "61709", "61701", "61710", "61791"]
 zipCodes: ["61701", "61705", "61791", "61709", "61710", "61704"]
 localPaths: ["McLean County / coords 40.4800, -88.9700", "McLean County / ZIP 61705 sector", "McLean County / elevation 853 ft band", "McLean County / ZIP 61791 sector", "McLean County / ZIP 61701 sector"]
-zillowHomeValueUsd: 170908
 ---
 
-**Engineering Notice for Bloomington:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLean County.
+**Engineering Notice for Bloomington:** Emergency leak and drain triage uses ~130 mg/L hardness context with McLean County service-area notes for pipe and fixture repairs.
 
+
+Plumbing restoration in Bloomington, IL, McLean County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency certified plumber service in Bloomington, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in McLean County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Fixture shutoff stiffness in Bloomington, IL may indicate mineral bridging behind stems.
 
@@ -32,7 +35,7 @@ About us: We document hardness context, PRV setpoints, and vent paths before quo
 
 Basement floor drains in Bloomington, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-We coordinate Bloomington, IL plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Bloomington, IL plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
@@ -47,6 +50,8 @@ Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bloomington, I
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
 Drain map 377170: camera-pass priority and expansion-tank pre-charge noted for Bloomington, IL postal sector 61701.
+
+Local service note: meter pit clearance paired with hose bib freeze flag near ZIP 61701 for emergency licensed plumber repairs.
 
 Coordinate-anchored dispatch note: center reference 40.4800, -88.9700 at elevation ~853 ft aligns with McLean County intake staging.
 

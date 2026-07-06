@@ -12,11 +12,14 @@ lng: -77.1500
 zipSample: ["22312"]
 zipCodes: ["22312"]
 localPaths: ["Fairfax County / ZIP 22312 sector", "Fairfax County / coords 38.8200, -77.1500", "Fairfax County / elevation 243 ft band", "Fairfax County / primary ZIP 22312"]
-zillowHomeValueUsd: 639334
 ---
 
-**Engineering Notice for Lincolnia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Lincolnia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fairfax County.
 
+
+Qualified plumbing crews serving Lincolnia, VA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing remediation in Lincolnia, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 CPVC solvent weld times shift with ambient humidity during Lincolnia, VA shoulder seasons.
 
@@ -46,7 +49,7 @@ Pressure trace 524097: meter-pit clearance and dielectric union checklist staged
 
 Fixture roster 524097: toilet flange spacer kit and shower cartridge seat score queued for Lincolnia, VA walk-through.
 
-plumbing brief: water heater T&P path and gas water heater draft hood gap were cross-checked for the Lincolnia intake packet.
+Plumbing restoration brief: water heater T&P path and gas water heater draft hood gap were cross-checked for the Lincolnia pipe and leak scope.
 
 On-site sector marker: Fairfax County / coords 38.8200, -77.1500 — logged for map parity and ZIP-corridor verification.
 

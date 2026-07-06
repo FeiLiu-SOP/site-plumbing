@@ -12,11 +12,14 @@ lng: -81.3600
 zipSample: ["44242", "44243", "44240"]
 zipCodes: ["44240", "44243", "44242"]
 localPaths: ["Portage County / coords 41.1500, -81.3600", "Portage County / ZIP 44240 sector", "Portage County / ZIP 44243 sector", "Portage County / elevation 1060 ft band", "Portage County / primary ZIP 44240"]
-zillowHomeValueUsd: 243442
 ---
 
-**Engineering Notice for Kent:** Domestic water distribution review emphasizes hardness-driven scaling risk (~135 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Portage County.
+**Engineering Notice for Kent:** Emergency leak and drain triage uses ~135 mg/L hardness context with Portage County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Kent, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Kent, OH, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Cast-iron hub corrosion in Kent, OH often concentrates at the third joint upstream of the cleanout.
 
@@ -45,8 +48,6 @@ Material note: Dielectric unions must separate copper from steel in mixed-metal 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
 Drain map 223016: camera-pass priority and expansion-tank pre-charge noted for Kent, OH postal sector 44240.
-
-Field routing: water heater T&P path paired with fixture shutoff torque log near ZIP 44240.
 
 On-site sector marker: Portage County / elevation 1060 ft band — logged for map parity and ZIP-corridor verification.
 

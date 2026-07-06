@@ -12,11 +12,14 @@ lng: -92.0800
 zipSample: ["54880", "54874"]
 zipCodes: ["54874", "54880"]
 localPaths: ["Douglas County / coords 46.6900, -92.0800", "Douglas County / ZIP 54874 sector", "Douglas County / ZIP 54880 sector", "Douglas County / primary ZIP 54880", "Douglas County / elevation 653 ft band"]
-zillowHomeValueUsd: 227775
 ---
 
-**Engineering Notice for Superior:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Superior:** Supply line, cleanout, and water heater scope recorded at 653 ft elevation context (Douglas County).
 
+
+Certified plumbing crews serving Superior, WI review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+When a main line backs up in Superior, WI, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
@@ -46,7 +49,7 @@ Risk flag: In Superior, WI, slab leaks can misroute as foundation issues without
 
 Flow dossier 575232: branch wet-vent geometry and jetting nozzle envelope logged for Superior, WI county grid Douglas County (ZIP 54880).
 
-Scope trace: fixture shutoff torque log plus recirculation pump amp draw referenced in Douglas County county grid review.
+Scope trace: fixture shutoff torque log plus recirculation pump amp draw referenced in Douglas County drain and water line review.
 
 ZIP-corridor snapshot for Superior, WI: sampled sectors include 54874, 54880; county routing grid remains Douglas County.
 

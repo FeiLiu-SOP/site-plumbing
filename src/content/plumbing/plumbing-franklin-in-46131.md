@@ -12,11 +12,14 @@ lng: -86.0500
 zipSample: ["46131"]
 zipCodes: ["46131"]
 localPaths: ["Johnson County / elevation 748 ft band", "Johnson County / coords 39.4900, -86.0500", "Johnson County / ZIP 46131 sector", "Johnson County / primary ZIP 46131"]
-zillowHomeValueUsd: 279590
 ---
 
-**Engineering Notice for Franklin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Franklin:** Emergency leak and drain triage uses ~175 mg/L hardness context with Johnson County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Franklin, IN, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in Franklin, IN, Johnson County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -47,8 +50,6 @@ Fixture shutoff stiffness in Franklin, IN may indicate mineral bridging behind s
 Supply audit 106816: curb-stop orientation and hose-bib freeze flag reviewed for Franklin, IN at coords 39.4900/-86.0500.
 
 Fixture roster 106816: toilet flange spacer kit and shower cartridge seat score queued for Franklin, IN walk-through.
-
-plumbing brief: toilet flange spacer kit and dielectric union checklist were cross-checked for the Franklin intake packet.
 
 Primary postal anchor 46131 with multi-ZIP overlap in Franklin; field packets tag Johnson County for county-grid reconciliation.
 

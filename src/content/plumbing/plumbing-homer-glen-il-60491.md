@@ -12,11 +12,14 @@ lng: -87.9500
 zipSample: ["60491"]
 zipCodes: ["60491"]
 localPaths: ["Will County / ZIP 60491 sector", "Will County / coords 41.6000, -87.9500", "Will County / elevation 764 ft band", "Will County / primary ZIP 60491"]
-zillowHomeValueUsd: 501819
 ---
 
-**Engineering Notice for Homer Glen:** Domestic water distribution review emphasizes hardness-driven scaling risk (~178 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Will County.
+**Engineering Notice for Homer Glen:** Supply line, cleanout, and water heater scope recorded at 764 ft elevation context (Will County).
 
+
+When a main line backs up in Homer Glen, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Homer Glen, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Will County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Seasonal Homer Glen, IL irrigation cross-connections can mask domestic pressure loss.
 

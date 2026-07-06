@@ -12,15 +12,18 @@ lng: -105.0600
 zipSample: ["80003", "80036", "80031", "80234", "80030"]
 zipCodes: ["80036", "80020", "80030", "80005", "80031", "80003", "80035", "80021", "80234"]
 localPaths: ["Adams County / ZIP 80030 sector", "Adams County / ZIP 80234 sector", "Adams County / elevation 5325 ft band", "Adams County / coords 39.8800, -105.0600", "Adams County / primary ZIP 80030"]
-zillowHomeValueUsd: 441658
 ---
 
-**Engineering Notice for Westminster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Adams County.
+**Engineering Notice for Westminster:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Adams County.
 
+
+Plumbing restoration in Westminster, CO, Adams County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Licensed plumbing crews serving Westminster, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Hydrostatic holds in Westminster, CO slab circuits run overnight when listening mics show ambiguous hits.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
@@ -49,8 +52,6 @@ FAQ: When is cabling enough? In Westminster, CO, pipe material and blockage type
 Intake ledger 316732: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Westminster, CO at 39.8800, -105.0600.
 
 Flow dossier 316732: branch wet-vent geometry and jetting nozzle envelope logged for Westminster, CO county grid Adams County (ZIP 80030).
-
-plumbing brief: meter pit clearance and shower cartridge seat score were cross-checked for the Westminster intake packet.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Adams County. Reference elevation: 5325 ft. Primary coordinates: 39.8800, -105.0600. ZIP sample: 80003, 80031, 80035, 80030, 80005. Logistics priority: Serving residential sectors across Adams County and north-east ZIP 80030 grid.
 

@@ -12,11 +12,14 @@ lng: -78.9200
 zipSample: ["15907", "15901", "15902", "15906", "15905"]
 zipCodes: ["15901", "15907", "15902", "15905", "15906"]
 localPaths: ["Cambria County / ZIP 15907 sector", "Cambria County / coords 40.3300, -78.9200", "Cambria County / ZIP 15901 sector", "Cambria County / elevation 1178 ft band", "Cambria County / ZIP 15906 sector"]
-zillowHomeValueUsd: 42892
 ---
 
-**Engineering Notice for Johnstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cambria County.
+**Engineering Notice for Johnstown:** Domestic water distribution review emphasizes hardness-driven scaling risk (~151 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Cambria County.
 
+
+When a main line backs up in Johnstown, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Johnstown, PA, Cambria County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: In Johnstown, PA, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -44,13 +47,11 @@ FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift i
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-We coordinate Johnstown, PA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Johnstown, PA plumbing remediation with camera stills, cleanout maps, and realistic dry-down windows.
 
 Pressure trace 579613: meter-pit clearance and dielectric union checklist staged for Johnstown, PA near elevation 1178 ft.
 
 Flow dossier 579613: branch wet-vent geometry and jetting nozzle envelope logged for Johnstown, PA county grid Cambria County (ZIP 15906).
-
-Scope trace: floor drain trap primer drip plus thermal expansion loop check referenced in Cambria County county grid review.
 
 Coordinate-anchored dispatch note: center reference 40.3300, -78.9200 at elevation ~1178 ft aligns with Cambria County intake staging.
 

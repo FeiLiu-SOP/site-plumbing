@@ -12,11 +12,14 @@ lng: -104.9700
 zipSample: ["80129", "80130", "80163", "80126"]
 zipCodes: ["80130", "80163", "80126", "80129"]
 localPaths: ["Douglas County / elevation 5833 ft band", "Douglas County / ZIP 80126 sector", "Douglas County / ZIP 80129 sector", "Douglas County / primary ZIP 80129", "Douglas County / ZIP 80163 sector"]
-zillowHomeValueUsd: 682986
 ---
 
-**Engineering Notice for Highlands Ranch:** Domestic water distribution review emphasizes hardness-driven scaling risk (~165 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Douglas County.
+**Engineering Notice for Highlands Ranch:** Emergency leak and drain triage uses ~165 mg/L hardness context with Douglas County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Highlands Ranch, CO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Highlands Ranch, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Douglas County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Hose bib split patterns in Highlands Ranch, CO often follow missed winterization.
 

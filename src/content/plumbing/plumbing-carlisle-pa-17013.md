@@ -12,11 +12,14 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / ZIP 17013 sector", "Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / elevation 489 ft band"]
-zillowHomeValueUsd: 285882
 ---
 
-**Engineering Notice for Carlisle:** Domestic water distribution review emphasizes hardness-driven scaling risk (~116 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Carlisle:** Supply line, cleanout, and water heater scope recorded at 489 ft elevation context (Cumberland County).
 
+
+Plumbing restoration in Carlisle, PA, Cumberland County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Carlisle, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Dual-water-meter setups in Carlisle, PA irrigation zones need backflow logs before line replacement.
 
@@ -36,7 +39,7 @@ Hard water in Carlisle, PA accelerates scale on PRV seats and heater elements.
 
 Permit note: Main water line replacement in Carlisle, PA may require ROW restoration planning.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 In Carlisle, PA, slab leaks often present as warm spots before wall stains appear.
 

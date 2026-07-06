@@ -12,15 +12,18 @@ lng: -85.4100
 zipSample: ["36302", "36321", "36304", "36305", "36301"]
 zipCodes: ["36305", "36302", "36303", "36304", "36301", "36321"]
 localPaths: ["Houston County / elevation 361 ft band", "Houston County / primary ZIP 36303", "Houston County / ZIP 36304 sector", "Houston County / ZIP 36321 sector", "Houston County / ZIP 36301 sector"]
-zillowHomeValueUsd: 184676
 ---
 
-**Engineering Notice for Dothan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Houston County.
+**Engineering Notice for Dothan:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Houston County.
 
+
+Qualified plumbing crews serving Dothan, AL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Dothan, AL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Houston County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless pulls in Dothan, AL require pit dimensions verified against utility locate marks.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Basement floor drains in Dothan, AL should be snaked only after trap arm geometry is confirmed on camera.
 
@@ -45,8 +48,6 @@ Polybutylene manifold tags in Dothan, AL basements should be photographed before
 Intake ledger 806386: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Dothan, AL at 31.2300, -85.4100.
 
 Pressure trace 806386: meter-pit clearance and dielectric union checklist staged for Dothan, AL near elevation 361 ft.
-
-Field routing: fixture shutoff torque log paired with shower cartridge seat score near ZIP 36303.
 
 On-site sector marker: Houston County / elevation 361 ft band — logged for map parity and ZIP-corridor verification.
 

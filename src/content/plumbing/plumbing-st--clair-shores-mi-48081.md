@@ -12,11 +12,14 @@ lng: -82.9000
 zipSample: ["48090", "48081", "48080", "48082"]
 zipCodes: ["48082", "48081", "48090", "48080"]
 localPaths: ["Macomb County / ZIP 48080 sector", "Macomb County / elevation 597 ft band", "Macomb County / ZIP 48081 sector", "Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48090 sector"]
-zillowHomeValueUsd: 238817
 ---
 
-**Engineering Notice for St. Clair Shores:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Macomb County.
+**Engineering Notice for St. Clair Shores:** Emergency leak and drain triage uses ~124 mg/L hardness context with Macomb County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in St. Clair Shores, MI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Macomb County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing restoration in St. Clair Shores, MI, Macomb County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in St. Clair Shores, MI systems need rebalancing.
 
@@ -32,7 +35,7 @@ Risk flag: Seasonal St. Clair Shores, MI irrigation cross-connections can mask d
 
 Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch packets reference county grid Macomb County near ZIP 48081.
+Our St. Clair Shores, MI service packets reference Macomb County near ZIP 48081 for pipe and leak scope.
 
 Galvanized segments in St. Clair Shores, MI may restrict flow long before visible corrosion.
 
@@ -43,6 +46,8 @@ Permit note: Main water line replacement in St. Clair Shores, MI may require ROW
 FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
 Supply audit 525239: curb-stop orientation and hose-bib freeze flag reviewed for St. Clair Shores, MI at coords 42.4900/-82.9000.
+
+Local service note: slab leak listening window paired with floor drain trap primer drip near ZIP 48081 for emergency plumbing pro repairs.
 
 On-site sector marker: Macomb County / ZIP 48082 sector — logged for map parity and ZIP-corridor verification.
 

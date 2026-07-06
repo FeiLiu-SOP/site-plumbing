@@ -12,11 +12,14 @@ lng: -84.5100
 zipSample: ["30189", "30188"]
 zipCodes: ["30189", "30188"]
 localPaths: ["Cherokee County / ZIP 30188 sector", "Cherokee County / ZIP 30189 sector", "Cherokee County / elevation 919 ft band", "Cherokee County / coords 34.1000, -84.5100", "Cherokee County / primary ZIP 30189"]
-zillowHomeValueUsd: 453996
 ---
 
-**Engineering Notice for Woodstock:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Woodstock:** Supply line, cleanout, and water heater scope recorded at 919 ft elevation context (Cherokee County).
 
+
+Burst pipe and drain clog calls in Woodstock, GA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Cherokee County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Woodstock, GA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Branch wet vents in Woodstock, GA can mask gurgling as a main-line issue.
 
@@ -26,7 +29,7 @@ About us: We frame plumbing jobs around access, pressure evidence, and code-cred
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
@@ -40,7 +43,7 @@ FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and f
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 494470: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Woodstock, GA at 34.1000, -84.5100.
 

@@ -12,11 +12,14 @@ lng: -97.5100
 zipSample: ["73105", "73155", "73136", "73143", "73167"]
 zipCodes: ["73121", "73131", "73108", "73135", "73113", "73064", "73112", "73170", "73169", "73129", "73155", "73110"]
 localPaths: ["Oklahoma County / ZIP 73143 sector", "Oklahoma County / primary ZIP 73099", "Oklahoma County / elevation 1253 ft band", "Oklahoma County / ZIP 73105 sector", "Oklahoma County / ZIP 73155 sector"]
-zillowHomeValueUsd: 273376
 ---
 
-**Engineering Notice for Oklahoma City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~152 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Oklahoma City:** Supply line, cleanout, and water heater scope recorded at 1253 ft elevation context (Oklahoma County).
 
+
+Certified plumbing crews serving Oklahoma City, OK review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing service in Oklahoma City, OK, Oklahoma County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -32,7 +35,7 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Dispatch packets reference county grid Oklahoma County near ZIP 73099.
+Our Oklahoma City, OK service packets reference Oklahoma County near ZIP 73099 for pipe and leak scope.
 
 Step: tag shutoffs and meter orientation before opening walls.
 
@@ -44,9 +47,11 @@ Cast-iron hub corrosion in Oklahoma City, OK often concentrates at the third joi
 
 Stack vent offsets in Oklahoma City, OK older duplexes can mask tub gurgle as a main-line failure.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Intake ledger 142305: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Oklahoma City, OK at 35.4700, -97.5100.
+
+Scope trace: thermal expansion loop check plus dielectric union checklist referenced in Oklahoma County drain and water line review.
 
 On-site sector marker: Oklahoma County / primary ZIP 73099 — logged for map parity and ZIP-corridor verification.
 

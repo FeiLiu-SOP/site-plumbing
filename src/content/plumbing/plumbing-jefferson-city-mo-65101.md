@@ -12,11 +12,14 @@ lng: -92.1800
 zipSample: ["65105", "65106", "65104", "65109", "65111"]
 zipCodes: ["65102", "65106", "65108", "65109", "65111", "65110", "65104", "65105", "65101", "65107", "65103"]
 localPaths: ["Cole County / elevation 659 ft band", "Cole County / ZIP 65106 sector", "Cole County / ZIP 65104 sector", "Cole County / ZIP 65109 sector", "Cole County / coords 38.5700, -92.1800"]
-zillowHomeValueUsd: 265695
 ---
 
-**Engineering Notice for Jefferson City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cole County.
+**Engineering Notice for Jefferson City:** Supply line, cleanout, and water heater scope recorded at 659 ft elevation context (Cole County).
 
+
+Licensed plumbing crews serving Jefferson City, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in Jefferson City, MO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Cole County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Water heater T&P discharge paths in Jefferson City, MO must terminate safely before replacement quotes.
 

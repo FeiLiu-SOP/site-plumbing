@@ -12,11 +12,14 @@ lng: -79.9800
 zipSample: ["15222", "15279", "15259", "15260", "15219"]
 zipCodes: ["15262", "15212", "15270", "15290", "15289", "15219", "15208", "15261", "15220", "15282", "15218", "15274"]
 localPaths: ["Allegheny County / ZIP 15279 sector", "Allegheny County / ZIP 15219 sector", "Allegheny County / elevation 951 ft band", "Allegheny County / coords 40.4400, -79.9800", "Allegheny County / ZIP 15222 sector"]
-zillowHomeValueUsd: 356633
 ---
 
-**Engineering Notice for Pittsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Pittsburgh:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Allegheny County.
 
+
+Burst pipe and drain clog calls in Pittsburgh, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Allegheny County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Pittsburgh, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 CPVC solvent weld times shift with ambient humidity during Pittsburgh, PA shoulder seasons.
 
@@ -28,7 +31,7 @@ Risk flag: Seasonal Pittsburgh, PA irrigation cross-connections can mask domesti
 
 Step: photograph curb-stop and meter pit before trenching.
 
-We coordinate Pittsburgh, PA plumbing intake with camera stills, cleanout maps, and realistic dry-down windows.
+We coordinate Pittsburgh, PA plumbing restoration with camera stills, cleanout maps, and realistic dry-down windows.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

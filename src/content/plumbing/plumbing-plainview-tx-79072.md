@@ -12,15 +12,18 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / elevation 3389 ft band", "Hale County / ZIP 79072 sector", "Hale County / coords 34.1900, -101.7200"]
-zillowHomeValueUsd: 116097
 ---
 
-**Engineering Notice for Plainview:** Domestic water distribution review emphasizes hardness-driven scaling risk (~130 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hale County.
+**Engineering Notice for Plainview:** Supply line, cleanout, and water heater scope recorded at 3389 ft elevation context (Hale County).
 
+
+Burst pipe and drain clog calls in Plainview, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hale County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing pro service in Plainview, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Hale County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Material note: Water heater anode type may change with Plainview, TX hardness profiles.
 
@@ -47,6 +50,8 @@ Material note: PEX expansion fittings require calibrated tool rotation counts.
 Lineage note 250491: recirculation pump amp draw captured before Plainview, TX branch isolation.
 
 Drain map 250491: camera-pass priority and expansion-tank pre-charge noted for Plainview, TX postal sector 79072.
+
+Scope trace: cleanout riser height plus slab leak listening window referenced in Hale County drain and water line review.
 
 ZIP-corridor snapshot for Plainview, TX: sampled sectors include 79072; county routing grid remains Hale County.
 

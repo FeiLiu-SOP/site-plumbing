@@ -12,11 +12,14 @@ lng: -77.1300
 zipSample: ["22041", "22311"]
 zipCodes: ["22311", "22041"]
 localPaths: ["Fairfax County / coords 38.8500, -77.1300", "Fairfax County / ZIP 22311 sector", "Fairfax County / primary ZIP 22041", "Fairfax County / elevation 259 ft band", "Fairfax County / ZIP 22041 sector"]
-zillowHomeValueUsd: 446606
 ---
 
-**Engineering Notice for Bailey's Crossroads:** Domestic water distribution review emphasizes hardness-driven scaling risk (~137 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Bailey's Crossroads:** Supply line, cleanout, and water heater scope recorded at 259 ft elevation context (Fairfax County).
 
+
+When a main line backs up in Bailey's Crossroads, VA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing restoration in Bailey's Crossroads, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Polybutylene manifold tags in Bailey's Crossroads, VA basements should be photographed before any wall chase opens.
 
@@ -26,7 +29,7 @@ Irrigation cross-connections in Bailey's Crossroads, VA can back-siphon domestic
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Step: verify expansion tank pre-charge when heaters are replaced.
 
@@ -47,8 +50,6 @@ Dual-water-meter setups in Bailey's Crossroads, VA irrigation zones need backflo
 Supply audit 660023: curb-stop orientation and hose-bib freeze flag reviewed for Bailey's Crossroads, VA at coords 38.8500/-77.1300.
 
 Intake ledger 660023: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Bailey's Crossroads, VA at 38.8500, -77.1300.
-
-Scope trace: slab penetration sleeve seal plus water heater T&P path referenced in Fairfax County county grid review.
 
 Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Bailey's Crossroads, VA before niche-specific work begins.
 

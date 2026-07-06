@@ -12,11 +12,14 @@ lng: -97.7300
 zipSample: ["76596", "76598", "76528", "76599", "76597"]
 zipCodes: ["76528", "76597", "76599", "76596", "76598"]
 localPaths: ["Coryell County / ZIP 76596 sector", "Coryell County / ZIP 76528 sector", "Coryell County / coords 31.4400, -97.7300", "Coryell County / ZIP 76599 sector", "Coryell County / ZIP 76598 sector"]
-zillowHomeValueUsd: 243063
 ---
 
-**Engineering Notice for Gatesville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~111 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Coryell County.
+**Engineering Notice for Gatesville:** Emergency leak and drain triage uses ~111 mg/L hardness context with Coryell County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Gatesville, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Coryell County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+Qualified plumbing crews serving Gatesville, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 

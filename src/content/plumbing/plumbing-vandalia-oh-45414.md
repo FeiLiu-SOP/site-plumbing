@@ -12,11 +12,14 @@ lng: -84.1900
 zipSample: ["45377", "45414"]
 zipCodes: ["45414", "45377"]
 localPaths: ["Montgomery County / ZIP 45414 sector", "Montgomery County / primary ZIP 45414", "Montgomery County / coords 39.8800, -84.1900", "Montgomery County / elevation 958 ft band", "Montgomery County / ZIP 45377 sector"]
-zillowHomeValueUsd: 180248
 ---
 
-**Engineering Notice for Vandalia:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Vandalia:** Supply line, cleanout, and water heater scope recorded at 958 ft elevation context (Montgomery County).
 
+
+Licensed plumbing crews serving Vandalia, OH review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Vandalia, OH may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Montgomery County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Tip: Photograph PRV tags and meter sets before wall access near ZIP 45414.
 
@@ -34,7 +37,7 @@ Dual-water-meter setups in Vandalia, OH irrigation zones need backflow logs befo
 
 Tip: Avoid chemical drain treatments before camera inspection—they can obscure failure modes.
 
-Dispatch packets reference county grid Montgomery County near ZIP 45414.
+Our Vandalia, OH service packets reference Montgomery County near ZIP 45414 for pipe and leak scope.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 
@@ -43,8 +46,6 @@ Branch wet vents in Vandalia, OH can mask gurgling as a main-line issue.
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Lineage note 287582: recirculation pump amp draw captured before Vandalia, OH branch isolation.
-
-plumbing brief: recirculation pump amp draw and branch wet vent geometry were cross-checked for the Vandalia intake packet.
 
 Primary postal anchor 45414 with multi-ZIP overlap in Vandalia; field packets tag Montgomery County for county-grid reconciliation.
 

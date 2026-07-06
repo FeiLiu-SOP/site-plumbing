@@ -12,17 +12,20 @@ lng: -88.0100
 zipSample: ["53132"]
 zipCodes: ["53132"]
 localPaths: ["Milwaukee County / elevation 755 ft band", "Milwaukee County / coords 42.8900, -88.0100", "Milwaukee County / ZIP 53132 sector", "Milwaukee County / primary ZIP 53132"]
-zillowHomeValueUsd: 439601
 ---
 
-**Engineering Notice for Franklin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~153 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Milwaukee County.
+**Engineering Notice for Franklin:** Emergency leak and drain triage uses ~153 mg/L hardness context with Milwaukee County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Franklin, WI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Milwaukee County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency plumbing technician service in Franklin, WI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Milwaukee County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 CPVC solvent weld times shift with ambient humidity during Franklin, WI shoulder seasons.
 
 Stack vent offsets in Franklin, WI older duplexes can mask tub gurgle as a main-line failure.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Tip: Keep prior snaking receipts to show recurring blockage locations.
 

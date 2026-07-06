@@ -12,11 +12,14 @@ lng: -105.1100
 zipSample: ["80128", "80127", "80123", "80162"]
 zipCodes: ["80162", "80127", "80123", "80128"]
 localPaths: ["Jefferson County / ZIP 80127 sector", "Jefferson County / primary ZIP 80128", "Jefferson County / ZIP 80162 sector", "Jefferson County / coords 39.5800, -105.1100", "Jefferson County / ZIP 80123 sector"]
-zillowHomeValueUsd: 602652
 ---
 
-**Engineering Notice for Ken Caryl:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Ken Caryl:** Supply line, cleanout, and water heater scope recorded at 5807 ft elevation context (Jefferson County).
 
+
+Burst pipe and drain clog calls in Ken Caryl, CO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Jefferson County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Emergency licensed plumber service in Ken Caryl, CO often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Jefferson County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Ken Caryl, CO systems need rebalancing.
 

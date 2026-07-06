@@ -12,15 +12,18 @@ lng: -98.3100
 zipSample: ["78148"]
 zipCodes: ["78148"]
 localPaths: ["Bexar County / coords 29.5500, -98.3100", "Bexar County / primary ZIP 78148", "Bexar County / ZIP 78148 sector", "Bexar County / elevation 846 ft band"]
-zillowHomeValueUsd: 265124
 ---
 
-**Engineering Notice for Universal City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~141 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
+**Engineering Notice for Universal City:** Emergency leak and drain triage uses ~141 mg/L hardness context with Bexar County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Universal City, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Universal City, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Bexar County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 

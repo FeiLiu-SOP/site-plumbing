@@ -12,12 +12,14 @@ lng: -65.9800
 zipSample: ["00985", "00987", "00988", "00982", "00984"]
 zipCodes: ["00986", "00988", "00987", "00979", "00981", "00985", "00984", "00982", "00983"]
 localPaths: ["Carolina County / elevation 30 ft band", "Carolina County / coords 18.4100, -65.9800", "Carolina County / primary ZIP 00979", "Carolina County / ZIP 00984 sector", "Carolina County / ZIP 00988 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 371769
 ---
 
-**Engineering Notice for Carolina:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Carolina County.
+**Engineering Notice for Carolina:** Emergency leak and drain triage uses ~176 mg/L hardness context with Carolina County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Carolina, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Carolina County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Carolina, PR, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -48,8 +50,6 @@ FAQ: Can partial repiping solve pinholes? Clustered failures often justify stage
 FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
 Supply audit 905489: curb-stop orientation and hose-bib freeze flag reviewed for Carolina, PR at coords 18.4100/-65.9800.
-
-plumbing brief: water heater T&P path and jetter nozzle envelope were cross-checked for the Carolina intake packet.
 
 Primary postal anchor 00979 with multi-ZIP overlap in Carolina; field packets tag Carolina County for county-grid reconciliation.
 

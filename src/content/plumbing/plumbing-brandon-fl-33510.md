@@ -12,11 +12,14 @@ lng: -82.3000
 zipSample: ["33509", "33594", "33619", "33595", "33584"]
 zipCodes: ["33510", "33508", "33595", "33594", "33509", "33511", "33584", "33619"]
 localPaths: ["Hillsborough County / ZIP 33584 sector", "Hillsborough County / ZIP 33594 sector", "Hillsborough County / coords 27.9400, -82.3000", "Hillsborough County / ZIP 33595 sector", "Hillsborough County / primary ZIP 33510"]
-zillowHomeValueUsd: 344969
 ---
 
-**Engineering Notice for Brandon:** Domestic water distribution review emphasizes hardness-driven scaling risk (~144 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Brandon:** Emergency leak and drain triage uses ~144 mg/L hardness context with Hillsborough County service-area notes for pipe and fixture repairs.
 
+
+Burst pipe and drain clog calls in Brandon, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Hillsborough County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Brandon, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 FAQ: Why do fixtures hammer after PRV service? Residual air and setpoint drift in Brandon, FL systems need rebalancing.
 

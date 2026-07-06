@@ -12,11 +12,14 @@ lng: -122.2700
 zipSample: ["94502", "94501"]
 zipCodes: ["94502", "94501"]
 localPaths: ["Alameda County / ZIP 94502 sector", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94501 sector", "Alameda County / elevation 16 ft band", "Alameda County / coords 37.7700, -122.2700"]
-zillowHomeValueUsd: 1146622
 ---
 
-**Engineering Notice for Alameda:** Domestic water distribution review emphasizes hardness-driven scaling risk (~176 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Alameda County.
+**Engineering Notice for Alameda:** Supply line, cleanout, and water heater scope recorded at 16 ft elevation context (Alameda County).
 
+
+Burst pipe and drain clog calls in Alameda, CA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Alameda County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Alameda, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -38,15 +41,13 @@ FAQ: When should sump battery backups be load-tested? In Alameda, CA, before spr
 
 About us: Drain cleaning scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Sump discharge freeze risk in Alameda, CA should be reviewed before spring thaw cycles.
 
 Supply audit 834547: curb-stop orientation and hose-bib freeze flag reviewed for Alameda, CA at coords 37.7700/-122.2700.
 
 Drain map 834547: camera-pass priority and expansion-tank pre-charge noted for Alameda, CA postal sector 94501.
-
-Field routing: PRV outlet curve paired with fixture shutoff torque log near ZIP 94501.
 
 ZIP-corridor snapshot for Alameda, CA: sampled sectors include 94502, 94501; county routing grid remains Alameda County.
 

@@ -12,11 +12,14 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / primary ZIP 85705", "Pima County / ZIP 85705 sector", "Pima County / coords 32.2900, -111.0100"]
-zillowHomeValueUsd: 254260
 ---
 
-**Engineering Notice for Flowing Wells:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pima County.
+**Engineering Notice for Flowing Wells:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pima County.
 
+
+Plumbing remediation in Flowing Wells, AZ, Pima County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Flowing Wells, AZ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Pima County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: In Flowing Wells, AZ, slab leaks can misroute as foundation issues without listening equipment.
 

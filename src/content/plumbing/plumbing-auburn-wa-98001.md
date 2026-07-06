@@ -12,11 +12,14 @@ lng: -122.2100
 zipSample: ["98092", "98001", "98002"]
 zipCodes: ["98002", "98001", "98092"]
 localPaths: ["King County / coords 47.3000, -122.2100", "King County / ZIP 98001 sector", "King County / ZIP 98002 sector", "King County / elevation 92 ft band", "King County / primary ZIP 98001"]
-zillowHomeValueUsd: 640553
 ---
 
-**Engineering Notice for Auburn:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for Auburn:** Supply line, cleanout, and water heater scope recorded at 92 ft elevation context (King County).
 
+
+Licensed plumbing crews serving Auburn, WA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Plumbing restoration in Auburn, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Hydrostatic holds in Auburn, WA slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -43,8 +46,6 @@ Code note: T&P discharge must not terminate where scalding risk or structural da
 Branch wet vents in Auburn, WA can mask gurgling as a main-line issue.
 
 Supply audit 818695: curb-stop orientation and hose-bib freeze flag reviewed for Auburn, WA at coords 47.3000/-122.2100.
-
-Field routing: sump float travel paired with shower cartridge seat score near ZIP 98001.
 
 Coordinate-anchored dispatch note: center reference 47.3000, -122.2100 at elevation ~92 ft aligns with King County intake staging.
 

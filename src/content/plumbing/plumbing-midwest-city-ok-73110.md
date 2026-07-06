@@ -12,11 +12,14 @@ lng: -97.3700
 zipSample: ["73141", "73110", "73196", "73140", "73130"]
 zipCodes: ["73196", "73110", "73130", "73141", "73140"]
 localPaths: ["Oklahoma County / ZIP 73130 sector", "Oklahoma County / coords 35.4600, -97.3700", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / ZIP 73110 sector", "Oklahoma County / ZIP 73141 sector"]
-zillowHomeValueUsd: 143521
 ---
 
-**Engineering Notice for Midwest City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~146 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Midwest City:** Emergency leak and drain triage uses ~146 mg/L hardness context with Oklahoma County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Midwest City, OK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Plumbing remediation in Midwest City, OK, Oklahoma County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 

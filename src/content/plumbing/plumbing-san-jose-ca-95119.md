@@ -12,11 +12,14 @@ lng: -121.8500
 zipSample: ["95002", "95154", "95129", "95106", "95164"]
 zipCodes: ["95127", "95134", "95141", "95109", "95148", "95154", "95136", "95139", "95132", "95150", "95153", "95125"]
 localPaths: ["Santa Clara County / ZIP 95154 sector", "Santa Clara County / coords 37.3000, -121.8500", "Santa Clara County / ZIP 95002 sector", "Santa Clara County / primary ZIP 95119", "Santa Clara County / elevation 108 ft band"]
-zillowHomeValueUsd: 1457682
 ---
 
-**Engineering Notice for San Jose:** Domestic water distribution review emphasizes hardness-driven scaling risk (~148 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for San Jose:** Supply line, cleanout, and water heater scope recorded at 108 ft elevation context (Santa Clara County).
 
+
+When a main line backs up in San Jose, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Plumbing restoration in San Jose, CA, Santa Clara County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 

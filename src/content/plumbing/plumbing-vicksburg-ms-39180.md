@@ -12,11 +12,14 @@ lng: -90.8900
 zipSample: ["39183", "39180", "39181", "39182"]
 zipCodes: ["39181", "39180", "39182", "39183"]
 localPaths: ["Warren County / ZIP 39183 sector", "Warren County / ZIP 39181 sector", "Warren County / primary ZIP 39180", "Warren County / ZIP 39180 sector", "Warren County / ZIP 39182 sector"]
-zillowHomeValueUsd: 144082
 ---
 
-**Engineering Notice for Vicksburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~114 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Warren County.
+**Engineering Notice for Vicksburg:** Supply line, cleanout, and water heater scope recorded at 253 ft elevation context (Warren County).
 
+
+Certified plumbing crews serving Vicksburg, MS review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Vicksburg, MS may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Warren County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Sewer gas odors in Vicksburg, MS should trigger trap seal and vent path review.
 
@@ -47,8 +50,6 @@ Material note: No-hub cast iron couplings require torque verification after sett
 Technicians log static and dynamic pressure before opening any wall access panel.
 
 Fixture roster 421766: toilet flange spacer kit and shower cartridge seat score queued for Vicksburg, MS walk-through.
-
-Field routing: jetter nozzle envelope paired with toilet flange spacer kit near ZIP 39180.
 
 On-site sector marker: Warren County / ZIP 39182 sector — logged for map parity and ZIP-corridor verification.
 

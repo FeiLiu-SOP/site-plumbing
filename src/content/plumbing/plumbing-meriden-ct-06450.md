@@ -12,11 +12,14 @@ lng: -72.7900
 zipSample: ["06450", "06451"]
 zipCodes: ["06450", "06451"]
 localPaths: ["South Central Connecticut County / elevation 171 ft band", "South Central Connecticut County / ZIP 06451 sector", "South Central Connecticut County / coords 41.5400, -72.7900", "South Central Connecticut County / primary ZIP 06450", "South Central Connecticut County / ZIP 06450 sector"]
-zillowHomeValueUsd: 310144
 ---
 
-**Engineering Notice for Meriden:** Domestic water distribution review emphasizes hardness-driven scaling risk (~150 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for Meriden:** Supply line, cleanout, and water heater scope recorded at 171 ft elevation context (South Central Connecticut County).
 
+
+Burst pipe and drain clog calls in Meriden, CT may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in South Central Connecticut County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Plumbing service in Meriden, CT, South Central Connecticut County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Tip: Log sump cycle frequency during heavy rain windows.
 

@@ -12,16 +12,18 @@ lng: -67.1400
 zipSample: ["00682", "00680", "00681"]
 zipCodes: ["00681", "00680", "00682"]
 localPaths: ["Mayagüez County / coords 18.2000, -67.1400", "Mayagüez County / ZIP 00680 sector", "Mayagüez County / primary ZIP 00682", "Mayagüez County / ZIP 00681 sector", "Mayagüez County / elevation 75 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 362374
 ---
 
-**Engineering Notice for Mayagüez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Mayagüez County.
+**Engineering Notice for Mayagüez:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Mayagüez County.
 
+
+Plumbing remediation in Mayagüez, PR, Mayagüez County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in Mayagüez, PR often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Mayagüez County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Step: camera-pass main lines in Mayagüez, PR before jetting older clay or cast iron.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 FAQ: When should sump battery backups be load-tested? In Mayagüez, PR, before spring thaw and hurricane remnants.
 

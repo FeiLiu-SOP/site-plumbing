@@ -12,11 +12,14 @@ lng: -78.5100
 zipSample: ["27588", "27587"]
 zipCodes: ["27587", "27588"]
 localPaths: ["Wake County / ZIP 27587 sector", "Wake County / coords 35.9600, -78.5100", "Wake County / elevation 348 ft band", "Wake County / ZIP 27588 sector", "Wake County / primary ZIP 27587"]
-zillowHomeValueUsd: 512252
 ---
 
-**Engineering Notice for Wake Forest:** Domestic water distribution review emphasizes hardness-driven scaling risk (~177 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wake County.
+**Engineering Notice for Wake Forest:** Supply line, cleanout, and water heater scope recorded at 348 ft elevation context (Wake County).
 
+
+Emergency plumbing pro service in Wake Forest, NC often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Wake County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Wake Forest, NC may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wake County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Trenchless sleeve pulls near Wake Forest, NC require pit shoring notes when water tables are high.
 
@@ -46,7 +49,7 @@ Brass ball valves should be exercised quarterly in hard-water districts.
 
 Supply audit 444729: curb-stop orientation and hose-bib freeze flag reviewed for Wake Forest, NC at coords 35.9600/-78.5100.
 
-Scope trace: gas water heater draft hood gap plus jetter nozzle envelope referenced in Wake County county grid review.
+Scope trace: gas water heater draft hood gap plus jetter nozzle envelope referenced in Wake County drain and water line review.
 
 Regional mesh label Wake County: moisture and logistics baselines are keyed to Wake Forest, NC before niche-specific work begins.
 

@@ -12,11 +12,14 @@ lng: -88.0800
 zipSample: ["60139", "60132"]
 zipCodes: ["60132", "60139"]
 localPaths: ["DuPage County / coords 41.9200, -88.0800", "DuPage County / elevation 810 ft band", "DuPage County / primary ZIP 60139", "DuPage County / ZIP 60132 sector", "DuPage County / ZIP 60139 sector"]
-zillowHomeValueUsd: 317494
 ---
 
-**Engineering Notice for Glendale Heights:** Domestic water distribution review emphasizes hardness-driven scaling risk (~136 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DuPage County.
+**Engineering Notice for Glendale Heights:** Emergency leak and drain triage uses ~136 mg/L hardness context with DuPage County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Glendale Heights, IL, DuPage County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency qualified plumber service in Glendale Heights, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in DuPage County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
 
 Hose bib split patterns in Glendale Heights, IL often follow missed winterization.
 
@@ -44,7 +47,7 @@ Cast-iron hub corrosion in Glendale Heights, IL often concentrates at the third 
 
 Intake ledger 175452: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Glendale Heights, IL at 41.9200, -88.0800.
 
-Scope trace: toilet flange spacer kit plus slab leak listening window referenced in DuPage County county grid review.
+Scope trace: toilet flange spacer kit plus slab leak listening window referenced in DuPage County drain and water line review.
 
 On-site sector marker: DuPage County / ZIP 60139 sector — logged for map parity and ZIP-corridor verification.
 

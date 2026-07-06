@@ -12,11 +12,14 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / primary ZIP 19460", "Chester County / coords 40.1400, -75.5200", "Chester County / elevation 131 ft band", "Chester County / ZIP 19460 sector"]
-zillowHomeValueUsd: 517807
 ---
 
-**Engineering Notice for Phoenixville:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Chester County.
+**Engineering Notice for Phoenixville:** Emergency leak and drain triage uses ~155 mg/L hardness context with Chester County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving Phoenixville, PA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Phoenixville, PA may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Chester County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 CPVC solvent weld times shift with ambient humidity during Phoenixville, PA shoulder seasons.
 
@@ -30,7 +33,7 @@ Water heater T&P discharge paths in Phoenixville, PA must terminate safely befor
 
 Branch wet vents in Phoenixville, PA can mask gurgling as a main-line issue.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Brass ball valves should be exercised quarterly in hard-water districts.
 

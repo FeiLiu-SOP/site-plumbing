@@ -12,11 +12,14 @@ lng: -82.4200
 zipSample: ["33571", "33570", "33575"]
 zipCodes: ["33571", "33570", "33575"]
 localPaths: ["Hillsborough County / ZIP 33571 sector", "Hillsborough County / ZIP 33570 sector", "Hillsborough County / coords 27.7100, -82.4200", "Hillsborough County / primary ZIP 33570", "Hillsborough County / elevation 23 ft band"]
-zillowHomeValueUsd: 314391
 ---
 
-**Engineering Notice for Ruskin:** Domestic water distribution review emphasizes hardness-driven scaling risk (~138 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Ruskin:** Supply line, cleanout, and water heater scope recorded at 23 ft elevation context (Hillsborough County).
 
+
+Plumbing restoration in Ruskin, FL, Hillsborough County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Ruskin, FL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -45,8 +48,6 @@ Confirm cleanout locations during the same visit. Serving ZIP Code: 33570.
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
 Fixture roster 507344: toilet flange spacer kit and shower cartridge seat score queued for Ruskin, FL walk-through.
-
-Scope trace: backflow test cock orientation plus PRV outlet curve referenced in Hillsborough County county grid review.
 
 ZIP-corridor snapshot for Ruskin, FL: sampled sectors include 33571, 33570, 33575; county routing grid remains Hillsborough County.
 

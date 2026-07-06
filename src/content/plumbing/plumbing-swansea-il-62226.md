@@ -12,11 +12,14 @@ lng: -89.9900
 zipSample: ["62226"]
 zipCodes: ["62226"]
 localPaths: ["St. Clair County / elevation 574 ft band", "St. Clair County / coords 38.5500, -89.9900", "St. Clair County / primary ZIP 62226", "St. Clair County / ZIP 62226 sector"]
-zillowHomeValueUsd: 180666
 ---
 
-**Engineering Notice for Swansea:** Domestic water distribution review emphasizes hardness-driven scaling risk (~166 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Swansea:** Emergency leak and drain triage uses ~166 mg/L hardness context with St. Clair County service-area notes for pipe and fixture repairs.
 
+
+When a main line backs up in Swansea, IL, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Swansea, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: Jetting without camera proof can damage fragile clay joints.
 
@@ -45,8 +48,6 @@ Book sump and supply-line checks in one written scope. Serving ZIP Code: 62226.
 Step: verify expansion tank pre-charge when heaters are replaced.
 
 Pressure trace 734134: meter-pit clearance and dielectric union checklist staged for Swansea, IL near elevation 574 ft.
-
-Scope trace: gas water heater draft hood gap plus recirculation pump amp draw referenced in St. Clair County county grid review.
 
 Primary postal anchor 62226 with multi-ZIP overlap in Swansea; field packets tag St. Clair County for county-grid reconciliation.
 

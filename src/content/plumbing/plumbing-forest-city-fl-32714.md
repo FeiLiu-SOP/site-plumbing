@@ -12,11 +12,14 @@ lng: -81.4400
 zipSample: ["32703", "32714"]
 zipCodes: ["32703", "32714"]
 localPaths: ["Seminole County / ZIP 32714 sector", "Seminole County / coords 28.6600, -81.4400", "Seminole County / elevation 128 ft band", "Seminole County / ZIP 32703 sector", "Seminole County / primary ZIP 32714"]
-zillowHomeValueUsd: 303017
 ---
 
-**Engineering Notice for Forest City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Seminole County.
+**Engineering Notice for Forest City:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Seminole County.
 
+
+Burst pipe and drain clog calls in Forest City, FL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Seminole County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Certified plumbing crews serving Forest City, FL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Risk flag: In Forest City, FL, slab leaks can misroute as foundation issues without listening equipment.
 
@@ -40,15 +43,13 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 
 FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch packets reference county grid Seminole County near ZIP 32714.
+Our Forest City, FL service packets reference Seminole County near ZIP 32714 for pipe and leak scope.
 
 About us: We frame plumbing jobs around access, pressure evidence, and code-credible venting—not guesswork.
 
 In Forest City, FL, slab leaks often present as warm spots before wall stains appear.
 
 Flow dossier 889055: branch wet-vent geometry and jetting nozzle envelope logged for Forest City, FL county grid Seminole County (ZIP 32714).
-
-Field routing: water heater T&P path paired with copper pinhole cluster near ZIP 32714.
 
 On-site sector marker: Seminole County / primary ZIP 32714 — logged for map parity and ZIP-corridor verification.
 

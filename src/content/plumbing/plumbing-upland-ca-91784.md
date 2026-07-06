@@ -12,11 +12,14 @@ lng: -117.6600
 zipSample: ["91785", "91784", "91786"]
 zipCodes: ["91786", "91784", "91785"]
 localPaths: ["San Bernardino County / ZIP 91784 sector", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / elevation 1483 ft band", "San Bernardino County / ZIP 91785 sector", "San Bernardino County / ZIP 91786 sector"]
-zillowHomeValueUsd: 986171
 ---
 
-**Engineering Notice for Upland:** Domestic water distribution review emphasizes hardness-driven scaling risk (~118 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Upland:** Supply line, cleanout, and water heater scope recorded at 1483 ft elevation context (San Bernardino County).
 
+
+When a main line backs up in Upland, CA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line restoration with realistic access windows.
+
+Licensed plumbing crews serving Upland, CA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Step: pressure-hold domestic lines before declaring leak isolation complete.
 
@@ -40,7 +43,7 @@ Basement floor drains in Upland, CA should be snaked only after trap arm geometr
 
 Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Hydro-jetting in Upland, CA requires camera confirmation before nozzle pressure is raised.
 

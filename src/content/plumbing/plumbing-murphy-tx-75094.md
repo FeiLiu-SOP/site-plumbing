@@ -12,11 +12,14 @@ lng: -96.6100
 zipSample: ["75094"]
 zipCodes: ["75094"]
 localPaths: ["Collin County / coords 33.0200, -96.6100", "Collin County / ZIP 75094 sector", "Collin County / primary ZIP 75094", "Collin County / elevation 584 ft band"]
-zillowHomeValueUsd: 569627
 ---
 
-**Engineering Notice for Murphy:** Domestic water distribution review emphasizes hardness-driven scaling risk (~145 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Collin County.
+**Engineering Notice for Murphy:** Emergency leak and drain triage uses ~145 mg/L hardness context with Collin County service-area notes for pipe and fixture repairs.
 
+
+Licensed plumbing crews serving Murphy, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Burst pipe and drain clog calls in Murphy, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Collin County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Hydrostatic holds in Murphy, TX slab circuits run overnight when listening mics show ambiguous hits.
 
@@ -45,8 +48,6 @@ Risk flag: Over-pressurized lines after PRV failure can stress appliance connect
 Drain map 849346: camera-pass priority and expansion-tank pre-charge noted for Murphy, TX postal sector 75094.
 
 Lineage note 849346: recirculation pump amp draw captured before Murphy, TX branch isolation.
-
-plumbing brief: shower cartridge seat score and branch wet vent geometry were cross-checked for the Murphy intake packet.
 
 On-site sector marker: Collin County / primary ZIP 75094 — logged for map parity and ZIP-corridor verification.
 

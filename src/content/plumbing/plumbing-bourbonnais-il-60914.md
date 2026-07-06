@@ -12,11 +12,14 @@ lng: -87.8800
 zipSample: ["60914"]
 zipCodes: ["60914"]
 localPaths: ["Kankakee County / coords 41.1800, -87.8800", "Kankakee County / ZIP 60914 sector", "Kankakee County / primary ZIP 60914", "Kankakee County / elevation 696 ft band"]
-zillowHomeValueUsd: 293416
 ---
 
-**Engineering Notice for Bourbonnais:** Domestic water distribution review emphasizes hardness-driven scaling risk (~154 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Kankakee County.
+**Engineering Notice for Bourbonnais:** Supply line, cleanout, and water heater scope recorded at 696 ft elevation context (Kankakee County).
 
+
+Emergency plumbing pro service in Bourbonnais, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Kankakee County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Burst pipe and drain clog calls in Bourbonnais, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Kankakee County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Water heater T&P discharge paths in Bourbonnais, IL must terminate safely before replacement quotes.
 

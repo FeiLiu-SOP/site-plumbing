@@ -12,11 +12,14 @@ lng: -88.9400
 zipSample: ["62959"]
 zipCodes: ["62959"]
 localPaths: ["Williamson County / primary ZIP 62959", "Williamson County / ZIP 62959 sector", "Williamson County / coords 37.7300, -88.9400", "Williamson County / elevation 443 ft band"]
-zillowHomeValueUsd: 172613
 ---
 
-**Engineering Notice for Marion:** Domestic water distribution review emphasizes hardness-driven scaling risk (~124 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Williamson County.
+**Engineering Notice for Marion:** Supply line, cleanout, and water heater scope recorded at 443 ft elevation context (Williamson County).
 
+
+Emergency plumbing technician service in Marion, IL often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Williamson County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Marion, IL may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Williamson County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
 
 Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
@@ -50,7 +53,7 @@ Intake ledger 238126: sump amperage, PRV seat wear, and cleanout riser height cr
 
 Flow dossier 238126: branch wet-vent geometry and jetting nozzle envelope logged for Marion, IL county grid Williamson County (ZIP 62959).
 
-Scope trace: water softener bypass lever plus recirculation pump amp draw referenced in Williamson County county grid review.
+Scope trace: water softener bypass lever plus recirculation pump amp draw referenced in Williamson County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 37.7300, -88.9400 at elevation ~443 ft aligns with Williamson County intake staging.
 

@@ -12,11 +12,14 @@ lng: -97.4200
 zipSample: ["73003", "73013", "73007", "73034"]
 zipCodes: ["73013", "73003", "73007", "73034"]
 localPaths: ["Oklahoma County / ZIP 73034 sector", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73013 sector", "Oklahoma County / primary ZIP 73013", "Oklahoma County / ZIP 73007 sector"]
-zillowHomeValueUsd: 326240
 ---
 
-**Engineering Notice for Edmond:** Domestic water distribution review emphasizes hardness-driven scaling risk (~157 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Edmond:** Emergency leak and drain triage uses ~157 mg/L hardness context with Oklahoma County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Edmond, OK, Oklahoma County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Edmond, OK, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Technicians log static and dynamic pressure before opening any wall access panel.
 

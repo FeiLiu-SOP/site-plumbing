@@ -12,15 +12,18 @@ lng: -95.7700
 zipSample: ["74502", "74501"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74501 sector", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501", "Pittsburg County / elevation 758 ft band", "Pittsburg County / ZIP 74502 sector"]
-zillowHomeValueUsd: 152296
 ---
 
-**Engineering Notice for McAlester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Pittsburg County.
+**Engineering Notice for McAlester:** Domestic water distribution review emphasizes hardness-driven scaling risk (~134 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Pittsburg County.
 
+
+Plumbing remediation in McAlester, OK, Pittsburg County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Emergency plumbing technician service in McAlester, OK often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent service scope is written. Homeowners in Pittsburg County should note shutoff locations and photograph visible water mitigation before crews arrive.
 
 Risk flag: In McAlester, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 CPVC solvent weld times shift with ambient humidity during McAlester, OK shoulder seasons.
 
@@ -50,7 +53,7 @@ Flow dossier 660846: branch wet-vent geometry and jetting nozzle envelope logged
 
 Intake ledger 660846: sump amperage, PRV seat wear, and cleanout riser height cross-checked for McAlester, OK at 34.9300, -95.7700.
 
-Field routing: PRV outlet curve paired with sump float travel near ZIP 74501.
+Local service note: PRV outlet curve paired with sump float travel near ZIP 74501 for emergency plumbing technician repairs.
 
 Regional mesh label Pittsburg County: moisture and logistics baselines are keyed to McAlester, OK before niche-specific work begins.
 

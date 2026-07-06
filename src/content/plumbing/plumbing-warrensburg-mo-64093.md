@@ -12,11 +12,14 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / primary ZIP 64093", "Johnson County / coords 38.7600, -93.7300", "Johnson County / ZIP 64093 sector", "Johnson County / elevation 837 ft band"]
-zillowHomeValueUsd: 266527
 ---
 
-**Engineering Notice for Warrensburg:** Domestic water distribution review emphasizes hardness-driven scaling risk (~140 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Johnson County.
+**Engineering Notice for Warrensburg:** Supply line, cleanout, and water heater scope recorded at 837 ft elevation context (Johnson County).
 
+
+Burst pipe and drain clog calls in Warrensburg, MO may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Johnson County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+Licensed plumbing crews serving Warrensburg, MO review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: PEX expansion fittings require calibrated tool rotation counts.
 
@@ -43,6 +46,8 @@ FAQ: What slows emergency response? Missing curb-stop clearance and finished-sur
 Cast-iron hub corrosion in Warrensburg, MO often concentrates at the third joint upstream of the cleanout.
 
 Drain map 462990: camera-pass priority and expansion-tank pre-charge noted for Warrensburg, MO postal sector 64093.
+
+Local service note: scale coupon sampling paired with slab penetration sleeve seal near ZIP 64093 for emergency plumbing technician repairs.
 
 Regional mesh label Johnson County: moisture and logistics baselines are keyed to Warrensburg, MO before niche-specific work begins.
 

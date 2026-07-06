@@ -12,11 +12,14 @@ lng: -84.2000
 zipSample: ["30084", "30085", "30087", "30083"]
 zipCodes: ["30084", "30083", "30085", "30087"]
 localPaths: ["DeKalb County / coords 33.8400, -84.2000", "DeKalb County / elevation 1079 ft band", "DeKalb County / ZIP 30083 sector", "DeKalb County / ZIP 30084 sector", "DeKalb County / primary ZIP 30087"]
-zillowHomeValueUsd: 346174
 ---
 
-**Engineering Notice for Tucker:** Domestic water distribution review emphasizes hardness-driven scaling risk (~115 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Tucker:** Supply line, cleanout, and water heater scope recorded at 1079 ft elevation context (DeKalb County).
 
+
+Emergency plumbing pro service in Tucker, GA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in DeKalb County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Qualified plumbing crews serving Tucker, GA review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
@@ -47,8 +50,6 @@ Step: photograph curb-stop and meter pit before trenching.
 Supply audit 133451: curb-stop orientation and hose-bib freeze flag reviewed for Tucker, GA at coords 33.8400/-84.2000.
 
 Drain map 133451: camera-pass priority and expansion-tank pre-charge noted for Tucker, GA postal sector 30087.
-
-Scope trace: shower cartridge seat score plus hose bib freeze flag referenced in DeKalb County county grid review.
 
 Regional mesh label DeKalb County: moisture and logistics baselines are keyed to Tucker, GA before niche-specific work begins.
 

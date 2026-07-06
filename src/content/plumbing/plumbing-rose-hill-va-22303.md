@@ -12,11 +12,14 @@ lng: -77.1100
 zipSample: ["22303", "22310"]
 zipCodes: ["22303", "22310"]
 localPaths: ["Fairfax County / primary ZIP 22303", "Fairfax County / ZIP 22303 sector", "Fairfax County / ZIP 22310 sector", "Fairfax County / coords 38.7900, -77.1100", "Fairfax County / elevation 184 ft band"]
-zillowHomeValueUsd: 562659
 ---
 
-**Engineering Notice for Rose Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Rose Hill:** Domestic water distribution review emphasizes hardness-driven scaling risk (~131 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Fairfax County.
 
+
+Emergency plumbing technician service in Rose Hill, VA often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Fairfax County should note shutoff locations and photograph visible water loss cleanup before crews arrive.
+
+Plumbing restoration in Rose Hill, VA, Fairfax County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -47,8 +50,6 @@ Step: isolate fixture traps before main-line jetting to prevent cross-contaminat
 Step: map sump float travel and check-valve orientation for Rose Hill, VA basements.
 
 Fixture roster 641143: toilet flange spacer kit and shower cartridge seat score queued for Rose Hill, VA walk-through.
-
-Scope trace: hose bib freeze flag plus sewer cleanout cap thread referenced in Fairfax County county grid review.
 
 On-site sector marker: Fairfax County / elevation 184 ft band — logged for map parity and ZIP-corridor verification.
 

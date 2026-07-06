@@ -12,13 +12,16 @@ lng: -75.5900
 zipSample: ["21804", "21801"]
 zipCodes: ["21804", "21801"]
 localPaths: ["Wicomico County / ZIP 21801 sector", "Wicomico County / coords 38.3800, -75.5900", "Wicomico County / ZIP 21804 sector", "Wicomico County / elevation 39 ft band", "Wicomico County / primary ZIP 21804"]
-zillowHomeValueUsd: 249333
 ---
 
-**Engineering Notice for Salisbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Wicomico County.
+**Engineering Notice for Salisbury:** Domestic water distribution review emphasizes hardness-driven scaling risk (~159 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Wicomico County.
 
 
-Step: log PRV inlet and outlet readings during intake.
+When a main line backs up in Salisbury, MD, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
+
+Burst pipe and drain clog calls in Salisbury, MD may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Wicomico County clarifies whether fixture service, branch-line cleaning, or repiping fits the failure pattern.
+
+Step: log PRV inlet and outlet readings during scope review.
 
 Branch wet vents in Salisbury, MD can mask gurgling as a main-line issue.
 
@@ -50,7 +53,7 @@ Lineage note 353168: recirculation pump amp draw captured before Salisbury, MD b
 
 Pressure trace 353168: meter-pit clearance and dielectric union checklist staged for Salisbury, MD near elevation 39 ft.
 
-Scope trace: hose bib freeze flag plus sewer cleanout cap thread referenced in Wicomico County county grid review.
+Scope trace: hose bib freeze flag plus sewer cleanout cap thread referenced in Wicomico County drain and water line review.
 
 On-site sector marker: Wicomico County / primary ZIP 21804 — logged for map parity and ZIP-corridor verification.
 

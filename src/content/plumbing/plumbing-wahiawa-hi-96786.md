@@ -12,11 +12,14 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / coords 21.5000, -158.0200", "Honolulu County / primary ZIP 96786"]
-zillowHomeValueUsd: 850672
 ---
 
-**Engineering Notice for Wahiawa:** Domestic water distribution review emphasizes hardness-driven scaling risk (~142 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Wahiawa:** Emergency leak and drain triage uses ~142 mg/L hardness context with Honolulu County service-area notes for pipe and fixture repairs.
 
+
+Emergency certified plumber service in Wahiawa, HI often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent restoration scope is written. Homeowners in Honolulu County should note shutoff locations and photograph visible moisture restoration before crews arrive.
+
+Burst pipe and drain clog calls in Wahiawa, HI may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Honolulu County clarifies whether fixture restoration, branch-line cleaning, or repiping fits the failure pattern.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -28,7 +31,7 @@ Trenchless pulls in Wahiawa, HI require pit dimensions verified against utility 
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
 Material note: Water heater anode type may change with Wahiawa, HI hardness profiles.
 

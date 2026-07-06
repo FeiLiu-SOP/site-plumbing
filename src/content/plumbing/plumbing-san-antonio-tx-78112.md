@@ -12,11 +12,14 @@ lng: -98.5200
 zipSample: ["78226", "78268", "78248", "78023", "78241"]
 zipCodes: ["78241", "78268", "78225", "78202", "78245", "78252", "78209", "78249", "78228", "78250", "78296", "78215"]
 localPaths: ["Bexar County / elevation 732 ft band", "Bexar County / ZIP 78226 sector", "Bexar County / primary ZIP 78112", "Bexar County / coords 29.4600, -98.5200", "Bexar County / ZIP 78268 sector"]
-zillowHomeValueUsd: 233980
 ---
 
-**Engineering Notice for San Antonio:** Domestic water distribution review emphasizes hardness-driven scaling risk (~167 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Bexar County.
+**Engineering Notice for San Antonio:** Emergency leak and drain triage uses ~167 mg/L hardness context with Bexar County service-area notes for pipe and fixture repairs.
 
+
+Certified plumbing crews serving San Antonio, TX review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
+
+Emergency licensed plumber service in San Antonio, TX often starts with isolating active leaks, clearing drain backups, and stabilizing supply lines before permanent remediation scope is written. Homeowners in Bexar County should note shutoff locations and photograph visible moisture restoration before crews arrive.
 
 Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
@@ -46,7 +49,7 @@ Dual-water-meter setups in San Antonio, TX irrigation zones need backflow logs b
 
 Drain map 210917: camera-pass priority and expansion-tank pre-charge noted for San Antonio, TX postal sector 78112.
 
-plumbing brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the San Antonio intake packet.
+Plumbing restoration brief: thermal expansion loop check and recirculation pump amp draw were cross-checked for the San Antonio pipe and leak scope.
 
 ZIP-corridor snapshot for San Antonio, TX: sampled sectors include 78217, 78214, 78211, 78289, 78212, 78258, 78203, 78266; county routing grid remains Bexar County.
 

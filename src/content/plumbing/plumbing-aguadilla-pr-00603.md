@@ -12,12 +12,14 @@ lng: -67.1500
 zipSample: ["00603", "00605"]
 zipCodes: ["00605", "00603"]
 localPaths: ["Aguadilla County / elevation 131 ft band", "Aguadilla County / coords 18.4400, -67.1500", "Aguadilla County / ZIP 00603 sector", "Aguadilla County / primary ZIP 00603", "Aguadilla County / ZIP 00605 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 369328
 ---
 
-**Engineering Notice for Aguadilla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Aguadilla County.
+**Engineering Notice for Aguadilla:** Domestic water distribution review emphasizes hardness-driven scaling risk (~180 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in Aguadilla County.
 
+
+Plumbing service in Aguadilla, PR, Aguadilla County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Aguadilla, PR may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Aguadilla County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Permit note: Main water line replacement in Aguadilla, PR may require ROW restoration planning.
 

@@ -12,11 +12,14 @@ lng: -97.1900
 zipSample: ["76701", "76799", "76703", "76707", "76706"]
 zipCodes: ["76711", "76798", "76706", "76714", "76708", "76797", "76701", "76704", "76799", "76712", "76702", "76710"]
 localPaths: ["McLennan County / ZIP 76701 sector", "McLennan County / ZIP 76706 sector", "McLennan County / coords 31.5600, -97.1900", "McLennan County / ZIP 76799 sector", "McLennan County / ZIP 76703 sector"]
-zillowHomeValueUsd: 248939
 ---
 
-**Engineering Notice for Waco:** Domestic water distribution review emphasizes hardness-driven scaling risk (~155 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: McLennan County.
+**Engineering Notice for Waco:** Supply line, cleanout, and water heater scope recorded at 531 ft elevation context (McLennan County).
 
+
+Burst pipe and drain clog calls in Waco, TX may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in McLennan County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
+
+When a main line backs up in Waco, TX, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Risk flag: In Waco, TX, slab leaks can misroute as foundation issues without listening equipment.
 

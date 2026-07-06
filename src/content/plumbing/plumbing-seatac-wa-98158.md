@@ -12,11 +12,14 @@ lng: -122.3000
 zipSample: ["98198", "98131", "98168", "98158", "98188"]
 zipCodes: ["98168", "98158", "98198", "98131", "98148", "98188"]
 localPaths: ["King County / coords 47.4400, -122.3000", "King County / ZIP 98198 sector", "King County / ZIP 98158 sector", "King County / elevation 377 ft band", "King County / ZIP 98188 sector"]
-zillowHomeValueUsd: 587760
 ---
 
-**Engineering Notice for SeaTac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: King County.
+**Engineering Notice for SeaTac:** Domestic water distribution review emphasizes hardness-driven scaling risk (~120 mg/L context), PRV staging, and branch isolation checkpoints for plumbing repair in King County.
 
+
+Plumbing remediation in SeaTac, WA, King County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in SeaTac, WA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line service with realistic access windows.
 
 Material note: No-hub cast iron couplings require torque verification after settlement events.
 
@@ -42,9 +45,9 @@ Material note: Water heater anode type may change with SeaTac, WA hardness profi
 
 About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Step: log PRV inlet and outlet readings during intake.
+Step: log PRV inlet and outlet readings during scope review.
 
-Backflow note: Test cock orientation and annual test records should be verified during intake.
+Backflow note: Test cock orientation and annual test records should be verified during scope review.
 
 Lineage note 840852: recirculation pump amp draw captured before SeaTac, WA branch isolation.
 

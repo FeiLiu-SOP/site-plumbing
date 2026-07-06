@@ -12,11 +12,14 @@ lng: -87.5500
 zipSample: ["60438"]
 zipCodes: ["60438"]
 localPaths: ["Cook County / coords 41.5600, -87.5500", "Cook County / elevation 650 ft band", "Cook County / ZIP 60438 sector", "Cook County / primary ZIP 60438"]
-zillowHomeValueUsd: 194848
 ---
 
-**Engineering Notice for Lansing:** Domestic water distribution review emphasizes hardness-driven scaling risk (~129 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Cook County.
+**Engineering Notice for Lansing:** Emergency leak and drain triage uses ~129 mg/L hardness context with Cook County service-area notes for pipe and fixture repairs.
 
+
+Plumbing service in Lansing, IL, Cook County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Certified plumbing crews serving Lansing, IL review PRV readings, water heater connections, and vent paths before quoting repipe or drain work. Emergency dry-down and temporary caps may be scoped separately from long-term pipe replacement.
 
 Permit note: Main water line replacement in Lansing, IL may require ROW restoration planning.
 

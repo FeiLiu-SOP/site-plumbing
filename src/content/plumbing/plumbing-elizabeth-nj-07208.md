@@ -12,11 +12,14 @@ lng: -74.1900
 zipSample: ["07202", "07207", "07201", "07206", "07208"]
 zipCodes: ["07208", "07207", "07202", "07206", "07201"]
 localPaths: ["Union County / ZIP 07208 sector", "Union County / coords 40.6700, -74.1900", "Union County / ZIP 07201 sector", "Union County / ZIP 07206 sector", "Union County / primary ZIP 07208"]
-zillowHomeValueUsd: 572763
 ---
 
-**Engineering Notice for Elizabeth:** Domestic water distribution review emphasizes hardness-driven scaling risk (~175 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Union County.
+**Engineering Notice for Elizabeth:** Emergency leak and drain triage uses ~175 mg/L hardness context with Union County service-area notes for pipe and fixture repairs.
 
+
+Plumbing remediation in Elizabeth, NJ, Union County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+Burst pipe and drain clog calls in Elizabeth, NJ may require camera inspection, pressure tests, and cleanout access review. A leak triage visit in Union County clarifies whether fixture remediation, branch-line cleaning, or repiping fits the failure pattern.
 
 Step: separate fixture repairs from branch-line cleaning in written scope.
 

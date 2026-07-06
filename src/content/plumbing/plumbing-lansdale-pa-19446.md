@@ -12,11 +12,14 @@ lng: -75.2800
 zipSample: ["19446"]
 zipCodes: ["19446"]
 localPaths: ["Montgomery County / ZIP 19446 sector", "Montgomery County / coords 40.2400, -75.2800", "Montgomery County / primary ZIP 19446", "Montgomery County / elevation 374 ft band"]
-zillowHomeValueUsd: 494539
 ---
 
-**Engineering Notice for Lansdale:** Domestic water distribution review emphasizes hardness-driven scaling risk (~143 mg/L context), PRV staging, and branch isolation checkpoints. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Lansdale:** Supply line, cleanout, and water heater scope recorded at 374 ft elevation context (Montgomery County).
 
+
+Plumbing restoration in Lansdale, PA, Montgomery County combines local service context with field notes on hardness scale, sump cycles, and fixture shutoff condition. Written scope should list pipe materials, access assumptions, and code checkpoints.
+
+When a main line backs up in Lansdale, PA, emergency plumbing help focuses on stopping flow damage first—then scheduling drain cleaning, jetting, or line remediation with realistic access windows.
 
 Dual-water-meter setups in Lansdale, PA irrigation zones need backflow logs before line replacement.
 
@@ -50,7 +53,7 @@ Fixture roster 845851: toilet flange spacer kit and shower cartridge seat score 
 
 Intake ledger 845851: sump amperage, PRV seat wear, and cleanout riser height cross-checked for Lansdale, PA at 40.2400, -75.2800.
 
-Scope trace: toilet flange spacer kit plus gas water heater draft hood gap referenced in Montgomery County county grid review.
+Scope trace: toilet flange spacer kit plus gas water heater draft hood gap referenced in Montgomery County drain and water line review.
 
 Coordinate-anchored dispatch note: center reference 40.2400, -75.2800 at elevation ~374 ft aligns with Montgomery County intake staging.
 
